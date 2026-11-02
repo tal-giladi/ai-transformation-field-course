@@ -1,0 +1,37 @@
+/* discovery-interview: page-specific styles (the shared look is in ../common/sim.css). */
+
+.people { display: grid; gap: 8px; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+.person {
+  font: inherit; text-align: left; cursor: pointer;
+  display: flex; flex-direction: column; align-items: flex-start; gap: 2px;
+  padding: 8px 10px; min-height: 44px;
+  background: var(--surface); color: var(--text);
+  border: 1px solid var(--border); border-radius: 8px;
+}
+.person.is-selected { border: 2px solid var(--accent); background: var(--accent-soft); }
+.person-name { font-weight: 700; }
+.person-role { font-size: 0.82rem; color: var(--muted); }
+
+.question-list { list-style: none; padding: 0; margin: 0 0 10px; display: grid; gap: 8px; }
+.question {
+  font: inherit; text-align: left; width: 100%; cursor: pointer;
+  padding: 10px 12px; min-height: 44px;
+  background: var(--surface-2); color: var(--text);
+  border: 1px solid var(--border); border-radius: 8px;
+}
+.question:hover { border-color: var(--accent); }
+
+.transcript { list-style: none; padding: 0; margin: 0; max-height: 520px; overflow-y: auto; }
+.exchange { padding: 8px 0; border-bottom: 1px solid var(--border); }
+.exchange:last-child { border-bottom: 0; }
+.exchange .q { font-weight: 600; margin-bottom: 4px; }
+.exchange .a { margin-bottom: 4px; }
+.exchange .who { color: var(--muted); font-weight: 600; }
+.exchange .tag { margin-left: 6px; }
+.new-fact { color: var(--good); font-weight: 600; }
+
+.choices .choice { display: flex; gap: 10px; align-items: flex-start; padding: 6px 0; }
+.choices input[type="radio"] { margin-top: 4px; width: 18px; height: 18px; flex: none; }
+.facts { list-style: none; padding: 0; }
+.facts li { margin-bottom: 6px; }
+.facts .tag { margin-right: 4px; }

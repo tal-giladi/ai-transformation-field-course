@@ -1,0 +1,4 @@
+/* adoption-dynamics: page-specific styles (the shared look is in ../common/sim.css). */
+
+#stopped td, #stopped th { white-space: nowrap; }
+#runs th[scope="row"] { font-weight: 400; }

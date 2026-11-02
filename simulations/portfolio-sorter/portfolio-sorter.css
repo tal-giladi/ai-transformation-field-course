@@ -1,0 +1,20 @@
+/* portfolio-sorter: page-specific styles (the shared look is in ../common/sim.css). */
+
+.usecase h3 { font-size: 1.05rem; }
+.facts-list { display: grid; grid-template-columns: max-content 1fr; gap: 4px 10px; margin: 8px 0 10px; font-size: 0.92rem; }
+.facts-list dt { font-weight: 600; color: var(--muted); }
+.facts-list dd { margin: 0; }
+@media (max-width: 480px) {
+  .facts-list { grid-template-columns: 1fr; }
+  .facts-list dd { margin-bottom: 6px; }
+}
+.ratings { display: grid; gap: 8px; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); margin: 8px 0; }
+.rating { display: flex; flex-direction: column; gap: 2px; }
+.rating label { font-weight: 600; font-size: 0.9rem; }
+.score { font-weight: 600; margin: 6px 0; }
+.pick-row { display: flex; align-items: center; gap: 8px; }
+.pick-row input { width: 20px; height: 20px; }
+.pick-row label { font-weight: 600; }
+.net .btn, .ask .btn { margin: 4px 0 8px; text-align: left; }
+.bad-text { color: var(--bad); }
+.truth { margin-top: 10px; }

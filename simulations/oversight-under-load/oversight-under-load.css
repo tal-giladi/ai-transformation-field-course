@@ -1,0 +1,3 @@
+/* oversight-under-load: page-specific styles (the shared look is in ../common/sim.css). */
+
+.notes table { margin-top: 8px; }
