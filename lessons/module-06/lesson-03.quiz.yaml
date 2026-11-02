@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    In week 3 Samir asks the champions to send him, every Thursday, the names of colleagues who are
+    "not really using the drafts". What do you do?
+  options:
+    - >-
+      Agree, but only for people who have been low for more than two weeks.
+    - >-
+      Point to the playbook: champions never report people; offer team figures.
+    - >-
+      Agree, since the manager is responsible for adoption and needs the detail.
+    - >-
+      Ask the champions to decide among themselves whether to share the names.
+  correct: 1
+  explanation: >-
+    A champion seen as the manager's eyes stops hearing problems, and the issues log dries up. The
+    limit should be written before anyone asks; the manager gets team and week figures.
+
+- id: q2
+  question: >-
+    The issues log has 14 entries after three weeks, and none has a decision yet. Agents now say "there
+    is no point logging things". What is the fix?
+  options:
+    - >-
+      Add a reward for the agent who logs the most issues each week.
+    - >-
+      Let champions fix the prompts directly so issues close faster.
+    - >-
+      Decide every issue within two huddles and send the team what changed and why.
+    - >-
+      Stop the log and collect feedback in a monthly anonymous survey instead.
+  correct: 2
+  explanation: >-
+    People report when reporting changes something. A decision per issue, even "not now, because",
+    and a short message back to the team close the loop.
+
+- id: q3
+  question: >-
+    Olga is the Russian champion, senior agent, flag clearer, Russian checker and test-set labeller.
+    What is the main risk, and what do you plan?
+  options:
+    - >-
+      A single point of failure; name a back-up for each role and check her hours every two weeks.
+    - >-
+      That others feel left out; rotate the champion role to someone new every week.
+    - >-
+      That she favours Russian issues; give each language a fixed quota of fixes per huddle.
+    - >-
+      That she becomes too enthusiastic; ask Samir to moderate her messages to the team.
+  correct: 0
+  explanation: >-
+    One person holding six roles stops all six when she is away. Back-ups per role and a regular
+    look at her load keep the network from depending on her alone.
+
+- id: q4
+  question: >-
+    Office hours are well attended. The pilot lead suggests recording attendance by name "to see who
+    needs more help". What do you recommend?
+  options:
+    - >-
+      Record names, but share them only with the champions, not the manager.
+    - >-
+      Record names for the first month only, then switch to anonymous counts.
+    - >-
+      Record names, since attendance is a positive signal and nobody will mind.
+    - >-
+      Record topics, not names; a register keeps away the people who need help most.
+  correct: 3
+  explanation: >-
+    Topics tell you what to fix. A register turns a help desk into a check, and the people who most
+    need help are the ones who stop coming.

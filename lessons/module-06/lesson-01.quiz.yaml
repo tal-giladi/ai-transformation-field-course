@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    Samir wants to keep the old "order status" macro in Deskly "just for emergencies" after the drafts
+    go live, since agents know it well. What do you recommend?
+  options:
+    - >-
+      Keep it but rename it so agents know the draft is preferred.
+    - >-
+      Keep it for a month and remove it if usage stays low.
+    - >-
+      Delete it on go-live day, with Samir named as the owner of the change.
+    - >-
+      Keep it only in the Russian and Arabic views, where drafts are newest.
+  correct: 2
+  explanation: >-
+    An old path that stays one click away wins at the end of a busy day, and this one repeats a date
+    that has passed. A removal needs a date and an owner; anything softer keeps it as the default.
+
+- id: q2
+  question: >-
+    Your redesign says agents stop emailing logistics@ and rely on the ETA shown beside the draft. What
+    must be in place before that line is safe?
+  options:
+    - >-
+      A logistics owner who updates the ETA field daily, written into that team's routine.
+    - >-
+      A note in the handbook telling agents to trust the ETA field from now on.
+    - >-
+      A weekly report to the COO on how many chaser emails logistics still receives.
+    - >-
+      A prompt instruction telling the model to say the ETA may change at any time.
+  correct: 0
+  explanation: >-
+    The pilot turns logistics into a receiving team: the drafts are only as right as the field they
+    quote. The duty must be owned and absorbed by that team, or the drafts quote stale dates.
+
+- id: q3
+  question: >-
+    The business case counts about 109 freed agent-hours a month. Two weeks before go-live nobody has
+    said what those hours are for. What is the risk, and what do you do?
+  options:
+    - >-
+      None yet; hours are measured at gate 1 and can be allocated then.
+    - >-
+      They refill unseen; write a destination, an owner and an indicator for them now.
+    - >-
+      They will be claimed by finance; ask the CFO to book them as savings now.
+    - >-
+      They will reduce overtime automatically; tell the team overtime ends in February.
+  correct: 1
+  explanation: >-
+    Saved hours refill by default. Naming where they go, who decides and which number will show it
+    makes the capacity visible and protects the one cash line (no temps at the next peak).
+
+- id: q4
+  question: >-
+    The drafts will be switched on for WhatsApp too. The test set has no WhatsApp messages. What do you
+    write into the redesign?
+  options:
+    - >-
+      Nothing special; a reply is a reply, whichever channel it arrives on.
+    - >-
+      Switch WhatsApp drafts on with email so the team learns one way of working.
+    - >-
+      Keep WhatsApp on the shared phones until the next pilot phase.
+    - >-
+      A short WhatsApp draft style, checked on real WhatsApp messages before switching on.
+  correct: 3
+  explanation: >-
+    Chat replies are short and informal; a letter-style draft is slower to fix than typing. The
+    redesign makes the channel difference explicit and gates it on evidence from that channel.

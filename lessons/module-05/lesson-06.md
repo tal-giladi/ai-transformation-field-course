@@ -29,7 +29,7 @@ An offline test says the pilot works on last summer's emails. Production is a di
 
 ## The situation
 
-Tuesday 19 January 2027, after the steering committee. The committee approved the pilot's first stage within Michal's and Ronit's approval band, ahead of the board on 28 January, with two changes to the roadmap ([03.8](../module-03/lesson-08.md)), recorded as roadmap v1.1: Russian and Arabic drafts start with Hebrew and English instead of four weeks later, because the Russian and Arabic agents are the ones who went back to slow replies after the interim rule and would otherwise return to free chatbots; and every language gets a native-speaker spot check twice a week and its own stop rule. On Sunday 1 February the four WhatsApp numbers move into the helpdesk, so every written contact becomes a ticket for the first time. Training is 7–11 February (module 6).
+Tuesday 19 January 2027, after the steering committee. The committee approved the pilot's first stage within Michal's and Ronit's approval band, ahead of the board on 28 January, with two changes to the roadmap ([03.8](../module-03/lesson-08.md)), recorded as roadmap v1.1: Russian and Arabic drafts start with Hebrew and English instead of four weeks later, because the Russian and Arabic agents are the ones who went back to slow replies after the interim rule and would otherwise return to free chatbots; and every language gets a native-speaker spot check twice a week and its own stop rule. On Monday 1 February the four WhatsApp numbers move into the helpdesk, so every written contact becomes a ticket for the first time. Training is 7–11 February (module 6).
 
 IBM's leadership course warns that a pilot is not scale, and that a deployment is judged on its **target operating envelope**: which users, volume, channels, languages and autonomy, under which conditions. It also names the **last reversible moment**. Here you plan the release so that each widening of the envelope is a decision with evidence, and every step before "sent" stays reversible.
 
@@ -66,8 +66,8 @@ Each stage widens the envelope in one direction only, so that when something goe
 | Stage | From | What changes | Entry condition (yes/no) | Owner |
 |---|---|---|---|---|
 | 0. Offline replay | Dec–Jan | Test set and negative tests | Eval report: proceed (05.4) | Pilot lead |
-| 1. On demand, email and web form | Sun 1 Feb | Agents can ask for a draft in the side panel; they insert it, edit it, send it. All four languages, language routing, 10% holdout | Readiness checklist complete; switch tested on 28 January; negative tests 24/24 on the production prompt | Samir |
-| 1W. Shadow, WhatsApp | Sun 1 Feb | Drafts generated and hidden | WhatsApp routed into the helpdesk | Pilot lead |
+| 1. On demand, email and web form | Mon 1 Feb | Agents can ask for a draft in the side panel; they insert it, edit it, send it. All four languages, language routing, 10% holdout | Readiness checklist complete; switch tested on 28 January; negative tests 24/24 on the production prompt | Samir |
+| 1W. Shadow, WhatsApp | Mon 1 Feb | Drafts generated and hidden | WhatsApp routed into the helpdesk | Pilot lead |
 | 2. On demand, WhatsApp | Sun 15 Feb (earliest) | WhatsApp drafts available in the panel | Shadow exit condition met | Samir |
 | 3. Pre-filled drafts for two categories | After gate 1 (1 April) | WISMO and invoice drafts appear in the reply box without a click | Gate 1 met; those categories ≥ 85% accepted for four weeks; discard rate not falling towards zero | Samir, steering committee |
 | — Never in this pilot | — | Sending without an agent | A new charter, a new eval, a new decision | — |
@@ -100,10 +100,10 @@ The [production-readiness checklist](../../templates/production-readiness-checkl
 | WhatsApp | Web-store order lookup for `HP-1…` numbers | **Open**: StoreHub export access requested | Noa, Avi, 12 Feb |
 | Review | Source beside the draft; "check these" lists; language routing; spot audit staffed | Done | Samir |
 | Logging and monitoring | Logging spec and monitoring live (05.7); cost alert set | **Open**: 05.7 | Pilot lead, 29 Jan |
-| People | Training booked 7–11 Feb; until then, drafts on demand only for the eight agents in the 28 January walkthrough | Done | Samir |
+| People | Training booked 7–11 Feb; until then, drafts on demand for the twelve agents after the 28 January walkthrough | Done | Samir |
 | Operations | Owner, business-hours support from the integrator, runbook, rollback rehearsed | Done (rehearsal 28 Jan) | Samir, Avi |
 
-The checklist does not move the date; it decides whether the date holds. If the load rule or the logging is not live on 29 January, stage 1 starts with drafts for the eight trained agents only, or a week later. Write that consequence next to the open lines before anyone asks.
+The checklist does not move the date; it decides whether the date holds. If the load rule or the logging is not live on 29 January, stage 1 starts with drafts on demand only (no WhatsApp shadow), or a week later. Write that consequence next to the open lines before anyone asks.
 
 ## Watch out
 
@@ -146,11 +146,11 @@ The checklist does not move the date; it decides whether the date holds. If the 
 
 **Release plan — reply drafts — v1.0, 20 January 2027** (owner: Samir Haddad; author: pilot lead; approved: steering committee, 19 January; roadmap v1.1)
 
-*What production adds:* WhatsApp (shorter messages, photos and voice notes with no text, `HP-1…` order numbers that match no ERP order without a web-store lookup); post-date-fix customers; live lookups with timeouts; real reviewers under load; customers receiving replies. Blocking: the web-store lookup blocks WhatsApp WISMO drafts (stage 2); the load rule blocks stage 1 for more than the eight trained agents.
+*What production adds:* WhatsApp (shorter messages, photos and voice notes with no text, `HP-1…` order numbers that match no ERP order without a web-store lookup); post-date-fix customers; live lookups with timeouts; real reviewers under load; customers receiving replies. Blocking: the web-store lookup blocks WhatsApp WISMO drafts (stage 2); the load rule blocks stage 1 if it is not live by 29 January.
 
 *WhatsApp shadow (1–14 February):* from the one-week tally (630 conversations in five days, mostly Hebrew, with Russian and Arabic each a substantial minority), about 120 WhatsApp tickets a working day; Olga and Lina rate 30 a day (Hebrew, Russian, Arabic) against what was sent, about 300 in two weeks. Order numbers: the tally records one on 39.4% of conversations, none of them in the ERP format, so the lookup is tested on all of them. Exit: ≥ 75% accepted per language with ≥ 50 rated each; no new kind of safety issue; lookup success ≥ 90%.
 
-*Stages:* as in Step 3. Stage 1 on Sunday 1 February for email and web form in four languages, drafts on demand, holdout 10%; stage 2 no earlier than 15 February; stage 3 only after gate 1 and only for WISMO and invoice; sending without an agent is out of this pilot.
+*Stages:* as in Step 3. Stage 1 on Monday 1 February for email and web form in four languages, drafts on demand, holdout 10%; stage 2 no earlier than 15 February; stage 3 only after gate 1 and only for WISMO and invoice; sending without an agent is out of this pilot.
 
 *Rollback:* as in Step 4; rehearsed 28 January (drafts off for Arabic in 40 seconds; all off in under a minute; prompt v1.2 restored in five minutes). "A reply already sent cannot be rolled back: a wrong reply that reached a customer is corrected by a person under the incident runbook."
 

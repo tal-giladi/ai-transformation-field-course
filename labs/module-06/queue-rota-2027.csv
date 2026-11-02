@@ -1,0 +1,113 @@
+pilot_week,week_from,week_to,employee_id,full_name,main_queue,whatsapp_days,notes
+1,2027-02-01,2027-02-07,HP-1004,Samir Haddad,manager,0,go-live walkthrough 15 min on Thu 28 Jan
+1,2027-02-01,2027-02-07,HP-1005,Olga Petrenko,"email + web form (ru, hardest he)",1,champion from week 2; go-live walkthrough 15 min on Thu 28 Jan; champions' dry run of the session Sun 7 Feb
+1,2027-02-01,2027-02-07,HP-1006,Rina Azoulay,claims and returns,0,go-live walkthrough 15 min on Thu 28 Jan
+1,2027-02-01,2027-02-07,HP-1007,Yana Kogan,email + web form (ru),1,go-live walkthrough 15 min on Thu 28 Jan
+1,2027-02-01,2027-02-07,HP-1008,Sergei Novikov,email + web form (ru),1,go-live walkthrough 15 min on Thu 28 Jan
+1,2027-02-01,2027-02-07,HP-1009,Lina Khoury,email + web form (ar),1,champion from week 2; go-live walkthrough 15 min on Thu 28 Jan; champions' dry run of the session Sun 7 Feb
+1,2027-02-01,2027-02-07,HP-1010,Rami Nasser,email + web form (ar),1,go-live walkthrough 15 min on Thu 28 Jan
+1,2027-02-01,2027-02-07,HP-1011,Ahmad Jabareen,"email + web form (ar, he)",1,go-live walkthrough 15 min on Thu 28 Jan
+1,2027-02-01,2027-02-07,HP-1012,Hila Dahan,email + web form (he),1,go-live walkthrough 15 min on Thu 28 Jan
+1,2027-02-01,2027-02-07,HP-1013,Moran Biton,email + web form (he),1,go-live walkthrough 15 min on Thu 28 Jan
+1,2027-02-01,2027-02-07,HP-1014,Adi Golan,email + web form (he),1,go-live walkthrough 15 min on Thu 28 Jan
+1,2027-02-01,2027-02-07,HP-1015,Shani Ohayon,email + web form (he),1,champion from week 2; go-live walkthrough 15 min on Thu 28 Jan; champions' dry run of the session Sun 7 Feb
+1,2027-02-01,2027-02-07,HP-1016,Tigist Mekonen,email + web form (he),1,go-live walkthrough 15 min on Thu 28 Jan
+1,2027-02-01,2027-02-07,HP-1017,Daniel Shaw,"email + web form (en, he)",1,go-live walkthrough 15 min on Thu 28 Jan
+2,2027-02-08,2027-02-14,HP-1004,Samir Haddad,manager,0,"training: session 1 (60 min) and session 2 practice clinic (60 min), 8-11 Feb"
+2,2027-02-08,2027-02-14,HP-1005,Olga Petrenko,"email + web form (ru, hardest he)",1,"champion, 2 h a week protected; training: session 1 (60 min) and session 2 practice clinic (60 min), 8-11 Feb"
+2,2027-02-08,2027-02-14,HP-1006,Rina Azoulay,claims and returns,0,"training: session 1 (60 min) and session 2 practice clinic (60 min), 8-11 Feb"
+2,2027-02-08,2027-02-14,HP-1007,Yana Kogan,email + web form (ru),1,"training: session 1 (60 min) and session 2 practice clinic (60 min), 8-11 Feb"
+2,2027-02-08,2027-02-14,HP-1008,Sergei Novikov,email + web form (ru),1,"training: session 1 (60 min) and session 2 practice clinic (60 min), 8-11 Feb"
+2,2027-02-08,2027-02-14,HP-1009,Lina Khoury,email + web form (ar),1,"champion, 2 h a week protected; sick 2 days; training: session 1 (60 min) and session 2 practice clinic (60 min), 8-11 Feb"
+2,2027-02-08,2027-02-14,HP-1010,Rami Nasser,email + web form (ar),1,"training: session 1 (60 min) and session 2 practice clinic (60 min), 8-11 Feb"
+2,2027-02-08,2027-02-14,HP-1011,Ahmad Jabareen,"email + web form (ar, he)",1,"training: session 1 (60 min) and session 2 practice clinic (60 min), 8-11 Feb"
+2,2027-02-08,2027-02-14,HP-1012,Hila Dahan,email + web form (he),1,"training: session 1 (60 min) and session 2 practice clinic (60 min), 8-11 Feb"
+2,2027-02-08,2027-02-14,HP-1013,Moran Biton,email + web form (he),2,"training: session 1 (60 min) and session 2 practice clinic (60 min), 8-11 Feb"
+2,2027-02-08,2027-02-14,HP-1014,Adi Golan,email + web form (he),1,"training: session 1 (60 min) and session 2 practice clinic (60 min), 8-11 Feb"
+2,2027-02-08,2027-02-14,HP-1015,Shani Ohayon,email + web form (he),1,"champion, 2 h a week protected; training: session 1 (60 min) and session 2 practice clinic (60 min), 8-11 Feb"
+2,2027-02-08,2027-02-14,HP-1016,Tigist Mekonen,email + web form (he),1,"training: session 1 (60 min) and session 2 practice clinic (60 min), 8-11 Feb"
+2,2027-02-08,2027-02-14,HP-1017,Daniel Shaw,"email + web form (en, he)",1,"training: session 1 (60 min) and session 2 practice clinic (60 min), 8-11 Feb"
+3,2027-02-15,2027-02-21,HP-1004,Samir Haddad,manager,0,
+3,2027-02-15,2027-02-21,HP-1005,Olga Petrenko,"email + web form (ru, hardest he)",1,"champion, 2 h a week protected; WhatsApp drafts switched on 15 Feb"
+3,2027-02-15,2027-02-21,HP-1006,Rina Azoulay,claims and returns,0,
+3,2027-02-15,2027-02-21,HP-1007,Yana Kogan,email + web form (ru),1,WhatsApp drafts switched on 15 Feb
+3,2027-02-15,2027-02-21,HP-1008,Sergei Novikov,email + web form (ru),1,WhatsApp drafts switched on 15 Feb
+3,2027-02-15,2027-02-21,HP-1009,Lina Khoury,email + web form (ar),1,"champion, 2 h a week protected; WhatsApp drafts switched on 15 Feb"
+3,2027-02-15,2027-02-21,HP-1010,Rami Nasser,email + web form (ar),1,WhatsApp drafts switched on 15 Feb
+3,2027-02-15,2027-02-21,HP-1011,Ahmad Jabareen,"email + web form (ar, he)",1,WhatsApp drafts switched on 15 Feb
+3,2027-02-15,2027-02-21,HP-1012,Hila Dahan,email + web form (he),1,last working day Thu 18 Feb; maternity leave from 21 Feb; WhatsApp drafts switched on 15 Feb
+3,2027-02-15,2027-02-21,HP-1013,Moran Biton,email + web form (he),3,WhatsApp drafts switched on 15 Feb
+3,2027-02-15,2027-02-21,HP-1014,Adi Golan,email + web form (he),1,WhatsApp drafts switched on 15 Feb
+3,2027-02-15,2027-02-21,HP-1015,Shani Ohayon,email + web form (he),1,"champion, 2 h a week protected; WhatsApp drafts switched on 15 Feb"
+3,2027-02-15,2027-02-21,HP-1016,Tigist Mekonen,email + web form (he),1,sits beside Shani (champion) one hour a week; WhatsApp drafts switched on 15 Feb
+3,2027-02-15,2027-02-21,HP-1017,Daniel Shaw,"email + web form (en, he)",1,WhatsApp drafts switched on 15 Feb
+4,2027-02-22,2027-02-28,HP-1004,Samir Haddad,manager,0,
+4,2027-02-22,2027-02-28,HP-1005,Olga Petrenko,"email + web form (ru, hardest he)",1,"champion, 2 h a week protected; covers Hila's escalations"
+4,2027-02-22,2027-02-28,HP-1006,Rina Azoulay,claims and returns,0,
+4,2027-02-22,2027-02-28,HP-1007,Yana Kogan,email + web form (ru),1,
+4,2027-02-22,2027-02-28,HP-1008,Sergei Novikov,"WhatsApp pod (ru, he)",5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+4,2027-02-22,2027-02-28,HP-1009,Lina Khoury,email + web form (ar),1,"champion, 2 h a week protected"
+4,2027-02-22,2027-02-28,HP-1010,Rami Nasser,email + web form (ar),1,
+4,2027-02-22,2027-02-28,HP-1011,Ahmad Jabareen,"WhatsApp pod (ar, he)",5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+4,2027-02-22,2027-02-28,HP-1012,Hila Dahan,on leave,0,maternity leave from 21 Feb
+4,2027-02-22,2027-02-28,HP-1013,Moran Biton,WhatsApp pod (he),5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+4,2027-02-22,2027-02-28,HP-1014,Adi Golan,email + web form (he),1,resignation notice given 22 Feb
+4,2027-02-22,2027-02-28,HP-1015,Shani Ohayon,email + web form (he),1,"champion, 2 h a week protected"
+4,2027-02-22,2027-02-28,HP-1016,Tigist Mekonen,email + web form (he),1,sits beside Shani (champion) one hour a week
+4,2027-02-22,2027-02-28,HP-1017,Daniel Shaw,"email + web form (en, he)",1,
+5,2027-03-01,2027-03-07,HP-1004,Samir Haddad,manager,0,
+5,2027-03-01,2027-03-07,HP-1005,Olga Petrenko,"email + web form (ru, hardest he)",1,"champion, 2 h a week protected; covers Hila's escalations"
+5,2027-03-01,2027-03-07,HP-1006,Rina Azoulay,claims and returns,0,
+5,2027-03-01,2027-03-07,HP-1007,Yana Kogan,email + web form (ru),1,
+5,2027-03-01,2027-03-07,HP-1008,Sergei Novikov,"WhatsApp pod (ru, he)",5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+5,2027-03-01,2027-03-07,HP-1009,Lina Khoury,email + web form (ar),1,"champion, 2 h a week protected"
+5,2027-03-01,2027-03-07,HP-1010,Rami Nasser,email + web form (ar),1,
+5,2027-03-01,2027-03-07,HP-1011,Ahmad Jabareen,"WhatsApp pod (ar, he)",5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+5,2027-03-01,2027-03-07,HP-1012,Hila Dahan,on leave,0,maternity leave from 21 Feb
+5,2027-03-01,2027-03-07,HP-1013,Moran Biton,WhatsApp pod (he),5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+5,2027-03-01,2027-03-07,HP-1014,Adi Golan,email + web form (he),1,last working day Thu 4 Mar
+5,2027-03-01,2027-03-07,HP-1015,Shani Ohayon,email + web form (he),1,"champion, 2 h a week protected"
+5,2027-03-01,2027-03-07,HP-1016,Tigist Mekonen,email + web form (he),1,sits beside Shani (champion) one hour a week
+5,2027-03-01,2027-03-07,HP-1017,Daniel Shaw,"email + web form (en, he)",1,
+6,2027-03-08,2027-03-14,HP-1004,Samir Haddad,manager,0,
+6,2027-03-08,2027-03-14,HP-1005,Olga Petrenko,"email + web form (ru, hardest he)",1,"champion, 2 h a week protected; covers Hila's escalations"
+6,2027-03-08,2027-03-14,HP-1006,Rina Azoulay,claims and returns,0,
+6,2027-03-08,2027-03-14,HP-1007,Yana Kogan,email + web form (ru),1,
+6,2027-03-08,2027-03-14,HP-1008,Sergei Novikov,"WhatsApp pod (ru, he)",5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+6,2027-03-08,2027-03-14,HP-1009,Lina Khoury,email + web form (ar),1,"champion, 2 h a week protected"
+6,2027-03-08,2027-03-14,HP-1010,Rami Nasser,email + web form (ar),1,
+6,2027-03-08,2027-03-14,HP-1011,Ahmad Jabareen,"WhatsApp pod (ar, he)",5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+6,2027-03-08,2027-03-14,HP-1012,Hila Dahan,on leave,0,maternity leave from 21 Feb
+6,2027-03-08,2027-03-14,HP-1013,Moran Biton,WhatsApp pod (he),5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+6,2027-03-08,2027-03-14,HP-1014,Adi Golan,left,0,resigned; last working day Thu 4 Mar
+6,2027-03-08,2027-03-14,HP-1015,Shani Ohayon,email + web form (he),1,"champion, 2 h a week protected"
+6,2027-03-08,2027-03-14,HP-1016,Tigist Mekonen,email + web form (he),1,sits beside Shani (champion) one hour a week
+6,2027-03-08,2027-03-14,HP-1017,Daniel Shaw,"email + web form (en, he)",1,
+7,2027-03-15,2027-03-21,HP-1004,Samir Haddad,manager,0,
+7,2027-03-15,2027-03-21,HP-1005,Olga Petrenko,"email + web form (ru, hardest he)",1,"champion, 2 h a week protected; covers Hila's escalations"
+7,2027-03-15,2027-03-21,HP-1006,Rina Azoulay,claims and returns,0,
+7,2027-03-15,2027-03-21,HP-1007,Yana Kogan,email + web form (ru),1,annual leave 2 days
+7,2027-03-15,2027-03-21,HP-1008,Sergei Novikov,"WhatsApp pod (ru, he)",5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+7,2027-03-15,2027-03-21,HP-1009,Lina Khoury,email + web form (ar),1,"champion, 2 h a week protected"
+7,2027-03-15,2027-03-21,HP-1010,Rami Nasser,email + web form (ar),1,
+7,2027-03-15,2027-03-21,HP-1011,Ahmad Jabareen,"WhatsApp pod (ar, he)",5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+7,2027-03-15,2027-03-21,HP-1012,Hila Dahan,on leave,0,maternity leave from 21 Feb
+7,2027-03-15,2027-03-21,HP-1013,Moran Biton,WhatsApp pod (he),5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+7,2027-03-15,2027-03-21,HP-1014,Adi Golan,left,0,resigned; last working day Thu 4 Mar
+7,2027-03-15,2027-03-21,HP-1015,Shani Ohayon,email + web form (he),1,"champion, 2 h a week protected"
+7,2027-03-15,2027-03-21,HP-1016,Tigist Mekonen,email + web form (he),1,sits beside Shani (champion) one hour a week
+7,2027-03-15,2027-03-21,HP-1017,Daniel Shaw,"email + web form (en, he)",1,
+8,2027-03-22,2027-03-28,HP-1004,Samir Haddad,manager,0,
+8,2027-03-22,2027-03-28,HP-1005,Olga Petrenko,"email + web form (ru, hardest he)",1,"champion, 2 h a week protected; covers Hila's escalations"
+8,2027-03-22,2027-03-28,HP-1006,Rina Azoulay,claims and returns,0,
+8,2027-03-22,2027-03-28,HP-1007,Yana Kogan,email + web form (ru),1,
+8,2027-03-22,2027-03-28,HP-1008,Sergei Novikov,"WhatsApp pod (ru, he)",5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+8,2027-03-22,2027-03-28,HP-1009,Lina Khoury,email + web form (ar),1,"champion, 2 h a week protected"
+8,2027-03-22,2027-03-28,HP-1010,Rami Nasser,email + web form (ar),1,
+8,2027-03-22,2027-03-28,HP-1011,Ahmad Jabareen,"WhatsApp pod (ar, he)",5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+8,2027-03-22,2027-03-28,HP-1012,Hila Dahan,on leave,0,maternity leave from 21 Feb
+8,2027-03-22,2027-03-28,HP-1013,Moran Biton,WhatsApp pod (he),5,WhatsApp pod from 22 Feb (rota change after Hila's leave)
+8,2027-03-22,2027-03-28,HP-1014,Adi Golan,left,0,resigned; last working day Thu 4 Mar
+8,2027-03-22,2027-03-28,HP-1015,Shani Ohayon,email + web form (he),1,"champion, 2 h a week protected"
+8,2027-03-22,2027-03-28,HP-1016,Tigist Mekonen,email + web form (he),1,sits beside Shani (champion) one hour a week
+8,2027-03-22,2027-03-28,HP-1017,Daniel Shaw,"email + web form (en, he)",1,annual leave 3 days

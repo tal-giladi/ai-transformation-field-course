@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    The vendor offers a free one-hour webinar on the panel's features for the whole team. You have
+    budget for one hour per person before the real session. How do you use it?
+  options:
+    - >-
+      Accept the webinar; it covers the features, so your own session can focus on policy.
+    - >-
+      Run your own hands-on hour on real messages in the team's languages instead.
+    - >-
+      Accept it and add a short quiz at the end so completion can be reported.
+    - >-
+      Split it: thirty minutes of webinar and thirty minutes of questions with the vendor.
+  correct: 1
+  explanation: >-
+    A features tour moves completion, not behaviour. The hour transfers when people practise the
+    checking skill on their own work, in their own languages.
+
+- id: q2
+  question: >-
+    You are writing exercises. Which one is most likely to change what agents do in week 2?
+  options:
+    - >-
+      A real Russian message whose draft repeats a passed date because the ETA field was blank.
+    - >-
+      An invented English message that shows off what the model can write in many styles.
+    - >-
+      A slide comparing three language models on accuracy, speed and token price.
+    - >-
+      A demo of a prompt that makes the model write in the company's tone of voice.
+  correct: 0
+  explanation: >-
+    The exercise should hide one error that one check catches, on the team's own data. The blank ETA
+    is exactly what the agent will meet on the live queue.
+
+- id: q3
+  question: >-
+    Two seasonal temps worked until 31 January. Training is 7–11 February. Samir asks whether they
+    should be invited back for the session. What do you decide?
+  options:
+    - >-
+      Invite them, so the whole team that worked the peak learns the new way.
+    - >-
+      Invite them only to session 2, where they can practise on the live queue.
+    - >-
+      Do not train them now; make session 1 and the job aid the onboarding for any future temp.
+    - >-
+      Do not train them, and leave them out of the plan since they no longer work there.
+  correct: 2
+  explanation: >-
+    Their contracts have ended, so training them now is cost without use. But the plan must say what
+    happens if temps are hired next winter, and that cost belongs in the temps decision at gate 2.
+
+- id: q4
+  question: >-
+    The exit check shows 7 of 12 agents missed a promise in a damage draft. Samir asks for the names to
+    "have a word with them". What do you do?
+  options:
+    - >-
+      Give him the names; managers need to know who is not ready to use the tool.
+    - >-
+      Give him the names but ask him not to mention the exit check in the conversation.
+    - >-
+      Refuse and stop recording exit check results, so the question cannot come up again.
+    - >-
+      Keep results with trainer and champion; change session 2 to repeat the promise cards.
+  correct: 3
+  explanation: >-
+    If the check feeds the manager, people practise passing it rather than checking drafts. Seven of
+    twelve is a design signal about the session: change the session, as the plan's rule says.

@@ -1,0 +1,11 @@
+session,date,start,end,group,people,languages,cards,trainer,co_trainer,queue_cover
+dry run,2027-02-07,13:00,14:30,champions,"Olga Petrenko; Lina Khoury; Shani Ohayon",he ar ru en,1-8,pilot lead,,Samir covers flags
+1,2027-02-08,08:30,09:30,G1 Russian,"Yana Kogan; Sergei Novikov",ru he,"1, 2, 5, 8",pilot lead,Olga Petrenko,3 off queue (incl. co-trainer)
+1,2027-02-08,14:00,15:00,G2 Arabic,"Rami Nasser; Ahmad Jabareen",ar he,"1, 3, 4, 7",pilot lead,Lina Khoury,3 off queue (incl. co-trainer)
+1,2027-02-09,08:30,09:30,G3 Hebrew A,"Hila Dahan; Moran Biton; Adi Golan",he,"1, 2, 7, 8",pilot lead,Shani Ohayon,4 off queue (incl. co-trainer)
+1,2027-02-09,14:00,15:00,G4 Hebrew and English,"Tigist Mekonen; Daniel Shaw",he en,"1, 6, 7, 8",pilot lead,Shani Ohayon,3 off queue (incl. co-trainer)
+2,2027-02-10,08:30,09:30,G1 Russian,"Yana Kogan; Sergei Novikov",ru he,own queue,Olga Petrenko,,2 off queue
+2,2027-02-10,14:00,15:00,G2 Arabic,"Rami Nasser; Ahmad Jabareen",ar he,own queue,Lina Khoury,,2 off queue
+2,2027-02-11,08:30,09:30,G3 Hebrew A,"Hila Dahan; Moran Biton; Adi Golan",he,own queue,Shani Ohayon,,3 off queue
+2,2027-02-11,14:00,15:00,G4 Hebrew and English,"Tigist Mekonen; Daniel Shaw",he en,own queue,Shani Ohayon,,2 off queue
+role,2027-02-11,11:00,12:00,Manager and claims,"Samir Haddad; Rina Azoulay",he ar ru en,"1, 3, 4, 7 + switch, flags, team numbers",pilot lead,Olga Petrenko,Olga covers flags

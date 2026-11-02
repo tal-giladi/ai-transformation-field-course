@@ -29,7 +29,7 @@ An AI pilot that worked on 1 February can be failing by April without anyone tou
 
 ## The situation
 
-Wednesday 27 January 2027. The readiness checklist ([05.6](lesson-06.md)) has one open line that belongs to you: "logging spec and monitoring live (05.7), due 29 January". The pilot goes live on Sunday 1 February. Gate 1 on 1 April will be argued from what the logs show, and the steering committee will ask in May whether the pilot still works. On 15 March something will go wrong (lesson 07.5); what you write this week decides whether the team finds it in hours or hears about it from a customer.
+Wednesday 27 January 2027. The readiness checklist ([05.6](lesson-06.md)) has one open line that belongs to you: "logging spec and monitoring live (05.7), due 29 January". The pilot goes live on Monday 1 February. Gate 1 on 1 April will be argued from what the logs show, and the steering committee will ask after gate 1 whether the pilot still works. On 15 March something will go wrong (lesson 07.5); what you write this week decides whether the team finds it in hours or hears about it from a customer.
 
 IBM's leadership course describes **proportionate monitoring** (sized to impact, risk, volume, rate of change and speed of harm) and separates an **escalation trigger** (a threshold that sends a named person to act) from a **review cadence** (looking regularly). The consulting certificate adds that a control without a response is decoration. Here you write the triggers, cadences and responses for one pilot.
 

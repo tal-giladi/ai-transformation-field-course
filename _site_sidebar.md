@@ -52,3 +52,11 @@
   - [37 · Shadow mode, staged release and rollback](/lessons/module-05/lesson-06.md)
   - [38 · Before launch: logging, monitoring and change control](/lessons/module-05/lesson-07.md)
   - [Module 5 quiz](/assessments/module-05-quiz.md)
+- **Module 6 — Making People Use It**
+  - [39 · Workflow redesign: change the work, not just add a tool](/lessons/module-06/lesson-01.md)
+  - [40 · Training that transfers: a 60-minute role-based session](/lessons/module-06/lesson-02.md)
+  - [41 · Champions network and office hours](/lessons/module-06/lesson-03.md)
+  - [42 · The honest adoption dashboard](/lessons/module-06/lesson-04.md)
+  - [43 · The comms pack: what you say, who says it, and what you can promise](/lessons/module-06/lesson-05.md)
+  - [44 · Resistance conversations: the manager, the expert, the worried employee](/lessons/module-06/lesson-06.md)
+  - [Module 6 quiz](/assessments/module-06-quiz.md)

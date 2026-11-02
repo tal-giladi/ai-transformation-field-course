@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    The vendor's screen shows 12 of 16 licence holders "active" in week 8. The export has an event
+    called panel_opened that fires whenever a ticket opens. What do you report as adoption?
+  options:
+    - >-
+      75%, since the vendor's definition is the industry standard and finance will recognise it.
+    - >-
+      Inserted drafts per week, since total use matters more than the number of people.
+    - >-
+      Qualified users (enough inserted drafts) divided by people who had the task that week.
+    - >-
+      Active users divided by the number of agents, leaving out the two marketing licences.
+  correct: 2
+  explanation: >-
+    An event that fires by itself is not use, and licences are not the population. The honest rate
+    counts a defined meaningful event over the people who could have used the tool that week.
+
+- id: q2
+  question: >-
+    One agent inserted 23–31 drafts a week, then nothing from week 4. The HR roster shows maternity
+    leave from 21 February. How does she appear on the dashboard?
+  options:
+    - >-
+      As a quiet non-adopter from week 4, flagged for a follow-up conversation.
+    - >-
+      Out of the population from week 4, so she counts neither as a user nor as a stopper.
+    - >-
+      As a qualified user for all eight weeks, carrying her early average forward.
+    - >-
+      In the population with zero use, since the licence was still assigned to her.
+  correct: 1
+  explanation: >-
+    The opportunity-aware population changes week by week with HR status. A person on leave had no
+    chance to use the tool; counting her either way distorts the rate.
+
+- id: q3
+  question: >-
+    Three agents stopped inserting drafts in week 4 while still opening as many tickets. The rota shows
+    all three moved to the WhatsApp queue that week. What goes into the steering pre-read?
+  options:
+    - >-
+      Since 22 February the WhatsApp queue runs almost without drafts; the cause is being confirmed.
+    - >-
+      Three named agents stopped using the drafts and will be coached by their manager.
+    - >-
+      Adoption fell to 60%, so the team needs a firm instruction to use the drafts daily.
+    - >-
+      Nothing yet, until the three agents have explained themselves to the pilot lead.
+  correct: 0
+  explanation: >-
+    The data point to a queue and a likely design defect, not to people. Naming them breaks the
+    reporting promise; a mandate raises counts without fixing the WhatsApp drafts.
+
+- id: q4
+  question: >-
+    Samir wants the per-person weekly table so he can "keep an eye on things". Under Israeli law and
+    your own policy, what is the proportionate design?
+  options:
+    - >-
+      Give it to him, since employees consented to the AUP when they signed it.
+    - >-
+      Give it to him once a month, without the names of people on leave.
+    - >-
+      Stop collecting per-person data altogether, so no question of monitoring can arise.
+    - >-
+      Team figures for him; per-person data with the pilot lead for help, notified, time-limited.
+  correct: 3
+  explanation: >-
+    Employee consent is treated with suspicion; what counts is a defined purpose, minimum data,
+    limited access, notice and retention. Without any per-person data you could not offer help where
+    it is needed, so limit it rather than drop it, and check the design with counsel.
+
+- id: q5
+  question: >-
+    The charter says value is read only once drafts are inserted on 60% of eligible tickets for two
+    weeks. The usage export has no ticket counts. What do you do before gate 1?
+  options:
+    - >-
+      Use panel_opened as the ticket count, since it fires once for every ticket opened.
+    - >-
+      Request the helpdesk's eligible-ticket counts by channel and say the gate is not yet readable.
+    - >-
+      Read value anyway, since 7 of 10 sustained users is close enough to the gate.
+    - >-
+      Replace the gate with the qualified-use rate, which the export can compute.
+  correct: 1
+  explanation: >-
+    The gate is about tickets, not people, and needs the helpdesk's denominator. Saying it cannot be
+    read yet is honest; swapping in a convenient proxy quietly changes the rule after the fact.

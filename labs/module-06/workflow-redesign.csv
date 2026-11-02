@@ -1,0 +1,4 @@
+workflow,step,today_who_tool,evidence,mark,with_ai_output,reason,old_path_switch_off_date,owner
+Written WISMO contact,4,"Agent sends ""Order status - delay apology"" macro with the date from the order",Handbook s.6; best agents skip it (Olga),remove,Deleted from Deskly on 1 Feb,It sends a date that has passed,2027-02-01,Samir Haddad
+Written WISMO contact,5,Agent emails logistics@ and waits,187 CS emails to logistics@ Jul-Sep,change,Only if the ETA is blank or older than 7 days,Logistics keeps the ETA field current by 10:00 daily,,Tamar Shalev
+Written WISMO contact,7,—,—,new,"Insert, edit, send; mark used / edited / discarded",Rule of use; gate-1 data,,Samir Haddad

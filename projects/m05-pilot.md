@@ -56,7 +56,7 @@ The lessons' reference answers are the expert deliverables 1–7: the charter an
 
 **Go / no-go — reply drafts — for the steering committee of 19 January 2027**
 
-> **Recommendation: go, with conditions.** Release stage 1 on Sunday 1 February: drafts on request
+> **Recommendation: go, with conditions.** Release stage 1 on Monday 1 February: drafts on request
 > for email and web form in all four languages, every reply checked and sent by an agent, a random
 > 10% of tickets held out; WhatsApp in shadow mode for two weeks.
 >

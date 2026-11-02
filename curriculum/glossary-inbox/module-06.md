@@ -1,0 +1,15 @@
+- **Old path** — The way a step was done before the AI output arrived (a macro, a phone, a free tool); a workflow redesign switches it off on a date with an owner, or people go back to it (lesson 06.1).
+- **Freed hours** — Capacity a pilot creates; unless someone writes down where it goes, with an owner and an indicator, it refills unseen (lesson 06.1).
+- **Planted-error exercise** — A training card built from a real case in which the AI output hides one error that one specific check catches (lesson 06.2).
+- **Exit check** — One fresh case done alone at the end of a session and observed against the checks; its results stay with the trainer and champion (lesson 06.2).
+- **Job aid** — The one-page reference kept beside the screen: the rule, the checks, the marks, the stop conditions and where to get help (lesson 06.2).
+- **Champion** — A respected colleague given protected time to help others on real work and log issues with examples, who never reports on individuals or changes the tool (lesson 06.3).
+- **Issues log** — The champions' record of what goes wrong, one row per problem with an example, each with a decision, an owner and the date the team was told (lesson 06.3).
+- **Qualified event** — The logged event that shows the tool entered the real work (at Harbor & Pine, a draft inserted into a reply), as opposed to events that fire by themselves (lesson 06.4).
+- **Opportunity-aware population** — The people who could have used the tool in a given week, from role and HR status, used as the denominator instead of licences (lesson 06.4).
+- **Qualified-use rate** — People with enough qualified events in the window divided by the opportunity-aware population (lesson 06.4).
+- **Quiet non-adoption** — People who used a tool, stopped, and kept working without it, unseen by "active user" counts; read as who, when, where and back to what (lesson 06.4).
+- **Altitude problem** — Adoption looks better the higher you ask, because managers see screens and dashboards rather than the work (lesson 06.4).
+- **Frontline-manager questions** — Does the manager expect use where it helps, use the tool visibly, and talk about it in regular conversations about the work (lesson 06.4).
+- **Monitoring notice** — The written notice, given before collection, of what is recorded about employees, why, who sees it, what it is never used for and how long it is kept (lesson 06.5).
+- **Promise table** — The list of sentences a team wants to hear, each checked against the business case and approved word for word by the person who can keep it (lesson 06.5).

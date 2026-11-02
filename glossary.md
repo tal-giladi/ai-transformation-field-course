@@ -14,12 +14,14 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Agentic opportunity frame** — A one-page design of one candidate workflow: today's steps, what simplification removes, what does each step, builder, connections and permissions, checks, upkeep and why it is or is not an agent (lesson 03.2).
 - **AI in a feature update** — An AI capability that arrived in software the organization already used, often enabled by default, without anyone choosing it (lesson 01.7).
 - **AI inventory** — The list of every AI system and feature, one row per tool per use, with owner, data, the decision it shapes and the next action, including excluded systems with reasons (lesson 01.7).
+- **Altitude problem** — Adoption looks better the higher you ask, because managers see screens and dashboards rather than the work (lesson 06.4).
 - **Answer first** — Opening a memo with the answer to the sponsor's question, the number that carries it and the recommended decision, in three sentences (lesson 02.7).
 - **Attribution rule** — The promise, made at the start of an interview and kept, about how what the person says will be reported (for example "the support team said", never their name) (lesson 02.2).
 - **Automate / assist / augment / leave alone** — The four modes of change, decided by who does the work afterwards: no person per item, a person deciding each item, a person gaining a new capability, or no change (lesson 03.1).
 - **Blind calibration set** — Real human outputs mixed unmarked among AI drafts during rating, to check that raters apply the rubric strictly and to measure today's error rate (lesson 05.4).
 - **Capacity vs cash** — Freed hours are capacity; they become cash only when a named budget line changes, with an owner and a date (lesson 03.7).
 - **Chain of custody** — For a dataset: origin, the purpose it was collected for, whether that purpose covers the new use, where access is enforced, and the person who owns it today (lesson 02.5).
+- **Champion** — A respected colleague given protected time to help others on real work and log issues with examples, who never reports on individuals or changes the tool (lesson 06.3).
 - **Change control** — The rules for what counts as a change to an AI system (prompt, model, provider, API version, vendor setting), how it is tested, who approves it and how it is rolled back (lesson 05.7).
 - **Change request** — The logged, assessed and decided route for an expansion, recording what it would displace and telling the requester the reason and review date (lesson 01.3).
 - **Check log** — The appendix that lists each statement of an AI-drafted text, the source it was checked against and whether it was kept, corrected or removed (lesson 02.7).
@@ -39,11 +41,14 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Development set** — The part of the labelled data used to write and tune the prompt; failures are read and fixed here (lesson 05.2).
 - **Divergence** — The spread between independent scores on one card; discussed for evidence instead of averaged (lesson 03.5).
 - **DPIA trigger** — A written condition (decisions about people, highly sensitive data, personal data at scale, new recipients, a new purpose, monitoring of people) that means a DPIA must be done before an AI use starts or continues (lesson 04.4).
+- **Exit check** — One fresh case done alone at the end of a session and observed against the checks; its results stay with the trainer and champion (lesson 06.2).
 - **Exitable phase** — A priced part of an engagement with its own deliverables and acceptance criteria, after which the client can stop and keep everything delivered (lesson 01.1).
 - **Expansion** — A new request that fails any of the five refinement questions and therefore goes through a change request (lesson 01.3).
 - **Expected error cost** — Items a month × error rate × cost per error, netted from a candidate's benefit before its value is rated (lesson 03.4).
 - **Fast screen** — Seven one-sentence questions per candidate, a pass-or-fail data gate and a verdict of go, go with a condition, or stop, run before any scoring (lesson 03.3).
 - **Four ledgers** — The sponsor's team, the receiving team, control capacity (review labour) and the customer's share; every claimed benefit is netted across them (lesson 03.7).
+- **Freed hours** — Capacity a pilot creates; unless someone writes down where it goes, with an owner and an indicator, it refills unseen (lesson 06.1).
+- **Frontline-manager questions** — Does the manager expect use where it helps, use the tool visibly, and talk about it in regular conversations about the work (lesson 06.4).
 - **Gate, not date** — Writing a roadmap dependency as a checkable condition with an owner instead of a start date (lesson 03.8).
 - **Guardrail metric** — The number that must not get worse while the KPI improves, chosen so that it moves the wrong way if the gain is fake (lesson 03.6).
 - **Hand tally** — A count kept by people over a chosen period where no export exists; a sample with estimation bias, used with its limits stated (lesson 02.4).
@@ -52,6 +57,8 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Host list** — The maintained list of AI service domains used to find AI traffic in a proxy log, because proxy categories lag behind new tools (lesson 01.6).
 - **Intake register** — The single list of every AI build, purchase and request, with owner, tool, data class, overlaps, tier, route, decision and days to decision (lesson 04.7).
 - **Interim AI rule** — A short rule issued within days of the census, covering the data that may not go into unapproved tools, an approved alternative with a date, and an amnesty for past use (lesson 01.6).
+- **Issues log** — The champions' record of what goes wrong, one row per problem with an example, each with a decision, an owner and the date the team was told (lesson 06.3).
+- **Job aid** — The one-page reference kept beside the screen: the rule, the checks, the marks, the stop conditions and where to get help (lesson 06.2).
 - **Label question** — Whether the outcome an AI use would learn from or be judged against was ever recorded, consistently, by someone who knew; if not, the verdict is "not yet" (lesson 02.5).
 - **Ledger line** — For a candidate, who now checks, corrects, escalates or waits because of the change; never left blank (lesson 03.1).
 - **Legal register** — The separate list of AI systems that carry a legal duty, with the duty and the evidence it is met, linked to the inventory by ID (lesson 01.7).
@@ -62,11 +69,14 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Measured / directional / assumed** — Evidence labels for a benefit: counted from data you can show; direction evidenced but size estimated; a belief, vendor figure or someone else's number (lesson 03.7).
 - **Measurement conditions** — The sample, definition of success, volume and task mix, oversight and time window under which a figure was measured (lesson 04.8).
 - **Mechanism sentence** — A risk written as "Because [condition], [who] may suffer [harm] through [path]", so a control can be attached to the path (lesson 04.5).
+- **Monitoring notice** — The written notice, given before collection, of what is recorded about employees, why, who sees it, what it is never used for and how long it is kept (lesson 06.5).
 - **Negative test** — A hand-written test case for a rare or harmful situation (injury, refund outside policy, another person's data, prompt injection, unsupported language) that the pilot must handle correctly every time (lesson 05.2).
 - **No-AI baseline** — The result of the simplest method without a model (keyword rules, macros) on the same test set, which an AI pilot must beat where it is used (lesson 05.4).
 - **Not yet a candidate** — An idea whose workflow step or owner cannot be named yet; recorded with the question that would make it a candidate (lesson 03.1).
 - **Observation protocol** — The agreed rules for watching real work: stated purpose, consent and the right to stop, a timed log, no personal data in the notes, a read-back (lesson 02.3).
+- **Old path** — The way a step was done before the AI output arrived (a macro, a phone, a free tool); a workflow redesign switches it off on a date with an owner, or people go back to it (lesson 06.1).
 - **Opportunity map** — The full list of candidate changes from three feeds plus discovery, each restated as one workflow step with an owner, a sourced volume and one benefit unit, and placed as automate, assist, augment or leave alone (lesson 03.1).
+- **Opportunity-aware population** — The people who could have used the tool in a given week, from role and HR status, used as the denominator instead of licences (lesson 06.4).
 - **Order context** — The facts about an order, taken from company systems, that are handed to the model with a message so that the draft never has to produce them itself (lesson 05.3).
 - **Paired quality metric** — A quality measure reported beside an efficiency measure, chosen so that it moves the wrong way if the efficiency gain is fake (lesson 05.1).
 - **Paper versus practice** — The documented difference between the written process and the observed one, recorded as a finding with evidence and consequence (lesson 02.3).
@@ -74,11 +84,16 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Pilot charter** — The signed one-page agreement for a pilot: falsifiable hypothesis, scope with reasons, thresholds copied from the business case's gates, stop rules, one owner and the rule of use (lesson 05.1).
 - **Pinned model** — A model identifier that always refers to the same model snapshot, so that a run records exactly which model answered (lesson 05.7).
 - **Plain automation** — Rules, integrations and scheduled jobs that need no model, such as comparing two dates and sending a fixed text (lesson 03.2).
+- **Planted-error exercise** — A training card built from a real case in which the AI output hides one error that one specific check catches (lesson 06.2).
 - **Pre-mortem** — A workshop in which participants assume the project has already failed and write down why before any discussion, to surface risks people hesitate to name (lesson 04.5).
 - **Proceed / phase / not yet** — The three readiness verdicts, given per use case, each with the findings it turns on and what would change it (lesson 02.6).
 - **Production-readiness checklist** — The list of what must be true before an AI output reaches real users, each line with evidence, an owner and the consequence for the go-live date if it stays open (lesson 05.6).
+- **Promise table** — The list of sentences a team wants to hear, each checked against the business case and approved word for word by the person who can keep it (lesson 06.5).
 - **Provenance** — How a file was produced (system export, hand-kept file, narrative document, vendor document, written for you), which sets how far to trust it (lesson 01.5).
 - **Pseudonymisation residue** — Personal details that a pseudonymisation pass missed, found by searching for them after the pass (lesson 05.2).
+- **Qualified event** — The logged event that shows the tool entered the real work (at Harbor & Pine, a draft inserted into a reply), as opposed to events that fire by themselves (lesson 06.4).
+- **Qualified-use rate** — People with enough qualified events in the window divided by the opportunity-aware population (lesson 06.4).
+- **Quiet non-adoption** — People who used a tool, stopped, and kept working without it, unseen by "active user" counts; read as who, when, where and back to what (lesson 06.4).
 - **Read-back** — Repeating the sponsor's objective to them in their own words and recording that they confirmed or corrected it (lesson 01.2).
 - **Readiness assessment** — A dated judgment, per use case, of whether the work, data, owners, people, governance, measurement and technology around it are ready, ending in proceed, phase or not yet (lesson 02.6).
 - **Receiving team** — The people who absorb work a program moves or creates, often outside the team in scope and missing from the org chart's view of the project (lesson 02.1).

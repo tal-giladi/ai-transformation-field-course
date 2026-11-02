@@ -215,7 +215,7 @@ function renderStopped() {
     list.some((x) => /free|personal/i.test(x.backTo))
       ? h('p', { class: 'callout callout-warn' }, 'Some went back to a free AI tool on a personal account: quiet non-adoption can turn into shadow AI.')
       : null,
-    h('p', { class: 'small muted' }, 'In a real team: report patterns by team and week, not named people, unless your policy and the law allow it. Ask frontline managers three questions instead: who stopped, when, and back to what?'),
+    h('p', { class: 'small muted' }, 'In a real team: report patterns by team and week, not named people, unless your policy and the law allow it. Ask the quiet non-adoption questions instead: who stopped, when, and back to what? Then ask frontline managers whether they expect the tool to be used, use it visibly themselves, and talk about it in regular conversations about the work.'),
   );
   shell.announce(`${list.length} people stopped quietly.`);
 }

@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    The support manager opens with "Everyone is on it, the panel is open on every screen." The data
+    shows the WhatsApp agents insert no drafts. What is your best next move?
+  options:
+    - >-
+      Show him the per-person table so he can see for himself who stopped.
+    - >-
+      Accept his account for now and raise the WhatsApp numbers at the steering meeting.
+    - >-
+      Explain the panel opens by itself, then ask how a WhatsApp reply gets written now.
+    - >-
+      Tell him the dashboard is objective and his impression cannot outweigh the export.
+  correct: 2
+  explanation: >-
+    Correct the misreading with how the data is produced, then ask about the work. He corrects
+    himself and tells you what you need; names or a debate about who is right end the conversation.
+
+- id: q2
+  question: >-
+    You learn that the senior agent, a champion and your best user, changed the Russian instructions in
+    the tool's settings herself two weeks ago. The drafts improved. What do you do?
+  options:
+    - >-
+      Thank her, log it as a change, test it, and make her owner of Russian changes.
+    - >-
+      Revert the change at once and report it to the manager as a breach of the playbook.
+    - >-
+      Leave it in place quietly, since the results are better and she is a key ally.
+    - >-
+      Give her admin rights officially so future fixes are no longer outside the rules.
+  correct: 0
+  explanation: >-
+    Her fix may be good, but untested changes make results unattributable and may break other
+    languages or flags. Bring it into change control without blame, and close the gap that allowed it.
+
+- id: q3
+  question: >-
+    HR tells you agents believe "the AI person has a list of three names". It started when the manager
+    said "some of you stopped using the drafts; I know who". What do you agree?
+  options:
+    - >-
+      Nothing; there is no list, so the rumour will die once the gate results are out.
+    - >-
+      A dated correction from the manager and the who-sees-what in writing again.
+    - >-
+      A private word with each of the three agents to reassure them individually.
+    - >-
+      Stop all per-person data collection and announce that monitoring has ended.
+  correct: 1
+  explanation: >-
+    In a small team, team-level findings point at people, and a careless remark made it worse. A quick
+    correction from the source, the written promise again and the right framing restore trust.
+
+- id: q4
+  question: >-
+    At the end of the conversation with HR you asked "anything else?" and she said no. What would a
+    stronger interviewer have done?
+  options:
+    - >-
+      Thanked her and closed the meeting, since she knows the team best.
+    - >-
+      Sent a survey to the whole team to check whether she had missed anything.
+    - >-
+      Asked her to share the names of anyone else who seemed worried.
+    - >-
+      Asked about specific groups, such as people on leave or the newest agents.
+  correct: 3
+  explanation: >-
+    A general question gets a general answer. Asking about particular groups surfaces worries she
+    would not volunteer, without asking for names.

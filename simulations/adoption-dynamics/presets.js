@@ -5,12 +5,12 @@ export const DEFAULT_PRESET = 'harbor';
 
 export const PRESETS = {
   harbor: {
-    label: 'Harbor & Pine — support team, AI email drafts',
+    label: 'Harbor & Pine — support team, AI reply drafts',
     team: 'support agents',
-    task: 'answering damage, assembly, return and B2B emails with the AI draft',
+    task: 'answering damage, assembly, return and B2B messages with the AI draft',
     brief:
-      'The support-email pilot passed its go/no-go and starts on 1 February 2027. All 14 support agents get a licence; ' +
-      '12 of them answer email (two work the phones only). The vendor’s admin dashboard will show licences and weekly ' +
+      'The reply-drafts pilot for written contact passed its go/no-go and starts on 1 February 2027. All 14 people in support get a licence; ' +
+      '12 of them answer written contact (the manager and the claims coordinator do other work). The vendor’s admin dashboard will show licences and weekly ' +
       'active users. Michal, the COO, wants to know in August whether the tool is used on the work that matters. ' +
       'Plan the first 26 weeks: which levers, from which week. Then read the dashboard honestly: who uses it on real ' +
       'emails, and who quietly went back to the old way.',

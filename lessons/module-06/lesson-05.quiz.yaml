@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    The COO's draft FAQ says "No one will lose their job because of AI." The business case has no
+    headcount cut but relies on not hiring two seasonal temps. What do you do with the sentence?
+  options:
+    - >-
+      Keep it; it is true for the permanent team and calms people before go-live.
+    - >-
+      Use a dated, narrower promise the CEO approves, and mention the temps.
+    - >-
+      Remove the question from the FAQ and let managers answer it one to one.
+    - >-
+      Keep it but add "at this stage" so it cannot be held against the company later.
+  correct: 1
+  explanation: >-
+    An open-ended promise is broken by the first vacancy that is not filled. A narrower, dated
+    commitment from the person who can keep it, plus the truth about the temps, survives.
+
+- id: q2
+  question: >-
+    The team heard in September that the CEO promised the board a 40% cut in support cost. How does the
+    FAQ handle it?
+  options:
+    - >-
+      Say the 40% figure is not relevant to this project and move on.
+    - >-
+      Leave it out, since repeating the number would only spread the rumour further.
+    - >-
+      Say what was told to the board, what was measured since, and what the approved plan does.
+    - >-
+      Say the CEO only meant 40% as an aspiration, as he now prefers to describe it.
+  correct: 2
+  explanation: >-
+    People check the FAQ against what they already know. Naming the number and what replaced it
+    builds trust; dodging or softening a recorded statement reads as "still true".
+
+- id: q3
+  question: >-
+    Which monitoring sentence belongs in the notice to the support team?
+  options:
+    - >-
+      "We respect your privacy and do not monitor how individual employees use the tool."
+    - >-
+      "Usage may be reviewed by management from time to time for business purposes."
+    - >-
+      "All activity in the tool is logged and may be used in line with company policy."
+    - >-
+      "Feature counts per person and day; team totals for managers; never used in reviews."
+  correct: 3
+  explanation: >-
+    A notice has to say what is collected, who sees it, and what it is not used for. Denying
+    collection is false; vague wording fails the detailed-notice standard the regulator expects.
+
+- id: q4
+  question: >-
+    Next year you run the same pilot at a factory with a workers' committee and a collective agreement.
+    What changes first in the comms sequence?
+  options:
+    - >-
+      The committee and union get written information and a consultation before the team hears.
+    - >-
+      Nothing changes, since the pilot does not dismiss anyone and needs no consultation.
+    - >-
+      The team hears first, so the committee cannot claim the employees were kept in the dark.
+    - >-
+      The committee chair joins the training as a champion, which satisfies any duty to consult.
+  correct: 0
+  explanation: >-
+    Where employees are represented, the representatives are informed and consulted before the
+    change, often under the agreement itself; skipping it invites a labour dispute. Counsel confirms
+    what the specific agreement requires.

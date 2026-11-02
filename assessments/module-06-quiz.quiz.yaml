@@ -1,0 +1,182 @@
+- id: q1
+  question: >-
+    A retailer adds an AI reply panel to its helpdesk. Three weeks later the old "standard answers"
+    folder is still used more than the panel. Nothing in the workflow was changed. What should have
+    happened before go-live?
+  options:
+    - >-
+      A stronger launch email from the CEO explaining why the panel matters.
+    - >-
+      A redesign that switched the old path off on a date, with a named owner.
+    - >-
+      A longer training session covering every feature of the panel.
+    - >-
+      A weekly usage league table to create friendly competition between agents.
+  correct: 1
+  explanation: >-
+    People take the easiest path at the busiest moment. Unless the old path is removed with a date and
+    an owner, the new tool competes with a habit and loses.
+
+- id: q2
+  question: >-
+    Your pilot's drafts will quote the delivery date from a field the logistics team updates. Logistics
+    was not in any pilot meeting. What is the most important thing to add to the plan?
+  options:
+    - >-
+      The daily field update as a written duty in logistics' routine.
+    - >-
+      A disclaimer in every draft that dates may change without notice.
+    - >-
+      A monthly report to logistics on how many drafts quoted their field.
+    - >-
+      A prompt rule telling the model to round all dates to the nearest week.
+  correct: 0
+  explanation: >-
+    The pilot makes logistics a receiving team. If keeping the field current is not owned and
+    absorbed, the drafts become as wrong as the old macro.
+
+- id: q3
+  question: >-
+    You have one hour per person for training during a busy season. Which design is most likely to
+    change behaviour in week 2?
+  options:
+    - >-
+      A vendor-led tour of features followed by a completion certificate for HR records.
+    - >-
+      A lecture on how language models work, so people trust the outputs more.
+    - >-
+      Small groups by language working real cases, each hiding one error a specific check catches.
+    - >-
+      A self-paced e-learning module that agents can finish when the queue is quiet.
+  correct: 2
+  explanation: >-
+    Transfer comes from practising the actual checking skill on the team's own work. Features,
+    theory and self-paced modules move completion figures, not what people do on the queue.
+
+- id: q4
+  question: >-
+    A manager asks the champions to tell him weekly who is "not using the tool properly". The
+    champions' playbook is silent on it. What do you do?
+  options:
+    - >-
+      Let each champion decide whether sharing names is fair to their colleagues.
+    - >-
+      Agree for the first month only, while habits are still forming.
+    - >-
+      Agree, provided names are only shared verbally and never written down.
+    - >-
+      Write a "never report people" line; give the manager team figures.
+  correct: 3
+  explanation: >-
+    Champions who report on colleagues stop hearing anything useful. The limit belongs in writing;
+    the manager's legitimate need is met by team-level numbers.
+
+- id: q5
+  question: >-
+    The vendor dashboard says 90% of licence holders are active. The export shows the "active" event
+    fires whenever a ticket is opened. What is your first step in building an honest figure?
+  options:
+    - >-
+      Classify each event as automatic, a click, trying or use, and count only use.
+    - >-
+      Ask the vendor to explain its definition before you publish anything.
+    - >-
+      Divide total events by the number of licences to get uses per person.
+    - >-
+      Survey the team on how often they think they use the tool each week.
+  correct: 0
+  explanation: >-
+    An event that fires by itself is not adoption. Knowing what each event means comes before any
+    rate; surveys and averages built on the wrong event repeat the same error.
+
+- id: q6
+  question: >-
+    Two agents stopped using the drafts in week 4: one went on maternity leave, the other moved to a
+    new chat queue and kept working full days. How should the dashboard treat them?
+  options:
+    - >-
+      Both as quiet non-adopters, since neither used the tool after week 4.
+    - >-
+      The first leaves the population; the second is a possible non-adopter to explain.
+    - >-
+      Both leave the population, since their circumstances changed in week 4.
+    - >-
+      Neither appears, because individual circumstances do not belong on a dashboard.
+  correct: 1
+  explanation: >-
+    The opportunity-aware population follows HR status week by week. Someone on leave had no chance to
+    use the tool; someone still working who stopped is the signal worth investigating.
+
+- id: q7
+  question: >-
+    An Israeli company wants a per-person usage table for an AI tool. It has no works committee. Which
+    design best fits Israeli privacy and labour principles?
+  options:
+    - >-
+      Collect it freely, since employees signed a contract allowing use of company systems.
+    - >-
+      Collect it only after each employee signs a consent form specific to the tool.
+    - >-
+      A defined purpose, minimum data, limited access, a detailed notice and a deletion date.
+    - >-
+      Collect nothing per person, since any individual data counts as surveillance.
+  correct: 2
+  explanation: >-
+    Case law and the regulator look for legitimacy, proportionality and transparency, and treat
+    employee consent with suspicion. A narrow, notified, time-limited design passes those tests better
+    than consent forms or a blanket ban; counsel confirms the details.
+
+- id: q8
+  question: >-
+    The CEO told the board AI would cut support cost by 40%. The approved plan cuts no permanent role
+    but relies on not hiring seasonal temps. What does the FAQ say about job security?
+  options:
+    - >-
+      "No one will lose their job because of AI," which is true for the permanent staff.
+    - >-
+      Nothing about jobs, leaving the topic to managers in one-to-one conversations.
+    - >-
+      That job security depends on everyone using the tool enthusiastically.
+    - >-
+      A dated, CEO-approved commitment, plus what happened to the 40% and the temps.
+  correct: 3
+  explanation: >-
+    A promise must be one the CEO can keep, so it needs a scope and an end date, and the number
+    everyone heard must be addressed. Open-ended reassurance is broken by the first unfilled vacancy.
+
+- id: q9
+  question: >-
+    Next quarter you run the same pilot at a unionised factory with a workers' committee. What changes
+    in your plan compared with a company that has none?
+  options:
+    - >-
+      The committee is informed and consulted before the team hears, with counsel involved.
+    - >-
+      Nothing, since the pilot does not dismiss anyone and so needs no consultation.
+    - >-
+      The committee chair approves the FAQ, which replaces the CEO's approval of it.
+    - >-
+      The pilot starts first and the committee is briefed once there are results to show.
+  correct: 0
+  explanation: >-
+    Where employees are represented, information and consultation come first, and collective
+    agreements often require it; starting unilaterally invites a labour dispute. Counsel reads the
+    specific agreement.
+
+- id: q10
+  question: >-
+    Your best user, a senior agent, quietly changed the tool's settings to fix poor drafts in her
+    language. Results improved. The gate review is in two days. What do you do?
+  options:
+    - >-
+      Keep the change and leave it out of the gate report, since the results are better.
+    - >-
+      Thank her, log and test the change before the gate, and make her owner through the process.
+    - >-
+      Reverse the change and escalate it to her manager as a breach of the playbook.
+    - >-
+      Give her official admin rights so future improvements happen faster.
+  correct: 1
+  explanation: >-
+    An untested change makes results unattributable and may break other languages or safety flags.
+    Bringing it into change control keeps both the evidence and the expert.
