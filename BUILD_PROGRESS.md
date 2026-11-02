@@ -28,7 +28,7 @@ Goal: build the course in `curriculum/plan.md` under
 
 ## Now working
 
-- Agent 1: free.
+- Agent 1: engagement 08 (Northwind) — started 2026-11-02.
 - Agent 2: simulations batch 3 — started 2026-11-02.
 - After Foundation C: align Harbor volumes in `simulations/pilot-economics/presets.js`, `oversight-under-load/presets.js` and the portfolio-sorter cards with the data room (see `curriculum/inbox/simulations-batch-1-notes.md`).
 - Next: modules 03, 04 as slots free; simulations batch 3 before module 10/14/15.
@@ -88,3 +88,4 @@ merge `curriculum/inbox/module-NN-sources.md` into `references/` when that page 
 > `C:\Users\TALGIL~2\AppData\Local\Temp\claude\C--Users-TalGiladi-OneDrive-repos-tals-academy\a0debebf-67cd-4f6f-aa4b-dc46c09253bc\scratchpad\venv\Scripts\python.exe`.
 > End with the build-spec's final report (under 200 words).
 - 2026-11-02 Course story: the date fix goes live Thu 14 Jan 2027 (modules 3–7); steering, risk-register and roi-defender presets and the writer's notes aligned; steering gate 1 = the charter's four conditions; outcome at gate 1: email/web pass, WhatsApp drafts back to shadow for a fix, re-gate July. Stage 1 complete (53 lessons).
+- 2026-11-02 Entry roles per engagement (vary on purpose): 08 outside consultant for the COO; 09 internal head of AI transformation; 10 consultant to the clinic network's CIO; 11 municipal digital lead handed AI (accidental owner); 12 consultant to the managing partner; 13 internal operations-excellence manager told to 'do AI'; 14 new head of AI operations under the VP Support; 15 head of a new AI CoE; 16 pro bono volunteer consultant; 17 interim AI lead hired by the board.
