@@ -1,0 +1,95 @@
+- id: q1
+  question: >-
+    The helpdesk category says 33% of agent contacts are returns, the tag says 38%, and the 2,000
+    labelled written tickets say 54%. What goes on the baseline sheet?
+  options:
+    - >-
+      54%, because the labelled tickets are the most careful reading available.
+    - >-
+      33%, because it comes from the company's own system and the board will recognise it.
+    - >-
+      The average of the three readings, so no single source dominates the estimate.
+    - >-
+      A range of about 38–54% with a working figure, and why each reading differs.
+  correct: 3
+  explanation: >-
+    The category under-counts (19% "General" or blank), the tag is used inconsistently, and the
+    labelled tickets are written channels only. A range with reasons is honest and still usable; an
+    average of three biased readings hides which way each one leans.
+
+- id: q2
+  question: >-
+    October's chatbot bill is US$9,900 for 6,000 "resolutions". 64% of logged-in resolved chats were
+    followed by an agent contact within a week. An agent chat costs about ₪13. What is the strongest
+    way to put this to the CFO?
+  options:
+    - >-
+      The bot costs about ₪5 a chat, so it is far cheaper than agents and should be extended.
+    - >-
+      About ₪14 per truly resolved chat against ₪13 for an agent, directional because logged-in only.
+    - >-
+      The bot is useless, since nearly two thirds of its resolutions are false.
+    - >-
+      The bill cannot be judged until the vendor reports its own recontact figures.
+  correct: 1
+  explanation: >-
+    Dividing the bill by billed resolutions ignores the customers who came back; dividing by the truly
+    resolved ones, with the limit stated, gives a comparable cost. "Useless" over-reads a directional
+    figure, and the vendor cannot see contacts outside its own chat.
+
+- id: q3
+  question: >-
+    Your policy-first package frees about 1,000 agent-hours a month. The CFO's rule is that "capacity
+    freed is not a saving". How do you show it in the case?
+  options:
+    - >-
+      As ₪89,000 a month of capacity, naming the decision that would make it cash.
+    - >-
+      As ₪1.07M a year of savings, since six agents' time is clearly freed.
+    - >-
+      Leave it out, because the CFO will not accept any number that is not cash flow.
+    - >-
+      As a reduction of six agents in the 2027 budget, to replace the CEO's number.
+  correct: 0
+  explanation: >-
+    Capacity is real value, but it becomes cash only through a decision (hiring fewer people as others
+    leave, for example). Labelling it as capacity and naming that decision respects the CFO's rule
+    without throwing away the evidence or inventing a headcount plan nobody agreed.
+
+- id: q4
+  question: >-
+    Fixing the returns policy would give up handling fees above the 5% / ₪100 cap and part of the
+    credit-note breakage, several million shekels a year. Where does that go in your case?
+  options:
+    - >-
+      In an appendix, so the front page stays focused on the contacts avoided.
+    - >-
+      Nowhere: income from a practice that conflicts with the terms should not be counted.
+    - >-
+      On the front page, as the cost of the fix, with counsel's view on the fees to follow.
+    - >-
+      Only in a private note to the CFO, since he already knows about breakage.
+  correct: 2
+  explanation: >-
+    The steering group will decide on the policy; if it learns about the lost income from the CFO in the
+    room, the case collapses. Putting it on the front page, labelled, and leaving the legal reading to
+    counsel is what makes the recommendation survive finance.
+
+- id: q5
+  question: >-
+    The CEO's stated ask fails your screen. Which addition makes your one-page case most likely to be
+    taken by him rather than fought?
+  options:
+    - >-
+      A list of public chatbot failures, so that he sees the risk he is taking on.
+    - >-
+      A sentence for the board that replaces "half by Q2", with a measure and a gate.
+    - >-
+      A statement that AI is not suitable for Northwind's customer service at this time.
+    - >-
+      An offer to extend the bot to returns later, once the policy is fixed, as a compromise.
+  correct: 1
+  explanation: >-
+    A CEO who has promised a number needs a credible story to replace it; a measure and a gate give him
+    one. Public failures and a blanket "no AI" invite a fight, and promising the stopped option later
+    commits you to something the evidence has not supported.

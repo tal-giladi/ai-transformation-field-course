@@ -1,0 +1,3401 @@
+customer_id,joined_date,segment,site_language,city,marketing_opt_in
+C1001177,2018-07-29,regular,he,Shefa-Amr,n
+C1008278,2014-06-02,regular,he,Jerusalem,y
+C1009599,2023-08-27,trail_club,he,Modiin,n
+C1009728,2024-02-05,trail_club,he,Herzliya,y
+C1012502,2022-12-28,regular,he,Haifa,n
+C1014642,2025-12-19,trail_club,he,Ra'anana,n
+C1015879,2020-09-26,regular,en,Jerusalem,y
+C1018304,2021-10-12,regular,he,Rehovot,n
+C1022746,2019-01-19,regular,en,Tel Aviv-Yafo,y
+C1031137,2017-09-05,trail_club,he,Jerusalem,y
+C1032201,2018-02-24,trail_club,he,Jerusalem,n
+C1032400,2017-12-19,regular,he,Bat Yam,n
+C1034985,2019-03-02,regular,he,Tayibe,n
+C1039815,2024-03-09,trail_club,he,Haifa,n
+C1039999,2014-02-11,trail_club,he,Tayibe,n
+C1043725,2019-07-26,trail_club,he,Netanya,y
+C1044215,2021-12-16,regular,he,Petah Tikva,y
+C1044388,2025-11-26,trail_club,he,Kafr Qasim,y
+C1049955,2024-04-24,trail_club,he,Kiryat Gat,n
+C1051685,2018-07-23,regular,he,Petah Tikva,y
+C1052306,2014-06-21,regular,he,Karmiel,n
+C1054400,2018-03-22,regular,he,Ashdod,y
+C1059460,2021-10-14,regular,he,Kfar Saba,n
+C1069393,2014-04-02,regular,he,Ra'anana,y
+C1073028,2017-03-10,regular,he,Netanya,n
+C1074053,2016-01-27,silver_trail,he,Herzliya,y
+C1075387,2017-04-07,regular,he,Haifa,y
+C1076511,2017-01-17,regular,he,Haifa,y
+C1081557,2014-11-09,silver_trail,he,Rehovot,n
+C1085108,2016-02-18,regular,he,Kiryat Gat,y
+C1087122,2017-07-14,silver_trail,he,Rishon LeZion,n
+C1087715,2014-09-27,trail_club,he,Jerusalem,y
+C1089194,2024-03-27,regular,he,Petah Tikva,y
+C1091993,2026-07-11,regular,he,Tayibe,n
+C1094880,2014-04-28,trail_club,he,Netanya,y
+C1098111,2023-03-25,regular,he,Rehovot,y
+C1099869,2016-02-02,trail_club,he,Nazareth,n
+C1100336,2024-07-24,regular,he,Karmiel,y
+C1101853,2021-11-12,regular,he,Karmiel,n
+C1102235,2020-12-09,silver_trail,he,Nazareth,y
+C1102811,2015-03-27,regular,he,Netanya,y
+C1110110,2022-10-04,trail_club,he,Shefa-Amr,y
+C1111352,2015-10-23,regular,he,Rehovot,y
+C1112454,2017-08-15,regular,he,Umm al-Fahm,y
+C1113492,2020-08-28,trail_club,he,Rishon LeZion,y
+C1116373,2019-03-26,regular,he,Eilat,y
+C1118176,2015-08-11,trail_club,he,Jerusalem,y
+C1131024,2026-08-15,regular,he,Kfar Saba,y
+C1133428,2017-04-24,regular,he,Beersheba,y
+C1137783,2023-02-03,regular,he,Netanya,n
+C1141534,2021-04-06,regular,he,Herzliya,n
+C1142236,2017-08-05,regular,he,Haifa,y
+C1143181,2020-01-20,regular,he,Kfar Saba,y
+C1148452,2020-07-17,regular,he,Kafr Qasim,y
+C1149855,2023-06-30,regular,he,Tel Aviv-Yafo,y
+C1161824,2026-06-22,trail_club,he,Rishon LeZion,n
+C1164369,2024-05-04,regular,he,Haifa,n
+C1166541,2017-12-15,trail_club,he,Haifa,n
+C1166931,2026-05-13,regular,he,Jerusalem,n
+C1172719,2018-09-13,trail_club,he,Haifa,n
+C1179417,2018-08-28,regular,he,Ra'anana,n
+C1185287,2016-02-03,regular,he,Beersheba,n
+C1189818,2022-01-11,regular,he,Ashdod,n
+C1190460,2020-10-15,regular,he,Haifa,y
+C1192399,2026-03-26,trail_club,he,Beersheba,n
+C1193487,2016-08-26,silver_trail,he,Karmiel,y
+C1198745,2014-12-01,trail_club,he,Petah Tikva,n
+C1200063,2016-12-12,regular,he,Ra'anana,n
+C1205732,2024-09-23,silver_trail,he,Haifa,y
+C1206622,2014-07-07,trail_club,he,Netanya,n
+C1209362,2020-09-23,trail_club,he,Kafr Qasim,y
+C1210587,2018-05-22,silver_trail,he,Modiin,y
+C1213842,2015-07-15,regular,he,Netanya,y
+C1220263,2019-01-21,trail_club,he,Haifa,y
+C1228779,2021-04-25,trail_club,he,Rehovot,n
+C1232715,2026-10-08,regular,he,Eilat,y
+C1232927,2023-03-21,regular,he,Herzliya,y
+C1236524,2022-05-06,trail_club,he,Haifa,y
+C1237132,2015-09-18,regular,he,Jerusalem,y
+C1238688,2020-02-16,trail_club,he,Eilat,y
+C1247568,2018-06-16,trail_club,he,Kafr Qasim,y
+C1248819,2016-02-19,regular,he,Tel Aviv-Yafo,n
+C1256940,2026-08-24,regular,he,Beersheba,y
+C1266041,2022-03-18,regular,en,Beit Shemesh,y
+C1268094,2025-10-18,trail_club,he,Ashkelon,n
+C1269782,2020-12-01,regular,he,Beersheba,n
+C1271095,2014-02-16,silver_trail,he,Jerusalem,y
+C1271688,2019-09-19,trail_club,he,Rehovot,y
+C1274369,2021-03-10,trail_club,he,Nazareth,y
+C1277155,2024-11-17,regular,he,Herzliya,y
+C1277623,2020-03-18,regular,he,Eilat,n
+C1279519,2023-12-15,regular,he,Ra'anana,y
+C1283606,2016-07-17,trail_club,he,Eilat,n
+C1284907,2016-03-25,regular,he,Netanya,n
+C1286042,2026-07-25,regular,en,Jerusalem,n
+C1290723,2021-02-26,regular,he,Petah Tikva,n
+C1299433,2024-12-15,regular,he,Nazareth,y
+C1300786,2017-10-15,regular,he,Eilat,y
+C1303796,2020-05-01,regular,he,Rehovot,y
+C1303945,2019-03-22,regular,he,Tel Aviv-Yafo,n
+C1308724,2019-08-03,regular,he,Kfar Saba,y
+C1311799,2023-06-19,silver_trail,he,Shefa-Amr,y
+C1313414,2024-10-31,regular,he,Karmiel,y
+C1315073,2024-04-02,regular,he,Karmiel,y
+C1317556,2020-07-09,trail_club,he,Rishon LeZion,n
+C1320309,2022-07-01,silver_trail,he,Rehovot,y
+C1328216,2026-10-06,regular,he,Haifa,n
+C1329125,2026-07-07,regular,he,Netanya,y
+C1329640,2022-04-10,trail_club,he,Netanya,y
+C1330388,2023-04-28,regular,he,Umm al-Fahm,n
+C1332339,2019-01-21,regular,he,Karmiel,y
+C1332895,2020-07-26,silver_trail,he,Netanya,n
+C1333591,2016-09-22,regular,he,Beersheba,y
+C1337689,2016-07-08,regular,he,Rahat,n
+C1343528,2021-07-22,trail_club,he,Netanya,y
+C1345318,2017-06-05,trail_club,he,Herzliya,y
+C1346273,2019-01-20,regular,he,Haifa,y
+C1348388,2016-09-03,regular,he,Kfar Saba,y
+C1349910,2015-07-29,trail_club,he,Netanya,y
+C1351788,2022-02-22,regular,he,Beersheba,n
+C1353173,2022-01-17,regular,he,Rishon LeZion,y
+C1355274,2023-11-01,trail_club,he,Modiin,n
+C1367267,2024-10-15,trail_club,he,Tel Aviv-Yafo,y
+C1368460,2020-09-27,regular,he,Rishon LeZion,y
+C1370017,2025-02-05,regular,he,Nazareth,y
+C1372832,2024-01-09,trail_club,he,Rishon LeZion,n
+C1374989,2014-08-09,regular,he,Kfar Saba,n
+C1377073,2017-12-25,regular,he,Modiin,y
+C1378826,2021-11-20,regular,he,Rishon LeZion,y
+C1379128,2024-05-12,regular,he,Jerusalem,n
+C1382127,2025-06-19,trail_club,he,Bat Yam,y
+C1387076,2020-04-21,silver_trail,he,Petah Tikva,y
+C1389186,2014-03-21,regular,he,Netanya,n
+C1391908,2020-06-07,trail_club,he,Modiin,y
+C1393360,2015-08-19,silver_trail,en,Jerusalem,y
+C1393501,2016-11-09,regular,he,Kfar Saba,n
+C1395024,2021-01-06,trail_club,en,Ra'anana,n
+C1397203,2026-08-11,regular,he,Haifa,n
+C1401814,2020-05-06,trail_club,he,Tel Aviv-Yafo,n
+C1402263,2018-10-31,regular,he,Herzliya,n
+C1402573,2016-07-31,regular,he,Tayibe,y
+C1403259,2019-04-19,regular,he,Netanya,y
+C1405949,2021-05-28,trail_club,he,Tel Aviv-Yafo,y
+C1416175,2023-05-28,regular,he,Rishon LeZion,y
+C1418236,2017-11-13,regular,he,Beersheba,y
+C1418888,2026-06-16,silver_trail,he,Beersheba,n
+C1419117,2014-09-26,regular,he,Haifa,y
+C1424377,2016-03-19,silver_trail,he,Kfar Saba,n
+C1426900,2026-09-20,trail_club,he,Beersheba,y
+C1432039,2014-10-07,trail_club,he,Shefa-Amr,y
+C1435640,2021-03-15,trail_club,he,Tel Aviv-Yafo,y
+C1436876,2020-09-08,regular,he,Eilat,y
+C1437431,2014-02-07,regular,he,Modiin,n
+C1439728,2023-04-22,trail_club,he,Karmiel,y
+C1440892,2020-10-06,silver_trail,he,Rehovot,n
+C1451200,2016-01-19,trail_club,he,Rishon LeZion,y
+C1451936,2016-10-14,trail_club,he,Bat Yam,y
+C1455356,2023-06-02,silver_trail,he,Herzliya,y
+C1456369,2014-08-05,regular,he,Haifa,n
+C1457865,2022-04-26,regular,he,Rishon LeZion,n
+C1458301,2022-06-28,regular,he,Jerusalem,y
+C1458806,2016-11-03,regular,he,Beersheba,n
+C1459576,2018-11-17,regular,he,Eilat,y
+C1466725,2016-06-03,regular,he,Haifa,n
+C1467662,2014-10-13,silver_trail,he,Herzliya,y
+C1467953,2025-11-29,regular,he,Eilat,y
+C1468606,2022-08-19,regular,he,Jerusalem,y
+C1469454,2015-01-29,regular,he,Herzliya,y
+C1469988,2026-06-19,trail_club,he,Karmiel,y
+C1471728,2019-05-15,regular,he,Rehovot,y
+C1472483,2017-03-21,regular,he,Ra'anana,y
+C1472727,2021-04-09,regular,en,Tel Aviv-Yafo,n
+C1477636,2016-09-02,trail_club,en,Zichron Ya'akov,y
+C1479558,2014-12-12,trail_club,en,Jerusalem,y
+C1480087,2017-07-12,regular,he,Rehovot,y
+C1485256,2015-02-05,regular,he,Kfar Saba,n
+C1489851,2023-04-15,trail_club,he,Haifa,y
+C1490467,2015-04-18,regular,he,Herzliya,n
+C1496703,2018-08-10,regular,he,Rishon LeZion,n
+C1497979,2016-07-08,regular,he,Ashkelon,y
+C1500210,2024-12-14,regular,he,Netanya,n
+C1503876,2015-09-17,regular,he,Rishon LeZion,y
+C1505808,2019-12-12,trail_club,he,Sakhnin,n
+C1505940,2014-01-06,trail_club,he,Tel Aviv-Yafo,y
+C1505995,2016-11-13,regular,he,Ra'anana,y
+C1507340,2014-07-25,trail_club,he,Ra'anana,y
+C1508383,2026-06-10,regular,he,Karmiel,n
+C1509966,2024-03-30,regular,he,Tel Aviv-Yafo,n
+C1510748,2018-04-10,silver_trail,he,Shefa-Amr,y
+C1512676,2014-07-31,regular,he,Rishon LeZion,y
+C1514910,2014-06-10,regular,he,Haifa,y
+C1516631,2023-01-02,trail_club,he,Eilat,n
+C1523529,2024-01-02,regular,he,Modiin,n
+C1526281,2025-09-26,regular,he,Tel Aviv-Yafo,n
+C1529352,2022-02-03,regular,he,Kiryat Gat,y
+C1529366,2018-03-15,regular,he,Karmiel,n
+C1532629,2016-11-05,regular,he,Herzliya,y
+C1534432,2021-05-20,silver_trail,he,Jerusalem,y
+C1534792,2014-09-03,regular,he,Rishon LeZion,y
+C1536149,2015-01-27,trail_club,he,Kfar Saba,y
+C1537450,2017-08-22,trail_club,he,Netanya,y
+C1537927,2016-08-19,silver_trail,he,Karmiel,n
+C1539244,2026-01-23,regular,he,Karmiel,y
+C1539249,2020-11-27,trail_club,he,Rahat,n
+C1541457,2025-11-17,regular,he,Kfar Saba,y
+C1544531,2014-02-02,regular,he,Jerusalem,y
+C1544766,2018-08-28,regular,he,Netanya,y
+C1545117,2017-01-09,regular,he,Ra'anana,y
+C1545920,2025-10-15,trail_club,he,Rishon LeZion,n
+C1547229,2018-12-29,trail_club,he,Beersheba,n
+C1548672,2019-08-28,trail_club,he,Netanya,y
+C1550072,2019-09-14,regular,he,Haifa,y
+C1550732,2014-07-09,trail_club,he,Jerusalem,n
+C1554479,2023-12-01,regular,he,Netanya,n
+C1557335,2014-05-14,silver_trail,he,Beersheba,n
+C1561738,2019-01-15,silver_trail,he,Ra'anana,n
+C1562142,2015-07-08,regular,he,Ra'anana,n
+C1562384,2019-07-01,regular,he,Netanya,n
+C1566786,2024-11-08,regular,he,Kfar Saba,n
+C1568666,2024-10-09,regular,he,Rahat,y
+C1569417,2021-07-11,trail_club,he,Sakhnin,y
+C1571262,2020-08-17,regular,he,Petah Tikva,n
+C1572496,2014-07-30,regular,he,Haifa,n
+C1573370,2017-02-02,regular,he,Rishon LeZion,y
+C1573390,2019-06-02,regular,he,Haifa,y
+C1574596,2020-09-01,regular,he,Beersheba,y
+C1575128,2020-12-14,trail_club,he,Kfar Saba,y
+C1575218,2016-04-29,regular,he,Herzliya,y
+C1575520,2023-08-15,trail_club,he,Kfar Saba,y
+C1578163,2018-03-08,regular,he,Rehovot,y
+C1578194,2025-07-10,regular,he,Kfar Saba,n
+C1578201,2019-01-13,regular,he,Haifa,n
+C1582480,2022-03-03,regular,he,Kfar Saba,y
+C1583897,2024-11-03,regular,en,Tel Aviv-Yafo,n
+C1584046,2019-10-31,regular,he,Kiryat Malakhi,n
+C1595948,2020-05-17,regular,he,Tayibe,n
+C1600952,2016-07-07,regular,he,Tayibe,y
+C1602201,2019-03-14,regular,he,Beersheba,y
+C1607313,2026-09-19,trail_club,he,Ra'anana,n
+C1608540,2023-12-29,regular,he,Sakhnin,y
+C1609127,2018-08-17,regular,he,Ra'anana,n
+C1609187,2016-08-24,trail_club,he,Tel Aviv-Yafo,y
+C1609448,2016-02-11,regular,he,Netanya,n
+C1613573,2014-10-17,trail_club,he,Netanya,n
+C1614748,2025-07-30,regular,he,Haifa,n
+C1615594,2019-05-07,regular,en,Zichron Ya'akov,n
+C1616310,2020-04-12,trail_club,he,Rehovot,n
+C1617053,2019-04-29,regular,he,Herzliya,y
+C1619042,2020-11-04,regular,he,Herzliya,y
+C1619972,2019-02-10,trail_club,he,Ra'anana,y
+C1621674,2024-10-01,regular,en,Modiin,n
+C1621865,2015-07-22,silver_trail,he,Bat Yam,y
+C1623255,2020-12-11,trail_club,he,Haifa,y
+C1628434,2018-08-06,regular,he,Tel Aviv-Yafo,n
+C1631356,2014-11-02,regular,he,Ashdod,n
+C1642552,2020-04-07,trail_club,he,Umm al-Fahm,n
+C1642989,2016-06-30,regular,he,Beersheba,y
+C1643208,2015-03-20,regular,he,Karmiel,y
+C1645895,2015-02-02,regular,he,Kafr Qasim,y
+C1647540,2016-01-22,trail_club,he,Petah Tikva,n
+C1651200,2017-10-04,trail_club,he,Tel Aviv-Yafo,n
+C1652473,2024-08-12,trail_club,he,Modiin,y
+C1654193,2026-08-11,trail_club,he,Tel Aviv-Yafo,y
+C1656344,2016-06-30,trail_club,he,Petah Tikva,y
+C1656688,2015-09-29,regular,he,Herzliya,y
+C1657595,2021-09-18,regular,he,Jerusalem,y
+C1659066,2024-09-10,trail_club,he,Ra'anana,n
+C1659976,2024-03-31,regular,he,Rehovot,n
+C1660646,2015-02-05,trail_club,he,Herzliya,y
+C1669072,2022-08-28,regular,he,Karmiel,y
+C1669206,2015-06-27,silver_trail,he,Netanya,y
+C1674166,2023-11-19,regular,he,Rishon LeZion,n
+C1675098,2015-01-26,regular,he,Tayibe,y
+C1683705,2025-03-19,regular,he,Ra'anana,y
+C1684836,2022-05-29,regular,he,Kfar Saba,y
+C1687325,2021-05-27,regular,he,Netanya,n
+C1690351,2015-12-21,regular,he,Jerusalem,n
+C1697704,2017-03-15,trail_club,he,Beersheba,y
+C1703904,2014-02-05,regular,he,Karmiel,y
+C1708903,2016-10-10,silver_trail,he,Netanya,n
+C1709469,2021-01-27,silver_trail,he,Haifa,n
+C1710311,2022-11-20,regular,he,Beersheba,n
+C1711421,2017-03-14,trail_club,he,Haifa,y
+C1713620,2015-12-13,regular,he,Karmiel,n
+C1714217,2018-09-01,regular,he,Modiin,n
+C1714826,2022-05-25,trail_club,he,Petah Tikva,y
+C1719767,2016-02-05,regular,he,Ra'anana,y
+C1721312,2025-08-19,regular,he,Eilat,y
+C1721674,2024-05-16,regular,he,Shefa-Amr,y
+C1722460,2026-06-12,trail_club,he,Karmiel,n
+C1726802,2021-12-31,regular,he,Ashdod,y
+C1729981,2014-08-29,trail_club,he,Ra'anana,y
+C1730754,2026-03-29,trail_club,en,Zichron Ya'akov,n
+C1738369,2019-08-09,trail_club,he,Karmiel,y
+C1738774,2022-06-27,trail_club,he,Nazareth,y
+C1739029,2024-07-26,regular,he,Eilat,y
+C1739894,2024-01-15,trail_club,he,Beersheba,n
+C1740682,2020-06-10,regular,he,Karmiel,y
+C1743876,2024-03-29,regular,en,Modiin,y
+C1748519,2017-04-25,trail_club,he,Sakhnin,y
+C1750261,2022-06-09,trail_club,he,Haifa,n
+C1752666,2020-12-23,regular,he,Kfar Saba,y
+C1753906,2021-12-17,regular,he,Netanya,n
+C1754241,2020-02-09,regular,he,Beersheba,n
+C1756408,2016-08-21,trail_club,he,Bat Yam,n
+C1756900,2017-09-02,trail_club,he,Herzliya,y
+C1758015,2018-10-18,trail_club,he,Beersheba,n
+C1759241,2021-12-16,regular,he,Haifa,y
+C1760592,2021-05-27,regular,he,Bat Yam,n
+C1762262,2024-10-01,trail_club,he,Rishon LeZion,n
+C1763827,2026-01-05,regular,he,Beersheba,y
+C1764577,2019-03-20,regular,he,Rehovot,n
+C1772310,2016-01-01,trail_club,he,Karmiel,y
+C1775100,2024-07-18,regular,he,Ra'anana,y
+C1776686,2019-05-18,regular,he,Rehovot,n
+C1779791,2015-03-23,regular,he,Netanya,n
+C1786109,2026-08-31,regular,he,Herzliya,y
+C1786424,2017-05-09,trail_club,he,Herzliya,y
+C1789991,2018-06-25,regular,he,Tel Aviv-Yafo,y
+C1790350,2017-07-14,regular,he,Sakhnin,y
+C1794616,2025-04-09,regular,he,Petah Tikva,n
+C1796523,2017-09-11,regular,he,Tel Aviv-Yafo,y
+C1796998,2020-12-10,regular,he,Ra'anana,y
+C1806501,2026-08-12,regular,he,Karmiel,y
+C1807388,2024-07-19,regular,he,Tel Aviv-Yafo,n
+C1810071,2024-04-19,trail_club,he,Petah Tikva,y
+C1811453,2019-07-22,trail_club,he,Rishon LeZion,n
+C1815893,2018-08-25,trail_club,he,Sakhnin,n
+C1821687,2024-05-31,trail_club,he,Karmiel,n
+C1823375,2018-03-03,regular,he,Modiin,n
+C1823690,2022-02-27,regular,he,Karmiel,n
+C1824916,2020-12-13,regular,he,Jerusalem,n
+C1828385,2026-06-17,regular,he,Petah Tikva,n
+C1830983,2025-04-02,regular,he,Eilat,y
+C1834501,2023-01-25,regular,he,Haifa,y
+C1838581,2015-01-10,trail_club,he,Haifa,y
+C1838956,2021-04-29,regular,he,Jerusalem,n
+C1840652,2015-04-21,trail_club,he,Karmiel,n
+C1843076,2025-01-24,regular,he,Tel Aviv-Yafo,n
+C1843345,2014-06-25,regular,he,Ashdod,y
+C1845442,2016-11-14,regular,he,Jerusalem,y
+C1848255,2014-03-14,regular,he,Modiin,y
+C1850979,2014-11-11,regular,he,Rehovot,y
+C1864383,2019-06-29,regular,he,Eilat,y
+C1867421,2018-11-18,regular,he,Modiin,n
+C1869461,2023-06-01,trail_club,he,Modiin,y
+C1876823,2014-04-28,trail_club,he,Rehovot,n
+C1877710,2026-09-13,regular,he,Haifa,y
+C1884801,2022-07-14,regular,he,Beersheba,y
+C1886841,2022-02-03,trail_club,he,Rehovot,y
+C1887157,2020-02-16,regular,he,Umm al-Fahm,y
+C1893645,2016-05-15,regular,he,Tel Aviv-Yafo,y
+C1893693,2025-09-19,trail_club,he,Netanya,y
+C1894145,2021-08-04,regular,he,Herzliya,y
+C1898338,2017-03-27,regular,he,Bat Yam,n
+C1898514,2015-02-06,regular,he,Kafr Qasim,y
+C1901495,2023-05-22,trail_club,he,Ra'anana,n
+C1903122,2021-09-15,regular,he,Eilat,n
+C1906542,2017-06-30,regular,he,Beersheba,n
+C1906603,2024-11-10,trail_club,he,Haifa,n
+C1908425,2015-02-06,regular,he,Eilat,y
+C1913033,2017-04-03,regular,he,Petah Tikva,y
+C1913081,2021-01-24,regular,he,Eilat,y
+C1915078,2024-12-14,regular,he,Eilat,y
+C1916557,2020-09-21,regular,he,Tel Aviv-Yafo,y
+C1918981,2023-09-01,silver_trail,he,Rehovot,n
+C1924783,2019-12-18,regular,he,Kfar Saba,n
+C1931677,2017-10-07,trail_club,he,Netanya,n
+C1934145,2023-12-09,regular,he,Beersheba,n
+C1943725,2015-06-26,trail_club,he,Beersheba,y
+C1945644,2026-07-02,trail_club,en,Modiin,y
+C1946441,2017-01-08,regular,he,Jerusalem,y
+C1947426,2020-12-30,regular,he,Beersheba,y
+C1951666,2015-07-29,silver_trail,he,Jerusalem,n
+C1954768,2016-02-01,trail_club,he,Nazareth,y
+C1958052,2016-07-20,regular,he,Tel Aviv-Yafo,y
+C1958420,2020-11-10,regular,he,Karmiel,y
+C1958723,2015-07-24,regular,he,Herzliya,n
+C1968562,2022-10-18,regular,he,Modiin,n
+C1973317,2024-02-07,silver_trail,he,Herzliya,n
+C1977854,2024-03-13,regular,he,Haifa,y
+C1984112,2018-03-03,trail_club,he,Rehovot,n
+C1984926,2021-12-16,regular,en,Beit Shemesh,n
+C1988267,2019-01-26,regular,he,Rishon LeZion,n
+C1989306,2024-11-17,regular,he,Netanya,y
+C1990255,2016-12-06,regular,he,Ra'anana,n
+C1990792,2020-09-19,regular,he,Netanya,n
+C1993080,2018-08-16,regular,he,Herzliya,n
+C1998902,2024-03-23,trail_club,he,Herzliya,n
+C2002700,2017-05-22,regular,he,Tel Aviv-Yafo,n
+C2006995,2019-03-29,regular,he,Beersheba,y
+C2007083,2021-06-02,regular,he,Petah Tikva,n
+C2008191,2019-05-16,trail_club,he,Netanya,n
+C2009102,2021-10-11,regular,he,Tel Aviv-Yafo,y
+C2009974,2018-05-24,regular,he,Herzliya,n
+C2010042,2020-06-28,trail_club,he,Umm al-Fahm,y
+C2012228,2018-05-07,regular,he,Kfar Saba,n
+C2012833,2016-08-13,trail_club,he,Beersheba,n
+C2013926,2023-10-21,regular,he,Modiin,n
+C2014490,2024-05-03,regular,en,Beit Shemesh,n
+C2018634,2017-07-15,regular,he,Shefa-Amr,n
+C2022549,2021-09-23,regular,he,Rishon LeZion,n
+C2023860,2026-10-19,regular,he,Haifa,y
+C2024746,2021-06-23,regular,he,Rishon LeZion,n
+C2026210,2021-10-09,regular,he,Eilat,y
+C2026574,2023-11-24,regular,he,Beersheba,y
+C2029734,2019-04-20,regular,he,Rishon LeZion,n
+C2031006,2014-06-25,regular,he,Karmiel,y
+C2033126,2023-09-27,regular,he,Eilat,y
+C2037227,2019-05-31,trail_club,he,Netanya,y
+C2040074,2021-06-16,regular,he,Haifa,n
+C2041443,2020-11-08,trail_club,he,Petah Tikva,n
+C2042565,2024-03-14,trail_club,he,Ashdod,y
+C2044385,2015-09-24,regular,he,Rishon LeZion,y
+C2045591,2023-06-09,regular,he,Tel Aviv-Yafo,n
+C2045780,2015-01-19,trail_club,he,Beersheba,n
+C2046778,2022-04-12,regular,he,Eilat,y
+C2047396,2019-04-06,regular,he,Beersheba,n
+C2056336,2020-06-10,regular,he,Herzliya,n
+C2056885,2017-12-07,regular,he,Kfar Saba,n
+C2068940,2024-05-24,trail_club,he,Eilat,y
+C2071738,2022-02-13,trail_club,he,Kfar Saba,y
+C2072468,2015-07-20,regular,he,Herzliya,n
+C2075316,2017-06-01,regular,he,Beersheba,y
+C2077558,2021-10-09,regular,he,Rehovot,n
+C2080103,2024-05-01,regular,en,Tel Aviv-Yafo,n
+C2081314,2014-05-26,regular,he,Beersheba,n
+C2082468,2018-04-18,trail_club,he,Nazareth,n
+C2085150,2026-08-03,trail_club,he,Netanya,n
+C2087788,2018-08-02,trail_club,he,Ra'anana,n
+C2092496,2025-03-25,trail_club,he,Karmiel,y
+C2094093,2020-01-16,regular,he,Tel Aviv-Yafo,n
+C2098505,2022-01-18,regular,he,Haifa,y
+C2101166,2015-07-08,regular,he,Jerusalem,n
+C2102789,2020-09-06,trail_club,he,Ra'anana,n
+C2103785,2019-11-14,trail_club,he,Kfar Saba,y
+C2104164,2017-06-07,regular,he,Netanya,y
+C2111997,2025-01-20,regular,he,Rishon LeZion,n
+C2120360,2024-07-25,regular,he,Umm al-Fahm,y
+C2120410,2026-10-02,regular,he,Kfar Saba,y
+C2120835,2015-03-12,regular,he,Eilat,n
+C2121206,2015-08-07,trail_club,he,Haifa,n
+C2124536,2018-04-19,regular,he,Eilat,y
+C2125388,2025-07-07,regular,en,Jerusalem,n
+C2125683,2024-06-24,silver_trail,he,Kfar Saba,n
+C2126876,2019-05-15,regular,he,Sakhnin,y
+C2127121,2023-11-23,regular,he,Karmiel,y
+C2128381,2022-04-15,regular,en,Beit Shemesh,n
+C2129988,2017-03-31,regular,he,Ashdod,n
+C2131596,2025-09-17,regular,en,Beit Shemesh,y
+C2133454,2024-04-03,regular,he,Umm al-Fahm,y
+C2141161,2017-10-27,regular,en,Modiin,n
+C2141718,2023-06-09,regular,he,Sakhnin,n
+C2141945,2021-05-27,silver_trail,he,Herzliya,y
+C2144181,2026-07-05,regular,he,Ra'anana,n
+C2147970,2024-03-31,regular,he,Modiin,y
+C2148128,2016-07-27,trail_club,he,Tel Aviv-Yafo,n
+C2148140,2024-11-24,silver_trail,he,Modiin,y
+C2148413,2024-08-22,silver_trail,he,Tayibe,y
+C2151197,2019-02-05,regular,he,Eilat,n
+C2157009,2025-09-23,regular,he,Haifa,y
+C2161832,2019-04-20,trail_club,he,Ashkelon,y
+C2164233,2024-08-04,trail_club,he,Jerusalem,y
+C2166125,2018-09-17,regular,he,Ashkelon,n
+C2167728,2014-08-07,regular,he,Shefa-Amr,y
+C2170392,2021-08-26,trail_club,he,Karmiel,y
+C2176627,2016-10-20,regular,he,Rishon LeZion,y
+C2177093,2026-05-01,regular,he,Tayibe,n
+C2177979,2023-08-07,regular,he,Modiin,y
+C2179628,2020-11-19,trail_club,he,Tel Aviv-Yafo,n
+C2180496,2020-06-18,trail_club,he,Jerusalem,n
+C2181042,2017-12-26,regular,he,Herzliya,y
+C2181752,2025-06-02,trail_club,he,Jerusalem,y
+C2185678,2023-06-26,trail_club,he,Rishon LeZion,y
+C2189734,2024-09-04,trail_club,he,Ra'anana,y
+C2190064,2014-11-17,regular,he,Kfar Saba,y
+C2191144,2015-05-12,regular,he,Netanya,n
+C2191903,2020-04-12,regular,he,Rishon LeZion,n
+C2194283,2024-03-10,trail_club,he,Netanya,n
+C2194690,2017-12-10,silver_trail,he,Haifa,y
+C2196703,2024-02-16,regular,he,Nazareth,y
+C2198573,2016-11-12,trail_club,he,Jerusalem,y
+C2201798,2019-02-09,silver_trail,he,Eilat,n
+C2213356,2019-12-30,regular,he,Rishon LeZion,y
+C2214358,2016-08-17,regular,he,Rehovot,n
+C2220031,2014-08-05,regular,he,Petah Tikva,n
+C2222181,2018-12-04,trail_club,he,Jerusalem,n
+C2232167,2014-10-17,regular,he,Petah Tikva,y
+C2236529,2016-07-27,regular,he,Rehovot,n
+C2237007,2024-12-14,silver_trail,he,Rishon LeZion,y
+C2240057,2023-12-09,regular,he,Jerusalem,n
+C2241695,2021-08-11,trail_club,he,Kfar Saba,y
+C2250924,2018-10-13,regular,he,Rehovot,n
+C2251253,2026-04-03,regular,he,Eilat,n
+C2255577,2025-03-02,regular,he,Rahat,y
+C2256484,2019-07-29,regular,he,Kfar Saba,y
+C2259904,2026-09-01,regular,en,Zichron Ya'akov,y
+C2259972,2014-10-13,trail_club,he,Rishon LeZion,y
+C2260028,2025-12-29,trail_club,he,Karmiel,n
+C2264008,2017-08-01,regular,he,Haifa,y
+C2264185,2024-01-20,trail_club,he,Jerusalem,n
+C2266720,2015-02-20,trail_club,he,Rahat,y
+C2269310,2017-03-03,silver_trail,he,Eilat,y
+C2269469,2017-03-25,regular,he,Karmiel,n
+C2269935,2018-01-19,trail_club,he,Kfar Saba,n
+C2272298,2016-01-18,regular,he,Jerusalem,n
+C2276931,2023-12-23,regular,he,Petah Tikva,n
+C2279444,2021-03-17,trail_club,he,Beersheba,y
+C2279479,2025-07-12,regular,he,Rishon LeZion,n
+C2286301,2014-07-27,regular,he,Rehovot,y
+C2288415,2017-09-26,trail_club,he,Karmiel,y
+C2288660,2014-09-19,regular,he,Modiin,n
+C2293647,2022-04-14,regular,he,Tel Aviv-Yafo,y
+C2294895,2022-03-27,regular,he,Eilat,y
+C2296168,2023-08-30,trail_club,he,Karmiel,n
+C2304225,2019-08-29,regular,he,Beersheba,y
+C2314867,2017-02-23,regular,he,Kiryat Malakhi,y
+C2315102,2023-07-24,regular,he,Eilat,y
+C2315610,2026-03-07,trail_club,he,Petah Tikva,y
+C2318453,2024-08-06,regular,he,Eilat,y
+C2318861,2017-10-11,regular,he,Beersheba,n
+C2323225,2023-12-16,trail_club,he,Karmiel,n
+C2324805,2025-12-30,trail_club,he,Haifa,y
+C2325582,2021-03-25,regular,en,Modiin,y
+C2325981,2017-11-20,regular,he,Rahat,y
+C2328583,2020-10-19,regular,he,Rishon LeZion,y
+C2331427,2017-03-15,regular,he,Rahat,y
+C2332248,2019-11-09,silver_trail,he,Petah Tikva,n
+C2333703,2023-07-13,trail_club,he,Netanya,y
+C2342144,2025-03-12,regular,he,Beersheba,y
+C2343983,2020-04-02,silver_trail,he,Haifa,n
+C2345168,2025-10-15,regular,he,Ra'anana,n
+C2346130,2018-02-06,trail_club,he,Netanya,n
+C2346935,2015-12-06,regular,he,Umm al-Fahm,n
+C2348655,2015-09-30,regular,he,Petah Tikva,y
+C2351673,2024-01-18,regular,he,Haifa,n
+C2351833,2021-08-14,silver_trail,he,Petah Tikva,y
+C2353050,2021-12-07,regular,he,Herzliya,n
+C2357490,2016-11-11,regular,he,Jerusalem,n
+C2359942,2026-02-25,regular,he,Tel Aviv-Yafo,y
+C2359986,2018-08-06,trail_club,he,Karmiel,y
+C2360868,2024-03-23,regular,he,Haifa,y
+C2361387,2017-01-04,regular,he,Ra'anana,n
+C2362446,2018-06-13,silver_trail,he,Modiin,y
+C2363679,2022-12-05,regular,he,Petah Tikva,n
+C2365178,2023-03-17,regular,he,Beersheba,y
+C2365613,2023-11-18,regular,he,Beersheba,y
+C2367249,2018-07-17,trail_club,he,Ra'anana,n
+C2367353,2024-02-22,silver_trail,he,Zichron Ya'akov,n
+C2372637,2026-09-22,regular,he,Netanya,n
+C2373867,2014-12-13,trail_club,he,Netanya,y
+C2377034,2025-04-19,regular,he,Nazareth,y
+C2377479,2017-12-30,regular,he,Ra'anana,n
+C2378472,2025-02-12,regular,he,Rishon LeZion,n
+C2379888,2023-09-28,trail_club,he,Tel Aviv-Yafo,y
+C2381176,2026-01-20,regular,he,Shefa-Amr,y
+C2383462,2017-03-14,trail_club,he,Modiin,y
+C2384264,2014-04-16,regular,he,Beersheba,n
+C2388185,2017-04-11,trail_club,he,Petah Tikva,y
+C2388283,2025-02-11,regular,he,Netanya,n
+C2390079,2018-08-11,trail_club,he,Tayibe,y
+C2402007,2019-07-06,trail_club,he,Petah Tikva,y
+C2405980,2026-05-14,regular,he,Haifa,y
+C2414140,2016-03-20,regular,he,Karmiel,y
+C2418885,2026-07-13,regular,he,Modiin,y
+C2419653,2018-02-26,regular,he,Rehovot,y
+C2424595,2014-03-14,trail_club,he,Netanya,y
+C2433472,2020-12-02,trail_club,he,Ra'anana,n
+C2435527,2022-07-25,regular,en,Beit Shemesh,y
+C2437467,2024-01-07,regular,he,Netanya,n
+C2448623,2023-11-29,trail_club,en,Zichron Ya'akov,n
+C2451119,2026-07-07,regular,he,Eilat,n
+C2456491,2025-07-11,trail_club,he,Ashkelon,y
+C2458749,2019-10-28,regular,he,Ra'anana,y
+C2459123,2024-11-24,regular,he,Karmiel,n
+C2461856,2023-08-29,regular,he,Modiin,n
+C2462816,2020-03-29,trail_club,he,Netanya,y
+C2463860,2023-09-10,trail_club,he,Haifa,y
+C2466662,2015-07-16,regular,he,Umm al-Fahm,n
+C2475169,2016-02-06,regular,he,Kfar Saba,n
+C2477070,2016-06-28,regular,he,Jerusalem,y
+C2482591,2025-10-10,regular,he,Herzliya,y
+C2484160,2014-02-23,regular,he,Tel Aviv-Yafo,y
+C2485802,2018-09-19,regular,he,Rishon LeZion,y
+C2486251,2019-06-13,silver_trail,he,Ashkelon,n
+C2491735,2023-06-04,trail_club,he,Haifa,y
+C2499423,2026-02-07,regular,he,Herzliya,y
+C2505629,2024-10-20,regular,he,Modiin,y
+C2507043,2024-09-20,regular,he,Herzliya,y
+C2508163,2016-08-31,trail_club,he,Tayibe,y
+C2510108,2025-12-12,regular,he,Nazareth,n
+C2510660,2019-02-05,trail_club,he,Haifa,y
+C2511273,2015-07-08,trail_club,he,Beersheba,y
+C2511593,2015-06-22,regular,he,Rishon LeZion,n
+C2513069,2022-02-25,regular,he,Umm al-Fahm,y
+C2515143,2024-06-06,regular,he,Rehovot,y
+C2517171,2015-05-08,regular,he,Sakhnin,n
+C2519275,2018-11-22,regular,he,Shefa-Amr,y
+C2519671,2025-10-15,regular,he,Rahat,n
+C2521318,2023-03-23,trail_club,he,Kfar Saba,y
+C2522134,2016-01-03,regular,he,Bat Yam,y
+C2522923,2019-07-22,silver_trail,he,Haifa,y
+C2523989,2022-01-07,silver_trail,he,Ra'anana,n
+C2529861,2022-03-05,trail_club,he,Netanya,y
+C2532205,2023-06-25,regular,he,Haifa,n
+C2533822,2020-05-30,trail_club,he,Rishon LeZion,y
+C2534116,2018-09-06,regular,he,Rishon LeZion,y
+C2535557,2021-03-05,regular,he,Kfar Saba,n
+C2537957,2017-02-07,regular,he,Eilat,y
+C2538989,2019-02-01,silver_trail,he,Umm al-Fahm,y
+C2541227,2016-05-08,trail_club,he,Ra'anana,y
+C2546798,2021-11-26,trail_club,he,Herzliya,n
+C2547640,2022-06-03,regular,he,Petah Tikva,y
+C2547924,2016-09-18,regular,he,Jerusalem,n
+C2555409,2024-02-29,trail_club,he,Herzliya,y
+C2559986,2026-08-19,regular,he,Petah Tikva,n
+C2560426,2023-04-05,silver_trail,he,Modiin,y
+C2565959,2014-11-25,regular,he,Modiin,n
+C2575257,2017-08-05,trail_club,he,Jerusalem,n
+C2579993,2018-03-11,regular,he,Jerusalem,y
+C2581133,2021-09-12,regular,he,Netanya,y
+C2582616,2015-04-02,regular,he,Modiin,n
+C2584510,2018-05-24,trail_club,he,Beersheba,n
+C2586412,2021-10-29,regular,he,Karmiel,n
+C2593151,2015-10-24,regular,he,Karmiel,n
+C2596425,2017-08-26,regular,he,Jerusalem,y
+C2599446,2023-12-16,regular,he,Petah Tikva,n
+C2600218,2022-09-06,regular,he,Nazareth,y
+C2605757,2017-11-25,silver_trail,he,Karmiel,y
+C2609710,2023-02-28,regular,he,Karmiel,y
+C2609816,2023-01-02,regular,he,Haifa,n
+C2610481,2024-03-29,regular,en,Tel Aviv-Yafo,y
+C2620742,2018-02-28,trail_club,he,Jerusalem,y
+C2627320,2018-03-27,regular,he,Karmiel,n
+C2633361,2022-06-11,regular,he,Modiin,y
+C2640126,2025-05-18,regular,he,Ashdod,y
+C2640834,2018-07-06,regular,he,Haifa,n
+C2643822,2026-04-16,regular,he,Nazareth,y
+C2652920,2022-08-28,regular,he,Herzliya,n
+C2660447,2020-08-10,trail_club,he,Petah Tikva,n
+C2660546,2023-06-17,regular,he,Haifa,y
+C2662313,2015-12-27,regular,he,Karmiel,n
+C2663756,2022-10-09,regular,he,Nazareth,n
+C2665473,2014-10-10,trail_club,he,Eilat,y
+C2667911,2023-08-15,regular,he,Rishon LeZion,y
+C2676854,2021-07-17,regular,he,Petah Tikva,y
+C2678244,2022-08-26,regular,he,Haifa,n
+C2679230,2017-03-24,regular,he,Kiryat Gat,y
+C2680493,2015-05-04,regular,he,Haifa,y
+C2683960,2014-03-12,regular,he,Modiin,n
+C2685814,2025-12-18,regular,he,Haifa,y
+C2686445,2018-04-11,regular,en,Modiin,y
+C2689012,2017-08-11,regular,he,Jerusalem,y
+C2691045,2015-07-18,regular,he,Tel Aviv-Yafo,y
+C2692513,2019-08-02,trail_club,he,Beersheba,n
+C2692995,2017-04-20,regular,he,Beersheba,y
+C2700640,2017-12-10,regular,en,Tel Aviv-Yafo,y
+C2714900,2026-07-11,trail_club,he,Beersheba,n
+C2714932,2023-11-27,regular,he,Rehovot,y
+C2715127,2020-04-18,regular,he,Herzliya,y
+C2721423,2018-11-18,regular,he,Kfar Saba,n
+C2722521,2025-03-18,regular,he,Rehovot,n
+C2723007,2026-01-21,regular,he,Rishon LeZion,n
+C2726539,2014-01-31,regular,he,Shefa-Amr,y
+C2727288,2016-11-27,regular,he,Kfar Saba,n
+C2732127,2023-06-17,silver_trail,he,Tel Aviv-Yafo,y
+C2739059,2023-11-30,trail_club,he,Karmiel,y
+C2745626,2017-12-22,trail_club,he,Rishon LeZion,y
+C2745921,2018-12-21,trail_club,he,Karmiel,y
+C2746552,2016-02-08,regular,he,Haifa,y
+C2748091,2019-04-15,regular,he,Tel Aviv-Yafo,n
+C2750123,2024-07-31,trail_club,he,Petah Tikva,y
+C2751221,2019-04-30,regular,he,Tel Aviv-Yafo,n
+C2753662,2022-01-21,regular,he,Herzliya,y
+C2754268,2021-05-01,regular,he,Jerusalem,y
+C2756418,2019-07-22,trail_club,he,Beersheba,n
+C2757037,2021-09-07,regular,he,Karmiel,y
+C2757719,2018-04-17,trail_club,he,Eilat,n
+C2759382,2022-03-14,trail_club,he,Rishon LeZion,y
+C2766440,2023-11-04,regular,he,Rehovot,n
+C2775769,2019-09-09,trail_club,he,Haifa,n
+C2776228,2019-10-14,regular,he,Jerusalem,y
+C2776997,2017-01-15,trail_club,he,Rishon LeZion,y
+C2783700,2020-10-17,regular,he,Shefa-Amr,y
+C2785141,2026-10-21,regular,he,Umm al-Fahm,n
+C2786695,2024-11-03,regular,he,Ra'anana,y
+C2787256,2024-12-21,regular,he,Karmiel,n
+C2790608,2020-09-06,trail_club,he,Ra'anana,y
+C2790715,2023-11-13,silver_trail,he,Kfar Saba,n
+C2791552,2021-06-16,regular,he,Eilat,y
+C2795976,2015-01-25,trail_club,he,Modiin,y
+C2798969,2018-10-22,trail_club,he,Petah Tikva,y
+C2799437,2017-07-17,regular,he,Haifa,y
+C2799628,2020-10-23,silver_trail,he,Kfar Saba,n
+C2800956,2016-05-14,regular,he,Eilat,y
+C2803879,2022-07-06,trail_club,he,Rehovot,y
+C2807883,2022-07-18,regular,he,Haifa,y
+C2809554,2014-05-24,trail_club,he,Beersheba,y
+C2810010,2019-01-07,trail_club,he,Shefa-Amr,y
+C2810417,2019-08-24,trail_club,he,Rishon LeZion,y
+C2810633,2026-01-09,trail_club,he,Beersheba,y
+C2812581,2023-06-29,trail_club,en,Tel Aviv-Yafo,n
+C2816491,2019-01-27,regular,he,Tel Aviv-Yafo,n
+C2817604,2026-09-22,regular,en,Tel Aviv-Yafo,n
+C2823887,2018-02-25,regular,he,Tel Aviv-Yafo,y
+C2825514,2015-02-27,trail_club,he,Herzliya,y
+C2827252,2022-06-10,regular,he,Jerusalem,n
+C2828113,2014-07-14,trail_club,he,Petah Tikva,y
+C2829848,2026-04-27,regular,he,Rishon LeZion,n
+C2832847,2017-08-12,regular,he,Rishon LeZion,y
+C2833085,2020-01-03,trail_club,he,Netanya,y
+C2833934,2024-10-25,regular,he,Sakhnin,y
+C2840247,2017-11-20,regular,he,Haifa,y
+C2843004,2017-03-02,trail_club,he,Rishon LeZion,n
+C2843209,2018-05-09,trail_club,he,Haifa,y
+C2844862,2016-11-13,regular,he,Jerusalem,n
+C2846894,2021-08-26,regular,he,Kafr Qasim,y
+C2847861,2018-02-01,silver_trail,he,Jerusalem,y
+C2851695,2019-06-05,regular,he,Netanya,y
+C2852378,2020-08-03,trail_club,he,Sakhnin,n
+C2855862,2022-04-11,regular,he,Jerusalem,n
+C2862031,2022-07-01,trail_club,he,Netanya,y
+C2863250,2017-04-12,regular,he,Kiryat Malakhi,n
+C2863640,2020-11-15,regular,he,Nazareth,y
+C2865327,2021-01-24,regular,he,Eilat,y
+C2870626,2021-08-13,trail_club,he,Petah Tikva,y
+C2876030,2025-06-19,trail_club,he,Kfar Saba,y
+C2881303,2017-11-19,regular,he,Herzliya,y
+C2883980,2018-10-29,trail_club,he,Modiin,y
+C2890400,2020-02-20,regular,he,Nazareth,y
+C2892983,2015-08-05,silver_trail,he,Ra'anana,n
+C2898882,2023-03-19,regular,he,Beersheba,n
+C2899096,2015-10-02,regular,he,Bat Yam,y
+C2901505,2014-07-14,trail_club,he,Ra'anana,y
+C2903190,2026-09-07,regular,he,Umm al-Fahm,y
+C2903870,2016-10-27,regular,he,Modiin,n
+C2907778,2014-11-11,trail_club,he,Nazareth,y
+C2908693,2017-12-05,trail_club,he,Kfar Saba,y
+C2913821,2016-05-27,regular,he,Kafr Qasim,n
+C2915776,2018-05-19,regular,he,Kiryat Malakhi,n
+C2917921,2016-11-21,silver_trail,he,Tel Aviv-Yafo,n
+C2920907,2026-02-18,regular,he,Haifa,y
+C2924575,2025-08-24,regular,he,Shefa-Amr,y
+C2925821,2016-05-10,regular,he,Petah Tikva,y
+C2928203,2015-09-09,regular,he,Ashdod,y
+C2935156,2016-02-22,silver_trail,he,Ra'anana,n
+C2936645,2026-10-10,regular,he,Rishon LeZion,y
+C2939368,2022-05-07,regular,he,Herzliya,y
+C2940743,2019-06-03,regular,he,Haifa,n
+C2941723,2015-11-04,regular,he,Haifa,n
+C2943101,2015-05-14,trail_club,he,Netanya,n
+C2945198,2020-05-08,regular,he,Eilat,y
+C2950437,2023-07-21,trail_club,he,Petah Tikva,n
+C2953243,2022-08-18,regular,he,Umm al-Fahm,n
+C2960412,2017-08-16,regular,he,Kfar Saba,y
+C2960532,2014-06-11,regular,he,Jerusalem,y
+C2961571,2018-10-09,regular,he,Rehovot,y
+C2963527,2016-07-10,regular,he,Kfar Saba,n
+C2970874,2024-04-27,regular,he,Shefa-Amr,y
+C2972796,2017-07-10,trail_club,he,Rehovot,y
+C2980672,2014-10-23,regular,he,Haifa,y
+C2984657,2017-03-23,trail_club,he,Netanya,y
+C2986976,2015-08-12,trail_club,he,Bat Yam,n
+C2995905,2025-07-21,trail_club,he,Netanya,n
+C2996099,2016-02-27,regular,he,Eilat,y
+C2998193,2023-01-18,trail_club,he,Beersheba,y
+C2999565,2019-07-25,regular,he,Tayibe,y
+C3000523,2022-07-30,regular,he,Netanya,y
+C3003023,2019-12-15,regular,he,Haifa,n
+C3007680,2023-07-04,trail_club,he,Rishon LeZion,n
+C3015849,2015-07-25,trail_club,he,Rishon LeZion,y
+C3017557,2021-08-15,regular,he,Ra'anana,y
+C3017754,2021-09-30,regular,he,Haifa,y
+C3020234,2016-04-27,silver_trail,he,Karmiel,n
+C3020812,2014-08-07,regular,he,Tel Aviv-Yafo,y
+C3021790,2026-06-20,regular,he,Netanya,n
+C3023705,2024-05-11,trail_club,he,Petah Tikva,y
+C3026890,2015-11-22,regular,he,Haifa,y
+C3030657,2016-05-23,regular,he,Tel Aviv-Yafo,n
+C3036397,2016-04-30,trail_club,en,Zichron Ya'akov,y
+C3039856,2019-07-27,trail_club,he,Rehovot,y
+C3041347,2017-10-23,regular,he,Netanya,y
+C3042683,2019-09-25,regular,en,Jerusalem,n
+C3043057,2014-02-11,regular,he,Haifa,y
+C3046294,2018-11-25,regular,he,Modiin,n
+C3051698,2015-06-02,trail_club,he,Eilat,y
+C3053329,2022-05-20,regular,he,Karmiel,y
+C3053931,2018-06-13,regular,he,Bat Yam,n
+C3063662,2023-07-11,regular,he,Umm al-Fahm,y
+C3070843,2020-01-26,regular,he,Haifa,y
+C3084091,2026-09-12,regular,he,Tel Aviv-Yafo,n
+C3084125,2020-12-13,regular,he,Kfar Saba,n
+C3085374,2017-06-05,regular,he,Ashkelon,y
+C3087435,2022-04-30,silver_trail,he,Shefa-Amr,y
+C3087787,2022-05-09,regular,he,Herzliya,n
+C3091610,2018-02-03,trail_club,he,Sakhnin,n
+C3092638,2025-07-26,regular,he,Beersheba,n
+C3095529,2021-07-24,regular,en,Jerusalem,y
+C3096056,2016-03-05,regular,he,Sakhnin,y
+C3098975,2014-12-05,regular,he,Ra'anana,n
+C3101407,2017-11-08,trail_club,he,Netanya,n
+C3102327,2014-03-07,regular,he,Netanya,n
+C3104984,2016-11-30,regular,he,Haifa,n
+C3112348,2018-01-31,regular,he,Umm al-Fahm,y
+C3119073,2023-09-07,regular,he,Haifa,y
+C3120737,2025-01-08,regular,he,Kfar Saba,n
+C3125069,2023-11-29,regular,he,Rishon LeZion,y
+C3125680,2017-05-07,regular,he,Petah Tikva,y
+C3126542,2025-12-11,trail_club,he,Ashkelon,y
+C3127750,2021-04-06,regular,he,Karmiel,n
+C3127853,2015-06-23,regular,he,Ra'anana,y
+C3130427,2023-09-02,regular,he,Bat Yam,n
+C3130695,2019-02-18,regular,he,Ra'anana,y
+C3131314,2022-09-01,trail_club,he,Karmiel,n
+C3135624,2018-11-18,regular,he,Beersheba,y
+C3136488,2018-08-02,regular,he,Petah Tikva,n
+C3141211,2021-05-18,silver_trail,he,Shefa-Amr,y
+C3144056,2017-10-27,regular,he,Tayibe,n
+C3146277,2024-03-16,regular,he,Kfar Saba,y
+C3147609,2023-07-15,trail_club,he,Modiin,n
+C3151103,2024-11-13,regular,he,Modiin,y
+C3153310,2017-09-22,regular,he,Kafr Qasim,n
+C3156295,2016-02-23,regular,he,Karmiel,n
+C3158984,2023-12-08,regular,he,Haifa,y
+C3159038,2014-08-09,silver_trail,he,Jerusalem,n
+C3160984,2022-01-08,trail_club,he,Modiin,n
+C3161820,2020-05-22,trail_club,he,Herzliya,y
+C3161875,2021-06-26,regular,he,Beersheba,y
+C3164561,2019-10-21,trail_club,he,Herzliya,n
+C3166648,2025-08-14,trail_club,he,Ra'anana,y
+C3167587,2024-10-15,regular,he,Netanya,n
+C3168389,2025-06-15,regular,he,Tel Aviv-Yafo,y
+C3173602,2021-11-16,regular,he,Karmiel,n
+C3179330,2015-02-07,regular,he,Herzliya,n
+C3184969,2014-11-05,regular,he,Ra'anana,n
+C3185384,2015-07-21,regular,he,Kfar Saba,n
+C3186972,2024-04-02,regular,he,Haifa,y
+C3187304,2026-08-10,regular,he,Petah Tikva,y
+C3187362,2014-01-18,regular,he,Jerusalem,n
+C3187403,2024-07-14,regular,he,Ra'anana,n
+C3188995,2022-09-15,regular,he,Petah Tikva,y
+C3193643,2014-08-25,trail_club,he,Haifa,y
+C3200556,2025-07-26,regular,he,Umm al-Fahm,y
+C3204206,2017-11-24,regular,he,Netanya,y
+C3204798,2026-04-20,regular,he,Karmiel,y
+C3207109,2026-08-02,trail_club,he,Rishon LeZion,n
+C3216250,2025-07-07,regular,he,Karmiel,y
+C3222263,2014-12-11,regular,he,Kfar Saba,y
+C3223989,2021-11-20,regular,he,Ashdod,y
+C3229533,2020-11-02,regular,he,Beersheba,y
+C3241810,2020-07-20,trail_club,he,Kfar Saba,n
+C3244032,2016-02-29,regular,he,Netanya,y
+C3247785,2014-12-03,trail_club,he,Beersheba,n
+C3250617,2016-12-28,regular,he,Beersheba,n
+C3252492,2014-03-06,trail_club,he,Haifa,n
+C3253371,2016-12-07,regular,he,Modiin,y
+C3255813,2016-04-30,regular,he,Eilat,y
+C3258462,2025-09-19,regular,en,Tel Aviv-Yafo,y
+C3259485,2024-07-21,trail_club,he,Modiin,y
+C3266732,2024-11-08,regular,he,Ra'anana,y
+C3269848,2025-01-15,regular,he,Umm al-Fahm,n
+C3270862,2021-03-19,regular,he,Beersheba,n
+C3271877,2023-02-18,trail_club,he,Ra'anana,y
+C3273026,2020-02-04,regular,he,Netanya,y
+C3274264,2024-12-16,trail_club,he,Beersheba,n
+C3276521,2023-03-16,regular,he,Netanya,n
+C3281258,2023-09-13,trail_club,he,Rehovot,n
+C3285683,2018-10-04,trail_club,he,Jerusalem,y
+C3288537,2026-05-17,regular,he,Netanya,n
+C3290328,2014-05-07,silver_trail,he,Haifa,y
+C3300206,2014-08-12,regular,he,Eilat,y
+C3303903,2015-05-22,trail_club,he,Petah Tikva,n
+C3305193,2022-06-28,regular,he,Haifa,n
+C3305904,2023-09-06,regular,en,Tel Aviv-Yafo,y
+C3316400,2023-02-25,regular,he,Ra'anana,y
+C3319407,2014-11-28,regular,he,Netanya,n
+C3321124,2023-04-05,trail_club,he,Haifa,n
+C3326368,2022-01-29,trail_club,he,Haifa,y
+C3326408,2016-12-16,trail_club,he,Rehovot,y
+C3328365,2016-08-10,trail_club,he,Karmiel,n
+C3329866,2014-01-28,regular,he,Petah Tikva,y
+C3330038,2017-10-07,trail_club,he,Eilat,n
+C3331326,2024-03-13,trail_club,he,Kfar Saba,n
+C3333834,2021-02-15,trail_club,he,Eilat,y
+C3335258,2019-08-24,trail_club,he,Eilat,n
+C3335543,2019-03-18,regular,he,Jerusalem,n
+C3342607,2022-12-14,regular,he,Rahat,y
+C3343021,2023-02-28,regular,he,Tel Aviv-Yafo,n
+C3344867,2014-10-28,trail_club,he,Sakhnin,n
+C3349169,2016-07-03,trail_club,he,Netanya,n
+C3350024,2025-12-07,trail_club,he,Jerusalem,y
+C3351914,2018-03-28,regular,he,Kfar Saba,n
+C3359619,2017-05-30,regular,he,Rehovot,n
+C3360392,2026-03-12,regular,he,Petah Tikva,y
+C3364680,2014-09-25,regular,he,Beersheba,y
+C3371511,2021-04-04,trail_club,he,Netanya,y
+C3374042,2015-01-25,regular,he,Umm al-Fahm,n
+C3377367,2014-10-26,trail_club,he,Rahat,y
+C3383519,2025-04-11,regular,he,Kafr Qasim,y
+C3394344,2015-01-06,regular,he,Herzliya,y
+C3395410,2017-04-09,regular,he,Haifa,n
+C3399741,2020-07-21,regular,he,Karmiel,y
+C3400421,2016-05-25,regular,he,Karmiel,y
+C3402905,2023-04-25,regular,he,Netanya,n
+C3406265,2022-03-18,trail_club,en,Modiin,n
+C3411009,2018-09-11,regular,he,Rishon LeZion,y
+C3414232,2019-07-07,regular,he,Haifa,n
+C3421032,2021-03-02,regular,he,Netanya,n
+C3425747,2025-12-03,regular,he,Netanya,y
+C3432583,2024-12-22,regular,he,Netanya,y
+C3443589,2018-10-17,regular,he,Rahat,y
+C3445824,2024-11-02,regular,he,Jerusalem,y
+C3448851,2020-08-07,trail_club,he,Herzliya,n
+C3450904,2017-06-12,regular,he,Jerusalem,n
+C3451733,2017-07-13,regular,he,Karmiel,y
+C3454375,2018-01-19,silver_trail,he,Karmiel,n
+C3455125,2014-11-10,regular,he,Ashkelon,y
+C3458468,2014-09-27,regular,he,Karmiel,n
+C3464398,2022-03-20,trail_club,he,Beersheba,y
+C3465281,2025-05-04,regular,he,Netanya,n
+C3465667,2014-02-10,trail_club,he,Beersheba,y
+C3468201,2020-06-12,regular,he,Umm al-Fahm,y
+C3468976,2025-04-04,regular,he,Rishon LeZion,n
+C3469351,2026-01-21,regular,he,Netanya,n
+C3475346,2025-07-29,trail_club,en,Beit Shemesh,y
+C3476649,2024-06-29,trail_club,he,Rishon LeZion,n
+C3477851,2017-11-22,regular,he,Haifa,n
+C3480173,2019-10-08,regular,he,Sakhnin,y
+C3480895,2019-03-20,regular,he,Beersheba,y
+C3483671,2014-05-04,regular,he,Bat Yam,y
+C3484645,2018-01-27,trail_club,he,Rishon LeZion,n
+C3484751,2016-12-28,trail_club,he,Ra'anana,y
+C3484944,2023-12-10,silver_trail,he,Netanya,y
+C3485442,2026-04-15,trail_club,he,Modiin,n
+C3485699,2022-03-16,regular,he,Karmiel,y
+C3485891,2022-07-05,silver_trail,he,Kfar Saba,n
+C3486297,2023-07-12,trail_club,he,Beersheba,y
+C3487818,2023-06-09,trail_club,he,Eilat,n
+C3492996,2015-05-08,regular,he,Haifa,y
+C3496620,2020-11-23,silver_trail,he,Herzliya,y
+C3499354,2021-01-28,trail_club,he,Beersheba,y
+C3499463,2023-03-28,trail_club,he,Petah Tikva,n
+C3499788,2021-06-27,silver_trail,he,Haifa,n
+C3500271,2021-02-06,regular,he,Ra'anana,n
+C3500611,2015-05-26,regular,he,Tayibe,y
+C3501011,2023-06-21,trail_club,he,Jerusalem,y
+C3504310,2019-03-31,trail_club,he,Netanya,y
+C3505581,2024-09-02,regular,he,Ashdod,n
+C3507169,2021-04-22,regular,he,Haifa,y
+C3507558,2021-06-21,trail_club,he,Petah Tikva,y
+C3509788,2017-10-05,trail_club,he,Rishon LeZion,y
+C3511229,2026-03-17,regular,he,Haifa,y
+C3511377,2016-01-07,trail_club,he,Ashkelon,n
+C3513399,2025-04-08,regular,he,Rishon LeZion,n
+C3519114,2017-06-19,trail_club,he,Beersheba,y
+C3521905,2026-05-29,regular,he,Rishon LeZion,y
+C3523826,2026-06-19,regular,he,Haifa,y
+C3527414,2015-09-29,regular,he,Rishon LeZion,n
+C3529017,2023-12-14,trail_club,he,Modiin,y
+C3530748,2015-01-02,silver_trail,he,Tayibe,y
+C3531117,2023-11-04,trail_club,he,Kfar Saba,y
+C3531254,2024-09-24,regular,he,Eilat,n
+C3531493,2021-12-27,regular,he,Rishon LeZion,n
+C3535752,2025-01-26,regular,he,Ashdod,y
+C3540177,2026-04-02,regular,he,Bat Yam,y
+C3544430,2015-02-19,regular,he,Beersheba,y
+C3546323,2024-06-01,regular,he,Eilat,y
+C3548793,2024-08-05,trail_club,he,Modiin,y
+C3549392,2015-09-08,regular,he,Tel Aviv-Yafo,n
+C3552279,2015-06-18,trail_club,he,Netanya,n
+C3558640,2021-11-02,regular,he,Rishon LeZion,y
+C3559121,2017-06-08,trail_club,he,Ra'anana,n
+C3559366,2023-09-24,regular,he,Petah Tikva,y
+C3561544,2020-01-06,regular,he,Tel Aviv-Yafo,n
+C3567179,2016-11-03,trail_club,he,Karmiel,n
+C3575825,2020-08-12,regular,en,Jerusalem,y
+C3579830,2014-10-20,trail_club,he,Nazareth,n
+C3584174,2016-10-07,trail_club,he,Haifa,y
+C3585934,2020-08-19,silver_trail,he,Tel Aviv-Yafo,y
+C3588227,2025-06-28,regular,he,Jerusalem,n
+C3589341,2022-01-15,trail_club,en,Ra'anana,n
+C3595821,2026-09-23,trail_club,en,Beit Shemesh,y
+C3597676,2026-01-05,trail_club,he,Ra'anana,n
+C3610125,2022-12-30,regular,he,Herzliya,n
+C3611663,2023-07-26,regular,he,Karmiel,y
+C3615559,2015-11-07,silver_trail,he,Kafr Qasim,y
+C3615966,2020-06-19,regular,he,Rehovot,y
+C3617813,2021-07-16,trail_club,en,Modiin,y
+C3617861,2015-11-26,trail_club,he,Modiin,y
+C3619831,2024-12-03,trail_club,he,Sakhnin,n
+C3625634,2019-01-19,trail_club,he,Ashkelon,n
+C3625652,2025-09-11,regular,he,Rehovot,n
+C3628842,2015-07-29,regular,he,Petah Tikva,y
+C3629683,2017-09-08,regular,he,Petah Tikva,n
+C3631174,2026-06-09,regular,he,Umm al-Fahm,y
+C3638802,2016-10-28,regular,en,Jerusalem,y
+C3644164,2015-07-15,silver_trail,he,Ashdod,y
+C3645290,2021-04-04,silver_trail,he,Ra'anana,n
+C3646597,2014-02-02,regular,he,Haifa,y
+C3649133,2018-04-28,regular,he,Jerusalem,n
+C3649476,2025-11-22,trail_club,he,Karmiel,n
+C3650952,2025-06-22,trail_club,he,Rehovot,n
+C3651901,2019-08-01,regular,he,Rehovot,y
+C3652963,2019-09-01,regular,he,Petah Tikva,y
+C3653975,2015-06-24,trail_club,he,Ra'anana,y
+C3655136,2026-08-31,silver_trail,he,Herzliya,n
+C3655504,2025-10-10,regular,he,Netanya,y
+C3655957,2014-12-08,silver_trail,he,Nazareth,y
+C3657983,2021-09-11,regular,he,Netanya,n
+C3658872,2024-08-29,silver_trail,he,Petah Tikva,y
+C3659115,2022-12-12,regular,he,Jerusalem,n
+C3663182,2021-02-02,trail_club,he,Ashkelon,y
+C3664123,2014-09-26,regular,he,Petah Tikva,n
+C3664498,2018-11-23,trail_club,he,Ra'anana,n
+C3668171,2025-12-19,regular,he,Jerusalem,n
+C3668341,2023-10-07,silver_trail,he,Karmiel,y
+C3669808,2018-01-15,regular,he,Karmiel,n
+C3675051,2015-03-08,regular,he,Haifa,y
+C3675654,2018-10-16,silver_trail,he,Karmiel,n
+C3676264,2024-01-13,regular,he,Kfar Saba,n
+C3683077,2015-08-07,trail_club,he,Tel Aviv-Yafo,n
+C3688028,2023-03-27,regular,he,Rehovot,n
+C3692271,2015-12-24,regular,he,Beersheba,y
+C3694651,2025-11-28,silver_trail,en,Beit Shemesh,y
+C3696343,2015-07-13,regular,he,Modiin,n
+C3697887,2023-02-15,regular,en,Ra'anana,n
+C3701863,2016-03-24,regular,he,Modiin,n
+C3702781,2023-09-26,regular,he,Herzliya,y
+C3710791,2024-02-17,trail_club,he,Rishon LeZion,y
+C3713936,2016-07-25,regular,he,Ra'anana,y
+C3715713,2025-01-23,trail_club,he,Sakhnin,y
+C3721226,2026-04-30,regular,he,Haifa,y
+C3723547,2014-07-21,regular,he,Tel Aviv-Yafo,y
+C3728186,2026-01-14,regular,he,Nazareth,n
+C3728302,2020-02-20,regular,he,Rishon LeZion,y
+C3731018,2016-06-16,regular,he,Ashdod,n
+C3737525,2024-09-07,trail_club,he,Beersheba,y
+C3739397,2016-05-26,regular,he,Kiryat Gat,y
+C3743098,2016-07-03,regular,he,Herzliya,y
+C3743113,2018-04-23,trail_club,he,Beersheba,n
+C3743315,2014-09-05,regular,he,Rishon LeZion,y
+C3743816,2018-11-04,regular,he,Karmiel,y
+C3744293,2025-12-29,regular,en,Tel Aviv-Yafo,n
+C3751377,2026-04-21,trail_club,he,Rehovot,y
+C3752581,2020-06-24,regular,he,Karmiel,y
+C3754025,2015-07-27,trail_club,en,Jerusalem,y
+C3755374,2023-09-11,regular,he,Beersheba,y
+C3756421,2019-01-04,trail_club,he,Shefa-Amr,n
+C3757943,2021-05-25,regular,he,Ra'anana,y
+C3761929,2018-08-18,regular,he,Modiin,y
+C3762614,2017-06-11,trail_club,he,Netanya,y
+C3766121,2025-04-03,regular,he,Modiin,y
+C3774249,2018-12-19,regular,he,Beersheba,y
+C3775135,2024-10-26,trail_club,he,Beersheba,y
+C3777651,2019-07-23,regular,he,Karmiel,n
+C3777723,2019-01-23,trail_club,he,Beersheba,y
+C3781918,2022-02-26,regular,he,Ashdod,n
+C3787156,2022-04-11,regular,he,Haifa,n
+C3787600,2021-12-31,regular,he,Haifa,y
+C3787659,2018-03-22,regular,he,Karmiel,y
+C3790106,2018-07-25,regular,he,Herzliya,y
+C3791312,2025-08-23,regular,he,Karmiel,y
+C3795482,2026-06-22,regular,he,Herzliya,y
+C3798139,2018-09-11,trail_club,he,Haifa,y
+C3802037,2018-03-26,trail_club,he,Rehovot,y
+C3802336,2019-11-11,regular,he,Karmiel,y
+C3803519,2019-07-07,trail_club,he,Karmiel,y
+C3803638,2023-04-21,silver_trail,he,Umm al-Fahm,y
+C3806016,2019-05-12,regular,he,Ashkelon,y
+C3806061,2019-02-19,regular,he,Beersheba,y
+C3810317,2025-02-03,trail_club,he,Beersheba,n
+C3811916,2022-08-02,regular,he,Netanya,n
+C3812853,2015-12-14,regular,he,Beersheba,y
+C3813163,2018-08-14,regular,he,Haifa,y
+C3819787,2024-11-28,regular,he,Kiryat Malakhi,y
+C3822618,2018-11-16,regular,he,Tayibe,y
+C3822966,2020-07-11,regular,he,Rishon LeZion,n
+C3825215,2024-02-16,trail_club,he,Kfar Saba,n
+C3829931,2020-03-14,trail_club,en,Beit Shemesh,y
+C3830035,2018-10-08,regular,he,Sakhnin,y
+C3832128,2026-01-30,regular,he,Herzliya,n
+C3842195,2015-11-10,regular,he,Modiin,y
+C3844091,2014-04-27,regular,he,Ra'anana,n
+C3845790,2025-11-21,regular,he,Eilat,y
+C3847340,2014-11-18,regular,he,Rehovot,y
+C3849719,2014-05-12,regular,he,Herzliya,y
+C3850166,2023-05-25,silver_trail,he,Jerusalem,y
+C3852739,2022-11-01,regular,he,Petah Tikva,n
+C3854761,2025-04-17,silver_trail,he,Petah Tikva,n
+C3855156,2023-03-26,trail_club,he,Jerusalem,y
+C3857892,2014-03-03,trail_club,he,Beersheba,y
+C3857943,2019-08-29,trail_club,he,Herzliya,n
+C3861371,2018-10-10,regular,he,Rehovot,y
+C3868161,2014-07-03,trail_club,he,Petah Tikva,n
+C3870677,2025-12-05,regular,he,Rehovot,y
+C3871705,2019-08-07,regular,he,Beersheba,y
+C3876084,2019-04-25,regular,he,Ra'anana,n
+C3877581,2022-03-29,regular,he,Ashdod,y
+C3881449,2019-06-19,regular,he,Rishon LeZion,y
+C3885211,2021-01-24,regular,he,Tel Aviv-Yafo,y
+C3886893,2017-04-28,trail_club,he,Netanya,y
+C3888509,2015-06-19,trail_club,he,Tel Aviv-Yafo,y
+C3889138,2019-04-05,regular,he,Rehovot,y
+C3889396,2024-02-01,regular,he,Jerusalem,n
+C3892594,2021-11-24,regular,he,Modiin,y
+C3903985,2018-11-08,trail_club,he,Rehovot,n
+C3905883,2015-02-20,trail_club,he,Rehovot,n
+C3908786,2016-04-20,trail_club,he,Tel Aviv-Yafo,n
+C3909339,2023-02-26,regular,he,Beersheba,y
+C3913757,2017-12-03,regular,he,Karmiel,n
+C3915778,2025-01-27,regular,he,Eilat,y
+C3918494,2026-10-16,regular,he,Rehovot,n
+C3919621,2021-06-29,silver_trail,he,Petah Tikva,n
+C3923074,2024-12-21,regular,he,Ashdod,y
+C3937808,2025-12-25,regular,he,Netanya,y
+C3938362,2023-04-04,regular,he,Beersheba,y
+C3939705,2014-06-21,regular,he,Rehovot,y
+C3941053,2019-07-25,trail_club,he,Kafr Qasim,y
+C3942349,2015-08-25,trail_club,he,Beersheba,y
+C3946765,2014-06-09,trail_club,he,Rahat,n
+C3948455,2026-08-21,regular,he,Modiin,n
+C3952422,2020-02-01,regular,he,Karmiel,n
+C3952537,2024-09-17,regular,he,Haifa,n
+C3957618,2022-05-23,silver_trail,he,Petah Tikva,n
+C3957930,2020-08-01,trail_club,he,Tayibe,y
+C3958256,2023-03-29,regular,he,Herzliya,n
+C3958591,2024-07-01,regular,he,Jerusalem,y
+C3960456,2025-06-29,regular,he,Karmiel,y
+C3961965,2026-07-13,regular,he,Ra'anana,y
+C3965544,2014-07-07,regular,he,Jerusalem,y
+C3971708,2024-01-15,regular,en,Beit Shemesh,n
+C3974317,2014-01-25,regular,he,Rahat,y
+C3979249,2020-06-16,trail_club,he,Haifa,n
+C3983884,2018-02-15,regular,he,Haifa,y
+C3984231,2022-07-17,trail_club,he,Kfar Saba,n
+C3986073,2026-07-28,regular,he,Haifa,n
+C3986830,2016-09-12,regular,he,Modiin,y
+C3991994,2018-07-28,trail_club,he,Netanya,y
+C3996687,2016-01-13,trail_club,he,Jerusalem,n
+C3997804,2020-07-23,trail_club,he,Rishon LeZion,y
+C3999204,2014-02-20,regular,he,Ra'anana,n
+C4000213,2021-01-10,regular,en,Modiin,y
+C4000634,2014-09-20,regular,he,Karmiel,y
+C4002671,2025-09-20,trail_club,he,Modiin,y
+C4012867,2017-07-24,trail_club,he,Beersheba,y
+C4016700,2025-10-06,regular,he,Eilat,n
+C4035665,2023-12-31,regular,en,Zichron Ya'akov,n
+C4037455,2017-10-20,silver_trail,he,Beersheba,n
+C4039729,2024-11-29,regular,he,Tel Aviv-Yafo,y
+C4047222,2026-02-18,trail_club,he,Bat Yam,y
+C4054705,2020-05-31,trail_club,en,Modiin,n
+C4055065,2022-12-22,regular,he,Herzliya,y
+C4055258,2022-10-07,silver_trail,he,Sakhnin,n
+C4060474,2018-09-25,trail_club,he,Beersheba,y
+C4060727,2019-01-05,trail_club,he,Umm al-Fahm,n
+C4069424,2016-06-07,trail_club,he,Beersheba,y
+C4070873,2020-08-17,silver_trail,he,Tel Aviv-Yafo,n
+C4077265,2019-10-30,regular,he,Petah Tikva,y
+C4081855,2022-12-16,regular,he,Rishon LeZion,y
+C4083994,2016-12-25,trail_club,he,Karmiel,y
+C4086113,2014-12-17,regular,he,Ra'anana,n
+C4086503,2016-08-13,regular,he,Shefa-Amr,y
+C4088667,2022-11-21,regular,he,Haifa,y
+C4092028,2020-11-05,trail_club,he,Rishon LeZion,y
+C4092192,2025-01-18,regular,he,Shefa-Amr,y
+C4095246,2023-03-13,regular,he,Kafr Qasim,y
+C4095357,2018-08-19,trail_club,he,Petah Tikva,y
+C4106067,2021-07-03,trail_club,he,Tel Aviv-Yafo,y
+C4111830,2024-12-05,regular,he,Rishon LeZion,y
+C4116068,2018-10-28,regular,en,Tel Aviv-Yafo,n
+C4117523,2017-10-26,regular,he,Petah Tikva,y
+C4131753,2019-12-11,trail_club,he,Tel Aviv-Yafo,n
+C4132593,2024-05-01,regular,he,Ra'anana,n
+C4136225,2025-04-03,regular,he,Karmiel,n
+C4137611,2014-10-26,trail_club,he,Haifa,y
+C4138902,2022-09-11,regular,he,Kfar Saba,y
+C4139405,2014-10-03,regular,he,Rishon LeZion,n
+C4144951,2020-11-03,regular,he,Rahat,y
+C4145268,2017-04-16,regular,en,Ra'anana,n
+C4146521,2023-12-25,silver_trail,he,Rahat,n
+C4148611,2025-11-24,silver_trail,he,Netanya,y
+C4149889,2026-07-02,regular,he,Ra'anana,y
+C4150041,2014-12-05,silver_trail,he,Eilat,y
+C4151317,2025-06-04,trail_club,he,Eilat,y
+C4151324,2025-03-14,regular,he,Netanya,y
+C4156715,2018-08-20,regular,he,Jerusalem,y
+C4158072,2020-03-08,trail_club,he,Rishon LeZion,n
+C4162835,2026-07-29,regular,he,Karmiel,n
+C4162946,2020-01-25,regular,he,Petah Tikva,n
+C4164339,2021-05-04,regular,he,Rehovot,y
+C4165458,2017-03-09,trail_club,he,Rehovot,y
+C4166505,2020-12-26,trail_club,he,Rehovot,y
+C4167713,2021-08-17,regular,he,Petah Tikva,y
+C4171724,2016-12-20,trail_club,he,Ashkelon,y
+C4176637,2018-10-02,regular,he,Netanya,n
+C4182409,2015-10-16,regular,en,Tel Aviv-Yafo,n
+C4186353,2025-11-25,regular,he,Petah Tikva,n
+C4186661,2021-06-17,regular,he,Herzliya,n
+C4189657,2022-02-08,regular,he,Haifa,y
+C4190064,2015-05-21,regular,he,Eilat,y
+C4195852,2017-09-02,regular,he,Rehovot,y
+C4198492,2023-09-02,regular,he,Haifa,n
+C4200628,2022-03-12,regular,he,Eilat,y
+C4203900,2024-10-09,regular,he,Herzliya,y
+C4204307,2026-05-20,regular,he,Ashkelon,n
+C4205530,2025-03-09,regular,he,Rishon LeZion,y
+C4210103,2024-05-07,trail_club,he,Haifa,y
+C4210954,2014-02-19,trail_club,he,Petah Tikva,n
+C4214455,2016-07-16,regular,he,Herzliya,n
+C4215117,2020-02-27,trail_club,he,Netanya,y
+C4215900,2017-07-22,regular,he,Modiin,n
+C4221397,2021-01-16,silver_trail,he,Netanya,y
+C4222229,2016-11-10,regular,he,Ashdod,n
+C4224396,2019-05-13,regular,he,Petah Tikva,y
+C4226433,2018-11-12,regular,he,Rishon LeZion,n
+C4228984,2016-08-03,regular,he,Sakhnin,y
+C4233230,2022-07-05,trail_club,he,Herzliya,y
+C4235150,2023-05-08,trail_club,en,Jerusalem,y
+C4241422,2026-02-10,trail_club,he,Netanya,n
+C4241896,2015-08-02,regular,he,Haifa,y
+C4242305,2021-03-24,regular,he,Ashkelon,y
+C4244042,2016-08-27,regular,he,Karmiel,n
+C4251837,2014-12-29,regular,he,Beersheba,y
+C4253562,2018-07-08,trail_club,he,Rishon LeZion,y
+C4264132,2026-06-11,regular,he,Rishon LeZion,y
+C4266632,2021-08-16,regular,he,Umm al-Fahm,n
+C4267872,2014-01-31,regular,he,Kfar Saba,y
+C4267952,2015-03-12,regular,he,Haifa,y
+C4268955,2017-10-10,regular,he,Karmiel,y
+C4272045,2016-01-20,silver_trail,he,Karmiel,n
+C4273766,2025-06-10,trail_club,he,Karmiel,y
+C4277629,2018-06-04,regular,he,Modiin,y
+C4280901,2017-08-13,silver_trail,he,Karmiel,n
+C4286638,2018-11-09,trail_club,en,Zichron Ya'akov,y
+C4289063,2021-09-14,regular,he,Tayibe,y
+C4293970,2017-09-19,silver_trail,he,Karmiel,y
+C4294382,2017-11-12,regular,he,Haifa,y
+C4295569,2016-02-06,regular,he,Rishon LeZion,n
+C4296308,2014-09-13,trail_club,he,Beersheba,n
+C4299099,2016-02-09,trail_club,he,Nazareth,n
+C4300259,2017-07-26,trail_club,he,Tayibe,n
+C4300528,2025-12-18,trail_club,he,Jerusalem,y
+C4300882,2018-01-15,regular,he,Netanya,y
+C4301135,2017-01-21,silver_trail,he,Haifa,y
+C4304384,2016-04-04,regular,he,Tel Aviv-Yafo,n
+C4308373,2014-11-10,trail_club,he,Eilat,y
+C4309468,2024-06-03,regular,he,Netanya,y
+C4309556,2019-01-03,silver_trail,he,Eilat,y
+C4317029,2014-10-08,trail_club,en,Ra'anana,y
+C4317698,2020-09-21,regular,he,Jerusalem,y
+C4320142,2024-01-02,regular,he,Kfar Saba,y
+C4325990,2017-05-05,trail_club,he,Ashkelon,y
+C4335517,2018-02-06,trail_club,he,Ra'anana,y
+C4335594,2015-03-17,regular,he,Kfar Saba,n
+C4340338,2020-07-15,regular,he,Netanya,n
+C4344975,2026-01-28,trail_club,he,Rishon LeZion,n
+C4351791,2020-02-26,regular,he,Ashdod,n
+C4351931,2019-12-22,regular,he,Eilat,n
+C4354800,2019-10-21,trail_club,he,Ashdod,y
+C4356659,2015-08-12,regular,he,Tel Aviv-Yafo,n
+C4360201,2024-03-18,regular,he,Ashkelon,n
+C4364073,2025-04-27,regular,he,Shefa-Amr,y
+C4364559,2022-05-31,regular,he,Karmiel,y
+C4365250,2017-08-27,silver_trail,he,Eilat,y
+C4366308,2024-11-25,trail_club,he,Netanya,y
+C4373365,2016-05-20,regular,he,Jerusalem,y
+C4373842,2018-05-23,regular,he,Herzliya,y
+C4382252,2018-11-06,regular,he,Petah Tikva,n
+C4390680,2017-03-09,silver_trail,he,Rehovot,y
+C4392392,2015-12-20,regular,he,Rahat,y
+C4395511,2022-08-31,regular,he,Petah Tikva,y
+C4395971,2019-12-12,trail_club,en,Modiin,y
+C4408628,2022-10-17,trail_club,en,Zichron Ya'akov,y
+C4416035,2023-02-02,regular,he,Rishon LeZion,y
+C4418726,2024-05-25,regular,he,Kiryat Malakhi,n
+C4426390,2018-02-11,trail_club,he,Beersheba,n
+C4427284,2024-10-09,regular,he,Tel Aviv-Yafo,n
+C4427838,2025-04-30,regular,he,Jerusalem,y
+C4429433,2023-02-12,regular,he,Jerusalem,y
+C4430876,2015-06-06,trail_club,he,Karmiel,n
+C4431070,2023-01-27,regular,he,Kfar Saba,n
+C4432160,2014-10-22,regular,he,Beersheba,n
+C4437436,2016-02-08,regular,en,Tel Aviv-Yafo,y
+C4437665,2024-05-14,silver_trail,he,Jerusalem,n
+C4438991,2018-12-12,silver_trail,en,Tel Aviv-Yafo,y
+C4439931,2019-04-23,regular,he,Rishon LeZion,y
+C4445158,2016-12-22,trail_club,he,Rehovot,y
+C4446399,2017-09-07,regular,he,Tel Aviv-Yafo,n
+C4446691,2015-11-22,trail_club,he,Kfar Saba,y
+C4447940,2023-11-08,silver_trail,he,Beersheba,y
+C4450021,2017-07-26,regular,he,Eilat,y
+C4450328,2014-10-06,trail_club,he,Tel Aviv-Yafo,n
+C4451243,2018-06-04,regular,he,Netanya,y
+C4453459,2020-08-18,trail_club,he,Haifa,y
+C4455216,2018-12-15,regular,he,Ra'anana,y
+C4456011,2020-02-20,regular,he,Shefa-Amr,n
+C4458048,2018-08-15,trail_club,he,Netanya,y
+C4458368,2023-10-17,regular,he,Netanya,y
+C4459546,2025-11-21,trail_club,he,Karmiel,n
+C4461917,2016-06-14,regular,he,Tayibe,n
+C4462622,2025-10-18,regular,en,Ra'anana,y
+C4463354,2025-12-06,regular,he,Eilat,y
+C4463380,2015-08-15,regular,he,Karmiel,y
+C4467837,2018-04-01,regular,he,Kfar Saba,y
+C4472967,2023-07-05,regular,he,Haifa,y
+C4476740,2017-11-26,regular,he,Karmiel,n
+C4477098,2019-03-15,regular,he,Rishon LeZion,y
+C4482672,2019-11-15,regular,he,Tel Aviv-Yafo,y
+C4484218,2025-08-31,regular,he,Haifa,y
+C4488191,2020-10-04,regular,he,Ra'anana,y
+C4495259,2022-10-27,regular,he,Rishon LeZion,y
+C4495623,2016-05-13,regular,he,Haifa,n
+C4499507,2018-05-05,regular,he,Ra'anana,n
+C4500998,2026-09-17,regular,he,Modiin,y
+C4506766,2020-04-02,silver_trail,he,Haifa,y
+C4507711,2021-11-17,regular,he,Haifa,y
+C4509643,2022-11-11,regular,he,Haifa,y
+C4511513,2023-09-15,trail_club,he,Modiin,y
+C4513006,2025-12-10,trail_club,en,Zichron Ya'akov,y
+C4514084,2019-08-31,regular,he,Karmiel,y
+C4516120,2016-04-02,regular,he,Netanya,n
+C4524540,2026-02-19,regular,he,Rishon LeZion,n
+C4530371,2018-11-01,regular,he,Rishon LeZion,y
+C4533183,2025-11-28,trail_club,he,Netanya,n
+C4535788,2020-06-09,trail_club,he,Rahat,y
+C4537188,2022-11-10,regular,he,Petah Tikva,y
+C4537511,2022-01-01,regular,he,Kfar Saba,n
+C4540657,2021-06-18,trail_club,he,Haifa,y
+C4543489,2018-10-27,regular,he,Netanya,n
+C4544157,2014-12-18,trail_club,he,Beersheba,y
+C4545435,2026-01-21,regular,he,Beersheba,y
+C4550536,2025-10-23,trail_club,he,Rishon LeZion,y
+C4551089,2024-01-19,regular,he,Rishon LeZion,n
+C4551912,2022-08-28,trail_club,he,Jerusalem,y
+C4562983,2020-05-30,silver_trail,he,Tel Aviv-Yafo,n
+C4567024,2023-05-27,regular,en,Jerusalem,y
+C4567315,2021-10-03,silver_trail,he,Jerusalem,y
+C4569227,2014-07-28,trail_club,he,Herzliya,y
+C4569333,2018-09-27,regular,he,Tayibe,y
+C4575097,2018-04-30,regular,he,Tel Aviv-Yafo,y
+C4576181,2017-04-30,regular,he,Eilat,n
+C4579466,2025-12-26,regular,he,Beersheba,n
+C4582251,2019-09-23,regular,he,Bat Yam,y
+C4587467,2026-01-29,trail_club,he,Tayibe,n
+C4588559,2020-04-06,regular,he,Rehovot,n
+C4589038,2023-11-05,regular,he,Netanya,y
+C4590530,2019-03-19,regular,he,Kfar Saba,y
+C4591918,2017-07-03,trail_club,he,Netanya,y
+C4593337,2018-01-19,regular,he,Beersheba,y
+C4596074,2015-12-07,regular,he,Petah Tikva,y
+C4597214,2014-03-12,regular,he,Karmiel,y
+C4603667,2015-10-19,trail_club,he,Rahat,n
+C4605465,2020-01-02,regular,he,Karmiel,y
+C4607205,2019-05-13,trail_club,he,Ra'anana,n
+C4611337,2015-12-27,silver_trail,he,Herzliya,y
+C4617157,2021-11-08,regular,he,Ashkelon,y
+C4617425,2020-11-17,trail_club,he,Sakhnin,y
+C4618622,2014-01-11,silver_trail,he,Petah Tikva,y
+C4624112,2017-01-06,regular,he,Rahat,y
+C4625185,2022-03-03,regular,he,Rishon LeZion,y
+C4625656,2023-05-06,trail_club,he,Tel Aviv-Yafo,y
+C4626428,2020-03-09,regular,he,Ra'anana,y
+C4631940,2014-01-19,trail_club,he,Ra'anana,y
+C4635029,2026-03-28,regular,he,Jerusalem,y
+C4637480,2021-01-24,trail_club,he,Rishon LeZion,n
+C4641813,2020-08-25,regular,he,Petah Tikva,y
+C4642463,2015-09-25,trail_club,he,Ra'anana,n
+C4649081,2023-08-13,regular,he,Eilat,y
+C4649088,2014-03-13,regular,he,Jerusalem,n
+C4658514,2024-01-29,regular,he,Tayibe,y
+C4658581,2018-02-21,regular,he,Beersheba,n
+C4660920,2021-07-27,trail_club,he,Eilat,y
+C4661904,2024-08-06,regular,he,Eilat,y
+C4662639,2024-06-11,regular,he,Kfar Saba,n
+C4663122,2015-02-15,regular,he,Umm al-Fahm,n
+C4675377,2014-01-19,trail_club,he,Jerusalem,n
+C4679127,2026-01-20,trail_club,he,Rishon LeZion,y
+C4679262,2025-04-29,trail_club,he,Karmiel,y
+C4679660,2018-05-07,regular,he,Rehovot,y
+C4680521,2021-07-17,trail_club,he,Rishon LeZion,n
+C4681240,2018-07-17,regular,he,Haifa,y
+C4683084,2021-10-03,regular,he,Ra'anana,y
+C4684415,2015-01-03,silver_trail,he,Rishon LeZion,y
+C4693892,2026-10-14,trail_club,he,Jerusalem,n
+C4696987,2021-07-14,regular,he,Haifa,n
+C4702862,2016-04-02,regular,he,Eilat,y
+C4703324,2026-06-03,regular,he,Rehovot,y
+C4708259,2015-04-22,regular,he,Beersheba,n
+C4713537,2018-11-23,trail_club,en,Beit Shemesh,y
+C4714013,2019-12-04,regular,he,Petah Tikva,n
+C4720688,2025-11-22,regular,he,Haifa,y
+C4721732,2024-06-24,trail_club,he,Karmiel,n
+C4721953,2018-07-21,regular,he,Herzliya,y
+C4724600,2017-12-25,trail_club,he,Ra'anana,n
+C4734245,2016-12-10,trail_club,he,Petah Tikva,n
+C4735123,2024-02-07,trail_club,he,Modiin,n
+C4735883,2015-08-23,regular,he,Karmiel,y
+C4741395,2022-06-01,regular,he,Ashkelon,y
+C4742175,2017-05-19,regular,he,Modiin,y
+C4748895,2017-02-12,regular,he,Karmiel,n
+C4750270,2017-08-17,regular,he,Rahat,y
+C4752272,2023-12-30,regular,he,Beersheba,n
+C4757615,2022-10-27,trail_club,he,Eilat,n
+C4766895,2020-03-11,regular,he,Kfar Saba,y
+C4769437,2025-02-18,regular,he,Karmiel,y
+C4774411,2024-02-29,regular,he,Beersheba,y
+C4774790,2015-06-14,regular,he,Netanya,y
+C4776139,2023-03-12,trail_club,he,Kfar Saba,y
+C4781068,2014-09-15,regular,he,Umm al-Fahm,y
+C4781510,2016-07-18,regular,he,Kfar Saba,n
+C4783610,2022-09-25,regular,he,Netanya,n
+C4783670,2024-03-10,silver_trail,he,Umm al-Fahm,y
+C4788890,2021-08-22,trail_club,he,Beersheba,y
+C4790817,2024-11-28,trail_club,he,Modiin,y
+C4795117,2017-11-07,regular,he,Rehovot,y
+C4795692,2015-04-01,silver_trail,he,Kfar Saba,n
+C4798386,2020-05-03,regular,he,Tayibe,n
+C4804666,2019-02-10,regular,he,Ra'anana,y
+C4805972,2026-01-28,regular,he,Netanya,n
+C4806415,2022-04-10,regular,he,Petah Tikva,y
+C4807004,2023-01-06,trail_club,he,Jerusalem,n
+C4810188,2018-03-08,regular,he,Eilat,n
+C4815368,2023-08-05,regular,he,Ashkelon,n
+C4816143,2021-05-13,silver_trail,he,Petah Tikva,y
+C4816341,2014-12-07,regular,he,Kfar Saba,y
+C4822721,2020-12-16,regular,he,Modiin,n
+C4824298,2017-10-27,trail_club,he,Zichron Ya'akov,y
+C4826657,2014-11-04,silver_trail,he,Haifa,n
+C4826720,2016-11-16,regular,he,Jerusalem,n
+C4828176,2015-08-25,trail_club,he,Haifa,y
+C4830707,2015-02-28,trail_club,he,Umm al-Fahm,y
+C4830713,2017-03-07,regular,he,Eilat,n
+C4834100,2019-11-09,trail_club,he,Ra'anana,y
+C4836753,2024-04-18,regular,he,Karmiel,n
+C4839525,2021-02-09,regular,he,Tel Aviv-Yafo,n
+C4839897,2021-06-10,regular,he,Kfar Saba,y
+C4843444,2016-05-25,regular,he,Kfar Saba,n
+C4843689,2026-05-27,regular,he,Modiin,n
+C4845334,2022-11-02,regular,he,Kfar Saba,y
+C4847581,2026-10-05,regular,he,Haifa,y
+C4847634,2018-04-22,regular,he,Tayibe,n
+C4850827,2015-01-17,regular,he,Rehovot,n
+C4851843,2018-05-11,trail_club,he,Beersheba,y
+C4854318,2020-08-05,trail_club,en,Tel Aviv-Yafo,y
+C4856213,2014-01-12,regular,he,Petah Tikva,y
+C4858229,2020-03-29,trail_club,he,Herzliya,n
+C4858457,2017-03-06,silver_trail,he,Eilat,y
+C4862288,2020-05-13,trail_club,he,Ra'anana,y
+C4862637,2020-01-20,regular,he,Beersheba,y
+C4866022,2026-06-28,regular,he,Tel Aviv-Yafo,y
+C4868012,2025-10-20,regular,he,Rehovot,y
+C4871450,2015-03-03,trail_club,he,Rehovot,n
+C4871740,2019-12-22,regular,he,Haifa,n
+C4872211,2017-02-18,trail_club,he,Rishon LeZion,y
+C4872363,2017-05-10,regular,he,Herzliya,y
+C4875712,2019-01-14,regular,he,Eilat,y
+C4876815,2026-07-02,regular,he,Modiin,y
+C4886950,2017-01-26,regular,he,Karmiel,y
+C4887036,2014-06-21,trail_club,he,Beersheba,y
+C4889713,2021-02-24,regular,he,Eilat,y
+C4889887,2015-03-13,silver_trail,he,Kfar Saba,n
+C4890855,2019-11-22,regular,he,Kfar Saba,y
+C4891595,2022-03-05,regular,he,Tayibe,y
+C4891850,2023-05-10,trail_club,he,Haifa,n
+C4893179,2020-03-06,regular,he,Rishon LeZion,y
+C4893523,2014-02-21,regular,he,Tayibe,y
+C4896569,2023-08-31,trail_club,he,Sakhnin,y
+C4896989,2019-05-03,regular,he,Shefa-Amr,n
+C4897200,2015-04-06,regular,he,Ra'anana,n
+C4904665,2017-07-14,regular,he,Petah Tikva,y
+C4907189,2022-08-18,trail_club,he,Netanya,n
+C4909656,2017-12-08,trail_club,he,Rehovot,y
+C4914903,2016-04-02,trail_club,he,Tayibe,n
+C4921380,2024-05-27,regular,he,Sakhnin,y
+C4921445,2018-08-26,regular,he,Rishon LeZion,n
+C4924183,2020-04-25,trail_club,he,Jerusalem,y
+C4930520,2018-02-13,trail_club,he,Tel Aviv-Yafo,n
+C4936499,2021-09-09,trail_club,he,Haifa,y
+C4939370,2021-10-17,regular,he,Ra'anana,y
+C4941216,2024-10-13,trail_club,he,Kfar Saba,y
+C4945008,2021-02-08,regular,he,Jerusalem,n
+C4948202,2015-12-31,regular,he,Eilat,n
+C4961128,2018-05-06,regular,he,Jerusalem,n
+C4965250,2025-03-20,regular,he,Rishon LeZion,n
+C4965967,2020-04-23,trail_club,he,Modiin,y
+C4967082,2021-04-20,trail_club,he,Rishon LeZion,y
+C4969919,2021-08-27,regular,he,Kiryat Malakhi,y
+C4972612,2021-12-06,regular,he,Kafr Qasim,y
+C4972941,2024-01-14,regular,he,Ra'anana,n
+C4976708,2018-12-02,regular,he,Ra'anana,y
+C4976951,2022-03-26,regular,he,Rehovot,y
+C4978855,2018-05-29,trail_club,he,Netanya,y
+C4979980,2020-12-06,regular,he,Haifa,n
+C4981618,2015-09-29,trail_club,he,Ra'anana,n
+C4982875,2018-11-02,regular,he,Netanya,y
+C4984407,2022-03-23,regular,he,Jerusalem,y
+C4985380,2021-03-29,silver_trail,he,Ra'anana,y
+C4987075,2026-06-10,regular,he,Ra'anana,n
+C4988035,2026-07-11,trail_club,he,Modiin,n
+C4988966,2019-05-22,trail_club,he,Jerusalem,n
+C4991367,2016-10-25,regular,he,Beersheba,n
+C4996320,2014-10-24,regular,he,Rishon LeZion,y
+C4996433,2025-07-29,regular,he,Karmiel,y
+C4997003,2023-01-18,regular,he,Ra'anana,n
+C4999997,2018-06-04,regular,he,Eilat,n
+C5004026,2020-05-01,regular,he,Kfar Saba,y
+C5005974,2020-09-03,regular,he,Kafr Qasim,y
+C5013737,2016-07-07,regular,he,Rehovot,y
+C5018213,2018-09-19,trail_club,he,Modiin,y
+C5025383,2014-01-18,trail_club,he,Netanya,n
+C5032267,2021-11-28,regular,he,Jerusalem,n
+C5037369,2020-05-03,regular,he,Netanya,n
+C5038393,2024-04-12,silver_trail,he,Tayibe,n
+C5043449,2020-09-22,regular,he,Herzliya,y
+C5053385,2021-06-12,regular,he,Jerusalem,n
+C5055904,2022-09-24,regular,he,Haifa,n
+C5059024,2015-02-25,regular,he,Haifa,n
+C5063366,2017-03-10,regular,he,Tel Aviv-Yafo,n
+C5063714,2016-01-11,regular,he,Karmiel,y
+C5065987,2026-03-02,silver_trail,he,Tel Aviv-Yafo,y
+C5067984,2017-02-19,regular,he,Petah Tikva,n
+C5070063,2022-12-21,regular,he,Haifa,n
+C5071391,2026-02-21,trail_club,he,Rishon LeZion,y
+C5074019,2018-07-13,trail_club,he,Rishon LeZion,n
+C5074313,2024-04-17,regular,he,Petah Tikva,y
+C5074736,2018-10-06,regular,he,Tel Aviv-Yafo,y
+C5077938,2022-10-24,regular,en,Modiin,n
+C5082689,2015-01-20,regular,he,Netanya,y
+C5085076,2022-10-29,trail_club,he,Rishon LeZion,y
+C5090292,2015-05-12,regular,he,Rishon LeZion,y
+C5090345,2022-01-02,regular,he,Netanya,y
+C5090974,2015-02-02,regular,he,Tel Aviv-Yafo,n
+C5094071,2020-01-10,regular,he,Rehovot,y
+C5106286,2020-02-09,regular,he,Netanya,n
+C5114688,2026-01-12,regular,he,Kfar Saba,n
+C5116983,2023-12-17,regular,en,Tel Aviv-Yafo,y
+C5122580,2025-05-13,trail_club,he,Tel Aviv-Yafo,n
+C5124301,2014-09-05,silver_trail,he,Jerusalem,y
+C5124459,2020-06-08,regular,en,Jerusalem,y
+C5127120,2018-01-02,regular,he,Haifa,y
+C5128077,2014-08-06,regular,he,Tel Aviv-Yafo,n
+C5132113,2026-08-23,regular,he,Bat Yam,y
+C5133400,2016-12-05,trail_club,he,Kfar Saba,y
+C5136947,2022-01-30,silver_trail,he,Beersheba,y
+C5137498,2020-06-09,regular,he,Kafr Qasim,n
+C5141910,2026-01-07,trail_club,he,Haifa,n
+C5145781,2024-05-05,regular,he,Modiin,y
+C5145970,2024-09-21,trail_club,he,Karmiel,n
+C5150130,2022-11-09,regular,en,Tel Aviv-Yafo,y
+C5157630,2019-05-11,regular,he,Beersheba,y
+C5165616,2019-05-31,regular,he,Eilat,y
+C5165820,2014-10-13,regular,he,Herzliya,y
+C5169448,2019-11-02,regular,he,Netanya,y
+C5170576,2023-07-20,regular,he,Eilat,n
+C5171512,2015-02-19,trail_club,he,Modiin,y
+C5171590,2019-11-02,regular,he,Netanya,y
+C5171614,2020-03-17,regular,he,Modiin,n
+C5173393,2024-02-08,regular,he,Karmiel,n
+C5176466,2026-10-21,trail_club,he,Kafr Qasim,n
+C5177166,2026-07-15,regular,he,Tel Aviv-Yafo,n
+C5181282,2019-05-01,silver_trail,he,Karmiel,n
+C5182480,2026-02-02,regular,he,Rehovot,y
+C5193122,2022-06-03,trail_club,he,Rishon LeZion,y
+C5198238,2026-07-02,trail_club,he,Rahat,y
+C5198475,2014-04-05,trail_club,he,Jerusalem,y
+C5199451,2020-05-07,regular,he,Kfar Saba,y
+C5207463,2026-08-13,trail_club,he,Haifa,y
+C5208905,2022-07-13,trail_club,he,Kfar Saba,y
+C5218968,2022-08-01,regular,he,Haifa,y
+C5221719,2025-07-26,regular,he,Tel Aviv-Yafo,y
+C5231307,2021-01-17,regular,he,Rahat,n
+C5231419,2023-07-23,trail_club,he,Rehovot,n
+C5232533,2015-10-31,silver_trail,he,Rehovot,y
+C5234289,2015-04-14,silver_trail,he,Kfar Saba,y
+C5235098,2016-02-11,trail_club,he,Netanya,n
+C5236243,2022-07-06,silver_trail,en,Tel Aviv-Yafo,y
+C5241131,2015-08-17,regular,he,Herzliya,n
+C5246659,2018-12-20,regular,he,Jerusalem,y
+C5254337,2018-04-20,trail_club,he,Karmiel,n
+C5256796,2024-06-15,trail_club,he,Netanya,y
+C5257268,2023-11-30,silver_trail,he,Tel Aviv-Yafo,y
+C5261556,2014-11-09,regular,he,Sakhnin,y
+C5264083,2017-04-04,trail_club,he,Jerusalem,y
+C5265853,2015-07-28,regular,he,Zichron Ya'akov,n
+C5267352,2025-06-18,trail_club,he,Rishon LeZion,y
+C5268223,2023-04-23,trail_club,en,Modiin,n
+C5275800,2022-09-02,regular,he,Petah Tikva,y
+C5281120,2024-09-02,regular,he,Haifa,y
+C5285010,2018-04-20,regular,he,Ra'anana,y
+C5286332,2020-08-07,regular,en,Jerusalem,y
+C5287451,2014-03-11,trail_club,he,Karmiel,n
+C5291531,2018-07-14,trail_club,he,Rishon LeZion,n
+C5291914,2016-12-31,silver_trail,he,Netanya,n
+C5291961,2023-06-27,trail_club,he,Haifa,n
+C5292036,2015-12-04,regular,he,Eilat,n
+C5299244,2025-01-06,regular,he,Beersheba,y
+C5300419,2020-03-29,trail_club,he,Modiin,y
+C5301548,2015-06-09,regular,he,Netanya,y
+C5302411,2026-09-14,regular,he,Rishon LeZion,n
+C5304827,2023-01-15,regular,he,Ra'anana,n
+C5305371,2020-01-26,regular,he,Eilat,y
+C5306645,2020-06-14,regular,he,Bat Yam,n
+C5307190,2023-08-08,regular,he,Petah Tikva,y
+C5308778,2025-07-24,silver_trail,he,Bat Yam,y
+C5312739,2020-03-08,regular,he,Kfar Saba,n
+C5317056,2018-10-17,trail_club,he,Eilat,y
+C5318747,2019-01-31,regular,he,Rehovot,y
+C5320509,2023-10-20,trail_club,he,Herzliya,y
+C5325045,2015-10-09,regular,he,Modiin,y
+C5329634,2026-02-14,regular,he,Jerusalem,n
+C5332422,2018-01-27,trail_club,he,Netanya,n
+C5338106,2026-03-05,regular,he,Sakhnin,n
+C5342276,2024-03-18,trail_club,he,Netanya,y
+C5344614,2023-09-02,regular,he,Karmiel,y
+C5347210,2014-01-14,regular,he,Beersheba,n
+C5347623,2025-02-28,regular,he,Beersheba,n
+C5348622,2014-03-18,regular,en,Modiin,y
+C5348974,2026-06-13,trail_club,he,Ra'anana,y
+C5361710,2015-10-09,trail_club,he,Tel Aviv-Yafo,y
+C5363328,2021-12-14,silver_trail,he,Tel Aviv-Yafo,y
+C5365005,2026-09-20,regular,he,Tel Aviv-Yafo,y
+C5370146,2020-02-26,regular,en,Zichron Ya'akov,y
+C5377244,2026-06-29,regular,he,Kfar Saba,y
+C5378729,2016-01-07,regular,he,Netanya,y
+C5379019,2020-05-17,regular,he,Karmiel,n
+C5383368,2021-02-11,regular,he,Netanya,n
+C5383778,2025-02-13,silver_trail,he,Rehovot,y
+C5388786,2022-02-02,regular,he,Beersheba,n
+C5394360,2019-09-08,silver_trail,he,Petah Tikva,n
+C5395440,2023-08-27,regular,he,Tayibe,n
+C5396022,2019-08-31,regular,he,Ashkelon,n
+C5399029,2025-09-10,regular,he,Karmiel,y
+C5403488,2021-03-31,regular,he,Eilat,n
+C5406315,2020-07-13,regular,he,Sakhnin,n
+C5409031,2023-05-16,silver_trail,he,Modiin,y
+C5412447,2014-06-18,regular,he,Herzliya,y
+C5413687,2018-02-08,trail_club,he,Haifa,y
+C5413799,2024-01-23,regular,he,Karmiel,y
+C5416959,2021-09-05,regular,he,Haifa,n
+C5417308,2020-04-30,trail_club,en,Modiin,y
+C5424467,2016-08-31,regular,en,Jerusalem,y
+C5434558,2024-08-11,regular,he,Modiin,n
+C5439200,2018-03-05,regular,he,Netanya,y
+C5440792,2024-04-24,regular,he,Ashkelon,n
+C5441130,2024-09-28,trail_club,en,Tel Aviv-Yafo,y
+C5441789,2019-05-23,trail_club,he,Umm al-Fahm,y
+C5442007,2024-04-17,regular,en,Jerusalem,y
+C5447892,2019-04-21,silver_trail,he,Haifa,n
+C5449389,2026-09-01,regular,he,Herzliya,y
+C5454256,2019-04-02,regular,he,Modiin,y
+C5455105,2021-09-12,regular,he,Rishon LeZion,n
+C5455195,2017-10-30,regular,en,Zichron Ya'akov,y
+C5471040,2024-11-05,trail_club,he,Rishon LeZion,y
+C5471466,2025-05-17,regular,he,Petah Tikva,n
+C5473613,2023-10-31,silver_trail,he,Haifa,n
+C5483843,2021-02-24,trail_club,he,Modiin,n
+C5485133,2023-11-05,trail_club,he,Herzliya,n
+C5489397,2021-06-03,regular,he,Petah Tikva,y
+C5495049,2019-05-08,regular,he,Netanya,y
+C5496856,2020-12-10,trail_club,he,Rehovot,n
+C5497116,2023-01-01,regular,he,Eilat,n
+C5501776,2014-12-03,regular,he,Netanya,y
+C5506538,2015-06-25,regular,he,Rehovot,y
+C5507616,2016-02-14,regular,he,Rishon LeZion,n
+C5509798,2025-01-29,trail_club,he,Modiin,n
+C5511011,2021-09-24,regular,he,Beersheba,y
+C5513697,2015-05-11,regular,he,Modiin,y
+C5519512,2023-06-20,regular,he,Ra'anana,y
+C5520625,2017-09-05,regular,he,Rehovot,n
+C5531056,2020-03-11,regular,he,Kfar Saba,n
+C5535993,2014-08-03,trail_club,he,Haifa,n
+C5536531,2022-11-09,regular,he,Modiin,n
+C5536997,2016-06-03,silver_trail,he,Rahat,n
+C5537034,2022-01-12,regular,he,Jerusalem,n
+C5537543,2014-06-13,regular,he,Kfar Saba,n
+C5538804,2022-08-18,silver_trail,he,Jerusalem,y
+C5542381,2021-08-30,regular,he,Umm al-Fahm,n
+C5543518,2019-01-15,trail_club,he,Eilat,y
+C5546888,2020-09-15,regular,he,Eilat,n
+C5549864,2014-10-07,trail_club,he,Ra'anana,y
+C5549968,2022-04-16,regular,he,Haifa,y
+C5554553,2022-06-28,trail_club,he,Umm al-Fahm,y
+C5557815,2016-01-17,regular,he,Rishon LeZion,n
+C5557833,2016-08-17,trail_club,he,Modiin,y
+C5558562,2023-09-11,regular,he,Ra'anana,n
+C5559985,2020-12-21,trail_club,he,Rishon LeZion,n
+C5561466,2024-12-20,trail_club,he,Nazareth,n
+C5562799,2024-05-28,trail_club,he,Kfar Saba,y
+C5564819,2016-12-05,regular,he,Rehovot,y
+C5565092,2025-02-16,trail_club,he,Kfar Saba,n
+C5568029,2021-06-18,silver_trail,he,Ra'anana,y
+C5570469,2022-06-18,trail_club,he,Rehovot,y
+C5571653,2014-03-31,trail_club,he,Karmiel,y
+C5579139,2025-11-10,trail_club,he,Sakhnin,y
+C5584495,2017-12-25,regular,he,Sakhnin,y
+C5586293,2026-10-18,regular,he,Tel Aviv-Yafo,n
+C5590226,2020-03-14,trail_club,he,Rishon LeZion,n
+C5591929,2018-08-19,regular,he,Tel Aviv-Yafo,y
+C5593581,2016-03-27,regular,he,Ra'anana,y
+C5602058,2022-11-17,regular,en,Zichron Ya'akov,y
+C5602495,2025-05-10,trail_club,he,Ra'anana,y
+C5603117,2016-07-28,regular,he,Beersheba,n
+C5604479,2014-06-17,trail_club,he,Petah Tikva,y
+C5606856,2014-05-25,trail_club,he,Sakhnin,n
+C5611561,2024-06-04,regular,he,Netanya,y
+C5612568,2026-07-10,regular,he,Karmiel,n
+C5615740,2021-07-16,trail_club,he,Kafr Qasim,y
+C5615937,2018-02-25,trail_club,he,Eilat,n
+C5616561,2022-04-16,silver_trail,en,Modiin,n
+C5620731,2015-05-22,regular,he,Karmiel,y
+C5626914,2017-08-07,regular,he,Jerusalem,n
+C5629566,2016-12-05,regular,he,Ashdod,y
+C5629965,2023-10-26,regular,en,Ra'anana,y
+C5632449,2018-07-01,regular,he,Rehovot,y
+C5634548,2015-12-30,regular,he,Ashdod,y
+C5636613,2025-03-01,regular,he,Rishon LeZion,y
+C5638540,2020-03-27,trail_club,he,Umm al-Fahm,y
+C5641974,2017-12-31,regular,he,Tel Aviv-Yafo,n
+C5645927,2025-01-19,trail_club,he,Tel Aviv-Yafo,y
+C5646063,2017-05-25,regular,he,Shefa-Amr,y
+C5647265,2026-08-17,trail_club,he,Tel Aviv-Yafo,n
+C5649896,2026-03-09,regular,he,Ashkelon,y
+C5655405,2025-07-25,regular,he,Modiin,y
+C5657978,2020-05-29,regular,he,Rehovot,y
+C5658559,2025-08-26,regular,he,Modiin,n
+C5659547,2015-06-10,trail_club,he,Karmiel,n
+C5661400,2019-11-19,regular,he,Haifa,y
+C5662652,2021-12-15,silver_trail,he,Rishon LeZion,y
+C5667477,2022-12-23,trail_club,he,Ashdod,n
+C5667514,2015-02-28,regular,en,Ra'anana,n
+C5671467,2020-11-05,regular,he,Jerusalem,n
+C5672449,2025-03-12,regular,he,Beersheba,n
+C5675182,2019-01-30,regular,he,Modiin,n
+C5677104,2022-07-22,regular,he,Kfar Saba,y
+C5681178,2026-02-23,regular,he,Tayibe,n
+C5686845,2021-02-01,trail_club,he,Jerusalem,y
+C5688934,2019-12-21,regular,he,Petah Tikva,n
+C5690739,2021-03-27,trail_club,he,Beersheba,n
+C5691727,2018-01-12,regular,he,Ashdod,y
+C5693280,2014-10-22,trail_club,he,Tel Aviv-Yafo,y
+C5693598,2019-03-02,regular,he,Beersheba,n
+C5695575,2016-12-26,regular,he,Haifa,y
+C5703529,2025-04-28,regular,he,Haifa,y
+C5714486,2015-10-11,trail_club,he,Modiin,y
+C5715233,2026-06-22,regular,he,Rahat,n
+C5717302,2024-09-26,regular,he,Karmiel,n
+C5728774,2014-06-17,regular,he,Karmiel,n
+C5737309,2023-11-17,trail_club,he,Petah Tikva,n
+C5738413,2022-10-24,regular,he,Modiin,n
+C5742887,2022-05-02,regular,he,Sakhnin,n
+C5749258,2019-05-04,regular,he,Netanya,n
+C5751882,2014-12-12,regular,he,Rishon LeZion,y
+C5753771,2017-09-27,regular,en,Tel Aviv-Yafo,n
+C5755952,2015-01-01,regular,he,Ashdod,n
+C5757536,2022-08-09,regular,he,Eilat,n
+C5769493,2021-01-26,trail_club,he,Modiin,n
+C5770343,2026-09-28,regular,he,Netanya,n
+C5773748,2024-06-30,regular,he,Herzliya,n
+C5774513,2023-10-16,regular,he,Petah Tikva,n
+C5779378,2024-02-04,regular,he,Haifa,n
+C5780214,2024-12-12,trail_club,he,Rahat,y
+C5780249,2015-08-23,trail_club,he,Ashkelon,y
+C5781004,2025-01-09,trail_club,he,Tayibe,y
+C5782461,2019-02-08,regular,he,Tel Aviv-Yafo,y
+C5785216,2024-08-27,trail_club,he,Ra'anana,y
+C5795303,2018-02-06,regular,he,Petah Tikva,n
+C5796815,2016-02-18,trail_club,he,Sakhnin,n
+C5800878,2022-03-16,regular,he,Rehovot,n
+C5801830,2022-11-13,regular,he,Petah Tikva,n
+C5803008,2014-03-05,regular,he,Karmiel,y
+C5804590,2015-01-16,trail_club,en,Ra'anana,n
+C5806581,2025-02-02,trail_club,he,Haifa,y
+C5807745,2026-02-18,trail_club,he,Eilat,y
+C5816480,2024-10-30,trail_club,en,Tel Aviv-Yafo,n
+C5819054,2022-01-28,regular,he,Haifa,y
+C5819826,2016-10-04,regular,he,Tel Aviv-Yafo,y
+C5821540,2026-04-01,trail_club,he,Karmiel,y
+C5826571,2017-05-13,regular,he,Modiin,y
+C5827606,2019-10-17,regular,he,Petah Tikva,y
+C5829339,2022-10-16,trail_club,he,Eilat,y
+C5832345,2021-08-25,regular,he,Karmiel,n
+C5833331,2025-05-06,regular,he,Petah Tikva,y
+C5833824,2018-05-15,regular,he,Tel Aviv-Yafo,y
+C5835526,2017-11-27,trail_club,he,Shefa-Amr,y
+C5837499,2014-07-11,trail_club,he,Haifa,n
+C5838865,2016-05-31,regular,he,Haifa,n
+C5841711,2025-01-02,trail_club,he,Ashdod,n
+C5844594,2022-09-14,regular,en,Modiin,y
+C5848540,2021-03-14,regular,he,Netanya,n
+C5851144,2026-03-05,trail_club,en,Ra'anana,n
+C5854441,2018-01-15,trail_club,he,Netanya,y
+C5855208,2025-01-30,regular,he,Jerusalem,n
+C5858454,2024-04-24,regular,he,Karmiel,y
+C5858736,2017-03-02,regular,he,Kfar Saba,y
+C5861304,2015-08-28,regular,he,Rishon LeZion,n
+C5862065,2016-01-03,regular,he,Beersheba,n
+C5869771,2023-01-20,regular,he,Modiin,n
+C5870687,2026-01-23,silver_trail,he,Karmiel,y
+C5871838,2015-12-09,regular,he,Sakhnin,n
+C5873247,2018-10-11,silver_trail,he,Herzliya,y
+C5873908,2025-03-27,trail_club,he,Ra'anana,y
+C5876883,2023-02-09,trail_club,he,Haifa,n
+C5878013,2014-05-30,trail_club,he,Eilat,y
+C5888091,2020-01-10,regular,he,Haifa,n
+C5889529,2022-08-12,regular,he,Haifa,y
+C5890731,2021-10-29,trail_club,he,Tel Aviv-Yafo,n
+C5892602,2014-08-04,trail_club,en,Zichron Ya'akov,y
+C5895643,2019-09-26,regular,he,Netanya,n
+C5903897,2016-07-26,regular,he,Modiin,y
+C5905812,2021-11-28,trail_club,he,Rehovot,y
+C5915613,2018-08-30,trail_club,he,Kfar Saba,n
+C5917811,2016-02-11,trail_club,he,Beersheba,y
+C5921693,2014-11-23,trail_club,he,Tel Aviv-Yafo,y
+C5924557,2019-01-05,regular,he,Jerusalem,y
+C5930791,2024-07-19,trail_club,he,Tel Aviv-Yafo,n
+C5932395,2017-04-26,regular,he,Bat Yam,y
+C5933716,2021-09-10,regular,he,Kfar Saba,y
+C5942029,2025-10-25,regular,en,Jerusalem,y
+C5951851,2015-08-19,trail_club,he,Beersheba,y
+C5955198,2021-01-07,regular,he,Nazareth,n
+C5955737,2023-01-24,regular,he,Rehovot,n
+C5961543,2019-02-19,regular,he,Sakhnin,n
+C5970247,2023-06-29,regular,he,Ashkelon,n
+C5972244,2017-12-15,regular,en,Tel Aviv-Yafo,n
+C5977378,2014-06-14,silver_trail,he,Rishon LeZion,n
+C5978536,2020-12-08,trail_club,he,Beersheba,y
+C5979723,2023-04-24,trail_club,he,Herzliya,n
+C5980964,2024-05-09,regular,he,Jerusalem,n
+C5983949,2025-06-12,regular,he,Umm al-Fahm,n
+C5985728,2015-08-01,silver_trail,he,Sakhnin,n
+C5986261,2022-06-05,regular,he,Netanya,y
+C5988619,2019-07-29,trail_club,he,Jerusalem,n
+C5989729,2022-10-30,silver_trail,he,Tel Aviv-Yafo,y
+C5993207,2025-04-17,regular,he,Netanya,n
+C5996193,2023-03-23,regular,he,Kfar Saba,n
+C5998140,2014-09-28,regular,he,Rishon LeZion,y
+C5998620,2024-12-05,regular,he,Karmiel,y
+C6001037,2023-08-21,regular,he,Rehovot,n
+C6004494,2023-05-21,regular,he,Netanya,y
+C6007652,2018-03-17,regular,he,Eilat,n
+C6011101,2014-01-18,trail_club,he,Nazareth,y
+C6011631,2015-10-12,regular,he,Ra'anana,y
+C6018452,2017-09-02,trail_club,he,Karmiel,y
+C6019807,2021-04-21,trail_club,he,Kfar Saba,n
+C6027178,2018-08-20,regular,he,Ashdod,y
+C6028047,2025-11-24,silver_trail,he,Haifa,y
+C6028533,2026-04-18,regular,he,Ra'anana,y
+C6028736,2016-01-02,regular,he,Rahat,y
+C6031703,2023-08-09,regular,he,Eilat,n
+C6035729,2015-10-07,regular,he,Beersheba,y
+C6036514,2016-03-23,regular,he,Rahat,n
+C6040446,2026-07-06,trail_club,he,Ra'anana,y
+C6042237,2024-03-05,regular,he,Beersheba,y
+C6043132,2018-01-17,regular,he,Modiin,n
+C6043794,2023-09-01,regular,he,Netanya,y
+C6045481,2026-07-20,regular,he,Ashkelon,y
+C6046020,2015-02-06,regular,he,Rehovot,y
+C6047120,2023-12-26,regular,he,Tel Aviv-Yafo,n
+C6059946,2020-08-06,regular,he,Tel Aviv-Yafo,n
+C6060570,2015-02-01,regular,he,Rishon LeZion,n
+C6061757,2023-11-22,trail_club,he,Rehovot,n
+C6062449,2021-08-14,regular,he,Haifa,n
+C6066955,2015-11-27,regular,he,Karmiel,n
+C6070016,2018-02-25,trail_club,en,Ra'anana,y
+C6072658,2020-08-20,silver_trail,he,Nazareth,y
+C6072826,2025-07-18,trail_club,he,Ashdod,y
+C6075091,2014-08-21,regular,he,Herzliya,y
+C6076100,2017-06-23,trail_club,he,Karmiel,n
+C6076145,2014-09-03,regular,he,Beersheba,n
+C6076433,2023-01-19,regular,he,Sakhnin,n
+C6077048,2024-06-12,regular,he,Beersheba,n
+C6080282,2014-11-20,silver_trail,he,Tel Aviv-Yafo,n
+C6081212,2025-03-25,regular,he,Karmiel,n
+C6083913,2025-06-10,regular,he,Rishon LeZion,n
+C6086278,2024-04-18,trail_club,he,Beersheba,y
+C6090901,2021-04-08,trail_club,he,Sakhnin,n
+C6092457,2020-04-23,silver_trail,he,Ra'anana,y
+C6101869,2026-05-22,silver_trail,he,Rahat,y
+C6104295,2016-09-05,regular,he,Modiin,n
+C6105294,2022-03-30,trail_club,en,Ra'anana,y
+C6106164,2022-02-27,regular,he,Rehovot,y
+C6111921,2015-07-04,trail_club,he,Modiin,y
+C6112244,2024-12-28,regular,he,Modiin,y
+C6113592,2020-01-24,regular,he,Beersheba,y
+C6114995,2019-09-26,regular,he,Rishon LeZion,y
+C6116095,2017-10-21,trail_club,he,Beersheba,n
+C6116669,2024-09-23,regular,he,Umm al-Fahm,y
+C6120576,2019-01-23,regular,he,Nazareth,y
+C6121955,2023-06-03,trail_club,he,Rishon LeZion,y
+C6122342,2016-11-03,trail_club,he,Modiin,y
+C6125077,2022-11-15,regular,he,Ashdod,n
+C6129799,2023-02-11,trail_club,he,Rishon LeZion,y
+C6130242,2017-12-15,regular,he,Rehovot,y
+C6130704,2016-04-16,regular,en,Ra'anana,y
+C6132896,2023-12-24,regular,he,Rishon LeZion,y
+C6139299,2015-12-20,trail_club,he,Modiin,y
+C6142323,2020-01-01,trail_club,he,Kfar Saba,y
+C6143544,2022-11-21,silver_trail,he,Haifa,n
+C6145381,2015-01-20,regular,he,Ra'anana,y
+C6147826,2021-02-06,trail_club,he,Modiin,y
+C6148260,2014-12-11,regular,he,Haifa,y
+C6152350,2026-01-30,silver_trail,he,Eilat,n
+C6152765,2020-10-13,trail_club,he,Tel Aviv-Yafo,n
+C6153400,2017-07-11,regular,he,Eilat,y
+C6153487,2024-05-26,trail_club,he,Kiryat Gat,y
+C6156619,2020-02-27,trail_club,he,Sakhnin,y
+C6159108,2015-09-17,trail_club,he,Karmiel,y
+C6160978,2018-06-08,regular,he,Shefa-Amr,y
+C6171069,2017-08-27,regular,he,Herzliya,y
+C6172409,2025-11-23,silver_trail,he,Rishon LeZion,n
+C6174020,2021-04-18,trail_club,he,Rehovot,y
+C6176761,2016-04-17,trail_club,he,Herzliya,y
+C6176855,2022-08-05,regular,he,Haifa,y
+C6177399,2022-07-16,regular,he,Rahat,n
+C6183312,2022-10-12,trail_club,he,Eilat,n
+C6185748,2023-06-04,regular,he,Jerusalem,y
+C6187486,2026-05-10,regular,he,Beersheba,y
+C6189469,2017-03-03,regular,he,Haifa,n
+C6191879,2016-07-16,trail_club,he,Eilat,n
+C6198871,2018-08-24,trail_club,he,Jerusalem,y
+C6199209,2021-10-21,regular,he,Ashkelon,n
+C6199331,2026-08-11,regular,he,Beersheba,n
+C6202854,2021-01-05,trail_club,he,Jerusalem,n
+C6210502,2020-01-07,regular,he,Haifa,y
+C6214839,2014-07-26,trail_club,he,Ra'anana,y
+C6219935,2021-01-09,regular,he,Kafr Qasim,n
+C6221967,2023-04-30,trail_club,he,Tel Aviv-Yafo,n
+C6223678,2019-01-28,trail_club,he,Petah Tikva,y
+C6229407,2015-12-06,trail_club,he,Rehovot,y
+C6230365,2026-07-14,trail_club,he,Haifa,y
+C6242633,2015-01-13,silver_trail,he,Jerusalem,n
+C6244396,2022-02-21,regular,he,Rehovot,n
+C6244524,2019-04-04,regular,he,Karmiel,n
+C6245661,2018-06-16,regular,he,Beersheba,y
+C6249328,2025-05-22,trail_club,he,Shefa-Amr,n
+C6255504,2018-05-15,trail_club,he,Netanya,n
+C6258385,2021-02-19,regular,he,Jerusalem,y
+C6258937,2017-09-12,regular,he,Ra'anana,n
+C6260141,2014-11-20,regular,he,Modiin,n
+C6260236,2024-05-28,regular,he,Kfar Saba,y
+C6262123,2019-05-29,trail_club,he,Tel Aviv-Yafo,n
+C6262492,2024-09-20,regular,he,Kfar Saba,n
+C6265672,2025-11-21,trail_club,he,Netanya,n
+C6270304,2026-06-17,regular,he,Sakhnin,n
+C6271491,2018-04-25,regular,he,Eilat,y
+C6272683,2024-02-25,regular,he,Tel Aviv-Yafo,n
+C6273965,2025-05-13,regular,he,Herzliya,y
+C6275255,2014-11-29,trail_club,he,Kfar Saba,n
+C6285164,2014-08-03,regular,he,Bat Yam,y
+C6287838,2015-04-20,regular,he,Modiin,n
+C6290683,2024-05-17,trail_club,he,Eilat,n
+C6301786,2021-04-23,trail_club,he,Kfar Saba,n
+C6307097,2016-04-18,regular,he,Rehovot,y
+C6308038,2015-06-22,regular,he,Rehovot,n
+C6309544,2017-10-28,regular,he,Haifa,y
+C6317001,2016-03-28,regular,he,Rehovot,y
+C6318101,2020-10-13,regular,he,Rahat,y
+C6318931,2025-12-11,regular,en,Tel Aviv-Yafo,y
+C6320417,2018-08-31,trail_club,he,Haifa,y
+C6320706,2017-07-14,regular,he,Petah Tikva,n
+C6325116,2015-12-31,regular,he,Karmiel,y
+C6326217,2020-10-29,regular,he,Rishon LeZion,n
+C6326708,2021-10-02,regular,he,Eilat,y
+C6327146,2025-09-02,regular,he,Jerusalem,y
+C6331094,2023-02-23,trail_club,he,Beersheba,n
+C6333541,2025-05-29,regular,he,Herzliya,n
+C6333887,2024-06-26,trail_club,he,Umm al-Fahm,n
+C6334486,2025-08-29,trail_club,he,Ra'anana,y
+C6337315,2018-12-23,regular,he,Tel Aviv-Yafo,y
+C6338055,2025-07-09,regular,he,Tel Aviv-Yafo,y
+C6341058,2018-06-30,trail_club,he,Karmiel,y
+C6343613,2026-08-12,regular,he,Ra'anana,y
+C6346122,2021-02-17,trail_club,he,Petah Tikva,y
+C6352554,2018-04-15,regular,he,Ashdod,n
+C6352667,2015-01-10,trail_club,he,Rishon LeZion,y
+C6355598,2021-02-08,regular,he,Rahat,y
+C6358034,2017-03-24,regular,he,Ra'anana,n
+C6360169,2020-05-30,silver_trail,he,Rishon LeZion,n
+C6360673,2021-11-04,regular,en,Beit Shemesh,n
+C6364360,2022-11-23,silver_trail,he,Haifa,n
+C6369350,2021-11-13,trail_club,he,Haifa,n
+C6370766,2023-03-31,regular,he,Jerusalem,n
+C6371220,2025-04-23,trail_club,he,Kafr Qasim,y
+C6371607,2017-10-30,regular,he,Haifa,y
+C6373984,2014-08-19,trail_club,he,Herzliya,y
+C6378608,2023-03-27,regular,he,Rahat,n
+C6379993,2017-08-29,regular,he,Jerusalem,y
+C6382599,2025-11-09,regular,he,Ashdod,y
+C6384894,2015-12-02,regular,he,Tel Aviv-Yafo,y
+C6385420,2021-11-23,regular,he,Ashdod,n
+C6385511,2022-12-22,trail_club,he,Tel Aviv-Yafo,n
+C6391730,2018-12-07,silver_trail,he,Netanya,y
+C6392097,2015-05-14,trail_club,he,Eilat,n
+C6392514,2014-11-09,regular,he,Modiin,y
+C6395580,2025-10-20,regular,he,Eilat,y
+C6396652,2024-02-01,regular,he,Tayibe,n
+C6399022,2016-08-29,regular,he,Herzliya,y
+C6404599,2024-10-08,trail_club,he,Netanya,n
+C6408452,2021-10-25,regular,he,Herzliya,y
+C6411755,2015-03-04,trail_club,he,Beersheba,y
+C6413302,2025-03-31,trail_club,he,Bat Yam,n
+C6416565,2017-08-09,regular,he,Shefa-Amr,y
+C6418715,2014-08-30,regular,he,Karmiel,n
+C6420769,2023-06-14,trail_club,he,Tel Aviv-Yafo,n
+C6424005,2015-11-10,regular,he,Rishon LeZion,y
+C6424609,2025-07-19,regular,he,Modiin,n
+C6427610,2022-11-07,regular,he,Kfar Saba,y
+C6428557,2023-10-03,regular,he,Kfar Saba,y
+C6435186,2021-07-19,regular,he,Haifa,y
+C6438975,2024-12-18,trail_club,he,Eilat,y
+C6440018,2015-07-23,trail_club,he,Eilat,y
+C6444321,2015-08-18,trail_club,he,Jerusalem,y
+C6452161,2026-09-15,regular,he,Rehovot,y
+C6455253,2022-06-08,regular,he,Karmiel,n
+C6457273,2015-06-30,regular,he,Herzliya,y
+C6459173,2020-05-13,trail_club,he,Modiin,y
+C6460580,2019-06-25,trail_club,he,Beersheba,n
+C6462573,2018-12-28,regular,he,Sakhnin,y
+C6468455,2021-03-12,regular,he,Petah Tikva,n
+C6490046,2025-07-05,regular,he,Herzliya,n
+C6491967,2017-05-06,regular,he,Haifa,y
+C6499932,2018-01-29,trail_club,he,Modiin,y
+C6501191,2022-12-23,regular,he,Ashdod,n
+C6502718,2021-08-25,trail_club,he,Jerusalem,n
+C6514345,2025-02-14,regular,he,Rishon LeZion,y
+C6516678,2017-03-15,regular,he,Rehovot,y
+C6517830,2018-05-30,regular,he,Sakhnin,n
+C6524806,2016-04-01,regular,he,Modiin,y
+C6528493,2016-02-17,regular,he,Karmiel,n
+C6528621,2025-01-15,trail_club,he,Herzliya,n
+C6530813,2024-05-31,trail_club,he,Ashkelon,y
+C6531196,2017-11-22,trail_club,he,Kiryat Gat,n
+C6533374,2014-10-12,trail_club,he,Netanya,y
+C6534377,2017-04-12,regular,he,Rishon LeZion,y
+C6534766,2015-10-24,regular,he,Rehovot,y
+C6534879,2026-04-25,regular,he,Kiryat Gat,n
+C6537360,2014-05-23,trail_club,he,Haifa,n
+C6538519,2019-04-15,silver_trail,he,Modiin,n
+C6538627,2021-11-17,silver_trail,he,Modiin,n
+C6538993,2024-06-21,regular,en,Beit Shemesh,n
+C6541671,2022-06-15,regular,he,Beersheba,n
+C6542092,2017-08-09,regular,en,Modiin,y
+C6543183,2016-02-27,trail_club,he,Rahat,y
+C6545847,2014-08-22,regular,he,Karmiel,y
+C6549193,2019-10-11,regular,he,Eilat,y
+C6550793,2020-05-21,regular,he,Tel Aviv-Yafo,n
+C6550800,2025-03-16,trail_club,he,Haifa,y
+C6551067,2023-06-23,regular,he,Beersheba,y
+C6554772,2018-02-19,trail_club,he,Modiin,y
+C6557856,2016-12-11,trail_club,he,Rishon LeZion,y
+C6559464,2021-07-05,trail_club,he,Rishon LeZion,n
+C6560432,2018-04-20,regular,he,Rehovot,y
+C6562305,2021-03-13,trail_club,he,Rahat,y
+C6566610,2024-09-18,regular,he,Eilat,y
+C6572376,2014-08-30,regular,he,Tel Aviv-Yafo,y
+C6573667,2016-02-26,regular,he,Eilat,y
+C6574939,2015-02-05,regular,he,Eilat,y
+C6575278,2018-03-01,silver_trail,he,Netanya,n
+C6575470,2017-06-27,regular,he,Karmiel,n
+C6578881,2016-05-16,regular,he,Rishon LeZion,y
+C6580335,2016-02-14,regular,he,Beersheba,n
+C6580692,2023-09-11,regular,he,Kfar Saba,n
+C6581972,2023-10-21,silver_trail,he,Shefa-Amr,n
+C6582379,2016-09-27,regular,he,Eilat,n
+C6583105,2023-11-27,regular,he,Kfar Saba,y
+C6585099,2016-02-09,regular,he,Modiin,y
+C6586619,2024-06-26,regular,he,Karmiel,y
+C6590724,2025-02-17,regular,he,Ashkelon,y
+C6593263,2018-05-07,regular,he,Kfar Saba,y
+C6597328,2017-07-28,regular,he,Ashkelon,y
+C6598873,2017-03-11,regular,he,Haifa,y
+C6599673,2018-05-06,regular,he,Ashkelon,y
+C6600063,2026-04-11,regular,he,Netanya,n
+C6602297,2021-07-10,regular,he,Rishon LeZion,n
+C6603877,2015-08-02,trail_club,he,Petah Tikva,y
+C6605033,2015-11-24,trail_club,he,Jerusalem,y
+C6605796,2024-09-10,silver_trail,he,Rishon LeZion,n
+C6606204,2014-05-09,trail_club,he,Jerusalem,y
+C6609539,2024-07-09,regular,he,Karmiel,n
+C6610749,2014-10-05,regular,he,Tel Aviv-Yafo,n
+C6612167,2015-09-02,trail_club,he,Petah Tikva,y
+C6613090,2022-08-17,regular,he,Ra'anana,y
+C6618199,2014-01-09,regular,he,Herzliya,n
+C6622690,2020-12-14,regular,he,Kafr Qasim,y
+C6633861,2016-05-27,trail_club,he,Eilat,n
+C6636656,2015-10-24,trail_club,he,Tel Aviv-Yafo,n
+C6636685,2024-04-20,regular,he,Modiin,y
+C6638533,2023-09-03,trail_club,he,Rehovot,n
+C6639394,2025-08-05,trail_club,he,Eilat,n
+C6640311,2023-12-10,trail_club,he,Jerusalem,y
+C6641177,2018-09-23,regular,he,Rishon LeZion,n
+C6644242,2020-06-25,regular,he,Kfar Saba,n
+C6648158,2022-02-14,regular,he,Rehovot,y
+C6649744,2022-10-17,regular,he,Beersheba,y
+C6652659,2016-05-28,regular,he,Petah Tikva,n
+C6659803,2021-01-07,silver_trail,he,Modiin,n
+C6660209,2019-12-09,trail_club,he,Kfar Saba,y
+C6663215,2014-04-13,trail_club,he,Karmiel,n
+C6664151,2021-03-11,regular,he,Rishon LeZion,y
+C6672546,2021-06-08,regular,he,Kfar Saba,n
+C6673039,2020-05-26,trail_club,he,Modiin,n
+C6676898,2024-12-26,regular,he,Rehovot,n
+C6681357,2015-03-18,trail_club,he,Nazareth,y
+C6681852,2017-08-02,regular,he,Kfar Saba,n
+C6683950,2016-09-14,regular,he,Ra'anana,n
+C6685091,2020-02-02,trail_club,he,Rishon LeZion,y
+C6688258,2019-10-08,regular,he,Rehovot,y
+C6691634,2015-01-15,trail_club,he,Haifa,y
+C6695794,2020-05-16,regular,he,Herzliya,y
+C6696359,2025-06-02,trail_club,he,Karmiel,y
+C6697052,2019-04-26,regular,he,Rehovot,y
+C6697075,2024-05-19,regular,he,Jerusalem,n
+C6698568,2021-12-25,trail_club,he,Haifa,y
+C6699394,2016-08-28,regular,he,Netanya,n
+C6703218,2015-04-21,regular,he,Beersheba,n
+C6704755,2023-08-21,trail_club,he,Tel Aviv-Yafo,y
+C6706339,2025-11-28,regular,he,Nazareth,n
+C6709781,2018-06-02,regular,he,Beersheba,y
+C6710851,2021-07-28,trail_club,he,Rishon LeZion,y
+C6710919,2017-03-08,trail_club,he,Netanya,n
+C6717828,2020-01-03,regular,he,Rahat,n
+C6719840,2022-10-31,trail_club,he,Beersheba,y
+C6727272,2024-06-07,trail_club,he,Haifa,n
+C6735738,2016-03-19,regular,he,Rishon LeZion,y
+C6736681,2017-01-08,trail_club,he,Jerusalem,y
+C6738713,2019-09-10,regular,he,Kfar Saba,y
+C6739976,2014-09-07,regular,he,Karmiel,n
+C6740124,2019-03-31,regular,he,Rehovot,n
+C6740803,2026-09-28,regular,he,Jerusalem,y
+C6745106,2021-06-06,regular,he,Rishon LeZion,y
+C6746128,2021-03-24,trail_club,he,Ashdod,y
+C6746751,2021-01-24,regular,he,Haifa,y
+C6752174,2020-08-04,regular,he,Rishon LeZion,y
+C6752432,2026-01-25,trail_club,he,Petah Tikva,y
+C6763876,2022-03-22,regular,he,Tayibe,y
+C6767288,2022-02-13,trail_club,he,Modiin,n
+C6768704,2018-03-24,regular,he,Haifa,n
+C6768764,2019-08-20,regular,he,Ashdod,n
+C6779448,2020-01-10,regular,he,Modiin,y
+C6781690,2026-05-03,regular,he,Petah Tikva,y
+C6783464,2021-02-17,silver_trail,he,Ashdod,n
+C6783489,2016-11-30,trail_club,he,Karmiel,n
+C6786462,2025-10-06,regular,en,Zichron Ya'akov,n
+C6786737,2014-03-22,regular,he,Rishon LeZion,y
+C6809075,2019-10-24,regular,he,Ashdod,y
+C6810589,2021-12-26,regular,he,Tel Aviv-Yafo,n
+C6813661,2022-04-29,trail_club,he,Kfar Saba,y
+C6821539,2016-08-24,regular,he,Netanya,y
+C6821987,2016-02-20,trail_club,he,Modiin,n
+C6825745,2017-06-27,trail_club,he,Herzliya,n
+C6826459,2025-05-09,regular,he,Eilat,n
+C6829167,2017-06-10,trail_club,he,Petah Tikva,y
+C6829371,2023-04-21,trail_club,he,Shefa-Amr,n
+C6830339,2022-12-21,regular,he,Rishon LeZion,y
+C6832305,2024-04-18,regular,he,Modiin,y
+C6833515,2021-06-04,trail_club,he,Haifa,y
+C6834880,2024-11-12,regular,he,Kfar Saba,n
+C6836212,2016-12-15,regular,he,Netanya,n
+C6837144,2018-06-30,trail_club,en,Modiin,y
+C6841487,2024-11-08,regular,he,Netanya,n
+C6841584,2023-07-09,trail_club,he,Rishon LeZion,y
+C6852227,2016-01-15,regular,he,Petah Tikva,n
+C6853267,2024-03-05,regular,he,Eilat,y
+C6856088,2015-01-15,trail_club,he,Karmiel,y
+C6857264,2017-03-06,trail_club,he,Karmiel,n
+C6857728,2015-09-24,regular,he,Tel Aviv-Yafo,y
+C6864391,2025-08-30,silver_trail,he,Karmiel,n
+C6868469,2024-11-08,regular,he,Haifa,y
+C6869311,2017-12-14,silver_trail,he,Rishon LeZion,n
+C6873959,2023-08-12,regular,he,Ra'anana,y
+C6875312,2024-12-18,regular,he,Eilat,y
+C6876933,2015-05-07,regular,he,Rishon LeZion,n
+C6877794,2024-02-20,regular,he,Karmiel,n
+C6879045,2017-01-23,regular,he,Jerusalem,n
+C6882159,2014-10-13,trail_club,he,Ashdod,n
+C6888654,2026-07-27,regular,he,Kfar Saba,n
+C6888727,2017-09-12,silver_trail,he,Karmiel,n
+C6888854,2025-03-27,regular,en,Modiin,y
+C6890141,2018-07-10,silver_trail,he,Tel Aviv-Yafo,n
+C6893705,2015-10-04,trail_club,he,Rehovot,y
+C6894294,2022-09-15,regular,he,Petah Tikva,y
+C6895297,2015-04-16,regular,he,Kfar Saba,n
+C6896392,2020-11-19,regular,he,Kiryat Malakhi,y
+C6896514,2023-07-28,regular,he,Rehovot,n
+C6901417,2019-06-19,regular,he,Netanya,y
+C6904748,2018-12-04,silver_trail,he,Jerusalem,y
+C6904905,2018-01-27,regular,he,Bat Yam,n
+C6906228,2022-10-23,regular,he,Rehovot,n
+C6908278,2017-07-24,trail_club,he,Netanya,n
+C6911688,2019-08-01,trail_club,he,Rishon LeZion,y
+C6911701,2024-02-01,trail_club,he,Shefa-Amr,n
+C6911777,2018-03-24,regular,he,Karmiel,n
+C6912304,2019-12-08,trail_club,he,Rehovot,n
+C6914092,2014-04-05,regular,he,Eilat,n
+C6919915,2024-07-22,trail_club,he,Ashdod,n
+C6921289,2025-05-19,trail_club,he,Jerusalem,y
+C6923097,2017-12-03,trail_club,he,Karmiel,y
+C6925852,2025-03-27,trail_club,he,Haifa,n
+C6926091,2016-09-06,regular,he,Modiin,y
+C6926296,2023-10-11,regular,he,Haifa,y
+C6932500,2014-04-11,regular,he,Rishon LeZion,n
+C6936163,2019-06-16,trail_club,he,Petah Tikva,n
+C6938589,2025-12-16,regular,en,Zichron Ya'akov,y
+C6940155,2022-10-25,silver_trail,he,Netanya,y
+C6943287,2025-06-28,trail_club,he,Jerusalem,n
+C6943894,2014-02-22,trail_club,he,Ra'anana,y
+C6944638,2024-07-05,regular,he,Beersheba,y
+C6949521,2022-04-17,trail_club,he,Petah Tikva,y
+C6954472,2018-12-12,trail_club,he,Tayibe,y
+C6959400,2024-02-22,regular,he,Karmiel,n
+C6960313,2026-04-21,regular,he,Shefa-Amr,n
+C6960764,2017-05-26,trail_club,he,Eilat,n
+C6961927,2019-03-27,regular,en,Modiin,y
+C6975612,2016-12-28,regular,en,Modiin,y
+C6977386,2026-10-14,regular,he,Jerusalem,n
+C6978983,2022-07-22,trail_club,he,Haifa,n
+C6980361,2023-03-16,regular,he,Kafr Qasim,n
+C6983255,2025-10-29,regular,he,Umm al-Fahm,y
+C6986100,2018-09-15,regular,he,Beersheba,y
+C6986734,2019-07-24,regular,he,Tel Aviv-Yafo,y
+C6986812,2021-01-12,regular,he,Shefa-Amr,n
+C6988918,2015-05-20,trail_club,he,Rehovot,n
+C6989625,2014-08-22,regular,he,Herzliya,y
+C6991810,2023-03-07,regular,he,Tel Aviv-Yafo,n
+C6992152,2015-05-13,trail_club,he,Haifa,n
+C6992700,2026-09-04,regular,he,Netanya,y
+C6993190,2022-08-13,regular,he,Kiryat Malakhi,y
+C7000407,2015-05-21,trail_club,he,Netanya,y
+C7001308,2014-08-20,regular,en,Jerusalem,y
+C7001437,2024-09-09,trail_club,he,Jerusalem,n
+C7009912,2016-08-31,regular,he,Herzliya,y
+C7010441,2014-07-09,regular,he,Haifa,n
+C7012006,2019-04-04,trail_club,en,Modiin,y
+C7017756,2018-01-28,regular,en,Tel Aviv-Yafo,n
+C7025140,2021-11-28,trail_club,he,Jerusalem,n
+C7026281,2019-04-02,trail_club,he,Ra'anana,y
+C7029651,2021-12-05,regular,he,Netanya,n
+C7031012,2022-11-11,regular,he,Eilat,n
+C7032541,2022-02-03,regular,he,Rahat,y
+C7040665,2019-05-18,trail_club,he,Karmiel,y
+C7048408,2021-08-23,trail_club,en,Modiin,y
+C7048534,2017-06-30,trail_club,he,Haifa,n
+C7052984,2019-02-25,silver_trail,he,Haifa,y
+C7053861,2016-09-14,silver_trail,he,Tel Aviv-Yafo,n
+C7054144,2014-12-17,regular,he,Jerusalem,n
+C7055181,2020-12-21,trail_club,he,Tel Aviv-Yafo,n
+C7055391,2020-11-13,regular,he,Kfar Saba,n
+C7057364,2025-03-22,regular,he,Bat Yam,n
+C7063498,2021-03-06,regular,he,Haifa,y
+C7066946,2015-07-26,silver_trail,he,Haifa,n
+C7068255,2020-07-29,regular,he,Nazareth,y
+C7068728,2024-12-07,regular,he,Haifa,n
+C7071468,2026-06-04,trail_club,en,Beit Shemesh,y
+C7072077,2016-08-04,regular,en,Tel Aviv-Yafo,n
+C7074732,2019-08-28,trail_club,he,Herzliya,y
+C7077209,2022-01-12,regular,he,Herzliya,n
+C7081131,2021-03-11,trail_club,he,Modiin,n
+C7082860,2016-08-07,silver_trail,he,Petah Tikva,n
+C7084700,2019-12-28,regular,he,Ra'anana,y
+C7087861,2024-09-30,trail_club,he,Tayibe,y
+C7089222,2018-06-21,trail_club,he,Petah Tikva,y
+C7092931,2020-01-17,regular,he,Rahat,y
+C7097244,2015-07-21,silver_trail,en,Ra'anana,y
+C7103968,2025-03-18,regular,he,Haifa,n
+C7104788,2026-06-23,regular,he,Jerusalem,y
+C7104812,2022-02-01,silver_trail,he,Karmiel,n
+C7107014,2018-10-03,regular,he,Netanya,y
+C7116946,2020-10-15,trail_club,he,Eilat,n
+C7128801,2025-04-16,trail_club,he,Ra'anana,y
+C7137003,2024-04-28,regular,he,Nazareth,y
+C7141039,2025-03-08,trail_club,he,Ra'anana,y
+C7142702,2020-12-03,regular,he,Rehovot,y
+C7143759,2025-02-14,regular,he,Kfar Saba,n
+C7148025,2017-04-11,regular,he,Rishon LeZion,y
+C7150678,2015-05-12,regular,he,Herzliya,y
+C7151013,2024-02-25,regular,he,Sakhnin,n
+C7151387,2018-05-12,regular,he,Shefa-Amr,n
+C7153474,2018-01-14,regular,he,Haifa,n
+C7156008,2019-10-06,regular,he,Ashkelon,n
+C7167181,2020-01-01,trail_club,he,Eilat,n
+C7175646,2022-12-18,regular,he,Herzliya,y
+C7175877,2025-11-08,regular,he,Beersheba,y
+C7178769,2026-03-05,trail_club,he,Karmiel,y
+C7183724,2020-03-06,regular,en,Jerusalem,y
+C7194754,2023-02-25,regular,he,Herzliya,y
+C7195549,2018-06-17,regular,he,Jerusalem,n
+C7197167,2021-09-24,regular,he,Modiin,n
+C7198367,2020-07-03,trail_club,he,Haifa,y
+C7199094,2016-04-11,regular,he,Haifa,y
+C7201654,2015-06-29,regular,en,Modiin,y
+C7202588,2014-07-01,regular,he,Karmiel,y
+C7203245,2020-06-08,regular,he,Ra'anana,y
+C7206815,2018-12-15,regular,en,Ra'anana,y
+C7208141,2017-08-17,regular,he,Haifa,n
+C7209153,2018-10-09,trail_club,he,Tayibe,n
+C7214596,2016-12-13,regular,he,Herzliya,y
+C7215750,2022-04-20,regular,en,Modiin,y
+C7219904,2015-12-11,regular,he,Petah Tikva,n
+C7220125,2019-05-12,trail_club,he,Netanya,y
+C7220213,2014-03-21,trail_club,he,Kafr Qasim,y
+C7220933,2024-01-25,regular,he,Eilat,y
+C7223302,2016-08-07,regular,he,Rahat,n
+C7227685,2021-04-25,regular,he,Rishon LeZion,n
+C7234552,2018-06-16,silver_trail,he,Netanya,n
+C7235751,2015-07-15,trail_club,en,Beit Shemesh,n
+C7235979,2021-09-15,trail_club,he,Tel Aviv-Yafo,y
+C7236258,2014-01-23,trail_club,he,Petah Tikva,n
+C7237488,2023-02-02,trail_club,he,Modiin,y
+C7239342,2015-02-16,regular,he,Beersheba,n
+C7241491,2018-07-14,trail_club,he,Tayibe,y
+C7242118,2021-12-06,regular,he,Bat Yam,y
+C7242218,2018-03-31,regular,he,Eilat,n
+C7245576,2020-11-03,regular,he,Ashkelon,y
+C7245875,2014-01-03,trail_club,he,Kfar Saba,n
+C7248565,2024-12-14,trail_club,he,Eilat,y
+C7248980,2023-07-18,regular,he,Rehovot,n
+C7249811,2021-07-09,regular,he,Eilat,n
+C7250844,2015-05-03,trail_club,he,Petah Tikva,y
+C7253857,2018-04-02,trail_club,he,Eilat,n
+C7256045,2025-01-08,trail_club,he,Petah Tikva,n
+C7256892,2017-11-20,regular,he,Kafr Qasim,y
+C7256936,2026-09-23,trail_club,he,Modiin,y
+C7262221,2017-05-21,silver_trail,he,Kfar Saba,n
+C7262581,2016-05-07,trail_club,he,Jerusalem,n
+C7264099,2019-12-17,regular,he,Kfar Saba,y
+C7267116,2019-02-21,regular,he,Ashdod,y
+C7267732,2020-02-25,trail_club,he,Tel Aviv-Yafo,y
+C7269043,2021-03-28,trail_club,he,Kiryat Malakhi,y
+C7274563,2019-05-16,trail_club,he,Eilat,y
+C7281276,2016-12-26,trail_club,he,Herzliya,n
+C7285446,2015-01-22,regular,he,Rishon LeZion,y
+C7286080,2023-01-18,regular,he,Tel Aviv-Yafo,y
+C7287236,2018-03-25,regular,he,Bat Yam,y
+C7287417,2022-04-26,regular,he,Kfar Saba,n
+C7291402,2016-10-17,silver_trail,he,Tayibe,n
+C7300712,2023-05-26,regular,he,Herzliya,y
+C7302403,2023-05-27,regular,he,Tel Aviv-Yafo,n
+C7302835,2024-12-17,regular,he,Modiin,y
+C7304552,2022-05-03,regular,he,Jerusalem,y
+C7305302,2022-01-29,regular,he,Netanya,y
+C7314431,2015-01-28,regular,he,Rishon LeZion,y
+C7315605,2015-06-03,trail_club,he,Jerusalem,y
+C7316287,2014-12-14,regular,he,Eilat,n
+C7318926,2026-03-24,regular,he,Haifa,n
+C7324828,2025-08-10,regular,he,Tel Aviv-Yafo,y
+C7332971,2019-03-02,trail_club,he,Ra'anana,n
+C7333120,2016-03-13,regular,he,Eilat,y
+C7333670,2026-01-12,regular,he,Rishon LeZion,y
+C7341449,2020-06-01,regular,he,Beersheba,y
+C7342032,2025-11-26,regular,en,Zichron Ya'akov,n
+C7342050,2023-12-09,regular,he,Shefa-Amr,n
+C7344482,2019-08-23,trail_club,he,Jerusalem,y
+C7348706,2018-09-01,trail_club,he,Kfar Saba,n
+C7349791,2019-09-04,trail_club,he,Bat Yam,y
+C7359501,2024-12-10,regular,he,Karmiel,y
+C7360369,2022-02-08,regular,he,Jerusalem,n
+C7367636,2018-03-05,regular,he,Haifa,y
+C7371935,2023-07-20,regular,he,Ra'anana,y
+C7372860,2021-02-06,silver_trail,he,Herzliya,y
+C7372861,2014-08-07,regular,he,Kfar Saba,y
+C7377275,2026-01-13,regular,he,Kfar Saba,y
+C7380061,2019-02-27,trail_club,he,Rehovot,y
+C7381699,2017-06-30,regular,he,Eilat,n
+C7384400,2021-11-30,regular,he,Kfar Saba,y
+C7386167,2018-12-12,regular,en,Modiin,y
+C7388783,2015-10-05,regular,he,Netanya,y
+C7390125,2024-09-04,silver_trail,he,Eilat,n
+C7391818,2018-06-17,trail_club,he,Haifa,n
+C7392629,2024-09-30,regular,en,Zichron Ya'akov,y
+C7393042,2025-11-12,trail_club,he,Karmiel,n
+C7393525,2016-07-13,trail_club,he,Karmiel,y
+C7394815,2017-12-21,silver_trail,he,Petah Tikva,n
+C7395057,2014-05-13,regular,en,Zichron Ya'akov,n
+C7397290,2025-06-27,regular,he,Kfar Saba,y
+C7397619,2025-06-06,regular,he,Modiin,n
+C7398211,2014-10-01,regular,he,Petah Tikva,y
+C7405259,2016-02-05,trail_club,he,Rishon LeZion,n
+C7406621,2023-08-31,regular,he,Karmiel,n
+C7409334,2018-09-24,trail_club,he,Jerusalem,n
+C7409884,2020-02-09,regular,he,Eilat,y
+C7418438,2018-03-06,regular,en,Tel Aviv-Yafo,y
+C7419607,2023-11-23,regular,he,Herzliya,y
+C7427809,2024-08-06,regular,en,Jerusalem,n
+C7429440,2021-01-19,regular,he,Netanya,n
+C7433838,2021-03-05,regular,he,Tel Aviv-Yafo,n
+C7434209,2022-10-11,regular,he,Beersheba,n
+C7435477,2015-09-15,regular,he,Tel Aviv-Yafo,y
+C7436625,2021-04-28,regular,he,Petah Tikva,y
+C7438234,2021-05-27,regular,he,Haifa,n
+C7440306,2024-09-28,regular,he,Modiin,y
+C7441318,2017-05-29,regular,he,Bat Yam,y
+C7444385,2014-03-10,trail_club,he,Jerusalem,n
+C7445593,2026-08-15,trail_club,en,Tel Aviv-Yafo,y
+C7446629,2026-09-20,regular,he,Modiin,n
+C7447566,2015-07-26,regular,he,Netanya,n
+C7450731,2018-12-04,trail_club,he,Umm al-Fahm,y
+C7454816,2025-02-15,regular,he,Umm al-Fahm,n
+C7456264,2018-10-23,trail_club,he,Eilat,y
+C7459154,2024-01-29,regular,he,Karmiel,y
+C7459323,2024-02-11,regular,he,Rehovot,n
+C7459646,2026-03-15,regular,he,Beersheba,y
+C7463731,2016-01-08,regular,he,Modiin,n
+C7466170,2016-10-15,regular,he,Karmiel,y
+C7468821,2025-02-09,trail_club,he,Beersheba,y
+C7469928,2016-06-30,regular,he,Shefa-Amr,n
+C7471899,2014-12-10,regular,he,Haifa,y
+C7472422,2023-12-13,trail_club,he,Haifa,n
+C7473213,2017-11-07,regular,he,Ashkelon,n
+C7473277,2020-01-01,trail_club,he,Tel Aviv-Yafo,y
+C7473665,2017-04-08,silver_trail,he,Rahat,y
+C7474970,2019-08-27,regular,he,Jerusalem,y
+C7476263,2022-10-15,trail_club,he,Beersheba,y
+C7484088,2025-01-20,regular,he,Rahat,n
+C7486948,2017-01-21,trail_club,he,Rishon LeZion,y
+C7491837,2018-06-09,trail_club,he,Umm al-Fahm,n
+C7492289,2014-11-30,regular,en,Tel Aviv-Yafo,n
+C7495947,2020-08-07,silver_trail,he,Tel Aviv-Yafo,y
+C7501403,2014-02-08,trail_club,he,Beersheba,y
+C7503578,2018-05-31,trail_club,he,Beersheba,y
+C7506330,2024-08-26,regular,he,Jerusalem,y
+C7507970,2016-02-19,trail_club,he,Netanya,y
+C7511049,2024-04-05,trail_club,he,Herzliya,n
+C7515018,2020-10-12,silver_trail,he,Haifa,y
+C7515368,2021-02-16,trail_club,he,Haifa,n
+C7515705,2021-12-31,silver_trail,he,Umm al-Fahm,y
+C7516036,2024-09-07,silver_trail,he,Shefa-Amr,y
+C7523480,2018-03-29,regular,he,Karmiel,y
+C7524064,2023-06-08,silver_trail,he,Herzliya,y
+C7530317,2022-08-14,regular,he,Karmiel,y
+C7530875,2014-07-25,regular,he,Ra'anana,n
+C7537055,2017-07-31,regular,he,Haifa,n
+C7538713,2025-10-24,regular,he,Jerusalem,y
+C7540764,2022-08-24,regular,he,Herzliya,y
+C7543895,2026-09-16,regular,he,Herzliya,y
+C7544514,2019-03-31,regular,en,Ra'anana,n
+C7548283,2025-03-10,trail_club,en,Beit Shemesh,y
+C7551829,2026-05-06,trail_club,he,Rishon LeZion,n
+C7554984,2025-08-03,regular,he,Haifa,y
+C7561017,2020-03-27,regular,en,Beit Shemesh,y
+C7564688,2025-11-10,regular,he,Tel Aviv-Yafo,n
+C7565622,2020-02-17,trail_club,he,Ra'anana,y
+C7568468,2020-10-13,regular,he,Jerusalem,n
+C7568539,2015-03-23,regular,en,Beit Shemesh,n
+C7577758,2016-08-11,silver_trail,he,Beersheba,y
+C7581889,2025-03-13,trail_club,he,Eilat,y
+C7583000,2017-10-02,regular,he,Haifa,n
+C7587600,2019-02-10,regular,he,Beersheba,n
+C7589027,2025-09-28,regular,he,Tayibe,y
+C7594950,2018-11-08,silver_trail,he,Karmiel,y
+C7599439,2019-02-14,trail_club,he,Petah Tikva,y
+C7600224,2017-09-15,regular,he,Ra'anana,y
+C7607615,2015-08-09,regular,he,Herzliya,y
+C7610358,2022-07-09,regular,he,Ra'anana,n
+C7610500,2016-06-25,regular,he,Rishon LeZion,y
+C7610641,2023-08-21,trail_club,he,Netanya,n
+C7612750,2026-02-24,regular,he,Kfar Saba,n
+C7615740,2017-02-02,regular,he,Rehovot,n
+C7619072,2018-10-24,regular,he,Jerusalem,y
+C7620428,2022-05-02,regular,he,Herzliya,n
+C7620567,2014-02-09,silver_trail,he,Karmiel,y
+C7623866,2024-10-16,regular,he,Jerusalem,y
+C7624479,2014-01-21,regular,he,Rishon LeZion,y
+C7629211,2016-09-20,regular,he,Herzliya,y
+C7631003,2022-07-04,regular,he,Kafr Qasim,y
+C7633878,2025-01-20,regular,he,Jerusalem,n
+C7634896,2015-03-15,regular,he,Rehovot,y
+C7637474,2024-05-29,regular,he,Haifa,y
+C7646320,2016-01-17,regular,he,Tel Aviv-Yafo,y
+C7647516,2015-04-28,trail_club,he,Netanya,y
+C7648043,2024-01-10,regular,he,Haifa,y
+C7648383,2025-05-07,silver_trail,he,Nazareth,y
+C7652688,2018-04-10,trail_club,he,Petah Tikva,y
+C7662320,2016-08-01,regular,he,Rahat,y
+C7662925,2018-03-10,silver_trail,he,Herzliya,n
+C7663699,2024-08-10,regular,he,Nazareth,n
+C7667780,2018-04-30,trail_club,he,Ashdod,y
+C7678553,2019-03-07,regular,he,Kfar Saba,y
+C7678555,2024-01-19,trail_club,he,Kfar Saba,y
+C7678873,2022-06-29,trail_club,he,Modiin,y
+C7680443,2026-03-04,regular,he,Rishon LeZion,n
+C7691454,2019-05-27,regular,he,Tel Aviv-Yafo,y
+C7691646,2023-11-19,silver_trail,he,Petah Tikva,n
+C7693503,2022-02-14,trail_club,he,Rishon LeZion,y
+C7700144,2023-12-09,regular,he,Beersheba,n
+C7703965,2022-03-12,regular,he,Kfar Saba,n
+C7704950,2016-07-31,regular,he,Rehovot,y
+C7706616,2021-05-08,regular,he,Eilat,y
+C7706655,2020-09-22,regular,he,Netanya,y
+C7707863,2014-03-16,regular,he,Beersheba,n
+C7707998,2022-08-20,trail_club,he,Netanya,n
+C7709868,2021-10-12,regular,he,Herzliya,y
+C7710296,2024-12-30,regular,he,Beersheba,n
+C7711260,2020-11-20,regular,he,Nazareth,n
+C7716958,2024-07-29,regular,he,Umm al-Fahm,y
+C7719799,2024-08-14,trail_club,he,Kafr Qasim,y
+C7720510,2025-08-26,regular,he,Ashdod,n
+C7723543,2017-05-21,regular,he,Karmiel,n
+C7727483,2016-09-21,trail_club,en,Zichron Ya'akov,y
+C7727599,2024-01-21,trail_club,he,Shefa-Amr,n
+C7733332,2025-09-28,silver_trail,he,Bat Yam,y
+C7737099,2018-05-21,regular,he,Netanya,n
+C7739064,2018-10-29,trail_club,he,Kfar Saba,y
+C7739193,2014-06-09,regular,he,Tel Aviv-Yafo,n
+C7741012,2016-01-11,trail_club,he,Rahat,n
+C7747405,2020-11-07,regular,he,Kiryat Gat,y
+C7748761,2019-07-12,regular,he,Rishon LeZion,n
+C7751645,2021-07-03,regular,he,Rehovot,n
+C7752018,2015-07-06,regular,en,Modiin,y
+C7755929,2022-10-13,trail_club,en,Zichron Ya'akov,n
+C7769633,2024-11-07,regular,he,Modiin,y
+C7770869,2017-09-06,trail_club,he,Petah Tikva,y
+C7775757,2026-05-24,regular,he,Karmiel,y
+C7778131,2017-02-01,trail_club,he,Haifa,n
+C7780761,2022-05-24,silver_trail,he,Karmiel,n
+C7781087,2025-08-13,silver_trail,he,Haifa,y
+C7781841,2022-07-13,trail_club,he,Karmiel,n
+C7783361,2021-06-21,trail_club,he,Jerusalem,n
+C7784339,2023-07-05,trail_club,he,Rahat,y
+C7784507,2020-01-16,regular,he,Beersheba,y
+C7784764,2023-05-30,trail_club,he,Sakhnin,n
+C7791134,2026-02-18,regular,he,Petah Tikva,y
+C7792464,2017-09-12,regular,he,Eilat,y
+C7797001,2014-01-06,regular,he,Haifa,y
+C7801025,2014-09-13,trail_club,he,Rishon LeZion,y
+C7802279,2016-04-16,regular,he,Kfar Saba,y
+C7804586,2020-07-09,trail_club,en,Ra'anana,n
+C7805639,2024-11-09,regular,he,Beersheba,y
+C7806656,2025-12-27,regular,he,Beersheba,n
+C7809042,2025-07-12,regular,he,Rishon LeZion,y
+C7809633,2019-06-18,regular,he,Petah Tikva,y
+C7815869,2015-08-26,trail_club,en,Modiin,n
+C7819013,2022-01-23,regular,he,Rishon LeZion,y
+C7825345,2025-09-01,regular,he,Ra'anana,n
+C7830782,2024-07-21,regular,he,Bat Yam,y
+C7832850,2025-05-05,regular,he,Haifa,n
+C7835568,2023-02-26,regular,he,Netanya,y
+C7835849,2016-08-30,regular,he,Jerusalem,y
+C7840240,2025-02-22,regular,he,Karmiel,n
+C7842840,2015-09-19,trail_club,he,Ra'anana,n
+C7844607,2019-09-05,regular,he,Beersheba,n
+C7855367,2026-04-08,regular,he,Herzliya,n
+C7862701,2026-08-29,silver_trail,he,Petah Tikva,y
+C7870269,2026-01-24,regular,he,Netanya,y
+C7879207,2019-12-08,regular,he,Beersheba,n
+C7879223,2018-02-14,trail_club,he,Modiin,n
+C7882951,2019-04-24,regular,he,Rishon LeZion,n
+C7883472,2024-05-22,trail_club,he,Netanya,n
+C7890484,2019-02-08,regular,he,Herzliya,n
+C7892657,2016-07-14,regular,he,Zichron Ya'akov,y
+C7894524,2023-07-12,regular,he,Karmiel,n
+C7896724,2020-05-26,regular,he,Beersheba,n
+C7903255,2025-07-11,regular,he,Herzliya,n
+C7903839,2020-10-09,silver_trail,he,Rahat,y
+C7905826,2021-04-03,trail_club,he,Beersheba,y
+C7909789,2021-10-15,regular,he,Petah Tikva,y
+C7910934,2023-03-20,regular,he,Rehovot,n
+C7911076,2020-12-15,regular,he,Herzliya,y
+C7911982,2026-08-21,regular,en,Ra'anana,n
+C7913468,2015-12-03,regular,he,Haifa,n
+C7913765,2017-10-30,regular,he,Umm al-Fahm,n
+C7915467,2019-09-19,regular,he,Herzliya,y
+C7916781,2025-01-11,regular,he,Kafr Qasim,n
+C7917641,2022-02-28,silver_trail,he,Tel Aviv-Yafo,n
+C7921121,2014-12-24,regular,he,Jerusalem,y
+C7921690,2020-11-05,regular,he,Beersheba,y
+C7922713,2015-03-28,regular,he,Karmiel,y
+C7925748,2020-06-18,trail_club,he,Sakhnin,y
+C7932332,2015-07-22,regular,he,Herzliya,n
+C7933077,2019-11-29,regular,he,Herzliya,y
+C7938233,2018-08-29,regular,he,Haifa,n
+C7939268,2021-11-09,trail_club,he,Herzliya,y
+C7941696,2014-12-13,regular,he,Kfar Saba,n
+C7956290,2014-03-08,regular,he,Petah Tikva,y
+C7956629,2019-02-02,regular,he,Netanya,y
+C7956750,2023-06-27,trail_club,he,Eilat,y
+C7958280,2019-11-17,trail_club,he,Karmiel,n
+C7958295,2020-09-03,regular,he,Haifa,y
+C7960078,2022-12-11,regular,he,Modiin,n
+C7964998,2016-04-18,regular,he,Umm al-Fahm,y
+C7968324,2016-09-20,regular,he,Karmiel,y
+C7969596,2017-07-17,regular,he,Tel Aviv-Yafo,n
+C7970155,2014-10-13,regular,he,Haifa,y
+C7970968,2015-01-05,trail_club,he,Rishon LeZion,n
+C7984388,2026-08-13,trail_club,he,Jerusalem,y
+C7985409,2024-08-06,regular,he,Rehovot,y
+C7987430,2014-03-30,regular,he,Karmiel,y
+C7988857,2019-10-31,trail_club,he,Jerusalem,y
+C7996485,2015-08-21,regular,he,Rehovot,y
+C7997462,2020-03-08,regular,he,Rishon LeZion,n
+C7997916,2020-10-30,trail_club,he,Jerusalem,y
+C8003255,2020-07-18,regular,he,Modiin,n
+C8008895,2022-04-06,trail_club,he,Kafr Qasim,y
+C8009147,2016-02-11,silver_trail,he,Netanya,n
+C8010988,2023-11-02,trail_club,he,Bat Yam,n
+C8011424,2019-05-24,trail_club,he,Tayibe,y
+C8013842,2015-05-15,regular,he,Netanya,y
+C8014282,2017-02-21,trail_club,he,Petah Tikva,n
+C8016587,2021-01-18,regular,he,Tel Aviv-Yafo,y
+C8017847,2020-06-05,regular,he,Kfar Saba,y
+C8019219,2017-02-21,regular,he,Herzliya,y
+C8024327,2020-05-15,silver_trail,he,Eilat,y
+C8037430,2021-07-07,regular,he,Ra'anana,y
+C8038497,2025-02-01,trail_club,he,Netanya,n
+C8041944,2014-11-16,regular,he,Rishon LeZion,n
+C8043813,2022-08-03,regular,he,Petah Tikva,n
+C8043962,2018-05-29,trail_club,he,Sakhnin,y
+C8048244,2022-11-18,trail_club,he,Beersheba,n
+C8050486,2020-02-18,regular,he,Rishon LeZion,n
+C8051526,2026-06-01,trail_club,he,Karmiel,n
+C8052463,2025-12-22,regular,he,Tel Aviv-Yafo,y
+C8052567,2022-06-07,regular,he,Rishon LeZion,n
+C8057369,2025-05-08,silver_trail,he,Beersheba,n
+C8060511,2017-06-14,regular,he,Kafr Qasim,y
+C8060964,2026-03-19,trail_club,he,Haifa,y
+C8067278,2026-05-15,regular,he,Rehovot,n
+C8069075,2026-10-19,regular,he,Karmiel,y
+C8069956,2023-08-17,trail_club,he,Petah Tikva,y
+C8073293,2026-05-21,trail_club,he,Kfar Saba,n
+C8078044,2026-06-19,trail_club,he,Haifa,n
+C8079264,2026-03-14,regular,he,Netanya,y
+C8082318,2020-07-05,regular,he,Netanya,y
+C8082449,2020-08-14,regular,he,Beersheba,y
+C8083444,2015-01-21,trail_club,he,Modiin,y
+C8089140,2016-03-19,regular,he,Rehovot,n
+C8089662,2019-05-20,silver_trail,he,Haifa,y
+C8094301,2025-10-08,regular,he,Modiin,y
+C8096396,2022-01-17,regular,he,Karmiel,y
+C8098033,2016-10-09,regular,he,Rishon LeZion,n
+C8098105,2018-06-19,regular,he,Kfar Saba,y
+C8101192,2026-05-22,trail_club,he,Beersheba,y
+C8103788,2019-02-01,regular,he,Jerusalem,y
+C8107150,2021-07-10,trail_club,he,Rehovot,y
+C8108346,2026-04-05,trail_club,he,Eilat,y
+C8108393,2024-10-16,regular,he,Karmiel,n
+C8109678,2017-02-17,regular,he,Ra'anana,y
+C8110245,2018-03-21,regular,he,Karmiel,y
+C8111484,2017-10-19,regular,he,Haifa,n
+C8114457,2018-02-08,regular,he,Ra'anana,y
+C8118093,2017-06-22,regular,he,Kfar Saba,n
+C8124222,2018-06-21,regular,he,Rishon LeZion,n
+C8130384,2024-05-29,regular,he,Rishon LeZion,n
+C8133486,2022-04-16,regular,he,Beersheba,y
+C8143768,2025-10-02,regular,he,Karmiel,y
+C8144917,2022-12-27,regular,he,Petah Tikva,y
+C8151080,2026-09-21,regular,he,Modiin,n
+C8151312,2023-07-31,regular,en,Zichron Ya'akov,n
+C8163193,2024-08-11,regular,he,Beersheba,n
+C8168369,2022-07-07,regular,he,Beersheba,y
+C8169139,2017-01-15,regular,he,Jerusalem,n
+C8169464,2022-11-07,regular,en,Jerusalem,y
+C8170506,2014-01-19,trail_club,en,Tel Aviv-Yafo,n
+C8173172,2014-06-01,regular,he,Modiin,y
+C8174585,2019-05-13,regular,he,Petah Tikva,y
+C8177417,2025-12-07,trail_club,he,Bat Yam,n
+C8178960,2021-09-18,regular,he,Kfar Saba,n
+C8181318,2019-11-28,regular,he,Tel Aviv-Yafo,y
+C8181342,2017-11-12,regular,he,Karmiel,y
+C8184067,2026-09-23,trail_club,he,Beersheba,n
+C8185274,2021-01-08,regular,he,Petah Tikva,y
+C8189171,2021-01-29,regular,he,Tel Aviv-Yafo,n
+C8189325,2018-07-01,trail_club,he,Rehovot,y
+C8196360,2021-03-30,regular,he,Ra'anana,n
+C8197467,2025-07-08,regular,he,Sakhnin,y
+C8202955,2017-09-18,regular,he,Tel Aviv-Yafo,n
+C8203360,2021-02-07,trail_club,he,Bat Yam,y
+C8205460,2023-12-30,regular,he,Jerusalem,n
+C8206903,2024-02-28,regular,he,Sakhnin,y
+C8209504,2019-08-15,regular,he,Netanya,y
+C8210502,2024-09-26,regular,he,Karmiel,y
+C8212682,2023-01-18,regular,he,Karmiel,n
+C8214498,2023-08-28,regular,he,Haifa,y
+C8216595,2016-02-21,regular,he,Tayibe,y
+C8219156,2021-07-25,regular,he,Eilat,y
+C8223911,2014-09-15,regular,he,Netanya,n
+C8225054,2018-05-27,trail_club,he,Modiin,y
+C8227794,2017-08-09,regular,he,Rehovot,y
+C8228775,2020-12-31,regular,he,Petah Tikva,y
+C8231315,2023-04-14,trail_club,he,Petah Tikva,y
+C8235225,2019-11-07,trail_club,he,Karmiel,n
+C8237055,2014-01-16,regular,he,Rehovot,y
+C8241088,2014-05-25,regular,he,Petah Tikva,y
+C8243963,2016-11-01,trail_club,he,Karmiel,n
+C8244708,2016-02-15,regular,he,Ashdod,y
+C8246342,2024-04-25,trail_club,he,Petah Tikva,y
+C8247991,2020-11-22,regular,he,Netanya,y
+C8251703,2021-09-20,regular,he,Ashkelon,y
+C8252292,2014-06-05,regular,he,Jerusalem,n
+C8255572,2025-02-19,regular,he,Netanya,n
+C8257106,2025-05-18,regular,he,Ra'anana,y
+C8258494,2022-12-04,regular,he,Modiin,y
+C8260606,2020-05-24,regular,he,Tel Aviv-Yafo,n
+C8261739,2022-11-25,trail_club,he,Rehovot,n
+C8262804,2023-08-24,trail_club,he,Modiin,y
+C8264704,2022-11-26,regular,he,Petah Tikva,n
+C8265466,2020-09-14,regular,he,Kfar Saba,y
+C8266174,2017-12-31,regular,en,Ra'anana,n
+C8268033,2022-03-16,regular,he,Ashdod,n
+C8279483,2021-03-18,silver_trail,he,Nazareth,y
+C8285568,2014-12-13,silver_trail,he,Rishon LeZion,n
+C8286608,2016-11-25,trail_club,he,Netanya,n
+C8287523,2024-11-30,trail_club,he,Netanya,n
+C8290524,2017-01-03,trail_club,he,Tel Aviv-Yafo,n
+C8293205,2016-06-04,regular,he,Herzliya,y
+C8294166,2015-05-22,regular,he,Beersheba,y
+C8297022,2016-08-10,trail_club,he,Rahat,y
+C8297914,2019-10-16,regular,he,Shefa-Amr,n
+C8298618,2016-03-20,regular,he,Jerusalem,y
+C8299266,2025-11-06,trail_club,he,Tel Aviv-Yafo,y
+C8301092,2018-09-19,silver_trail,he,Ra'anana,y
+C8303110,2020-07-11,regular,he,Ashkelon,n
+C8303159,2024-03-27,trail_club,he,Tel Aviv-Yafo,n
+C8304126,2016-03-12,silver_trail,he,Modiin,y
+C8305914,2018-08-19,regular,he,Karmiel,n
+C8307046,2014-11-03,trail_club,en,Ra'anana,n
+C8315165,2020-07-07,regular,he,Netanya,y
+C8318178,2018-05-29,trail_club,he,Rehovot,y
+C8319655,2021-12-22,regular,he,Kiryat Gat,y
+C8321417,2024-09-13,trail_club,he,Karmiel,n
+C8322566,2018-08-13,regular,he,Netanya,y
+C8323440,2023-09-19,trail_club,he,Jerusalem,n
+C8327186,2019-11-06,trail_club,he,Ashkelon,y
+C8337003,2019-12-12,trail_club,he,Rishon LeZion,y
+C8338831,2016-05-08,regular,he,Tel Aviv-Yafo,y
+C8340506,2025-10-22,trail_club,he,Ra'anana,n
+C8340796,2023-06-28,trail_club,en,Modiin,n
+C8344785,2026-01-24,trail_club,he,Petah Tikva,n
+C8346705,2017-10-07,regular,he,Jerusalem,y
+C8351597,2020-03-02,regular,he,Rahat,n
+C8351788,2026-05-07,regular,he,Tel Aviv-Yafo,y
+C8360825,2026-02-05,trail_club,he,Tel Aviv-Yafo,n
+C8361768,2021-01-02,regular,he,Shefa-Amr,y
+C8362410,2021-11-15,trail_club,he,Tayibe,n
+C8363761,2015-02-18,regular,en,Jerusalem,n
+C8365491,2022-12-15,regular,he,Haifa,n
+C8370267,2017-05-05,trail_club,he,Beersheba,n
+C8370552,2016-01-13,regular,he,Jerusalem,y
+C8370916,2015-04-21,regular,he,Ashdod,n
+C8379687,2016-06-09,trail_club,he,Tel Aviv-Yafo,n
+C8380103,2015-01-05,regular,he,Haifa,n
+C8381448,2021-04-08,trail_club,he,Karmiel,n
+C8388612,2017-07-21,regular,he,Haifa,n
+C8390174,2020-06-26,regular,he,Rishon LeZion,n
+C8390223,2024-01-19,trail_club,he,Netanya,y
+C8391003,2026-09-15,regular,en,Zichron Ya'akov,y
+C8392023,2016-10-30,regular,he,Sakhnin,y
+C8395939,2016-05-26,trail_club,he,Petah Tikva,y
+C8398722,2017-03-24,regular,he,Herzliya,n
+C8399339,2015-02-08,regular,he,Rishon LeZion,y
+C8399401,2024-10-22,regular,he,Herzliya,y
+C8399772,2019-11-01,trail_club,he,Karmiel,y
+C8400008,2023-03-28,silver_trail,en,Beit Shemesh,y
+C8403308,2022-07-31,regular,he,Herzliya,y
+C8405764,2022-02-22,regular,he,Karmiel,y
+C8405860,2017-10-29,trail_club,he,Modiin,y
+C8406528,2016-12-27,silver_trail,he,Modiin,y
+C8407519,2014-10-22,trail_club,he,Ashkelon,n
+C8408652,2026-01-09,trail_club,he,Bat Yam,n
+C8411401,2024-12-25,regular,he,Tayibe,y
+C8412446,2020-09-15,trail_club,he,Eilat,n
+C8412989,2020-10-16,regular,he,Karmiel,y
+C8413754,2018-10-25,regular,he,Haifa,y
+C8414230,2021-02-12,regular,he,Haifa,n
+C8416483,2019-03-17,regular,he,Beersheba,n
+C8416500,2017-12-28,regular,he,Herzliya,n
+C8417198,2024-03-23,regular,he,Bat Yam,y
+C8417668,2014-12-21,regular,he,Herzliya,y
+C8420992,2015-07-29,trail_club,he,Ra'anana,n
+C8423039,2023-01-13,regular,he,Kfar Saba,y
+C8423110,2024-09-22,regular,he,Rishon LeZion,y
+C8424771,2016-06-09,regular,he,Modiin,y
+C8431876,2017-12-12,regular,he,Bat Yam,y
+C8432216,2017-06-05,regular,he,Modiin,y
+C8439402,2020-09-05,regular,he,Beersheba,y
+C8457575,2026-02-04,regular,he,Petah Tikva,n
+C8458748,2014-11-25,trail_club,he,Modiin,n
+C8459211,2023-04-01,regular,he,Ashkelon,y
+C8461069,2023-08-16,silver_trail,he,Netanya,n
+C8461127,2014-03-17,regular,he,Kafr Qasim,y
+C8464434,2024-09-04,trail_club,he,Petah Tikva,n
+C8465278,2017-04-14,regular,he,Rehovot,n
+C8471204,2019-02-15,trail_club,he,Tel Aviv-Yafo,n
+C8472339,2023-10-25,regular,he,Ra'anana,y
+C8472364,2024-10-28,regular,he,Ra'anana,n
+C8473164,2017-03-07,trail_club,en,Jerusalem,y
+C8473177,2015-08-15,regular,he,Tel Aviv-Yafo,n
+C8474645,2021-07-06,regular,he,Eilat,y
+C8479915,2025-05-16,regular,he,Umm al-Fahm,n
+C8482464,2017-05-07,trail_club,he,Modiin,n
+C8482955,2022-08-27,trail_club,he,Tel Aviv-Yafo,y
+C8483594,2024-12-24,regular,he,Herzliya,n
+C8487841,2017-07-26,trail_club,he,Beersheba,y
+C8488719,2022-04-15,regular,he,Karmiel,n
+C8489341,2015-05-18,regular,he,Haifa,y
+C8490589,2018-01-29,regular,he,Modiin,y
+C8495787,2018-02-13,regular,he,Karmiel,y
+C8499876,2015-07-25,regular,he,Herzliya,n
+C8502012,2026-01-17,silver_trail,he,Kafr Qasim,n
+C8502299,2023-05-05,regular,he,Beersheba,y
+C8502465,2014-11-21,trail_club,he,Sakhnin,y
+C8502787,2016-07-17,regular,he,Rishon LeZion,y
+C8503690,2025-01-16,regular,he,Karmiel,y
+C8504472,2017-04-24,regular,he,Eilat,n
+C8508105,2016-10-05,regular,he,Rehovot,y
+C8508390,2015-08-24,silver_trail,he,Karmiel,y
+C8510886,2014-07-02,trail_club,he,Beersheba,y
+C8512499,2019-12-10,regular,he,Tayibe,y
+C8513039,2018-05-14,silver_trail,he,Jerusalem,n
+C8515092,2016-09-03,trail_club,he,Tel Aviv-Yafo,y
+C8521151,2023-02-11,regular,he,Ra'anana,y
+C8532864,2014-08-15,regular,he,Rehovot,n
+C8533248,2019-08-23,silver_trail,he,Herzliya,y
+C8533883,2025-02-05,regular,he,Rahat,y
+C8541185,2018-08-19,trail_club,he,Rishon LeZion,y
+C8543044,2019-04-11,trail_club,he,Tel Aviv-Yafo,n
+C8545235,2026-08-07,regular,he,Kafr Qasim,n
+C8545440,2021-07-31,regular,he,Modiin,n
+C8549605,2017-08-24,silver_trail,he,Modiin,y
+C8549919,2024-12-25,regular,he,Jerusalem,n
+C8551057,2020-12-11,trail_club,he,Eilat,y
+C8551554,2015-12-08,regular,he,Petah Tikva,n
+C8552669,2024-12-24,regular,he,Beersheba,n
+C8557803,2023-05-07,regular,he,Rishon LeZion,n
+C8560890,2020-06-11,regular,he,Ra'anana,y
+C8561392,2016-08-30,regular,he,Modiin,y
+C8564464,2024-12-17,regular,he,Kfar Saba,n
+C8567046,2014-10-13,regular,he,Bat Yam,y
+C8568201,2016-11-27,silver_trail,he,Ra'anana,n
+C8568435,2019-07-12,regular,he,Haifa,y
+C8568871,2020-10-13,regular,he,Rishon LeZion,n
+C8572489,2017-03-14,trail_club,he,Beersheba,n
+C8572681,2018-12-07,regular,he,Ra'anana,y
+C8574018,2021-05-24,regular,he,Tel Aviv-Yafo,y
+C8577372,2025-07-24,regular,he,Ra'anana,n
+C8579359,2017-11-03,regular,he,Petah Tikva,n
+C8590468,2020-04-09,regular,he,Ra'anana,y
+C8591818,2021-08-09,regular,he,Kfar Saba,y
+C8592369,2020-05-23,regular,he,Modiin,y
+C8594058,2017-07-18,regular,he,Haifa,y
+C8598968,2017-07-23,silver_trail,he,Tel Aviv-Yafo,y
+C8600551,2018-10-11,regular,he,Jerusalem,y
+C8601545,2023-08-14,regular,he,Beersheba,y
+C8602302,2017-10-06,silver_trail,he,Haifa,y
+C8602565,2016-12-25,regular,he,Modiin,y
+C8610703,2026-08-31,regular,he,Bat Yam,n
+C8613341,2024-03-18,regular,he,Karmiel,n
+C8613482,2023-06-17,trail_club,he,Kfar Saba,y
+C8614908,2018-02-11,silver_trail,en,Ra'anana,y
+C8615552,2015-01-25,trail_club,he,Eilat,y
+C8620247,2019-07-27,trail_club,he,Petah Tikva,y
+C8623435,2021-06-30,regular,he,Ra'anana,n
+C8627256,2023-12-31,regular,he,Karmiel,n
+C8629665,2026-09-26,silver_trail,he,Beersheba,y
+C8630543,2018-03-08,regular,he,Ashkelon,y
+C8630989,2014-07-24,regular,he,Jerusalem,n
+C8631207,2018-02-06,regular,he,Beersheba,y
+C8636749,2017-04-05,regular,he,Petah Tikva,y
+C8639034,2025-01-23,trail_club,he,Eilat,n
+C8639250,2022-02-18,regular,he,Netanya,y
+C8641046,2026-04-21,regular,he,Haifa,y
+C8642846,2022-11-14,silver_trail,he,Tel Aviv-Yafo,y
+C8647454,2021-12-20,regular,he,Herzliya,y
+C8648086,2024-06-07,trail_club,he,Netanya,n
+C8648728,2017-10-29,regular,he,Haifa,y
+C8649390,2025-01-07,trail_club,he,Kfar Saba,y
+C8652831,2024-10-17,trail_club,he,Netanya,y
+C8653832,2016-06-25,trail_club,he,Herzliya,y
+C8654882,2024-04-10,regular,he,Netanya,y
+C8656877,2014-11-15,regular,he,Jerusalem,n
+C8658685,2018-06-11,regular,he,Petah Tikva,y
+C8659743,2023-02-15,regular,en,Jerusalem,y
+C8667971,2023-12-26,trail_club,he,Eilat,y
+C8677637,2018-10-19,trail_club,he,Netanya,y
+C8679028,2015-05-15,regular,he,Haifa,n
+C8679461,2016-04-04,regular,he,Netanya,n
+C8683875,2023-01-09,silver_trail,he,Umm al-Fahm,n
+C8684663,2014-10-19,silver_trail,he,Modiin,n
+C8685795,2016-06-16,regular,he,Eilat,y
+C8694719,2022-12-26,trail_club,he,Modiin,n
+C8695930,2025-09-25,regular,he,Haifa,y
+C8698762,2015-07-01,trail_club,he,Kfar Saba,y
+C8699183,2014-05-04,regular,he,Ra'anana,n
+C8701202,2015-01-02,trail_club,he,Beersheba,n
+C8703142,2015-01-16,trail_club,he,Modiin,y
+C8711345,2021-08-08,trail_club,he,Kfar Saba,y
+C8715605,2017-04-17,regular,he,Rishon LeZion,y
+C8716312,2017-12-30,trail_club,he,Rahat,y
+C8716931,2025-04-15,trail_club,he,Rishon LeZion,n
+C8721745,2025-03-11,regular,he,Netanya,n
+C8722358,2022-04-13,regular,he,Jerusalem,n
+C8724598,2015-07-08,regular,he,Beersheba,n
+C8732805,2014-12-19,trail_club,he,Petah Tikva,n
+C8734323,2022-03-08,regular,he,Rahat,n
+C8739637,2021-04-11,regular,he,Petah Tikva,n
+C8740930,2021-05-19,silver_trail,he,Shefa-Amr,n
+C8742295,2022-02-13,regular,he,Karmiel,y
+C8743502,2018-08-14,regular,he,Karmiel,y
+C8744029,2014-12-03,regular,he,Modiin,y
+C8744640,2019-10-09,trail_club,he,Tel Aviv-Yafo,n
+C8746095,2016-04-19,trail_club,he,Karmiel,n
+C8746147,2018-11-07,regular,he,Haifa,n
+C8748876,2025-12-01,trail_club,he,Beersheba,n
+C8751721,2020-08-10,regular,he,Netanya,n
+C8753228,2016-03-07,regular,en,Tel Aviv-Yafo,n
+C8753848,2014-08-27,silver_trail,he,Karmiel,y
+C8754717,2026-01-08,regular,he,Rehovot,n
+C8760949,2022-07-29,regular,he,Rahat,n
+C8761761,2026-05-12,regular,he,Rahat,n
+C8762193,2019-06-18,trail_club,he,Eilat,y
+C8769471,2022-01-04,regular,he,Kafr Qasim,y
+C8774523,2018-10-28,regular,he,Petah Tikva,y
+C8778056,2021-02-01,trail_club,he,Rehovot,y
+C8779844,2025-09-08,regular,he,Bat Yam,y
+C8786918,2022-01-16,regular,he,Kfar Saba,y
+C8787343,2018-01-06,trail_club,he,Beersheba,n
+C8787369,2021-07-01,regular,he,Sakhnin,y
+C8791005,2018-08-03,regular,he,Petah Tikva,y
+C8791713,2021-10-20,trail_club,he,Ra'anana,y
+C8800522,2014-10-15,trail_club,he,Tel Aviv-Yafo,y
+C8801748,2014-04-14,trail_club,he,Rishon LeZion,n
+C8806583,2017-10-11,regular,en,Tel Aviv-Yafo,y
+C8809687,2023-10-03,regular,he,Karmiel,n
+C8812547,2019-06-04,trail_club,he,Jerusalem,y
+C8813152,2023-12-07,regular,he,Beersheba,n
+C8817463,2025-04-17,regular,he,Rahat,n
+C8818824,2024-06-14,silver_trail,he,Umm al-Fahm,y
+C8823866,2017-03-09,regular,he,Jerusalem,n
+C8833315,2018-09-02,regular,he,Haifa,n
+C8834602,2016-10-28,trail_club,he,Tel Aviv-Yafo,y
+C8836578,2019-11-12,trail_club,he,Beersheba,n
+C8836723,2017-01-13,trail_club,he,Rahat,y
+C8836837,2017-06-15,regular,he,Jerusalem,n
+C8837840,2022-07-19,trail_club,he,Umm al-Fahm,n
+C8839339,2014-01-04,regular,he,Beersheba,y
+C8839954,2018-11-27,trail_club,he,Ashdod,y
+C8840009,2026-10-19,regular,he,Karmiel,y
+C8845976,2017-10-06,trail_club,he,Karmiel,n
+C8847088,2015-06-03,regular,he,Jerusalem,n
+C8849134,2026-07-20,regular,he,Beersheba,y
+C8850928,2022-06-03,regular,he,Ra'anana,n
+C8851556,2015-12-30,trail_club,he,Kfar Saba,n
+C8852034,2022-01-06,trail_club,he,Jerusalem,y
+C8852774,2026-03-06,regular,he,Karmiel,y
+C8852784,2017-04-14,trail_club,he,Haifa,y
+C8852848,2014-01-02,regular,he,Karmiel,y
+C8857700,2024-07-25,trail_club,he,Eilat,y
+C8858574,2021-12-27,regular,he,Ra'anana,n
+C8859349,2019-04-11,regular,he,Herzliya,y
+C8860956,2014-11-25,silver_trail,en,Ra'anana,n
+C8861118,2014-07-20,trail_club,he,Haifa,n
+C8864335,2014-01-18,trail_club,en,Modiin,y
+C8868478,2016-05-02,regular,he,Beersheba,y
+C8870840,2022-12-14,regular,he,Jerusalem,n
+C8870998,2019-10-14,trail_club,he,Haifa,y
+C8880549,2024-01-03,silver_trail,en,Jerusalem,y
+C8882640,2017-10-28,regular,he,Petah Tikva,y
+C8883909,2023-07-01,regular,he,Netanya,y
+C8885067,2019-04-25,regular,he,Kafr Qasim,y
+C8885634,2016-03-21,regular,en,Zichron Ya'akov,y
+C8885842,2025-12-08,trail_club,he,Beersheba,n
+C8886688,2020-10-03,regular,he,Kfar Saba,y
+C8887338,2025-09-09,trail_club,he,Nazareth,n
+C8890784,2015-10-01,regular,he,Netanya,y
+C8891323,2016-08-27,regular,he,Petah Tikva,y
+C8891434,2017-06-30,regular,he,Rahat,y
+C8894538,2014-09-06,trail_club,he,Ashdod,y
+C8894879,2022-06-17,trail_club,he,Karmiel,n
+C8900113,2021-08-31,regular,he,Ashkelon,n
+C8900850,2016-07-27,regular,he,Rishon LeZion,n
+C8901454,2019-12-31,regular,he,Herzliya,y
+C8903180,2014-10-31,silver_trail,en,Ra'anana,y
+C8909701,2016-06-17,trail_club,he,Tel Aviv-Yafo,n
+C8909886,2021-03-27,regular,he,Rishon LeZion,n
+C8910170,2023-09-27,regular,he,Tel Aviv-Yafo,y
+C8912056,2025-11-15,regular,he,Beersheba,n
+C8913839,2014-08-19,regular,he,Ra'anana,y
+C8916115,2016-07-27,trail_club,he,Ra'anana,n
+C8917766,2014-03-22,silver_trail,he,Nazareth,n
+C8921473,2024-09-07,regular,he,Kfar Saba,n
+C8924689,2026-04-20,trail_club,he,Rehovot,y
+C8928043,2015-09-13,silver_trail,he,Herzliya,n
+C8928970,2022-04-17,regular,he,Tel Aviv-Yafo,n
+C8935775,2024-04-17,regular,he,Bat Yam,y
+C8936575,2014-12-27,silver_trail,he,Haifa,n
+C8940097,2014-04-24,regular,he,Karmiel,y
+C8943162,2015-04-15,silver_trail,en,Beit Shemesh,y
+C8951781,2021-12-31,regular,he,Netanya,y
+C8959330,2025-12-31,regular,he,Eilat,y
+C8968149,2023-08-30,regular,he,Netanya,y
+C8968652,2023-03-17,trail_club,he,Modiin,y
+C8968683,2017-06-25,regular,he,Netanya,n
+C8970474,2025-06-14,regular,he,Tel Aviv-Yafo,y
+C8970542,2018-07-13,regular,he,Netanya,n
+C8970893,2020-02-13,regular,he,Umm al-Fahm,n
+C8973695,2022-06-04,regular,he,Jerusalem,n
+C8978814,2018-09-11,silver_trail,he,Netanya,n
+C8979950,2016-02-03,trail_club,he,Rishon LeZion,y
+C8983861,2023-12-27,trail_club,he,Tel Aviv-Yafo,y
+C8992085,2023-02-23,regular,he,Tel Aviv-Yafo,y
+C8993959,2024-12-07,regular,he,Ra'anana,n
+C8999762,2020-08-21,trail_club,he,Petah Tikva,n
+C9005210,2021-08-29,trail_club,he,Rishon LeZion,n
+C9007990,2017-11-19,trail_club,he,Tel Aviv-Yafo,n
+C9008353,2021-11-25,regular,he,Ra'anana,y
+C9008490,2015-02-12,regular,he,Karmiel,n
+C9009660,2020-08-14,regular,he,Rishon LeZion,n
+C9009663,2022-07-11,regular,he,Ra'anana,y
+C9012321,2017-08-08,trail_club,he,Jerusalem,n
+C9014143,2016-10-22,regular,he,Modiin,y
+C9016031,2015-04-29,regular,he,Rehovot,y
+C9016589,2024-12-08,regular,he,Tel Aviv-Yafo,y
+C9017424,2023-12-16,regular,he,Sakhnin,y
+C9018714,2023-01-18,regular,en,Modiin,y
+C9019759,2016-02-11,trail_club,he,Tel Aviv-Yafo,y
+C9020194,2018-09-08,trail_club,he,Rehovot,n
+C9024302,2024-10-15,regular,he,Netanya,n
+C9024907,2020-02-05,regular,he,Rehovot,y
+C9025165,2014-08-22,regular,en,Beit Shemesh,n
+C9027877,2023-07-11,regular,he,Jerusalem,y
+C9029770,2026-10-03,regular,he,Netanya,n
+C9033143,2016-01-18,regular,he,Haifa,n
+C9034140,2022-07-02,regular,he,Jerusalem,y
+C9036128,2021-08-26,regular,he,Karmiel,n
+C9037377,2019-09-22,regular,he,Eilat,y
+C9041469,2020-05-21,trail_club,he,Rehovot,y
+C9043389,2026-06-16,regular,he,Rishon LeZion,n
+C9044602,2018-04-08,regular,he,Rehovot,y
+C9050608,2018-08-01,regular,he,Ra'anana,n
+C9050682,2026-03-07,regular,he,Karmiel,n
+C9054061,2022-01-08,regular,he,Modiin,n
+C9055350,2020-02-07,trail_club,he,Umm al-Fahm,y
+C9057798,2024-04-01,regular,he,Netanya,y
+C9058649,2023-03-25,silver_trail,he,Haifa,n
+C9060516,2025-02-17,trail_club,he,Petah Tikva,n
+C9061109,2019-11-03,regular,he,Haifa,y
+C9063120,2014-08-24,regular,he,Petah Tikva,y
+C9065876,2019-12-07,regular,he,Ra'anana,n
+C9071800,2018-11-14,regular,he,Rishon LeZion,y
+C9072009,2023-06-03,regular,he,Petah Tikva,y
+C9074811,2024-07-03,silver_trail,he,Eilat,n
+C9077341,2025-08-17,trail_club,en,Zichron Ya'akov,n
+C9079199,2016-10-24,regular,he,Rishon LeZion,n
+C9082314,2021-04-14,regular,he,Netanya,y
+C9083849,2024-03-21,regular,he,Jerusalem,y
+C9084012,2016-11-10,regular,he,Petah Tikva,y
+C9085349,2023-02-26,regular,en,Modiin,y
+C9091370,2014-10-24,regular,he,Tel Aviv-Yafo,n
+C9093914,2020-02-11,trail_club,he,Beersheba,y
+C9094823,2016-04-12,silver_trail,he,Beersheba,n
+C9097168,2023-03-19,trail_club,he,Modiin,n
+C9098200,2024-09-30,regular,he,Umm al-Fahm,y
+C9103209,2018-10-25,regular,he,Rishon LeZion,y
+C9103572,2025-07-20,trail_club,he,Beersheba,n
+C9104537,2024-02-03,silver_trail,en,Zichron Ya'akov,n
+C9106378,2019-09-25,regular,he,Kfar Saba,y
+C9107438,2016-11-18,regular,he,Nazareth,n
+C9111138,2017-05-26,regular,he,Petah Tikva,n
+C9119471,2016-07-02,trail_club,he,Petah Tikva,y
+C9122324,2021-02-13,regular,he,Modiin,y
+C9132180,2020-01-13,regular,he,Rishon LeZion,y
+C9132319,2014-08-04,trail_club,he,Netanya,y
+C9133068,2014-10-19,regular,he,Jerusalem,n
+C9141014,2022-08-16,trail_club,he,Netanya,n
+C9141197,2023-12-31,regular,he,Eilat,y
+C9143080,2014-01-11,regular,he,Umm al-Fahm,y
+C9143503,2015-06-25,regular,he,Petah Tikva,n
+C9149674,2021-02-05,trail_club,he,Modiin,y
+C9152080,2015-04-12,trail_club,he,Jerusalem,y
+C9153956,2022-11-24,trail_club,he,Netanya,n
+C9158873,2018-06-21,regular,he,Haifa,y
+C9159196,2016-02-24,trail_club,he,Kfar Saba,y
+C9160452,2016-10-30,regular,he,Petah Tikva,n
+C9164053,2016-10-11,trail_club,he,Haifa,y
+C9165986,2018-12-13,regular,he,Ashdod,n
+C9167034,2024-07-19,regular,he,Jerusalem,n
+C9168569,2020-06-07,regular,he,Kfar Saba,n
+C9173248,2015-08-13,regular,he,Beersheba,n
+C9174768,2019-08-31,regular,he,Modiin,n
+C9176309,2023-07-14,trail_club,he,Tel Aviv-Yafo,n
+C9177553,2022-01-28,regular,he,Netanya,y
+C9180963,2025-06-16,regular,he,Rehovot,n
+C9183162,2020-06-19,regular,en,Ra'anana,y
+C9185876,2018-02-18,regular,he,Beersheba,y
+C9186454,2020-08-04,regular,he,Rishon LeZion,y
+C9186944,2025-10-16,regular,he,Netanya,y
+C9191494,2015-06-21,regular,he,Rahat,y
+C9196055,2024-11-14,regular,he,Beersheba,n
+C9196099,2014-02-25,regular,he,Beersheba,y
+C9197986,2021-06-30,regular,he,Tel Aviv-Yafo,n
+C9202321,2016-06-25,regular,he,Beersheba,n
+C9203735,2018-07-10,regular,he,Petah Tikva,n
+C9206136,2023-03-03,trail_club,en,Beit Shemesh,y
+C9212305,2015-09-30,regular,he,Jerusalem,y
+C9214150,2014-11-01,regular,he,Kfar Saba,y
+C9215655,2015-12-23,regular,he,Haifa,y
+C9218326,2021-12-19,regular,he,Modiin,n
+C9220692,2019-08-30,trail_club,he,Rishon LeZion,n
+C9225598,2017-08-11,trail_club,he,Haifa,y
+C9225826,2021-08-31,trail_club,he,Netanya,y
+C9227957,2016-09-28,trail_club,he,Ra'anana,n
+C9229444,2025-10-18,silver_trail,he,Netanya,n
+C9236137,2025-05-22,regular,he,Jerusalem,y
+C9236196,2023-04-04,trail_club,he,Rishon LeZion,y
+C9238922,2021-11-01,regular,he,Petah Tikva,y
+C9243005,2018-11-21,silver_trail,he,Modiin,y
+C9247487,2023-07-05,regular,he,Eilat,y
+C9248479,2020-08-11,regular,he,Petah Tikva,n
+C9251786,2022-11-08,regular,he,Sakhnin,n
+C9254025,2022-01-27,regular,he,Kfar Saba,y
+C9254700,2015-08-17,regular,he,Rishon LeZion,y
+C9255458,2023-09-23,regular,he,Netanya,y
+C9256741,2019-08-05,regular,he,Haifa,n
+C9257419,2019-07-29,regular,he,Petah Tikva,y
+C9261296,2015-12-09,regular,he,Shefa-Amr,n
+C9264124,2022-12-27,trail_club,he,Eilat,y
+C9266211,2014-11-03,trail_club,he,Karmiel,y
+C9271262,2023-03-30,trail_club,he,Eilat,n
+C9272278,2016-10-21,silver_trail,he,Ashdod,y
+C9272880,2024-10-10,trail_club,he,Tel Aviv-Yafo,n
+C9275927,2025-10-19,trail_club,he,Kfar Saba,y
+C9281979,2015-11-03,regular,he,Umm al-Fahm,n
+C9284975,2023-03-31,regular,he,Rishon LeZion,y
+C9285275,2020-10-09,trail_club,en,Zichron Ya'akov,n
+C9285956,2024-09-16,regular,he,Rishon LeZion,y
+C9289260,2019-09-24,trail_club,he,Beersheba,n
+C9290356,2015-09-20,regular,he,Herzliya,y
+C9291577,2025-10-08,trail_club,he,Netanya,y
+C9295260,2025-05-14,regular,he,Eilat,y
+C9297751,2024-05-24,trail_club,he,Jerusalem,y
+C9300948,2023-02-12,regular,he,Karmiel,n
+C9301593,2023-05-04,regular,he,Rahat,y
+C9305458,2016-10-10,trail_club,he,Rehovot,n
+C9307927,2014-09-26,regular,en,Ra'anana,n
+C9309445,2017-04-20,regular,he,Modiin,y
+C9312059,2024-01-17,regular,en,Beit Shemesh,y
+C9314048,2018-05-30,trail_club,he,Eilat,n
+C9315657,2019-11-20,trail_club,he,Nazareth,y
+C9320129,2021-07-31,trail_club,he,Kfar Saba,y
+C9322599,2025-12-25,trail_club,he,Rishon LeZion,y
+C9325449,2015-05-13,regular,he,Rishon LeZion,y
+C9326081,2020-03-01,trail_club,he,Netanya,n
+C9328049,2016-04-28,trail_club,he,Eilat,n
+C9328374,2022-08-20,regular,he,Modiin,n
+C9328776,2020-05-03,regular,he,Herzliya,n
+C9328942,2023-05-20,regular,he,Tayibe,y
+C9331053,2020-12-02,trail_club,he,Modiin,y
+C9332071,2019-05-13,silver_trail,he,Netanya,y
+C9333060,2022-11-27,trail_club,he,Haifa,y
+C9339069,2016-01-06,regular,he,Herzliya,y
+C9339222,2018-04-19,regular,he,Rahat,n
+C9343554,2017-04-02,regular,he,Kafr Qasim,y
+C9345656,2024-02-16,regular,he,Ra'anana,n
+C9353096,2022-07-23,regular,he,Beersheba,n
+C9353704,2018-06-03,regular,he,Tel Aviv-Yafo,n
+C9356739,2019-12-26,regular,he,Tel Aviv-Yafo,y
+C9360400,2019-05-19,regular,he,Rishon LeZion,y
+C9360741,2018-06-25,trail_club,he,Rehovot,y
+C9361370,2015-06-14,regular,he,Haifa,y
+C9368080,2017-08-11,regular,he,Jerusalem,y
+C9371396,2016-04-06,regular,he,Rehovot,y
+C9379887,2020-02-17,trail_club,he,Jerusalem,y
+C9382944,2025-07-03,regular,he,Rehovot,n
+C9385190,2016-02-24,trail_club,en,Beit Shemesh,y
+C9393042,2024-09-02,regular,en,Tel Aviv-Yafo,n
+C9393064,2015-08-20,regular,he,Modiin,y
+C9400051,2022-05-07,trail_club,he,Tayibe,y
+C9403244,2018-03-07,silver_trail,he,Haifa,y
+C9404767,2017-09-24,trail_club,he,Netanya,y
+C9405553,2019-09-12,regular,he,Netanya,y
+C9405588,2015-10-11,trail_club,he,Eilat,y
+C9415700,2023-09-30,regular,he,Rishon LeZion,y
+C9416648,2018-02-03,regular,he,Haifa,n
+C9422536,2025-02-02,regular,he,Rehovot,n
+C9424909,2022-01-27,regular,he,Rahat,y
+C9426377,2024-11-08,regular,he,Rahat,y
+C9426986,2024-01-25,regular,he,Nazareth,y
+C9427212,2020-02-15,regular,he,Beersheba,y
+C9427234,2017-08-12,regular,he,Haifa,y
+C9427993,2024-02-08,trail_club,he,Kfar Saba,y
+C9428056,2016-11-04,regular,he,Haifa,n
+C9428260,2022-06-17,regular,he,Karmiel,y
+C9429377,2025-08-24,silver_trail,he,Petah Tikva,y
+C9434373,2021-06-08,regular,en,Zichron Ya'akov,n
+C9434386,2016-12-31,silver_trail,he,Modiin,y
+C9434944,2015-06-29,trail_club,he,Modiin,y
+C9435674,2014-10-14,trail_club,he,Rehovot,n
+C9437408,2026-01-13,regular,he,Ashdod,y
+C9441964,2019-01-25,trail_club,en,Tel Aviv-Yafo,n
+C9444038,2019-04-25,trail_club,he,Umm al-Fahm,y
+C9452473,2015-09-22,regular,he,Rishon LeZion,n
+C9454502,2022-05-30,regular,he,Karmiel,y
+C9454531,2014-01-22,trail_club,he,Eilat,n
+C9462670,2019-07-09,trail_club,he,Ra'anana,y
+C9463992,2016-08-30,regular,he,Beersheba,y
+C9466573,2019-12-23,regular,en,Ra'anana,n
+C9469421,2021-12-08,trail_club,he,Eilat,n
+C9469617,2017-07-23,trail_club,he,Ra'anana,n
+C9471060,2014-06-04,trail_club,he,Eilat,y
+C9474122,2026-09-16,trail_club,he,Umm al-Fahm,y
+C9476324,2017-02-23,regular,he,Ashkelon,n
+C9477691,2026-09-21,trail_club,he,Herzliya,n
+C9478388,2020-04-04,regular,he,Petah Tikva,y
+C9479945,2018-02-09,regular,he,Tel Aviv-Yafo,n
+C9487753,2022-11-27,regular,he,Rishon LeZion,n
+C9492657,2021-04-29,regular,he,Tel Aviv-Yafo,y
+C9497145,2024-04-30,regular,he,Netanya,y
+C9501913,2017-07-29,regular,he,Eilat,n
+C9506841,2023-11-15,trail_club,he,Jerusalem,y
+C9509248,2018-06-14,regular,he,Rehovot,y
+C9509519,2018-12-09,trail_club,he,Rehovot,n
+C9510664,2020-09-13,trail_club,he,Modiin,y
+C9512454,2014-05-17,regular,he,Modiin,n
+C9523114,2014-02-11,silver_trail,he,Petah Tikva,y
+C9523463,2014-08-06,regular,he,Ra'anana,y
+C9525327,2018-10-16,regular,he,Ra'anana,y
+C9525670,2026-05-23,trail_club,he,Eilat,y
+C9526622,2018-12-20,silver_trail,he,Rishon LeZion,n
+C9528375,2021-06-03,regular,he,Ra'anana,y
+C9529798,2022-11-05,regular,he,Netanya,y
+C9540300,2025-07-22,regular,he,Netanya,n
+C9541919,2016-05-30,silver_trail,he,Eilat,n
+C9542833,2014-04-21,regular,he,Haifa,n
+C9553991,2023-07-20,regular,he,Netanya,n
+C9555520,2023-05-14,silver_trail,he,Herzliya,n
+C9555735,2016-12-18,regular,he,Herzliya,y
+C9555863,2023-05-07,regular,he,Rishon LeZion,n
+C9557297,2018-07-17,trail_club,he,Tel Aviv-Yafo,y
+C9558438,2024-06-02,regular,he,Netanya,n
+C9560767,2020-01-04,regular,he,Modiin,y
+C9565831,2018-06-08,regular,he,Netanya,y
+C9565947,2017-03-13,regular,he,Haifa,n
+C9567278,2020-10-20,trail_club,he,Tel Aviv-Yafo,y
+C9567943,2026-06-27,trail_club,he,Ra'anana,y
+C9571348,2016-05-01,regular,he,Haifa,y
+C9572156,2023-10-03,trail_club,he,Haifa,n
+C9573784,2022-03-25,regular,he,Karmiel,n
+C9578880,2023-06-23,trail_club,he,Ra'anana,y
+C9583316,2024-08-15,regular,he,Beersheba,y
+C9586061,2016-04-28,regular,he,Tel Aviv-Yafo,y
+C9587353,2014-02-11,trail_club,he,Beersheba,y
+C9590042,2020-10-31,regular,he,Haifa,y
+C9591360,2020-08-09,trail_club,he,Rishon LeZion,n
+C9594993,2019-08-07,regular,he,Karmiel,y
+C9595407,2019-04-25,regular,he,Karmiel,y
+C9597336,2020-11-14,regular,he,Shefa-Amr,y
+C9597443,2019-01-26,regular,he,Karmiel,y
+C9601409,2021-03-07,regular,he,Herzliya,y
+C9602481,2026-01-20,silver_trail,he,Shefa-Amr,y
+C9602739,2024-02-04,regular,he,Rehovot,y
+C9607763,2026-10-15,regular,he,Ra'anana,y
+C9608025,2017-03-12,regular,he,Rishon LeZion,y
+C9609612,2021-03-07,regular,he,Kafr Qasim,y
+C9611682,2023-05-24,regular,he,Eilat,y
+C9612785,2024-05-18,regular,he,Kfar Saba,y
+C9613975,2025-10-10,trail_club,he,Rehovot,y
+C9617654,2019-05-24,regular,he,Kfar Saba,y
+C9621694,2017-09-29,trail_club,he,Haifa,n
+C9624608,2019-02-18,trail_club,he,Sakhnin,y
+C9626839,2021-05-08,regular,he,Jerusalem,y
+C9629403,2026-08-22,trail_club,he,Haifa,n
+C9629604,2025-08-25,regular,he,Ashkelon,y
+C9629612,2015-01-18,regular,he,Tel Aviv-Yafo,y
+C9629742,2014-10-10,regular,he,Petah Tikva,n
+C9633640,2020-08-06,regular,he,Modiin,n
+C9637325,2022-05-24,regular,he,Ra'anana,y
+C9638200,2014-05-20,silver_trail,he,Herzliya,y
+C9641902,2014-03-27,trail_club,he,Tel Aviv-Yafo,y
+C9643552,2015-04-03,regular,he,Rahat,y
+C9644831,2025-10-23,trail_club,he,Rahat,n
+C9645331,2021-10-18,regular,he,Petah Tikva,y
+C9647231,2014-11-21,regular,he,Eilat,n
+C9652855,2022-06-11,regular,he,Haifa,n
+C9652971,2014-10-17,regular,he,Tel Aviv-Yafo,n
+C9658406,2023-07-23,regular,he,Haifa,y
+C9660868,2024-08-16,regular,he,Netanya,n
+C9661243,2022-05-11,regular,he,Modiin,n
+C9663768,2022-11-06,trail_club,en,Beit Shemesh,n
+C9664900,2022-07-28,trail_club,he,Tel Aviv-Yafo,y
+C9666947,2025-04-29,regular,he,Eilat,n
+C9667377,2014-03-11,trail_club,he,Beersheba,y
+C9673074,2014-03-15,trail_club,he,Netanya,y
+C9673856,2018-12-16,trail_club,he,Jerusalem,y
+C9679033,2014-02-23,trail_club,he,Karmiel,y
+C9681338,2024-09-04,regular,he,Petah Tikva,y
+C9684907,2025-07-01,trail_club,he,Tayibe,n
+C9687965,2019-11-05,regular,he,Rehovot,y
+C9688722,2020-06-10,trail_club,he,Karmiel,y
+C9690759,2024-05-30,trail_club,he,Ra'anana,y
+C9691170,2015-09-14,trail_club,he,Jerusalem,y
+C9691208,2015-04-28,trail_club,he,Petah Tikva,y
+C9693030,2023-11-04,regular,he,Sakhnin,n
+C9703552,2018-12-29,regular,he,Shefa-Amr,y
+C9706293,2023-08-08,trail_club,he,Haifa,y
+C9715544,2022-07-14,regular,he,Eilat,n
+C9715926,2018-04-15,regular,he,Rahat,y
+C9719920,2018-02-26,regular,he,Beersheba,y
+C9720440,2023-11-18,trail_club,he,Jerusalem,n
+C9724378,2014-06-11,regular,he,Eilat,y
+C9725092,2016-12-15,regular,he,Petah Tikva,n
+C9735670,2016-08-21,regular,he,Eilat,n
+C9736737,2022-06-03,trail_club,he,Netanya,y
+C9740868,2014-09-26,trail_club,he,Karmiel,y
+C9743458,2015-07-28,trail_club,he,Ra'anana,n
+C9747056,2021-05-22,regular,he,Petah Tikva,y
+C9749081,2021-04-24,trail_club,he,Netanya,n
+C9750814,2019-05-12,trail_club,he,Herzliya,n
+C9767494,2024-01-03,regular,en,Modiin,n
+C9768903,2018-09-26,regular,he,Rehovot,y
+C9771030,2025-09-11,silver_trail,he,Karmiel,y
+C9771542,2026-09-06,trail_club,he,Modiin,y
+C9772056,2015-02-21,regular,he,Tel Aviv-Yafo,y
+C9775846,2015-06-30,trail_club,he,Karmiel,y
+C9776476,2017-10-28,regular,he,Modiin,y
+C9778421,2024-05-26,regular,en,Ra'anana,y
+C9781148,2026-05-19,regular,he,Rishon LeZion,y
+C9785880,2026-02-17,silver_trail,he,Rishon LeZion,n
+C9787672,2019-11-25,regular,he,Herzliya,n
+C9790695,2021-03-03,trail_club,he,Tel Aviv-Yafo,n
+C9797274,2023-02-05,regular,he,Beersheba,n
+C9799860,2014-10-13,regular,he,Haifa,n
+C9800884,2024-10-04,regular,he,Rehovot,y
+C9804256,2024-12-03,regular,he,Shefa-Amr,y
+C9804537,2023-05-19,regular,he,Netanya,n
+C9805120,2023-01-10,trail_club,he,Karmiel,y
+C9805779,2017-03-16,trail_club,he,Netanya,y
+C9807831,2015-11-13,regular,he,Karmiel,n
+C9808540,2016-02-20,regular,he,Ra'anana,n
+C9809227,2026-09-24,regular,he,Eilat,n
+C9814461,2023-05-26,trail_club,he,Haifa,y
+C9822097,2021-08-06,regular,he,Ashdod,n
+C9822200,2024-10-16,regular,he,Karmiel,n
+C9827490,2018-02-14,silver_trail,he,Haifa,y
+C9833590,2015-05-12,trail_club,he,Beersheba,y
+C9835210,2023-02-20,silver_trail,he,Petah Tikva,n
+C9838087,2016-11-22,trail_club,he,Rahat,y
+C9838828,2015-03-04,regular,he,Karmiel,n
+C9840097,2023-02-22,regular,en,Beit Shemesh,y
+C9844239,2017-10-24,trail_club,he,Ra'anana,y
+C9848158,2024-08-09,regular,he,Herzliya,n
+C9855790,2022-10-04,regular,he,Sakhnin,y
+C9856390,2025-12-27,regular,he,Kafr Qasim,n
+C9863731,2019-09-06,silver_trail,he,Karmiel,n
+C9865281,2020-07-26,regular,en,Jerusalem,n
+C9868139,2026-03-27,regular,he,Beersheba,n
+C9869156,2025-05-01,regular,he,Rehovot,y
+C9869241,2015-03-27,trail_club,he,Rishon LeZion,n
+C9871818,2016-08-08,trail_club,he,Petah Tikva,y
+C9872097,2019-07-31,regular,he,Beersheba,y
+C9873013,2020-05-12,regular,he,Tel Aviv-Yafo,y
+C9873353,2017-06-12,trail_club,he,Netanya,n
+C9875524,2021-12-23,regular,he,Tel Aviv-Yafo,n
+C9877899,2016-07-09,trail_club,he,Tayibe,y
+C9882211,2022-12-09,regular,he,Karmiel,y
+C9882279,2017-04-12,regular,he,Karmiel,n
+C9882924,2018-05-22,trail_club,he,Haifa,n
+C9883375,2019-11-16,trail_club,he,Jerusalem,y
+C9886170,2019-05-30,regular,he,Modiin,n
+C9892970,2018-11-16,trail_club,he,Rishon LeZion,n
+C9894578,2018-03-20,regular,he,Netanya,n
+C9906975,2021-08-24,regular,he,Beersheba,n
+C9907140,2016-04-19,trail_club,he,Ra'anana,y
+C9908770,2021-10-02,trail_club,he,Tayibe,n
+C9909334,2015-12-08,trail_club,he,Netanya,n
+C9909824,2023-11-09,trail_club,he,Jerusalem,y
+C9913500,2024-02-13,regular,he,Haifa,y
+C9915768,2016-04-25,regular,he,Herzliya,y
+C9916735,2023-05-31,trail_club,he,Netanya,n
+C9922024,2022-12-20,regular,he,Netanya,n
+C9928475,2026-10-16,trail_club,he,Haifa,n
+C9930008,2023-02-06,trail_club,he,Ashkelon,n
+C9931348,2022-12-12,regular,he,Ra'anana,n
+C9932933,2022-07-16,trail_club,he,Tel Aviv-Yafo,y
+C9934457,2014-03-21,silver_trail,he,Karmiel,y
+C9934818,2022-08-08,regular,he,Kfar Saba,y
+C9935062,2014-01-26,regular,he,Beersheba,n
+C9939174,2022-06-15,trail_club,he,Petah Tikva,n
+C9939687,2024-07-25,regular,he,Shefa-Amr,n
+C9940879,2018-02-21,regular,he,Tel Aviv-Yafo,y
+C9941074,2023-03-06,regular,he,Jerusalem,y
+C9941759,2016-03-26,trail_club,he,Jerusalem,n
+C9944265,2025-12-24,trail_club,he,Ashkelon,n
+C9950545,2024-09-23,regular,en,Ra'anana,n
+C9951274,2024-05-21,trail_club,he,Kafr Qasim,n
+C9951849,2025-07-10,regular,he,Eilat,n
+C9951936,2025-08-12,regular,he,Rehovot,n
+C9953375,2022-01-20,trail_club,en,Tel Aviv-Yafo,y
+C9954084,2018-08-07,regular,he,Modiin,y
+C9955839,2014-01-25,silver_trail,he,Rishon LeZion,y
+C9955866,2018-06-25,trail_club,he,Kafr Qasim,n
+C9958210,2017-08-05,regular,he,Rehovot,n
+C9961800,2021-10-04,regular,he,Beersheba,n
+C9963213,2026-05-18,regular,he,Tel Aviv-Yafo,n
+C9972377,2016-03-11,regular,he,Jerusalem,y
+C9976954,2017-08-27,regular,he,Modiin,y
+C9977046,2021-10-03,regular,he,Beersheba,n
+C9983838,2016-02-04,regular,he,Kfar Saba,y
+C9984096,2024-06-21,regular,en,Ra'anana,n
+C9986079,2019-10-29,regular,en,Ra'anana,n
+C9989053,2017-07-25,trail_club,he,Sakhnin,n
+C9990315,2014-10-22,regular,he,Netanya,y
+C9992482,2023-06-09,regular,he,Beersheba,y

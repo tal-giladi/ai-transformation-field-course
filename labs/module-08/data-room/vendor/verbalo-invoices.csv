@@ -1,0 +1,6 @@
+invoice_no,service_month,platform_fee_usd,resolutions,price_per_resolution_usd,usage_fee_usd,total_usd,currency,status
+VB-INV-2026-061,2026-06,4800,2500,0.85,2125.0,6925.0,USD,paid
+VB-INV-2026-062,2026-07,4800,6600,0.85,5610.0,10410.0,USD,paid
+VB-INV-2026-063,2026-08,4800,6000,0.85,5100.0,9900.0,USD,paid
+VB-INV-2026-064,2026-09,4800,6600,0.85,5610.0,10410.0,USD,paid
+VB-INV-2026-065,2026-10,4800,6000,0.85,5100.0,9900.0,USD,due 30 Nov 2026

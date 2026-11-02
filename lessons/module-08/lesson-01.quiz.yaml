@@ -1,0 +1,95 @@
+- id: q1
+  question: >-
+    The COO hired you; the CEO made the promise to the board. When you write the engagement charter,
+    how do you handle the CEO's "chatbot that replaces half of support by Q2"?
+  options:
+    - >-
+      Make it the objective, since the CEO outranks the sponsor and will judge the work.
+    - >-
+      Leave it out, so the charter does not take sides between the CEO and the COO.
+    - >-
+      Record it as the stated ask the engagement tests, under the sponsor's own objective.
+    - >-
+      Rewrite it as a softer goal both of them can sign, such as "use AI in support".
+  correct: 2
+  explanation: >-
+    Writing the CEO's ask as the objective means the work can only succeed by delivering a chatbot;
+    leaving it out hides the decision everyone is waiting for. Naming it as the claim you test keeps it
+    visible without pre-judging it, and the sponsor's signed objective stays the mandate.
+
+- id: q2
+  question: >-
+    The statement of work has an exit point after the 26 November readout. In your first meeting, what
+    makes that exit real rather than decoration?
+  options:
+    - >-
+      Saying out loud that you may recommend stopping there, and that the choice is hers and yours.
+    - >-
+      Pricing phase 1 high enough that stopping after it would still be worth your time.
+    - >-
+      Keeping the exit out of the conversation so the sponsor does not plan for an early stop.
+    - >-
+      Adding a clause that the client pays a penalty if it does not continue to phase 2.
+  correct: 0
+  explanation: >-
+    An exit nobody has named is never used: by 26 November both sides will feel committed. Saying it
+    early, as a shared option, is what lets you recommend stopping without it looking like failure or
+    disloyalty. A penalty clause or silence protects the invoice, not the client.
+
+- id: q3
+  question: >-
+    On day one you read the Q3 KPI report: "AHT down 30%: 5.6 minutes against 8.0 in Q2". The Q2
+    report's footnote includes after-contact work; the Q3 footnote does not mention it. How do you sort
+    the number on your first-read sheet?
+  options:
+    - >-
+      Verified, because BI produced both reports from the same helpdesk data.
+    - >-
+      Claim to test, until the vendor confirms how the bot affected handling time.
+    - >-
+      Unverifiable, because the extract does not cover the second quarter at all.
+    - >-
+      Contradicted: the footnotes show the two figures are different measures.
+  correct: 3
+  explanation: >-
+    The two footnotes already show the comparison is not like for like, so the claim as stated is
+    contradicted by the documents themselves. The extract does cover May and June, and the vendor has
+    nothing to do with how BI defines AHT.
+
+- id: q4
+  question: >-
+    Orly offers you 30 minutes with the CEO "after Black Friday", which is after your first readout.
+    What do you do?
+  options:
+    - >-
+      Accept, and present the findings to him for the first time at the readout with everyone else.
+    - >-
+      Ask for fifteen minutes before the readout; if refused, take him the findings privately first.
+    - >-
+      Email the CEO directly to book time, since the sponsor's calendar is not your constraint.
+    - >-
+      Move the readout to after Black Friday so the meeting order works out naturally.
+  correct: 1
+  explanation: >-
+    A CEO who first hears a finding about his own slide in a room will defend it. Asking through the
+    sponsor, with a fallback of a private preview, keeps the relationship and the timetable. Going
+    around the sponsor breaks the change-control line you just agreed.
+
+- id: q5
+  question: >-
+    Your scope list has "customer service, all channels". In the first read you see that refunds wait
+    for a weekly finance run and returns inspection belongs to the warehouse. What do you write?
+  options:
+    - >-
+      Returns and refunds in scope "as far as they drive contact", with the warehouse owner named.
+    - >-
+      Returns out of scope, because they belong to another department and another budget.
+    - >-
+      The whole warehouse in scope, since the real problem might be anywhere in operations.
+    - >-
+      Nothing yet: scope can be changed later once the interviews show what matters.
+  correct: 0
+  explanation: >-
+    Leaving returns out risks discovering in week 2 that the main cause is outside your mandate; taking
+    in the whole warehouse turns a 10-week engagement into a different one. A bounded inclusion keeps
+    the cause in view, and scope changes later need a signed change request anyway.

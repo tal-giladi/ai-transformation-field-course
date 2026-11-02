@@ -1,0 +1,325 @@
+"""Text fragments for the Northwind Outfitters data room (used by generate.py).
+
+Customer messages, agent replies and chatbot replies in Hebrew, Arabic, Russian, English and a few in
+Amharic. All synthetic. Slots: {item} product name, {order} order number, {days} days since delivery,
+{fee} a fee in shekels.
+"""
+
+# Catalogue: sku, English name, Hebrew name, category, price in ILS (incl. VAT)
+CATALOGUE = [
+    ("NW-TN-1102", "Negev 2P tent", "אוהל נגב ל-2", "tents", 1290),
+    ("NW-TN-1140", "Galil family tent 6P", "אוהל משפחתי גליל ל-6", "tents", 2490),
+    ("NW-TN-1175", "Arava ultralight tent 1P", "אוהל ערבה אולטרה-לייט", "tents", 1890),
+    ("NW-BP-2010", "Ramon 45L backpack", "תרמיל רמון 45 ליטר", "backpacks", 690),
+    ("NW-BP-2033", "Carmel 30L daypack", "תיק יום כרמל 30 ליטר", "backpacks", 349),
+    ("NW-BP-2061", "Hermon 65L trekking pack", "תרמיל חרמון 65 ליטר", "backpacks", 1190),
+    ("NW-FW-3007", "Golan Mid GTX boot", "נעל גולן מיד GTX", "footwear", 799),
+    ("NW-FW-3021", "Trail Runner X shoe", "נעל ריצת שטח X", "footwear", 549),
+    ("NW-FW-3049", "Kinneret sandal", "סנדל כנרת", "footwear", 289),
+    ("NW-AP-4012", "Storm shell jacket", "מעיל סטורם", "apparel", 899),
+    ("NW-AP-4030", "Fleece midlayer", "פליז שכבת ביניים", "apparel", 329),
+    ("NW-AP-4044", "Merino base layer", "שכבה תחתונה מרינו", "apparel", 279),
+    ("NW-AP-4090", "Embroidered team cap (personalised)", "כובע רקום בהתאמה אישית", "apparel", 119),
+    ("NW-SL-5003", "Down sleeping bag -5", "שק שינה פוך מינוס 5", "sleeping", 1090),
+    ("NW-SL-5018", "Self-inflating mat", "מזרן מתנפח עצמית", "sleeping", 399),
+    ("NW-CK-6002", "Compact gas stove", "כירת גז קומפקטית", "cooking", 229),
+    ("NW-CK-6015", "Titanium cookset", "סט בישול טיטניום", "cooking", 349),
+    ("NW-CL-7004", "Alpine harness", "רתמת טיפוס אלפיין", "climbing", 459),
+    ("NW-CL-7020", "Dynamic rope 60m", "חבל דינמי 60 מטר", "climbing", 990),
+    ("NW-BK-8001", "MIPS bike helmet", "קסדת אופניים MIPS", "bike", 399),
+    ("NW-BK-8012", "Bike light set", "סט פנסים לאופניים", "bike", 189),
+    ("NW-WS-9003", "Inflatable SUP board", "גלשן SUP מתנפח", "water", 2290),
+    ("NW-WS-9010", "Kayak paddle", "משוט קיאק", "water", 449),
+]
+CUSTOM_SKUS = {"NW-AP-4090"}
+
+CITIES = {
+    "he": ["Tel Aviv-Yafo", "Jerusalem", "Petah Tikva", "Rishon LeZion", "Modiin", "Kfar Saba", "Netanya",
+           "Herzliya", "Haifa", "Beersheba", "Rehovot", "Ra'anana", "Karmiel", "Eilat"],
+    "ar": ["Nazareth", "Umm al-Fahm", "Rahat", "Haifa", "Tayibe", "Shefa-Amr", "Sakhnin", "Kafr Qasim"],
+    "ru": ["Ashdod", "Haifa", "Bat Yam", "Ashkelon", "Beersheba", "Netanya", "Karmiel", "Rishon LeZion"],
+    "en": ["Jerusalem", "Ra'anana", "Tel Aviv-Yafo", "Modiin", "Beit Shemesh", "Zichron Ya'akov"],
+    "am": ["Netanya", "Kiryat Gat", "Rehovot", "Kiryat Malakhi", "Beersheba"],
+}
+
+# ---------------------------------------------------------------------------------------------------
+# Customer messages (written tickets and bot first messages). Keyed by intent, then language.
+MESSAGES = {
+    "wismo": {
+        "he": ["היי, הזמנתי {item} (הזמנה {order}) ועדיין לא הגיע. מתי זה אמור להגיע?",
+               "שלום, ההזמנה שלי {order} תקועה כבר שבוע. איפה המשלוח?",
+               "יש מספר מעקב להזמנה {order}? אמרו 3 ימי עסקים ועברו כבר 6",
+               "מתי מגיע ה{item}? אנחנו יוצאים לטיול ביום חמישי",
+               "עוד לא קיבלתי את החבילה של {order}, מה קורה איתה?"],
+        "ar": ["مرحبا، طلبت {item} (طلب رقم {order}) ولسا ما وصل. متى بوصل؟",
+               "السلام عليكم، وين الطلبية {order}؟ صار أسبوع",
+               "marhaba, el talabiye {order} lessa ma wislat, emta btousal?",
+               "الطرد تبع {order} لسا ما إجا"],
+        "ru": ["Здравствуйте, заказ {order} ({item}) до сих пор не пришёл. Когда доставка?",
+               "Где мой заказ {order}? Обещали за 3 рабочих дня.",
+               "Добрый день, подскажите номер отслеживания для заказа {order}",
+               "Посылка {order} так и не доставлена"],
+        "en": ["Hi, my order {order} ({item}) still hasn't arrived. Any update?",
+               "Where is order {order}? The site said 3 business days.",
+               "Can I get a tracking number for {order}? We leave for the trip on Thursday.",
+               "Still waiting on {order}, nothing yet"],
+        "am": ["ሰላም፣ ያዘዝኩት {item} እስካሁን አልደረሰኝም። ትዕዛዝ {order}። መቼ ይደርሳል?"],
+    },
+    "return_request": {
+        "he": ["שלום, קיבלתי {item} לפני {days} ימים ואני רוצה להחזיר. איך עושים את זה ומתי אקבל את הכסף?",
+               "אני מבקש לבטל את העסקה ולהחזיר את ה{item} מהזמנה {order}. רוצה החזר לכרטיס האשראי, לא קופון.",
+               "ה{item} לא מתאים לנו, רוצה להחזיר ולקבל כסף בחזרה. הזמנה {order}",
+               "היי, החלטתי לוותר על ה{item}. קיבלתי אותו לפני {days} ימים. מה התהליך?",
+               "ה{item} לא בשבילי. רוצה כסף בחזרה, מה עושים? קיבלתי לפני {days} ימים"],
+        "ar": ["مرحبا، استلمت {item} قبل {days} أيام وبدي أرجعه. كيف بقدر أرجعه ومتى بترجع المصاري؟",
+               "بدي ألغي الطلب {order} وأرجع {item}، بدي المبلغ على البطاقة مش رصيد",
+               "{item} ما ناسبني، بدي أرجعه. وصلني قبل {days} أيام",
+               "{item} مش إلي، بدي مصاريي. وصل من {days} أيام"],
+        "ru": ["Добрый день. Получила {item} {days} дней назад, хочу вернуть. Как оформить возврат и когда вернут деньги?",
+               "Хочу отменить покупку {item} (заказ {order}) и получить деньги на карту, не купон.",
+               "{item} нам не подошёл, хотим вернуть. Заказ {order}",
+               "{item} не подошёл, оформите, пожалуйста, отмену. Получили {days} дней назад"],
+        "en": ["Hi, I got the {item} {days} days ago and want to return it. How do I do that and when do I get my money back?",
+               "I'd like to cancel order {order} and return the {item}. Refund to my card please, not store credit.",
+               "The {item} isn't right for us. Received it {days} days ago. How do I send it back?",
+               "Changed my mind on the {item}. Refund please. Got it {days} days ago."],
+        "am": ["{item} መመለስ እፈልጋለሁ። ገንዘቤን መልሱልኝ። ትዕዛዝ {order}።"],
+    },
+    "return_policy_question": {
+        "he": ["שאלה לפני שאני שולח: אפשר להחזיר {item} אם פתחתי את האריזה? ויש דמי טיפול?",
+               "באתר כתוב שמחזירים רק בזיכוי לחנות, אבל בתקנון כתוב משהו אחר. מה נכון? מדובר ב{item} מהזמנה {order}",
+               "כמה זמן יש לי להחזיר את ה{item}? קיבלתי אותו לפני {days} ימים",
+               "מה המדיניות שלכם על מוצר שנפתח? מדובר ב{item}"],
+        "ar": ["سؤال: إذا فتحت كرتونة {item} بقدر أرجعه؟ وفي رسوم؟",
+               "بالموقع مكتوب إرجاع بس كرصيد، بس بالشروط مكتوب غير هيك. شو الصحيح؟ الطلب {order}"],
+        "ru": ["Вопрос: можно ли вернуть {item}, если я открыл упаковку? Есть ли комиссия?",
+               "На сайте написано, что возврат только кредитом магазина, а в условиях продажи иначе. Как правильно? Заказ {order}",
+               "Сколько дней у меня есть на возврат {item}? Получил {days} дней назад",
+               "Какие у вас правила для вскрытых товаров? Речь о {item}"],
+        "en": ["Quick question: can I return the {item} if I've opened the box? Is there a handling fee?",
+               "Your returns page says store credit only but your terms of sale say something else. Which is it? Order {order}",
+               "How long do I have to return the {item}? It arrived {days} days ago.",
+               "What's your policy on opened items? Asking about the {item}"],
+    },
+    "refund_status": {
+        "he": ["החזרתי את ה{item} לפני שבועיים ועדיין לא קיבלתי את הכסף. מה קורה?",
+               "איפה ההחזר שלי? הזמנה {order}, שלחתי את המוצר בחזרה כבר מזמן",
+               "פעם שלישית שאני שואל: מתי יחזור הכסף על ה{item}?",
+               "הכסף על ההחזרה עוד לא נכנס לחשבון. הזמנה {order}"],
+        "ar": ["رجعت {item} من أسبوعين ولسا ما رجعولي المصاري. شو صار؟",
+               "وين المبلغ تبعي؟ طلب {order}",
+               "المصاري ما نزلت عالحساب لهلأ، الطلب {order}"],
+        "ru": ["Я вернул {item} две недели назад, а деньги так и не пришли. Что происходит?",
+               "Где мой возврат по заказу {order}? Уже третий раз пишу.",
+               "Деньги за возврат ещё не поступили на счёт. Заказ {order}"],
+        "en": ["I sent the {item} back two weeks ago and still no refund. What's going on?",
+               "Where is my refund for order {order}?",
+               "Refund hasn't hit my account yet for {order}"],
+        "am": ["{item} መልሻለሁ ግን ገንዘቤ አልተመለሰም። ትዕዛዝ {order}።"],
+    },
+    "fee_dispute": {
+        "he": ["קיבלתי זיכוי על ה{item} אבל הורידו לי 10% דמי טיפול ועוד 39 ש\"ח משלוח. זה חוקי?",
+               "ביקשתי כסף ונתתם לי קופון לאתר. אני לא רוצה קופון. הזמנה {order}",
+               "למה ניכיתם לי {fee} ש\"ח מההחזר על ה{item}?",
+               "למה ההחזר קטן ממה ששילמתי על ה{item}?"],
+        "ar": ["رجعولي {item} بس خصموا 10% و39 شيكل شحن. هاد قانوني؟",
+               "طلبت مصاري وعطيتوني كوبون. ما بدي كوبون. الطلب {order}"],
+        "ru": ["За возврат {item} с меня удержали 10% и ещё 39 шекелей за доставку. Это законно?",
+               "Я просила деньги, а мне дали купон на сайт. Мне не нужен купон. Заказ {order}",
+               "Почему мне вернули меньше, чем я заплатил за {item}?"],
+        "en": ["You refunded the {item} but took 10% plus ₪39 shipping. Is that even legal?",
+               "I asked for my money back and got a store credit voucher instead. Order {order}",
+               "Why is my refund less than what I paid for the {item}?"],
+    },
+    "exchange": {
+        "he": ["ה{item} קטן עליי, אפשר להחליף למידה גדולה יותר?", "אפשר להחליף את ה{item} לצבע אחר? הזמנה {order}"],
+        "ar": ["{item} صغير علي، بقدر أبدله بمقاس أكبر؟"],
+        "ru": ["{item} мне мал, можно обменять на размер больше?"],
+        "en": ["The {item} is too small. Can I swap it for a bigger size?"],
+    },
+    "defect_damage": {
+        "he": ["ה{item} הגיע קרוע. מה עושים?", "הרוכסן של ה{item} נשבר כבר בשימוש הראשון",
+               "אחרי טיול אחד הסוליה של ה{item} התקלפה", "חסר חלק באריזה של ה{item}, אי אפשר להרכיב",
+               "ה{item} לא בסדר, יש בעיה בתפר כבר מהיום הראשון"],
+        "ar": ["{item} وصل مخزوق", "سحاب {item} انكسر من أول استعمال", "ناقص قطعة من {item}", "{item} فيه مشكلة من أول يوم"],
+        "ru": ["{item} пришёл с дефектом: порван шов", "После первого похода у {item} отклеилась подошва",
+               "В коробке с {item} не хватает детали",
+               "С {item} проблема с первого дня"],
+        "en": ["The {item} arrived damaged, there's a tear in it", "The zip on the {item} broke the first time I used it",
+               "A part is missing from the {item} box",
+               "Something's wrong with the {item} since day one"],
+        "am": ["{item} ተቀድዶ ደረሰ።"],
+    },
+    "product_question": {
+        "he": ["האם ה{item} מתאים לטיול חורף בחרמון?", "מה המשקל של ה{item}? לא כתוב באתר", "ה{item} עמיד במים?"],
+        "ar": ["هل {item} مناسب للشتاء؟", "قديش وزن {item}؟"],
+        "ru": ["Подходит ли {item} для зимнего похода?", "Какой вес у {item}? На сайте не указан."],
+        "en": ["Is the {item} OK for winter camping on the Hermon?", "What does the {item} weigh? It's not on the site.", "Is the {item} waterproof?"],
+    },
+    "order_change_cancel": {
+        "he": ["אפשר לשנות את כתובת המשלוח להזמנה {order}?", "רוצה לבטל את ההזמנה {order} לפני שהיא יוצאת"],
+        "ar": ["بقدر أغير عنوان التوصيل للطلب {order}؟", "بدي ألغي الطلب {order} قبل ما يطلع"],
+        "ru": ["Можно изменить адрес доставки для заказа {order}?", "Хочу отменить заказ {order}, пока его не отправили"],
+        "en": ["Can I change the delivery address for order {order}?", "Please cancel order {order} before it ships"],
+    },
+    "payment_invoice": {
+        "he": ["צריך חשבונית מס על שם החברה להזמנה {order}", "חויבתי פעמיים על אותה הזמנה {order}"],
+        "ar": ["بدي فاتورة ضريبية للطلب {order}"],
+        "ru": ["Нужна налоговая накладная на фирму по заказу {order}", "С карты списали дважды за заказ {order}"],
+        "en": ["I need a tax invoice for order {order} in my company's name", "I was charged twice for order {order}"],
+    },
+    "complaint_legal": {
+        "he": ["זו הפעם הרביעית שאני פונה בעניין ה{item}. אם לא אקבל את הכסף עד מחר אני פונה לרשות להגנת הצרכן ולעורך דין.",
+               "ביטלתי עסקה ולא החזרתם כסף. אני מבטל את החיוב דרך חברת האשראי. הזמנה {order}",
+               "נמאס לי. פעם חמישית שאני כותב על ה{item} ואף אחד לא עונה. אני מגיש תביעה קטנה."],
+        "ar": ["رابع مرة بحكي معكم عن {item}. إذا ما رجعتوا المصاري رح أتوجه لسلطة حماية المستهلك ولمحامي."],
+        "ru": ["Пишу в четвёртый раз насчёт {item}. Если деньги не вернут, обращусь в Управление по защите прав потребителей и к адвокату.",
+               "Пятый раз пишу про {item}, ответа нет. Подаю иск в суд мелких исков."],
+        "en": ["Fourth time writing about the {item}. If I don't get my money back I'm going to the Consumer Protection Authority and my lawyer.",
+               "I cancelled and you never refunded me, so I'm disputing the charge with my card company. Order {order}",
+               "Fifth message about the {item}, no answer. I'm filing a small claims case."],
+    },
+    "other": {
+        "he": ["תודה רבה, הכל הגיע 🙏", "מבצע הדפסה! כרטיסי ביקור ב-50% הנחה לעסקים"],
+        "ar": ["شكرا كتير، وصل كل اشي 👍"],
+        "ru": ["Спасибо, всё получили!"],
+        "en": ["Partnership proposal for your Instagram account", "Thanks, all good now!"],
+    },
+}
+
+# Extra sentences that carry facts only the text reveals ("cues").
+CUES = {
+    "opened": {"he": "פתחתי את האריזה אבל לא השתמשתי.", "ar": "فتحت الكرتونة بس ما استعملته.",
+               "ru": "Упаковку открыл, но не пользовался.", "en": "I opened the box but haven't used it.",
+               "am": "ሳጥኑን ከፈትኩ ግን አልተጠቀምኩበትም።"},
+    "unopened": {"he": "האריזה עדיין סגורה.", "ar": "الكرتونة لسا مسكرة.", "ru": "Упаковка не вскрыта.",
+                 "en": "It's still sealed.", "am": "ሳጥኑ አልተከፈተም።"},
+    "age": {"he": ["אני בת 71.", "אני פנסיונר בן 68.", "אני בן 74, קשה לי לנסוע לסניף דואר."],
+            "ar": ["عمري 70 سنة."], "ru": ["Мне 69 лет, я пенсионерка.", "Мне 72 года."],
+            "en": ["I'm 72.", "I'm a pensioner, 67."], "am": ["እድሜዬ 70 ነው።"]},
+    "immigrant": {"he": ["עלינו לארץ לפני שנה."], "ru": ["Мы репатрианты, приехали в прошлом году."],
+                  "en": ["We made aliyah last year."], "ar": ["وصلنا البلاد من سنة."], "am": ["ባለፈው ዓመት ወደ እስራኤል ገባን።"]},
+    "disability": {"he": ["יש לי תעודת נכה."], "ru": ["У меня инвалидность."], "en": ["I have a disability card."],
+                   "ar": ["معي بطاقة إعاقة."], "am": ["የአካል ጉዳት ካርድ አለኝ።"]},
+    # a defect said in passing, inside a return request: wording varies on purpose
+    "defect_hidden": {"he": ["בנוסף התפר בצד נפתח אחרי יום אחד.", "וגם יש בו כתם שלא יורד מהיום הראשון."],
+                      "ar": ["وكمان الخياطة انفتحت بعد يوم."], "ru": ["К тому же шов разошёлся на второй день."],
+                      "en": ["Also the seam came apart after one day."], "am": ["ስፌቱም ከአንድ ቀን በኋላ ተፈታ።"]},
+    "legal": {"he": ["אם צריך אפנה לרשות להגנת הצרכן.", "אחרת אגיש תביעה קטנה."],
+              "ar": ["إذا لازم بتوجه لسلطة حماية المستهلك.", "وإلا برفع دعوى."],
+              "ru": ["Если нужно, обращусь в Управление по защите прав потребителей.", "Иначе подам в суд."],
+              "en": ["If I have to, I'll contact the Consumer Protection Authority.", "Otherwise I'll take you to small claims."],
+              "am": ["ካስፈለገ ለሸማቾች ጥበቃ ባለሥልጣን አመለክታለሁ።"]},
+    "injury": {"he": "הכירה דלפה גז ונכוויתי ביד.", "ar": "الغاز تسرب وانحرقت إيدي.",
+               "ru": "Плита травила газ, я обжёг руку.", "en": "The stove leaked gas and I burned my hand.",
+               "am": "ጋዙ አፈሰሰና እጄን አቃጠለኝ።"},
+    "phone_order": {"he": "קניתי בטלפון עם נציגה שלכם.", "ar": "اشتريت بالتلفون مع موظفة عندكم.",
+                    "ru": "Покупала по телефону у вашей сотрудницы.", "en": "I bought it over the phone with one of your agents.",
+                    "am": "በስልክ ከሰራተኛችሁ ጋር ገዛሁ።"},
+}
+
+GREETINGS = {"he": ["", "שלום, ", "היי, ", "ערב טוב, "], "ar": ["", "مرحبا، ", "مسا الخير، "],
+             "ru": ["", "Здравствуйте! ", "Добрый день, "], "en": ["", "Hi, ", "Hello, "], "am": ["", "ሰላም፣ "]}
+SIGNOFFS = {"he": ["", " תודה", " [NAME]", " נשלח מה-iPhone שלי"], "ar": ["", " شكرا", " [NAME]"],
+            "ru": ["", " Спасибо", " [NAME]", " С уважением, [NAME]"], "en": ["", " Thanks", " Cheers, [NAME]"],
+            "am": ["", " አመሰግናለሁ"]}
+
+# ---------------------------------------------------------------------------------------------------
+# Today's agent replies, by coded decision and language (Amharic messages get Hebrew replies today).
+AGENT_REPLIES = {
+    "store_credit": {
+        "he": "שלום, בהתאם למדיניות ההחזרות באתר, מוצר שאריזתו נפתחה מזוכה בזיכוי לאתר בלבד, בניכוי 10% דמי טיפול ו-39 ₪ משלוח.",
+        "ar": "مرحبا، حسب سياسة الإرجاع بالموقع، المنتج المفتوح بيرجع كرصيد للموقع بس، بعد خصم 10% رسوم و39 شيكل شحن.",
+        "ru": "Здравствуйте! По правилам возврата на сайте вскрытый товар возвращается только кредитом магазина, минус 10% за обработку и 39 ₪ доставка.",
+        "en": "Hi, per our returns page, opened items are refunded as store credit only, minus a 10% handling fee and ₪39 shipping."},
+    "refund_minus_10pct": {
+        "he": "ניתן להחזיר תוך 14 יום. ההחזר יבוצע לאמצעי התשלום בניכוי 10% דמי טיפול ו-39 ₪ משלוח.",
+        "ar": "بتقدر ترجع خلال 14 يوم. المبلغ برجع على البطاقة بعد خصم 10% و39 شيكل شحن.",
+        "ru": "Вернуть можно в течение 14 дней. Деньги вернём на карту за вычетом 10% и 39 ₪ за доставку.",
+        "en": "You can return within 14 days. We'll refund your card minus a 10% handling fee and ₪39 shipping."},
+    "refund_legal_fee": {
+        "he": "ניתן לבטל תוך 14 יום מקבלת המוצר. נחזיר את הכסף לכרטיס בניכוי דמי ביטול של {fee} ₪ (5%, לא יותר מ-100 ₪).",
+        "ar": "بتقدر تلغي خلال 14 يوم من الاستلام. منرجع المبلغ على البطاقة بعد رسوم إلغاء {fee} شيكل (5%، مش أكثر من 100).",
+        "ru": "Отменить покупку можно в течение 14 дней с получения. Вернём деньги на карту за вычетом {fee} ₪ (5%, не больше 100 ₪).",
+        "en": "You can cancel within 14 days of delivery. We'll refund your card minus a ₪{fee} cancellation fee (5%, capped at ₪100)."},
+    "refund_no_fee": {
+        "he": "אין בעיה, נחזיר את מלוא הסכום לכרטיס. אפשר להחזיר דרך נקודת איסוף.",
+        "ar": "ولا يهمك، منرجع كامل المبلغ على البطاقة.",
+        "ru": "Без проблем, вернём полную сумму на карту.",
+        "en": "No problem, we'll refund the full amount to your card."},
+    "pickup_no_fee": {
+        "he": "מצטערים! נשלח שליח לאסוף את המוצר ונחזיר את מלוא הסכום.",
+        "ar": "منعتذر! رح نبعت مندوب ياخد المنتج ومنرجع كامل المبلغ.",
+        "ru": "Приносим извинения! Курьер заберёт товар, вернём полную сумму.",
+        "en": "Sorry about that! We'll send a courier to collect it and refund you in full."},
+    "customer_ships": {
+        "he": "מצטערים. נא לשלוח את המוצר למחסן במודיעין על חשבונך; לאחר בדיקה נחזיר את הכסף.",
+        "ar": "منعتذر. ابعت المنتج للمخزن بموديعين على حسابك، وبعد الفحص منرجع المبلغ.",
+        "ru": "Сожалеем. Отправьте товар на склад в Модиине за свой счёт; после проверки вернём деньги.",
+        "en": "Sorry. Please ship the item to our Modiin warehouse at your cost; we'll refund after inspection."},
+    "refuse_window": {
+        "he": "לצערנו עברו יותר מ-14 יום מקבלת המוצר ולא ניתן להחזיר.",
+        "ar": "للأسف مر أكثر من 14 يوم على الاستلام وما بنقدر نرجعه.",
+        "ru": "К сожалению, прошло больше 14 дней с получения, вернуть нельзя.",
+        "en": "Unfortunately it's been more than 14 days since delivery, so we can't accept the return."},
+    "goodwill_credit": {
+        "he": "באופן חריג נזכה אותך בזיכוי לאתר על מלוא הסכום.",
+        "ar": "استثنائيا منعطيك رصيد بالموقع بكامل المبلغ.",
+        "ru": "В виде исключения начислим полную сумму кредитом магазина.",
+        "en": "As a one-off we'll give you store credit for the full amount."},
+    "exchange_ok": {
+        "he": "בשמחה, נשלח מידה אחרת ושליח יאסוף את הקיים.",
+        "ar": "أكيد، منبعتلك مقاس تاني والمندوب بياخد القديم.",
+        "ru": "Конечно, отправим другой размер, курьер заберёт этот.",
+        "en": "Sure, we'll send another size and collect the current one."},
+    "status_generic": {
+        "he": "ההחזר יבוצע תוך 14 ימי עסקים מקבלת המוצר במחסן.",
+        "ar": "المبلغ برجع خلال 14 يوم عمل من وصول المنتج للمخزن.",
+        "ru": "Возврат будет проведён в течение 14 рабочих дней после поступления товара на склад.",
+        "en": "Refunds are processed within 14 business days of the item reaching our warehouse."},
+    "escalated": {
+        "he": "פנייתך הועברה למנהלת המשמרת, נחזור אלייך היום.",
+        "ar": "حولنا طلبك لمسؤولة الوردية، منرجعلك اليوم.",
+        "ru": "Ваше обращение передано старшему смены, ответим сегодня.",
+        "en": "I've passed this to my shift lead; we'll get back to you today."},
+    "n/a": {
+        "he": "תודה על הפנייה, בדקתי את ההזמנה ועדכנתי.",
+        "ar": "شكرا على تواصلك، فحصت الطلب وحدثته.",
+        "ru": "Спасибо за обращение, я проверила заказ и обновила данные.",
+        "en": "Thanks for getting in touch, I've checked the order and updated it."},
+}
+
+# ---------------------------------------------------------------------------------------------------
+# Chatbot (Verbalo) replies. The bot answers in the site language (Hebrew or English) only.
+BOT_REPLIES = {
+    "returns_page": {"he": "ניתן להחזיר מוצרים באריזה מקורית סגורה תוך 14 יום. ההחזר יינתן כזיכוי לאתר בניכוי 10% דמי טיפול.",
+                     "en": "Items can be returned unopened within 14 days. Refunds are issued as store credit minus a 10% handling fee."},
+    "club_30": {"he": "אצלנו מחזירים בלי שאלות תוך 30 יום ומקבלים החזר כספי מלא! 😊",
+                "en": "No-questions-asked returns within 30 days with a full cash refund! 😊"},
+    "terms": {"he": "ניתן לבטל עסקה תוך 14 יום מקבלת המוצר; דמי ביטול 5% או 100 ₪, הנמוך מביניהם.",
+              "en": "You can cancel within 14 days of delivery; the cancellation fee is 5% or ₪100, whichever is lower."},
+    "order_status": {"he": "ההזמנה שלך יצאה מהמחסן ותגיע תוך 1–3 ימי עסקים. מספר מעקב נשלח ב-SMS.",
+                     "en": "Your order has left our warehouse and will arrive within 1-3 business days. Tracking was sent by SMS."},
+    "refund_status": {"he": "החזרים מתבצעים תוך 14 ימי עסקים מקבלת המוצר במחסן.",
+                      "en": "Refunds are processed within 14 business days of the item reaching our warehouse."},
+    "product_info": {"he": "מומלץ לבדוק את מפרט המוצר בעמוד המוצר באתר.",
+                     "en": "Please check the specifications on the product page."},
+    "fallback": {"he": "סליחה, לא הבנתי 🙂 אפשר לנסח שוב?", "en": "Sorry, I didn't get that 🙂 Could you rephrase?"},
+    "handover": {"he": "מעביר אותך לנציג/ה אנושי/ת, זמן המתנה משוער: {wait} דקות.",
+                 "en": "Connecting you to an agent. Estimated wait: {wait} minutes."},
+}
+
+# Short first messages for bot sessions (subset of MESSAGES, shortened)
+BOT_FIRST = {
+    "order_status": {"he": ["איפה ההזמנה שלי", "מתי מגיע המשלוח?", "סטטוס הזמנה {order}"],
+                     "en": ["where is my order", "tracking {order}"], "ar": ["وين طلبيتي", "متى بوصل الطلب؟"],
+                     "ru": ["где мой заказ", "когда доставка?"]},
+    "returns_policy": {"he": ["אפשר להחזיר אם פתחתי?", "מדיניות החזרות", "רוצה להחזיר ולקבל כסף"],
+                       "en": ["return policy", "can I get a refund if I opened it?"], "ar": ["بدي أرجع منتج", "بقدر أرجع إذا فتحته؟"],
+                       "ru": ["хочу вернуть товар", "можно вернуть вскрытый товар?"]},
+    "refund_status": {"he": ["מתי יחזור הכסף?", "איפה ההחזר שלי"], "en": ["where is my refund"], "ar": ["وين المصاري تبعي"],
+                      "ru": ["где мой возврат денег"]},
+    "product_info": {"he": ["מה המשקל של האוהל?", "יש מידה 46?"], "en": ["is this tent waterproof?"], "ar": ["في مقاس 44؟"],
+                     "ru": ["есть размер 44?"]},
+    "other": {"he": ["נציג", "דבר עם נציג"], "en": ["agent", "human please"], "ar": ["بدي موظف"], "ru": ["оператор"]},
+}

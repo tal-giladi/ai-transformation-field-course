@@ -1,0 +1,13 @@
+ticket_id,intent,decision,fee_ils,escalate,cues,reply_language,draft,tokens_in,tokens_out,provider,model,prompt_version,run_at
+N-01,other,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+N-02,return_policy_question,outside_window,0.00,n,,he,"שלום, תקופת הביטול לפריט זה הסתיימה. נשמח להציע החלפה או לבדוק פתרון אחר; נציג יחזור אלייך.",0,0,none,rules,rules-1.0,deterministic
+N-03,other,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+N-04,return_request,outside_window,0.00,n,age,he,"שלום, תקופת הביטול לפריט זה הסתיימה. נשמח להציע החלפה או לבדוק פתרון אחר; נציג יחזור אלייך.",0,0,none,rules,rules-1.0,deterministic
+N-05,product_question,n/a,0.00,n,age,he,,0,0,none,rules,rules-1.0,deterministic
+N-06,other,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+N-07,return_request,refund_minus_fee,11.45,y,injury,ar,مرحبا، بتقدر تلغي الشراء. منرجع 217.55 ₪ لوسيلة الدفع (السعر 229 ₪ ناقص رسوم إلغاء 11.45 ₪) خلال 14 يوم من إشعار الإلغاء.,0,0,none,rules,rules-1.0,deterministic
+N-08,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+N-09,fee_dispute,refund_minus_fee,27.45,n,,ru,Здравствуйте! Покупку можно отменить. Вернём 521.55 ₪ на средство оплаты (цена 549 ₪ минус плата за отмену 27.45 ₪) в течение 14 дней с уведомления.,0,0,none,rules,rules-1.0,deterministic
+N-10,other,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+N-11,return_request,refund_minus_fee,14.45,y,,he,"שלום, אפשר לבטל את הרכישה. נחזיר 274.55 ₪ לאמצעי התשלום (מחיר 289 ₪ פחות דמי ביטול 14.45 ₪) תוך 14 יום מקבלת ההודעה. את המוצר מחזירים בנקודת איסוף; פרטים בקישור.",0,0,none,rules,rules-1.0,deterministic
+N-12,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic

@@ -1,0 +1,10 @@
+macro_id,title,language,text,last_edited,edited_by,uses_last_90_days
+MAC-031,Returns: general (HE),he,ניתן להחזיר מוצרים באריזה סגורה תוך 14 יום. ההחזר בזיכוי לאתר בניכוי 10% ו-39 ₪ משלוח.,2025-01-15,Lior Ben-Ami,2140
+MAC-032,Returns: general (EN),en,"Items can be returned unopened within 14 days for store credit, minus 10% and ₪39 shipping.",2025-01-15,Lior Ben-Ami,310
+MAC-047,Cancellation by law (HE),he,"ניתן לבטל תוך 14 יום מקבלת המוצר. ההחזר לאמצעי התשלום בניכוי 5% או 100 ₪, הנמוך מביניהם.",2023-03-05,Meseret Tadesse,1210
+MAC-048,Trail Club 30 days (HE),he,כחבר/ת מועדון ניתן להחזיר תוך 30 יום ולקבל החזר מלא.,2024-05-02,Lior Ben-Ami,640
+MAC-052,Returns: Arabic,ar,بتقدر ترجع المنتج خلال 14 يوم، والمبلغ برجع كرصيد بالموقع.,2025-02-10,Nadia Khoury,420
+MAC-053,Returns: Russian,ru,"Вернуть товар можно в течение 14 дней. Деньги вернём на карту за вычетом 5%, но не больше 100 ₪.",2023-06-18,Irina Gold,380
+MAC-060,Refund status (HE),he,ההחזר יבוצע תוך 14 ימי עסקים מקבלת המוצר במחסן.,2024-11-25,Meseret Tadesse,3050
+MAC-061,Defect: send to warehouse (HE),he,נא לשלוח את המוצר למחסן במודיעין; לאחר בדיקת איכות נחזיר את הכסף.,2024-11-25,Meseret Tadesse,520
+MAC-070,WISMO (HE),he,"ההזמנה יצאה מהמחסן, מספר מעקב נשלח ב-SMS.",2025-08-01,Meseret Tadesse,4900

@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    The head of customer service tells you, after you promised not to attribute it, that she asked BI
+    to drop after-contact work from AHT the day before the bot launched. How does it appear in your
+    findings memo?
+  options:
+    - >-
+      As her admission, quoted, so the steering group knows who changed it.
+    - >-
+      As a 14 June definition change, evidenced by the two reports' footnotes.
+    - >-
+      Not at all, because a promise of non-attribution means the fact cannot be used.
+    - >-
+      As a rumour from the floor, so that nobody can be held responsible for it.
+  correct: 1
+  explanation: >-
+    Non-attribution protects the person, not the fact: the footnotes and BI's change log let you state
+    it as a measured system finding without naming anyone. Quoting her breaks the promise; dropping it
+    loses the key finding; calling it a rumour understates what the documents prove.
+
+- id: q2
+  question: >-
+    You want a repeat-contact baseline. Neither KPI report has one. What do you do first?
+  options:
+    - >-
+      Ask the vendor for its repeat-chat figure, since it measures chats.
+    - >-
+      Use the share of helpdesk tickets tagged "2nd_contact" as the rate.
+    - >-
+      Write the definition: customer, order, channel, time window, blanks.
+    - >-
+      Start with the Q3 data, because that is the period the board is asking about.
+  correct: 2
+  explanation: >-
+    Without a written definition any number is arguable, and the pre-June weeks are the only baseline,
+    so the rule must be fixed before you look. Agents rarely use the tag, and the vendor only sees its
+    own chats, not the phone or WhatsApp contacts that follow.
+
+- id: q3
+  question: >-
+    Of 170 logged-in chats the vendor counts as resolved, 110 were followed by an agent contact within
+    a week. How do you report it?
+  options:
+    - >-
+      64.1% followed by an agent contact within 7 days, logged-in customers only, some possibly unrelated.
+    - >-
+      The bot fails 64% of the time, so containment should be restated as 36% in the next report.
+    - >-
+      Nothing yet, because logged-out customers might behave differently and the test is incomplete.
+    - >-
+      Containment of 63% is confirmed, since the follow-up contacts may be about other matters.
+  correct: 0
+  explanation: >-
+    State the measured number with its limits. "Fails 64%" over-reads it (some follow-ups are about
+    something else); withholding it wastes the strongest test you have; and calling the vendor's figure
+    confirmed ignores what the join shows.
+
+- id: q4
+  question: >-
+    Your data shows 252 of 380 non-defect refunds carried a 10% handling fee, while Northwind's own
+    terms of sale say 5% or ₪100, whichever is lower. How do you write it?
+  options:
+    - >-
+      "Northwind charges illegal fees on two thirds of returns", with the section of the law.
+    - >-
+      Leave it out of the memo, since legal matters are outside the engagement's scope.
+    - >-
+      Give it only to the CFO, because fees are a finance matter and the room is too big.
+    - >-
+      "Conflicts with section 9 of the terms of sale", measured, and routed to counsel by name.
+  correct: 3
+  explanation: >-
+    The conflict with Northwind's own terms is a measured fact you can stand behind; whether it breaches
+    the law is counsel's call. Calling it illegal makes the memo easy to dismiss, and hiding it or
+    narrowing its audience leaves the steering group deciding without a material fact.
+
+- id: q5
+  question: >-
+    The customer you interview describes four contacts and three different answers. She asks you,
+    at the end, whether she will get her money back. What do you say?
+  options:
+    - >-
+      "Yes, under the law you are entitled to it, and I will make sure it happens."
+    - >-
+      "I can't decide that. Orly's office will contact you, and I won't promise an outcome."
+    - >-
+      "Probably, because your case is clearly within the club's 30-day window."
+    - >-
+      "That depends on your complaint to the Authority, so let's talk about that first."
+  correct: 1
+  explanation: >-
+    You have no authority over her refund and the complaint is off limits by agreement with counsel.
+    Telling her plainly what happens next, and who will contact her, respects her without making a
+    promise or a legal statement you are not entitled to make.

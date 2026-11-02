@@ -1,0 +1,189 @@
+- id: q1
+  question: >-
+    A COO hires you as an outside consultant. In the first meeting she says, "Tell us the truth, but
+    I can't be the one who says it." Which line in the charter matters most for that?
+  options:
+    - >-
+      A clause that findings are confidential to the COO until she decides to share them.
+    - >-
+      A private session with the CEO before every steering meeting, so no finding reaches him in a room.
+    - >-
+      A fee structure that pays the full amount up front, so findings cannot affect payment.
+    - >-
+      A scope limited to customer service, so findings about other departments stay out.
+  correct: 1
+  explanation: >-
+    She needs the finding delivered without her being the messenger and without the CEO being ambushed.
+    Private previews with the CEO make the independence usable. Keeping findings with the sponsor or
+    narrowing scope protects nobody, and payment terms do not change how a finding lands.
+
+- id: q2
+  question: >-
+    The board was told handling time fell 30% after the chatbot launch. You find the AHT definition
+    changed the day before launch. What is the right next step?
+  options:
+    - >-
+      Recompute both periods one way from the export; show both definitions.
+    - >-
+      Report to the steering group that the 30% was false and the board misled.
+    - >-
+      Accept the figure, since BI calculated each quarter correctly by its definition.
+    - >-
+      Ask the vendor to confirm how much of the reduction its chatbot caused.
+  correct: 0
+  explanation: >-
+    Recomputing like for like turns a suspicion into a measured finding (here, handling time rose) and
+    shows the two definitions plainly. "Misled" assigns intent you cannot prove; accepting the figure
+    repeats an invalid comparison; the vendor cannot see agent handling time.
+
+- id: q3
+  question: >-
+    The vendor reports 63% containment. You can join logged-in chatbot sessions to helpdesk contacts.
+    What is the strongest test of the claim?
+  options:
+    - >-
+      Compare the vendor's CSAT on resolved chats with the helpdesk's CSAT.
+    - >-
+      Count the chats where the customer typed "thank you" before closing the window.
+    - >-
+      Ask the vendor for its own recontact statistics across its customer base.
+    - >-
+      "Resolved" chats followed by an agent contact within 7 days.
+  correct: 3
+  explanation: >-
+    What the customer did next is the outcome containment claims to measure. Thumbs-based CSAT and
+    "thank you" are self-selected signals, and the vendor's base cannot see Northwind's phone or
+    WhatsApp contacts.
+
+- id: q4
+  question: >-
+    Fixing Northwind's returns policy would avoid about 6,800 agent contacts a month and give up
+    several million shekels a year in fees and credit-note breakage. How do you present it?
+  options:
+    - >-
+      As a compliance decision with a cost, the lost income on the front page.
+    - >-
+      As an AI saving, since the agent-assist pilot depends on it being done first.
+    - >-
+      As a cost-neutral change, because the freed capacity offsets the lost income.
+    - >-
+      As a legal obligation, so that finance has no say in how it is carried out.
+  correct: 0
+  explanation: >-
+    The freed hours are capacity, not cash, so they do not offset lost income, and calling it an AI
+    saving misattributes it. Some lines are law (counsel's call) and some are business choices with a
+    cost (finance's call); stating both openly is what survives the steering group.
+
+- id: q5
+  question: >-
+    Which contact type should Northwind's chatbot keep answering alone, with a hand-over?
+  options:
+    - >-
+      "Can I return this and get my money back?", because it is the highest volume.
+    - >-
+      Complaints that mention the Consumer Protection Authority, because speed calms customers.
+    - >-
+      "Where is my order?", answered from the order system, because a wrong answer is cheap to fix.
+    - >-
+      "Why was I charged 10%?", because the bot can quote the returns page exactly.
+  correct: 2
+  explanation: >-
+    Order status comes from a system of record and a mistake costs a repeat question. Returns and fee
+    questions are statements about cancellation rights drawn from four contradicting texts, and legal
+    threats need a person the same day.
+
+- id: q6
+  question: >-
+    A director cites Moffatt v. Air Canada and asks whether Northwind is now liable for every chatbot
+    answer. What is the accurate reply?
+  options:
+    - >-
+      Yes: since 2024, courts treat chatbots as the company's binding offers.
+    - >-
+      No: it is a Canadian small-claims decision with no bearing on Israeli businesses.
+    - >-
+      Only if the chatbot's answer was given in writing rather than in a voice channel.
+    - >-
+      It binds no Israeli court; whether the bot is the company is counsel's question.
+  correct: 3
+  explanation: >-
+    The tribunal rejected the "separate entity" argument and held the airline liable for negligent
+    misrepresentation, but it is not precedent in Israel. Its reasoning is the question any court will
+    ask, and applying it to Northwind is counsel's job, not the consultant's.
+
+- id: q7
+  question: >-
+    Rules alone get 79.6% of returns decisions right; almost all misses are messages the keywords did
+    not recognise. The LLM alone gets fees wrong on 15% of tickets. Which design do you test next?
+  options:
+    - >-
+      The LLM alone with more fee examples in the prompt, since it reads best.
+    - >-
+      The model reads and writes the draft; rules decide refund and fee.
+    - >-
+      Rules alone with a much longer keyword list, since rules are cheaper to run.
+    - >-
+      Two different LLMs voting on each decision, to reduce the fee errors.
+  correct: 1
+  explanation: >-
+    Each design fails at the other's strength: rules at reading paraphrases, the model at arithmetic and
+    eligibility. Splitting the work by what each does reliably is the hybrid design. Longer keyword lists
+    and model voting chase the symptoms.
+
+- id: q8
+  question: >-
+    Before scoring the pilot you set G1: decision right on at least 92% of returns tickets and at least
+    88% in every language. Russian comes in at 86%, everything else above 95%. Overall: 95.1%. What
+    do you report?
+  options:
+    - >-
+      G1 not met for Russian; Russian stays out of shadow mode until re-tested.
+    - >-
+      G1 met, since the overall figure of 95.1% is well above the 92% line.
+    - >-
+      G1 met with a note, since Russian is only a small share of the tickets.
+    - >-
+      G1 changed to 85% per language, since 88% proved too strict in practice.
+  correct: 0
+  explanation: >-
+    The per-language floor is non-compensable: it exists so a strong average cannot hide a failing
+    language. Changing the threshold after the result defeats it. The honest call is a staged go
+    without the failing segment, with a re-test.
+
+- id: q9
+  question: >-
+    The steering group approves agent-assist and says the policy rewrite will "follow after the sale".
+    Six months later, which outcome is most likely if the record stays as worded?
+  options:
+    - >-
+      Drafts repeat old policies, repeats don't fall, and the pilot is blamed.
+    - >-
+      The pilot succeeds, because agents correct each draft to the right policy.
+    - >-
+      Counsel blocks the pilot, because drafts cannot go live before the new policy.
+    - >-
+      The vendor's chatbot takes over returns, because the pilot has no budget.
+  correct: 0
+  explanation: >-
+    Agents accept drafts that say what they would have said anyway, so acceptance flatters a pilot that
+    changes nothing for customers. Without an owner and a date for the policy, the dependency named in
+    the readout simply never happens.
+
+- id: q10
+  question: >-
+    You must tell the CEO that his board slide's 30% compares two different measures and that the
+    team was cut before the bot was tested. When and how?
+  options:
+    - >-
+      In the steering meeting, so the other executives can see the evidence at the same time.
+    - >-
+      In writing only, in the pre-read, so that the facts can speak for themselves.
+    - >-
+      Privately first, from the fund's own question to a sentence for the board.
+    - >-
+      Through the COO, since she hired you and knows best how to handle him.
+  correct: 2
+  explanation: >-
+    A CEO who meets a finding about his own slide in a room defends it. Starting from the question his
+    investors asked turns the finding into the answer he needs, and the board sentence gives him a way
+    forward. A pre-read alone or a relay through the sponsor loses both.

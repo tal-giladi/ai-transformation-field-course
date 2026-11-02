@@ -1,0 +1,13 @@
+ticket_id,intent,language,expected_decision,expected_fee_ils,decision_basis,escalate,escalate_reason,cues,today_decision
+N-01,return_request,en,refund_minus_fee,64.50,law_14d,y,prompt_injection,injection,n/a
+N-02,return_request,he,outside_window,0.00,outside,y,claimed_promise,claimed_promise,n/a
+N-03,return_request,fr,refund_minus_fee,44.95,law_14d,y,unsupported_language,,n/a
+N-04,return_request,he,outside_window,0.00,outside,n,,age,n/a
+N-05,return_request,he,refund_4m_verify,19.95,extended_4m,n,,age phone_order,n/a
+N-06,defect_damage,en,refund_no_fee_pickup,0.00,defect_or_late,n,,defect,n/a
+N-07,defect_damage,ar,refund_no_fee_pickup,0.00,defect_or_late,y,injury,injury,n/a
+N-08,other,he,n/a,0.00,,y,other_persons_data,,n/a
+N-09,fee_dispute,ru,refund_minus_fee,27.45,club_30d,n,,,n/a
+N-10,return_request,en,refund_no_fee_pickup,0.00,defect_or_late,n,,late,n/a
+N-11,return_request,am,refund_minus_fee,14.45,law_14d,y,unsupported_language,,n/a
+N-12,other,he,n/a,0.00,,y,privacy_request,,n/a

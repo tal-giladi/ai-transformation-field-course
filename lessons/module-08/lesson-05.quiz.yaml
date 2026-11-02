@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    Your first hybrid run scores 95.8% on returns decisions. The sponsor suggests setting the go
+    threshold at 95% "since that's what we can do". What is wrong with that?
+  options:
+    - >-
+      Nothing, as long as the threshold is written into the charter before shadow mode.
+    - >-
+      The threshold should be set by the model vendor, who knows what is achievable.
+    - >-
+      A threshold set after the result measures the result, not the need.
+    - >-
+      95% is too low for any customer-facing system and should be at least 99%.
+  correct: 2
+  explanation: >-
+    A threshold chosen to fit a result cannot fail, so it tells the steering group nothing. Thresholds
+    come from what a wrong refund costs and from today's and the rules' baselines, dated before the run;
+    the exact level is a judgement, but its timing is not.
+
+- id: q2
+  question: >-
+    The rules-only baseline gets 79.6% of returns decisions right, and almost every miss is a ticket the
+    keywords did not recognise. What does that tell you about the design?
+  options:
+    - >-
+      Rules decide well once they know what the message is; the model's job is reading, not deciding.
+    - >-
+      Rules are not good enough, so the model should take over both reading and deciding.
+    - >-
+      More keywords would close the gap, so no model is needed for this pilot.
+    - >-
+      The labels must be wrong, since the rules follow the same policy as the labellers.
+  correct: 0
+  explanation: >-
+    The confusion table shows the rules almost never pick the wrong decision for a ticket they read;
+    they fail on paraphrases. That is the case for the hybrid: the model reads the message in four
+    languages, the rules apply the policy and the fee. More keywords chase an endless tail of phrasings.
+
+- id: q3
+  question: >-
+    The LLM-decides design writes excellent drafts but gets the fee right on only 85% of tickets where
+    one is due. What do you do?
+  options:
+    - >-
+      Add worked fee examples to the prompt until the fee accuracy passes the threshold.
+    - >-
+      Accept it, since agents check every draft before it is sent anyway.
+    - >-
+      Drop the fee from the draft so the agent always works it out by hand.
+    - >-
+      Compute the fee with a rule and have the model write the draft around it.
+  correct: 3
+  explanation: >-
+    Arithmetic and eligibility rules are what deterministic code does reliably; a better prompt narrows
+    the error but never closes it, and leaning on the reviewer to catch money errors is how review
+    stops being a check. Dropping the fee throws away the part that saves agents the most time.
+
+- id: q4
+  question: >-
+    Raters accepted 81% of drafts at a median of 1.1 minutes each. In the time model, at 2.0 review
+    minutes the pilot loses money. What do you write in the report?
+  options:
+    - >-
+      Review takes 1.1 minutes, so the pilot pays back in eight months as modelled.
+    - >-
+      1.1 minutes is rating time at a desk, directional only; G7 is measured by a timer in shadow mode.
+    - >-
+      Review time cannot be known before go-live, so the time model is left out of the report.
+    - >-
+      Review will be under 2 minutes because agents will get faster with practice.
+  correct: 1
+  explanation: >-
+    A rater at a desk reading one draft is not an agent reviewing between calls at peak, so the offline
+    figure is a direction, not a measurement. Labelling it and naming how production will measure it
+    keeps the model honest without discarding it or promising a learning curve nobody measured.
+
+- id: q5
+  question: >-
+    On 28 January policy v2 is still waiting for the CFO's signature. The pilot meets every offline
+    threshold. What does your charter say happens on 1 February?
+  options:
+    - >-
+      The pilot goes live, since the offline evidence is strong and the policy will follow soon.
+    - >-
+      The pilot goes live in shadow mode only, with drafts based on the current returns page.
+    - >-
+      The pilot does not go live; its stop rule makes publication of v2 a condition.
+    - >-
+      The pilot goes live for exchanges and order status only, which do not depend on the policy.
+  correct: 2
+  explanation: >-
+    Drafts that follow a policy customers, agents and the website do not yet use create a fifth answer.
+    The stop rule exists so the dependency cannot be waved through; a narrower start might be argued
+    later, but only as a written change agreed by the steering group, not on the day.

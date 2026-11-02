@@ -1,0 +1,11 @@
+- **Stated ask** — What the person who commissioned the work said they want (here, "a chatbot that replaces half of support by Q2"), recorded in the charter as the claim the engagement tests rather than as its objective (lesson 08.1).
+- **Exit point** — A date in a consulting statement of work where either side may stop, with a deliverable and a decider named, said out loud in the first meeting so it can actually be used (lesson 08.1).
+- **Repeat contact** — An agent contact from a customer who contacted the organization about the same order within the previous 7 days on any channel, with order numbers normalised and blanks counted as the same order (lesson 08.2).
+- **Like-for-like AHT** — Average handling time computed the same way in both periods compared (here, handling plus after-contact work), so a definition change cannot pass as an efficiency gain (lesson 08.2).
+- **Containment** — A chatbot vendor's share of conversations that ended without a hand-over to a person; not the same as resolution until tested against what customers did next (lesson 08.2).
+- **Billed resolution** — The unit a per-outcome AI vendor charges for, defined in its contract; compare prices only after reading what each vendor counts (lesson 08.4).
+- **Cost per truly resolved chat** — A chatbot's bill divided by the conversations not followed by an agent contact within a set window, the figure to compare with an agent's cost per contact (lesson 08.3).
+- **Breakage** — The value of store credit that customers never redeem, booked as income; a hidden reason a business may prefer credit notes to refunds (lesson 08.3).
+- **Agent-assist** — AI that drafts a reply or a decision for a staff member who checks, edits and sends it, as opposed to a bot that answers customers alone (lesson 08.4).
+- **Hybrid design (rules decide, the model reads and writes)** — A pilot design in which an LLM reads the message and drafts the reply while deterministic rules compute eligibility, amounts and windows from the order data (lesson 08.5).
+- **Recommend-against** — A recommendation not to do something the sponsor or the CEO wants, placed on the front page of the readout with its evidence (lesson 08.6).

@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    The CEO asks "bot or not?". Your data shows the bot does order status reasonably and contradicts
+    Northwind's own terms on returns. What shape should your answer take?
+  options:
+    - >-
+      Not at all for now, until every customer question can be answered without errors.
+    - >-
+      Yes everywhere, with a disclaimer under each answer that policies may change.
+    - >-
+      Per contact type: bot for order status, agent with a draft for returns, a person for complaints.
+    - >-
+      Yes for returns, since that is the biggest volume and the largest saving.
+  correct: 2
+  explanation: >-
+    Deciding per contact type, by the cost of a wrong answer and who could catch it, keeps the bot where
+    it works and takes it out where it makes statements about cancellation rights. A blanket yes or no
+    ignores the evidence on one side or the other, and a disclaimer does not change who is speaking.
+
+- id: q2
+  question: >-
+    A director asks whether Moffatt v. Air Canada means Northwind will lose in an Israeli court if its
+    bot gives a wrong refund answer. What do you say?
+  options:
+    - >-
+      Yes: the tribunal ruled that companies are always liable for anything their bots say.
+    - >-
+      It binds no Israeli court, but asks what counsel will: is the bot the company?
+    - >-
+      No: it was a Canadian small-claims tribunal, so it has no relevance to Northwind.
+    - >-
+      Only if Northwind's bot was built by the same vendor as the airline's own bot.
+  correct: 1
+  explanation: >-
+    A small-claims decision in British Columbia is not precedent in Israel, but its reasoning is the
+    obvious line any court or regulator will take. Overstating it ("always liable") or dismissing it are
+    both wrong; the legal assessment for Northwind is counsel's.
+
+- id: q3
+  question: >-
+    You could improve the bot's prompt so it picks the terms-of-sale answer more often. Why is that not
+    the fix you recommend first?
+  options:
+    - >-
+      Because the four contradicting texts stay in force for agents and the bot.
+    - >-
+      Because any prompt change needs the vendor's written approval under the contract.
+    - >-
+      Because counsel has forbidden any change to the bot until the demand letter is settled.
+    - >-
+      Because prompts cannot change which document a retrieval system uses.
+  correct: 0
+  explanation: >-
+    A better prompt makes one of four policies more likely; the returns page, club terms, SOP and macros
+    still say something else, so customers keep getting different answers from different channels. One
+    policy, then the tools.
+
+- id: q4
+  question: >-
+    Your policy outline says "store credit only if the customer asks". The CFO says that costs part of
+    about ₪2.6M a year in breakage. How should the outline treat it?
+  options:
+    - >-
+      As a legal requirement, so that finance cannot reopen the question later.
+    - >-
+      Drop it, since keeping the CFO on side matters more than one clause of the policy.
+    - >-
+      Leave it entirely for counsel to decide, since it concerns refunds to consumers.
+    - >-
+      As a business choice marked for the CFO and COO, with its cost on the page.
+  correct: 3
+  explanation: >-
+    Some lines of the policy are counsel's (what the law requires); others are business choices with a
+    cost and an owner. Marking which is which lets each owner decide what is theirs, without the
+    consultant dressing a business choice up as law or dropping it to avoid a hard conversation.
+
+- id: q5
+  question: >-
+    Verbalo bills US$0.85 per resolution; another vendor lists US$0.99 per outcome. The CEO says
+    Verbalo is cheaper. What do you check first?
+  options:
+    - >-
+      Which vendor has more customers in Israel, since references matter more than price.
+    - >-
+      What each one counts as the billed unit, and how often those come back.
+    - >-
+      The exchange rate on the day of the comparison, since both prices are in US dollars.
+    - >-
+      Whether either vendor offers a discount for a 24-month commitment.
+  correct: 1
+  explanation: >-
+    Per-outcome prices are only comparable once you know what is counted. Verbalo counts any chat
+    without a hand-over, and 64% of Northwind's come back within a week; the real price is per truly
+    resolved conversation.

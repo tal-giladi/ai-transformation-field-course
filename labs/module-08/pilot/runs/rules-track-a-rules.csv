@@ -1,0 +1,201 @@
+ticket_id,intent,decision,fee_ils,escalate,cues,reply_language,draft,tokens_in,tokens_out,provider,model,prompt_version,run_at
+T-33645,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-45613,other,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-39676,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-73355,return_policy_question,outside_window,0.00,n,,ar,مرحبا، مدة الإلغاء لهاد المنتج خلصت. منقدر نقترح تبديل أو حل تاني، موظف رح يرجعلك.,0,0,none,rules,rules-1.0,deterministic
+T-72751,return_request,outside_window,0.00,n,,ar,مرحبا، مدة الإلغاء لهاد المنتج خلصت. منقدر نقترح تبديل أو حل تاني، موظف رح يرجعلك.,0,0,none,rules,rules-1.0,deterministic
+T-50049,defect_damage,refund_no_fee_pickup,0.00,n,defect,ar,مرحبا، منعتذر! رح نبعت مندوب ياخد المنتج من عنوانك ومنرجع كامل المبلغ 229 ₪ بدون رسوم.,0,0,none,rules,rules-1.0,deterministic
+T-65784,other,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-10938,return_request,refund_minus_fee,100.00,n,,he,"שלום, אפשר לבטל את הרכישה. נחזיר 2190 ₪ לאמצעי התשלום (מחיר 2290 ₪ פחות דמי ביטול 100 ₪) תוך 14 יום מקבלת ההודעה. את המוצר מחזירים בנקודת איסוף; פרטים בקישור.",0,0,none,rules,rules-1.0,deterministic
+T-90656,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-73197,defect_damage,refund_no_fee_pickup,0.00,n,defect,he,"שלום, מצטערים! נשלח שליח לאסוף את המוצר מהכתובת שלך ונחזיר את מלוא הסכום, 349 ₪, ללא דמי ביטול.",0,0,none,rules,rules-1.0,deterministic
+T-11335,product_question,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-47912,fee_dispute,refund_minus_fee,39.95,n,age,he,"שלום, אפשר לבטל את הרכישה. נחזיר 759.05 ₪ לאמצעי התשלום (מחיר 799 ₪ פחות דמי ביטול 39.95 ₪) תוך 14 יום מקבלת ההודעה. את המוצר מחזירים בנקודת איסוף; פרטים בקישור.",0,0,none,rules,rules-1.0,deterministic
+T-32565,return_request,refund_minus_fee,100.00,n,,he,"שלום, אפשר לבטל את הרכישה. נחזיר 2190 ₪ לאמצעי התשלום (מחיר 2290 ₪ פחות דמי ביטול 100 ₪) תוך 14 יום מקבלת ההודעה. את המוצר מחזירים בנקודת איסוף; פרטים בקישור.",0,0,none,rules,rules-1.0,deterministic
+T-19319,exchange,exchange_free,0.00,n,,he,"שלום, בשמחה! נשלח את המידה החדשה ושליח יאסוף את הקיים, ללא עלות.",0,0,none,rules,rules-1.0,deterministic
+T-29706,order_change_cancel,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-51784,other,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-63335,order_change_cancel,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-14962,other,n/a,0.00,n,age,he,,0,0,none,rules,rules-1.0,deterministic
+T-13363,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-10830,fee_dispute,refund_no_fee_pickup,0.00,n,,he,"שלום, מצטערים! נשלח שליח לאסוף את המוצר מהכתובת שלך ונחזיר את מלוא הסכום, 289 ₪, ללא דמי ביטול.",0,0,none,rules,rules-1.0,deterministic
+T-98015,refund_status,status_update,0.00,n,,ar,مرحبا، فحصت الإرجاع للطلب NW-4310091: الحالة requested. [CHECK: موعد الإرجاع المتوقع],0,0,none,rules,rules-1.0,deterministic
+T-76362,order_change_cancel,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-46067,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-40505,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-86176,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-78971,refund_status,status_update,0.00,n,,ru,Здравствуйте! Проверила возврат по заказу NW-4312592: статус inspected. [CHECK: ожидаемая дата возврата],0,0,none,rules,rules-1.0,deterministic
+T-61617,payment_invoice,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-78433,payment_invoice,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-24214,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-83078,other,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-64923,refund_status,status_update,0.00,n,,he,"שלום, בדקתי את ההחזר על הזמנה NW-4327459: סטטוס received. [CHECK: תאריך ההחזר הצפוי לפי ה-OMS]",0,0,none,rules,rules-1.0,deterministic
+T-90509,payment_invoice,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-57930,defect_damage,refund_no_fee_pickup,0.00,y,defect injury,ar,مرحبا، منعتذر! رح نبعت مندوب ياخد المنتج من عنوانك ومنرجع كامل المبلغ 229 ₪ بدون رسوم.,0,0,none,rules,rules-1.0,deterministic
+T-23817,refund_status,status_update,0.00,n,,ar,مرحبا، فحصت الإرجاع للطلب NW-4318656: الحالة requested. [CHECK: موعد الإرجاع المتوقع],0,0,none,rules,rules-1.0,deterministic
+T-71467,return_policy_question,refund_minus_fee,54.50,n,,ar,مرحبا، بتقدر تلغي الشراء. منرجع 1035.5 ₪ لوسيلة الدفع (السعر 1090 ₪ ناقص رسوم إلغاء 54.5 ₪) خلال 14 يوم من إشعار الإلغاء.,0,0,none,rules,rules-1.0,deterministic
+T-53567,fee_dispute,outside_window,0.00,n,,ru,Здравствуйте! Срок отмены для этого товара истёк. Можем предложить обмен или другое решение; сотрудник свяжется с вами.,0,0,none,rules,rules-1.0,deterministic
+T-76476,fee_dispute,outside_window,0.00,n,,he,"שלום, תקופת הביטול לפריט זה הסתיימה. נשמח להציע החלפה או לבדוק פתרון אחר; נציג יחזור אלייך.",0,0,none,rules,rules-1.0,deterministic
+T-56698,other,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-83591,product_question,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-20908,return_request,outside_window,0.00,n,,he,"שלום, תקופת הביטול לפריט זה הסתיימה. נשמח להציע החלפה או לבדוק פתרון אחר; נציג יחזור אלייך.",0,0,none,rules,rules-1.0,deterministic
+T-56880,other,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-43570,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-75847,refund_status,status_update,0.00,n,immigrant,en,"Hello, I've checked the refund for order NW-4331321: status inspected. [CHECK: expected refund date from the OMS]",0,0,none,rules,rules-1.0,deterministic
+T-17451,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-62940,wismo,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-97289,wismo,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-51094,other,n/a,0.00,n,age,he,,0,0,none,rules,rules-1.0,deterministic
+T-24985,return_request,refund_minus_fee,16.45,n,,ru,Здравствуйте! Покупку можно отменить. Вернём 312.55 ₪ на средство оплаты (цена 329 ₪ минус плата за отмену 16.45 ₪) в течение 14 дней с уведомления.,0,0,none,rules,rules-1.0,deterministic
+T-64594,refund_status,status_update,0.00,n,,he,"שלום, בדקתי את ההחזר על הזמנה NW-4316283: סטטוס inspected. [CHECK: תאריך ההחזר הצפוי לפי ה-OMS]",0,0,none,rules,rules-1.0,deterministic
+T-15793,return_policy_question,refund_4m_verify,34.50,n,,ru,"Здравствуйте! Покупка была сделана в разговоре с сотрудником, поэтому у вас может быть продлённый срок отмены. Пришлите копию подтверждающего документа, и мы вернём 655.5 ₪.",0,0,none,rules,rules-1.0,deterministic
+T-29899,return_policy_question,refund_minus_fee,44.95,n,,ru,Здравствуйте! Покупку можно отменить. Вернём 854.05 ₪ на средство оплаты (цена 899 ₪ минус плата за отмену 44.95 ₪) в течение 14 дней с уведомления.,0,0,none,rules,rules-1.0,deterministic
+T-67047,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-43417,other,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-13878,product_question,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-83908,product_question,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-93292,product_question,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-63157,other,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-51725,order_change_cancel,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-83084,other,n/a,0.00,n,immigrant,en,,0,0,none,rules,rules-1.0,deterministic
+T-85633,return_request,refund_minus_fee,27.45,n,,he,"שלום, אפשר לבטל את הרכישה. נחזיר 521.55 ₪ לאמצעי התשלום (מחיר 549 ₪ פחות דמי ביטול 27.45 ₪) תוך 14 יום מקבלת ההודעה. את המוצר מחזירים בנקודת איסוף; פרטים בקישור.",0,0,none,rules,rules-1.0,deterministic
+T-25891,defect_damage,refund_no_fee_pickup,0.00,n,defect,ar,مرحبا، منعتذر! رح نبعت مندوب ياخد المنتج من عنوانك ومنرجع كامل المبلغ 690 ₪ بدون رسوم.,0,0,none,rules,rules-1.0,deterministic
+T-50376,refund_status,status_update,0.00,n,,ar,مرحبا، فحصت الإرجاع للطلب NW-4314462: الحالة requested. [CHECK: موعد الإرجاع المتوقع],0,0,none,rules,rules-1.0,deterministic
+T-95238,order_change_cancel,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-53741,defect_damage,refund_no_fee_pickup,0.00,y,defect injury,he,"שלום, מצטערים! נשלח שליח לאסוף את המוצר מהכתובת שלך ונחזיר את מלוא הסכום, 229 ₪, ללא דמי ביטול.",0,0,none,rules,rules-1.0,deterministic
+T-35214,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-76119,fee_dispute,excluded_custom,0.00,n,,ru,"Здравствуйте! Товар, изготовленный по индивидуальному заказу, не подлежит отмене, кроме случая дефекта. Если есть проблема, пришлите фото.",0,0,none,rules,rules-1.0,deterministic
+T-79998,fee_dispute,excluded_custom,0.00,n,,ru,"Здравствуйте! Товар, изготовленный по индивидуальному заказу, не подлежит отмене, кроме случая дефекта. Если есть проблема, пришлите фото.",0,0,none,rules,rules-1.0,deterministic
+T-89503,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-75189,complaint_legal,escalate_counsel,0.00,y,legal,he,,0,0,none,rules,rules-1.0,deterministic
+T-71339,other,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-71942,product_question,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-40487,product_question,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-37291,fee_dispute,refund_minus_fee,100.00,n,,ru,Здравствуйте! Покупку можно отменить. Вернём 2190 ₪ на средство оплаты (цена 2290 ₪ минус плата за отмену 100 ₪) в течение 14 дней с уведомления.,0,0,none,rules,rules-1.0,deterministic
+T-97827,exchange,exchange_free,0.00,n,,ar,مرحبا، أكيد! منبعت المقاس الجديد والمندوب بياخد القديم بدون تكلفة.,0,0,none,rules,rules-1.0,deterministic
+T-93115,defect_damage,refund_no_fee_pickup,0.00,n,defect,en,"Hello, sorry about this! A courier will collect the item from your address and we will refund the full ₪2490, no fee.",0,0,none,rules,rules-1.0,deterministic
+T-28269,return_request,refund_minus_fee,49.50,n,,he,"שלום, אפשר לבטל את הרכישה. נחזיר 940.5 ₪ לאמצעי התשלום (מחיר 990 ₪ פחות דמי ביטול 49.5 ₪) תוך 14 יום מקבלת ההודעה. את המוצר מחזירים בנקודת איסוף; פרטים בקישור.",0,0,none,rules,rules-1.0,deterministic
+T-98150,defect_damage,refund_no_fee_pickup,0.00,n,defect,he,"שלום, מצטערים! נשלח שליח לאסוף את המוצר מהכתובת שלך ונחזיר את מלוא הסכום, 229 ₪, ללא דמי ביטול.",0,0,none,rules,rules-1.0,deterministic
+T-72449,other,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-79935,return_policy_question,refund_minus_fee,9.45,n,,he,"שלום, אפשר לבטל את הרכישה. נחזיר 179.55 ₪ לאמצעי התשלום (מחיר 189 ₪ פחות דמי ביטול 9.45 ₪) תוך 14 יום מקבלת ההודעה. את המוצר מחזירים בנקודת איסוף; פרטים בקישור.",0,0,none,rules,rules-1.0,deterministic
+T-19030,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-25663,order_change_cancel,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-33236,product_question,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-63945,wismo,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-10256,other,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-92855,wismo,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-97379,order_change_cancel,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-84013,defect_damage,refund_no_fee_pickup,0.00,n,defect,ru,"Здравствуйте, приносим извинения! Курьер заберёт товар по вашему адресу, вернём полную сумму 899 ₪ без платы за отмену.",0,0,none,rules,rules-1.0,deterministic
+T-34339,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-40879,defect_damage,refund_no_fee_pickup,0.00,n,defect,ru,"Здравствуйте, приносим извинения! Курьер заберёт товар по вашему адресу, вернём полную сумму 899 ₪ без платы за отмену.",0,0,none,rules,rules-1.0,deterministic
+T-51561,other,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-94489,other,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-32711,refund_status,status_update,0.00,n,,he,"שלום, בדקתי את ההחזר על הזמנה NW-4329696: סטטוס requested. [CHECK: תאריך ההחזר הצפוי לפי ה-OMS]",0,0,none,rules,rules-1.0,deterministic
+T-59688,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-67792,payment_invoice,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-34706,return_policy_question,refund_minus_fee,94.50,n,,en,"Hello, you can cancel the purchase. We will refund ₪1795.5 to your payment method (price ₪1890 less a ₪94.5 cancellation fee) within 14 days of your notice.",0,0,none,rules,rules-1.0,deterministic
+T-71642,order_change_cancel,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-70211,product_question,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-11323,wismo,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-47108,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-77616,return_request,refund_minus_fee,27.45,n,,en,"Hello, you can cancel the purchase. We will refund ₪521.55 to your payment method (price ₪549 less a ₪27.45 cancellation fee) within 14 days of your notice.",0,0,none,rules,rules-1.0,deterministic
+T-59051,return_request,refund_minus_fee,39.95,n,,he,"שלום, אפשר לבטל את הרכישה. נחזיר 759.05 ₪ לאמצעי התשלום (מחיר 799 ₪ פחות דמי ביטול 39.95 ₪) תוך 14 יום מקבלת ההודעה. את המוצר מחזירים בנקודת איסוף; פרטים בקישור.",0,0,none,rules,rules-1.0,deterministic
+T-36916,fee_dispute,excluded_custom,0.00,n,,ar,مرحبا، المنتج المصنوع حسب الطلب ما بنلغيه إلا إذا فيه عيب. إذا في مشكلة ابعتلنا صورة.,0,0,none,rules,rules-1.0,deterministic
+T-11169,product_question,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-94351,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-59479,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-27577,order_change_cancel,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-78958,payment_invoice,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-83307,fee_dispute,refund_minus_fee,19.95,n,,ar,مرحبا، بتقدر تلغي الشراء. منرجع 379.05 ₪ لوسيلة الدفع (السعر 399 ₪ ناقص رسوم إلغاء 19.95 ₪) خلال 14 يوم من إشعار الإلغاء.,0,0,none,rules,rules-1.0,deterministic
+T-28015,order_change_cancel,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-25715,defect_damage,refund_no_fee_pickup,0.00,n,defect,en,"Hello, sorry about this! A courier will collect the item from your address and we will refund the full ₪329, no fee.",0,0,none,rules,rules-1.0,deterministic
+T-59770,return_policy_question,outside_window,0.00,n,,ar,مرحبا، مدة الإلغاء لهاد المنتج خلصت. منقدر نقترح تبديل أو حل تاني، موظف رح يرجعلك.,0,0,none,rules,rules-1.0,deterministic
+T-33471,return_policy_question,refund_no_fee_pickup,0.00,n,,ru,"Здравствуйте, приносим извинения! Курьер заберёт товар по вашему адресу, вернём полную сумму 119 ₪ без платы за отмену.",0,0,none,rules,rules-1.0,deterministic
+T-12110,defect_damage,refund_no_fee_pickup,0.00,n,defect,ar,مرحبا، منعتذر! رح نبعت مندوب ياخد المنتج من عنوانك ومنرجع كامل المبلغ 229 ₪ بدون رسوم.,0,0,none,rules,rules-1.0,deterministic
+T-31042,other,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-86282,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-16880,defect_damage,refund_no_fee_pickup,0.00,n,defect,ar,مرحبا، منعتذر! رح نبعت مندوب ياخد المنتج من عنوانك ومنرجع كامل المبلغ 449 ₪ بدون رسوم.,0,0,none,rules,rules-1.0,deterministic
+T-81573,order_change_cancel,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-79390,product_question,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-73004,order_change_cancel,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-58288,fee_dispute,refund_minus_fee,49.50,y,legal,he,"שלום, אפשר לבטל את הרכישה. נחזיר 940.5 ₪ לאמצעי התשלום (מחיר 990 ₪ פחות דמי ביטול 49.5 ₪) תוך 14 יום מקבלת ההודעה. את המוצר מחזירים בנקודת איסוף; פרטים בקישור.",0,0,none,rules,rules-1.0,deterministic
+T-99290,payment_invoice,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-78488,order_change_cancel,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-55312,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-77421,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-88511,product_question,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-48758,defect_damage,refund_no_fee_pickup,0.00,n,defect,he,"שלום, מצטערים! נשלח שליח לאסוף את המוצר מהכתובת שלך ונחזיר את מלוא הסכום, 799 ₪, ללא דמי ביטול.",0,0,none,rules,rules-1.0,deterministic
+T-38041,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-60210,complaint_legal,escalate_counsel,0.00,y,legal,ar,,0,0,none,rules,rules-1.0,deterministic
+T-47667,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-27023,wismo,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-46229,wismo,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-72158,refund_status,status_update,0.00,n,,ar,مرحبا، فحصت الإرجاع للطلب NW-4322895: الحالة inspected. [CHECK: موعد الإرجاع المتوقع],0,0,none,rules,rules-1.0,deterministic
+T-41374,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-52870,return_request,refund_minus_fee,44.95,n,,ar,مرحبا، بتقدر تلغي الشراء. منرجع 854.05 ₪ لوسيلة الدفع (السعر 899 ₪ ناقص رسوم إلغاء 44.95 ₪) خلال 14 يوم من إشعار الإلغاء.,0,0,none,rules,rules-1.0,deterministic
+T-45439,other,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-41577,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-94191,wismo,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-83381,order_change_cancel,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-55772,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-18967,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-72726,return_request,outside_window,0.00,n,,ru,Здравствуйте! Срок отмены для этого товара истёк. Можем предложить обмен или другое решение; сотрудник свяжется с вами.,0,0,none,rules,rules-1.0,deterministic
+T-67465,other,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-97194,return_request,refund_minus_fee,19.95,n,,ru,Здравствуйте! Покупку можно отменить. Вернём 379.05 ₪ на средство оплаты (цена 399 ₪ минус плата за отмену 19.95 ₪) в течение 14 дней с уведомления.,0,0,none,rules,rules-1.0,deterministic
+T-76823,return_policy_question,refund_minus_fee,44.95,n,,en,"Hello, you can cancel the purchase. We will refund ₪854.05 to your payment method (price ₪899 less a ₪44.95 cancellation fee) within 14 days of your notice.",0,0,none,rules,rules-1.0,deterministic
+T-79598,refund_status,status_update,0.00,n,,he,"שלום, בדקתי את ההחזר על הזמנה NW-4334174: סטטוס received. [CHECK: תאריך ההחזר הצפוי לפי ה-OMS]",0,0,none,rules,rules-1.0,deterministic
+T-82258,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-15452,other,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-37059,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-94861,return_request,outside_window,0.00,n,,he,"שלום, תקופת הביטול לפריט זה הסתיימה. נשמח להציע החלפה או לבדוק פתרון אחר; נציג יחזור אלייך.",0,0,none,rules,rules-1.0,deterministic
+T-31578,wismo,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-64066,return_request,refund_minus_fee,59.50,n,,he,"שלום, אפשר לבטל את הרכישה. נחזיר 1130.5 ₪ לאמצעי התשלום (מחיר 1190 ₪ פחות דמי ביטול 59.5 ₪) תוך 14 יום מקבלת ההודעה. את המוצר מחזירים בנקודת איסוף; פרטים בקישור.",0,0,none,rules,rules-1.0,deterministic
+T-19525,other,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-70593,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-88992,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-76080,product_question,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-27318,return_request,outside_window,0.00,n,age,en,"Hello, the cancellation period for this item has ended. We can offer an exchange or look at another solution; an agent will follow up.",0,0,none,rules,rules-1.0,deterministic
+T-69992,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-83287,other,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-19551,complaint_legal,escalate_counsel,0.00,y,legal,he,,0,0,none,rules,rules-1.0,deterministic
+T-19149,other,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-16818,wismo,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-92232,refund_status,status_update,0.00,n,,he,"שלום, בדקתי את ההחזר על הזמנה NW-4314876: סטטוס requested. [CHECK: תאריך ההחזר הצפוי לפי ה-OMS]",0,0,none,rules,rules-1.0,deterministic
+T-32296,order_change_cancel,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-38223,fee_dispute,outside_window,0.00,n,,he,"שלום, תקופת הביטול לפריט זה הסתיימה. נשמח להציע החלפה או לבדוק פתרון אחר; נציג יחזור אלייך.",0,0,none,rules,rules-1.0,deterministic
+T-37662,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-40323,return_request,refund_minus_fee,19.95,n,,ru,Здравствуйте! Покупку можно отменить. Вернём 379.05 ₪ на средство оплаты (цена 399 ₪ минус плата за отмену 19.95 ₪) в течение 14 дней с уведомления.,0,0,none,rules,rules-1.0,deterministic
+T-41648,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-10212,refund_status,status_update,0.00,n,,he,"שלום, בדקתי את ההחזר על הזמנה NW-4320871: סטטוס received. [CHECK: תאריך ההחזר הצפוי לפי ה-OMS]",0,0,none,rules,rules-1.0,deterministic
+T-88489,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-32235,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-64386,defect_damage,refund_no_fee_pickup,0.00,y,defect injury,he,"שלום, מצטערים! נשלח שליח לאסוף את המוצר מהכתובת שלך ונחזיר את מלוא הסכום, 229 ₪, ללא דמי ביטול.",0,0,none,rules,rules-1.0,deterministic
+T-68901,refund_status,status_update,0.00,n,,he,"שלום, בדקתי את ההחזר על הזמנה NW-4320534: סטטוס requested. [CHECK: תאריך ההחזר הצפוי לפי ה-OMS]",0,0,none,rules,rules-1.0,deterministic
+T-69555,defect_damage,refund_no_fee_pickup,0.00,n,defect,ru,"Здравствуйте, приносим извинения! Курьер заберёт товар по вашему адресу, вернём полную сумму 329 ₪ без платы за отмену.",0,0,none,rules,rules-1.0,deterministic
+T-33446,wismo,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-30058,product_question,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-69180,order_change_cancel,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-19203,return_policy_question,refund_minus_fee,11.45,n,,ar,مرحبا، بتقدر تلغي الشراء. منرجع 217.55 ₪ لوسيلة الدفع (السعر 229 ₪ ناقص رسوم إلغاء 11.45 ₪) خلال 14 يوم من إشعار الإلغاء.,0,0,none,rules,rules-1.0,deterministic
+T-46883,wismo,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-75821,return_request,refund_minus_fee,44.95,n,,ar,مرحبا، بتقدر تلغي الشراء. منرجع 854.05 ₪ لوسيلة الدفع (السعر 899 ₪ ناقص رسوم إلغاء 44.95 ₪) خلال 14 يوم من إشعار الإلغاء.,0,0,none,rules,rules-1.0,deterministic
+T-24499,refund_status,status_update,0.00,n,,he,"שלום, בדקתי את ההחזר על הזמנה NW-4323446: סטטוס received. [CHECK: תאריך ההחזר הצפוי לפי ה-OMS]",0,0,none,rules,rules-1.0,deterministic
+T-30693,return_policy_question,refund_minus_fee,54.50,n,,he,"שלום, אפשר לבטל את הרכישה. נחזיר 1035.5 ₪ לאמצעי התשלום (מחיר 1090 ₪ פחות דמי ביטול 54.5 ₪) תוך 14 יום מקבלת ההודעה. את המוצר מחזירים בנקודת איסוף; פרטים בקישור.",0,0,none,rules,rules-1.0,deterministic
+T-44236,other,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-98215,exchange,outside_window,0.00,n,,he,"שלום, תקופת הביטול לפריט זה הסתיימה. נשמח להציע החלפה או לבדוק פתרון אחר; נציג יחזור אלייך.",0,0,none,rules,rules-1.0,deterministic
+T-50461,other,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-83093,payment_invoice,n/a,0.00,n,,en,,0,0,none,rules,rules-1.0,deterministic
+T-56643,payment_invoice,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-52533,refund_status,status_update,0.00,n,,he,"שלום, בדקתי את ההחזר על הזמנה NW-4324544: סטטוס requested. [CHECK: תאריך ההחזר הצפוי לפי ה-OMS]",0,0,none,rules,rules-1.0,deterministic
+T-40851,product_question,n/a,0.00,n,,ru,,0,0,none,rules,rules-1.0,deterministic
+T-34000,complaint_legal,escalate_counsel,0.00,y,legal,he,,0,0,none,rules,rules-1.0,deterministic
+T-81154,defect_damage,refund_no_fee_pickup,0.00,n,defect,he,"שלום, מצטערים! נשלח שליח לאסוף את המוצר מהכתובת שלך ונחזיר את מלוא הסכום, 1290 ₪, ללא דמי ביטול.",0,0,none,rules,rules-1.0,deterministic
+T-46350,other,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-29561,product_question,n/a,0.00,n,,he,,0,0,none,rules,rules-1.0,deterministic
+T-71749,fee_dispute,refund_minus_fee,44.95,y,legal,he,"שלום, אפשר לבטל את הרכישה. נחזיר 854.05 ₪ לאמצעי התשלום (מחיר 899 ₪ פחות דמי ביטול 44.95 ₪) תוך 14 יום מקבלת ההודעה. את המוצר מחזירים בנקודת איסוף; פרטים בקישור.",0,0,none,rules,rules-1.0,deterministic
+T-22042,return_policy_question,refund_minus_fee,19.95,n,,he,"שלום, אפשר לבטל את הרכישה. נחזיר 379.05 ₪ לאמצעי התשלום (מחיר 399 ₪ פחות דמי ביטול 19.95 ₪) תוך 14 יום מקבלת ההודעה. את המוצר מחזירים בנקודת איסוף; פרטים בקישור.",0,0,none,rules,rules-1.0,deterministic
+T-80015,fee_dispute,outside_window,0.00,n,,en,"Hello, the cancellation period for this item has ended. We can offer an exchange or look at another solution; an agent will follow up.",0,0,none,rules,rules-1.0,deterministic
+T-21709,return_policy_question,refund_minus_fee,9.45,n,,ru,Здравствуйте! Покупку можно отменить. Вернём 179.55 ₪ на средство оплаты (цена 189 ₪ минус плата за отмену 9.45 ₪) в течение 14 дней с уведомления.,0,0,none,rules,rules-1.0,deterministic
+T-93860,defect_damage,refund_no_fee_pickup,0.00,n,defect,ru,"Здравствуйте, приносим извинения! Курьер заберёт товар по вашему адресу, вернём полную сумму 279 ₪ без платы за отмену.",0,0,none,rules,rules-1.0,deterministic
+T-13620,return_request,outside_window,0.00,n,,ru,Здравствуйте! Срок отмены для этого товара истёк. Можем предложить обмен или другое решение; сотрудник свяжется с вами.,0,0,none,rules,rules-1.0,deterministic
+T-32621,wismo,n/a,0.00,n,,ar,,0,0,none,rules,rules-1.0,deterministic
+T-72394,exchange,exchange_free,0.00,n,,he,"שלום, בשמחה! נשלח את המידה החדשה ושליח יאסוף את הקיים, ללא עלות.",0,0,none,rules,rules-1.0,deterministic

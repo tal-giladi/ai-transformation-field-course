@@ -12,6 +12,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Adjudication** — A third person settling every disagreement between two labellers against written category rules, and changing the rules when they cannot settle it (lesson 05.2).
 - **Adoption gate** — The share of real use that must be reached before a pilot's value numbers are read (lesson 05.1).
 - **Advisory boundary** — The line between questions you answer yourself (method, framing, priorities) and those you route to a named specialist such as counsel, the DPO, security, procurement or HR (lesson 01.1).
+- **Agent-assist** — AI that drafts a reply or a decision for a staff member who checks, edits and sends it, as opposed to a bot that answers customers alone (lesson 08.4).
 - **Agentic opportunity frame** — A one-page design of one candidate workflow: today's steps, what simplification removes, what does each step, builder, connections and permissions, checks, upkeep and why it is or is not an agent (lesson 03.2).
 - **AI in a feature update** — An AI capability that arrived in software the organization already used, often enabled by default, without anyone choosing it (lesson 01.7).
 - **AI inventory** — The list of every AI system and feature, one row per tool per use, with owner, data, the decision it shapes and the next action, including excluded systems with reasons (lesson 01.7).
@@ -19,8 +20,10 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Answer first** — Opening a memo with the answer to the sponsor's question, the number that carries it and the recommended decision, in three sentences (lesson 02.7).
 - **Attribution rule** — The promise, made at the start of an interview and kept, about how what the person says will be reported (for example "the support team said", never their name) (lesson 02.2).
 - **Automate / assist / augment / leave alone** — The four modes of change, decided by who does the work afterwards: no person per item, a person deciding each item, a person gaining a new capability, or no change (lesson 03.1).
+- **Billed resolution** — The unit a per-outcome AI vendor charges for, defined in its contract; compare prices only after reading what each vendor counts (lesson 08.4).
 - **Blameless review** — An incident review that looks for contributing causes without indicting anyone and whose actions change controls, with owners and dates (lesson 07.5).
 - **Blind calibration set** — Real human outputs mixed unmarked among AI drafts during rating, to check that raters apply the rubric strictly and to measure today's error rate (lesson 05.4).
+- **Breakage** — The value of store credit that customers never redeem, booked as income; a hidden reason a business may prefer credit notes to refunds (lesson 08.3).
 - **Capacity vs cash** — Freed hours are capacity; they become cash only when a named budget line changes, with an owner and a date (lesson 03.7).
 - **Chain of custody** — For a dataset: origin, the purpose it was collected for, whether that purpose covers the new use, where access is enforced, and the person who owns it today (lesson 02.5).
 - **Champion** — A respected colleague given protected time to help others on real work and log issues with examples, who never reports on individuals or changes the tool (lesson 06.3).
@@ -31,7 +34,9 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Claims register** — The table that records, for every number in narrative documents, who said it, where, when, and whether it is verified, contradicted, a claim to test or unverifiable (lesson 01.5).
 - **Cohen's kappa** — Agreement between two labellers corrected for the agreement they would reach by chance from their category mix (lesson 05.2).
 - **Concede with a condition** — Naming a weak point yourself in a meeting and tying it to a gate or condition, so the gap becomes the reason for the control (lesson 07.4).
+- **Containment** — A chatbot vendor's share of conversations that ended without a hand-over to a person; not the same as resolution until tested against what customers did next (lesson 08.2).
 - **Control status** — Whether a control is effective (runs and catches the failure, with evidence), designed, on paper only, or missing; it decides how far the residual rating may fall (lesson 04.5).
+- **Cost per truly resolved chat** — A chatbot's bill divided by the conversations not followed by an agent contact within a set window, the figure to compare with an agent's cost per contact (lesson 08.3).
 - **Counting rule** — The written definition of what counts as AI for the inventory (outputs inferred from data, not only human-written rules), applied before counting (lesson 01.7).
 - **Data boundary** — One page per approved AI tool stating what data enters, where it travels, who sees it, whether the vendor trains on it, how long it stays and what happens at exit (lesson 04.3).
 - **Data class** — One of five labels (public, internal, confidential business, personal, highly sensitive) that decide which AI tools a piece of information may go into; a record takes the highest class of anything in it (lesson 04.2).
@@ -51,6 +56,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **DPIA trigger** — A written condition (decisions about people, highly sensitive data, personal data at scale, new recipients, a new purpose, monitoring of people) that means a DPIA must be done before an AI use starts or continues (lesson 04.4).
 - **Earliest date** — A stage date in a release plan is the earliest the stage may start if its exit condition is met, not a deadline (lesson 07.8).
 - **Exit check** — One fresh case done alone at the end of a session and observed against the checks; its results stay with the trainer and champion (lesson 06.2).
+- **Exit point** — A date in a consulting statement of work where either side may stop, with a deliverable and a decider named, said out loud in the first meeting so it can actually be used (lesson 08.1).
 - **Exitable phase** — A priced part of an engagement with its own deliverables and acceptance criteria, after which the client can stop and keep everything delivered (lesson 01.1).
 - **Expansion** — A new request that fails any of the five refinement questions and therefore goes through a change request (lesson 01.3).
 - **Expected error cost** — Items a month × error rate × cost per error, netted from a candidate's benefit before its value is rated (lesson 03.4).
@@ -67,6 +73,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Holdout** — A random share of eligible items that get no AI output during the pilot, so that the difference with the rest is the AI's effect (lesson 05.1).
 - **Horizon by evidence** — Placing an initiative in Now, Next or Later by how much is proven and what it depends on, not by a start date (lesson 03.8).
 - **Host list** — The maintained list of AI service domains used to find AI traffic in a proxy log, because proxy categories lag behind new tools (lesson 01.6).
+- **Hybrid design (rules decide, the model reads and writes)** — A pilot design in which an LLM reads the message and drafts the reply while deterministic rules compute eligibility, amounts and windows from the order data (lesson 08.5).
 - **Incident severity** — S1: harm reached people, or personal data reached someone not entitled to it; S2: harm likely if nothing changes; S3: degraded service with no harm (lesson 07.5).
 - **Intake register** — The single list of every AI build, purchase and request, with owner, tool, data class, overlaps, tier, route, decision and days to decision (lesson 04.7).
 - **Integration check** — A side-by-side reading of deliverables that logs every contradiction between them and traces each human control to a cost line and each claim's timing to readiness and the roadmap (lesson 07.1).
@@ -77,6 +84,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Ledger line** — For a candidate, who now checks, corrects, escalates or waits because of the change; never left blank (lesson 03.1).
 - **Legal register** — The separate list of AI systems that carry a legal duty, with the duty and the evidence it is met, linked to the inventory by ID (lesson 01.7).
 - **Light edit** — A change to a draft that takes under a minute and changes wording or tone only, never a fact; a draft needing more is not counted as accepted (lesson 05.4).
+- **Like-for-like AHT** — Average handling time computed the same way in both periods compared (here, handling plus after-contact work), so a definition change cannot pass as an efficiency gain (lesson 08.2).
 - **Load rule** — A rule that stops AI drafts from being offered when the drafts waiting exceed what the day's review hours can really check, so reviewers write rather than stamp (lesson 05.5).
 - **Locked criteria** — Scoring weights, rating anchors and rules agreed and dated before the candidate list is opened, so they cannot bend to a favourite (lesson 03.4).
 - **Mandate** — The objective, money, authority and definition of "done" that a named sponsor has agreed to in writing (lesson 01.2).
@@ -116,9 +124,11 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Read-back** — Repeating the sponsor's objective to them in their own words and recording that they confirmed or corrected it (lesson 01.2).
 - **Readiness assessment** — A dated judgment, per use case, of whether the work, data, owners, people, governance, measurement and technology around it are ready, ending in proceed, phase or not yet (lesson 02.6).
 - **Receiving team** — The people who absorb work a program moves or creates, often outside the team in scope and missing from the org chart's view of the project (lesson 02.1).
+- **Recommend-against** — A recommendation not to do something the sponsor or the CEO wants, placed on the front page of the readout with its evidence (lesson 08.6).
 - **Refinement** — A new request that serves the same objective, users, data and deliverable and fits the agreed time and money; done inside the phase without a change request (lesson 01.3).
 - **Regulatory map** — A one-page table of which instrument applies to which AI use, in which role (actor), with which obligation, from which date, at which status and on which checked source (lesson 04.6).
 - **Relay** — Anyone who has already heard a committed number from a leader (a board chair, an investor, a vendor) and needs the same correction early (lesson 07.3).
+- **Repeat contact** — An agent contact from a customer who contacted the organization about the same order within the previous 7 days on any channel, with order numbers normalised and blanks counted as the same order (lesson 08.2).
 - **Residue** — The work people take on so that an automation or AI can run, such as keeping a sheet in a fixed format; it goes on the ledger line with an owner (lesson 03.2).
 - **Restricted use** — An AI use that needs the review group's decision or that nobody may do, recorded with the reason and who may lift it (lesson 04.2).
 - **Retirement criteria** — Checkable conditions, written when a service goes live, under which it will be retired (lesson 07.6).
@@ -134,6 +144,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Staged gate** — A yes/no condition, written in advance, that releases the next stage of money (lesson 03.7).
 - **Staged release** — Widening a pilot's use one change at a time (channel, mode, language, autonomy), each stage with a yes/no entry condition and an owner (lesson 05.6).
 - **Stale copy** — A copy of a dataset read more often than it is refreshed, such as an old catalogue on a shared drive (lesson 02.5).
+- **Stated ask** — What the person who commissioned the work said they want (here, "a chatbot that replaces half of support by Q2"), recorded in the charter as the claim the engagement tests rather than as its objective (lesson 08.1).
 - **Steering pack** — The papers a committee decides from, in reader order with a six-page body: cover note, updated decision-ready case, gate table, stop rules, open items, separate decisions and what each answer means (lesson 07.1).
 - **Steering pre-read** — The date the decision-makers receive a pack before a board or steering meeting, usually a week earlier; the real deadline for the work (lesson 01.4).
 - **Stop rule** — A condition written before a pilot starts that ends it, or one segment of it, early, with a trigger, an action and the person who decides (lesson 05.1).

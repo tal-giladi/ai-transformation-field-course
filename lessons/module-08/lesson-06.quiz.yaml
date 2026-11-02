@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    Your pack offers three options for the bot (extend, narrow, switch off) with pros and cons, and
+    lets the steering group choose. What is the main weakness?
+  options:
+    - >-
+      Three options are too few; a steering group expects at least five to choose from.
+    - >-
+      It hands the decision back without your judgement; give one recommendation and show the others.
+    - >-
+      Options should never be shown to a steering group, only the recommendation.
+    - >-
+      The pros and cons should be scored with weights so the group can add them up.
+  correct: 1
+  explanation: >-
+    The client is paying for a judgement. A menu invites the room to pick the option its most senior
+    member already favours. One recommendation, with the alternatives shown as weighed and rejected for
+    stated reasons, is both decisive and transparent.
+
+- id: q2
+  question: >-
+    Your integration check finds that the eval report's 352 agent-assist hours appear in a draft budget
+    line as ₪220,000 a year saved. What do you do?
+  options:
+    - >-
+      Remove it: the hours are capacity, gated in April, not cash.
+    - >-
+      Keep it, because the CFO needs savings to close the gap in the 2027 budget.
+    - >-
+      Halve it, so that the number is conservative enough to survive questioning.
+    - >-
+      Move it to an appendix, where it informs without committing anyone.
+  correct: 0
+  explanation: >-
+    Offline, assumed hours shown as cash are exactly the kind of unearned number that collapses at the
+    first gate. Halving a wrong number keeps it wrong; hiding it in an appendix still lets someone quote
+    it. The fix is to restate it as capacity with its gate.
+
+- id: q3
+  question: >-
+    In your first rehearsal with the CEO you opened with the headcount cut, and he spent ten minutes
+    defending it. What do you change for the second attempt?
+  options:
+    - >-
+      Drop the finding about the handling-time figure, since it clearly upsets him.
+    - >-
+      Ask the COO to deliver it instead, so it comes from inside the company.
+    - >-
+      Keep the finding; open with his own board question and end with a sentence he can use.
+    - >-
+      Deliver it in the steering meeting instead, where the others can support you.
+  correct: 2
+  explanation: >-
+    The rehearsal is for the delivery, never the finding. Starting from the fund director's question
+    turns the finding into the answer he needs, and the board sentence gives him a way forward. Dropping
+    it, delegating it or springing it in the room all make the decision worse.
+
+- id: q4
+  question: >-
+    The steering group approves agent-assist and "the policy rewrite, to follow after the January
+    sale". What should you insist the decision record says?
+  options:
+    - >-
+      Nothing more: the approval is the decision, and the timing is management's business.
+    - >-
+      That the consultant disagrees, so the record shows you warned them.
+    - >-
+      That agent-assist goes live immediately, since the policy will be fixed eventually.
+    - >-
+      An owner and a date for the policy, with the pilot's go-live conditional on it.
+  correct: 3
+  explanation: >-
+    "To follow" with no owner is how the half-way future happens: drafts repeat the old policies and the
+    pilot is blamed. A named owner, a date and the dependency written into the record make the
+    condition visible at the gate. Recording disagreement alone protects you, not the client.
+
+- id: q5
+  question: >-
+    It is your last day. Meseret has the binder, but has never run the eval or the repeat-contact
+    script herself. What is the right handover move?
+  options:
+    - >-
+      Leave detailed written instructions; she can call you if anything breaks.
+    - >-
+      Have her run both, with you watching, until she gets the same numbers without help.
+    - >-
+      Ask IT to take ownership of the scripts, since they are code.
+    - >-
+      Extend your contract by a month so you can keep running them for her.
+  correct: 1
+  explanation: >-
+    A handover is accepted when the owner can do the work without you, tested by doing it. Instructions
+    and a phone number keep you in every decision; moving ownership to IT separates the measure from the
+    person accountable for the service; an extension postpones the handover rather than completing it.

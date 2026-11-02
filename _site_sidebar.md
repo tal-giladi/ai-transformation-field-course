@@ -71,3 +71,13 @@
   - [52 · The board said yes — now what](/lessons/module-07/lesson-08.md)
   - [53 · Handover: so it survives you](/lessons/module-07/lesson-09.md)
   - [Module 7 quiz](/assessments/module-07-quiz.md)
+
+- Stage 2 — Ten engagements
+- **Module 8 — Northwind Outfitters: The Chatbot That Should Not Replace Support**
+  - [54 · The call](/lessons/module-08/lesson-01.md)
+  - [55 · Discovery](/lessons/module-08/lesson-02.md)
+  - [56 · Diagnosis](/lessons/module-08/lesson-03.md)
+  - [57 · The hard part](/lessons/module-08/lesson-04.md)
+  - [58 · Build: agent-assist on 2,000 tickets](/lessons/module-08/lesson-05.md)
+  - [59 · Readout and debrief](/lessons/module-08/lesson-06.md)
+  - [Module 8 quiz](/assessments/module-08-quiz.md)
