@@ -1,0 +1,111 @@
+question_id,behaviour,answer,sources,language,tokens_in,tokens_out,error
+N01,answer,"# תו חניה לתושב
+
+מי זכאי: תושב/ת גבעת אורן שכתובתו במרשם האוכלוסין בעיר, לרכב הרשום על שמו. רכב ליסינג או רכב חברה שהתושב/ת משתמש/ת בו דרך קבע זכאי לתו, בצירוף מכתב מהמעסיק או מחברת הליסינג.
+
+אגרה: תו לרכב הראשון במשק הבית – ללא תשלום. תו לרכב שני – 120 ₪ לשנה.
+
+מסמכים: צילום תעודת זהות עם ספח (כתובת בגבעת אורן) ורישיון הרכב. לרכב ליסינג או חברה: מכתב מהמעסיק או מחברת הליסינג שבו שם הנהג/ת.
+
+הגשה: בטופס המקוון באתר או במרכז השירות לתושב, רחוב המייסדים 4.
+
+זמן טיפול: עד 10 ימי עבודה מהגשת בקשה מלאה.
+
+תוקף: התו בתוקף עד 31 במרץ; חידוש מ-1 בפברואר בכל שנה.",PRK-he,he,0,0,
+N02,answer,"# Resident parking permit
+
+Who is eligible: a Givat Oren resident whose address in the Population Register is in the city, for a car registered in their name. A leased or company car that the resident uses regularly is eligible with a letter from the employer or the leasing company.
+
+Fee: the permit for the first car in the household is free. A permit for a second car costs ₪120 a year.
+
+Documents: a copy of your ID card with the appendix (Givat Oren address) and the vehicle licence. For a leased or company car: a letter from the employer or the leasing company naming the driver.
+
+How to apply: the online form on the website or the Resident Service Centre, 4 HaMeyasdim Street.
+
+Processing time: up to 10 working days from a complete application.
+
+Validity: until 31 March; renew from 1 February each year.",PRK-en,en,0,0,
+N03,answer,"# تصريح لوضع طاولات وكراسٍ على الرصيف
+
+لمن: مقهى أو مطعم أو مصلحة طعام لديها رخصة مصلحة سارية.
+
+الرسوم: 190 ₪ لكل متر مربع سنويًا، تُدفع مسبقًا.
+
+الشروط: يجب ترك ممر حر للمشاة بعرض 1.5 متر على الأقل.
+
+المستندات: مخطط للمساحة المطلوبة، شهادة تأمين طرف ثالث ورقم رخصة المصلحة.
+
+مدة المعالجة: حتى 45 يومًا. التصريح للموسم: من 1 نيسان حتى 31 آذار.",CAF-ar,ar,0,0,
+N04,answer,,,,0,0,
+N05,answer,"# Disabled parking space near your home
+
+Who is eligible: a resident with a valid disabled parking badge from the Ministry of Transport who has no private parking.
+
+Fee: none.
+
+Documents: the disabled parking badge, the vehicle licence, a copy of your ID card with the appendix, and a photo of the street where you want the space.
+
+Process: the municipal traffic committee reviews requests once a month. You receive a written answer within 45 days of a complete application.
+
+Marking: after approval the traffic department marks the space within 30 days.",DPK-en,en,0,0,
+N06,answer,,,,0,0,
+N07,answer,"# Небольшие строительные работы: нужно ли разрешение?
+
+Некоторые работы освобождены от разрешения на строительство по общегосударственным правилам, но у каждого освобождения есть условия (размер, место, тип здания).
+
+Эта страница не может определить, освобождены ли ваши работы.
+
+Прежде чем начать: обратитесь в окно лицензирования инженерного отдела с описанием работ и фотографией.
+
+Строительство без разрешения, когда оно требуется, может привести к штрафу и приказу о сносе.",EXW-ru,ru,0,0,
+N08,answer,"# נימוקים להחלטה והשגה
+
+כל מכתב החלטה כולל את הנימוק. אם הנימוק אינו ברור, אפשר לבקש הסבר בכתב מהאגף שנתן את ההחלטה.
+
+השגה: אפשר להגיש השגה בכתב לראש האגף תוך 30 יום ממועד המכתב, בצירוף מסמכים חדשים אם יש.
+
+תלונה: אם לדעתך העירייה פעלה שלא כדין או שלא בהגינות, אפשר להתלונן לממונה על תלונות הציבור (מבקר העירייה).
+
+אפשר לכתוב בעברית, בערבית, ברוסית או באנגלית.",APL-he,he,0,0,
+N09,answer,"# تصريح وقوف للسكان
+
+من يحق له: ساكن/ة جفعات أورن المسجل عنوانه في سجل السكان في المدينة، لسيارة مسجلة باسمه. سيارة الليسينغ أو سيارة الشركة التي يستخدمها الساكن بشكل دائم يحق لها التصريح، مع رسالة من المشغّل أو من شركة الليسينغ.
+
+الرسوم: تصريح للسيارة الأولى في الأسرة – مجانًا. تصريح لسيارة ثانية – 120 ₪ سنويًا.
+
+المستندات: صورة بطاقة الهوية مع الملحق (عنوان في جفعات أورن) ورخصة السيارة. لسيارة ليسينغ أو شركة: رسالة من المشغّل أو من شركة الليسينغ تذكر اسم السائق.
+
+تقديم الطلب: بالنموذج الإلكتروني في الموقع أو في مركز خدمة السكان، شارع هميسديم 4.
+
+مدة المعالجة: حتى 10 أيام عمل من تقديم طلب كامل.
+
+الصلاحية: التصريح ساري حتى 31 آذار؛ التجديد من 1 شباط كل سنة.",PRK-ar,ar,0,0,
+N10,answer,"# Sidewalk café permit (tables and chairs)
+
+For whom: a café, restaurant or food business with a valid business licence.
+
+Fee: ₪190 per square metre a year, paid in advance.
+
+Conditions: leave a clear walkway for pedestrians at least 1.5 metres wide.
+
+Documents: a plan of the requested area, a third-party insurance certificate and your business licence number.
+
+Processing time: up to 45 days. The permit is for a season: 1 April to 31 March.",CAF-en,en,0,0,
+N11,answer,"# היתר להצבת מכולה ברחוב
+
+אגרה: 75 ₪ לכל שבוע.
+
+משך מרבי: 4 שבועות; הארכה בבקשה חדשה.
+
+תנאים: מחזירי אור על המכולה ופרטי הקבלן עליה.
+
+הגשה: לפחות 3 ימי עבודה לפני ההצבה.",SKP-he,he,0,0,
+N12,answer,"# Причины решения и возражение
+
+В каждом письме с решением указана причина. Если причина непонятна, можно письменно попросить объяснение в отделе, который принял решение.
+
+Возражение: можно подать письменное возражение руководителю отдела в течение 30 дней с даты письма, приложив новые документы, если они есть.
+
+Жалоба: если вы считаете, что муниципалитет действовал незаконно или несправедливо, можно подать жалобу уполномоченному по жалобам граждан (контролёру муниципалитета).
+
+Писать можно на иврите, арабском, русском или английском.",APL-ru,ru,0,0,

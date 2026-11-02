@@ -1,0 +1,11 @@
+- **Accidental owner** — Someone handed AI because of their job title, with no budget and no authority over the people whose work it touches; their first move is a mandate from whoever can give one (lesson 11.1).
+- **Content owner** — The named person in a division who answers for a page or knowledge document being correct, dated and updated within a set time after a rule changes (lesson 11.3).
+- **Knowledge pack** — The approved set of documents an assistant may answer from, each with an owner and an effective date, in every language it serves (lesson 11.5).
+- **Callback made** — A callback completed by its promised date, as opposed to one merely scheduled within an SLA (lesson 11.2).
+- **Service language** — The language a resident was actually answered in, compared with the language they chose or wrote in (lesson 11.2).
+- **Usable reason** — A refusal that names the condition not met, the document that would meet it and the route to object, in the applicant's language (lesson 11.2).
+- **Free pilot** — A supplier's no-cost trial on the client's data; in the public sector still an engagement that needs a procurement route and gives the supplier a head start (lesson 11.4).
+- **Wrong-advice risk** — The risk that a public assistant states a rule incorrectly to someone who acts on it; controlled by owned sources and tested refusals, not by disclaimers (lesson 11.4).
+- **Must-route question** — A question an assistant must hand to a person instead of answering, such as a resident's own decision, exempt building works or legal advice (lesson 11.5).
+- **AI-register entry** — The public, plain-language record of an AI system a public body uses: purpose, sources, human role, tests, data, owners and how to complain (lesson 11.5).
+- **Blue track** — The Israel National Digital Agency guide's track for a limited, controlled experiment with set duration, metrics and reporting before full deployment (lesson 11.4).

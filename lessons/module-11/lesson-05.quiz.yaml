@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    Plain keyword search over the approved knowledge pack gets 93.5% of answer questions right; over the
+    current website, 34.4%. A council member asks why you need a model at all. What is the best answer?
+  options:
+    - >-
+      The model will push answer questions from 93.5% towards 100%, which is worth the cost.
+    - >-
+      Search results are not trusted by residents, while a conversational answer feels official.
+    - >-
+      Search cannot route, clarify or refuse, and hands an Arabic speaker whatever page matched.
+    - >-
+      The model is cheaper to maintain, since it can learn new fees without anyone editing pages.
+  correct: 2
+  explanation: >-
+    The content fix carries most of the accuracy; the model's value is behaviour search lacks: routing
+    individual and risky questions, asking which permit, answering in the resident's language from the
+    right document. It does not learn fees by itself: when a rule changes, the pack must.
+
+- id: q2
+  question: >-
+    Prompt v1.0 scores 91.4% on answer questions but tells one resident that a 20 m² roof pergola "is
+    usually exempt". The overall score looks good. What do you do?
+  options:
+    - >-
+      Treat it as a stop-rule failure: change the prompt, add negative tests, re-run dev, then test once.
+    - >-
+      Accept it, since one wrong route in 134 questions is within the gates you set.
+    - >-
+      Remove the pergola question from the test set, since exempt works are out of scope.
+    - >-
+      Add a line to the answer saying residents should check with the engineering department.
+  correct: 0
+  explanation: >-
+    Saying works are exempt is a stop rule and a high-risk route, so it fails G3 whatever the average.
+    Removing the question hides it; a softer sentence after a wrong answer is the MyCity disclaimer again.
+    Fix, add tests for the class of failure, and score the frozen set once.
+
+- id: q3
+  question: >-
+    Your assistant is 92.5% right overall on answer questions; Russian is 88% and English 94%. How do you
+    report it?
+  options:
+    - >-
+      As 92.5% overall, since every language passed the 85% floor set in G1.
+    - >-
+      As 92.5% overall with a note that results vary slightly by language.
+    - >-
+      Per language with counts beside the overall figure.
+    - >-
+      As the lowest language's score only, to be conservative with the forum.
+  correct: 2
+  explanation: >-
+    Counts per language show where the weakness is and how small each group is; the legal adviser's
+    language condition can only be judged that way. An overall figure hides Russian, and reporting only
+    the minimum throws away information the forum needs.
+
+- id: q4
+  question: >-
+    The chief of staff asks whether, since the assistant passed, it can be on the website for residents
+    on 4 February. What does your verdict say?
+  options:
+    - >-
+      Yes, because it passed every gate on 134 questions in four languages.
+    - >-
+      Yes, as a beta with a disclaimer, while agents run shadow mode in parallel.
+    - >-
+      No, because the works committee has not agreed to any public use.
+    - >-
+      Not yet: agents first; residents after a second test on real questions.
+  correct: 3
+  explanation: >-
+    The offline test used questions written close to the pages, by staff; residents ask differently, and
+    the content is not yet published on the site. Shadow mode with agents tests it on real questions with
+    a person in between. The works committee concerns 106's work, not whether residents may use a tool.
+
+- id: q5
+  question: >-
+    Why does the AI-register entry go to the legal adviser before the assistant reaches agents, rather
+    than after a public launch?
+  options:
+    - >-
+      Because the National Digital Agency's guide makes a register legally binding on municipalities.
+    - >-
+      Because it is the public record the FOI answer lacked, and whether it is a guideline is his question.
+    - >-
+      Because the vendor contract requires a register entry before any production use.
+    - >-
+      Because the works committee asked to see a public description before shadow mode.
+  correct: 1
+  explanation: >-
+    The city already told a journalist it uses no AI; the register entry is the honest answer, and its
+    legal status under section 6 of the FOI Law is the legal adviser's open question. The guide recommends
+    transparency but is not shown to bind municipalities; there is no vendor contract.

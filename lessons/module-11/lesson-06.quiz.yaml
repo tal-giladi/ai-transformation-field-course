@@ -1,0 +1,93 @@
+- id: q1
+  question: >-
+    Your readout recommends against a public chatbot on 4 February. The chief of staff will be in the
+    room. What must be on the front page next to the recommend-against?
+  options:
+    - >-
+      The full list of legal provisions the chatbot would breach, so the risk is clear.
+    - >-
+      A true sentence the mayor can say on the night, each clause backed by an owner and a date.
+    - >-
+      A promise that a public chatbot will follow in June if the agents' pilot succeeds.
+    - >-
+      The vendor's pricing, so the forum sees how expensive the "free pilot" really is.
+  correct: 1
+  explanation: >-
+    The person with the ask needs something to say; a recommend-against with nothing in its place sends
+    him to the vendor. Promising June pre-decides a separate decision, and a list of breaches or prices
+    argues instead of giving him a way forward.
+
+- id: q2
+  question: >-
+    The integration check finds that the register entry says the assistant is "updated when a rule
+    changes", but no document says who is told when the council changes a fee. Why is this the most
+    important contradiction to fix?
+  options:
+    - >-
+      Because the legal adviser will not approve a register entry with an inaccurate sentence.
+    - >-
+      Because the works committee asked for written procedures before shadow mode starts.
+    - >-
+      Because without that trigger the assistant quotes the old fee with a citation — the half-way future.
+    - >-
+      Because the FOI officer needs the update rule before the entry is published.
+  correct: 2
+  explanation: >-
+    The assistant is only as right as the pack, and fees change every year. An update rule with an owner
+    and a trigger is what separates the expert path from the future where the assistant quietly goes
+    stale and agents stop trusting it.
+
+- id: q3
+  question: >-
+    In your first rehearsal you open with the legal adviser's note about the chief of staff's email to
+    the vendor; he says he will ask the vendor to go ahead directly. What do you change for the second?
+  options:
+    - >-
+      Open with his own question about what the mayor can say, give the sentence, then the evidence.
+    - >-
+      Bring the legal adviser to the meeting, so the procurement point carries more authority.
+    - >-
+      Leave the vendor point out entirely, since it will only make him defensive.
+    - >-
+      Send him the note in writing first, so he has time to accept it before you meet.
+  correct: 0
+  explanation: >-
+    Change the delivery, not the finding: start from what he needs, show the evidence, and state the
+    procurement point once as already handled. Dropping it hides a fact he must know; bringing counsel or
+    sending it cold turns a rehearsal into a confrontation.
+
+- id: q4
+  question: >-
+    The forum approves everything. Who should the handover name as the assistant's business owner?
+  options:
+    - >-
+      You, since you built it and know the scripts and the test set best.
+    - >-
+      The CIO, since the assistant runs on the city's cloud tenant.
+    - >-
+      The legal adviser, since the register entry and its review date are legal documents.
+    - >-
+      The Resident Service Division head, with the date you stop being owner.
+  correct: 3
+  explanation: >-
+    The assistant serves 106's work and its value is measured there, so the business owner sits there;
+    the CIO is the technical owner. Keeping it yourself is the accidental owner's trap: it survives only
+    as long as your spare time does.
+
+- id: q5
+  question: >-
+    In the half-way future the assistant passed every gate and still failed by August. What decided it?
+  options:
+    - >-
+      The model drifted after a vendor update and nobody re-ran the eval.
+    - >-
+      Content owners were never named, so the July fee change never reached the pack.
+    - >-
+      Agents resisted the tool because the works committee had not been consulted.
+    - >-
+      The public pilot was launched too early and residents lost trust in the assistant.
+  correct: 1
+  explanation: >-
+    The readout named the dependency on content owners, but the decision record never gave it an owner,
+    so the assistant cited an outdated fee with a confident source. The committee had been consulted, and
+    there was no public launch in that future.

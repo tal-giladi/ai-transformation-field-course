@@ -1,0 +1,9 @@
+reason_code,text_en,text_he
+R-01,Missing document,חסר מסמך
+R-02,Applicant is not a Givat Oren resident,המבקש/ת אינו/ה תושב/ת העיר
+R-03,Vehicle not registered to the applicant,הרכב אינו רשום על שם המבקש/ת
+R-04,Outside the permit zone,מחוץ לאזור ההיתר
+R-05,Incomplete form,טופס לא מלא
+R-06,Safety objection,התנגדות בטיחותית
+R-07,Does not meet the criteria (section 3 of the procedure),אינו עומד בתנאים (סעיף 3 לנוהל)
+R-08,Submitted late,הוגש באיחור

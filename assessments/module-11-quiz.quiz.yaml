@@ -1,0 +1,195 @@
+- id: q1
+  question: >-
+    You run a city's website team. The mayor's chief of staff assigns you "a citizen chatbot" for an
+    event in ten weeks. You have no budget and no authority over the divisions' content. What is your
+    first move?
+  options:
+    - >-
+      Ask the director-general for a mandate that names the objective, done and owners in the divisions.
+    - >-
+      Build a quick prototype on a free tool so the chief of staff sees progress by Sunday.
+    - >-
+      Ask the treasurer to release the budget line so you can start a procurement.
+    - >-
+      Write to every division head asking them to update their pages before the event.
+  correct: 0
+  explanation: >-
+    The mayor's office can make something urgent but cannot assign division heads' time or spending;
+    the director-general can. A free-tool prototype repeats the shadow-AI problem, and asking for money or
+    for other divisions' work without a mandate has nobody behind it.
+
+- id: q2
+  question: >-
+    The hotline reports 83% first-contact resolution. The definition counts scheduled callbacks as
+    resolved, and a third of callbacks are never made. A third of permit contacts repeat within two weeks.
+    How do you present this to the director-general?
+  options:
+    - >-
+      As evidence that the hotline's manager has been misreporting, for the comptroller to review.
+    - >-
+      Both definitions side by side, with callbacks made and repeat contacts as the new measures.
+    - >-
+      As a reason to replace the hotline's measure with a chatbot containment rate.
+    - >-
+      Only the repeat-contact rate, since the old measure is no longer meaningful.
+  correct: 1
+  explanation: >-
+    The old figure is true by its footnote and misleading as a service measure; showing both keeps the
+    manager's trust and lets the forum see the gap. Blaming her ignores that she defined it to protect her
+    team, and containment would repeat the same mistake for a bot.
+
+- id: q3
+  question: >-
+    A business-licensing clerk built a free chatbot on three pages, answering from old documents in
+    Hebrew only; residents typed ID numbers into it. The city told a journalist in September that it uses
+    no AI. What do you recommend?
+  options:
+    - >-
+      Leave the chatbot running until the new assistant replaces it, to avoid a gap in service.
+    - >-
+      Disciplinary action against the clerk and a public statement that the bot was unauthorised.
+    - >-
+      Proper switch-off with the log exported and deletion requested, a corrected FOI answer, no blame.
+    - >-
+      Moving the chatbot to the city's tenant so it keeps running under IT's procedures.
+  correct: 2
+  explanation: >-
+    It gives outdated answers and holds personal data with no contract, so it stops, properly; the FOI
+    answer is wrong and must be corrected in writing. Punishing the clerk teaches staff to hide the next
+    tool, and moving it unchanged keeps the wrong content.
+
+- id: q4
+  question: >-
+    An agent assistant would free about 58 hours a month, roughly ₪1,400 after fixed costs, and loses
+    money if reading an answer takes 0.6 minutes. The treasurer asks whether it is worth doing. What do
+    you answer?
+  options:
+    - >-
+      Yes, because ₪1,400 a month pays back the build cost within a reasonable time.
+    - >-
+      No, because the saving is too small and too sensitive to review time to justify it.
+    - >-
+      Yes, because the freed hours allow two agent positions to be cut next year.
+    - >-
+      The hours are not the case; the case is correct answers in every language, measured.
+  correct: 3
+  explanation: >-
+    The hours are capacity, not cash, fragile and not the reason; promising cuts breaks the consultation
+    with the workers. A small time saving is not a reason to stop either: the value is the same correct,
+    sourced answer for every resident in four languages.
+
+- id: q5
+  question: >-
+    A vendor says it is "in the local-authorities framework, so no tender" and offers a free 90-day pilot,
+    then ₪14,500 a month for 36 months. The framework covers digital forms and payments. What is the right
+    response?
+  options:
+    - >-
+      Say in writing nothing is agreed; the legal adviser picks a route first.
+    - >-
+      Accept the free period, since it costs nothing and gives the city a demo for the mayor.
+    - >-
+      Ask the vendor to price the paid term below the limited-tender ceiling.
+    - >-
+      Run the pilot through the framework, since the vendor is already an approved supplier.
+  correct: 0
+  explanation: >-
+    Only the mayor and the treasurer can commit the city; a free pilot on city data before any tender
+    gives one supplier a head start; a framework for forms does not buy a chatbot. Re-pricing to dodge a
+    threshold is what procurement rules forbid.
+
+- id: q6
+  question: >-
+    The chief of staff suggests a disclaimer, "answers are not legal advice", so the chatbot can launch on
+    the current website. What does New York's MyCity case teach?
+  options:
+    - >-
+      That chatbots should only be launched by cities with a large digital budget.
+    - >-
+      That a disclaimer protects the city as long as residents are told to check.
+    - >-
+      That a disclaimer did not stop wrong answers; refusals and owned sources do.
+    - >-
+      That chatbots should answer only in the majority language to reduce errors.
+  correct: 2
+  explanation: >-
+    MyCity kept giving answers contrary to city law after its disclaimer and was shut down in 2026. The
+    protection is in the design: answers only from owned, dated content, refusals for risky questions,
+    tested before residents see it. Restricting languages would fail the city's residents.
+
+- id: q7
+  question: >-
+    The legal adviser says he will not sign off a service "in every language" that serves Arabic speakers
+    worse than Hebrew speakers. The website's Arabic pages are from 2023. What goes into the pilot?
+  options:
+    - >-
+      Machine translation of the Hebrew pages into Arabic, so the content is always current.
+    - >-
+      Arabic versions in the owned knowledge pack and a language gate with per-language results.
+    - >-
+      Arabic support postponed to a second phase after the Hebrew assistant proves itself.
+    - >-
+      An Arabic notice that answers may be less accurate than the Hebrew ones.
+  correct: 1
+  explanation: >-
+    Equal service has to be built (reviewed Arabic content with an owner) and measured (a gate per
+    language). Machine translation is untested service, and a later phase or a warning is the unequal
+    service the legal adviser described.
+
+- id: q8
+  question: >-
+    Keyword search over the approved knowledge pack gets 93.5% of answer questions right but routes none
+    of the questions that must go to a person. The LLM design gets 92.5% and routes 29 of 32. Which
+    conclusion is right?
+  options:
+    - >-
+      The model adds nothing, since search is already slightly more accurate on answers.
+    - >-
+      The model is better overall, so the content work was a smaller part of the gain.
+    - >-
+      The content fix carries the accuracy; the model earns its place by routing and clarifying.
+    - >-
+      Both designs are equivalent, so the cheaper one, search, should go to residents.
+  correct: 2
+  explanation: >-
+    Fixing the content moved search from 34% to 94% on answers with no AI; the model's added value is
+    behaviour search lacks, such as routing exempt-works, individual and legal questions. Search that
+    answers everything is unsafe for residents precisely on the questions that matter.
+
+- id: q9
+  question: >-
+    The works committee chair asks for a written promise that no hotline agent loses their job because
+    of the assistant. You lead the project. What do you do?
+  options:
+    - >-
+      Ask the director-general to write to him, and commit yourself to how the test works.
+    - >-
+      Give the promise in writing, since the assistant only helps agents.
+    - >-
+      Explain that the agreement requires consultation, not consent, so no promise is needed.
+    - >-
+      Postpone the conversation until the pilot results show whether jobs are affected.
+  correct: 0
+  explanation: >-
+    Positions are the director-general's and HR's to commit; you can commit that the test measures
+    answers, not people, with training and no individual monitoring. Arguing the agreement's wording or
+    postponing loses the consultation it requires.
+
+- id: q10
+  question: >-
+    The forum approves the assistant for agents, the content publication and the new letters. Which line
+    in the decision record most decides whether the assistant is still trusted in six months?
+  options:
+    - >-
+      The date of the public pilot decision, so the mayor's office knows when residents get it.
+    - >-
+      The model and version used, so the eval can be repeated after a vendor update.
+    - >-
+      The works committee's agreement to shadow mode and the training hours.
+    - >-
+      Named content owners and a rule that every fee or rule change updates the pack within days.
+  correct: 3
+  explanation: >-
+    Fees change every year; without owners and an update trigger the assistant cites old figures with
+    confident sources, and agents stop using it. The other lines matter, but none of them keeps the
+    answers right.

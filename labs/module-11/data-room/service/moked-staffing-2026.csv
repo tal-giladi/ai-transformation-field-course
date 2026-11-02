@@ -1,0 +1,27 @@
+agent_id,start_date,languages,contract,status
+A01,2016-03-01,"he,ar",full_time,active
+A02,2017-09-10,he,full_time,active
+A03,2018-01-07,"he,ru",full_time,active
+A04,2018-06-03,he,full_time,active
+A05,2019-02-17,"he,en",full_time,active
+A06,2019-11-03,"he,ru",part_time_75,active
+A07,2020-05-10,he,full_time,active
+A08,2020-08-02,"he,ar",full_time,active
+A09,2021-01-10,he,full_time,active
+A10,2021-03-14,"he,am",full_time,active
+A11,2021-07-04,he,full_time,active
+A12,2022-01-09,"he,ru",full_time,active
+A13,2022-04-03,he,full_time,active
+A14,2022-09-11,"he,en",full_time,active
+A15,2023-01-08,he,part_time_75,active
+A16,2023-03-05,he,full_time,active
+A17,2023-06-11,"he,ar",full_time,active
+A18,2024-01-07,he,part_time_75,active
+A19,2024-02-04,"he,ru",part_time_75,active
+A20,2024-06-02,he,full_time,active
+A21,2025-01-05,he,part_time_75,active
+A22,2025-04-06,he,full_time,active
+A23,2025-09-07,he,full_time,active
+A24,2026-02-01,he,full_time,active
+A90,2015-05-03,"he,ar",full_time,left 2026-03-31
+A91,2019-10-06,"he,ru",full_time,left 2026-06-30

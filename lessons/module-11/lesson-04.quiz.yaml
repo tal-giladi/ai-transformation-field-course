@@ -1,0 +1,95 @@
+- id: q1
+  question: >-
+    The chief of staff suggests adding a disclaimer — "answers are not legal advice" — so the chatbot can
+    launch on the current website. What does the MyCity case suggest instead?
+  options:
+    - >-
+      A stronger disclaimer shown before each answer, plus a link to the official page.
+    - >-
+      Launching as a "beta" for three months so residents understand it may be wrong.
+    - >-
+      Answers only from owned, dated content, tested refusals for risky questions, agents first.
+    - >-
+      Limiting the chatbot to Hebrew until the Arabic pages are updated by the vendor.
+  correct: 2
+  explanation: >-
+    New York added a disclaimer and called it a pilot, and the bot kept giving answers contrary to city
+    law until it was shut down. What reduces wrong advice is design: the source, refusals for exempt-works,
+    individual and legal questions, and a test before residents see it. Hebrew-only would fail the
+    language constraint.
+
+- id: q2
+  question: >-
+    A vendor offers a free 90-day pilot, then ₪14,500 a month for 36 months, and says it is "in the
+    framework, so no tender". The catalogue lists it under digital forms and payments. What do you do first?
+  options:
+    - >-
+      Accept the free period only, and decide about the paid term when it ends.
+    - >-
+      Say in writing that nothing is agreed, and give the legal adviser the proposal and the emails.
+    - >-
+      Ask the vendor for a cheaper paid term so it falls below the limited-tender ceiling.
+    - >-
+      Ask the treasurer to sign a purchase order for the free period so it is properly recorded.
+  correct: 1
+  explanation: >-
+    Only the mayor and the treasurer can commit the city, and a free pilot with city data before a tender
+    raises equal-treatment questions; the framework does not cover chatbots. Splitting or shrinking the
+    contract to dodge a threshold is exactly what procurement rules forbid.
+
+- id: q3
+  question: >-
+    You want the legal adviser's help before the vendor meeting. Which request will get you the most
+    useful answer?
+  options:
+    - >-
+      Five written questions framed as decisions, sent a few days before the meeting.
+    - >-
+      "Is the chatbot legal?", with the vendor's proposal attached for his review.
+    - >-
+      A request to approve the project, since the director-general already agreed.
+    - >-
+      A request for a full legal opinion on AI in local government before you go further.
+  correct: 0
+  explanation: >-
+    Counsel can answer specific questions (is this purchase a tender matter, what binds us, can we
+    publish this) and say what is open. "Is it legal?" and "approve it" cannot be answered, and a general
+    opinion on AI takes months and does not decide your design.
+
+- id: q4
+  question: >-
+    The legal adviser says he will not sign off a service "in every language" that serves Arabic speakers
+    worse than Hebrew speakers. How does this become a design rule for the assistant?
+  options:
+    - >-
+      Machine-translate every Hebrew answer into Arabic so the two are always identical.
+    - >-
+      Launch in Hebrew first and add Arabic when the translation vendor has updated the pages.
+    - >-
+      Add an Arabic disclaimer that answers may be less accurate than in Hebrew.
+    - >-
+      A language gate in the eval: Arabic results measured and held to the Hebrew standard.
+  correct: 3
+  explanation: >-
+    "As well as Hebrew" has to be measured to be kept, so it becomes a gate with numbers per language.
+    Machine translation of Hebrew pages is not tested service in Arabic, and a Hebrew-first launch or an
+    Arabic disclaimer is exactly the unequal service he warned about.
+
+- id: q5
+  question: >-
+    The works committee chair asks you to promise in writing that no 106 agent will lose their job
+    because of the assistant. What do you answer?
+  options:
+    - >-
+      Give the promise, since the assistant is only meant to help agents.
+    - >-
+      Say the test measures answers, not people, and ask the director-general to write to him.
+    - >-
+      Explain that the 2019 agreement only requires informing the committee, not its consent.
+    - >-
+      Decline to discuss staffing, since the pilot has not started yet.
+  correct: 1
+  explanation: >-
+    Commitments on positions belong to the director-general and HR, not to the project lead; you can
+    commit to how the test works. Refusing to discuss it or arguing the agreement's wording loses the
+    consultation the agreement requires.

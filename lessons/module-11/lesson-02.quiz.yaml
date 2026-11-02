@@ -1,0 +1,96 @@
+- id: q1
+  question: >-
+    Moked 106 reports first-contact resolution at 83%. Its footnote counts transfers, tickets and
+    scheduled callbacks as resolved. What is the most useful number to put beside it in your memo?
+  options:
+    - >-
+      The share of contacts from the same caller on the same topic within 14 days.
+    - >-
+      The average handling time per contact, to show how busy the agents are.
+    - >-
+      The post-call satisfaction score, since residents judge whether they were helped.
+    - >-
+      The number of contacts per agent per day, compared with other cities' hotlines.
+  correct: 0
+  explanation: >-
+    A repeat contact is what an unresolved "resolved" contact looks like from the resident's side, and
+    the export lets you measure it. Handling time and load describe the agents, and satisfaction comes
+    from residents who answered a survey, not from what they had to do next.
+
+- id: q2
+  question: >-
+    The website's Arabic parking page still shows the 2025 fee and says leased cars are not eligible.
+    The Hebrew page is current. A colleague says "most residents read Hebrew anyway". What do you write?
+  options:
+    - >-
+      That the Arabic page is a minor translation issue for the vendor to fix in the next refresh.
+    - >-
+      That Hebrew is the authoritative version, so the Arabic page has no effect on residents.
+    - >-
+      Nothing yet, until the legal adviser confirms whether the city must publish in Arabic at all.
+    - >-
+      That Arabic speakers are given a rule the council changed, with the refusals and calls it causes.
+  correct: 3
+  explanation: >-
+    The finding is the effect on residents, which the data shows: Arabic speakers' event applications are
+    refused as late far more often, and leased-car questions come back to 106. Whether Arabic publication
+    is required is a legal question, but a wrong page is a finding regardless of the answer.
+
+- id: q3
+  question: >-
+    You find a chatbot on three business-licensing pages that a clerk built on a free platform with a
+    private account. It quotes old fees and some residents typed ID numbers into it. What do you ask for
+    in the memo?
+  options:
+    - >-
+      A disciplinary review of the clerk, since procedure IS-07 forbids embedded scripts.
+    - >-
+      A proper switch-off by IT with the log exported and deletion requested, and no action against the clerk.
+    - >-
+      Keeping it live until the new assistant is ready, since residents are already using it.
+    - >-
+      Moving it to the city's own tenant, so the same bot keeps running under IT's control.
+  correct: 1
+  explanation: >-
+    It is giving residents outdated figures and holds personal data on a platform with no contract, so it
+    has to stop, properly. The clerk built it because nothing else existed; punishing him teaches everyone
+    else to hide the next tool. Moving it unchanged would keep the wrong content.
+
+- id: q4
+  question: >-
+    Since 1 July the procedure allows leased cars with an employer letter. In the permits export, 33 of
+    55 decided leased-car applications with the letter were refused, mostly with code R-07. What is the
+    finding?
+  options:
+    - >-
+      That 60% of these applicants did not meet the criteria in section 3 of the procedure.
+    - >-
+      That the new procedure is too strict and should be changed by the council.
+    - >-
+      That the desk applies a rule abolished on 1 July, and the letters do not say so.
+    - >-
+      That leased-car applicants are a small group and can be handled case by case.
+  correct: 2
+  explanation: >-
+    The desk checklist is the 2024 version, which still says leased cars are not eligible, and R-07 hides
+    which condition failed. The export shows the effect; the checklist and the clerk explain it. Changing
+    the procedure is not the issue: applying the current one is.
+
+- id: q5
+  question: >-
+    You call a resident whose parking permit was refused. She starts telling the story in order, then
+    asks you what "section 3" means. What do you do?
+  options:
+    - >-
+      Note her question and ask what she would have needed from the letter to act on it.
+    - >-
+      Explain section 3 of the procedure so she understands why the clerk refused her.
+    - >-
+      Tell her the rule changed in July and that she should expect a permit soon.
+    - >-
+      Ask her to send the letter to you so you can check the decision yourself.
+  correct: 0
+  explanation: >-
+    Her question is the finding: a reason she cannot use. Explaining the rule turns the interview into a
+    defence of the city, promising an outcome is not yours to give, and checking her file yourself is the
+    division's job, with her consent.

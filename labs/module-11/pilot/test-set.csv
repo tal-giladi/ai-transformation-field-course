@@ -1,0 +1,175 @@
+question_id,split,language,question,question_en,intent,expected_behaviour,gold_topic,gold_doc,gold_facts,stale_facts,changed_2026
+Q001,dev,he,כמה זמן לוקח האישור?,How long does the approval take?,C-time,clarify,,,,,n
+Q002,dev,ar,لافتتي صغيرة جدًا، نصف متر. ما الحد الأدنى للدفع؟,"My sign is tiny, half a square metre. What is the minimum fee?",SGN-min,answer,SGN,SGN-ar,350,300,y
+Q003,dev,ar,كم بالضبط ستكلفني رخصة مصلحة لمطعم مساحته 80 مترًا؟,Exactly how much will a business licence for an 80 square metre restaurant cost?,R-bizfee,route,BIZ,,,,n
+Q004,dev,ar,تلقيت رفضًا. حتى متى يمكنني الاعتراض؟,How long do I have to object to a decision?,APL-days,answer,APL,APL-ar,30,,n
+Q005,dev,ru,В какой срок отвечают на заявление о месте для инвалида?,How long until I get an answer about a disabled parking space?,DPK-time,answer,DPK,DPK-ru,45,,n
+Q006,dev,ru,Хочу открыть небольшой магазин. С чего начать с лицензией на бизнес?,I want to open a small grocery. Where do I start with a business licence?,BIZ-start,answer,BIZ,BIZ-ru,kw:consult,,n
+Q007,dev,ar,نقيم احتفالًا في الشارع الشهر القادم. حتى متى نقدم الطلب؟,How many days before an event do I need to apply for a street closure?,EVT-lead,answer,EVT,EVT-ar,21,14,y
+Q008,dev,he,קיבלתי סירוב. עד מתי אפשר לערער?,How long do I have to object to a decision?,APL-days,answer,APL,APL-he,30,,n
+Q009,dev,en,How many free bulky-waste pickups do we get each month?,,BLK-free,answer,BLK,BLK-en,2,,n
+Q010,dev,ar,كم يستغرق الحصول على الموافقة؟,How long does the approval take?,C-time,clarify,,,,,n
+Q011,dev,he,כמה מקום צריך להשאיר להולכי רגל כשמציבים שולחנות?,How much room do I have to leave for pedestrians with tables outside?,CAF-walk,answer,CAF,CAF-he,1.5,,n
+Q012,dev,ru,Как долго можно держать контейнер на улице?,How long can a skip stay on the street?,SKP-max,answer,SKP,SKP-ru,4,,n
+Q013,dev,ar,كم تكلف رخصة اللافتة لكل متر مربع؟,What is the annual sign permit fee per square metre?,SGN-fee,answer,SGN,SGN-ar,280,245,y
+Q014,dev,en,How much does a sidewalk café permit cost per square metre?,,CAF-fee,answer,CAF,CAF-en,190,160,y
+Q015,dev,ar,خلال كم يومًا يردون على طلب موقف لذوي الإعاقة؟,How long until I get an answer about a disabled parking space?,DPK-time,answer,DPK,DPK-ar,45,,n
+Q016,dev,am,ለሁለተኛ መኪና የመኪና ማቆሚያ ፈቃድ ስንት ነው?,How much is a parking permit for a second car?,PRK-fee2,route,PRK,,,90,y
+Q017,dev,he,"אבא שלי נכה, איזה מסמכים צריך בשביל חניה שמורה ליד הבית?",What do I need to apply for a disabled parking space near my home?,DPK-docs,answer,DPK,DPK-he,kw:badge,,n
+Q018,dev,en,What do I need to apply for a disabled parking space near my home?,,DPK-docs,answer,DPK,DPK-en,kw:badge,,n
+Q019,dev,ar,كم عملية إخلاء نفايات مجانية في الشهر يحق لنا؟,How many free bulky-waste pickups do we get each month?,BLK-free,answer,BLK,BLK-ar,2,,n
+Q020,dev,ru,"Можно освободить меня от сбора за вывеску в этом году? Бизнес маленький, ситуация тяжёлая.",Can you waive the sign fee for my small shop this year? Things are hard.,R-waive,route,,,,,n
+Q021,dev,en,What is the status of my application 2026-PRK-0412?,,R-status,route,,,,,n
+Q022,dev,he,אילו מסמכים אני צריך להביא?,What documents do I need to bring?,C-docs,clarify,,,,,n
+Q023,dev,he,"הגשתי בקשה לתו חניה, כמה ימים זה לוקח בדרך כלל?",How long does it take to get a resident parking permit?,PRK-time,answer,PRK,PRK-he,10,21,y
+Q024,dev,ru,"Моя вывеска совсем маленькая, полметра. Какой минимальный сбор?","My sign is tiny, half a square metre. What is the minimum fee?",SGN-min,answer,SGN,SGN-ru,350,300,y
+Q025,dev,he,כבר השתמשנו בפינויים החודש. כמה עולה פינוי נוסף?,We have used our free pickups this month. How much is an extra one?,BLK-extra,answer,BLK,BLK-he,150,120,y
+Q026,dev,he,אפשר לוותר לי על אגרת השלט השנה? העסק קטן והמצב קשה.,Can you waive the sign fee for my small shop this year? Things are hard.,R-waive,route,,,,,n
+Q027,dev,he,מה הסטטוס של הבקשה שלי מספר 2026-PRK-0412?,What is the status of my application 2026-PRK-0412?,R-status,route,,,,,n
+Q028,dev,ru,У меня кафе. Какой сбор за метр для столиков на улице?,How much does a sidewalk café permit cost per square metre?,CAF-fee,answer,CAF,CAF-ru,190,160,y
+Q029,dev,ar,عندي سيارة شركة، هل أستطيع الحصول على تصريح وقوف في حارتي؟,My car is leased through my employer. Can I get a resident parking permit?,PRK-lease,answer,PRK,PRK-ar,kw:letter,kw:not_eligible,y
+Q030,dev,he,תוך כמה זמן מקבלים תו חניה?,How long does it take to get a resident parking permit?,PRK-time,answer,PRK,PRK-he,10,21,y
+Q031,dev,ar,كم يكلف تصريح الطاولات على الرصيف؟,How much does a sidewalk café permit cost per square metre?,CAF-fee,answer,CAF,CAF-ar,190,160,y
+Q032,dev,ru,Мне выписали штраф за парковку. Как его обжаловать?,I got a parking ticket. How do I appeal it?,R-fine,route,,,,,n
+Q033,dev,ru,"У нас ремонт, хотим поставить контейнер у дома. Сколько это стоит?",How much is a permit for a skip on the street per week?,SKP-fee,answer,SKP,SKP-ru,75,60,y
+Q034,dev,ar,أريد فتح بقالة صغيرة. من أين أبدأ برخصة المصلحة؟,I want to open a small grocery. Where do I start with a business licence?,BIZ-start,answer,BIZ,BIZ-ar,kw:consult,,n
+Q035,test,ar,أنا مستأجر الشقة. هل أستطيع الحصول على نسخة من ملف البناء؟,I rent my flat. Can I get a copy of the building file?,ARC-who,answer,ARC,ARC-ar,kw:consent,,n
+Q036,dev,en,Can you waive the sign fee for my small shop this year? Things are hard.,,R-waive,route,,,,,n
+Q037,dev,am,የሕንፃ ፋይል ዲጂታል ቅጂ ስንት ያስከፍላል?,How much is a digital copy of a building file?,ARC-fee,route,ARC,,,60,y
+Q038,dev,he,למה דחו לי את התו חניה? תעודת הזהות שלי 038214765.,Why was my parking permit refused? My ID number is 038214765.,R-mine,route,,,,,n
+Q039,test,am,ትንሽ ሱቅ መክፈት እፈልጋለሁ። የንግድ ፈቃድ ከየት ልጀምር?,I want to open a small shop. Where do I start with a licence?,BIZ-start,route,BIZ,,,,n
+Q040,test,ar,كم يكلف تصريح حاوية في الشارع لأسبوع؟,How much is a permit for a skip on the street per week?,SKP-fee,answer,SKP,SKP-ar,75,60,y
+Q041,test,am,በውሳኔ ላይ ቅሬታ ለማቅረብ ስንት ጊዜ አለኝ?,How long do I have to object to a decision?,APL-days,route,APL,,,,n
+Q042,test,he,כמה עולה תו חניה לרכב שני?,How much is a resident parking permit for a second car?,PRK-fee2,answer,PRK,PRK-he,120,90,y
+Q043,dev,ru,У нас в семье две машины. Сколько платить за разрешение на вторую?,How much is a resident parking permit for a second car?,PRK-fee2,answer,PRK,PRK-ru,120,90,y
+Q044,dev,en,I want to open a small grocery. Where do I start with a business licence?,,BIZ-start,answer,BIZ,BIZ-en,kw:consult,,n
+Q045,dev,ru,Сколько стоит дополнительный вывоз крупногабаритного мусора?,We have used our free pickups this month. How much is an extra one?,BLK-extra,answer,BLK,BLK-ru,150,120,y
+Q046,test,ru,Сколько стоит разрешение?,How much does the permit cost?,C-fee,clarify,,,,,n
+Q047,test,ar,لماذا رفضوا تصريح الوقوف لي؟ رقم هويتي 038214765.,Why was my parking permit refused? My ID number is 038214765.,R-mine,route,,,,,n
+Q048,test,ru,Сколько стоит электронная копия строительного дела?,How much does a digital copy of a building file cost?,ARC-fee,answer,ARC,ARC-ru,40,60,y
+Q049,test,en,How much does a digital copy of a building file cost?,,ARC-fee,answer,ARC,ARC-en,40,60,y
+Q050,test,ru,"Сколько у меня времени, чтобы подать возражение на решение?",How long do I have to object to a decision?,APL-days,answer,APL,APL-ru,30,,n
+Q051,test,he,"אני פותחת חנות ורוצה לתלות שלט. מה האגרה למ""ר?",What is the annual sign permit fee per square metre?,SGN-fee,answer,SGN,SGN-he,280,245,y
+Q052,test,he,כמה עולה לסגור רחוב ליום אחד?,How much does it cost to close a street for one day?,EVT-fee,answer,EVT,EVT-he,350,,n
+Q053,test,he,מה הצעד הראשון כדי לקבל רישיון עסק?,I want to open a small grocery. Where do I start with a business licence?,BIZ-start,answer,BIZ,BIZ-he,kw:consult,,n
+Q054,test,he,כמה עולה פינוי פסולת גושית נוסף?,We have used our free pickups this month. How much is an extra one?,BLK-extra,answer,BLK,BLK-he,150,120,y
+Q055,test,ru,Какой статус у моего заявления номер 2026-PRK-0412?,What is the status of my application 2026-PRK-0412?,R-status,route,,,,,n
+Q056,test,he,איך מקבלים הנחה בארנונה לגמלאים?,How do I get an arnona discount for pensioners?,R-arnona,route,,,,,n
+Q057,test,he,אני שוכר את הדירה. אני יכול לקבל צילום של תיק הבניין?,I rent my flat. Can I get a copy of the building file?,ARC-who,answer,ARC,ARC-he,kw:consent,,n
+Q058,test,en,I rent my flat. Can I get a copy of the building file?,,ARC-who,answer,ARC,ARC-en,kw:consent,,n
+Q059,test,he,"צריך את התוכניות של הדירה מהארכיון, במייל. כמה זה עולה?",How much does a digital copy of a building file cost?,ARC-fee,answer,ARC,ARC-he,40,60,y
+Q060,test,ar,عندنا سيارتان في البيت، كم ندفع على تصريح السيارة الثانية؟,How much is a resident parking permit for a second car?,PRK-fee2,answer,PRK,PRK-ar,120,90,y
+Q061,test,he,כמה זמן יש לי להגיש השגה על החלטה?,How long do I have to object to a decision?,APL-days,answer,APL,APL-he,30,,n
+Q062,test,he,מה צריך כדי לבקש חניית נכה ליד הבית?,What do I need to apply for a disabled parking space near my home?,DPK-docs,answer,DPK,DPK-he,kw:badge,,n
+Q063,test,ar,أحتاج مخططات الشقة من الأرشيف بالبريد الإلكتروني. كم يكلف ذلك؟,How much does a digital copy of a building file cost?,ARC-fee,answer,ARC,ARC-ar,40,60,y
+Q064,test,he,תוך כמה זמן עונים על בקשה לחניית נכה?,How long until I get an answer about a disabled parking space?,DPK-time,answer,DPK,DPK-he,45,,n
+Q065,test,ar,استعملنا الإخلاءات هذا الشهر. كم يكلف إخلاء إضافي؟,We have used our free pickups this month. How much is an extra one?,BLK-extra,answer,BLK,BLK-ar,150,120,y
+Q066,test,he,כמה זמן מראש צריך לבקש סגירת רחוב לאירוע?,How many days before an event do I need to apply for a street closure?,EVT-lead,answer,EVT,EVT-he,21,14,y
+Q067,test,ru,Мы устраиваем праздник на улице в следующем месяце. До какого срока подавать заявление?,How many days before an event do I need to apply for a street closure?,EVT-lead,answer,EVT,EVT-ru,21,14,y
+Q068,test,en,What is the annual sign permit fee per square metre?,,SGN-fee,answer,SGN,SGN-en,280,245,y
+Q069,test,ar,قبل كم من الوقت يجب طلب إغلاق شارع لحدث؟,How many days before an event do I need to apply for a street closure?,EVT-lead,answer,EVT,EVT-ar,21,14,y
+Q070,test,ar,سيارتي ليسينغ من العمل. هل يحق لي تصريح وقوف للسكان؟,My car is leased through my employer. Can I get a resident parking permit?,PRK-lease,answer,PRK,PRK-ar,kw:letter,kw:not_eligible,y
+Q071,test,he,כמה פינויי גזם בחודש מגיעים לנו בחינם?,How many free bulky-waste pickups do we get each month?,BLK-free,answer,BLK,BLK-he,2,,n
+Q072,test,en,The letter doesn't say why I was refused. What can I do?,,APL-unclear,answer,APL,APL-en,kw:objection,,n
+Q073,test,am,መኪናዬ ከሥራ የተከራየ ነው። የነዋሪ ማቆሚያ ፈቃድ ማግኘት እችላለሁ?,My car is leased from work. Can I get a resident permit?,PRK-lease,route,PRK,,,kw:not_eligible,y
+Q074,test,ar,إذا رفضت البلدية طلبي، هل أستطيع مقاضاتها؟,"If the city refuses my permit, can I sue?",R-sue,route,,,,,n
+Q075,test,en,How long does it take to get a resident parking permit?,,PRK-time,answer,PRK,PRK-en,10,21,y
+Q076,test,ar,ما هي الخطوة الأولى للحصول على رخصة مصلحة؟,I want to open a small grocery. Where do I start with a business licence?,BIZ-start,answer,BIZ,BIZ-ar,kw:consult,,n
+Q077,test,ar,حصلت على مخالفة وقوف، كيف أعترض عليها؟,I got a parking ticket. How do I appeal it?,R-fine,route,,,,,n
+Q078,test,ru,"Что нужно, чтобы попросить парковочное место для инвалида возле дома?",What do I need to apply for a disabled parking space near my home?,DPK-docs,answer,DPK,DPK-ru,kw:badge,,n
+Q079,test,he,כמה עולה עותק דיגיטלי של תיק בניין?,How much does a digital copy of a building file cost?,ARC-fee,answer,ARC,ARC-he,40,60,y
+Q080,test,ru,"Нужны планы квартиры из архива, по почте. Сколько это стоит?",How much does a digital copy of a building file cost?,ARC-fee,answer,ARC,ARC-ru,40,60,y
+Q081,test,am,በመንገድ ላይ ለኮንቴይነር ፈቃድ በሳምንት ስንት ነው?,How much is a skip permit per week?,SKP-fee,route,SKP,,,60,y
+Q082,test,ar,كم لدي من الوقت لتقديم اعتراض على قرار؟,How long do I have to object to a decision?,APL-days,answer,APL,APL-ar,30,,n
+Q083,test,en,We have used our free pickups this month. How much is an extra one?,,BLK-extra,answer,BLK,BLK-en,150,120,y
+Q084,test,ru,Я снимаю квартиру. Могу ли я получить копию строительного дела?,I rent my flat. Can I get a copy of the building file?,ARC-who,answer,ARC,ARC-ru,kw:consent,,n
+Q085,test,en,How much room do I have to leave for pedestrians with tables outside?,,CAF-walk,answer,CAF,CAF-en,1.5,,n
+Q086,test,he,כמה עולה רישיון לשלט לכל מטר?,What is the annual sign permit fee per square metre?,SGN-fee,answer,SGN,SGN-he,280,245,y
+Q087,test,en,What documents do I need to bring?,,C-docs,clarify,,,,,n
+Q088,test,en,How much does it cost to close a street for one day?,,EVT-fee,answer,EVT,EVT-en,350,,n
+Q089,test,en,How much is a resident parking permit for a second car?,,PRK-fee2,answer,PRK,PRK-en,120,90,y
+Q090,test,ru,Мне отказали. До какого срока можно обжаловать?,How long do I have to object to a decision?,APL-days,answer,APL,APL-ru,30,,n
+Q091,test,ar,ما هي حالة طلبي رقم 2026-PRK-0412؟,What is the status of my application 2026-PRK-0412?,R-status,route,,,,,n
+Q092,test,en,How long does the approval take?,,C-time,clarify,,,,,n
+Q093,test,am,መንገድ ለመዝጋት ከዝግጅቱ ስንት ቀን በፊት ማመልከት አለብኝ?,How many days before an event must I apply to close a street?,EVT-lead,route,EVT,,,14,y
+Q094,test,ar,كم تكلف نسخة رقمية من ملف البناء؟,How much does a digital copy of a building file cost?,ARC-fee,answer,ARC,ARC-ar,40,60,y
+Q095,test,ru,За сколько дней нужно подать заявку на перекрытие улицы для мероприятия?,How many days before an event do I need to apply for a street closure?,EVT-lead,answer,EVT,EVT-ru,21,14,y
+Q096,test,ar,عندي سيارة واحدة. هل يجب أن أدفع على تصريح الوقوف؟,I have one car. Do I pay for the resident parking permit?,PRK-first,answer,PRK,PRK-ar,kw:free,,n
+Q097,test,he,"אם העירייה תדחה את הבקשה שלי, אני יכול לתבוע אותה?","If the city refuses my permit, can I sue?",R-sue,route,,,,,n
+Q098,test,ru,Как получить скидку на арнону для пенсионеров?,How do I get an arnona discount for pensioners?,R-arnona,route,,,,,n
+Q099,test,ar,الرسالة لا تشرح لماذا رفضوني. ماذا أستطيع أن أفعل؟,The letter doesn't say why I was refused. What can I do?,APL-unclear,answer,APL,APL-ar,kw:objection,,n
+Q100,test,he,אני רוצה לפתוח מכולת קטנה. מאיפה מתחילים עם רישיון עסק?,I want to open a small grocery. Where do I start with a business licence?,BIZ-start,answer,BIZ,BIZ-he,kw:consult,,n
+Q101,test,ru,Почему мне отказали в разрешении на парковку? Мой теудат-зеут 038214765.,Why was my parking permit refused? My ID number is 038214765.,R-mine,route,,,,,n
+Q102,test,ar,كم يكلف التصريح؟,How much does the permit cost?,C-fee,clarify,,,,,n
+Q103,test,ar,هل أحتاج ترخيصًا لبرغولا مساحتها 20 مترًا على السطح؟,Do I need a permit for a 20 square metre pergola on my roof?,R-exempt,route,EXW,,,,n
+Q104,test,ar,قدمت طلب تصريح وقوف، كم يومًا يستغرق عادة؟,How long does it take to get a resident parking permit?,PRK-time,answer,PRK,PRK-ar,10,21,y
+Q105,test,ru,"Если муниципалитет откажет мне, могу ли я подать на него в суд?","If the city refuses my permit, can I sue?",R-sue,route,,,,,n
+Q106,test,ar,كم يكلف إخلاء نفايات كبيرة إضافي؟,We have used our free pickups this month. How much is an extra one?,BLK-extra,answer,BLK,BLK-ar,150,120,y
+Q107,test,ru,"Сколько места нужно оставить пешеходам, если ставить столы?",How much room do I have to leave for pedestrians with tables outside?,CAF-walk,answer,CAF,CAF-ru,1.5,,n
+Q108,test,he,כמה בדיוק יעלה לי רישיון עסק למסעדה של 80 מטר?,Exactly how much will a business licence for an 80 square metre restaurant cost?,R-bizfee,route,BIZ,,,,n
+Q109,test,he,כמה זמן מותר להשאיר מכולה ברחוב?,How long can a skip stay on the street?,SKP-max,answer,SKP,SKP-he,4,,n
+Q110,test,he,אנחנו בשיפוץ ורוצים מכולה ליד הבית. כמה זה עולה?,How much is a permit for a skip on the street per week?,SKP-fee,answer,SKP,SKP-he,75,60,y
+Q111,test,am,ተጨማሪ የቆሻሻ ማንሳት ስንት ያስከፍላል?,How much does an extra bulky-waste pickup cost?,BLK-extra,route,BLK,,,120,y
+Q112,test,ar,خلال كم من الوقت أحصل على تصريح الوقوف؟,How long does it take to get a resident parking permit?,PRK-time,answer,PRK,PRK-ar,10,21,y
+Q113,test,ru,Сколько точно будет стоить лицензия на ресторан площадью 80 метров?,Exactly how much will a business licence for an 80 square metre restaurant cost?,R-bizfee,route,BIZ,,,,n
+Q114,test,ru,"Какой первый шаг, чтобы получить лицензию на бизнес?",I want to open a small grocery. Where do I start with a business licence?,BIZ-start,answer,BIZ,BIZ-ru,kw:consult,,n
+Q115,test,ru,Сколько стоит разрешение на контейнер на улице за неделю?,How much is a permit for a skip on the street per week?,SKP-fee,answer,SKP,SKP-ru,75,60,y
+Q116,test,am,ከቤቴ አጠገብ የአካል ጉዳተኛ ማቆሚያ ለመጠየቅ ምን ያስፈልገኛል?,What do I need for a disabled parking space near home?,DPK-docs,route,DPK,,,,n
+Q117,test,ar,ماذا أحتاج لطلب موقف لذوي الإعاقة قرب البيت؟,What do I need to apply for a disabled parking space near my home?,DPK-docs,answer,DPK,DPK-ar,kw:badge,,n
+Q118,test,ar,نحن نرمم البيت ونريد حاوية بجانبه. كم يكلف ذلك؟,How much is a permit for a skip on the street per week?,SKP-fee,answer,SKP,SKP-ar,75,60,y
+Q119,test,ru,Какие документы мне нужно принести?,What documents do I need to bring?,C-docs,clarify,,,,,n
+Q120,test,en,"If the city refuses my permit, can I sue?",,R-sue,route,,,,,n
+Q121,test,he,כמה עולה היתר לשולחנות על המדרכה?,How much does a sidewalk café permit cost per square metre?,CAF-fee,answer,CAF,CAF-he,190,160,y
+Q122,test,en,My car is leased through my employer. Can I get a resident parking permit?,,PRK-lease,answer,PRK,PRK-en,kw:letter,kw:not_eligible,y
+Q123,test,he,"קיבלתי דוח חניה, איך מערערים?",I got a parking ticket. How do I appeal it?,R-fine,route,,,,,n
+Q124,test,ru,Сколько бесплатных вывозов мусора в месяц нам положено?,How many free bulky-waste pickups do we get each month?,BLK-free,answer,BLK,BLK-ru,2,,n
+Q125,test,en,Do I need a permit for a 20 square metre pergola on my roof?,,R-exempt,route,EXW,,,,n
+Q126,test,en,I got a parking ticket. How do I appeal it?,,R-fine,route,,,,,n
+Q127,test,ru,Открываю магазин и хочу повесить вывеску. Какой сбор за метр?,What is the annual sign permit fee per square metre?,SGN-fee,answer,SGN,SGN-ru,280,245,y
+Q128,test,he,כמה עולה ההיתר?,How much does the permit cost?,C-fee,clarify,,,,,n
+Q129,test,he,"יש לי רכב חברה, אפשר לקבל תו חניה באזור שלי?",My car is leased through my employer. Can I get a resident parking permit?,PRK-lease,answer,PRK,PRK-he,kw:letter,kw:not_eligible,y
+Q130,test,ar,ما هي المستندات التي يجب أن أحضرها؟,What documents do I need to bring?,C-docs,clarify,,,,,n
+Q131,test,en,How long can a skip stay on the street?,,SKP-max,answer,SKP,SKP-en,4,,n
+Q132,test,he,"יש לי בית קפה, מה האגרה לכל מטר של שולחנות בחוץ?",How much does a sidewalk café permit cost per square metre?,CAF-fee,answer,CAF,CAF-he,190,160,y
+Q133,test,ar,كم يكلف إغلاق شارع ليوم واحد؟,How much does it cost to close a street for one day?,EVT-fee,answer,EVT,EVT-ar,350,,n
+Q134,test,ar,كم من الوقت مسموح أن تبقى الحاوية في الشارع؟,How long can a skip stay on the street?,SKP-max,answer,SKP,SKP-ar,4,,n
+Q135,test,he,אנחנו עושים חגיגה ברחוב בחודש הבא. עד מתי להגיש בקשה?,How many days before an event do I need to apply for a street closure?,EVT-lead,answer,EVT,EVT-he,21,14,y
+Q136,test,en,How do I get an arnona discount for pensioners?,,R-arnona,route,,,,,n
+Q137,test,ar,عندي مقهى، ما الرسوم لكل متر من الطاولات في الخارج؟,How much does a sidewalk café permit cost per square metre?,CAF-fee,answer,CAF,CAF-ar,190,160,y
+Q138,test,ru,Сколько стоит перекрыть улицу на один день?,How much does it cost to close a street for one day?,EVT-fee,answer,EVT,EVT-ru,350,,n
+Q139,test,ru,Нужно ли разрешение на перголу 20 метров на крыше?,Do I need a permit for a 20 square metre pergola on my roof?,R-exempt,route,EXW,,,,n
+Q140,test,he,יש לנו שני רכבים בבית. כמה נשלם על התו של הרכב השני?,How much is a resident parking permit for a second car?,PRK-fee2,answer,PRK,PRK-he,120,90,y
+Q141,test,ru,У меня одна машина. Нужно платить за разрешение на парковку?,I have one car. Do I pay for the resident parking permit?,PRK-first,answer,PRK,PRK-ru,kw:free,,n
+Q142,test,am,የመኪና ማቆሚያ ፈቃዴ ለምን ተከለከለ?,Why was my parking permit refused?,R-mine,route,,,,,n
+Q143,test,en,How long until I get an answer about a disabled parking space?,,DPK-time,answer,DPK,DPK-en,45,,n
+Q144,test,ar,هل يمكن إعفائي من رسوم اللافتة هذه السنة؟ المصلحة صغيرة والوضع صعب.,Can you waive the sign fee for my small shop this year? Things are hard.,R-waive,route,,,,,n
+Q145,test,en,I have one car. Do I pay for the resident parking permit?,,PRK-first,answer,PRK,PRK-en,kw:free,,n
+Q146,test,en,Exactly how much will a business licence for an 80 square metre restaurant cost?,,R-bizfee,route,BIZ,,,,n
+Q147,test,ru,Через сколько времени выдают разрешение на парковку?,How long does it take to get a resident parking permit?,PRK-time,answer,PRK,PRK-ru,10,21,y
+Q148,test,ar,كيف أحصل على خصم في الأرنونا للمتقاعدين؟,How do I get an arnona discount for pensioners?,R-arnona,route,,,,,n
+Q149,test,en,"My sign is tiny, half a square metre. What is the minimum fee?",,SGN-min,answer,SGN,SGN-en,350,300,y
+Q150,test,ru,Мы уже использовали вывозы в этом месяце. Сколько стоит дополнительный?,We have used our free pickups this month. How much is an extra one?,BLK-extra,answer,BLK,BLK-ru,150,120,y
+Q151,test,ru,Сколько стоит разрешение на столы на тротуаре?,How much does a sidewalk café permit cost per square metre?,CAF-fee,answer,CAF,CAF-ru,190,160,y
+Q152,test,ru,Сколько времени занимает одобрение?,How long does the approval take?,C-time,clarify,,,,,n
+Q153,test,ru,Сколько стоит разрешение на парковку для второй машины?,How much is a resident parking permit for a second car?,PRK-fee2,answer,PRK,PRK-ru,120,90,y
+Q154,test,ar,أبي معاق، ما المستندات المطلوبة لموقف محجوز قرب البيت؟,What do I need to apply for a disabled parking space near my home?,DPK-docs,answer,DPK,DPK-ar,kw:badge,,n
+Q155,test,he,אני צריך היתר בשביל פרגולה של 20 מטר על הגג?,Do I need a permit for a 20 square metre pergola on my roof?,R-exempt,route,EXW,,,,n
+Q156,test,ru,У меня машина в лизинге от работы. Положено ли мне разрешение на парковку для жителей?,My car is leased through my employer. Can I get a resident parking permit?,PRK-lease,answer,PRK,PRK-ru,kw:letter,kw:not_eligible,y
+Q157,test,ru,Я подал заявление на разрешение на парковку. Сколько дней это обычно занимает?,How long does it take to get a resident parking permit?,PRK-time,answer,PRK,PRK-ru,10,21,y
+Q158,test,en,How much is a permit for a skip on the street per week?,,SKP-fee,answer,SKP,SKP-en,75,60,y
+Q159,test,en,Why was my parking permit refused? My ID number is 038214765.,,R-mine,route,,,,,n
+Q160,test,en,How much does the permit cost?,,C-fee,clarify,,,,,n
+Q161,test,he,במכתב לא כתוב למה דחו אותי. מה אני יכולה לעשות?,The letter doesn't say why I was refused. What can I do?,APL-unclear,answer,APL,APL-he,kw:objection,,n
+Q162,test,ar,كم يكلف تصريح الوقوف لسيارة ثانية؟,How much is a resident parking permit for a second car?,PRK-fee2,answer,PRK,PRK-ar,120,90,y
+Q163,test,he,יש לי רכב אחד. צריך לשלם על תו החניה?,I have one car. Do I pay for the resident parking permit?,PRK-first,answer,PRK,PRK-he,kw:free,,n
+Q164,test,ru,У меня служебная машина. Можно получить разрешение на парковку в моём районе?,My car is leased through my employer. Can I get a resident parking permit?,PRK-lease,answer,PRK,PRK-ru,kw:letter,kw:not_eligible,y
+Q165,test,ar,أفتح محلًا وأريد تعليق لافتة. ما الرسوم لكل متر؟,What is the annual sign permit fee per square metre?,SGN-fee,answer,SGN,SGN-ar,280,245,y
+Q166,test,ru,Мой отец инвалид. Какие документы нужны для места у дома?,What do I need to apply for a disabled parking space near my home?,DPK-docs,answer,DPK,DPK-ru,kw:badge,,n
+Q167,test,ru,Сколько стоит разрешение на вывеску за квадратный метр?,What is the annual sign permit fee per square metre?,SGN-fee,answer,SGN,SGN-ru,280,245,y
+Q168,test,he,"השלט שלי קטן מאוד, חצי מטר. מה המינימום לשלם?","My sign is tiny, half a square metre. What is the minimum fee?",SGN-min,answer,SGN,SGN-he,350,300,y
+Q169,test,he,כמה עולה היתר למכולה ברחוב לשבוע?,How much is a permit for a skip on the street per week?,SKP-fee,answer,SKP,SKP-he,75,60,y
+Q170,test,en,How many days before an event do I need to apply for a street closure?,,EVT-lead,answer,EVT,EVT-en,21,14,y
+Q171,test,ru,"В письме не написано, почему мне отказали. Что я могу сделать?",The letter doesn't say why I was refused. What can I do?,APL-unclear,answer,APL,APL-ru,kw:objection,,n
+Q172,test,en,How long do I have to object to a decision?,,APL-days,answer,APL,APL-en,30,,n
+Q173,test,ar,كم مساحة يجب أن أترك للمشاة عند وضع الطاولات؟,How much room do I have to leave for pedestrians with tables outside?,CAF-walk,answer,CAF,CAF-ar,1.5,,n
+Q174,test,he,הרכב שלי ליסינג מהעבודה. מגיע לי תו חניה לתושב?,My car is leased through my employer. Can I get a resident parking permit?,PRK-lease,answer,PRK,PRK-he,kw:letter,kw:not_eligible,y

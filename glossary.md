@@ -16,6 +16,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Agentic opportunity frame** — A one-page design of one candidate workflow: today's steps, what simplification removes, what does each step, builder, connections and permissions, checks, upkeep and why it is or is not an agent (lesson 03.2).
 - **AI in a feature update** — An AI capability that arrived in software the organization already used, often enabled by default, without anyone choosing it (lesson 01.7).
 - **AI inventory** — The list of every AI system and feature, one row per tool per use, with owner, data, the decision it shapes and the next action, including excluded systems with reasons (lesson 01.7).
+- **AI-register entry** — The public, plain-language record of an AI system a public body uses: purpose, sources, human role, tests, data, owners and how to complain (lesson 11.5).
 - **Altitude problem** — Adoption looks better the higher you ask, because managers see screens and dashboards rather than the work (lesson 06.4).
 - **Ambient scribe** — A tool that listens to a clinical conversation and drafts the visit note for the clinician to check, edit and sign; the signed note stays the clinician's (lesson 10.1).
 - **Answer first** — Opening a memo with the answer to the sponsor's question, the number that carries it and the recommended decision, in three sentences (lesson 02.7).
@@ -24,7 +25,9 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Billed resolution** — The unit a per-outcome AI vendor charges for, defined in its contract; compare prices only after reading what each vendor counts (lesson 08.4).
 - **Blameless review** — An incident review that looks for contributing causes without indicting anyone and whose actions change controls, with owners and dates (lesson 07.5).
 - **Blind calibration set** — Real human outputs mixed unmarked among AI drafts during rating, to check that raters apply the rubric strictly and to measure today's error rate (lesson 05.4).
+- **Blue track** — The Israel National Digital Agency guide's track for a limited, controlled experiment with set duration, metrics and reporting before full deployment (lesson 11.4).
 - **Breakage** — The value of store credit that customers never redeem, booked as income; a hidden reason a business may prefer credit notes to refunds (lesson 08.3).
+- **Callback made** — A callback completed by its promised date, as opposed to one merely scheduled within an SLA (lesson 11.2).
 - **Capacity vs cash** — Freed hours are capacity; they become cash only when a named budget line changes, with an owner and a date (lesson 03.7).
 - **Chain of custody** — For a dataset: origin, the purpose it was collected for, whether that purpose covers the new use, where access is enforced, and the person who owns it today (lesson 02.5).
 - **Champion** — A respected colleague given protected time to help others on real work and log issues with examples, who never reports on individuals or changes the tool (lesson 06.3).
@@ -39,6 +42,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Concede with a condition** — Naming a weak point yourself in a meeting and tying it to a gate or condition, so the gap becomes the reason for the control (lesson 07.4).
 - **Confident wrong value** — An extracted value that is wrong but carries a high confidence score, so the reviewer is not prompted to check it; worse than a blank (lesson 09.5).
 - **Containment** — A chatbot vendor's share of conversations that ended without a hand-over to a person; not the same as resolution until tested against what customers did next (lesson 08.2).
+- **Content owner** — The named person in a division who answers for a page or knowledge document being correct, dated and updated within a set time after a rule changes (lesson 11.3).
 - **Control status** — Whether a control is effective (runs and catches the failure, with evidence), designed, on paper only, or missing; it decides how far the residual rating may fall (lesson 04.5).
 - **Correction to the record** — A dated statement at the top of a committee paper that something management told the committee earlier is no longer true, with the date it stopped being true (lesson 09.4).
 - **Cost per truly resolved chat** — A chatbot's bill divided by the conversations not followed by an agent contact within a set window, the figure to compare with an agent's cost per contact (lesson 08.3).
@@ -71,6 +75,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Fast screen** — Seven one-sentence questions per candidate, a pass-or-fail data gate and a verdict of go, go with a condition, or stop, run before any scoring (lesson 03.3).
 - **First 72 hours** — The items that make a yes executable within three working days: written decision, money released, team told by its manager, conditions with owners and dates (lesson 07.8).
 - **Four ledgers** — The sponsor's team, the receiving team, control capacity (review labour) and the customer's share; every claimed benefit is netted across them (lesson 03.7).
+- **Free pilot** — A supplier's no-cost trial on the client's data; in the public sector still an engagement that needs a procurement route and gives the supplier a head start (lesson 11.4).
 - **Freed hours** — Capacity a pilot creates; unless someone writes down where it goes, with an owner and an indicator, it refills unseen (lesson 06.1).
 - **Frontline-manager questions** — Does the manager expect use where it helps, use the tool visibly, and talk about it in regular conversations about the work (lesson 06.4).
 - **Fund nothing new** — At a gate that is not fully met, no new builds are funded and held money is not re-allocated; every request gets a written answer, a reason and a re-screen date (lesson 07.2).
@@ -89,6 +94,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Interim AI rule** — A short rule issued within days of the census, covering the data that may not go into unapproved tools, an approved alternative with a date, and an amnesty for past use (lesson 01.6).
 - **Issues log** — The champions' record of what goes wrong, one row per problem with an example, each with a decision, an owner and the date the team was told (lesson 06.3).
 - **Job aid** — The one-page reference kept beside the screen: the rule, the checks, the marks, the stop conditions and where to get help (lesson 06.2).
+- **Knowledge pack** — The approved set of documents an assistant may answer from, each with an owner and an effective date, in every language it serves (lesson 11.5).
 - **Label question** — Whether the outcome an AI use would learn from or be judged against was ever recorded, consistently, by someone who knew; if not, the verdict is "not yet" (lesson 02.5).
 - **Language mismatch** — A visit in which the doctor does not speak the patient's preferred language, so a relative, a nurse or a phone interpreter carries the conversation (lesson 10.2).
 - **Ledger line** — For a candidate, who now checks, corrects, escalates or waits because of the change; never left blank (lesson 03.1).
@@ -103,6 +109,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Mechanism sentence** — A risk written as "Because [condition], [who] may suffer [harm] through [path]", so a control can be attached to the path (lesson 04.5).
 - **Monitoring notice** — The written notice, given before collection, of what is recorded about employees, why, who sees it, what it is never used for and how long it is kept (lesson 06.5).
 - **Must-have term** — A contract term set before vendors answer whose refusal excludes the vendor whatever its price or score; a gate, not a weight (lesson 10.4).
+- **Must-route question** — A question an assistant must hand to a person instead of answering, such as a resident's own decision, exempt building works or legal advice (lesson 11.5).
 - **Narrowest switch** — The smallest switch-off that stops the harm (one category, channel or language), tried before wider ones (lesson 07.5).
 - **Negative test** — A hand-written test case for a rare or harmful situation (injury, refund outside policy, another person's data, prompt injection, unsupported language) that the pilot must handle correctly every time (lesson 05.2).
 - **No-AI baseline** — The result of the simplest method without a model (keyword rules, macros) on the same test set, which an AI pilot must beat where it is used (lesson 05.4).
@@ -155,6 +162,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Scrutiny rule** — The written, dated list of candidate classes that always get full scrutiny, agreed with the sponsor before screening (lesson 03.3).
 - **Seen / said / hearsay** — The three marks on every fact in interview notes: you observed it or saw the record, the person told you, or the person told you about someone else (lesson 02.2).
 - **Sensitivity check** — Recomputing a weighted score with the weights someone disputes, to show whether the choice changes, without reopening the locked criteria (lesson 10.5).
+- **Service language** — The language a resident was actually answered in, compared with the language they chose or wrote in (lesson 11.2).
 - **Shadow AI** — AI tools and features used for work without the organization having decided to use them, including tools paid for in plain sight on expense claims (lesson 01.6).
 - **Shadow mode** — Running the AI on live production messages with its output hidden from staff and customers, compared afterwards with what people actually did (lesson 05.6).
 - **Shadow-AI census** — A department-level count of AI use built from at least four sources (survey, proxy log, extensions, expenses and SaaS list, interviews, traces in the work) under a stated amnesty (lesson 01.6).
@@ -180,6 +188,8 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Two-reader check** — Giving the front page to a finance reader and a sponsor for one minute each and fixing whatever they cannot find (lesson 03.9).
 - **Two-sentence test** — For each stakeholder, one sentence on what they need to call the program a win and one on what they risk; if you cannot write both from evidence, you write "to learn" (lesson 02.1).
 - **Unsure-marking** — A scribe's flag on a passage it is not confident about, which the clinician must confirm before signing (lesson 10.4).
+- **Usable reason** — A refusal that names the condition not met, the document that would meet it and the route to object, in the applicant's language (lesson 11.2).
 - **Verified / reported / contradicted** — The three evidence statuses in a readiness assessment: checked against data you hold or seen yourself, said but not checked, or contradicted by data you hold (lesson 02.6).
 - **Walkable on paper** — A process whose steps, owner per step, trigger and volume can all be written down; one that is not is "not yet a candidate" for automation or AI (lesson 02.3).
 - **Wrong vs fragile** — A wrong assumption is false today and must be corrected; a fragile dependency is true today but may change and needs a fallback, a trigger or a re-sequence (lesson 07.7).
+- **Wrong-advice risk** — The risk that a public assistant states a rule incorrectly to someone who acts on it; controlled by owned sources and tested refusals, not by disclaimers (lesson 11.4).

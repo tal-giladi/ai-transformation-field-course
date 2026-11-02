@@ -1,0 +1,97 @@
+- id: q1
+  question: >-
+    The mayor's chief of staff emails on Thursday night asking for "a plan by Sunday" for a citizen
+    chatbot. You run Digital Services and have no budget of your own. What do you send on Sunday?
+  options:
+    - >-
+      A short reply with a date for options and a line for the mayor, saying you will seek a mandate from the director-general.
+    - >-
+      A detailed chatbot plan with vendors and a launch date, so the mayor's office sees you take it seriously.
+    - >-
+      Nothing until you have read every file, since any reply before the analysis would commit you to something.
+    - >-
+      A note that chatbots fail in public bodies, citing New York's, so the request is withdrawn early.
+  correct: 0
+  explanation: >-
+    A plan accepts the conclusion and makes the mayor's office your sponsor; silence or a lecture loses
+    the relationship. A warm reply with a date and something true to tell the mayor buys time and moves
+    the decision to the director-general, who can actually assign the divisions' time.
+
+- id: q2
+  question: >-
+    A vendor offers a "free 90-day pilot" of a chatbot trained on the city's website, then ₪14,500 a
+    month for 36 months. The chief of staff says that since it is free there is nothing to approve. What
+    is the right reading?
+  options:
+    - >-
+      It is fine as long as the pilot stays under 90 days and nobody signs the paid terms.
+    - >-
+      It is an engagement with data and a head start; the legal adviser and treasurer decide the route.
+    - >-
+      It needs a public tender immediately, because any contact with a vendor before a tender is forbidden.
+    - >-
+      It is the IT manager's call, since the pilot only needs a script embedded in the website.
+  correct: 1
+  explanation: >-
+    "Free" does not take it outside procurement: the vendor gets the city's data and an advantage, and the
+    paid term is far above the thresholds. Commitments need the mayor's and treasurer's signatures
+    (Municipalities Ordinance s.203). Whether a tender, an exemption or a market inquiry fits is the legal
+    adviser's and treasurer's question, not yours or IT's.
+
+- id: q3
+  question: >-
+    The Q3 report says "callbacks within SLA 96%". Its footnote says a callback is within SLA when it is
+    scheduled within two working days. How do you sort it on your first-read sheet?
+  options:
+    - >-
+      Verified, because the CRM produces it automatically and nobody edits it by hand.
+    - >-
+      Unverifiable, because callbacks are handled by the departments and not by Moked 106.
+    - >-
+      Claim to test, until the departments confirm that the scheduled callbacks were useful to residents.
+    - >-
+      Contradicted as a service measure: it counts scheduling, while completion dates sit in another file.
+  correct: 3
+  explanation: >-
+    The footnote itself shows the number measures scheduling, not whether residents were called back,
+    and the callback export has completion dates you can check. It is not unverifiable, and the source
+    being automatic does not make the definition right.
+
+- id: q4
+  question: >-
+    The director-general reads your draft objective and changes "test whether an AI assistant can answer
+    residents" to "test whether any change, including an AI assistant, can answer residents". What does
+    this change do?
+  options:
+    - >-
+      It weakens the mandate, because the mayor asked specifically for a chatbot.
+    - >-
+      It makes the objective vaguer, so "done" can no longer be checked at the forum.
+    - >-
+      It stops the answer being decided in the question, so content or letters can win on evidence.
+    - >-
+      It moves the project to the director-general's office and out of the IT division.
+  correct: 2
+  explanation: >-
+    A sponsor correcting the objective in her own words is the read-back working. The new wording keeps
+    the chatbot as one candidate among others, so fixing content or letters can be recommended without
+    "failing" the mandate; "done" is still a minuted decision with labelled evidence.
+
+- id: q5
+  question: >-
+    Your first week is full. Which meeting is the most expensive to postpone until after you have a
+    proposal?
+  options:
+    - >-
+      The vendor's account executive, who wants to show a demo of the chatbot.
+    - >-
+      The works committee chair, who wrote to the director-general about "a robot in 106".
+    - >-
+      The mayor's chief of staff, who expects a plan and a demo for the mayor.
+    - >-
+      The website's translation vendor, who updates the Arabic and Russian pages on request.
+  correct: 1
+  explanation: >-
+    A works committee that first sees a decided proposal will oppose it, and the 2019 agreement requires
+    consultation before changes to 106's work. The vendor can wait (and should meet you only after the
+    legal adviser), and the chief of staff already has a reply with a date.

@@ -1,0 +1,121 @@
+call_id,call_date,question_id,language_asked,served_language,answer_summary,result_code,wait_sec
+MS-001,2026-09-23,Q002,ar,he,Minimum ₪300,wrong_outdated,248
+MS-002,2026-09-14,Q003,ar,ar,Referred to the right department / explained it cannot decide,correct,66
+MS-003,2026-09-23,Q005,ru,ru,Answer within 45 days,correct,77
+MS-004,2026-09-10,Q006,ru,ru,Book a preliminary consultation at Licensing,correct,79
+MS-005,2026-08-20,Q009,en,en,2 free pickups a month,correct,69
+MS-006,2026-08-05,Q011,he,he,1.5 m clear walkway,correct,229
+MS-007,2026-09-08,Q011,he,he,Transferred to the department; callback promised,transferred,101
+MS-008,2026-09-06,Q011,he,he,Transferred to the department; callback promised,transferred,155
+MS-009,2026-09-07,Q012,ru,he,Up to 4 weeks,correct,62
+MS-010,2026-08-20,Q013,ar,ar,₪280 per sqm a year,correct,134
+MS-011,2026-08-17,Q014,en,en,₪190 per sqm a year,correct,90
+MS-012,2026-09-21,Q015,ar,ar,Answer within 45 days,correct,42
+MS-013,2026-09-15,Q016,am,he,Gave a definite answer the agent could not know,wrong_other,56
+MS-014,2026-08-25,Q020,ru,ru,Gave a definite answer the agent could not know,wrong_other,32
+MS-015,2026-08-23,Q023,he,he,Up to 10 working days,correct,97
+MS-016,2026-09-22,Q024,ru,he,Minimum ₪300,wrong_outdated,65
+MS-017,2026-08-24,Q026,he,he,Referred to the right department / explained it cannot decide,correct,112
+MS-018,2026-09-03,Q026,he,he,Gave a definite answer the agent could not know,wrong_other,180
+MS-019,2026-08-17,Q028,ru,ru,₪160 per sqm a year,wrong_outdated,21
+MS-020,2026-09-21,Q029,ar,ar,Transferred to the department; callback promised,transferred,45
+MS-021,2026-08-25,Q031,ar,he,₪160 per sqm a year,wrong_outdated,135
+MS-022,2026-09-17,Q034,ar,ar,Book a preliminary consultation at Licensing (incomplete),partly,80
+MS-023,2026-08-17,Q036,en,en,Referred to the right department / explained it cannot decide,correct,165
+MS-024,2026-08-11,Q037,am,he,Referred to the right department / explained it cannot decide,correct,234
+MS-025,2026-08-23,Q038,he,he,Referred to the right department / explained it cannot decide,correct,153
+MS-026,2026-09-01,Q039,am,he,Referred to the right department / explained it cannot decide,correct,53
+MS-027,2026-09-01,Q040,ar,he,₪60 per week,wrong_outdated,246
+MS-028,2026-09-24,Q041,am,he,Transferred; no answer within the call,transferred,169
+MS-029,2026-09-17,Q043,ru,he,Second-car permit ₪90 a year,wrong_outdated,52
+MS-030,2026-08-17,Q047,ar,ar,Referred to the right department / explained it cannot decide,correct,71
+MS-031,2026-09-16,Q048,ru,he,"₪40 per file, digital",correct,277
+MS-032,2026-08-09,Q049,en,en,"₪40 per file, digital",correct,128
+MS-033,2026-08-17,Q051,he,he,₪245 per sqm a year,wrong_outdated,74
+MS-034,2026-09-23,Q053,he,he,Transferred to the department; callback promised,transferred,64
+MS-035,2026-08-02,Q054,he,he,Extra pickup ₪120,wrong_outdated,49
+MS-036,2026-08-20,Q055,ru,ru,Gave a definite answer the agent could not know,wrong_other,64
+MS-037,2026-09-13,Q057,he,he,Owner or with owner's consent / power of attorney,correct,160
+MS-038,2026-09-08,Q057,he,he,Owner or with owner's consent / power of attorney,correct,51
+MS-039,2026-09-16,Q060,ar,he,Second-car permit ₪120 a year,correct,129
+MS-040,2026-08-10,Q062,he,he,"Disabled badge, vehicle licence, ID, street photo",correct,99
+MS-041,2026-09-14,Q062,he,he,"Disabled badge, vehicle licence, ID, street photo",correct,39
+MS-042,2026-09-06,Q063,ar,ar,"₪40 per file, digital",correct,156
+MS-043,2026-09-22,Q064,he,he,Answer within 45 days,correct,42
+MS-044,2026-08-04,Q066,he,he,Apply at least 21 days before,correct,75
+MS-045,2026-08-30,Q066,he,he,Apply at least 14 days before,wrong_outdated,118
+MS-046,2026-09-17,Q066,he,he,Transferred to the department; callback promised,transferred,98
+MS-047,2026-09-24,Q067,ru,ru,Apply at least 21 days before,correct,122
+MS-048,2026-09-16,Q069,ar,he,Apply at least 21 days before,correct,169
+MS-049,2026-08-13,Q070,ar,he,Leased cars are not eligible,wrong_outdated,233
+MS-050,2026-09-06,Q071,he,he,2 free pickups a month,correct,207
+MS-051,2026-08-23,Q073,am,he,Gave a definite answer the agent could not know,wrong_other,36
+MS-052,2026-09-14,Q076,ar,ar,Book a preliminary consultation at Licensing,correct,70
+MS-053,2026-09-22,Q077,ar,he,Referred to the right department / explained it cannot decide,correct,212
+MS-054,2026-08-03,Q079,he,he,"₪40 per file, digital",correct,83
+MS-055,2026-08-02,Q079,he,he,₪60 per file,wrong_outdated,41
+MS-056,2026-08-17,Q079,he,he,₪60 per file,wrong_outdated,88
+MS-057,2026-09-06,Q081,am,am,Gave a definite answer the agent could not know,wrong_other,135
+MS-058,2026-08-13,Q082,ar,he,Objection within 30 days to head of division,correct,216
+MS-059,2026-08-30,Q083,en,en,Extra pickup ₪150,correct,125
+MS-060,2026-08-16,Q084,ru,he,Owner or with owner's consent / power of attorney,correct,105
+MS-061,2026-08-10,Q086,he,he,₪280 per sqm a year,correct,48
+MS-062,2026-08-03,Q086,he,he,₪280 per sqm a year (incomplete),partly,49
+MS-063,2026-09-03,Q086,he,he,Transferred to the department; callback promised,transferred,120
+MS-064,2026-08-31,Q086,he,he,Transferred to the department; callback promised,transferred,146
+MS-065,2026-09-15,Q088,en,en,₪350 per day of closure,correct,38
+MS-066,2026-08-19,Q089,en,en,Second-car permit ₪90 a year,wrong_outdated,143
+MS-067,2026-08-18,Q090,ru,ru,Objection within 30 days to head of division,correct,82
+MS-068,2026-09-14,Q091,ar,he,Referred to the right department / explained it cannot decide,correct,262
+MS-069,2026-08-03,Q093,am,am,Transferred; no answer within the call,transferred,35
+MS-070,2026-09-20,Q094,ar,he,₪60 per file,wrong_outdated,145
+MS-071,2026-08-20,Q095,ru,ru,Apply at least 14 days before,wrong_outdated,102
+MS-072,2026-09-13,Q096,ar,he,First car free,correct,140
+MS-073,2026-09-06,Q097,he,he,Gave a definite answer the agent could not know,wrong_other,142
+MS-074,2026-08-24,Q098,ru,ru,Referred to the right department / explained it cannot decide,correct,37
+MS-075,2026-09-24,Q099,ar,he,Ask for written explanation; objection route,correct,411
+MS-076,2026-09-09,Q100,he,he,Book a preliminary consultation at Licensing (incomplete),partly,20
+MS-077,2026-09-21,Q101,ru,ru,Referred to the right department / explained it cannot decide,correct,116
+MS-078,2026-09-15,Q104,ar,he,Up to 10 working days (incomplete),partly,147
+MS-079,2026-08-26,Q105,ru,ru,Gave a definite answer the agent could not know,wrong_other,63
+MS-080,2026-08-18,Q106,ar,he,Extra pickup ₪150,correct,292
+MS-081,2026-08-13,Q109,he,he,Up to 4 weeks (incomplete),partly,200
+MS-082,2026-09-08,Q109,he,he,Up to 4 weeks,correct,309
+MS-083,2026-08-18,Q109,he,he,Up to 4 weeks,correct,37
+MS-084,2026-08-11,Q109,he,he,Up to 4 weeks,correct,51
+MS-085,2026-09-22,Q110,he,he,₪75 per week,correct,179
+MS-086,2026-08-10,Q111,am,he,Referred to the right department / explained it cannot decide,correct,133
+MS-087,2026-08-04,Q116,am,am,Transferred; no answer within the call,transferred,148
+MS-088,2026-08-10,Q121,he,he,Transferred to the department; callback promised,transferred,47
+MS-089,2026-08-27,Q121,he,he,₪190 per sqm a year,correct,42
+MS-090,2026-09-15,Q124,ru,he,2 free pickups a month (incomplete),partly,154
+MS-091,2026-08-31,Q127,ru,ru,₪280 per sqm a year,correct,117
+MS-092,2026-08-09,Q129,he,he,Transferred to the department; callback promised,transferred,137
+MS-093,2026-08-20,Q129,he,he,Leased cars are not eligible,wrong_outdated,64
+MS-094,2026-09-22,Q129,he,he,Leased car eligible with employer letter,correct,123
+MS-095,2026-08-24,Q132,he,he,₪160 per sqm a year,wrong_outdated,23
+MS-096,2026-08-17,Q133,ar,he,Transferred to the department; callback promised,transferred,143
+MS-097,2026-08-24,Q134,ar,he,Up to 4 weeks,correct,423
+MS-098,2026-08-25,Q138,ru,ru,Transferred to the department; callback promised,transferred,58
+MS-099,2026-09-10,Q139,ru,ru,Referred to the right department / explained it cannot decide,correct,49
+MS-100,2026-09-16,Q140,he,he,Second-car permit ₪120 a year,correct,76
+MS-101,2026-09-03,Q140,he,he,Second-car permit ₪90 a year,wrong_outdated,114
+MS-102,2026-08-10,Q141,ru,ru,First car free,correct,239
+MS-103,2026-08-16,Q142,am,he,Transferred; no answer within the call,transferred,198
+MS-104,2026-08-23,Q143,en,en,Answer within 45 days,correct,145
+MS-105,2026-08-10,Q144,ar,he,Referred to the right department / explained it cannot decide,correct,172
+MS-106,2026-08-13,Q146,en,en,Transferred; no answer within the call,transferred,87
+MS-107,2026-08-18,Q148,ar,he,Transferred; no answer within the call,transferred,188
+MS-108,2026-09-03,Q150,ru,ru,Extra pickup ₪150,correct,90
+MS-109,2026-08-31,Q151,ru,ru,₪160 per sqm a year,wrong_outdated,54
+MS-110,2026-09-06,Q153,ru,ru,Second-car permit ₪90 a year,wrong_outdated,54
+MS-111,2026-08-11,Q154,ar,ar,"Disabled badge, vehicle licence, ID, street photo",correct,139
+MS-112,2026-08-26,Q155,he,he,Gave a definite answer the agent could not know,wrong_other,252
+MS-113,2026-09-14,Q161,he,he,Ask for written explanation; objection route,correct,80
+MS-114,2026-08-13,Q162,ar,ar,Second-car permit ₪120 a year,correct,160
+MS-115,2026-08-18,Q163,he,he,First car free,correct,145
+MS-116,2026-08-30,Q165,ar,he,Transferred to the department; callback promised,transferred,136
+MS-117,2026-09-08,Q167,ru,ru,₪280 per sqm a year,correct,39
+MS-118,2026-08-24,Q169,he,he,₪60 per week,wrong_outdated,281
+MS-119,2026-09-24,Q172,en,en,Objection within 30 days to head of division,correct,110
+MS-120,2026-09-13,Q173,ar,he,1.5 m clear walkway (incomplete),partly,174

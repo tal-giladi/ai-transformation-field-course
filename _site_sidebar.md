@@ -97,3 +97,11 @@
   - [70 · Decide: scoring, contract terms and the clinician pilot](/lessons/module-10/lesson-05.md)
   - [71 · Readout and debrief](/lessons/module-10/lesson-06.md)
   - [Module 10 quiz](/assessments/module-10-quiz.md)
+- **Module 11 — Givat Oren: A Municipality's Citizen Assistant**
+  - [72 · The call](/lessons/module-11/lesson-01.md)
+  - [73 · Discovery](/lessons/module-11/lesson-02.md)
+  - [74 · Diagnosis](/lessons/module-11/lesson-03.md)
+  - [75 · The hard part](/lessons/module-11/lesson-04.md)
+  - [76 · Build: a permit-FAQ assistant, evaluated](/lessons/module-11/lesson-05.md)
+  - [77 · Readout and debrief](/lessons/module-11/lesson-06.md)
+  - [Module 11 quiz](/assessments/module-11-quiz.md)

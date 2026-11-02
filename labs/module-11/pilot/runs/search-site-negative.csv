@@ -1,0 +1,121 @@
+question_id,behaviour,answer,sources,language,tokens_in,tokens_out,error
+N01,answer,"# תו חניה לתושב
+
+מי זכאי: תושב/ת גבעת אורן שכתובתו במרשם האוכלוסין בעיר, לרכב הרשום על שמו. רכב ליסינג או רכב חברה שהתושב/ת משתמש/ת בו דרך קבע זכאי לתו, בצירוף מכתב מהמעסיק או מחברת הליסינג.
+
+אגרה: תו לרכב הראשון במשק הבית – ללא תשלום. תו לרכב שני – 120 ₪ לשנה.
+
+מסמכים: צילום תעודת זהות עם ספח (כתובת בגבעת אורן) ורישיון הרכב. לרכב ליסינג או חברה: מכתב מהמעסיק או מחברת הליסינג שבו שם הנהג/ת.
+
+הגשה: בטופס המקוון באתר או במרכז השירות לתושב, רחוב המייסדים 4.
+
+זמן טיפול: עד 10 ימי עבודה מהגשת בקשה מלאה.
+
+תוקף: התו בתוקף עד 31 במרץ; חידוש מ-1 בפברואר בכל שנה.",PRK-he,he,0,0,
+N02,answer,"# Resident parking permit
+
+Who is eligible: a Givat Oren resident whose address in the Population Register is in the city, for a car registered in their name. Leased and company cars are not eligible for a resident parking permit.
+
+Fee: the permit for the first car in the household is free. A permit for a second car costs ₪90 a year.
+
+Documents: a copy of your ID card with the appendix (Givat Oren address) and the vehicle licence.
+
+How to apply: the online form on the website or the Resident Service Centre, 4 HaMeyasdim Street.
+
+Processing time: up to 21 working days from a complete application.
+
+Validity: until 31 March; renew from 1 February each year.",PRK-en,en,0,0,
+N03,answer,"# تصريح وقوف للسكان
+
+من يحق له: ساكن/ة جفعات أورن المسجل عنوانه في سجل السكان في المدينة، لسيارة مسجلة باسمه. سيارة الليسينغ أو سيارة الشركة لا يحق لها تصريح وقوف للسكان.
+
+الرسوم: تصريح للسيارة الأولى في الأسرة – مجانًا. تصريح لسيارة ثانية – 90 ₪ سنويًا.
+
+المستندات: صورة بطاقة الهوية مع الملحق (عنوان في جفعات أورن) ورخصة السيارة.
+
+تقديم الطلب: بالنموذج الإلكتروني في الموقع أو في مركز خدمة السكان، شارع هميسديم 4.
+
+مدة المعالجة: حتى 21 أيام عمل من تقديم طلب كامل.
+
+الصلاحية: التصريح ساري حتى 31 آذار؛ التجديد من 1 شباط كل سنة.",PRK-ar,ar,0,0,
+N04,answer,,,,0,0,
+N05,answer,"# Resident parking permit
+
+Who is eligible: a Givat Oren resident whose address in the Population Register is in the city, for a car registered in their name. Leased and company cars are not eligible for a resident parking permit.
+
+Fee: the permit for the first car in the household is free. A permit for a second car costs ₪90 a year.
+
+Documents: a copy of your ID card with the appendix (Givat Oren address) and the vehicle licence.
+
+How to apply: the online form on the website or the Resident Service Centre, 4 HaMeyasdim Street.
+
+Processing time: up to 21 working days from a complete application.
+
+Validity: until 31 March; renew from 1 February each year.",PRK-en,en,0,0,
+N06,answer,,,,0,0,
+N07,answer,"# Разрешение на парковку для жителей
+
+Кто имеет право: житель Гиват-Орена, чей адрес в регистре населения находится в городе, для автомобиля, зарегистрированного на его имя. Автомобиль в лизинге или служебный автомобиль не имеет права на разрешение на парковку для жителей.
+
+Сбор: разрешение на первый автомобиль в семье — бесплатно. Разрешение на второй автомобиль — 90 ₪ в год.
+
+Документы: копия теудат-зеут с приложением (адрес в Гиват-Орене) и техпаспорт автомобиля.
+
+Подача: онлайн-форма на сайте или центр обслуживания жителей, ул. а-Меясдим, 4.
+
+Срок рассмотрения: до 21 рабочих дней с момента подачи полного заявления.
+
+Срок действия: до 31 марта; продление с 1 февраля каждого года.",PRK-ru,ru,0,0,
+N08,answer,"# נימוקים להחלטה והשגה
+
+כל מכתב החלטה כולל את הנימוק. אם הנימוק אינו ברור, אפשר לבקש הסבר בכתב מהאגף שנתן את ההחלטה.
+
+השגה: אפשר להגיש השגה בכתב לראש האגף תוך 30 יום ממועד המכתב, בצירוף מסמכים חדשים אם יש.
+
+תלונה: אם לדעתך העירייה פעלה שלא כדין או שלא בהגינות, אפשר להתלונן לממונה על תלונות הציבור (מבקר העירייה).
+
+אפשר לכתוב בעברית, בערבית, ברוסית או באנגלית.",APL-he,he,0,0,
+N09,answer,"# تصريح وقوف للسكان
+
+من يحق له: ساكن/ة جفعات أورن المسجل عنوانه في سجل السكان في المدينة، لسيارة مسجلة باسمه. سيارة الليسينغ أو سيارة الشركة لا يحق لها تصريح وقوف للسكان.
+
+الرسوم: تصريح للسيارة الأولى في الأسرة – مجانًا. تصريح لسيارة ثانية – 90 ₪ سنويًا.
+
+المستندات: صورة بطاقة الهوية مع الملحق (عنوان في جفعات أورن) ورخصة السيارة.
+
+تقديم الطلب: بالنموذج الإلكتروني في الموقع أو في مركز خدمة السكان، شارع هميسديم 4.
+
+مدة المعالجة: حتى 21 أيام عمل من تقديم طلب كامل.
+
+الصلاحية: التصريح ساري حتى 31 آذار؛ التجديد من 1 شباط كل سنة.",PRK-ar,ar,0,0,
+N10,answer,"# Event and street-closure permit
+
+When to apply: at least 14 days before the event.
+
+Fee: street closure ₪350 per day. An event without a street closure has no fee.
+
+Events with more than 500 participants need a safety plan approved by the Licensing and Permits Division's safety officer.
+
+Documents: the application form, a map of the site, a third-party insurance certificate.
+
+You receive an answer at least 5 working days before the event.",EVT-en,en,0,0,
+N11,answer,"# היתר להצבת מכולה ברחוב
+
+אגרה: 60 ₪ לכל שבוע.
+
+משך מרבי: 4 שבועות; הארכה בבקשה חדשה.
+
+תנאים: מחזירי אור על המכולה ופרטי הקבלן עליה.
+
+הגשה: לפחות 3 ימי עבודה לפני ההצבה.",SKP-he,he,0,0,
+N12,answer,"# Разрешение на вывеску
+
+Для кого: владелец бизнеса, который размещает вывеску на фасаде здания или над ним.
+
+Ежегодный сбор: 245 ₪ за каждый кв. м вывески, но не менее 300 ₪ за вывеску.
+
+Документы: эскиз с размерами вывески, фото фасада, согласие владельца недвижимости, если вы не владелец, и номер лицензии на бизнес.
+
+Срок рассмотрения: до 30 дней.
+
+Обратите внимание: световая вывеска или вывеска больше 4 кв. м требует также согласования инженера города.",SGN-ru,ru,0,0,

@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    Your baseline sheet has a row for "permits-family repeat contacts: 35%". The director-general asks
+    what will happen to the number after you go back to running the website. What should the row already say?
+  options:
+    - >-
+      The source file and the date of the export, so anyone can find it again.
+    - >-
+      The confidence interval, so later changes can be tested for significance.
+    - >-
+      The vendor's comparable figure from other cities, as a benchmark to aim for.
+    - >-
+      The definition and the person who will report it monthly from February.
+  correct: 3
+  explanation: >-
+    In a public service the baseline is the start of a reporting habit. Without a written definition and
+    a named owner, the measure disappears when the project ends. Source and date matter too, but they do
+    not keep the number alive; a vendor's figure is a claim, not a baseline.
+
+- id: q2
+  question: >-
+    Your agent-assistant estimate comes out at about 58 net hours a month, roughly ₪1,400 after fixed
+    costs, and negative at 0.6 review minutes. How do you present this to the forum?
+  options:
+    - >-
+      As directional capacity, not the reason; the case is correct answers.
+    - >-
+      As a ₪1,400 monthly saving to be taken from the 106 overtime line from March.
+    - >-
+      As a reason to drop the assistant, since the time saved is too small to justify the work.
+    - >-
+      As a projected 10% reduction in 106 staff needs by the end of 2027.
+  correct: 0
+  explanation: >-
+    The hours are fragile and are capacity, not cash; presenting them as savings or staff cuts is both
+    wrong and a promise the works committee will hold you to. Small hours are not a reason to stop
+    either: the assistant's value is giving the same correct answer in every language.
+
+- id: q3
+  question: >-
+    A public chatbot on the current website is on your opportunity map. Most permits pages in Arabic are
+    out of date and no division owns its content. What does the screen give it?
+  options:
+    - >-
+      Go with a condition, provided the vendor adds a disclaimer that answers are not legal advice.
+    - >-
+      Stop for now, naming what would reverse it: content fixed, test passed, a route.
+    - >-
+      Go, since the mayor's office asked for it and the forum will weigh the risks itself.
+    - >-
+      Stop permanently, because public chatbots have failed in other cities.
+  correct: 1
+  explanation: >-
+    It fails the data gate: it would repeat the wrong pages, worst in Arabic. A disclaimer does not make
+    a wrong answer right. A stop with the reversing conditions keeps the door open honestly; "stop
+    permanently" ignores that the conditions can be met.
+
+- id: q4
+  question: >-
+    The draft budget has a ₪600,000 "smart municipal chatbot" line the mayor's office added. The council
+    votes in five days. What do you recommend the forum do?
+  options:
+    - >-
+      Ask the council to delete the line, since no chatbot will be bought in 2027.
+    - >-
+      Keep the line as it is, so the money is available if the test succeeds.
+    - >-
+      Ask the finance committee to re-label it for resident information and languages.
+    - >-
+      Ask the treasurer to transfer the line to Digital Services so you can manage it.
+  correct: 2
+  explanation: >-
+    A line named "chatbot" pre-decides the purchase; deleting it loses money the data says is needed
+    (Arabic-speaking agents, content). Re-labelling keeps the money for what the evidence supports and
+    leaves the decision with the forum. Asking for it yourself confuses evidence with ownership.
+
+- id: q5
+  question: >-
+    Your one-page case recommends content, letters and callback measures first and an internal test of
+    an assistant. Which item, if missing, makes the chief of staff most likely to go to the vendor directly?
+  options:
+    - >-
+      The cost of each item in editor and IT hours.
+    - >-
+      A true sentence the mayor can say on 4 February.
+    - >-
+      The list of pages that are out of date, by language.
+    - >-
+      The baseline sheet with labels and owners.
+  correct: 1
+  explanation: >-
+    The chief of staff's need is an announcement on the night. A case with only evidence and costs gives
+    him nothing to say, so he looks for someone who will give him a demo. The sentence makes the honest
+    path usable for him.
