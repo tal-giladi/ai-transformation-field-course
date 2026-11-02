@@ -31,8 +31,8 @@ const harbor = {
     'support-email draft pilot (drafts for damage, assembly, returns and B2B quotes; a person sends every reply), with ₪120,000 ' +
     'released in two stages and a gate on 1 April. Your paper says: about ₪113,000 a year in cash (the translation contract cut to a ' +
     'small plan, and no peak-season temps next winter), about 570 agent-hours a year of capacity on top, which is not cash, and a ' +
-    'three-year cost of about ₪267,000, so the board must approve it on 28 January. The delay-email fix (no AI) has been live since ' +
-    'mid-November. Each member has a concern; answer them one by one and leave with a decision.',
+    'three-year cost of about ₪267,000, so the board must approve it on 28 January. The delay-email fix (no AI) went live on ' +
+    'Thursday 14 January. Each member has a concern; answer them one by one and leave with a decision.',
   paper: [
     'Ask: approve phase 1 with conditions; ₪48,000 now, ₪72,000 at the 1 April gate; take it to the board on 28 January.',
     'Cash, expected case: about ₪113,000 a year. Capacity: about 570 agent-hours a year (not cash).',
@@ -77,7 +77,7 @@ const harbor = {
       choices: [
         {
           id: 'ev', type: 'evidence',
-          text: '“What we measured: 38% of contacts were ‘where is my order?’, caused by the delivery date we promise at checkout. Since the date fix went live in November those contacts are down about 40%. What we infer: a bot would have answered them with the same wrong date. So: we fixed the cause first, and the AI pilot is next, with numbers we measured.”',
+          text: '“What we measured: 38% of contacts were ‘where is my order?’, caused by the delivery date we promise at checkout. The date fix went live last Thursday; we will measure the drop from February. What we infer: a bot would have answered them with the same wrong date. So: we fixed the cause first, and the AI pilot is next, with numbers we measured.”',
           reply: 'Yoav repeats it back: “Fixed the cause first, measured pilot next.” He writes it down.',
           moods: { yoav: 1, ronit: 1 }, honesty: 1, sets: ['evidence'],
         },
@@ -263,7 +263,7 @@ const harbor = {
       choices: [
         {
           id: 'conditions', type: 'askDecision',
-          text: '“Approve phase 1 with conditions: ₪48,000 now; ₪72,000 at the 1 April gate if a review takes under 4 minutes a draft and fewer than 1 in 100 sent replies need correcting; an out-of-hours support line before go-live; the case goes to the board on the 28th. Can we minute that as approved?”',
+          text: '“Approve phase 1 with conditions: ₪48,000 now; ₪72,000 at the 1 April gate if the four gate conditions in the charter hold (drafts accepted, review time, wrong replies, peak hours); an out-of-hours support line before go-live; the case goes to the board on the 28th. Can we minute that as approved?”',
           reply: 'Yoav looks around the table: “Any objection?”',
           moods: { ronit: 1 }, sets: ['asked', 'conditions'],
         },
@@ -326,8 +326,8 @@ const harbor = {
       text: 'Minuted: phase 1 approved, ₪48,000 released, ₪72,000 at the 1 April gate, out-of-hours support before go-live; the case goes to the board on 28 January.',
       later: [
         { when: INFLATED, text: 'Six months later: the April gate passed, but the board minutes carry a bigger number than your paper. Measured cash by July is about ₪10,000 (the translation contract; the temps saving can only show next winter), as the paper said. Ronit asks why the board heard something else, and your next case (B2B quote drafts) comes back with “show me the actuals first”.' },
-        { when: { flag: 'michalCold' }, text: 'Six months later: the April gate passed (3.1 minutes per draft, 6 in 1,000 sent replies corrected), and the ₪72,000 was released. The paper stayed honest. But Michal stopped copying you on the board drafts; you learned about the September agenda from Ronit. You kept the number and lost the sponsor.' },
-        { text: 'Six months later: the April gate passed (3.1 minutes per draft, 6 in 1,000 sent replies corrected) and the ₪72,000 was released. The translation contract was cut in March. Yoav told the board “we fixed the cause first; a measured pilot is next”, and the board asked for the September numbers instead of a bot. Michal presented the April results herself. Samir is planning the next peak without temps.' },
+        { when: { flag: 'michalCold' }, text: 'Six months later: at the April gate email and web form passed, WhatsApp drafts went back to shadow mode for a fix, and the ₪72,000 was released with WhatsApp re-gated in July. The paper stayed honest. But Michal stopped copying you on the board drafts; you learned about the September agenda from Ronit. You kept the number and lost the sponsor.' },
+        { text: 'Six months later: at the April gate email and web form passed, WhatsApp drafts went back to shadow mode for a named fix, and the ₪72,000 was released with WhatsApp re-gated in July. The translation contract was cut in March. Yoav told the board “we fixed the cause first; a measured pilot is next”, and the board asked for the September numbers instead of a bot. Michal presented the April results herself. Samir is planning the next peak without temps.' },
       ],
     },
     {
@@ -354,7 +354,7 @@ const harbor = {
   notes: [
     'Cash of about ₪113,000 a year, about 570 agent-hours, build ₪120,000 and about ₪49,000 a year to run match the roi-defender and pilot-economics harbor presets.',
     'The board threshold is ₪150,000 total over three years (CFO’s finance summary in the data room).',
-    'WISMO down about 40% since the date fix went live in mid-November 2026, the April gate thresholds and the results “six months later” are assumptions for the exercise.',
+    'The date fix went live on 14 January 2027 (course story); the results “six months later” are assumptions for the exercise.',
   ],
 };
 

@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    The board approved the pilot on Thursday; go-live is Monday. On Friday morning, which item matters
+    most to do first?
+  options:
+    - >-
+      Draft the press release announcing the company's AI programme.
+    - >-
+      Start writing the gate-1 report template so it is ready in April.
+    - >-
+      Book a celebration with the team for the week after go-live.
+    - >-
+      Confirm the decision in writing and release the purchase order.
+  correct: 3
+  explanation: >-
+    A yes is executable only when the decision is confirmed as minuted and the money can move. The
+    first 72 hours close those items, tell the team through its manager and give every condition an
+    owner and a date.
+
+- id: q2
+  question: >-
+    Your plan says "Olga will check Russian drafts". Her manager has not been asked. What is missing?
+  options:
+    - >-
+      Her weekly hours, agreed with her manager and costed.
+    - >-
+      A written job description for the checking role, approved by HR.
+    - >-
+      A second Russian speaker to check Olga's ratings for consistency.
+    - >-
+      Nothing, since she is the best Russian agent and she volunteered for it.
+  correct: 0
+  explanation: >-
+    Time taken from the queue without the manager's agreement disappears in the first busy week. Hours
+    per person per week, agreed and costed, turn a wish into a staffed control.
+
+- id: q3
+  question: >-
+    Week 1's usage export shows 1,421 panel openings and 306 inserted drafts by 12 people. What goes
+    in the weekly report?
+  options:
+    - >-
+      1,421 uses of the tool in the first week, as the headline number.
+    - >-
+      The 306 inserted drafts by 12 people, labelled a learning week and not gate evidence.
+    - >-
+      The ratio of inserts to openings as the pilot's first acceptance rate.
+    - >-
+      A list of agents with their insert counts, to encourage the slower ones.
+  correct: 1
+  explanation: >-
+    The panel opens by itself, so openings are not use; inserted drafts are. Learning weeks are excluded
+    from the gate, and usage is reported by queue, never by person.
+
+- id: q4
+  question: >-
+    The release plan says WhatsApp drafts may go on "no earlier than 15 February" if an exit condition
+    is met. On 14 February Arabic and the order lookup fall short. The queue is two days behind. What
+    should the week-2 report do?
+  options:
+    - >-
+      Switch WhatsApp drafts on as scheduled, since the date was agreed by the committee.
+    - >-
+      Keep WhatsApp drafts off until gate 1, so the pilot's numbers are not put at risk.
+    - >-
+      Give the switch owner the options with consequences, and record any departure with a re-check date.
+    - >-
+      Ask the steering committee to call an extraordinary meeting before Monday.
+  correct: 2
+  explanation: >-
+    A stage date is the earliest date, not a deadline. The owner of the switch decides, with the options
+    and their consequences in front of him; if he departs from the condition, it is recorded so later
+    numbers can be read against what was switched on.
+
+- id: q5
+  question: >-
+    The integrator's contract pays ₪8,000 "on 15 February" for the WhatsApp shadow and web-store
+    lookup. What would you change?
+  options:
+    - >-
+      Nothing: paying on a date keeps the integrator motivated to meet it.
+    - >-
+      Pay when the lookup finds 90% of orders, as checked by a named person.
+    - >-
+      Pay the whole stage-1 amount upfront to secure the integrator's priority.
+    - >-
+      Split it into weekly payments so cash leaves the company more evenly.
+  correct: 1
+  explanation: >-
+    A milestone that pays on a date buys nothing if the deliverable is not there. Tie payments to checks
+    someone can do, so the money moves with the evidence.

@@ -1,0 +1,15 @@
+reading,value,unit,label,source
+Median review time all drafted tickets (15 Feb - 28 Mar),106,seconds,measured,pilot log timer
+Minutes per contact email_web with draft (15 Feb - 28 Mar),4.7,minutes,measured,Deskly timer on drafted tickets
+Minutes per contact email_web holdout (15 Feb - 28 Mar),8.0,minutes,measured,Deskly timer on the 10% holdout (158 tickets)
+Minutes per contact WhatsApp with draft used (15 Feb - 28 Mar),2.9,minutes,measured,Deskly timer
+Minutes per contact WhatsApp no drafts (1 - 14 Feb),3.4,minutes,measured,Deskly timer before WhatsApp drafts (phased rollout)
+Wrong replies in post-fix agent replies (18 - 28 Jan),9 of 300,count,measured,re-measured 'today' for gate 1 (c)
+WISMO share of all written contact Jul - Oct 2026,0.44,share,measured,tags + web-form reason + WhatsApp tally (modules 2 and 3)
+WISMO agent-hours a month at peak before the date fix,247,hours,measured,opportunity map (03.1)
+Forecast written contacts a month at peak Nov 2027 - Jan 2028 (email_web),700,contacts,assumed,Oct 2026 volumes with the date fix; Samir's planning figure
+Forecast written contacts a month at peak Nov 2027 - Jan 2028 (WhatsApp),2600,contacts,assumed,Oct 2026 tally x 4.3 weeks with the date fix; Samir's planning figure
+Replies promising a refund outside policy (10 - 15 Mar),7,replies,measured,incident log INC-01
+Replies disclosing another customer's address (12 Mar),1,replies,measured,incident log INC-01
+Cost of honouring the seven promises,21000,ILS,measured,incident log INC-01
+Stage 1 spent by 31 Mar,46800,ILS,measured,finance (PO to the integrator and internal hours)

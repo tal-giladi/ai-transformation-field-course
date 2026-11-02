@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    Building the deliverable map, you find the risk register has no owner after you leave. The review
+    group "will look at it". What do you do?
+  options:
+    - >-
+      Mark it as a record, since its contents were correct at the time of handover.
+    - >-
+      Keep owning it yourself from your new role, since you know it best.
+    - >-
+      Get a named owner to agree, with a next-review date in their calendar.
+    - >-
+      Archive it and rely on the incident runbook to catch new risks instead.
+  correct: 2
+  explanation: >-
+    A living document with no owner is a control that has already stopped. "The group will look at it"
+    is nobody on a Tuesday; a named owner who agreed and a date in their calendar keep it alive.
+
+- id: q2
+  question: >-
+    Samir asks for a two-hour walkthrough and the folder link as the handover, "to save everyone time".
+    Why is that not enough?
+  options:
+    - >-
+      Competence moves by doing the work, and only a test without you shows it moved.
+    - >-
+      Walkthroughs must be recorded and stored for auditors under privacy law.
+    - >-
+      Two hours is too short; the walkthrough should take a full working day.
+    - >-
+      The folder should be printed, since people do not read documents online.
+  correct: 0
+  explanation: >-
+    A walkthrough transfers awareness, not competence. Staged transfer (they run it, you watch, then you
+    are absent) and acceptance tests passed without you are what show the service survives you.
+
+- id: q3
+  question: >-
+    The incident runbook says "incident lead: the pilot lead". You are moving to another role next
+    month. What should the handover change?
+  options:
+    - >-
+      Nothing, since you can still be called if an incident happens.
+    - >-
+      Name Samir instead, since he owns the service.
+    - >-
+      Remove the role and let whoever notices an incident lead it.
+    - >-
+      Write the role, with the current holder and a deputy.
+  correct: 3
+  explanation: >-
+    Documents that name people break when people move. Roles with the current holder and a deputy keep
+    the runbook valid after the handover.
+
+- id: q4
+  question: >-
+    The day after handover, the WhatsApp re-gate takes place. Samir asks you to "just sit in, in case".
+    What is the best answer?
+  options:
+    - >-
+      Agree, and lead the discussion so the decision is not delayed.
+    - >-
+      Stay out of the room, be reachable, and read the minutes afterwards.
+    - >-
+      Agree, but only to present the numbers you prepared before handover.
+    - >-
+      Ask the steering committee to postpone the re-gate until a later date.
+  correct: 1
+  explanation: >-
+    If the team needs you for its first decision, it will need you for every one. Being reachable without
+    being present lets them own it, and their minutes show whether the handover worked.
+
+- id: q5
+  question: >-
+    Where should the handover pack state that the service has never run through a peak season?
+  options:
+    - >-
+      In the appendix of known issues, with the other open technical items.
+    - >-
+      Nowhere, since it is obvious to anyone who knows when the pilot started.
+    - >-
+      In the next monthly review's minutes, when the peak approaches.
+    - >-
+      On the first page, with the other known limits of the service.
+  correct: 3
+  explanation: >-
+    The reader of a handover pack is often someone in trouble at 22:00. The limits that decide whether
+    the service can be trusted belong where they will be read first, not in an appendix.

@@ -80,13 +80,13 @@ const harbor = {
     },
     {
       id: 'dates', title: 'Customers get wrong delivery dates', owner: 'Samir Haddad, customer service', ownerRating: 'red',
-      control: 'A daily job compares promised dates with container ETAs and emails customers when a date slips (live since 16 November).',
+      control: 'A daily job compares promised dates with container ETAs and emails customers when a date slips (built and tested; go-live 14 January).',
       evidence: {
-        ask: { strength: 'none', text: 'Samir: “It has been red for two years. I am not changing it after two weeks.”' },
-        sample: { strength: 'strong', text: 'Since 16 November: 312 orders got a new ETA and 305 of those customers were emailed the same day (98%). “Where is my order?” contacts are down 41% on the same weeks in October.' },
-        test: { strength: 'strong', text: 'You move a test container’s ETA by 9 days. The test order’s customer email goes out at 07:00 the next morning with the new date.' },
+        ask: { strength: 'none', text: 'Samir: “It has been red for two years. I am not changing it for something that is not live yet.”' },
+        sample: { strength: 'strong', text: 'Dry run on October’s orders and the ETA sheet: 312 orders would have got a new ETA, and the job produced 305 correct emails (98%). The template is approved; go-live is set for 14 January.' },
+        test: { strength: 'strong', text: 'In the test environment you move a container’s ETA by 9 days. The test customer email goes out at 07:00 the next morning with the new date.' },
       },
-      truth: { rating: 'green', control: 'effective', why: 'The fix works and is measured. A red that nobody re-rated pulls attention away from the real reds.' },
+      truth: { rating: 'amber', control: 'effective', why: 'Designed, tested and about to go live: the red is overstated, but green waits for live numbers. A red that nobody re-rates pulls attention away from the real reds.' },
     },
     {
       id: 'injection', title: 'A customer email hijacks the drafting tool (prompt injection)', owner: 'Avi Mizrahi, IT', ownerRating: 'red',
@@ -144,7 +144,7 @@ const harbor = {
     'and whether there is evidence. Asking the owner is not a test. Unearned greens are what hurt you; overstated reds waste the attention the real reds need.',
   notes: [
     'The proxy log, the PeopleWise update, the missing QA step, the claims log and the stale catalogue copy follow the planted findings in the data room.',
-    'The vendor row assumes the Deskly agreement after the opt-out and renegotiation (lesson 04.3). The candidate count, the dry-run results, the 41% drop after the date fix (live from 16 November 2026) and the training dates are assumptions for the exercise.',
+    'The vendor row assumes the Deskly agreement after the opt-out and renegotiation (lesson 04.3). The candidate count, the dry-run results, the date-fix dry run (go-live 14 January 2027) and the training dates are assumptions for the exercise.',
   ],
 };
 

@@ -1,0 +1,13 @@
+pilot_week,week_from,week_to,channel,eligible_tickets,tickets_draft_used,spot_audit_read,spot_audit_wrong,wismo_share_all_written,note
+3,2027-02-15,2027-02-21,email_web,245,180,40,1,0.24,WhatsApp drafts switched on 15 Feb (stage 2)
+3,2027-02-15,2027-02-21,whatsapp,560,170,40,1,0.24,
+4,2027-02-22,2027-02-28,email_web,240,178,40,0,0.23,WhatsApp pod from 22 Feb (rota change)
+4,2027-02-22,2027-02-28,whatsapp,545,92,40,1,0.23,
+5,2027-03-01,2027-03-07,email_web,236,180,40,1,0.22,
+5,2027-03-01,2027-03-07,whatsapp,540,66,40,1,0.22,
+6,2027-03-08,2027-03-14,email_web,232,175,40,1,0.23,Knowledge-source change on Wed 10 Mar
+6,2027-03-08,2027-03-14,whatsapp,535,58,40,0,0.23,
+7,2027-03-15,2027-03-21,email_web,230,168,40,1,0.22,Incident Mon 15 Mar: damage and returns drafts off 15-19 Mar
+7,2027-03-15,2027-03-21,whatsapp,525,48,40,1,0.22,
+8,2027-03-22,2027-03-28,email_web,237,183,40,0,0.21,
+8,2027-03-22,2027-03-28,whatsapp,535,52,40,1,0.21,

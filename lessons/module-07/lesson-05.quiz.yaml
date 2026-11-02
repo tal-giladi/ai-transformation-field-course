@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    09:40: a public post shows a reply from your draft pilot promising a refund outside policy. Damage
+    and returns emails arrive at about two an hour; other categories look fine. What is the first switch?
+  options:
+    - >-
+      Keep drafts on and message the agents to check refund wording carefully today.
+    - >-
+      Switch off drafts for damage and returns only, and log the decision with the time.
+    - >-
+      Switch off the whole pilot until the cause has been found and fixed.
+    - >-
+      Add a line to the prompt forbidding refund promises, then watch the next drafts.
+  correct: 1
+  explanation: >-
+    Contain first with the narrowest switch that stops the harm. A message changes nothing for reviewers
+    who approve in seconds, turning everything off overloads the team for a two-category problem, and a
+    prompt line is a fix attempted before anyone knows the cause.
+
+- id: q2
+  question: >-
+    You learn a draft quoted another customer's name and street address. A colleague says the law
+    requires a report to the Privacy Protection Authority within 24 hours and wants to file now. What
+    do you do?
+  options:
+    - >-
+      File the report now, since an early report is always safer than a late one.
+    - >-
+      Wait for the review on Thursday, when all the facts are in.
+    - >-
+      Preserve the logs and facts, and brief counsel or the DPO today to decide.
+    - >-
+      Treat it as minor, since only one address reached only one customer.
+  correct: 2
+  explanation: >-
+    Whether an incident is reportable, to whom and by when depends on the regulations, the database and
+    the facts. The incident lead preserves evidence and briefs counsel the same day; counsel decides and
+    the decision is logged. Guessing a deadline, waiting or minimising are all ways to get it wrong.
+
+- id: q3
+  question: >-
+    Seven wrong drafts were each approved in under ten seconds by five different agents. The support
+    manager wants written warnings. What should the review say?
+  options:
+    - >-
+      That the agents failed the rule of use, and that a refresher course is mandatory.
+    - >-
+      That the vendor's model caused the error and the agents could not have caught it.
+    - >-
+      That responsibility is shared, so each agent should sign the incident report.
+    - >-
+      That fast approvals are a design signal, and the actions change the check itself.
+  correct: 3
+  explanation: >-
+    A tool that has been right for weeks, steady load and no flag on money make ten-second approvals
+    predictable. A blameless review fixes the design (a money flag, targeted sampling, source control);
+    warnings teach people to stop reporting strange drafts.
+
+- id: q4
+  question: >-
+    By 12:00 the cause is known: an untested knowledge-source change made in the vendor's console. Your
+    change-control spec already said source changes need tests and approval. What does that tell you?
+  options:
+    - >-
+      The control existed only on paper; the console itself must enforce it.
+    - >-
+      The spec was wrong, so source changes should be classed as standard changes from now on.
+    - >-
+      The vendor broke the agreement and should be asked to compensate the refunds.
+    - >-
+      Nothing new: the person who made the change should be reminded of the spec.
+  correct: 0
+  explanation: >-
+    A control that the tool lets anyone bypass is a step that exists only in a document. The fix is to
+    make the system enforce it: fewer admins, and every source change through the release process with
+    the negative tests.
+
+- id: q5
+  question: >-
+    A reporter asks for comment by 17:00. Which statement fits the runbook?
+  options:
+    - >-
+      "No comment while the matter is under investigation."
+    - >-
+      "Our tool used an old policy; we are calling each customer and honouring it."
+    - >-
+      "A technical glitch at our AI vendor caused a small number of incorrect replies."
+    - >-
+      "The replies were AI errors and do not represent our policy, so they cannot be honoured."
+  correct: 1
+  explanation: >-
+    A short, true statement the company owns, with what it is doing for customers, keeps it a one-day
+    story. Silence becomes the headline; blaming the vendor is untrue and easy to disprove; disowning the
+    replies blames a machine for the company's own letter.

@@ -1,0 +1,25 @@
+- **Decision block** — The three lines at the top of every steering document: the decision it supports, who can stop the work, and what a "no" means (lesson 07.1).
+- **Steering pack** — The papers a committee decides from, in reader order with a six-page body: cover note, updated decision-ready case, gate table, stop rules, open items, separate decisions and what each answer means (lesson 07.1).
+- **Integration check** — A side-by-side reading of deliverables that logs every contradiction between them and traces each human control to a cost line and each claim's timing to readiness and the roadmap (lesson 07.1).
+- **Decision record** — A short, signed record of one gate or committee decision: options, evidence with labels, money released and held, next-gate conditions, who can stop it, and dissent (lesson 07.2).
+- **Departure from a gate rule** — A written statement that a pre-agreed gate was not met and why money or a stage is released anyway, so the gate keeps its meaning (lesson 07.2).
+- **Per-segment verdict** — Scale, fix or stop decided separately for each part of a pilot that behaves differently (channel, language, category), never on the pilot-wide average (lesson 07.2).
+- **Fund nothing new** — At a gate that is not fully met, no new builds are funded and held money is not re-allocated; every request gets a written answer, a reason and a re-screen date (lesson 07.2).
+- **Decommissioning checklist** — The steps that make a "retire" real: people told, access removed, vendor data deleted, contract ended, records updated, and a check after 30 days that the old path is gone (lesson 07.2).
+- **Softened paper** — A document whose bad news was edited out one reasonable change at a time on its way up, until readers believe something the evidence does not support (lesson 07.3).
+- **Relay** — Anyone who has already heard a committed number from a leader (a board chair, an investor, a vendor) and needs the same correction early (lesson 07.3).
+- **Concede with a condition** — Naming a weak point yourself in a meeting and tying it to a gate or condition, so the gap becomes the reason for the control (lesson 07.4).
+- **Incident severity** — S1: harm reached people, or personal data reached someone not entitled to it; S2: harm likely if nothing changes; S3: degraded service with no harm (lesson 07.5).
+- **Narrowest switch** — The smallest switch-off that stops the harm (one category, channel or language), tried before wider ones (lesson 07.5).
+- **Blameless review** — An incident review that looks for contributing causes without indicting anyone and whose actions change controls, with owners and dates (lesson 07.5).
+- **Operating rhythm** — The owner, RACI, calendar with hours, triggers, monthly agenda and retirement criteria that keep a running AI service watched after the project team leaves (lesson 07.6).
+- **Trigger vs cadence** — A trigger makes a named person act when a threshold is crossed; a cadence is when people look; a service needs both, written separately (lesson 07.6).
+- **Retirement criteria** — Checkable conditions, written when a service goes live, under which it will be retired (lesson 07.6).
+- **Pre-failure reading** — Testing a plan by assuming it has already failed and tracing each failure story to evidence (lesson 07.7).
+- **Wrong vs fragile** — A wrong assumption is false today and must be corrected; a fragile dependency is true today but may change and needs a fallback, a trigger or a re-sequence (lesson 07.7).
+- **Pressure-test log** — One row per finding: what breaks, for whom, when; evidence; wrong or fragile; test or trial; disposition; owner (lesson 07.7).
+- **First 72 hours** — The items that make a yes executable within three working days: written decision, money released, team told by its manager, conditions with owners and dates (lesson 07.8).
+- **Earliest date** — A stage date in a release plan is the earliest the stage may start if its exit condition is met, not a deadline (lesson 07.8).
+- **Deliverable map** — One table of every document an engagement produced, with its kind (living, record, retired), owner after handover, location, users and next review (lesson 07.9).
+- **Handover pack** — What the receiving owner needs to run a service without its builder: envelope, configuration, evidence, operations, open items, decisions, known limits and retirement (lesson 07.9).
+- **Acceptance test (handover)** — A piece of the service's real work that the receiving team does without the builder in the room, observed and recorded, before the handover is signed (lesson 07.9).

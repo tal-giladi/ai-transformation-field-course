@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    Halfway through the steering meeting your sponsor says she expects ₪500,000 a year at full scale.
+    Your paper says ₪113,000, measured. The CEO starts writing. What do you say?
+  options:
+    - >-
+      "That number is not supported by the evidence; the paper says ₪113,000."
+    - >-
+      "There is upside, and phase 2 tests it; the paper holds us to ₪113,000 until September."
+    - >-
+      "Let's take the numbers offline after the meeting, so we can keep to time."
+    - >-
+      "At full scale ₪500,000 is realistic, and the board will be glad to hear it."
+  correct: 1
+  explanation: >-
+    Reframing labels her number as an assumption to test and keeps the measured figure in the minutes,
+    without taking her face. Blunt correction costs the sponsor, deferring lets the number reach the
+    board, and agreeing puts an unmeasured figure on record.
+
+- id: q2
+  question: >-
+    The CFO asks how the minutes per draft were measured. They come from a test set rated at a desk, not
+    from the live queue. What is the strongest answer?
+  options:
+    - >-
+      Explain that test sets are the industry standard, so the figure can be relied on.
+    - >-
+      Promise to send her the full evaluation report after the meeting.
+    - >-
+      Say it was measured on the test set, and that this is why the second stage waits for the gate.
+    - >-
+      Point out that the vendor's benchmark gives an even better figure for review time.
+  correct: 2
+  explanation: >-
+    Conceding the weak point and tying it to a condition turns a gap into the reason for the gate. The
+    CFO trusts the parts of a case she has seen you give up; deferring or leaning on a vendor figure
+    does the opposite.
+
+- id: q3
+  question: >-
+    The IT manager asks who will support the tool at two in the morning. Nobody has arranged it. What
+    do you do?
+  options:
+    - >-
+      Admit it falls on him today; make out-of-hours support a condition with a date.
+    - >-
+      Reassure him that the vendor is ISO 27001 certified and handles outages itself.
+    - >-
+      Tell him it will be worked out with the vendor during the build, after approval.
+    - >-
+      Suggest the support manager's team covers it, since they own the service.
+  correct: 0
+  explanation: >-
+    Naming the gap first and making it a condition with an owner and a date is what earns his support. A
+    certificate does not answer who gets called, and "we'll work it out" is heard as "no".
+
+- id: q4
+  question: >-
+    With five minutes left the chair asks what exactly you want. What should you say?
+  options:
+    - >-
+      "Whatever the committee thinks is best; we have given you all the evidence."
+    - >-
+      "Approve the full amount today so we can move fast and avoid a second meeting."
+    - >-
+      "Perhaps everyone could reflect on the paper and we meet again in two weeks."
+    - >-
+      "Approve phase 1 with these conditions and sums for the board. Can we minute that?"
+  correct: 3
+  explanation: >-
+    A committee decides what it is asked in words that can be minuted. Reading every part of the ask,
+    with the money, conditions and dates, and ending with a question that has a yes is what produces an
+    executable decision.
+
+- id: q5
+  question: >-
+    After the meeting you notice the pack asked for two decisions (phase 1 and a roadmap change), but
+    only phase 1 was put to the room and minuted. What do you do?
+  options:
+    - >-
+      Nothing: the roadmap change follows from phase 1, so its approval is implied.
+    - >-
+      Say so in the minutes email and ask for a written yes by a stated time.
+    - >-
+      Put the roadmap change on the agenda of the next meeting in three months.
+    - >-
+      Ask the sponsor to approve it alone, since she owns the roadmap.
+  correct: 1
+  explanation: >-
+    A decision that was not minuted will later be said never to have been approved. Naming the gap the
+    same day and asking the committee for a written yes by a deadline closes it before the work depends
+    on it.

@@ -49,9 +49,9 @@ const harbor = {
     },
     {
       id: 'wismo', title: 'Fewer “where is my order?” contacts', claimed: 300000, deckLabel: 'measured', deckClass: 'cash',
-      basis: 'WISMO was 38% of contacts and fell about 40% after November: about 2,300 agent-hours a year.',
+      basis: 'WISMO was 38% of contacts and the date fix (live 14 January) is expected to halve it: about 2,300 agent-hours a year.',
       adjustments: [
-        { id: 'attrib', ledger: 'sponsor', amount: -300000, real: true, text: 'This drop comes from the delay-email job (no AI), live since November and funded on its own. Without the pilot the drop is the same.', why: 'A real benefit, wrong project. The credible counterfactual (no pilot) has the same drop, so it belongs in the date-fix case.' },
+        { id: 'attrib', ledger: 'sponsor', amount: -300000, real: true, text: 'This drop comes from the delay-email job (no AI), live since 14 January and funded on its own. Without the pilot the drop is the same.', why: 'A real benefit, wrong project. The credible counterfactual (no pilot) has the same drop, so it belongs in the date-fix case.' },
         { id: 'eta', ledger: 'receiving', amount: -27000, real: false, text: 'Logistics updates the ETA sheet daily: 4 hours a week.', why: 'A real cost of the date-fix job. Once the claim moves to that case, net it there; here the claim is already gone.' },
       ],
       truth: { label: 'directional', cls: 'capacity', note: 'The drop is measured, its size a year from now is an estimate, and it is hours, not cash. Either way it is not this pilot’s.' },

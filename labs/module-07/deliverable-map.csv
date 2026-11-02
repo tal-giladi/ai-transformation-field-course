@@ -1,0 +1,4 @@
+deliverable,template,version,date,kind,owner_after_handover,lives_in,used_by,next_review,feeds,status
+Pilot charter and rule of use,pilot-charter,1.1 (per-segment stop rules added at gate 1),2027-04-01,living,Samir Haddad,Service folder / 01-charter,"Samir, analyst, review group",2027-07-01 (re-gate),"Operating rhythm; decision record DR-2027-04",current
+Decision record DR-2027-04 (gate 1),decision-record,final,2027-04-01,record,Michal Peretz (minutes),Steering folder / 2027,"Steering committee; auditors",-,"Re-gate 1 Jul; gate 2 30 Sep",frozen
+LinguaFlow Business (Customer Service seats),-,-,2026-11-19,retired,Avi Mizrahi,Intake register IN-01,-,2027-06-01 (30-day check),ROI model translation line,retired

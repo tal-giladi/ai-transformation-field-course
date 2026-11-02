@@ -15,7 +15,7 @@ missed.
 | [Ronit Avraham](ronit-cfo.md) | CFO | CFO / finance, sceptic | Owns the business-case template and the 12% hurdle rate | 03.5–03.7, 07.4 | [yes](transcripts/ronit-cfo.md) |
 | [Samir Haddad](samir-cs-manager.md) | Customer Service Manager | Middle manager | Runs the 14-person support team the CEO wants to shrink | 02.2, 03.5, 06.6, 07.4 | [yes](transcripts/samir-cs-manager.md) |
 | [Olga Petrenko](olga-support-agent.md) | Senior support agent | Frontline employee, secret enthusiast | The best agent on the team; writes Russian replies faster than anyone | 02.2, 06.6 | [yes](transcripts/olga-support-agent.md) |
-| [Avi Mizrahi](avi-it-manager.md) | IT manager | IT / security | One-person IT department with an outside service provider | 01.6, 01.7, 04.3 | in the module 1 download (`labs/module-01/`) |
+| [Avi Mizrahi](avi-it-manager.md) | IT manager | IT / security | One-person IT department with an outside service provider | 01.6, 01.7, 04.3, 07.4 | in the module 1 download (`labs/module-01/`) |
 | [Tamar Shalev](tamar-logistics.md) | Logistics manager | Data steward, receiving team | Keeps the container tracking sheet | 02.2, 03.2, 03.4 | [yes](transcripts/tamar-logistics.md) |
 | [Noa Levi](noa-marketing.md) | Marketing director | Process owner who adds scope | Owns the web store; full of ideas | 01.3, 01.6 | [yes](transcripts/noa-marketing.md) |
 | [Dana Katz](dana-hr.md) | HR manager | HR, workforce | Worried about training time in peak season | 01.7, 06.5, 06.6 | in the module 1 download (`labs/module-01/`) |

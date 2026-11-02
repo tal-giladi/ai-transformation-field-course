@@ -127,8 +127,8 @@ Lesson ids are from the course plan: 01.6 is module 1, lesson 6.
 
 | File | What it is | Rows | Lessons |
 |---|---|---|---|
-| `ai-usage-export.csv` | Admin analytics of the AI assist pilot: events per user, day and feature, weeks 1–8 from 1 Feb 2027 (a future snapshot used in module 6) | 1,778 | 06.4 |
-| `hr-roster.csv` | HR roster of the pilot's licence holders as of 31 Mar 2027, to join with the usage export | 16 | 06.4 |
+| `ai-usage-export.csv` | Admin analytics of the AI assist pilot: events per user, day and feature, weeks 1–8 from 1 Feb 2027 (a future snapshot used in modules 6 and 7) | 1,778 | 06.4, 07.2, 07.8 |
+| `hr-roster.csv` | HR roster of the pilot's licence holders as of 31 Mar 2027, to join with the usage export | 16 | 06.4, 07.2, 07.8 |
 
 ### personas/
 

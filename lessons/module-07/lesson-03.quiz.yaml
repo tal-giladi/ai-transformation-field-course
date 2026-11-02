@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    Your sponsor returns your steering paper with ten edits "to give it energy". Each one is defensible
+    on its own. How do you respond?
+  options:
+    - >-
+      Accept them all, since your numbers are still in the appendix for anyone who checks.
+    - >-
+      Send your original to the committee and copy the sponsor so the record is clear.
+    - >-
+      Return a tracked response that objects to every one of the ten edits with a reason.
+    - >-
+      Show her the two or three edits that change the decision and offer what you can give.
+  correct: 3
+  explanation: >-
+    Softening works through many small edits, but only a few change what the committee will decide.
+    Showing those, while meeting her legitimate concern (a shorter, stronger, true headline; her upside
+    labelled), keeps both the finding and the sponsor.
+
+- id: q2
+  question: >-
+    The CEO told the board 40%. The measured case is about 3%. Where and how should he first hear that
+    plainly?
+  options:
+    - >-
+      Privately before the meeting, answer first, with options for what he tells the board.
+    - >-
+      In the steering meeting, where the CFO's questions make the evidence speak for itself.
+    - >-
+      In the board pre-read, so the number is on paper before anyone can argue with it.
+    - >-
+      From the sponsor, since she has the closer relationship with him and owns the programme.
+  correct: 0
+  explanation: >-
+    In a group a leader defends the number he committed; alone, with options, he can change it. Hearing
+    it first in a meeting or on paper makes him defend it whatever the evidence.
+
+- id: q3
+  question: >-
+    You have stated the hard finding: the programme will not deliver the 40%. The CEO looks shaken.
+    What do you do next?
+  options:
+    - >-
+      Repeat the finding in different words to make sure it has been understood.
+    - >-
+      Offer two or three ways to tell the board, each with what it costs him.
+    - >-
+      Soften it by adding that a larger saving may still be possible in later years.
+    - >-
+      Explain in detail why the September figure was never realistic in the first place.
+  correct: 1
+  explanation: >-
+    The finding is stated once; what helps now are live options he can choose from. Repeating it reads as
+    an attack, softening undoes it, and a post-mortem of September makes him defend it.
+
+- id: q4
+  question: >-
+    The conversation went well and the CEO has a board sentence he likes. Which question protects him
+    most before you leave the room?
+  options:
+    - >-
+      Whether he wants you to present the AI case to the board yourself.
+    - >-
+      Whether the CFO has already reviewed the sentence he plans to use.
+    - >-
+      Who has already heard a number from him since September, and what exactly.
+    - >-
+      Whether he would rather delay the board item until live numbers exist.
+  correct: 2
+  explanation: >-
+    A committed number travels: a board chair, an investor or a vendor may have heard it. Each needs the
+    same correction from him, early; otherwise the slide is right and the people who matter still expect
+    the old number.
+
+- id: q5
+  question: >-
+    The sponsor's version says "the support team is enthusiastic" and quotes a named agent. What is the
+    best change?
+  options:
+    - >-
+      Keep the quote, since enthusiasm from the frontline helps the committee say yes.
+    - >-
+      Replace it with the agent's manager's name, so no frontline employee is exposed.
+    - >-
+      Keep it but add that the quote was collected informally during the test phase.
+    - >-
+      Remove it; report adoption as a risk measured after training, and ask the agent first.
+  correct: 3
+  explanation: >-
+    One enthusiast's quote is not adoption evidence, and naming a frontline employee in a board paper
+    without asking exposes her. Adoption is a risk to measure after training, with data.

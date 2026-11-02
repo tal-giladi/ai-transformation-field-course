@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    You are asked to review a roadmap a consultancy wrote for the CEO. Where do you start?
+  options:
+    - >-
+      With its structure and formatting, since a clear plan is easier to test later.
+    - >-
+      By assuming it has already failed and writing how, then tracing each story to evidence.
+    - >-
+      By rating each initiative's risk from 1 to 5 against a standard risk list.
+    - >-
+      By asking its authors which assumptions they consider the weakest.
+  correct: 1
+  explanation: >-
+    A pre-failure reading starts from "it failed" and works back, which surfaces doubts a normal review
+    keeps quiet. Rating categories or asking the authors finds what everyone already believes.
+
+- id: q2
+  question: >-
+    The roadmap says the company handles "about 9,000 contacts a year". The exports show more than
+    40,000 once WhatsApp is counted. How do you classify and treat it?
+  options:
+    - >-
+      Fragile: monitor the volume monthly and adjust the plan if it keeps rising.
+    - >-
+      Fragile: add a fallback in case the contact volume turns out higher.
+    - >-
+      Wrong: correct the number and recompute everything that rests on it.
+    - >-
+      Wrong: remove the volume from the plan so the authors are not embarrassed.
+  correct: 2
+  explanation: >-
+    A number that is false today is a wrong assumption: correct it and redo what depends on it. Watching
+    or hedging a wrong number does not make it right; removing it hides the problem.
+
+- id: q3
+  question: >-
+    The vendor's discount ends on 30 November and its price may change after. The plan's first step is
+    "sign before the discount ends". Which disposition fits?
+  options:
+    - >-
+      Take the deadline out of the decision; re-screen after evidence.
+    - >-
+      Correct the price in the plan to the post-discount figure.
+    - >-
+      Sign now to lock the discount, and add a review clause for later.
+    - >-
+      Ignore it: commercial terms are outside a roadmap pressure test.
+  correct: 0
+  explanation: >-
+    The discount is true today and will change: a fragile dependency. The cure is to stop the decision
+    depending on it, here by taking the deadline out and re-screening after a proof of concept on own data.
+
+- id: q4
+  question: >-
+    The plan's only control is "a monthly steering meeting chaired by the CEO; the vendor provides
+    performance reports", for seven initiatives. How do you test it?
+  options:
+    - >-
+      Check that the CEO has chaired similar committees before.
+    - >-
+      Ask the vendor for a sample of the performance reports it sends to other clients.
+    - >-
+      Accept it, since a CEO-chaired meeting gives the programme the most authority.
+    - >-
+      Do the arithmetic: about eight minutes per initiative, graded by the vendor itself.
+  correct: 3
+  explanation: >-
+    A control is load-tested with numbers: time, volume and independence. Eight minutes a month per
+    initiative, with the vendor grading its own work, cannot catch a failing item.
+
+- id: q5
+  question: >-
+    Your log is ready. The CEO commissioned the roadmap and showed its direction to the board. What do
+    you do with the log?
+  options:
+    - >-
+      Send it to the CEO and the board members, so the evidence reaches everyone at once.
+    - >-
+      Give it to your sponsor first, keep what survives, and ask for one decision with a date.
+    - >-
+      Send it to the consultancy for comment before anyone at the company sees it.
+    - >-
+      Hold it until your own roadmap is ready, then present both side by side.
+  correct: 1
+  explanation: >-
+    Challenging a plan the CEO already showed the board is political. The sponsor decides how it is used;
+    keeping what survives shows it is not a rival pitch; one decision with a date (do not sign by the 30th)
+    turns findings into action.

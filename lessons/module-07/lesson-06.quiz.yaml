@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    The draft service is live. The CEO proposes that "the AI review group owns it", since all the
+    relevant people sit there. What is the problem?
+  options:
+    - >-
+      The review group meets monthly, which is too often for a single service.
+    - >-
+      Nobody in particular holds the switch or answers for it on an ordinary Tuesday.
+    - >-
+      The review group cannot legally own a system that processes personal data.
+    - >-
+      The CFO sits on the group and would gain a veto over day-to-day changes.
+  correct: 1
+  explanation: >-
+    A committee cannot be accountable for a running service. One named owner, with the authority to
+    switch it off and the duty to chair its review, is what keeps it watched; the committee governs above
+    that owner.
+
+- id: q2
+  question: >-
+    Your operating calendar costs about 27 internal hours a month. The business case counted about 100
+    hours a year for checks. What do you do?
+  options:
+    - >-
+      Cut the rhythm to fit the case, starting with the monthly eval re-run.
+    - >-
+      Leave the case as it is, because internal hours are not cash.
+    - >-
+      Tell finance now and net the extra hours from the capacity benefit.
+    - >-
+      Ask the champions to absorb the extra work within their protected hours.
+  correct: 2
+  explanation: >-
+    Hours are not cash, but they come out of the capacity the case promised, and an uncosted rhythm is the
+    first thing cut at the next peak. Tracing the rhythm to the case and telling finance early keeps both
+    honest.
+
+- id: q3
+  question: >-
+    A colleague says the monthly service review is enough monitoring: "we look at every signal once a
+    month". Why is that not enough?
+  options:
+    - >-
+      Because a broken segment runs for weeks unseen; triggers act at the threshold.
+    - >-
+      Because regulators require weekly reviews of any AI system that touches customer data.
+    - >-
+      Because monthly reviews are too short to cover every signal in 45 minutes.
+    - >-
+      Because the vendor's dashboard already gives real-time views that make reviews redundant.
+  correct: 0
+  explanation: >-
+    A cadence is when you look; a trigger is what makes someone act, whenever it happens. Without triggers
+    that name who may act and how fast, the review finds a failure up to a month late.
+
+- id: q4
+  question: >-
+    When is the best time to write the conditions under which the service will be retired?
+  options:
+    - >-
+      When the first serious incident happens, since the risks are clearest then.
+    - >-
+      At the yearly review, when a full year of data is available.
+    - >-
+      When the vendor announces the retirement of the model it runs on.
+    - >-
+      On the day it goes live, as checkable conditions, before anyone is attached to it.
+  correct: 3
+  explanation: >-
+    Retirement criteria written before anyone is attached make the decision a check instead of a fight.
+    Written after an incident or a vendor notice, they look like a reaction, and the service's defenders
+    will argue each one.
+
+- id: q5
+  question: >-
+    Reviewing the RACI, you see one senior agent is responsible on six recurring lines (audit, escalations,
+    flag clearing, labelling, champions, a test set). What does it tell you?
+  options:
+    - >-
+      That she should be made accountable for the service instead of her manager.
+    - >-
+      That the rhythm depends on one person and will stop when she is away; spread the lines.
+    - >-
+      That the RACI is correct, since she is the most capable person for each task.
+    - >-
+      That the lines should be merged into one activity to simplify the table.
+  correct: 1
+  explanation: >-
+    A rhythm that rests on one person stops on her first week of leave or at the peak. Spreading the lines
+    (another reviewer per language, a deputy per task) is part of making the service survive the people
+    who built it.

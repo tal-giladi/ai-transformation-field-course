@@ -268,7 +268,7 @@ Israeli reference, and Olga's unanswered request to IT (the DPA's cover note dat
 ## Timeline for modules 3–7 (main session, 2026-11-02)
 
 - Nov 2026: discovery (M1–M2); scoring workshop 26 Nov; findings memo 1 Dec; Yoav one-to-one 2 Dec;
-  alignment session 10 Dec. Date fix + proactive delay emails (no AI) live mid-November.
+  alignment session 10 Dec. Date fix + proactive delay emails (no AI): built in December, live Thursday 14 January 2027.
 - Dec 2026 – Jan 2027: pilot built and evaluated on a test set of 400 real emails (M5.1–5.5);
   ROI model to Ronit 14 Jan; steering meeting Tue 19 Jan 2027 (07.4, `steering-committee` sim)
   approves phase 1 with ₪48,000 now (stage 1, Feb–Mar) and ₪72,000 from April at gate 1 (1 Apr); board 28 Jan 2027. Roadmap v1.1 (05.6): all four languages from 1 Feb with per-language spot checks.

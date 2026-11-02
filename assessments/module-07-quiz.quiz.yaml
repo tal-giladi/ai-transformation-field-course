@@ -1,0 +1,185 @@
+- id: q1
+  question: >-
+    A logistics company's steering pack asks for ₪90,000 to extend a document-extraction pilot. The test
+    results look good, but the pack never says what happens if the committee says no. Why add it?
+  options:
+    - >-
+      A "no" also has costs, and a committee that thinks it is free will say it or say "in principle".
+    - >-
+      Committees are legally required to record the consequences of rejecting a funding request.
+    - >-
+      It shows the committee that the team has already planned for failure and will not need support.
+    - >-
+      It shortens the meeting, because members no longer need to ask about alternatives.
+  correct: 0
+  explanation: >-
+    Pricing the "no" (work that stays manual, a contract that renews, people who go back to unapproved
+    tools) lets the committee choose knowingly, and makes "approved in principle" visibly unexecutable.
+
+- id: q2
+  question: >-
+    Your sponsor edits your paper overnight: the weak assumption moved to the appendix, a test-set result
+    described as "exceeding target", and an unmeasured upside in the summary. The paper goes out in the
+    morning. What do you do first?
+  options:
+    - >-
+      Send your own version to the committee and explain the differences in the meeting.
+    - >-
+      Meet the sponsor first; show the edits that change the decision.
+    - >-
+      Accept the edits, since the sponsor carries the political risk and knows the audience.
+    - >-
+      Ask the CFO to arbitrate between the two versions before the paper goes out.
+  correct: 1
+  explanation: >-
+    Going around the sponsor costs you every later decision; accepting the edits lets the committee decide
+    on something untrue. Showing her the few edits that change the decision, and the risk to her own name,
+    usually keeps both the finding and the sponsor.
+
+- id: q3
+  question: >-
+    In a steering meeting the CFO asks how review time was measured. It was timed by a rater at a desk,
+    not by agents in a queue. Which answer builds the most trust?
+  options:
+    - >-
+      "It is the standard method, and our raters were experienced agents, so it is reliable."
+    - >-
+      "I will send you the methodology after the meeting so we can keep to time."
+    - >-
+      "At a desk, not in the queue; that is why the second stage waits for the April gate."
+    - >-
+      "The vendor's benchmark shows even shorter review times, so ours is conservative."
+  correct: 2
+  explanation: >-
+    Conceding the weak point and tying it to a condition turns a gap into the reason for the gate. A
+    committee trusts the parts of a case it has seen you give up.
+
+- id: q4
+  question: >-
+    At a gate, an insurer's claim-summary pilot shows 74% acceptance overall against an 80% bar: 86% on
+    motor claims and 61% on property claims, which are 60% of volume. What is the right reading?
+  options:
+    - >-
+      Fail the whole pilot, since the overall figure misses the bar that was approved.
+    - >-
+      Pass it, since 74% is close to the bar and the trend is improving.
+    - >-
+      Extend the measurement period for both lines by two months and decide then.
+    - >-
+      Decide per line: scale motor, fix property with a dated re-gate, and record any departure.
+  correct: 3
+  explanation: >-
+    An average mixes a segment that passes with one that fails for reasons that can be named. Reading per
+    segment scales what is proven and gives the failing part a fix with yes/no conditions and a date.
+
+- id: q5
+  question: >-
+    A municipality's translation assistant replaced a paid translation service, and the committee
+    decided to "retire the old service". Six months later finance still pays for it. What was missing?
+  options:
+    - >-
+      A checklist with owners for access, data, contract, records and a 30-day check.
+    - >-
+      A stronger decision: the committee should have voted unanimously to cancel the contract.
+    - >-
+      A communication to staff that the old service was no longer approved for use.
+    - >-
+      A replacement budget line so the saving could be moved to another project.
+  correct: 0
+  explanation: >-
+    A retire stops at the minute unless someone removes access, deletes the vendor's data, gives notice,
+    updates the records and checks after 30 days that the old path is gone and the invoice changed.
+
+- id: q6
+  question: >-
+    A draft tool sends a customer another customer's address. Your colleague wants to write "notify the
+    regulator within 24 hours" into the runbook so nobody hesitates next time. What do you do?
+  options:
+    - >-
+      Agree, because a clear deadline makes the team act faster in a real incident.
+    - >-
+      Write "notify within 72 hours" instead, to align with the GDPR as a safe international standard.
+    - >-
+      Write what to do (preserve, record, brief counsel or the DPO the same day) and let counsel decide.
+    - >-
+      Leave privacy out of the runbook, since it belongs in the data-protection policy.
+  correct: 2
+  explanation: >-
+    Whether an incident is reportable, to whom and by when depends on the rules, the database and the
+    facts. A runbook routes the question with the facts the same day and records counsel's decision; a
+    guessed deadline is how reports go out wrong.
+
+- id: q7
+  question: >-
+    After a pilot becomes a service at a clinic network, the CEO proposes that "the AI committee owns
+    it". What is the better design?
+  options:
+    - >-
+      The committee owns it, with a rotating chair so the workload is shared fairly.
+    - >-
+      One owner who holds the switch and chairs its review; the committee governs.
+    - >-
+      The vendor owns it, since it runs the model and has the technical knowledge.
+    - >-
+      IT owns it, since it is software and IT already runs the other systems.
+  correct: 1
+  explanation: >-
+    A committee cannot act on a Tuesday afternoon. One named owner with the authority to switch it off and
+    the duty to chair its review keeps it watched; governance sits above, not instead.
+
+- id: q8
+  question: >-
+    You are reviewing a roadmap a consultancy wrote. It assumes "the vendor resolves 70% of contacts", a
+    figure measured at other companies with an integration this company lacks. How do you log it?
+  options:
+    - >-
+      Fragile: watch the resolution rate monthly after go-live and adjust if it falls.
+    - >-
+      Fragile: add a fallback of human agents if resolution comes in below 70%.
+    - >-
+      Wrong: remove the figure and the plan, since the consultancy cannot be trusted.
+    - >-
+      Wrong: correct it with a proof of concept on the company's own data before any contract.
+  correct: 3
+  explanation: >-
+    A figure that is false for this company today is a wrong assumption: correct it, here with a cheap
+    trial on its own data. Monitoring after go-live is too late, and discarding the whole plan turns a
+    finding into a fight.
+
+- id: q9
+  question: >-
+    The release plan says a new channel's drafts may go on "no earlier than 15 February" if a shadow-mode
+    condition is met. On 14 February two of four checks fall short, and the queue is backed up. What
+    should happen?
+  options:
+    - >-
+      The date holds, because it was agreed by the steering committee and is in everyone's calendar.
+    - >-
+      The project lead decides alone, since the switch owner is under pressure from the queue.
+    - >-
+      The switch owner decides with the options in front of him, and any departure is recorded.
+    - >-
+      The decision waits for the next monthly steering meeting, two weeks later.
+  correct: 2
+  explanation: >-
+    A stage date is the earliest date, not a deadline. The person who owns the switch decides, knowing the
+    consequences, and a departure is recorded with a re-check date so later numbers can be read correctly.
+
+- id: q10
+  question: >-
+    You are handing a service to operations next week. The new owner asks you to "sit in on the first
+    gate, just in case". What does that request tell you?
+  options:
+    - >-
+      That the handover has not been tested: the team should pass acceptance tests without you.
+    - >-
+      That the owner values your expertise, so you should agree and lead the discussion.
+    - >-
+      That the gate should be postponed until the owner feels fully confident.
+    - >-
+      That the handover pack is too long and should be cut to one page.
+  correct: 0
+  explanation: >-
+    If the team needs you for its first decision, it will need you for every one. Staged transfer ending
+    in acceptance tests without you in the room is what shows the service survives you; being reachable
+    is enough.

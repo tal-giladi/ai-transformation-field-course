@@ -1,0 +1,96 @@
+- id: q1
+  question: >-
+    At gate 1 the pilot shows 73% acceptance overall against an 80% bar. Email drafts are at 82%,
+    WhatsApp drafts at 58%, and WhatsApp is about 70% of the tickets. The CEO says "73% is close,
+    let's scale". What do you recommend?
+  options:
+    - >-
+      Scale everything, because the overall figure is within ten points of the bar.
+    - >-
+      Stop the pilot, because the overall figure misses the bar the board approved.
+    - >-
+      Scale email and web form, fix WhatsApp with a dated re-gate, and record why.
+    - >-
+      Extend the measurement period by a month for all channels, then decide again.
+  correct: 2
+  explanation: >-
+    The average mixes a segment that passes every condition with one that fails for named reasons. A
+    verdict per segment scales what is proven and gives the failing part a fix with yes/no conditions
+    and a date.
+
+- id: q2
+  question: >-
+    Gate 1 required "all yes" before the second ₪72,000 is released. Two conditions failed, but the
+    committee wants to release ₪30,000 to fix WhatsApp. How should the decision record handle it?
+  options:
+    - >-
+      State that the gate was not met and that the committee departs from the rule, for what and why.
+    - >-
+      Record the release as stage 2 money, since the amount is below the full ₪72,000.
+    - >-
+      Re-word the gate conditions so that the current readings count as a pass.
+    - >-
+      Release the money from the contingency line so the gate rule does not need mentioning.
+  correct: 0
+  explanation: >-
+    Money flowing past a failed gate without a written departure teaches everyone that gates are
+    decoration. Saying the gate failed, what the money buys and what is held keeps the gate meaningful.
+
+- id: q3
+  question: >-
+    During the incident follow-up you find a shared project in the approved chat tool, built by two
+    account managers, drafting B2B replies from an old returns policy and uploaded customer email
+    threads. What is the right first move?
+  options:
+    - >-
+      Shut the project down today and remind the account managers of the acceptable-use policy.
+    - >-
+      Leave it as it is and add it to the agenda of next cycle's intake review.
+    - >-
+      Move it into the pilot as a new category, funded from the money held at the gate.
+    - >-
+      Remove the stale policy and personal data, point it at the one policy library, and register it.
+  correct: 3
+  explanation: >-
+    Merge what can be merged now (one source library under change control, the data boundary
+    restored, an owner in the register) and leave the build-level merge to the next cycle. Shutting it
+    down sends users to personal accounts; leaving it keeps a stale source live.
+
+- id: q4
+  question: >-
+    The committee decided to retire the translation service's seats for Customer Service. Ronit asks
+    when the saving can be counted as banked. What is your answer?
+  options:
+    - >-
+      Today, because the committee's minute is the decision that creates the saving.
+    - >-
+      When the invoice shows only the remaining plan and a 30-day check finds no use left.
+    - >-
+      When the vendor confirms the cancellation request by email.
+    - >-
+      At the end of the financial year, when finance closes the licence accounts.
+  correct: 1
+  explanation: >-
+    A retire is done when access, data, contract and records are closed and a check after 30 days finds
+    the old path gone (no proxy traffic, no personal subscriptions). Only then has the budget line
+    actually changed.
+
+- id: q5
+  question: >-
+    Three requests arrive at a gate that was only partly met: Instagram reply drafts, B2B quote drafts
+    and a vendor proof of concept. ₪42,000 is being held until the re-gate. What does "fund nothing new
+    this cycle" mean here?
+  options:
+    - >-
+      Fund the cheapest request from the held money, so the team keeps its momentum.
+    - >-
+      Decline all three permanently, so the team can focus on the fix.
+    - >-
+      Fund none now, keep the held money for the fix, answer each with a reason and date.
+    - >-
+      Ask each requester to fund their idea from their own department budget instead.
+  correct: 2
+  explanation: >-
+    The held amount is not a pot, and new builds compete with the fix for the same people. Each request
+    still gets a written answer with a reason and a re-screen date, so nobody builds it on a personal
+    card in the meantime.

@@ -1,0 +1,95 @@
+- id: q1
+  question: >-
+    Your front page from last week says "80% of drafts accepted". The offline eval has just come back:
+    82% on 261 rated test drafts, Arabic 72% with an interval down to 58%. How do you show it in the
+    steering pack?
+  options:
+    - >-
+      Replace 80% with 82% and keep the label "measured", since the target was beaten.
+    - >-
+      Show 82% with each language, label it measured on the test set and directional for production.
+    - >-
+      Leave the number out until production data arrives, so nobody anchors on a test figure.
+    - >-
+      Report only the languages above 80%, and put Arabic in the annex as work in progress.
+  correct: 1
+  explanation: >-
+    An offline test is measured about the test set and directional about production. Showing every
+    language, with the weak one and its interval on the front page, lets the committee attach a
+    condition to it instead of discovering it at the gate.
+
+- id: q2
+  question: >-
+    A committee member asks why the pack has a box called "what a no means". The sponsor thinks it
+    sounds defensive. What is the strongest reason to keep it?
+  options:
+    - >-
+      It makes a "no" or "approved in principle" a costed decision instead of a free default.
+    - >-
+      It warns members that rejecting the proposal would embarrass the sponsor in front of the board.
+    - >-
+      It is a legal requirement for any decision that commits more than the board threshold.
+    - >-
+      It replaces the cost-of-waiting table, which committees find too detailed to read.
+  correct: 0
+  explanation: >-
+    Committees treat "no" and "in principle" as cost-free. Writing what happens on Monday after each
+    answer (temps hired again, agents without a tool) lets them choose knowingly; it is not a threat and
+    not a legal formality.
+
+- id: q3
+  question: >-
+    While checking the pack you find that the roadmap starts Russian and Arabic drafts four weeks
+    after Hebrew, while the charter, eval and training plan assume all four languages on day one. The
+    meeting is in three days. What do you do?
+  options:
+    - >-
+      Change the roadmap to match the charter and send the pack; the charter is the newer document.
+    - >-
+      Keep both versions and explain the difference if anyone asks in the meeting.
+    - >-
+      Tell the sponsor now and put the language order to the committee as its own decision line.
+    - >-
+      Remove the language plan from the pack and settle it with the pilot team after approval.
+  correct: 2
+  explanation: >-
+    The contradiction changes what is being approved, so a quiet fix takes the decision away from its
+    owners. Disclose it to the sponsor before the meeting and give the committee a separate line it can
+    approve or refuse (here, roadmap v1.1).
+
+- id: q4
+  question: >-
+    The pack makes a condition of approval that a native speaker spot-checks Arabic drafts twice a
+    week. The integration check asks you to trace it. What are you checking?
+  options:
+    - >-
+      That the condition uses the same wording in the charter and in the board pre-read.
+    - >-
+      That the eval report's Arabic sample was large enough to justify the condition.
+    - >-
+      That the vendor's documentation supports spot checks in its admin console.
+    - >-
+      That a named person does it and the hours sit in a cost line of the ROI model.
+  correct: 3
+  explanation: >-
+    A human control is real only if someone has the time and the time is paid for. Tracing each
+    control to a person and a cost line is what stops a pack from promising a check nobody staffs.
+
+- id: q5
+  question: >-
+    The evidence so far covers one seasonal temp, not the two the expected case assumes. The sponsor
+    wants that sentence in the annex "so the front page has energy". What do you do?
+  options:
+    - >-
+      Move it to the annex but mention it orally when presenting the gate table.
+    - >-
+      Keep it on the front page, below the expected case, labelled as the weak line.
+    - >-
+      Drop the expected case and present only the low scenario to avoid any overclaim.
+    - >-
+      Ask the CFO to decide where it goes, since it concerns the financial model.
+  correct: 1
+  explanation: >-
+    The weak line is the one the committee most needs and the one most likely to be heard first at the
+    gate if it is buried. Keeping it on the front page, placed after the expected case and labelled,
+    respects the sponsor's concern without hiding the finding.

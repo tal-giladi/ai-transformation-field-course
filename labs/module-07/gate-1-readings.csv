@@ -1,0 +1,9 @@
+channel,language,period,eligible_tickets,tickets_draft_used,drafts_shown,drafts_accepted,median_review_seconds,source
+email_web,he,2027-02-15..2027-03-28,680,512,640,550,128,pilot log (helpdesk fields: draft action and timer)
+email_web,en,2027-02-15..2027-03-28,140,103,122,102,120,pilot log (helpdesk fields: draft action and timer)
+email_web,ru,2027-02-15..2027-03-28,330,246,270,219,140,pilot log (helpdesk fields: draft action and timer)
+email_web,ar,2027-02-15..2027-03-28,270,203,230,170,150,pilot log (helpdesk fields: draft action and timer)
+whatsapp,he,2027-02-15..2027-03-28,1850,280,420,260,80,pilot log (helpdesk fields: draft action and timer)
+whatsapp,en,2027-02-15..2027-03-28,60,12,20,14,75,pilot log (helpdesk fields: draft action and timer)
+whatsapp,ru,2027-02-15..2027-03-28,640,98,190,108,90,pilot log (helpdesk fields: draft action and timer)
+whatsapp,ar,2027-02-15..2027-03-28,690,96,200,102,95,pilot log (helpdesk fields: draft action and timer)
