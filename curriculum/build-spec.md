@@ -10,7 +10,8 @@ The main session gave you the unit; do only that unit.
 3. This file.
 4. `curriculum/research/ibm-gap-map.md` and `curriculum/research/ibm-consulting-gap-map.md` (which gap your lessons fill, and IBM vocabulary to name in one line, never re-teach). Open the per-course notes in `curriculum/research/ibm-content/` and `ibm-consulting/` only for the topics your module covers. IBM content is copyrighted: use the ideas, never copy wording or exercises.
 5. `labs/common/README.md` (the field kit: Python helpers, persona format, coach prompt) and, for modules 1–7, `labs/common/harbor-and-pine/INDEX.md` (which data-room file serves which lesson).
-6. `templates/README.md` and the finished modules before yours, to match tone and re-use their templates instead of re-teaching.
+6. `references/laws-and-guidance.md` (the shared, dated list of laws, regulator guidance and standards; start from it, re-open the sources you cite, and report changes in your sources inbox).
+7. `templates/README.md` and the finished modules before yours, to match tone and re-use their templates instead of re-teaching.
 
 ## Hard limits for agents
 
