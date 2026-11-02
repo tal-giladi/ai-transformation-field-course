@@ -8,7 +8,9 @@ of the steering committee — ten times, in ten different organizations.
 Written 2026-11-02. Status: plan only. No lessons written yet.
 Research input: `research/ibm-gap-map.md` (what IBM teaches, what it leaves out, where we fill it —
 built from the full IBM content), `research/ibm-content/01–07` (per-course notes),
-`research/ibm-certificate.md` (public syllabus).
+`research/ibm-certificate.md` (public syllabus). Second certificate, IBM "Enterprise AI
+Transformation and Consulting" (read 2026-11-02): `research/ibm-consulting-gap-map.md` and
+`research/ibm-consulting/01–07`.
 
 ## 0. Binding build rules
 
@@ -91,6 +93,12 @@ Everything in `labs/module-NN/` (downloadable zip):
   question unlocks what. The sponsor, the CFO, the CISO, legal/DPO, a middle manager, a frontline
   employee, a union/works-council rep or clinician lead, IT, a sceptic, a secret enthusiast. Each pack
   also has a pre-run interview transcript for learners who prefer not to roleplay.
+  Further types, used where they fit: the person affected by an AI decision (claimant, resident,
+  customer), counsel (names the exposure, won't decide priority), a board member, internal audit, a
+  vendor account executive defending a demo, the commercial account lead, a business user who builds
+  their own agents, the receiving team that absorbs the leftover checking, a data steward who knows
+  why the numbers differ but is only asked for reassurance, a process owner who keeps adding scope.
+  For a decision or incident, several role-holders who each tell the truth from their own seat.
 - **Hidden truth** — what is really going on (the stated ask is often not the real problem). It is
   revealed only in the debrief lesson, inside `<details>`.
 - **Deliverables list** and a **self-assessment rubric** for each deliverable.
@@ -132,7 +140,15 @@ Two kinds:
 | `vendor-rfp` | Score vendors on demos vs evidence; contract terms (data use, retention, exit) |
 | `operating-model-scaler` | 12 business units over 3 years; CoE / federated / hub-and-spoke; bottlenecks and shadow builds |
 | `risk-register-tester` | Ratings vs tested controls; earn the green |
-| `roi-defender` | Sponsor claims under finance review; net each claim |
+| `roi-defender` | Sponsor claims under finance review; net each claim across four ledgers (sponsor, receiving team, control capacity, customer) |
+| `readiness-evidence-grader` | Sort interview notes, dashboards and documents into verified vs reported; see how a steering group reacts to an over-claimed vs an honest report |
+
+Additions from the second IBM certificate: `portfolio-sorter` gets a criteria-lock step, an
+absorption-capacity number the learner must ask for, and the expected cost of errors netted from the
+benefit; `oversight-under-load` gets "flag feedback on/off" and "source shown beside the draft"
+toggles; `adoption-dynamics` gets hidden quiet-non-adoption signals; `vendor-rfp` gets a "demo
+conditions" reveal; `operating-model-scaler` gets a central review queue with limited slots per
+quarter; `steering-committee` gets a branch where the sponsor is also the advocate.
 
 ## 4. Content sources and accuracy
 
@@ -181,48 +197,54 @@ numbers.
 ### Stage 1 — The field kit (warm-up org: "Harbor & Pine", a 120-person furniture importer)
 
 **Module 1 — Walking in**
-1. 01.1 Three ways in: internal lead, consultant, accidental owner — what changes for each
-2. 01.2 Getting a real mandate: sponsor, scope, money, authority, what "done" means (sponsor conversation roleplay)
-3. 01.3 The first-week plan and the 30-60-90 (template filled for Harbor & Pine)
-4. 01.4 Access: data, systems, people — the access request pack and how to get it signed
-5. 01.5 The shadow-AI census: survey, proxy/SaaS logs, expense reports, browser extensions, interviews (data room exercise)
-6. 01.6 The AI inventory from zero: AI that arrived inside SaaS feature updates, the decisions AI already shapes, inventory fields and owners
-- Module practical: engagement charter + 30-60-90 + access pack + shadow-AI census + first AI inventory for Harbor & Pine.
+1. 01.1 Three ways in: internal lead, consultant, accidental owner — what changes for each; how a consulting engagement is sold and priced (phases you can exit vs retainer; fixed fee, time and materials); what you answer yourself and what you route to legal, the DPO, security or procurement
+2. 01.2 Getting a real mandate: sponsor, money, authority, what "done" means; the objective in the sponsor's own words, read back (sponsor conversation roleplay)
+3. 01.3 Scope boundary and change control: in and out with reasons, written sign-off, refinement vs expansion, the change-request route (roleplay with a process owner who keeps adding scope)
+4. 01.4 The first-week plan and the 30-60-90 (template filled for Harbor & Pine)
+5. 01.5 Access and the first-day data-room read: what is there, what is missing, which numbers are claims and which are verified; the access request pack and how to get it signed
+6. 01.6 The shadow-AI census: survey, proxy/SaaS logs, expense reports, browser extensions, interviews (data room exercise)
+7. 01.7 The AI inventory from zero: AI that arrived inside SaaS feature updates, the decisions AI already shapes, the counting rule (a rules engine is not AI), inventory fields and owners; keep the capability inventory, the maturity view and the legal register as three separate things
+- Module practical: engagement charter (with SOW outline) + scope boundary + 30-60-90 + access pack + shadow-AI census + first AI inventory for Harbor & Pine.
 
 **Module 2 — Discovery that finds the real work**
-1. 02.1 Stakeholder map before the first interview
-2. 02.2 The discovery interview: questions that get workflows and workarounds, not wish lists; protecting people who speak up (roleplay ×3 + coach)
-3. 02.3 Process walk and task inventory: observation protocol; volume, time, error, variation, judgment
-4. 02.4 Measuring a baseline from exports: cycle times and volumes from a ticketing/ERP export, sampling, time studies
-5. 02.5 Profiling the data: is it AI-ready? (completeness, labels, duplicates, access rights — on the data room)
-6. 02.6 Writing a findings memo people believe
-- Module practical: findings memo + task inventory + baselines + data profile.
+1. 02.1 Stakeholder map before the first interview (each stakeholder's need and risk in two sentences)
+2. 02.2 The discovery interview: questions that get workflows and workarounds, not wish lists; the same-word test ("ready", "done", "resolved" mean different things to different people); protecting people who speak up (roleplay ×3 + coach)
+3. 02.3 Process walk and task inventory: observation protocol; volume, time, error, variation, judgment; a process nobody can walk on paper is not yet a candidate
+4. 02.4 Measuring a baseline from exports: cycle times and volumes from a ticketing/ERP export, sampling, time studies; three systems that give three different baselines
+5. 02.5 Profiling the data: is it AI-ready? Completeness, labels (was the outcome ever recorded?), duplicates, stale copies, where each dataset came from and whether you may use it for this purpose under Israeli privacy law
+6. 02.6 The readiness assessment as a deliverable: dimensions, every finding dated and marked verified or only reported, consequence and owner, verdict proceed / phase / not yet with what would change it
+7. 02.7 Writing a findings memo people believe; checking an AI-drafted memo against its sources (a flawed one is in the data room)
+- Module practical: findings memo + task inventory + baselines + data profile + readiness assessment.
 
 **Module 3 — From findings to a funded portfolio**
-1. 03.1 Opportunity map: automate, assist, augment, leave alone
-2. 03.2 Scoring with evidence, not opinions (`portfolio-sorter`)
-3. 03.3 Running the scoring workshop with the real stakeholders (facilitator script, roleplay)
-4. 03.4 The leadership alignment session: 60–90 minutes from "use AI" to three bets (agenda, materials, roleplay)
-5. 03.5 The ROI model that survives finance: hours → capacity → money; seats, tokens, integration days, review minutes; scenarios and NPV; the conversation with finance about their template and hurdle rate (spreadsheet in labs, `roi-defender`)
-6. 03.6 The one-page business case, the cost of doing nothing, and telling the sponsor their favourite idea lost (roleplay)
-- Module practical: portfolio of 3, ROI model, one-page case, workshop pack.
+1. 03.1 Opportunity map: three feeds (requests, AI already in use, top-down goals); automate, assist, augment, leave alone
+2. 03.2 Agent or not: map the workflow step by step, simplify first, then decide per step between plain automation, generation and an agent; who builds it, what it connects to, who checks it (one Harbor & Pine candidate must end as "plain automation, no AI")
+3. 03.3 The fast screen: seven questions, the data gate, go / go with a condition / stop
+4. 03.4 Scoring with evidence, not opinions: lock the criteria before opening the list; effort in four parts; ask the receiving team what it can absorb (`portfolio-sorter`)
+5. 03.5 Running the scoring workshop with the real stakeholders (facilitator script, roleplay)
+6. 03.6 The leadership alignment session: 60–90 minutes from "use AI" to three bets (agenda, materials, roleplay)
+7. 03.7 The ROI model that survives finance: hours → capacity → money; seats, tokens, integration days; review minutes from where the human check sits; work that moves to other teams; the customer's share of the gain; the cost of the expensive error; scenarios, discounting and NPV; staged gates; the conversation with finance about their template and hurdle rate (spreadsheet in labs, `roi-defender`)
+8. 03.8 The roadmap: horizons by evidence, gates written as yes/no conditions, what each phase frees or proves for the next, review capacity per quarter
+9. 03.9 The decision-ready case: one-page front, one-sentence ask, measured / directional / assumed labels, cost of waiting; telling the sponsor their favourite idea lost (roleplay)
+- Module practical: portfolio of 3, ROI model, roadmap, decision-ready case, workshop pack.
 
 **Module 4 — Guardrails you can ship in week two**
 1. 04.1 The AI acceptable-use policy (write it, 2 pages max)
-2. 04.2 Approved tools and data classes: what data may go into which tool
+2. 04.2 Approved tools and data classes: what data may go into which tool; tiered control; answering the questions staff actually ask ("is a supplier record sensitive?"); the approved/restricted use list
 3. 04.3 Vendor and tool review: data use for training, retention, location, sub-processors, certifications, exit (questionnaire + 3 real-shaped vendor documents)
 4. 04.4 AI inventory and risk tiering; when you need a DPIA and how to write one
 5. 04.5 Risk register from zero: pre-mortem workshop, starter risks per use-case type (chatbot, extraction, scoring, agent), security risks (prompt injection, data leakage), then test the controls (`risk-register-tester`)
 6. 04.6 Which law applies to you: a one-page regulatory map (Israel first, then EU and US; actor and date)
-7. 04.7 Governance that runs: governance charter, committee terms of reference, intake form for new AI uses, cadence, link to the existing risk process
-- Module practical: the policy pack (AUP, tools list, vendor review, inventory, DPIA, risk register, regulatory map, governance charter + intake).
+7. 04.7 Governance that runs: governance charter (six parts), committee terms of reference, an intake register for every AI build and request (owner, where it runs, data touched, overlaps), a portfolio gate only when a build asks for money or to scale, cadence, three numbers for the board (reached production, decision time, declined and why), link to the existing risk process
+8. 04.8 Vendor and claim due diligence: under what conditions a demo or statistic was measured, trace a number to its source, a proof of concept on the client's own data, will the vendor exist in three years (term, exit, second supplier) (roleplay with a vendor account executive)
+- Module practical: the policy pack (AUP, approved/restricted use list, data boundary, vendor review, inventory, DPIA, risk register, regulatory map, governance charter + intake register) + one vendor claim read-back.
 
 **Module 5 — Building and testing a pilot**
-1. 05.1 The pilot charter: hypothesis, scope, thresholds, stop rules, owner, and the counterfactual (matched teams or phased rollout, how long to run)
+1. 05.1 The pilot charter: hypothesis, scope, thresholds, stop rules, owner; the rule of use (what the output may decide, who may override, how overrides are logged); the value measurement plan (an indicator the budget owner already reviews, baseline, a quality metric paired with every efficiency metric, counterfactual: matched teams or phased rollout, how long to run)
 2. 05.2 Building the test set from real data (and what to leave out)
 3. 05.3 Build it — Track A and Track B (support-email triage + draft replies for Harbor & Pine)
 4. 05.4 Evaluate: accuracy, failure types, negative tests, cost per item, time saved (`pilot-economics`)
-5. 05.5 Human-in-the-loop design that actually checks (`oversight-under-load`)
+5. 05.5 Human-in-the-loop design that actually checks: information, authority, time and competence; why reviewers stop checking (flags that go nowhere, load, a tool that is usually right); the reviewer who gets blamed for a design failure; marking AI-drafted outputs (`oversight-under-load`)
 6. 05.6 Shadow mode on production data, staged release, rollback, production-readiness checklist
 7. 05.7 Before launch: logging spec, monitoring (sampled output review, eval re-run on vendor model change, cost alerts), change control for prompts and models
 - Module practical: working pilot + eval report + monitoring spec + go/no-go recommendation.
@@ -231,20 +253,22 @@ numbers.
 1. 06.1 Workflow redesign: change the work, not just add a tool
 2. 06.2 Training that transfers: a 60-minute role-based session (run it, script + exercises in labs)
 3. 06.3 Champions network and office hours
-4. 06.4 The honest adoption dashboard from real usage exports (admin analytics joined with HR/task data; defining a qualified event; privacy of usage monitoring) (`adoption-dynamics`)
+4. 06.4 The honest adoption dashboard from real usage exports (admin analytics joined with HR/task data; defining a qualified event; quiet non-adoption: who stopped, when, back to what; the three questions for frontline managers; privacy of usage monitoring) (`adoption-dynamics`)
 5. 06.5 The comms pack: announcement, manager talking points, "will this replace me?" FAQ, works-council/union consultation
 6. 06.6 Resistance conversations: the manager, the expert, the worried employee (roleplay)
 - Module practical: training session pack + adoption dashboard + comms pack.
 
 **Module 7 — Readouts, decisions and the operating rhythm**
-1. 07.1 The steering pack: 5 slides, one decision
-2. 07.2 Scale, fix or stop: the decision record; how to actually decommission a "retire"
-3. 07.3 The steering meeting (`steering-committee`)
-4. 07.4 When it goes wrong: incident runbook and tabletop (`incident-tabletop`)
-5. 07.5 The operating rhythm: owners, RACI for a running AI service, monthly review, triggers, retirement
-6. 07.6 The board said yes — now what: running phase 1 week by week (staffing, budget release, first sprint, first report)
-7. 07.7 Handover: from project to operations, so it survives you
-- Module practical: full Harbor & Pine readout + decision + phase-1 plan + handover pack.
+1. 07.1 The steering pack: the decision-ready case updated with pilot evidence; every document names the decision, who can stop it and what a "no" means
+2. 07.2 Scale, fix or stop: the decision record; fund nothing new this cycle; merging duplicate builds; how to actually decommission a "retire"
+3. 07.3 Delivering bad news upward: answer first, the finding stated once, evidence vs inference, live options; resisting the softened version (rewrite a softened paper, then roleplay with a sponsor who already told the board a number)
+4. 07.4 The steering meeting (`steering-committee`)
+5. 07.5 When it goes wrong: incident runbook and tabletop (`incident-tabletop`)
+6. 07.6 The operating rhythm: owners, RACI for a running AI service, monthly review, triggers, retirement
+7. 07.7 Pressure-test a roadmap before it hardens: read it as if it already failed, wrong vs fragile, a findings log (a roadmap someone else wrote is in the labs)
+8. 07.8 The board said yes — now what: running phase 1 week by week (staffing, budget release, first sprint, first report)
+9. 07.9 Handover: from project to operations, so it survives you; the deliverable map
+- Module practical: full Harbor & Pine readout + decision + pressure-test log + phase-1 plan + handover pack.
 
 ### Stage 2 — Engagements (fixed six-lesson shape, §3.2)
 
@@ -263,16 +287,41 @@ numbers.
 
 Each engagement re-uses the field-kit templates; lessons point to them instead of re-teaching.
 
+Every engagement's NN.1 opens with the first-day data-room read (01.5). Every NN.6 readout has one
+recommendation, at least one recommend-against / de-scope / redesign where the evidence says so, an
+integration check across the deliverables, and a rehearsal of the hardest finding with the persona
+most likely to resist it (roleplay + coach).
+
+**Planted findings per engagement** (added after reading the second IBM certificate, `research/ibm-consulting/`):
+
+- 8 Northwind: the CEO already cut support headcount against the untested chatbot; handling time down
+  while repeat contacts rise; a report definition changed near rollout.
+- 9 Meridian: three conflicting baselines from three systems; a seasonal peak overlapping the pilot;
+  AI features that arrived inside a vendor release; internal audit and the claimant as personas.
+- 10 Galil: vendor demo statistics measured under conditions that do not match the clinics; the
+  proof of concept on the clinic's own (synthetic) notes.
+- 11 Givat Oren: the resident who wants a usable reason for a decision, as a persona.
+- 12 Atlas & Rowe: faster turnaround renegotiated by clients at renewal (the customer's share).
+- 13 Kinneret: a candidate whose outcome was never recorded; a stale replica of the parts list;
+  "ready" at the second plant means something else.
+- 14 Lumen: an unattended agent a business user built, to find and then approve with guardrails or
+  stop; a replaced document the agent still retrieves (11 days to discovery); an agent fleet nobody
+  can list; the commercial account lead as persona.
+- 15 Crescent: duplicate builds in two units to merge; the broad assistant rollout on the cut list
+  while two later initiatives depend on it.
+- 17 Vantage: a tool extended to four regions and pulled back.
+
 ### Stage 3 — Capstone
 
 **Module 18 — Your engagement**
 1. 18.1 The unseen org: brief and data room (no hints, no hidden-truth until submission)
-2. 18.2 Full deliverable set against the rubric
-3. 18.3 Optional real engagement: running the method in your own workplace (ethics, permission, confidentiality)
-4. 18.4 Your practice kit: turning everything you wrote into your own reusable playbook
-- Capstone: full deliverable set (charter, findings memo, portfolio + ROI, policy pack, pilot + eval, adoption plan, steering pack, decision record, handover).
+2. 18.2 Full deliverable set against the rubric; the integration check (every claim's timing traced to readiness and roadmap, every human control traced to its cost line and staffing)
+3. 18.3 The executive presentation: one recommendation, the hardest finding to the executive most likely to resist; record 10 minutes and self-score
+4. 18.4 Optional real engagement: running the method in your own workplace (ethics, permission, confidentiality)
+5. 18.5 Your practice kit and portfolio: turning everything you wrote into your own reusable playbook; each engagement's deliverable set as a portfolio piece for consulting work
+- Capstone: full deliverable set (charter, findings memo, readiness assessment, portfolio + ROI, roadmap, policy pack, pilot + eval, adoption plan, decision-ready case, decision record, handover) + recorded presentation.
 
-Rough size: 18 modules, ~110 lessons, ~32 h reading, ~160 h practice.
+Rough size: 18 modules, ~120 lessons, ~35 h reading, ~170 h practice.
 
 ## 7. Lesson format
 
@@ -286,13 +335,18 @@ Front-matter and H1 exactly as in the build rules. Fixed `##` sections in every 
 
 ## 8. Templates (`templates/`)
 
-Engagement charter · 30-60-90 plan · access request pack · shadow-AI survey · stakeholder map ·
-interview guide · task inventory · findings memo · opportunity map · use-case scorecard · ROI model
-(CSV + instructions) · one-page business case · AI acceptable-use policy · approved tools and data
-classes · vendor AI questionnaire · AI inventory · DPIA for AI · risk register · regulatory map ·
-pilot charter · test-set spec · eval report · human-review design · training session plan · champions
-playbook · adoption dashboard spec · comms plan · steering pack · decision record · incident runbook ·
-operating rhythm · handover pack · RFP for AI vendors · agent permission map.
+Engagement charter (with SOW outline) · scope boundary · change request · 30-60-90 plan · access
+request pack · data-room first read · shadow-AI survey · stakeholder map · interview guide · task
+inventory · readiness assessment · findings memo · opportunity map · agentic opportunity frame ·
+use-case scorecard (seven questions, data gate, verdict) · ROI model (CSV + instructions) · roadmap ·
+decision-ready case (front page + appendix) · AI acceptable-use policy · approved/restricted use list ·
+approved tools and data classes · data boundary · vendor AI questionnaire · claim read-back · vendor
+proof-of-concept protocol · AI inventory · AI intake register · DPIA for AI · risk register ·
+regulatory map · governance charter · pilot charter (with rule of use) · value measurement plan ·
+test-set spec · eval report · human-review design · training session plan · champions playbook ·
+adoption dashboard spec · comms plan · decision record · pressure-test findings log · incident
+runbook · operating rhythm · deliverable map · handover pack · integration check · RFP for AI vendors ·
+agent permission map.
 
 ## 9. Projects (`projects/`)
 

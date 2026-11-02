@@ -27,24 +27,24 @@ vocabulary is good and our lessons name it in one line where they build on it:
 
 | Gap in IBM | Where in this course |
 |---|---|
-| Getting in: mandate, sponsor contract, access, the first week, 30-60-90 | M1 |
-| Finding AI already in use: SaaS feature updates, extensions, expenses, proxy logs; building the inventory from zero | 01.5, 01.6 |
+| Getting in: mandate, sponsor contract, scope, access, the first week, 30-60-90 | M1 |
+| Finding AI already in use: SaaS feature updates, extensions, expenses, proxy logs; building the inventory from zero | 01.6, 01.7 |
 | Discovery: interview guide, observation protocol, task inventory, safe ways to surface workarounds | M2 |
 | Data work: pulling exports, measuring a baseline, profiling data for AI-readiness | 02.4, 02.5; every engagement NN.2–NN.3 |
-| Facilitation: leadership alignment session, scoring workshop, telling a sponsor their idea lost | 03.3, 03.4, 03.6 |
-| A real ROI spreadsheet: tokens, seats, integration days, human-review minutes, scenarios, NPV, the finance conversation | 03.5 |
+| Facilitation: leadership alignment session, scoring workshop, telling a sponsor their idea lost | 03.5, 03.6, 03.9 |
+| A real ROI spreadsheet: tokens, seats, integration days, human-review minutes, scenarios, NPV, the finance conversation | 03.7 |
 | Counterfactual design: matched teams, phased rollout, how long to run | 05.1, 07.2 |
 | Policy pack: AUP, approved tools/data classes, vendor questionnaire and contract terms, DPIA, governance charter, intake process | M4 |
 | Risk register from zero (pre-mortem, starter risks per use-case type), security risks (prompt injection, data leakage) | 04.5 |
 | Regulation beyond the EU AI Act: Israel first, then GDPR/EU and US, sector rules | 04.6 + engagements 9–12, 15 |
 | Building and testing anything: pilot, test set, eval, negative tests, human-review design | M5; every engagement NN.5 |
-| Logging spec, monitoring after launch, change control for prompts/models, re-eval on vendor model change | 05.7, 07.5 |
+| Logging spec, monitoring after launch, change control for prompts/models, re-eval on vendor model change | 05.7, 07.6 |
 | Comms artifacts: announcement, manager talking points, "will this replace me" FAQ, works-council consultation | 06.5, 06.6 |
 | Running a 60-minute hands-on training on the team's real work; champions network | 06.2, 06.3 |
 | Real usage telemetry (admin analytics exports), joining with HR/task data, privacy of usage monitoring | 06.4 |
 | Production readiness, staged rollout, decommissioning "retire" | 05.6, 07.2 |
-| After the board says yes: running phase 1 week by week | 07.6 |
-| Incident response runbook and tabletop | 07.4 |
+| After the board says yes: running phase 1 week by week | 07.8 |
+| Incident response runbook and tabletop | 07.5 |
 | Conversations inside the organization (IBM's AI roleplays are mostly framed as job interviews) | persona packs in every module |
 | Variety: IBM is one archetype (large multinational, C-suite seat) | 10 engagements of different size, sector and entry role |
 | Agentic AI hands-on: permission map, negative test ("try the action it must refuse"), staged autonomy | M14 |
