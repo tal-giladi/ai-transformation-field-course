@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    WhatsApp joins the helpdesk on the same day the pilot goes live. The offline test used only email
+    and web-form messages. How do you bring WhatsApp into the pilot?
+  options:
+    - >-
+      Treat it like email: the model and prompt are the same, so the email results carry over.
+    - >-
+      Keep WhatsApp out of the pilot until the next budget cycle, and say so in the report.
+    - >-
+      Run WhatsApp in shadow mode with daily rated samples and a yes/no exit before agents see drafts.
+    - >-
+      Release WhatsApp drafts to the best agents first and let them report problems informally.
+  correct: 2
+  explanation: >-
+    A new channel brings new message shapes, photos, voice notes and a different order number. Shadow
+    mode measures the pilot on the real stream with nothing changing for customers, and a written exit
+    condition decides when it moves on.
+
+- id: q2
+  question: >-
+    After gate 1, the team proposes that drafts for "where is my order?" appear in the reply box
+    automatically, instead of on request. A person still sends every reply. How do you treat it?
+  options:
+    - >-
+      As a new stage with its own entry condition and a watch on the discard rate, because it eases stamping.
+    - >-
+      As a usability change only, since a person still reads and sends every single reply.
+    - >-
+      As a change that needs a new charter and a new eval, since it is a different product.
+    - >-
+      As acceptable for every category at once, since gate 1 measured the pilot as a whole.
+  correct: 0
+  explanation: >-
+    Pre-filling raises autonomy without removing the person: a draft that is already in the box is
+    easier to send unread. It earns its own stage, limited to categories with high acceptance, and the
+    discard rate shows whether reviewers keep reading.
+
+- id: q3
+  question: >-
+    The integrator says rollback is covered: drafts can be switched off in under a minute. What is
+    missing from that answer?
+  options:
+    - >-
+      A way to restore the drafts quickly once the problem has been fixed by the team.
+    - >-
+      What happens to replies already sent: a correction by a person, under the incident runbook.
+    - >-
+      A second switch held by the vendor, in case the company's own switch fails.
+    - >-
+      An automatic switch-off when the model's confidence falls below a set threshold.
+  correct: 1
+  explanation: >-
+    Switching off stops the next draft; it does not unsend the last reply. The last reversible moment
+    is the agent's send button, so the plan must say who corrects a wrong reply that reached a
+    customer, how fast, and when the DPO is told.
+
+- id: q4
+  question: >-
+    On 29 January, the readiness checklist shows the load rule is not built and the logging is not
+    live. Go-live is 1 February and the CEO has told the board it starts then. What do you do?
+  options:
+    - >-
+      Go live as planned for everyone and finish the open lines in the first week of February.
+    - >-
+      Postpone the whole pilot by a month so that nothing starts before every line is closed.
+    - >-
+      Go live for everyone but ask agents to keep their own log of drafts until logging works.
+    - >-
+      Start for the trained agents only, or a week later, as written next to the open lines.
+  correct: 3
+  explanation: >-
+    The checklist decides whether the date holds, and the consequence of each open line was written
+    in advance. Starting narrower keeps the commitment honest without running unlogged drafts at full
+    load; a manual log is not a substitute for the logging the monitoring depends on.
+
+- id: q5
+  question: >-
+    WhatsApp customers quote the web store's order number, which the ERP does not recognise. What does
+    that mean for the WhatsApp release?
+  options:
+    - >-
+      A readiness line: without a web-store lookup, WISMO drafts there stay off, whatever shadow shows.
+    - >-
+      A prompt fix: tell the model to convert the web store's number into the ERP's format.
+    - >-
+      Nothing: the draft can ask the customer for the order number, which solves it.
+    - >-
+      A training point: agents can look the number up by hand, so drafts can be released.
+  correct: 0
+  explanation: >-
+    The mapping exists only in the web store, so no prompt can produce it, and asking customers for a
+    number they already gave frustrates them. It is a data precondition for that part of the release,
+    owned and dated on the checklist.

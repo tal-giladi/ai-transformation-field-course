@@ -1,0 +1,15 @@
+signal,indicator,threshold_trigger,cadence,owner,response,charter_stop_rule,data_source
+Quality,Wrong replies reaching customers in the spot audit (20 sent drafted replies per language per week),Above today's rate two weeks running,Weekly (Tuesday),"Olga Petrenko, Lina Khoury","Segment off, fix, re-test",2,Spot-audit sheet (05.4 rubric)
+Acceptance,"Drafts used as is or with light edits, per language",Below 70% two weeks running; below 60% = off,Weekly (Sunday report),Pilot lead,Prompt review; stop rule 3,3,Pilot log: action field
+Stamping,Discard rate per language,Below 5% while acceptance is under 90%,Weekly,Samir Haddad,Audit 20 sends; refresher; check load rule,-,Pilot log: action field
+Review time,Median seconds from opening the draft to sending,Over 150 s; over 264 s = stop rule 4,Weekly,Pilot lead,Review design (05.5),4,Pilot log: review seconds
+Escalations,Flags raised; time to clear safety flags,Any safety flag not handled the same day,Daily,Samir Haddad,Call the customer; incident review,1,Pilot log: flags
+Negative tests,"24+ hand-written tests, automated",Any failure,Weekly and on every change,Pilot lead,"No release; if live, roll back",5,run_pilot.py --set negative; score.py
+Full eval,"Test set 400, same scorer",Any language more than 3 points below the release baseline,Monthly and on every trigger,Pilot lead,Roll back the change,5,run_pilot.py --set test; score.py
+Model lifecycle,Provider deprecation page and notices,A notice for the model in use,On notice; check monthly,Avi Mizrahi,Migration test at least 30 days before retirement,5,Provider deprecation page
+Cost,Tokens and shekels per day; shekels per draft,"Over twice the 4-week daily average, or over 0.10 per draft",Daily alert,Avi Mizrahi,"Look for loops, retries, prompt growth",-,"Pilot log: tokens, cost; provider console"
+Reliability,Timeouts and errors,Over 5% of calls in a day,Daily alert,Integrator,"Fix; drafts degrade to none, never to a guess",-,Pilot log: errors
+Value,Minutes per contact drafted vs holdout; repeat contacts within 14 days,Holdout difference under half the planned,Monthly,"Ronit Avraham, pilot lead",Re-forecast the case (07.2),-,Helpdesk timer; tickets export
+Vendor settings,"Helpdesk AI add-on: Autopilot off, admin list, training opt-out in force",Any change,Monthly audit,Avi Mizrahi,Revert; change-control breach,5,Helpdesk admin settings
+Shadow AI,Customer Service traffic to free chatbots,Rising two months running,Monthly,Avi Mizrahi,"Ask why (01.6), not who",-,Proxy log
+Law,"Counsel's or the DPO's answer on purpose, data boundary, marking",An answer that withdraws a basis,On event,Ronit Avraham,Stop the affected use (stop rule 6),6,Counsel

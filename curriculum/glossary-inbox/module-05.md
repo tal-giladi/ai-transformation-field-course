@@ -1,0 +1,21 @@
+- **Pilot charter** — The signed one-page agreement for a pilot: falsifiable hypothesis, scope with reasons, thresholds copied from the business case's gates, stop rules, one owner and the rule of use (lesson 05.1).
+- **Stop rule** — A condition written before a pilot starts that ends it, or one segment of it, early, with a trigger, an action and the person who decides (lesson 05.1).
+- **Holdout** — A random share of eligible items that get no AI output during the pilot, so that the difference with the rest is the AI's effect (lesson 05.1).
+- **Paired quality metric** — A quality measure reported beside an efficiency measure, chosen so that it moves the wrong way if the efficiency gain is fake (lesson 05.1).
+- **Adoption gate** — The share of real use that must be reached before a pilot's value numbers are read (lesson 05.1).
+- **Development set** — The part of the labelled data used to write and tune the prompt; failures are read and fixed here (lesson 05.2).
+- **Test set** — The frozen, versioned part of the labelled data scored once per prompt or model version, never used for tuning (lesson 05.2).
+- **Adjudication** — A third person settling every disagreement between two labellers against written category rules, and changing the rules when they cannot settle it (lesson 05.2).
+- **Cohen's kappa** — Agreement between two labellers corrected for the agreement they would reach by chance from their category mix (lesson 05.2).
+- **Negative test** — A hand-written test case for a rare or harmful situation (injury, refund outside policy, another person's data, prompt injection, unsupported language) that the pilot must handle correctly every time (lesson 05.2).
+- **Pseudonymisation residue** — Personal details that a pseudonymisation pass missed, found by searching for them after the pass (lesson 05.2).
+- **Order context** — The facts about an order, taken from company systems, that are handed to the model with a message so that the draft never has to produce them itself (lesson 05.3).
+- **No-AI baseline** — The result of the simplest method without a model (keyword rules, macros) on the same test set, which an AI pilot must beat where it is used (lesson 05.4).
+- **Blind calibration set** — Real human outputs mixed unmarked among AI drafts during rating, to check that raters apply the rubric strictly and to measure today's error rate (lesson 05.4).
+- **Light edit** — A change to a draft that takes under a minute and changes wording or tone only, never a fact; a draft needing more is not counted as accepted (lesson 05.4).
+- **Load rule** — A rule that stops AI drafts from being offered when the drafts waiting exceed what the day's review hours can really check, so reviewers write rather than stamp (lesson 05.5).
+- **Shadow mode** — Running the AI on live production messages with its output hidden from staff and customers, compared afterwards with what people actually did (lesson 05.6).
+- **Staged release** — Widening a pilot's use one change at a time (channel, mode, language, autonomy), each stage with a yes/no entry condition and an owner (lesson 05.6).
+- **Production-readiness checklist** — The list of what must be true before an AI output reaches real users, each line with evidence, an owner and the consequence for the go-live date if it stays open (lesson 05.6).
+- **Change control** — The rules for what counts as a change to an AI system (prompt, model, provider, API version, vendor setting), how it is tested, who approves it and how it is rolled back (lesson 05.7).
+- **Pinned model** — A model identifier that always refers to the same model snapshot, so that a run records exactly which model answered (lesson 05.7).

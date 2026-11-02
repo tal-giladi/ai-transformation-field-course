@@ -43,3 +43,12 @@
   - [30 · Governance that runs](lessons/module-04/lesson-07.md)
   - [31 · Vendor and claim due diligence](lessons/module-04/lesson-08.md)
   - [Module 4 quiz](assessments/module-04-quiz.md)
+- **Module 5 — Building and Testing a Pilot**
+  - [32 · The pilot charter](lessons/module-05/lesson-01.md)
+  - [33 · Building the test set from real data](lessons/module-05/lesson-02.md)
+  - [34 · Build it — Track A and Track B](lessons/module-05/lesson-03.md)
+  - [35 · Evaluate: accuracy, failures, cost and time saved](lessons/module-05/lesson-04.md)
+  - [36 · Human-in-the-loop design that actually checks](lessons/module-05/lesson-05.md)
+  - [37 · Shadow mode, staged release and rollback](lessons/module-05/lesson-06.md)
+  - [38 · Before launch: logging, monitoring and change control](lessons/module-05/lesson-07.md)
+  - [Module 5 quiz](assessments/module-05-quiz.md)

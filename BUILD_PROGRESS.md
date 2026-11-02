@@ -28,7 +28,7 @@ Goal: build the course in `curriculum/plan.md` under
 
 ## Now working
 
-- Agent 1: module 05 — started 2026-11-02.
+- Agent 1: simulations batch 3 — next.
 - Agent 2: module 06 — started 2026-11-02.
 - After Foundation C: align Harbor volumes in `simulations/pilot-economics/presets.js`, `oversight-under-load/presets.js` and the portfolio-sorter cards with the data room (see `curriculum/inbox/simulations-batch-1-notes.md`).
 - Next: modules 03, 04 as slots free; simulations batch 3 before module 10/14/15.
@@ -68,3 +68,4 @@ merge `curriculum/inbox/module-NN-sources.md` into `references/` when that page 
 - 2026-11-02 Timeline for modules 3–7 fixed in `curriculum/engagements/harbor-and-pine.md` (steering 19 Jan 2027 on test-set evidence, board 28 Jan, shadow mode and staged release from 1 Feb, incident 15 Mar, May gate). Sims: shadow-mode claims removed from steering/roi; Hadar Klein → Yaniv Carmi; delay-email volume 210/month. Two seasonal temps added to Samir's persona.
 - 2026-11-02 Exchange rate: the CFO's ₪3.70/US$ is a deliberately conservative planning rate (market ~3.14 in Nov 2026); stated in finance-summary.md and Ronit's persona. risk-register-tester preset aligned with the data room. Module 4 dates (AUP 19/22 Nov, Deskly opt-out 18 Nov, first review group 10 Dec) are canon for later modules. EU hotel customers (Cyprus/Greece groups buying for Israeli hotels) exist only as Yaniv's interview fact in 04.6.
 - At final QA: merge the suggested updates at the end of `curriculum/inbox/module-04-sources.md` into `references/laws-and-guidance.md`.
+- 2026-11-02 Staged money follows 03.7/03.9: ₪48,000 now, ₪72,000 from gate 1 on 1 Apr 2027; gate 2 on 30 Sep (temps). Steering sim updated. Roadmap v1.1 (05.6): all four languages from 1 Feb. Module 5's LLM eval numbers are an illustrative worked example (no API key here); the keyword baseline numbers are real. `labs/module-05/labels.csv` (true categories) ships on purpose: the test set needs ground truth.

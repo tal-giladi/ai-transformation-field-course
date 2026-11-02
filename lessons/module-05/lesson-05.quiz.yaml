@@ -1,0 +1,95 @@
+- id: q1
+  question: >-
+    At peak, about 90 drafts a day need review. A real check takes 3 minutes when agents must look up
+    the order, about 2 with the order data beside the draft. The business case budgets 2 minutes a
+    draft. What does the capacity screen tell you?
+  options:
+    - >-
+      The budget is fine: agents will get faster with practice and reach 2 minutes on their own.
+    - >-
+      Add a fourth reviewer for the peak so that the 3-minute checks still fit in the day.
+    - >-
+      Cut the check to the flagged drafts only, so review time stays within the budget.
+    - >-
+      The 2 minutes holds only with the source shown beside the draft, so that goes into the build.
+  correct: 3
+  explanation: >-
+    A 3-minute check needs about 99 hours a month against 64 budgeted. Showing the order data beside
+    the draft is what makes the budgeted minutes real; checking only flagged drafts is not safe until
+    the error rate is measured in production.
+
+- id: q2
+  question: >-
+    Two weeks into the pilot, agents have stopped using the "discard: wrong date" button, although
+    the spot audit still finds wrong dates in sent replies. What is the most likely cause?
+  options:
+    - >-
+      Their marks led to nothing they could see, so they stopped marking and then stopped looking.
+    - >-
+      The model has improved, so there are fewer wrong dates for agents to mark than before.
+    - >-
+      Agents are careless under peak load and need a reminder of the rule of use.
+    - >-
+      The button is hard to find in the helpdesk screen and should be moved up.
+  correct: 0
+  explanation: >-
+    Flags that go nowhere are one of the two causes of reviewer complacency. The audit shows errors
+    are still there, so the model has not fixed them; the design answer is a feedback loop the team can
+    see, not a reminder.
+
+- id: q3
+  question: >-
+    A wrong Arabic draft promising a refund reached a customer. It was sent on a Sunday with 115 drafts
+    waiting, by a Hebrew-speaking agent, with no order data beside the draft. What is the finding?
+  options:
+    - >-
+      A review error: the agent pressed send and is accountable for every reply that goes out.
+    - >-
+      A model error: the prompt should never have produced a refund promise in the first place.
+    - >-
+      A design failure: information, time and competence were missing; the design owner fixes them.
+    - >-
+      Bad luck: one error in thousands of drafts is within what the gate allows.
+  correct: 2
+  explanation: >-
+    The four questions come first: did the reviewer have the information, the time, the authority and
+    the competence? Here three answers are no, so blaming the agent misattributes a design failure. The
+    prompt failure also needs fixing, but it does not explain why the check failed.
+
+- id: q4
+  question: >-
+    In the oversight simulation, which change keeps wrong replies reaching customers within the
+    target without adding reviewer hours?
+  options:
+    - >-
+      Adding a fourth reviewer, so each one has fewer drafts to check each day.
+    - >-
+      Showing the source beside the draft and turning on feedback for flags, together.
+    - >-
+      A better model with one wrong draft in twenty, so there is less to catch.
+    - >-
+      Asking reviewers to check only the drafts the model marks as uncertain.
+  correct: 1
+  explanation: >-
+    In the Harbor & Pine preset only both design changes together meet the target within the hours.
+    More reviewers barely helps while vigilance decays, and a usually-right tool with no feedback is
+    the hardest to keep checking.
+
+- id: q5
+  question: >-
+    Harbor & Pine's replies are drafted by AI and sent by a named agent who read them. How should the
+    pilot handle marking them as AI-drafted?
+  options:
+    - >-
+      Mark every reply to the customer with "written by AI", since EU law requires it from August 2026.
+    - >-
+      No marking at all: the agent sends the reply, so it is the agent's reply in every sense.
+    - >-
+      Let each agent decide whether to mention the AI, depending on the customer and the case.
+    - >-
+      Always mark internally; decide the customer-facing wording with counsel and write it down.
+  correct: 3
+  explanation: >-
+    The internal mark is needed for audit, incident review and measuring acceptance. What customers are
+    told is a legal and trust decision: the Israeli regulator's draft guidance and, where it applies,
+    the EU's Article 50 shape it, so counsel decides, and the decision is recorded.

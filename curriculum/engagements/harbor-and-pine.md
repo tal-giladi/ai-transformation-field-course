@@ -271,10 +271,10 @@ Israeli reference, and Olga's unanswered request to IT (the DPA's cover note dat
   alignment session 10 Dec. Date fix + proactive delay emails (no AI) live mid-November.
 - Dec 2026 – Jan 2027: pilot built and evaluated on a test set of 400 real emails (M5.1–5.5);
   ROI model to Ronit 14 Jan; steering meeting Tue 19 Jan 2027 (07.4, `steering-committee` sim)
-  approves phase 1 with ₪60,000 now and ₪60,000 at the May gate; board 28 Jan 2027.
+  approves phase 1 with ₪48,000 now (stage 1, Feb–Mar) and ₪72,000 from April at gate 1 (1 Apr); board 28 Jan 2027. Roadmap v1.1 (05.6): all four languages from 1 Feb with per-language spot checks.
 - 1 Feb 2027: WhatsApp routed into Deskly; shadow mode, then staged release (05.6); training 7–11 Feb
   (M6); `usage/ai-usage-export.csv` covers weeks 1–8 from 1 Feb.
 - Mon 15 Mar 2027: the incident (07.5, `incident-tabletop` sim).
-- May 2027 gate: scale / fix / stop (07.2), operating rhythm and handover (07.6, 07.9).
+- Gate 1, 1 Apr 2027: stage 2 money, scale / fix / stop for the pilot (07.2); gate 2, 30 Sep 2027: the temps decision. Operating rhythm and handover (07.6, 07.9) from April.
 - Two temps every peak season (Nov–Jan), ~₪16,000 a month each (Samir's persona); the ROI case's
   cash rests on not hiring them next winter (03.7 marks it as the weakest assumption).

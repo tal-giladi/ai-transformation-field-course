@@ -1,0 +1,93 @@
+- id: q1
+  question: >-
+    You have 600 labelled support emails and need a first reading of acceptance before the board.
+    A colleague suggests scoring the prompt on all 600 and fixing it after each run until the score
+    stops rising. What do you do instead?
+  options:
+    - >-
+      Score on all 600 but only allow three rounds of fixes, so the prompt cannot overfit badly.
+    - >-
+      Split once with a fixed seed: tune on 200 development items, score the frozen 400 once per version.
+    - >-
+      Score on a fresh random 400 each round, so no single sample is used for tuning twice.
+    - >-
+      Ask the vendor for its benchmark set and tune on that, keeping all 600 for the final score.
+  correct: 1
+  explanation: >-
+    Every look at a test failure that changes the prompt makes the next score less true. A fixed
+    development set absorbs the tuning; the frozen test set measures each version once. Re-drawing
+    samples from the same 600 still tunes on the test data over time.
+
+- id: q2
+  question: >-
+    The helpdesk export has a category on almost every ticket. Why not use it as the ground truth?
+  options:
+    - >-
+      Agents set it in a hurry: it matches careful labels on only about two-thirds of messages.
+    - >-
+      Its category list changed in July, so it can only be used for tickets from before the change.
+    - >-
+      It is personal data under the privacy law, so it cannot be copied into a test set.
+    - >-
+      The model would see the field in its input and simply copy it into its answer.
+  correct: 0
+  explanation: >-
+    Scoring against the system you are replacing measures how well the model imitates it. On the
+    Harbor & Pine test set the mapped helpdesk field agrees with adjudicated labels on 64% of messages;
+    the July change is one reason, hurried labelling and "Other" are the bigger ones.
+
+- id: q3
+  question: >-
+    Two labellers agree on 88% of the Hebrew messages. Kappa is 0.62. What does that tell you?
+  options:
+    - >-
+      The labels are good enough: 88% agreement is above the usual 80% bar for a test set.
+    - >-
+      One of the labellers is careless and should be replaced before labelling continues.
+    - >-
+      Kappa is unreliable with eleven categories, so report agreement only and continue.
+    - >-
+      Much of the agreement is chance from the dominant category; fix the rules where they disagree.
+  correct: 3
+  explanation: >-
+    With one category at about 38%, two labellers agree often by luck. Kappa corrects for that; at
+    0.6 the rules are not yet settling the hard cases, so you look at where the disagreements cluster
+    and rewrite the rule, then re-check the affected items.
+
+- id: q4
+  question: >-
+    Counsel has not yet answered whether past support emails may be used to test a draft-reply tool.
+    The board meets in six weeks. What do you do with the test set meanwhile?
+  options:
+    - >-
+      Wait for counsel's answer before building anything, and present the board a plan instead of results.
+    - >-
+      Build it, but keep names and phone numbers, since the tool is approved and inside the company.
+    - >-
+      Build it pseudonymised, check what the first pass missed, keep it inside the approved tool and boundary.
+    - >-
+      Build it from emails written by the team to look like customer messages, so no personal data is used.
+  correct: 2
+  explanation: >-
+    Minimising while the legal question is open lets the work continue without deciding the question
+    yourself: drop what the task does not need, pseudonymise the text, count the residue, and stay
+    inside the data boundary. Invented emails would not represent the real stream.
+
+- id: q5
+  question: >-
+    In 600 real messages there is no injury report and no message in a language the team does not
+    read. How should the test plan handle these cases?
+  options:
+    - >-
+      Leave them out of the eval: they are too rare to affect the acceptance rate in a meaningful way.
+    - >-
+      Write negative tests for them by hand, with expected flags and patterns, and require all to pass.
+    - >-
+      Wait for shadow mode in production to collect real examples, then add them to the test set.
+    - >-
+      Ask the model to generate a thousand examples of each so the sample is large enough to score.
+  correct: 1
+  explanation: >-
+    Rare cases are where one wrong reply does real harm, and they will arrive in production. Hand-written
+    negative tests with expected behaviour, run on every change with a pass mark of all of them, cover
+    what the real stream is too small to contain.

@@ -1,0 +1,25 @@
+item_id,category,language,reply_language,flags,draft,note_to_agent,format_ok,provider,model,prompt_version,input_tokens,output_tokens,seconds,cached,run_at
+N-01,returns,he,he,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-02,returns,en,en,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-03,returns,ru,ru,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-04,returns,ar,ar,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-05,wismo,he,he,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-06,wismo,en,en,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-07,invoice,ru,ru,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-08,other,he,he,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-09,wismo,he,he,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-10,other,ar,ar,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-11,damage,en,en,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-12,damage,he,he,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-13,wismo,ru,ru,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-14,other,en,en,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-15,other,other,none,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-16,other,en,en,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-17,wismo,he,he,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-18,assembly,en,en,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-19,returns,he,he,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-20,wismo,ru,ru,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-21,wismo,ar,ar,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-22,spam,en,none,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-23,returns,he,he,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36
+N-24,returns,en,en,,,,True,baseline,keywords-v1,-,0,0,0.0,False,2026-11-02 16:36

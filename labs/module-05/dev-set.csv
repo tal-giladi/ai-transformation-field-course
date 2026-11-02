@@ -1,0 +1,1019 @@
+item_id,email_id,ticket_id,received_date,channel,subject,message,attachments_count,order_id,order_context,promised_date,expected_date,expected_category,expected_language,expected_reply_language,kind,helpdesk_category,helpdesk_language,agent_reply,agent_reply_date
+D-001,EM-31849,31849,2026-05-02,web_form,Contact form: Returns,"بدي ارجع طقم حديقة Hoi An لانه الحجم مش مناسب. كيف بعمل ارجاع؟ الطلب SO26004147
+
+[NAME]
+[PHONE]",0,SO26004147,"order SO26004147 · Hoi An outdoor lounge set, terracotta · supplier country Vietnam · promised by 27/04/2026 · delivered on 30/04/2026",2026-04-27,,returns,ar,ar,new,Returns & refunds,ar,"مرحبا [NAME]، حسب سياسة الارجاع ممكن ترجع المنتج خلال 14 يوم بحالته الاصلية. رسوم الاستلام 250 شيكل. المبلغ برجع خلال 14 يوم عمل.
+[NAME]",2026-05-03
+D-002,EM-31886,31886,2026-05-04,email,Вопрос,"Отправляю повторно
+
+Какие часы работы шоурума в Хайфе?
+
+С уважением,
+[NAME]
+тел. [PHONE]",0,,none,,,other,ru,ru,duplicate,Other/כללי,ru,"Здравствуйте, [NAME]! Спасибо за обращение. Ольга",2026-05-04
+D-003,EM-31927,31927,2026-05-07,email,הגיע שבור!!,"שלום רב, מנורה תלויה Tavor אפור שהזמנו (הזמנה SO26004508) הגיע עם נזק: דלת הארון שבורה בציר. שילמנו הרבה כסף ואנחנו מאוד מאוכזבים. מבקשים פתרון מהיר.
+כתובת למסירה: [ADDRESS]
+
+נשלח מה-iPhone שלי",4,SO26004508,"order SO26004508 · Tavor pendant lamp, grey · supplier country China · promised by 08/05/2026 · delivered on 06/05/2026",2026-05-08,,damage,he,he,new,Other/כללי,he,"שלום [NAME],
+מצטערים לשמוע. פתחנו עבורך תביעת נזק מס' DC-26-004. נא לשלוח תמונות של הנזק ושל מדבקת הקרטון אם עוד לא שלחת. נחזור אליך לאחר בדיקה.
+הילה
+שירות לקוחות Harbor & Pine",2026-05-07
+D-004,EM-31947,31947,2026-05-09,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,"אפשר להזיז את המשלוח ליום אחר? לא נהיה בבית ביום חמישי. הזמנה SO26004994
+
+[NAME] [PHONE]",0,SO26004994,"order SO26004994 · Izmir 3-seat sofa, black · supplier country Turkey · promised by 10/05/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 12/05/2026 (updated by logistics)",2026-05-10,2026-05-12,reschedule,he,he,new,Delivery,,"שלום [NAME], עדכנו את מועד המשלוח. תקבל/י SMS עם חלון הגעה יום לפני.
+הילה",2026-05-10
+D-005,EM-31972,31972,2026-05-10,email,בקשה להצעת מחיר,"היי, אנחנו משפצים קומה במשרדים (Beit Lessin Offices). צריכים 60 כיסאות משרדיים ו-6 שולחנות עבודה. אפשר הצעת מחיר + זמן אספקה?",0,,none,,,b2b_quote,he,he,new,Other/כללי,,"שלום [NAME], תודה על הפנייה. העברתי את הבקשה למחלקת המכירות העסקיות, נציג יחזור אליך תוך 2 ימי עסקים.
+יאנה",2026-05-11
+D-006,EM-31990,31990,2026-05-11,email,Office chairs factory direct,"Hello,
+We can get your website on the FIRST PAGE of Google in 7 days!!! Reply for a free audit.
+Best, Mark | SEO Growth Experts",0,,none,,,spam,en,none,new,Other/כללי,en,,
+D-007,EM-32008,32008,2026-05-12,email,,"שלום, אני רוצה לשנות כתובת למשלוח. הכתובת החדשה: [ADDRESS]
+
+תודה,
+[NAME]",0,,none,,,other,he,he,new,Other/כללי,he,"שלום [NAME], תודה על פנייתך. שני",2026-05-12
+D-008,EM-32020,32020,2026-05-13,email,فاتورة,"لسا ما وصلت الفاتورة. SO26005296
+
+مع الشكر
+[NAME]",0,SO26005296,"order SO26005296 · Galil dining table, olive · supplier country China · promised by 07/06/2026 · not delivered yet · expected delivery 13/06/2026 (updated by logistics)",2026-06-07,2026-06-13,invoice,ar,ar,followup,Invoice & payment,ar,"مرحبا [NAME]، بعتنالك الفاتورة مرة ثانية على هاد الايميل.
+لينا",2026-05-13
+D-009,EM-32031,32031,2026-05-14,web_form,פנייה מטופס צור קשר - אחר,"יש לכם את שולחן סלון Negev אפור בתצוגה בסניף חיפה? רוצה לבוא לראות
+
+תודה,
+[NAME]",0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+טיגיסט",2026-05-14
+D-010,EM-32035,32035,2026-05-14,email,Order SO26005245,"Hi there, just checking the Verona corner sofa, white is still on track for 26 May? We're moving that week.
+
+Best,
+[NAME]
+[PHONE]",0,SO26005245,"order SO26005245 · Verona corner sofa, white · supplier country Italy · promised by 26/05/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 26/05/2026 (updated by logistics)",2026-05-26,2026-05-26,wismo,en,en,new,Other/כללי,en,"Hi [NAME],
+Thank you for your patience. Your order SO26005245 is on its way from our supplier. The estimated delivery date is 26 May. We will let you know if anything changes.
+Best regards,
+Daniel
+Harbor & Pine Customer Care",2026-05-14
+D-011,EM-32043,32043,2026-05-14,email,חשבונית,"צריך חשבונית על שם החברה, ח.פ. 51-xxxxxx. הזמנה SO26005555
+
+[NAME] [PHONE]",0,SO26005555,"order SO26005555 · Porto corner sofa, terracotta · supplier country Turkey · promised by 31/05/2026 · not delivered yet · expected delivery 31/05/2026 (updated by logistics)",2026-05-31,2026-05-31,invoice,he,he,new,Invoice & payment,he,"שלום [NAME], החשבונית נשלחה שוב למייל זה. אם לא התקבלה, נא לבדוק בתיקיית הספאם.
+עדי",2026-05-15
+D-012,EM-32050,32050,2026-05-14,web_form,פנייה מטופס צור קשר - אחר,"Можно перенести доставку на другой день? Заказ SO26004756
+
+С уважением,
+[NAME]
+тел. [PHONE]",0,SO26004756,"order SO26004756 · Malmo office chair, grey · supplier country China · promised by 17/05/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 17/05/2026 (updated by logistics)",2026-05-17,2026-05-17,reschedule,ru,ru,new,Delivery,ru,"Здравствуйте, [NAME]. Дата доставки изменена, накануне придёт SMS.
+Сергей",2026-05-15
+D-013,EM-32051,32051,2026-05-15,email,פנייה,"מה שעות הפתיחה של התצוגה בתל אביב בחול המועד?
+
+[NAME] [PHONE]",0,,none,,,other,he,he,new,Product info,he,"שלום [NAME], תודה על פנייתך. עדי",2026-05-15
+D-014,EM-32101,32101,2026-05-18,email,שאלה,"שלום, ראיתי שאתם מחפשים עובדים למחסן בראשון. למי שולחים קו""ח?",0,,none,,,other,he,he,new,Complaint,he,"שלום [NAME], תודה על פנייתך. טיגיסט",2026-05-19
+D-015,EM-32113,32113,2026-05-20,web_form,פנייה מטופס צור קשר - הרכבה,"הזמנו הרכבה עם המשלוח (הזמנה SO26005078) והמרכיב לא הגיע. מתי הוא מגיע?
+
+תודה,
+[NAME]",0,SO26005078,"order SO26005078 · Milano 3-seat sofa, white · supplier country Italy · promised by 21/05/2026 · delivered on 20/05/2026",2026-05-21,,assembly,he,he,new,Assembly,,"שלום [NAME],
+מצורף קישור להוראות ההרכבה (PDF) וסרטון. אם חסר חלק, נא לציין את מספר החלק ונשלח בדואר. לתיאום מרכיב: 03-9xx-xxxx שלוחה 3.
+יאנה",2026-05-20
+D-016,EM-32130,32130,2026-05-21,email,צבעים,"האם מנורה תלויה Galil טיק טבעי מגיע גם בצבע אחר? ומה זמן האספקה?
+
+[NAME]
+[PHONE]",0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+הילה",2026-05-21
+D-017,EM-32154,32154,2026-05-22,email,Re: נזק במשלוח - הזמנה SO26004731,"שלחתי תמונות של הנזק לפני שבוע ולא קיבלתי שום תשובה. מה עם ההחלפה? הזמנה SO26004731
+
+נשלח מה-iPhone שלי",0,SO26004731,"order SO26004731 · Sevilla dresser, navy · supplier country China · promised by 16/05/2026 · delivered on 13/05/2026",2026-05-16,,damage,he,he,followup,Delivery,he,"שלום [NAME],
+מצטערים לשמוע. פתחנו עבורך תביעת נזק מס' DC-26-0xx. נא לשלוח תמונות של הנזק ושל מדבקת הקרטון אם עוד לא שלחת. נחזור אליך לאחר בדיקה.
+רינה, תביעות
+שירות לקוחות Harbor & Pine",2026-05-24
+D-018,EM-32188,32188,2026-05-24,web_form,פנייה מטופס צור קשר - הרכבה,"קיבלנו את שולחן סלון Arbel כחול נייבי אבל אין הוראות הרכבה בקופסה. איך מרכיבים? יש סרטון?
+
+[NAME] [PHONE]",0,,none,,,assembly,he,he,new,Assembly,he,"שלום [NAME],
+מצורף קישור להוראות ההרכבה (PDF) וסרטון. אם חסר חלק, נא לציין את מספר החלק ונשלח בדואר. לתיאום מרכיב: 03-9xx-xxxx שלוחה 3.
+אולגה",2026-05-25
+D-019,EM-32202,32202,2026-05-26,email,נזק במשלוח - הזמנה SO26005469,"המשלוח הגיע היום. בפתיחת הקרטון ראינו שהזכוכית של השולחן מנופצת. המובילים כבר הלכו. מבקש החלפה. הזמנה SO26005469
+
+נשלח מה-iPhone שלי",4,SO26005469,"order SO26005469 · Oslo armchair, black · supplier country Turkey · promised by 27/05/2026 · delivered on 25/05/2026",2026-05-27,,damage,he,he,new,Returns & refunds,he,"שלום [NAME],
+מצטערים לשמוע. פתחנו עבורך תביעת נזק מס' DC-26-0xx. נא לשלוח תמונות של הנזק ושל מדבקת הקרטון אם עוד לא שלחת. נחזור אליך לאחר בדיקה.
+רינה, תביעות
+שירות לקוחות Harbor & Pine",2026-05-26
+D-020,EM-32256,32256,2026-05-28,web_form,פנייה מטופס צור קשר - אחר,مرحبا، شوفونيرة Negev في منه لون ثاني؟ وقديش مدة التوصيل؟,0,,none,,,product_question,ar,ar,new,,,"مرحبا [NAME]، الالوان المتوفرة موجودة بالموقع، ومدة التوصيل بتظهر وقت الطلب.
+لينا",2026-05-29
+D-021,EM-32274,32274,2026-05-31,email,كفالة,"مرحبا، رجل الكرسي انكسرت بعد سنة. في كفالة؟
+
+مع الشكر
+[NAME]",0,,none,,,other,ar,ar,new,Other/כללי,ar,مرحبا [NAME]، شكرا على تواصلك. لينا,2026-05-31
+D-022,EM-32307,32307,2026-06-01,email,Вопрос,"Какие точные размеры у обеденный стол Da Nang? Пройдёт в дверь 80 см?
+
+С уважением,
+[NAME]
+тел. [PHONE]",0,,none,,,product_question,ru,ru,new,Other/כללי,ru,"Здравствуйте, [NAME]! Доступные цвета указаны на сайте, срок доставки показан при оформлении заказа.
+Ольга",2026-06-02
+D-023,EM-32319,32319,2026-06-02,web_form,פנייה מטופס צור קשר - אחר,"כמה זמן לוקח משלוח לאילת?
+
+[NAME] [PHONE]",0,,none,,,product_question,he,he,new,,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+עדי",2026-06-02
+D-024,EM-32320,32320,2026-06-02,email,Hello,"Hi, one leg of our armchair broke after a year. Is that covered by warranty?
+
+Sent from my iPhone",0,,none,,,other,en,en,new,Other/כללי,en,"Hi [NAME], thanks for getting in touch. Daniel",2026-06-03
+D-025,EM-32328,32328,2026-06-03,web_form,פנייה מטופס צור קשר - אחר,"מה שעות הפתיחה של התצוגה בתל אביב בחול המועד?
+
+תודה,
+[NAME]",0,,none,,,other,he,he,new,Other/כללי,,"שלום [NAME], תודה על פנייתך. עדי",2026-06-03
+D-026,EM-32344,32344,2026-06-05,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,السلام عليكم، بدي اعرف شو صار بالطلب رقم SO26005192. صار الي اكثر من شهر بستنى,0,SO26005192,"order SO26005192 · Arbel coffee table, beige · supplier country China · promised by 04/06/2026 · not delivered yet · expected delivery 13/06/2026 (updated by logistics)",2026-06-04,2026-06-13,wismo,ar,ar,new,Delivery,ar,"مرحبا [NAME]،
+شكرا على تواصلك. طلبك SO26005192 في مرحلة التوريد من المورد. موعد التوصيل المتوقع 4/6. اذا في اي تغيير منبلغك.
+مع الاحترام،
+لينا
+خدمة الزبائن Harbor & Pine",2026-06-07
+D-027,EM-32369,32369,2026-06-07,email,מידות,"שולחת שוב כי לא קיבלתי אישור
+
+כמה זמן לוקח משלוח לאילת?
+
+תודה,
+[NAME]",0,,none,,,product_question,he,he,duplicate,Other/כללי,yi,,
+D-028,EM-32394,32394,2026-06-08,email,Mailbox full - action required,Your mailbox storage is 99% full. Click here to verify your account and avoid suspension.,0,,none,,,spam,en,none,new,Spam,en,,
+D-029,EM-32412,32412,2026-06-09,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,"Какие точные размеры у комод Bergen? Пройдёт в дверь 80 см?
+
+Отправлено с iPhone",0,,none,,,product_question,ru,ru,new,Other/כללי,ru,"Здравствуйте, [NAME]! Доступные цвета указаны на сайте, срок доставки показан при оформлении заказа.
+Сергей",2026-06-09
+D-030,EM-32417,32417,2026-06-09,email,איפה ההזמנה שלי??,"מתי מגיעה ההזמנה?? מספר #005279
+
+נשלח מה-iPhone שלי",0,SO26005279,"order SO26005279 · Aarhus corner sofa, white · supplier country China · promised by 06/06/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 12/06/2026 (updated by logistics)",2026-06-06,2026-06-12,wismo,he,he,new,Delivery,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (#005279) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 6/6. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+הילה
+שירות לקוחות Harbor & Pine",2026-06-10
+D-031,EM-32424,32424,2026-06-09,email,אחריות,"שלום, ראיתי שאתם מחפשים עובדים למחסן בראשון. למי שולחים קו""ח?",0,,none,,,other,he,he,new,Other/כללי,he,"שלום [NAME], תודה על פנייתך. מורן",2026-06-10
+D-032,EM-32453,32453,2026-06-11,email,Заказ SO26005711 повреждён,"Здравствуйте, сегодня привезли кресло Izmir, при распаковке обнаружили повреждение: глубокая царапина на столешнице. Фото прилагаю. Прошу заменить. Заказ SO26005711
+
+[NAME]",3,SO26005711,"order SO26005711 · Izmir armchair, olive · supplier country Turkey · promised by 07/06/2026 · delivered on 09/06/2026",2026-06-07,,damage,ru,ru,new,Other/כללי,ru,"שלום [NAME],
+מצטערים לשמוע. פתחנו עבורך תביעת נזק מס' DC-26-038. נא לשלוח תמונות של הנזק ושל מדבקת הקרטון אם עוד לא שלחת. נחזור אליך לאחר בדיקה.
+רינה, תביעות
+שירות לקוחות Harbor & Pine",2026-06-12
+D-033,EM-32467,32467,2026-06-13,email,Delivery status,Following up again on order SO26005195. I was told it would arrive by 8 Jun. It hasn't. I need a real date please.,0,SO26005195,"order SO26005195 · Kyoto desk, terracotta · supplier country Vietnam · promised by 08/06/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 16/06/2026 (updated by logistics)",2026-06-08,2026-06-16,wismo,en,en,followup,Delivery,en,"Hi [NAME],
+Thank you for your patience. Your order SO26005195 is on its way from our supplier. The estimated delivery date is 8 Jun. We will let you know if anything changes.
+Best regards,
+Daniel
+Harbor & Pine Customer Care",2026-06-14
+D-034,EM-32507,32507,2026-06-15,email,בקשה להצעת מחיר,"היי, אנחנו משפצים קומה במשרדים [NAME]. צריכים 40 כיסאות משרדיים ו-15 שולחנות עבודה. אפשר הצעת מחיר + זמן אספקה?
+
+תודה,
+ענת מקונן",0,,none,,,b2b_quote,he,he,new,B2B,he,"שלום [NAME], תודה על הפנייה. העברתי את הבקשה למחלקת המכירות העסקיות, נציג יחזור אליך תוך 2 ימי עסקים.
+הילה",2026-06-15
+D-035,EM-32527,32527,2026-06-15,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,"מתי מגיעה ההזמנה?? מספר SO26005447
+
+[NAME] [PHONE]",0,SO26005447,"order SO26005447 · Aarhus dresser, white · supplier country China · promised by 13/06/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 18/06/2026 (updated by logistics)",2026-06-13,2026-06-18,wismo,he,he,new,Delivery,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26005447) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 13/6. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+שני
+שירות לקוחות Harbor & Pine",2026-06-16
+D-036,EM-32531,32531,2026-06-16,email,Re: Re: מוצר פגום,"שלום, מה קורה עם התביעה שלי? אמרו לי שתחזרו אליי תוך כמה ימים. SO26004925
+
+תודה,
+[NAME]",0,SO26004925,"order SO26004925 · Galil dining table, olive · supplier country China · promised by 24/05/2026 · delivered on 20/05/2026",2026-05-24,,damage,he,he,followup,Delivery,he,"שלום [NAME],
+מצטערים לשמוע. פתחנו עבורך תביעת נזק מס' DC-26-0xx. נא לשלוח תמונות של הנזק ושל מדבקת הקרטון אם עוד לא שלחת. נחזור אליך לאחר בדיקה.
+רינה, תביעות
+שירות לקוחות Harbor & Pine",2026-06-16
+D-037,EM-32550,32550,2026-06-17,web_form,פנייה מטופס צור קשר - אחר,ممكن نأجل التوصيل ليوم ثاني؟ الطلب SO26005314,0,SO26005314,"order SO26005314 · Negev double bed, white · supplier country Vietnam · promised by 11/06/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 20/06/2026 (updated by logistics)",2026-06-11,2026-06-20,reschedule,ar,ar,new,Other/כללי,ar,"مرحبا [NAME]، غيرنا موعد التوصيل، رح توصلك رسالة قبل بيوم.
+رامي",2026-06-17
+D-038,EM-32581,32581,2026-06-19,email,שעות פתיחה,"שלום, ראיתי שאתם מחפשים עובדים למחסן בראשון. למי שולחים קו""ח?
+
+נשלח מה-iPhone שלי",0,,none,,,other,he,he,new,Other/כללי,he,"שלום [NAME], תודה על פנייתך. הילה",2026-06-21
+D-039,EM-32586,32586,2026-06-19,email,איפה ההזמנה שלי??,"מתי מגיעה ההזמנה?? מספר SO-26005483
+
+תודה,
+[NAME]",0,SO26005483,"order SO26005483 · Bergen dining table, natural teak · supplier country Vietnam · promised by 18/06/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 22/06/2026 (updated by logistics)",2026-06-18,2026-06-22,wismo,he,he,duplicate,Delivery,yi,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO-26005483) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 18/6. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+שני
+שירות לקוחות Harbor & Pine",2026-06-21
+D-040,EM-32589,32589,2026-06-20,email,,"مرحبا، خزانة Porto في منه لون ثاني؟ وقديش مدة التوصيل؟
+
+مع الشكر
+[NAME]",0,,none,,,product_question,ar,ar,new,Product info,ar,"مرحبا [NAME]، الالوان المتوفرة موجودة بالموقع، ومدة التوصيل بتظهر وقت الطلب.
+رامي",2026-06-21
+D-041,EM-32611,32611,2026-06-21,web_form,Contact form: Other,العمال كانوا مش محترمين وتركوا الكرتونة تحت البناية. هيك بتعاملوا الزباين؟ SO26006124,0,SO26006124,"order SO26006124 · Ankara armchair, terracotta · supplier country Turkey · promised by 25/06/2026 · delivered on 21/06/2026",2026-06-25,,complaint,ar,ar,new,Complaint,ar,"مرحبا [NAME]، منعتذر عن هالتجربة. حولنا الشكوى لمدير الخدمة.
+رامي",2026-06-21
+D-042,EM-32626,32626,2026-06-21,email,חשבונית,"צריך חשבונית על שם החברה, ח.פ. 51-xxxxxx. הזמנה SO26005664
+
+[NAME]
+[PHONE]",0,SO26005664,"order SO26005664 · Negev double bed, white · supplier country Vietnam · promised by 25/06/2026 · not delivered yet · expected delivery 10/07/2026 (updated by logistics)",2026-06-25,2026-07-10,invoice,he,he,new,Invoice & payment,yi,"שלום [NAME], החשבונית נשלחה שוב למייל זה. אם לא התקבלה, נא לבדוק בתיקיית הספאם.
+טיגיסט",2026-06-22
+D-043,EM-32661,32661,2026-06-23,email,Office chairs factory direct,Partnership opportunity: increase your sales 300% with our AI-powered influencer platform. Book a call: calendly link,1,,none,,,spam,en,none,new,Spam,en,,
+D-044,EM-32672,32672,2026-06-24,email,تأجيل التوصيل,"ممكن نأجل التوصيل ليوم ثاني؟ الطلب SO26005633
+
+مع الشكر
+[NAME]",0,SO26005633,"order SO26005633 · Arbel dining chair, olive · supplier country China · promised by 20/06/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 27/06/2026 (updated by logistics)",2026-06-20,2026-06-27,reschedule,ar,ar,new,Other/כללי,ur,"مرحبا [NAME]، غيرنا موعد التوصيل، رح توصلك رسالة قبل بيوم.
+رامي",2026-06-24
+D-045,EM-32680,32680,2026-06-24,web_form,Contact form: Business customers,"Dear Harbor & Pine team,
+We are Kinneret [NAME] Hotel and are refurbishing our lobby and restaurant. Could you quote 24 dining chairs and 20 tables, delivery before 28 Aug? Please include lead times.
+Kind regards,
+[NAME]
+Procurement
+
+Sent from my iPhone",0,,none,,,b2b_quote,en,en,new,B2B,en,"Certainly! Here's a polite, professional reply you can send:
+
+Hi [NAME], thanks for reaching out. I've passed your request to our business sales team; they will contact you within 2 business days.
+Daniel",2026-06-24
+D-046,EM-32684,32684,2026-06-24,web_form,פנייה מטופס צור קשר - אחר,"הי, יש עדכון לגבי המשלוח? הזמנה SO26005680. תודה מראש",0,SO26005680,"order SO26005680 · Ningbo dining table, olive · supplier country China · promised by 22/06/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 27/06/2026 (updated by logistics)",2026-06-22,2026-06-27,wismo,he,he,new,Other/כללי,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26005680) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 22/6. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+דניאל
+שירות לקוחות Harbor & Pine",2026-06-25
+D-047,EM-32690,32690,2026-06-25,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,"הי, יש עדכון לגבי המשלוח? הזמנה SO26005729. תודה מראש
+
+[NAME] [PHONE]",0,SO26005729,"order SO26005729 · Galil dining table, olive · supplier country China · promised by 25/06/2026 · not delivered yet · expected delivery 04/07/2026 (updated by logistics)",2026-06-25,2026-07-04,wismo,he,he,new,Delivery,he,"שלום [NAME],
+בדקתי מול מחלקת הלוגיסטיקה. המכולה עם ההזמנה שלך התעכבה בדרך וצפויה להגיע לנמל ב-27/6. לאחר שחרור מהמכס ניצור איתך קשר לתיאום משלוח. מתנצלים מאוד על העיכוב.
+יאנה",2026-06-25
+D-048,EM-32693,32693,2026-06-25,email,צבעים,"יש לכם את שולחן אוכל Milano ירוק זית בתצוגה בסניף חיפה? רוצה לבוא לראות
+
+נשלח מה-iPhone שלי",0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+הילה",2026-06-25
+D-049,EM-32695,32695,2026-06-25,email,מידות,"יש לכם את ספה תלת מושבית Milano בז' בתצוגה בסניף חיפה? רוצה לבוא לראות
+
+נשלח מה-iPhone שלי",0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+דניאל",2026-06-25
+D-050,EM-32734,32734,2026-06-27,email,איפה ההזמנה שלי??,"שלום. אני מחכה לכיסא אוכל Kyoto אגוז כבר יותר מחודש וחצי. בטלפון אי אפשר להשיג אף אחד, מחכים 20 דק'. מה קורה עם ההזמנה SO26005615?
+
+תודה,
+[NAME]",0,SO26005615,"order SO26005615 · Kyoto dining chair, walnut · supplier country Vietnam · promised by 24/06/2026 · not delivered yet · expected delivery 10/07/2026 (updated by logistics)",2026-06-24,2026-07-10,wismo,he,he,new,Delivery,he,"שלום [NAME],
+בדקתי מול מחלקת הלוגיסטיקה. המכולה עם ההזמנה שלך התעכבה בדרך וצפויה להגיע לנמל ב-3/7. לאחר שחרור מהמכס ניצור איתך קשר לתיאום משלוח. מתנצלים מאוד על העיכוב.
+דניאל",2026-06-28
+D-051,EM-32742,32742,2026-06-28,email,Жалоба,"Грузчики были очень грубые и оставили коробки у подъезда. Это безобразие. Заказ 
+
+[NAME]",0,,none,,,complaint,ru,ru,new,Other/כללי,ru,"Здравствуйте, [NAME]. Приносим извинения. Ваше обращение передано руководителю службы поддержки.
+Сергей",2026-06-28
+D-052,EM-32768,32768,2026-06-28,email,Заказ so26005809,"Добрый вечер. Мы купили диван Tavor в шоуруме, сказали привезут до 27.06. Уже прошло, никакой информации. Пожалуйста ответьте на русском, иврит плохо понимаю.
+
+[NAME]",0,SO26005809,"order SO26005809 · Tavor 3-seat sofa, grey · supplier country China · promised by 27/06/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 01/07/2026 (updated by logistics)",2026-06-27,2026-07-01,wismo,ru,ru,new,Delivery,,"Здравствуйте, [NAME]!
+Спасибо за обращение. Ваш заказ so26005809 находится в процессе поставки. Ориентировочная дата доставки: 27.06. Если что-то изменится, мы сообщим.
+С уважением,
+Сергей
+Служба поддержки Harbor & Pine",2026-06-28
+D-053,EM-32791,32791,2026-06-29,email,Вопрос,"Здравствуйте, угловой диван Malmo есть в другом цвете? Сколько ждать доставку?
+
+Отправлено с iPhone",0,,none,,,product_question,ru,ru,new,Product info,ru,"Здравствуйте, [NAME]! Доступные цвета указаны на сайте, срок доставки показан при оформлении заказа.
+Сергей",2026-06-29
+D-054,EM-32796,32796,2026-06-29,email,שאלה על מוצר,"כמה זמן לוקח משלוח לאילת?
+
+[NAME]
+[PHONE]",0,,none,,,product_question,he,he,new,Product info,yi,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+אחמד",2026-06-29
+D-055,EM-32806,32806,2026-06-30,web_form,Contact form: Order status,"Hi there, we're still waiting for our Hoi An double bed, black. Order so26005710, promised for 28 Jun. Could someone give me an actual date please?
+
+Sent from my iPhone",0,SO26005710,"order SO26005710 · Hoi An double bed, black · supplier country Vietnam · promised by 28/06/2026 · not delivered yet · expected delivery 10/07/2026 (updated by logistics)",2026-06-28,2026-07-10,wismo,en,en,new,Delivery,en,"Hi [NAME],
+Thank you for your patience. Your order so26005710 is on its way from our supplier. The estimated delivery date is 28 Jun. We will let you know if anything changes.
+Best regards,
+Adi
+Harbor & Pine Customer Care",2026-06-30
+D-056,EM-32818,32818,2026-06-30,email,Вопрос,Какие часы работы шоурума в Хайфе?,0,,none,,,other,ru,ru,new,Other/כללי,,"Здравствуйте, [NAME]! Спасибо за обращение. Ольга",2026-07-01
+D-057,EM-32823,32823,2026-07-01,email,משלוח,"היי, רציתי לברר מה הסטטוס של הזמנה SO26005718. באתר כתוב 'בטיפול' כבר כמה שבועות. אנחנו נכנסים לדירה חדשה וחייבים לדעת מתי זה מגיע
+
+[NAME] [PHONE]",0,SO26005718,"order SO26005718 · Yarden double bed, navy · supplier country Vietnam · promised by 28/06/2026 · not delivered yet · expected delivery 10/07/2026 (updated by logistics)",2026-06-28,2026-07-10,wismo,he,he,new,Other/כללי,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26005718) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 28/6. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+אולגה
+שירות לקוחות Harbor & Pine",2026-07-01
+D-058,EM-32852,32852,2026-07-03,web_form,פנייה מטופס צור קשר - הרכבה,"שוב לגבי ההרכבה, אף אחד לא הגיע גם היום. SO26005324
+
+נשלח מה-iPhone שלי",0,SO26005324,"order SO26005324 · Tavor dining table, navy · supplier country China · promised by 08/06/2026 · delivered on 14/06/2026",2026-06-08,,assembly,he,he,followup,Other/כללי,he,"שלום [NAME],
+מצורף קישור להוראות ההרכבה (PDF) וסרטון. אם חסר חלק, נא לציין את מספר החלק ונשלח בדואר. לתיאום מרכיב: 03-9xx-xxxx שלוחה 3.
+הילה",2026-07-05
+D-059,EM-32877,32877,2026-07-04,web_form,פנייה מטופס צור קשר - הרכבה,"مرة ثانية بخصوص التركيب، ولا حدا اجا. SO26005945
+
+[NAME]
+[PHONE]",0,SO26005945,"order SO26005945 · Verona corner sofa, white · supplier country Italy · promised by 23/06/2026 · delivered on 15/06/2026",2026-06-23,,assembly,ar,ar,followup,Assembly,ar,"مرحبا [NAME]، مرفق رابط لتعليمات التركيب. اذا في قطعة ناقصة ابعتلنا رقمها ومنبعتها.
+لينا",2026-07-05
+D-060,EM-32919,32919,2026-07-05,email,Re: ההזמנה שלך התקבלה,"مرحبا،
+طلبت كرسي استرخاء Izmir بتاريخ 14/6، رقم الطلب SO26006379، وحكولي التوصيل لغاية 5/7. التاريخ مر وما حدا حكى معي. وين الطلبية؟
+
+[NAME]
+[PHONE]",0,SO26006379,"order SO26006379 · Izmir armchair, oak · supplier country Turkey · promised by 05/07/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 08/07/2026 (updated by logistics)",2026-07-05,2026-07-08,wismo,ar,ar,new,Delivery status,ar,"مرحبا [NAME]،
+شكرا على تواصلك. طلبك SO26006379 في مرحلة التوريد من المورد. موعد التوصيل المتوقع 5/7. اذا في اي تغيير منبلغك.
+مع الاحترام،
+رامي
+خدمة الزبائن Harbor & Pine",2026-07-06
+D-061,EM-32946,32946,2026-07-06,web_form,פנייה מטופס צור קשר - לקוחות עסקיים,"היי, אנחנו משפצים קומה במשרדים (Ashkelon Marina Hotel). צריכים 40 כיסאות משרדיים ו-10 שולחנות עבודה. אפשר הצעת מחיר + זמן אספקה?
+
+תודה,
+[NAME]",0,,none,,,b2b_quote,he,he,new,B2B,he,"שלום [NAME], תודה על הפנייה. העברתי את הבקשה למחלקת המכירות העסקיות, נציג יחזור אליך תוך 2 ימי עסקים.
+הילה",2026-07-06
+D-062,EM-32952,32952,2026-07-06,email,משלוח,"היי, רציתי לברר מה הסטטוס של הזמנה SO26005994. באתר כתוב 'בטיפול' כבר כמה שבועות. אנחנו נכנסים לדירה חדשה וחייבים לדעת מתי זה מגיע
+
+[NAME]
+[PHONE]",0,SO26005994,"order SO26005994 · Galil armchair, beige · supplier country China · promised by 05/07/2026 · not delivered yet · expected delivery 23/07/2026 (updated by logistics)",2026-07-05,2026-07-23,wismo,he,he,new,Other/כללי,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26005994) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 5/7. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+דניאל
+שירות לקוחות Harbor & Pine",2026-07-07
+D-063,EM-32964,32964,2026-07-07,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,"שלום. אני מחכה לכורסה Tavor אלון כבר יותר מחודש וחצי. בטלפון אי אפשר להשיג אף אחד, מחכים 20 דק'. מה קורה עם ההזמנה SO26006030?
+
+[NAME]
+[PHONE]",0,SO26006030,"order SO26006030 · Tavor armchair, oak · supplier country China · promised by 07/07/2026 · not delivered yet · expected delivery 23/07/2026 (updated by logistics)",2026-07-07,2026-07-23,wismo,he,he,new,Other/כללי,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26006030) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 7/7. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+סרגיי
+שירות לקוחות Harbor & Pine",2026-07-07
+D-064,EM-32971,32971,2026-07-07,web_form,פנייה מטופס צור קשר - אחר,"כמה זמן לוקח משלוח לאילת?
+
+נשלח מה-iPhone שלי",0,,none,,,product_question,he,he,new,Other/כללי,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+טיגיסט",2026-07-07
+D-065,EM-33017,33017,2026-07-08,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,السلام عليكم، بدي اعرف شو صار بالطلب رقم SO26005917. صار الي اكثر من شهر بستنى,0,SO26005917,"order SO26005917 · Hoi An outdoor lounge set, beige · supplier country Vietnam · promised by 06/07/2026 · not delivered yet · expected delivery 27/07/2026 (updated by logistics)",2026-07-06,2026-07-27,wismo,ar,ar,new,Delivery status,ar,"مرحبا [NAME]،
+شكرا على تواصلك. طلبك SO26005917 في مرحلة التوريد من المورد. موعد التوصيل المتوقع 6/7. اذا في اي تغيير منبلغك.
+مع الاحترام،
+لينا
+خدمة الزبائن Harbor & Pine",2026-07-09
+D-066,EM-33033,33033,2026-07-09,email,זיכוי,"שלום, ביטלתי את ההזמנה SO26006196 לפני שבועיים ועדיין לא קיבלתי את הכסף בחזרה לאשראי.",0,SO26006196,"order SO26006196 · Palermo dining table, grey · supplier country Italy · promised by 05/07/2026 · delivered on 28/06/2026",2026-07-05,,returns,he,he,new,Returns & refunds,he,"שלום [NAME],
+בהתאם למדיניות ההחזרות ניתן להחזיר מוצר תוך 14 יום במצבו המקורי. דמי איסוף 250 ש""ח. הזיכוי יבוצע תוך 14 ימי עסקים מקבלת המוצר במחסן.
+מורן",2026-07-12
+D-067,EM-33037,33037,2026-07-09,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,"שולחת שוב כי לא קיבלתי אישור
+
+שלום, הזמנתי שטיח 200x290 Izmir אלון לפני כמה שבועות. רק רציתי לוודא שהמשלוח עדיין בזמן ל-19/7? יש לנו אירוע משפחתי
+
+תודה,
+[NAME]",0,SO26006714,"order SO26006714 · Izmir rug 200x290, oak · supplier country Turkey · promised by 19/07/2026 · not delivered yet · expected delivery 19/07/2026 (updated by logistics)",2026-07-19,2026-07-19,wismo,he,he,duplicate,Other/כללי,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26006714) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 19/7. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+מורן
+שירות לקוחות Harbor & Pine",2026-07-10
+D-068,EM-33043,33043,2026-07-10,email,משלוח,"שלום, הזמנתי כוננית Kyoto טיק טבעי לפני כמה שבועות. רק רציתי לוודא שהמשלוח עדיין בזמן ל-14/7? יש לנו אירוע משפחתי",0,SO26006084,"order SO26006084 · Kyoto bookcase, natural teak · supplier country Vietnam · promised by 14/07/2026 · not delivered yet · expected delivery 14/07/2026 (updated by logistics)",2026-07-14,2026-07-14,wismo,he,he,new,Other/כללי,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26006084) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 14/7. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+סרגיי
+שירות לקוחות Harbor & Pine",2026-07-12
+D-069,EM-33057,33057,2026-07-12,email,Заказ SO26006108,"Добрый день. Подскажите пожалуйста статус заказа SO26006108. Ждём уже больше месяца, на сайте ничего не меняется.",0,SO26006108,"order SO26006108 · Tavor dining table, natural teak · supplier country China · promised by 11/07/2026 · not delivered yet · expected delivery 25/07/2026 (updated by logistics)",2026-07-11,2026-07-25,wismo,ru,ru,new,Other/כללי,ru,"Здравствуйте, [NAME]!
+Спасибо за обращение. Ваш заказ SO26006108 находится в процессе поставки. Ориентировочная дата доставки: 11.07. Если что-то изменится, мы сообщим.
+С уважением,
+Ольга
+Служба поддержки Harbor & Pine",2026-07-12
+D-070,EM-33129,33129,2026-07-14,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,"שלום רב,
+ביום 2/6 רכשתי באתר ארון בגדים Ningbo שחור. הובטח משלוח עד 10/7. עד היום לא קיבלתי שום עדכון, לא SMS ולא מייל. אשמח לתשובה מתי צפוי המשלוח.
+תודה
+
+[NAME] [PHONE]",0,SO26006092,"order SO26006092 · Ningbo wardrobe, black · supplier country China · promised by 10/07/2026 · not delivered yet · expected delivery 25/07/2026 (updated by logistics)",2026-07-10,2026-07-25,wismo,he,he,new,Delivery status,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26006092) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 10/7. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+מורן
+שירות לקוחות Harbor & Pine",2026-07-14
+D-071,EM-33137,33137,2026-07-14,email,سؤال,شو قياسات كنبة زاوية Verona بالزبط؟,0,,none,,,product_question,ar,ar,new,Product info,,"مرحبا [NAME]، الالوان المتوفرة موجودة بالموقع، ومدة التوصيل بتظهر وقت الطلب.
+لينا",2026-07-14
+D-072,EM-33169,33169,2026-07-15,web_form,פנייה מטופס צור קשר - החזרות וביטולים,"אני רוצה להחזיר את כורסה Porto כחול נייבי, הצבע לא מתאים לסלון. איך עושים החזרה ומתי אקבל זיכוי?
+
+[NAME]
+[PHONE]",0,SO26006425,"order SO26006425 · Porto armchair, navy · supplier country Turkey · promised by 07/07/2026 · delivered on 08/07/2026",2026-07-07,,returns,he,he,new,Returns & refunds,,"שלום [NAME],
+בהתאם למדיניות ההחזרות ניתן להחזיר מוצר תוך 14 יום במצבו המקורי. דמי איסוף 250 ש""ח. הזיכוי יבוצע תוך 14 ימי עסקים מקבלת המוצר במחסן.
+מורן",2026-07-16
+D-073,EM-33182,33182,2026-07-16,email,Rank #1 on Google,Invoice #INV-88213 overdue - please see attached document and pay today.,0,,none,,,spam,en,none,new,Spam,en,,
+D-074,EM-33183,33183,2026-07-16,email,משלוח,"מתי מגיעה ההזמנה?? מספר SO26006205
+
+[NAME] [PHONE]",0,SO26006205,"order SO26006205 · Malmo pendant lamp, terracotta · supplier country China · promised by 15/07/2026 · not delivered yet · expected delivery 25/07/2026 (updated by logistics)",2026-07-15,2026-07-25,wismo,he,he,new,Other/כללי,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26006205) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 15/7. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+עדי
+שירות לקוחות Harbor & Pine",2026-07-16
+D-075,EM-33223,33223,2026-07-18,web_form,פנייה מטופס צור קשר - אחר,"היי, רציתי לברר מה הסטטוס של הזמנה SO26006202. באתר כתוב 'בטיפול' כבר כמה שבועות. אנחנו נכנסים לדירה חדשה וחייבים לדעת מתי זה מגיע
+
+[NAME] [PHONE]",0,SO26006202,"order SO26006202 · Sevilla corner sofa, terracotta · supplier country China · promised by 15/07/2026 · not delivered yet · expected delivery 15/07/2026 (updated by logistics)",2026-07-15,2026-07-15,wismo,he,he,new,Other/כללי,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26006202) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 15/7. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+עדי
+שירות לקוחות Harbor & Pine",2026-07-19
+D-076,EM-33329,33329,2026-07-23,email,שירות גרוע,"השירות שלכם פשוט מזעזע. אי אפשר להשיג אף אחד בטלפון ובמייל עונים תשובות אוטומטיות.
+
+[NAME] [PHONE]",0,,none,,,complaint,he,he,new,Complaint,he,"שלום [NAME], אנו מתנצלים על החוויה. העברנו את הפנייה למנהל השירות לבדיקה מול חברת ההובלה.
+סמיר",2026-07-23
+D-077,EM-33386,33386,2026-07-26,email,שירות גרוע,"השירות שלכם פשוט מזעזע. אי אפשר להשיג אף אחד בטלפון ובמייל עונים תשובות אוטומטיות.
+
+[NAME]
+[PHONE]",0,SO26006028,"order SO26006028 · Da Nang wardrobe, olive · supplier country Vietnam · promised by 11/07/2026 · delivered on 26/07/2026",2026-07-11,,complaint,he,he,new,Complaint,he,"שלום [NAME], אנו מתנצלים על החוויה. העברנו את הפנייה למנהל השירות לבדיקה מול חברת ההובלה.
+אחמד",2026-07-26
+D-078,EM-33391,33391,2026-07-26,email,الطلب SO26006372,"مرحبا، اشترينا طاولة صالون Tavor من المعرض بحيفا وحكولي بوصل قبل 22/7. لليوم ما في اي خبر. بترجاكم ردو علي
+
+[NAME]
+[PHONE]",0,SO26006372,"order SO26006372 · Tavor coffee table, olive · supplier country China · promised by 22/07/2026 · not delivered yet · expected delivery 05/08/2026 (updated by logistics)",2026-07-22,2026-08-05,wismo,ar,ar,new,Delivery status,ar,"مرحبا [NAME]،
+شكرا على تواصلك. طلبك SO26006372 في مرحلة التوريد من المورد. موعد التوصيل المتوقع 22/7. اذا في اي تغيير منبلغك.
+مع الاحترام،
+لينا
+خدمة الزبائن Harbor & Pine",2026-07-26
+D-079,EM-33401,33401,2026-07-26,email,איפה ההזמנה שלי??,"שלום, הזמנתי מנורה תלויה Malmo טרקוטה לפני כמה שבועות. רק רציתי לוודא שהמשלוח עדיין בזמן ל-7/8? יש לנו אירוע משפחתי
+
+[NAME] [PHONE]",0,SO26006776,"order SO26006776 · Malmo pendant lamp, terracotta · supplier country China · promised by 07/08/2026 · not delivered yet · expected delivery 20/08/2026 (updated by logistics)",2026-08-07,2026-08-20,wismo,he,he,new,Delivery status,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26006776) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 7/8. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+טיגיסט
+שירות לקוחות Harbor & Pine",2026-07-26
+D-080,EM-33440,33440,2026-07-28,email,Overdue invoice,Your mailbox storage is 99% full. Click here to verify your account and avoid suspension.,0,,none,,,spam,en,none,new,Spam,en,,
+D-081,EM-33453,33453,2026-07-29,email,Вопрос,"Здравствуйте, сломалась ножка кресла через год. Это гарантия?
+
+С уважением,
+[NAME]
+тел. [PHONE]",0,,none,,,other,ru,ru,new,Other/כללי,ru,"Здравствуйте, [NAME]! Спасибо за обращение. Ольга",2026-07-29
+D-082,EM-33455,33455,2026-07-29,email,איפה ההזמנה שלי??,"זו כבר הפנייה השלישית שלי בנושא הזמנה SO26006231. אם לא אקבל תאריך אמיתי עד מחר אני מבטלת את ההזמנה ופונה לחברת האשראי.
+
+נשלח מה-iPhone שלי",0,SO26006231,"order SO26006231 · Negev wardrobe, walnut · supplier country Vietnam · promised by 20/07/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 01/08/2026 (updated by logistics)",2026-07-20,2026-08-01,wismo,he,he,followup,Other/כללי,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26006231) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 20/7. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+שני
+שירות לקוחות Harbor & Pine",2026-07-29
+D-083,EM-33457,33457,2026-07-29,email,ביטול עסקה,"אני רוצה להחזיר את שולחן אוכל Carmel טיק טבעי, הצבע לא מתאים לסלון. איך עושים החזרה ומתי אקבל זיכוי?
+
+[NAME]
+[PHONE]",0,SO26006010,"order SO26006010 · Carmel dining table, natural teak · supplier country Vietnam · promised by 10/07/2026 · delivered on 26/07/2026",2026-07-10,,returns,he,he,new,Returns & refunds,he,"שלום [NAME],
+בהתאם למדיניות ההחזרות ניתן להחזיר מוצר תוך 14 יום במצבו המקורי. דמי איסוף 250 ש""ח. הזיכוי יבוצע תוך 14 ימי עסקים מקבלת המוצר במחסן.
+שני",2026-07-29
+D-084,EM-33458,33458,2026-07-29,email,Доставка,"Добрый день. Подскажите пожалуйста статус заказа SO26006517. Ждём уже больше месяца, на сайте ничего не меняется.",0,SO26006517,"order SO26006517 · Aarhus bookcase, natural teak · supplier country China · promised by 27/07/2026 · not delivered yet · expected delivery 27/07/2026 (updated by logistics)",2026-07-27,2026-07-27,wismo,ru,ru,new,Other/כללי,ru,"Здравствуйте, [NAME]!
+Спасибо за обращение. Ваш заказ SO26006517 находится в процессе поставки. Ориентировочная дата доставки: 27.07. Если что-то изменится, мы сообщим.
+С уважением,
+Сергей
+Служба поддержки Harbor & Pine",2026-07-29
+D-085,EM-33472,33472,2026-07-29,email,,"שלום, ראיתי שאתם מחפשים עובדים למחסן בראשון. למי שולחים קו""ח?
+
+תודה,
+[NAME]",0,,none,,,other,he,he,new,Product info,he,"שלום [NAME], תודה על פנייתך. הילה",2026-07-30
+D-086,EM-33488,33488,2026-07-31,email,צבעים,"כמה זמן לוקח משלוח לאילת?
+
+[NAME] [PHONE]",0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+טיגיסט",2026-08-02
+D-087,EM-33519,33519,2026-08-01,email,Mailbox full - action required,"Dear Sir/Madam, we are a leading manufacturer of office chairs in Foshan with 15 years experience. Attached is our catalog. MOQ 50 pcs. Best price guaranteed.",0,,none,,,spam,en,none,new,Spam,en,,
+D-088,EM-33549,33549,2026-08-02,web_form,פנייה מטופס צור קשר - אחר,"Какие точные размеры у садовый комплект Negev? Пройдёт в дверь 80 см?
+
+Отправлено с iPhone",0,,none,,,product_question,ru,ru,new,Product info,ru,"Здравствуйте, [NAME]! Доступные цвета указаны на сайте, срок доставки показан при оформлении заказа.
+Ольга",2026-08-03
+D-089,EM-33561,33561,2026-08-03,email,מתי מגיע?,"שלום רב,
+ביום 18/6 רכשתי באתר כיסא אוכל Hoi An טיק טבעי. הובטח משלוח עד 30/7. עד היום לא קיבלתי שום עדכון, לא SMS ולא מייל. אשמח לתשובה מתי צפוי המשלוח.
+תודה
+
+[NAME] [PHONE]",0,SO26006472,"order SO26006472 · Hoi An dining chair, natural teak · supplier country Vietnam · promised by 30/07/2026 · not delivered yet · expected delivery 11/08/2026 (updated by logistics)",2026-07-30,2026-08-11,wismo,he,he,new,Delivery status,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26006472) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 30/7. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+אולגה
+שירות לקוחות Harbor & Pine",2026-08-03
+D-090,EM-33583,33583,2026-08-04,email,הגיע שבור!!,המשלוח הגיע היום. בפתיחת הקרטון ראינו שהבד קרוע בצד. המובילים כבר הלכו. מבקש החלפה. הזמנה SO26006582,4,SO26006582,"order SO26006582 · Galil bookcase, olive · supplier country China · promised by 29/07/2026 · delivered on 02/08/2026",2026-07-29,,damage,he,he,new,Delivery damage,he,"שלום [NAME],
+מצטערים לשמוע. פתחנו עבורך תביעת נזק מס' DC-26-073. נא לשלוח תמונות של הנזק ושל מדבקת הקרטון אם עוד לא שלחת. נחזור אליך לאחר בדיקה.
+רינה, תביעות
+שירות לקוחות Harbor & Pine",2026-08-04
+D-091,EM-33598,33598,2026-08-05,email,הגיע שבור!!,"שלום רב, מיטה זוגית Carmel טיק טבעי שהזמנו (הזמנה SO26006356) הגיע עם נזק: הבד קרוע בצד. שילמנו הרבה כסף ואנחנו מאוד מאוכזבים. מבקשים פתרון מהיר.
+כתובת למסירה: [ADDRESS]
+
+נשלח מה-iPhone שלי",3,SO26006356,"order SO26006356 · Carmel double bed, natural teak · supplier country Vietnam · promised by 26/07/2026 · delivered on 04/08/2026",2026-07-26,,damage,he,he,new,Delivery damage,he,"שלום [NAME],
+מצטערים לשמוע. פתחנו עבורך תביעת נזק מס' DC-26-077. נא לשלוח תמונות של הנזק ושל מדבקת הקרטון אם עוד לא שלחת. נחזור אליך לאחר בדיקה.
+רינה, תביעות
+שירות לקוחות Harbor & Pine",2026-08-05
+D-092,EM-33608,33608,2026-08-05,email,צבעים,"כמה זמן לוקח משלוח לאילת?
+
+תודה,
+[NAME]",0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+דניאל",2026-08-05
+D-093,EM-33611,33611,2026-08-05,email,לא מקובל,"חיכינו כל היום למשלוח ואף אחד לא הגיע ולא התקשר. הזמנה SO26006252. אני רוצה פיצוי.
+
+[NAME] [PHONE]",0,SO26006252,"order SO26006252 · Aarhus pendant lamp, natural teak · supplier country China · promised by 17/07/2026 · delivered on 04/08/2026",2026-07-17,,complaint,he,he,new,Other/כללי,he,"שלום [NAME], אנו מתנצלים על החוויה. העברנו את הפנייה למנהל השירות לבדיקה מול חברת ההובלה.
+שני",2026-08-05
+D-094,EM-33620,33620,2026-08-05,email,Re: נזק במשלוח - הזמנה SO26006252,"שלום, מה קורה עם התביעה שלי? אמרו לי שתחזרו אליי תוך כמה ימים. SO26006252
+
+נשלח מה-iPhone שלי",0,SO26006252,"order SO26006252 · Aarhus pendant lamp, natural teak · supplier country China · promised by 17/07/2026 · delivered on 04/08/2026",2026-07-17,,damage,he,he,followup,Returns & refunds,he,"שלום [NAME],
+מצטערים לשמוע. פתחנו עבורך תביעת נזק מס' DC-26-0xx. נא לשלוח תמונות של הנזק ושל מדבקת הקרטון אם עוד לא שלחת. נחזור אליך לאחר בדיקה.
+הילה
+שירות לקוחות Harbor & Pine",2026-08-06
+D-095,EM-33627,33627,2026-08-06,email,Re: ההזמנה שלך התקבלה,"שוב אני. פניתי אליכם לפני כמה ימים ואמרו לי שההזמנה תגיע עד 28/7. היא לא הגיעה. אני מבקש לדבר עם מנהל.
+
+[NAME] [PHONE]",0,SO26006448,"order SO26006448 · Negev coffee table, grey · supplier country Vietnam · promised by 28/07/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 09/08/2026 (updated by logistics)",2026-07-28,2026-08-09,wismo,he,he,followup,Other/כללי,he,"שלום [NAME],
+בדקתי מול מחלקת הלוגיסטיקה. המכולה עם ההזמנה שלך התעכבה בדרך וצפויה להגיע לנמל ב-4/8. לאחר שחרור מהמכס ניצור איתך קשר לתיאום משלוח. מתנצלים מאוד על העיכוב.
+עדי",2026-08-06
+D-096,EM-33634,33634,2026-08-06,email,Заказ SO26006655,"Здравствуйте!
+Я заказала у вас диван Arbel 25.06, номер заказа SO26006655. Обещали доставку до 02.08. Срок прошёл, никто не звонит и не пишет. Где мой заказ?
+
+С уважением,
+[NAME]
+тел. [PHONE]",0,SO26006655,"order SO26006655 · Arbel 3-seat sofa, beige · supplier country China · promised by 02/08/2026 · not delivered yet · expected delivery 18/08/2026 (updated by logistics)",2026-08-02,2026-08-18,wismo,ru,ru,new,Delivery status,ru,"Здравствуйте, [NAME]!
+Спасибо за обращение. Ваш заказ SO26006655 находится в процессе поставки. Ориентировочная дата доставки: 02.08. Если что-то изменится, мы сообщим.
+С уважением,
+Сергей
+Служба поддержки Harbor & Pine",2026-08-06
+D-097,EM-33635,33635,2026-08-06,web_form,פנייה מטופס צור קשר - אחר,"Сборщик не пришёл, хотя мы заказывали сборку. Заказ SO26007176. Когда придёт?",0,SO26007176,"order SO26007176 · Oslo corner sofa, black · supplier country Turkey · promised by 06/08/2026 · delivered on 03/08/2026",2026-08-06,,assembly,ru,ru,new,Assembly,ru,"Здравствуйте, [NAME]! Отправляю ссылку на инструкцию по сборке. Если не хватает детали, напишите её номер, мы вышлем.
+Сергей",2026-08-06
+D-098,EM-33645,33645,2026-08-06,email,הזמנה SO26006759,"ערב טוב, ההזמנה שלי SO26006759 הייתה אמורה להגיע השבוע. אפשר לדעת מה קורה איתה? לקחתי יום חופש מהעבודה בשביל זה
+
+תודה,
+[NAME]",0,SO26006759,"order SO26006759 · Tavor dining table, navy · supplier country China · promised by 06/08/2026 · not delivered yet · expected delivery 20/08/2026 (updated by logistics)",2026-08-06,2026-08-20,wismo,he,he,new,Delivery status,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26006759) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 6/8. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+טיגיסט
+שירות לקוחות Harbor & Pine",2026-08-06
+D-099,EM-33647,33647,2026-08-06,email,משלוח,"מתי מגיעה ההזמנה?? מספר SO26006645
+
+תודה,
+[NAME]",0,SO26006645,"order SO26006645 · Lisbon wardrobe, beige · supplier country China · promised by 02/08/2026 · not delivered yet · expected delivery 18/08/2026 (updated by logistics)",2026-08-02,2026-08-18,wismo,he,he,new,Delivery status,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26006645) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 2/8. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+הילה
+שירות לקוחות Harbor & Pine",2026-08-06
+D-100,EM-33698,33698,2026-08-09,web_form,פנייה מטופס צור קשר - לקוחות עסקיים,"שלום,
+אנו Hadera Seniors Home ומעוניינים בהצעת מחיר ל-40 כיסאות ו-20 שולחנות לחדר האוכל. נבקש מחירים וזמני אספקה עד 23/9.
+בברכה,
+[NAME], רכש
+
+[NAME] [PHONE]",0,,none,,,b2b_quote,he,he,duplicate,B2B,he,"שלום [NAME], תודה על הפנייה. העברתי את הבקשה למחלקת המכירות העסקיות, נציג יחזור אליך תוך 2 ימי עסקים.
+הילה",2026-08-09
+D-101,EM-33709,33709,2026-08-09,email,Re: ההזמנה שלך התקבלה,"Добрый вечер. Мы купили комод Bergen в шоуруме, сказали привезут до 08.08. Уже прошло, никакой информации. Пожалуйста ответьте на русском, иврит плохо понимаю.",0,SO26006699,"order SO26006699 · Bergen dresser, grey · supplier country Vietnam · promised by 08/08/2026 · not delivered yet · expected delivery 17/08/2026 (updated by logistics)",2026-08-08,2026-08-17,wismo,ru,ru,new,Returns & refunds,ru,"Здравствуйте, [NAME]!
+Спасибо за обращение. Ваш заказ SO26006699 находится в процессе поставки. Ориентировочная дата доставки: 08.08. Если что-то изменится, мы сообщим.
+С уважением,
+Ольга
+Служба поддержки Harbor & Pine",2026-08-09
+D-102,EM-33733,33733,2026-08-09,email,ارجاع,بدي ارجع كنبة Malmo لانه الحجم مش مناسب. كيف بعمل ارجاع؟ الطلب SO26006535,0,SO26006535,"order SO26006535 · Malmo 3-seat sofa, olive · supplier country China · promised by 27/07/2026 · delivered on 02/08/2026",2026-07-27,,returns,ar,ar,new,Other/כללי,ar,"مرحبا [NAME]، حسب سياسة الارجاع ممكن ترجع المنتج خلال 14 يوم بحالته الاصلية. رسوم الاستلام 250 شيكل. المبلغ برجع خلال 14 يوم عمل.
+لينا",2026-08-10
+D-103,EM-33791,33791,2026-08-12,web_form,Contact form: Invoices,"Hi, could you send the tax invoice for order SO26007614? Our accountant needs it.
+
+Sent from my iPhone",0,SO26007614,"order SO26007614 · Porto wardrobe, navy · supplier country Turkey · promised by 23/08/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 23/08/2026 (updated by logistics)",2026-08-23,2026-08-23,invoice,en,en,new,Invoice & payment,en,"Hi [NAME], we've re-sent the invoice to this address. Please check your spam folder too.
+Daniel",2026-08-12
+D-104,EM-33803,33803,2026-08-13,email,חשבונית,"חויבתי פעמיים באשראי על אותה הזמנה (SO26007783). נא לבדוק ולזכות
+
+[NAME]
+[PHONE]",0,SO26007783,"order SO26007783 · Malmo coffee table, grey · supplier country China · promised by 15/09/2026 · not delivered yet · expected delivery 28/09/2026 (updated by logistics)",2026-09-15,2026-09-28,invoice,he,he,new,Invoice & payment,he,"שלום [NAME], החשבונית נשלחה שוב למייל זה. אם לא התקבלה, נא לבדוק בתיקיית הספאם.
+דניאל",2026-08-13
+D-105,EM-33809,33809,2026-08-13,web_form,Contact form: Damaged item,"Hello, order SO26006510 arrived but the fabric is torn on one side. The delivery guys left before we opened the box. What now?",4,SO26006510,"order SO26006510 · Negev double bed, olive · supplier country Vietnam · promised by 31/07/2026 · delivered on 11/08/2026",2026-07-31,,damage,en,en,new,Delivery damage,en,"שלום [NAME],
+מצטערים לשמוע. פתחנו עבורך תביעת נזק מס' DC-26-0xx. נא לשלוח תמונות של הנזק ושל מדבקת הקרטון אם עוד לא שלחת. נחזור אליך לאחר בדיקה.
+רינה, תביעות
+שירות לקוחות Harbor & Pine",2026-08-14
+D-106,EM-33817,33817,2026-08-13,email,צבעים,האם שולחן אוכל Da Nang לבן מגיע גם בצבע אחר? ומה זמן האספקה?,0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+אחמד",2026-08-13
+D-107,EM-33836,33836,2026-08-14,email,Re: ביטול עסקה,"עדיין לא קיבלתי זיכוי. כבר עברו 14 יום. SO26006906
+
+תודה,
+ענת ברק",0,SO26006906,"order SO26006906 · Milano 3-seat sofa, terracotta · supplier country Italy · promised by 03/08/2026 · delivered on 02/08/2026",2026-08-03,,returns,he,he,followup,Returns & refunds,he,"שלום [NAME],
+בהתאם למדיניות ההחזרות ניתן להחזיר מוצר תוך 14 יום במצבו המקורי. דמי איסוף 250 ש""ח. הזיכוי יבוצע תוך 14 ימי עסקים מקבלת המוצר במחסן.
+שני",2026-08-16
+D-108,EM-33843,33843,2026-08-16,email,Re: Заказ SO26006635,Пишу второй раз! Мне ответили что заказ SO26006635 будет до 05.08. Его нет. Сколько можно ждать?,0,SO26006635,"order SO26006635 · Da Nang outdoor lounge set, beige · supplier country Vietnam · promised by 05/08/2026 · delivered on 16/08/2026",2026-08-05,,wismo,ru,ru,followup,Complaint,ru,"Здравствуйте, [NAME]!
+Спасибо за обращение. Ваш заказ SO26006635 находится в процессе поставки. Ориентировочная дата доставки: 05.08. Если что-то изменится, мы сообщим.
+С уважением,
+Яна
+Служба поддержки Harbor & Pine",2026-08-16
+D-109,EM-33845,33845,2026-08-16,email,الطلب وصل مكسور,السلام عليكم، الطلب SO26006716 وصل مكسور. الزجاج مكسور. بدنا تبديل بأسرع وقت,1,SO26006716,"order SO26006716 · Bergen bookcase, terracotta · supplier country Vietnam · promised by 09/08/2026 · delivered on 16/08/2026",2026-08-09,,damage,ar,ar,new,Other/כללי,ar,"مرحبا [NAME]، منأسف. فتحنا طلب ضرر رقم DC-26-086. بترجاك تبعت صور للضرر وللملصق على الكرتونة. منرجعلك بعد الفحص.
+لينا",2026-08-16
+D-110,EM-33855,33855,2026-08-16,email,Office chairs factory direct,Invoice #INV-88213 overdue - please see attached document and pay today.,1,,none,,,spam,en,none,new,Spam,en,,
+D-111,EM-33859,33859,2026-08-16,email,עיכוב במשלוח,"שלום, הזמנתי פינת ישיבה לגינה Kyoto אלון לפני כמה שבועות. רק רציתי לוודא שהמשלוח עדיין בזמן ל-26/8? יש לנו אירוע משפחתי
+
+נשלח מה-iPhone שלי",0,SO26007143,"order SO26007143 · Kyoto outdoor lounge set, oak · supplier country Vietnam · promised by 26/08/2026 · not delivered yet · expected delivery 06/09/2026 (updated by logistics)",2026-08-26,2026-09-06,wismo,he,he,new,Other/כללי,,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26007143) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 26/8. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+הילה
+שירות לקוחות Harbor & Pine",2026-08-17
+D-112,EM-33874,33874,2026-08-17,web_form,Contact form: Order status,"Добрый вечер! Хотела уточнить, доставка стул Ningbo будет вовремя, до 26.08? Нам важно, переезжаем.
+
+Отправлено с iPhone",0,SO26007252,"order SO26007252 · Ningbo dining chair, navy · supplier country China · promised by 26/08/2026 · not delivered yet · expected delivery 12/09/2026 (updated by logistics)",2026-08-26,2026-09-12,wismo,ru,ru,new,Other/כללי,ru,"Здравствуйте, [NAME]!
+Спасибо за обращение. Ваш заказ SO26007252 находится в процессе поставки. Ориентировочная дата доставки: 26.08. Если что-то изменится, мы сообщим.
+С уважением,
+Яна
+Служба поддержки Harbor & Pine",2026-08-18
+D-113,EM-33879,33879,2026-08-18,email,توصيل,مساء الخير، متى بوصل الطلب؟ SO26006949,0,SO26006949,"order SO26006949 · Tavor 3-seat sofa, beige · supplier country China · promised by 14/08/2026 · not delivered yet · expected delivery 27/08/2026 (updated by logistics)",2026-08-14,2026-08-27,wismo,ar,ar,new,Delivery status,ar,"مرحبا [NAME]،
+شكرا على تواصلك. طلبك SO26006949 في مرحلة التوريد من المورد. موعد التوصيل المتوقع 14/8. اذا في اي تغيير منبلغك.
+مع الاحترام،
+أحمد
+خدمة الزبائن Harbor & Pine",2026-08-18
+D-114,EM-33882,33882,2026-08-18,email,הגיע שבור!!,"שלום, קיבלנו היום את שולחן סלון Bergen לבן והוא הגיע פגום - הבד קרוע בצד. מצרפת תמונות. מה עושים עכשיו?",3,SO26006624,"order SO26006624 · Bergen coffee table, white · supplier country Vietnam · promised by 04/08/2026 · delivered on 16/08/2026",2026-08-04,,damage,he,he,new,Delivery damage,he,"שלום [NAME],
+מצטערים לשמוע. פתחנו עבורך תביעת נזק מס' DC-26-089. נא לשלוח תמונות של הנזק ושל מדבקת הקרטון אם עוד לא שלחת. נחזור אליך לאחר בדיקה.
+יאנה
+שירות לקוחות Harbor & Pine",2026-08-18
+D-115,EM-33922,33922,2026-08-19,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,"שלום. אני מחכה למיטה זוגית Ningbo לבן כבר יותר מחודש וחצי. בטלפון אי אפשר להשיג אף אחד, מחכים 20 דק'. מה קורה עם ההזמנה SO26007081?
+
+תודה,
+[NAME]",0,SO26007081,"order SO26007081 · Ningbo double bed, white · supplier country China · promised by 19/08/2026 · not delivered yet · expected delivery 27/08/2026 (updated by logistics)",2026-08-19,2026-08-27,wismo,he,he,new,Other/כללי,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26007081) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 19/8. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+טיגיסט
+שירות לקוחות Harbor & Pine",2026-08-20
+D-116,EM-33977,33977,2026-08-22,email,איפה ההזמנה שלי??,"הי, יש עדכון לגבי המשלוח? הזמנה SO26006755. תודה מראש
+
+נשלח מה-iPhone שלי",0,SO26006755,"order SO26006755 · Malmo coffee table, terracotta · supplier country China · promised by 06/08/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 25/08/2026 (updated by logistics)",2026-08-06,2026-08-25,wismo,he,he,duplicate,Delivery status,he,,
+D-117,EM-33986,33986,2026-08-23,email,Re: פנייה מטופס צור קשר - אחר,זו כבר הפנייה השלישית שלי בנושא הזמנה SO26006747. אם לא אקבל תאריך אמיתי עד מחר אני מבטלת את ההזמנה ופונה לחברת האשראי.,0,SO26006747,"order SO26006747 · Negev dresser, navy · supplier country Vietnam · promised by 10/08/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 26/08/2026 (updated by logistics)",2026-08-10,2026-08-26,wismo,he,he,followup,Delivery status,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26006747) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 10/8. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+מורן
+שירות לקוחות Harbor & Pine",2026-08-23
+D-118,EM-34023,34023,2026-08-23,email,Счёт,"Добрый день, не получили чек/счёт за заказ SO26007129. Пришлите пожалуйста.",0,SO26007129,"order SO26007129 · Da Nang outdoor lounge set, terracotta · supplier country Vietnam · promised by 25/08/2026 · not delivered yet · expected delivery 06/09/2026 (updated by logistics)",2026-08-25,2026-09-06,invoice,ru,ru,new,Invoice & payment,ru,"Здравствуйте, [NAME]. Счёт отправлен повторно на этот адрес.
+Яна",2026-08-26
+D-119,EM-34065,34065,2026-08-25,email,ضرر,بعتت صور الضرر من اسبوع وما حدا رد. شو صار بالتبديل؟ SO26006420,0,SO26006420,"order SO26006420 · Bergen coffee table, white · supplier country Vietnam · promised by 27/07/2026 · delivered on 11/08/2026",2026-07-27,,damage,ar,ar,followup,Delivery damage,ar,"שלום [NAME],
+מצטערים לשמוע. פתחנו עבורך תביעת נזק מס' DC-26-0xx. נא לשלוח תמונות של הנזק ושל מדבקת הקרטון אם עוד לא שלחת. נחזור אליך לאחר בדיקה.
+רינה, תביעות
+שירות לקוחות Harbor & Pine",2026-08-25
+D-120,EM-34071,34071,2026-08-25,email,Where is my order?,"Hi there, just checking the Ningbo wardrobe, olive is still on track for 6 Sep? We're moving that week.
+
+Sent from my iPhone",0,SO26007542,"order SO26007542 · Ningbo wardrobe, olive · supplier country China · promised by 06/09/2026 · not delivered yet · expected delivery 16/09/2026 (updated by logistics)",2026-09-06,2026-09-16,wismo,en,en,new,Delivery status,en,"Hi [NAME],
+I checked with our logistics team. The container with your order was delayed at sea and is now expected at the port on 9 Sep. Once it clears customs we will call you to book delivery. We're sorry for the delay.
+Adi",2026-08-26
+D-121,EM-34098,34098,2026-08-26,email,הלוואה מהירה,מבצע מיוחד על שילוט ודפוס לעסקים - 30% הנחה,1,,none,,,spam,he,none,new,Spam,he,,
+D-122,EM-34126,34126,2026-08-27,web_form,Contact form: Other,"What are the exact dimensions of the Ningbo wardrobe, navy? Will it fit through an 80 cm door?
+
+Sent from my iPhone",0,,none,,,product_question,en,en,new,Other/כללי,en,"Hi [NAME], the available finishes are listed on the product page, and the delivery estimate is shown at checkout. You're welcome to visit our showrooms in Tel Aviv or Haifa.
+Daniel",2026-08-28
+D-123,EM-34141,34141,2026-08-28,web_form,פנייה מטופס צור קשר - אחר,"אני רוצה להחזיר את שטיח 200x290 Izmir טיק טבעי, הצבע לא מתאים לסלון. איך עושים החזרה ומתי אקבל זיכוי?
+
+נשלח מה-iPhone שלי",0,SO26007767,"order SO26007767 · Izmir rug 200x290, natural teak · supplier country Turkey · promised by 29/08/2026 · delivered on 17/08/2026",2026-08-29,,returns,he,he,new,Returns & refunds,he,"שלום [NAME],
+בהתאם למדיניות ההחזרות ניתן להחזיר מוצר תוך 14 יום במצבו המקורי. דמי איסוף 250 ש""ח. הזיכוי יבוצע תוך 14 ימי עסקים מקבלת המוצר במחסן.
+דניאל",2026-08-30
+D-124,EM-34150,34150,2026-08-30,email,עיכוב במשלוח,"שלום, הזמנתי ספה תלת מושבית Bodrum טיק טבעי לפני כמה שבועות. רק רציתי לוודא שהמשלוח עדיין בזמן ל-2/9? יש לנו אירוע משפחתי
+
+[NAME] [PHONE]",0,SO26007873,"order SO26007873 · Bodrum 3-seat sofa, natural teak · supplier country Turkey · promised by 02/09/2026 · delivered on 30/08/2026",2026-09-02,,wismo,he,he,new,Other/כללי,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26007873) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 2/9. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+שני
+שירות לקוחות Harbor & Pine",2026-08-30
+D-125,EM-34180,34180,2026-08-30,email,מידות,"שלום, מה המידות המדויקות של כורסה Tavor לבן? יעבור בדלת של 80 ס""מ?
+
+[NAME]
+[PHONE]",0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+שני",2026-08-31
+D-126,EM-34243,34243,2026-09-02,email,סטטוס הזמנה,"ערב טוב, ההזמנה שלי SO26007399 הייתה אמורה להגיע השבוע. אפשר לדעת מה קורה איתה? לקחתי יום חופש מהעבודה בשביל זה
+
+[NAME] [PHONE]",0,SO26007399,"order SO26007399 · Tavor dining table, walnut · supplier country China · promised by 31/08/2026 · not delivered yet · expected delivery 15/09/2026 (updated by logistics)",2026-08-31,2026-09-15,wismo,he,he,new,Delivery status,he,"שלום [NAME],
+בדקתי מול מחלקת הלוגיסטיקה. המכולה עם ההזמנה שלך התעכבה בדרך וצפויה להגיע לנמל ב-8/9. לאחר שחרור מהמכס ניצור איתך קשר לתיאום משלוח. מתנצלים מאוד על העיכוב.
+טיגיסט",2026-09-02
+D-127,EM-34244,34244,2026-09-02,email,Mailbox full - action required,"Dear Sir/Madam, we are a leading manufacturer of office chairs in Foshan with 15 years experience. Attached is our catalog. MOQ 50 pcs. Best price guaranteed.",0,,none,,,spam,en,none,new,Spam,en,,
+D-128,EM-34304,34304,2026-09-06,web_form,Contact form: Other,Following up again on order SO26007182. I was told it would arrive by 23 Aug. It hasn't. I need a real date please.,0,SO26007182,"order SO26007182 · Malmo office chair, grey · supplier country China · promised by 23/08/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 09/09/2026 (updated by logistics)",2026-08-23,2026-09-09,wismo,en,en,followup,Delivery status,en,"Hi [NAME],
+Thank you for your patience. Your order SO26007182 is on its way from our supplier. The estimated delivery date is 23 Aug. We will let you know if anything changes.
+Best regards,
+Daniel
+Harbor & Pine Customer Care",2026-09-06
+D-129,EM-34321,34321,2026-09-06,email,משלוח,מתי מגיעה ההזמנה?? מספר SO26007422,0,SO26007422,"order SO26007422 · Ningbo dining chair, natural teak · supplier country China · promised by 02/09/2026 · not delivered yet · expected delivery 15/09/2026 (updated by logistics)",2026-09-02,2026-09-15,wismo,he,he,new,Delivery status,,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26007422) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 2/9. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+עדי
+שירות לקוחות Harbor & Pine",2026-09-06
+D-130,EM-34335,34335,2026-09-06,web_form,Contact form: Invoices,"Добрый день, не получили чек/счёт за заказ SO 26008279. Пришлите пожалуйста.
+
+[NAME]",0,SO26008279,"order SO26008279 · Izmir rug 200x290, natural teak · supplier country Turkey · promised by 15/09/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 15/09/2026 (updated by logistics)",2026-09-15,2026-09-15,invoice,ru,ru,new,Invoice & payment,ru,"Здравствуйте, [NAME]. Счёт отправлен повторно на этот адрес.
+Ольга",2026-09-07
+D-131,EM-34373,34373,2026-09-09,email,הרכבה,"קיבלנו את שידה Negev כחול נייבי אבל אין הוראות הרכבה בקופסה. איך מרכיבים? יש סרטון?
+
+[NAME]
+[PHONE]",0,SO26007262,"order SO26007262 · Negev dresser, navy · supplier country Vietnam · promised by 30/08/2026 · delivered on 07/09/2026",2026-08-30,,assembly,he,he,new,Assembly,he,"שלום [NAME],
+מצורף קישור להוראות ההרכבה (PDF) וסרטון. אם חסר חלק, נא לציין את מספר החלק ונשלח בדואר. לתיאום מרכיב: 03-9xx-xxxx שלוחה 3.
+עדי",2026-09-09
+D-132,EM-34417,34417,2026-09-10,email,Re: עיכוב במשלוח,קיבלתי ממכם תשובה שההזמנה 'בדרך'. בדרך מאיפה? כבר עברו 10 ימים. SO26007305,0,SO26007305,"order SO26007305 · Ningbo dining table, olive · supplier country China · promised by 28/08/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 13/09/2026 (updated by logistics)",2026-08-28,2026-09-13,wismo,he,he,followup,Delivery status,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26007305) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 28/8. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+עדי
+שירות לקוחות Harbor & Pine",2026-09-11
+D-133,EM-34437,34437,2026-09-11,email,שאלה על מוצר,"שלום, מה המידות המדויקות של שטיח 200x290 Ankara לבן? יעבור בדלת של 80 ס""מ?
+
+[NAME] [PHONE]",0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+אחמד",2026-09-14
+D-134,EM-34443,34443,2026-09-11,email,Возврат,"Хочу вернуть угловой диван Oslo, не подошёл по размеру. Как оформить возврат? Заказ SO26008076
+
+Отправлено с iPhone",0,SO26008076,"order SO26008076 · Oslo corner sofa, black · supplier country Turkey · promised by 08/09/2026 · delivered on 30/08/2026",2026-09-08,,returns,ru,ru,new,Returns & refunds,ru,"Здравствуйте, [NAME]. Возврат возможен в течение 14 дней в оригинальном состоянии. Стоимость вывоза 250 ₪. Деньги вернутся в течение 14 рабочих дней после получения товара на складе.
+Ольга",2026-09-14
+D-135,EM-34466,34466,2026-09-13,email,Return,"I'd like to return the Palermo coffee table, terracotta, it doesn't fit the space. How do I arrange a pickup and refund? Order SO26008159
+
+Best,
+[NAME]
+[PHONE]",0,SO26008159,"order SO26008159 · Palermo coffee table, terracotta · supplier country Italy · promised by 18/09/2026 · delivered on 06/09/2026",2026-09-18,,returns,en,en,new,Returns & refunds,en,"Hi [NAME], you can return an item within 14 days in its original condition. Pickup costs ₪250. The refund is made within 14 business days after the item reaches our warehouse.
+Olga",2026-09-14
+D-136,EM-34499,34499,2026-09-13,email,Re: ההזמנה שלך התקבלה,"שלום. אני מחכה למיטה זוגית Galil אגוז כבר יותר מחודש וחצי. בטלפון אי אפשר להשיג אף אחד, מחכים 20 דק'. מה קורה עם ההזמנה SO26007631?
+
+תודה,
+ענת הראל",0,SO26007631,"order SO26007631 · Galil double bed, walnut · supplier country China · promised by 10/09/2026 · not delivered yet · expected delivery 28/09/2026 (updated by logistics)",2026-09-10,2026-09-28,wismo,he,he,new,Delivery status,he,"שלום [NAME],
+בדקתי מול מחלקת הלוגיסטיקה. המכולה עם ההזמנה שלך התעכבה בדרך וצפויה להגיע לנמל ב-21/9. לאחר שחרור מהמכס ניצור איתך קשר לתיאום משלוח. מתנצלים מאוד על העיכוב.
+טיגיסט",2026-09-14
+D-137,EM-34501,34501,2026-09-13,web_form,פנייה מטופס צור קשר - אחר,"יש לכם את כוננית Galil ירוק זית בתצוגה בסניף חיפה? רוצה לבוא לראות
+
+[NAME]
+[PHONE]",0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+עדי",2026-09-14
+D-138,EM-34513,34513,2026-09-14,email,צבעים,"שלום, מה המידות המדויקות של ספה תלת מושבית Malmo שחור? יעבור בדלת של 80 ס""מ?
+
+נשלח מה-iPhone שלי",0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+טיגיסט",2026-09-14
+D-139,EM-34596,34596,2026-09-17,email,Инструкция,"Сборщик не пришёл, хотя мы заказывали сборку. Заказ SO-26007529. Когда придёт?
+
+Отправлено с iPhone",0,SO26007529,"order SO26007529 · Yarden coffee table, natural teak · supplier country Vietnam · promised by 10/09/2026 · delivered on 15/09/2026",2026-09-10,,assembly,ru,ru,new,Assembly,ru,"Здравствуйте, [NAME]! Отправляю ссылку на инструкцию по сборке. Если не хватает детали, напишите её номер, мы вышлем.
+Яна",2026-09-18
+D-140,EM-34599,34599,2026-09-17,web_form,פנייה מטופס צור קשר - הרכבה,"Сборщик не пришёл, хотя мы заказывали сборку. Заказ SO26007529. Когда придёт?",0,SO26007529,"order SO26007529 · Yarden coffee table, natural teak · supplier country Vietnam · promised by 10/09/2026 · delivered on 15/09/2026",2026-09-10,,assembly,ru,ru,duplicate,Assembly,ru,"Здравствуйте, [NAME]! Отправляю ссылку на инструкцию по сборке. Если не хватает детали, напишите её номер, мы вышлем.
+Ольга",2026-09-18
+D-141,EM-34622,34622,2026-09-18,email,Missing part,We paid for assembly with order SO26007464 but the technician never showed up. When is he coming?,0,SO26007464,"order SO26007464 · Galil pendant lamp, natural teak · supplier country China · promised by 04/09/2026 · delivered on 14/09/2026",2026-09-04,,assembly,en,en,new,Assembly,en,"Hi [NAME], here is the link to the assembly guide (PDF and video). If a part is missing, send us its number and we'll post it.
+Daniel",2026-09-20
+D-142,EM-34687,34687,2026-09-21,email,פנייה,"מה שעות הפתיחה של התצוגה בתל אביב בחול המועד?
+
+[NAME] [PHONE]",0,,none,,,other,he,he,new,Other/כללי,he,"שלום [NAME], תודה על פנייתך. עדי",2026-09-22
+D-143,EM-34758,34758,2026-09-23,email,הזמנה SO26007795,"הי, יש עדכון לגבי המשלוח? הזמנה SO26007795. תודה מראש
+
+נשלח מה-iPhone שלי",0,SO26007795,"order SO26007795 · Bergen dresser, olive · supplier country Vietnam · promised by 20/09/2026 · not delivered yet · expected delivery 03/10/2026 (updated by logistics)",2026-09-20,2026-10-03,wismo,he,he,new,Delivery status,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26007795) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 20/9. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+עדי
+שירות לקוחות Harbor & Pine",2026-09-23
+D-144,EM-34762,34762,2026-09-23,web_form,פנייה מטופס צור קשר - אחר,"مرحبا، كنبة زاوية Sevilla في منه لون ثاني؟ وقديش مدة التوصيل؟
+
+[NAME]
+[PHONE]",0,,none,,,product_question,ar,ar,new,,ar,"مرحبا [NAME]، الالوان المتوفرة موجودة بالموقع، ومدة التوصيل بتظهر وقت الطلب.
+رامي",2026-09-23
+D-145,EM-34775,34775,2026-09-23,email,מידות,"יש לכם את ארון בגדים Ningbo ירוק זית בתצוגה בסניף חיפה? רוצה לבוא לראות
+
+[NAME] [PHONE]",0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+טיגיסט",2026-09-24
+D-146,EM-34780,34780,2026-09-24,email,Доставка,"Добрый вечер. Мы купили шкаф Lisbon в шоуруме, сказали привезут до 24.09. Уже прошло, никакой информации. Пожалуйста ответьте на русском, иврит плохо понимаю.
+
+Отправлено с iPhone",0,SO26008050,"order SO26008050 · Lisbon wardrobe, white · supplier country China · promised by 24/09/2026 · not delivered yet · expected delivery 15/10/2026 (updated by logistics)",2026-09-24,2026-10-15,wismo,ru,ru,new,Delivery status,ru,"Здравствуйте, [NAME]!
+Спасибо за обращение. Ваш заказ SO26008050 находится в процессе поставки. Ориентировочная дата доставки: 24.09. Если что-то изменится, мы сообщим.
+С уважением,
+Яна
+Служба поддержки Harbor & Pine",2026-09-24
+D-147,EM-34811,34811,2026-09-25,email,בקשה להצעת מחיר,"היי, אנחנו משפצים קומה במשרדים (Kiryat Shmona College). צריכים 24 כיסאות משרדיים ו-15 שולחנות עבודה. אפשר הצעת מחיר + זמן אספקה?
+
+נשלח מה-iPhone שלי",0,,none,,,b2b_quote,he,he,new,B2B,he,"שלום [NAME], תודה על הפנייה. העברתי את הבקשה למחלקת המכירות העסקיות, נציג יחזור אליך תוך 2 ימי עסקים.
+עדי",2026-09-27
+D-148,EM-34831,34831,2026-09-27,email,Где мой заказ,"Добрый день. Подскажите пожалуйста статус заказа SO26008113. Ждём уже больше месяца, на сайте ничего не меняется.
+
+Отправлено с iPhone",0,SO26008113,"order SO26008113 · Tavor dining table, natural teak · supplier country China · promised by 26/09/2026 · not delivered yet · expected delivery 15/10/2026 (updated by logistics)",2026-09-26,2026-10-15,wismo,ru,ru,new,Delivery status,ru,"Здравствуйте, [NAME]!
+Спасибо за обращение. Ваш заказ SO26008113 находится в процессе поставки. Ориентировочная дата доставки: 26.09. Если что-то изменится, мы сообщим.
+С уважением,
+Ольга
+Служба поддержки Harbor & Pine",2026-09-27
+D-149,EM-34851,34851,2026-09-27,email,Re: ההזמנה שלך התקבלה,"היי, רציתי לברר מה הסטטוס של הזמנה SO26008141. באתר כתוב 'בטיפול' כבר כמה שבועות. אנחנו נכנסים לדירה חדשה וחייבים לדעת מתי זה מגיע",0,SO26008141,"order SO26008141 · Galil armchair, navy · supplier country China · promised by 27/09/2026 · not delivered yet · expected delivery 15/10/2026 (updated by logistics)",2026-09-27,2026-10-15,wismo,he,he,new,Other/כללי,he,"שלום [NAME],
+בדקתי מול מחלקת הלוגיסטיקה. המכולה עם ההזמנה שלך התעכבה בדרך וצפויה להגיע לנמל ב-8/10. לאחר שחרור מהמכס ניצור איתך קשר לתיאום משלוח. מתנצלים מאוד על העיכוב.
+הילה",2026-09-27
+D-150,EM-34874,34874,2026-09-28,web_form,פנייה מטופס צור קשר - אחר,"مرحبا، بدي اتأكد انه طاولة صالون Negev رح يوصل بالموعد قبل 30/9؟ عنا عرس بالعيلة
+
+[NAME]
+[PHONE]",0,,none,,,wismo,ar,ar,new,Delivery status,ur,"مرحبا [NAME]،
+شكرا على تواصلك. طلبك SO26008097 في مرحلة التوريد من المورد. موعد التوصيل المتوقع 30/9. اذا في اي تغيير منبلغك.
+مع الاحترام،
+سمير
+خدمة الزبائن Harbor & Pine",2026-09-28
+D-151,EM-34911,34911,2026-09-28,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,"קיבלתי SMS על תיאום משלוח. אפשר רק אחרי 16:00? SO26008747
+כתובת: [ADDRESS]
+
+נשלח מה-iPhone שלי",0,SO26008747,"order SO26008747 · Bodrum double bed, white · supplier country Turkey · promised by 29/09/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 01/10/2026 (updated by logistics)",2026-09-29,2026-10-01,reschedule,he,he,new,Other/כללי,he,"שלום [NAME], עדכנו את מועד המשלוח. תקבל/י SMS עם חלון הגעה יום לפני.
+דניאל",2026-09-29
+D-152,EM-34927,34927,2026-09-29,email,Re: ההזמנה שלך התקבלה,"שלום. אני מחכה לכורסה Tavor טרקוטה כבר יותר מחודש וחצי. בטלפון אי אפשר להשיג אף אחד, מחכים 20 דק'. מה קורה עם ההזמנה SO26008138?
+
+[NAME]
+[PHONE]",0,SO26008138,"order SO26008138 · Tavor armchair, terracotta · supplier country China · promised by 27/09/2026 · not delivered yet · expected delivery 15/10/2026 (updated by logistics)",2026-09-27,2026-10-15,wismo,he,he,new,Complaint,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26008138) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 27/9. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+טיגיסט
+שירות לקוחות Harbor & Pine",2026-09-30
+D-153,EM-34947,34947,2026-09-29,email,Re: מתי מגיע?,"שלום, עניתם לי שהכל בסדר וסגרתם את הפנייה. שום דבר לא בסדר, המוצר לא הגיע!! הזמנה SO26007832
+
+נשלח מה-iPhone שלי",0,SO26007832,"order SO26007832 · Tavor armchair, oak · supplier country China · promised by 17/09/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 02/10/2026 (updated by logistics)",2026-09-17,2026-10-02,wismo,he,he,followup,Other/כללי,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26007832) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 17/9. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+טיגיסט
+שירות לקוחות Harbor & Pine",2026-09-30
+D-154,EM-34954,34954,2026-09-29,email,,"שלום, מה המידות המדויקות של כיסא משרדי Malmo אלון? יעבור בדלת של 80 ס""מ?
+
+[NAME]
+[PHONE]",0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+עדי",2026-09-30
+D-155,EM-34961,34961,2026-09-30,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,"للمرة الثالثة بسأل عن الطلب SO26008026. اذا ما في موعد واضح بدي ألغي الطلب.
+
+[NAME]
+[PHONE]",0,SO26008026,"order SO26008026 · Galil dining table, olive · supplier country China · promised by 23/09/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 03/10/2026 (updated by logistics)",2026-09-23,2026-10-03,wismo,ar,ar,followup,Delivery status,fa,"مرحبا [NAME]،
+شكرا على تواصلك. طلبك SO26008026 في مرحلة التوريد من المورد. موعد التوصيل المتوقع 23/9. اذا في اي تغيير منبلغك.
+مع الاحترام،
+لينا
+خدمة الزبائن Harbor & Pine",2026-09-30
+D-156,EM-34977,34977,2026-09-30,email,זיכוי,"שלום, ביטלתי את ההזמנה SO26008999 לפני שבועיים ועדיין לא קיבלתי את הכסף בחזרה לאשראי.
+
+תודה,
+[NAME]",0,SO26008999,"order SO26008999 · Porto armchair, navy · supplier country Turkey · promised by 06/10/2026 · delivered on 29/09/2026",2026-10-06,,returns,he,he,new,Returns & refunds,he,"שלום [NAME],
+בהתאם למדיניות ההחזרות ניתן להחזיר מוצר תוך 14 יום במצבו המקורי. דמי איסוף 250 ש""ח. הזיכוי יבוצע תוך 14 ימי עסקים מקבלת המוצר במחסן.
+עדי",2026-09-30
+D-157,EM-34999,34999,2026-10-01,email,חשבונית,"שלום, לא קיבלתי חשבונית מס על הזמנה SO26009042. אפשר לשלוח למייל הזה?
+
+[NAME]
+[PHONE]",0,SO26009042,"order SO26009042 · Hoi An double bed, black · supplier country Vietnam · promised by 28/10/2026 · not delivered yet · expected delivery 01/11/2026 (updated by logistics)",2026-10-28,2026-11-01,invoice,he,he,new,,he,"שלום [NAME], החשבונית נשלחה שוב למייל זה. אם לא התקבלה, נא לבדוק בתיקיית הספאם.
+עדי",2026-10-01
+D-158,EM-35105,35105,2026-10-04,email,תלונה,"המובילים היו גסי רוח והשאירו את הקרטון בכניסה לבניין, קומה 4 בלי מעלית. לא מקובל!
+
+[NAME] [PHONE]",0,,none,,,complaint,he,he,new,Complaint,he,"שלום [NAME], אנו מתנצלים על החוויה. העברנו את הפנייה למנהל השירות לבדיקה מול חברת ההובלה.
+אחמד",2026-10-04
+D-159,EM-35123,35123,2026-10-04,email,Office chairs factory direct,Invoice #INV-88213 overdue - please see attached document and pay today.,0,,none,,,spam,en,none,new,Spam,nl,,
+D-160,EM-35142,35142,2026-10-05,web_form,פנייה מטופס צור קשר - מוצר פגום,"Здравствуйте, сегодня привезли кресло Milano, при распаковке обнаружили повреждение: сломана дверца шкафа. Фото прилагаю. Прошу заменить. Заказ 26008669
+
+[NAME]",4,SO26008669,"order SO26008669 · Milano armchair, white · supplier country Italy · promised by 04/10/2026 · delivered on 04/10/2026",2026-10-04,,damage,ru,ru,new,Delivery damage,ru,"Здравствуйте, [NAME]. Очень жаль. Мы открыли заявку на повреждение № DC-26-129. Пришлите, пожалуйста, фото повреждения и наклейки на коробке. Мы свяжемся с вами после проверки.
+Ольга",2026-10-05
+D-161,EM-35215,35215,2026-10-07,email,وين الطلبية,"السلام عليكم، بدي اعرف شو صار بالطلب رقم SO26008292. صار الي اكثر من شهر بستنى
+
+[NAME]
+[PHONE]",0,SO26008292,"order SO26008292 · Sevilla corner sofa, black · supplier country China · promised by 03/10/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 10/10/2026 (updated by logistics)",2026-10-03,2026-10-10,wismo,ar,ar,new,Other/כללי,ar,"مرحبا [NAME]،
+شكرا على تواصلك. طلبك SO26008292 في مرحلة التوريد من المورد. موعد التوصيل المتوقع 3/10. اذا في اي تغيير منبلغك.
+مع الاحترام،
+رامي
+خدمة الزبائن Harbor & Pine",2026-10-08
+D-162,EM-35218,35218,2026-10-07,web_form,פנייה מטופס צור קשר - אחר,"הרגל של הכורסה נשברה אחרי שנה וחצי. יש אחריות?
+
+נשלח מה-iPhone שלי",0,,none,,,other,he,he,new,Other/כללי,he,"שלום [NAME], תודה על פנייתך. דניאל",2026-10-08
+D-163,EM-35224,35224,2026-10-08,email,الطلب SO26008475,مرحبا، اشترينا ثريا Aarhus من المعرض بحيفا وحكولي بوصل قبل 8/10. لليوم ما في اي خبر. بترجاكم ردو علي,0,SO26008475,"order SO26008475 · Aarhus pendant lamp, terracotta · supplier country China · promised by 08/10/2026 · not delivered yet · expected delivery 25/10/2026 (updated by logistics)",2026-10-08,2026-10-25,wismo,ar,ar,new,Other/כללי,fa,"مرحبا [NAME]،
+فحصت مع قسم اللوجستيكا. الحاوية اللي فيها طلبك تأخرت بالطريق ومتوقع توصل الميناء بتاريخ 18/10. بعد الجمارك منتواصل معك لتنسيق التوصيل. بنعتذر عن التأخير.
+أحمد",2026-10-08
+D-164,EM-35230,35230,2026-10-08,email,מתי מגיע?,"שלום. אני מחכה לארון בגדים Negev אגוז כבר יותר מחודש וחצי. בטלפון אי אפשר להשיג אף אחד, מחכים 20 דק'. מה קורה עם ההזמנה SO26008233?
+
+תודה,
+סיון נבון",0,SO26008233,"order SO26008233 · Negev wardrobe, walnut · supplier country Vietnam · promised by 05/10/2026 · not delivered yet · expected delivery 21/10/2026 (updated by logistics)",2026-10-05,2026-10-21,wismo,he,he,new,Other/כללי,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26008233) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 5/10. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+מורן
+שירות לקוחות Harbor & Pine",2026-10-08
+D-165,EM-35233,35233,2026-10-08,web_form,Contact form: Order status,"Это уже третье обращение. Если не получу реальную дату, буду отменять заказ.
+
+Отправлено с iPhone",0,SO26008030,"order SO26008030 · Tavor dining table, walnut · supplier country China · promised by 24/09/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 11/10/2026 (updated by logistics)",2026-09-24,2026-10-11,wismo,ru,ru,followup,Delivery status,ru,"Здравствуйте, [NAME]!
+Спасибо за обращение. Ваш заказ SO26008030 находится в процессе поставки. Ориентировочная дата доставки: 24.09. Если что-то изменится, мы сообщим.
+С уважением,
+Яна
+Служба поддержки Harbor & Pine",2026-10-11
+D-166,EM-35241,35241,2026-10-08,email,מתי מגיע?,"שלום,
+הזמנתי שולחן אוכל Carmel בז' ב-24/8 (הזמנה SO26008228) ונאמר לי שהמשלוח יגיע עד 5/10. התאריך עבר ואף אחד לא חזר אליי.
+איפה ההזמנה???",0,SO26008228,"order SO26008228 · Carmel dining table, beige · supplier country Vietnam · promised by 05/10/2026 · not delivered yet · expected delivery 21/10/2026 (updated by logistics)",2026-10-05,2026-10-21,wismo,he,he,new,Delivery status,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26008228) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 5/10. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+שני
+שירות לקוחות Harbor & Pine",2026-10-11
+D-167,EM-35281,35281,2026-10-10,web_form,פנייה מטופס צור קשר - הרכבה,"שוב לגבי ההרכבה, אף אחד לא הגיע גם היום. SO26008773",0,SO26008773,"order SO26008773 · Izmir armchair, olive · supplier country Turkey · promised by 30/09/2026 · delivered on 01/10/2026",2026-09-30,,assembly,he,he,followup,Assembly,he,"שלום [NAME],
+מצורף קישור להוראות ההרכבה (PDF) וסרטון. אם חסר חלק, נא לציין את מספר החלק ונשלח בדואר. לתיאום מרכיב: 03-9xx-xxxx שלוחה 3.
+אחמד",2026-10-11
+D-168,EM-35292,35292,2026-10-10,web_form,Contact form: Order status,Пишу второй раз! Мне ответили что заказ 26008432 будет до 11.10. Его нет. Сколько можно ждать?,0,SO26008432,"order SO26008432 · Bergen coffee table, white · supplier country Vietnam · promised by 11/10/2026 · not delivered yet · expected delivery 21/10/2026 (updated by logistics)",2026-10-11,2026-10-21,wismo,ru,ru,followup,,ru,"Здравствуйте, [NAME]!
+Спасибо за обращение. Ваш заказ 26008432 находится в процессе поставки. Ориентировочная дата доставки: 11.10. Если что-то изменится, мы сообщим.
+С уважением,
+Сергей
+Служба поддержки Harbor & Pine",2026-10-11
+D-169,EM-35296,35296,2026-10-10,email,הזמנה SO26008261,"שלום. אני מחכה לשידה Da Nang ירוק זית כבר יותר מחודש וחצי. בטלפון אי אפשר להשיג אף אחד, מחכים 20 דק'. מה קורה עם ההזמנה SO26008261?
+
+תודה,
+[NAME]",0,SO26008261,"order SO26008261 · Da Nang dresser, olive · supplier country Vietnam · promised by 06/10/2026 · not delivered yet · expected delivery 21/10/2026 (updated by logistics)",2026-10-06,2026-10-21,wismo,he,he,new,Delivery status,he,"שלום [NAME],
+בדקתי מול מחלקת הלוגיסטיקה. המכולה עם ההזמנה שלך התעכבה בדרך וצפויה להגיע לנמל ב-14/10. לאחר שחרור מהמכס ניצור איתך קשר לתיאום משלוח. מתנצלים מאוד על העיכוב.
+טיגיסט",2026-10-11
+D-170,EM-35307,35307,2026-10-11,email,وين الطلبية,"مساء الخير، متى بوصل الطلب؟ SO26008244
+
+[NAME]
+[PHONE]",0,SO26008244,"order SO26008244 · Negev double bed, olive · supplier country Vietnam · promised by 06/10/2026 · not delivered yet · expected delivery 21/10/2026 (updated by logistics)",2026-10-06,2026-10-21,wismo,ar,ar,new,Product info,ar,"مرحبا [NAME]،
+شكرا على تواصلك. طلبك SO26008244 في مرحلة التوريد من المورد. موعد التوصيل المتوقع 6/10. اذا في اي تغيير منبلغك.
+مع الاحترام،
+رامي
+خدمة الزبائن Harbor & Pine",2026-10-11
+D-171,EM-35325,35325,2026-10-11,email,Re: ההזמנה שלך התקבלה,"ببعتها مرة ثانية
+
+مرحبا،
+طلبت طاولة صالون Ningbo بتاريخ 2/9، رقم الطلب SO26008530، وحكولي التوصيل لغاية 10/10. التاريخ مر وما حدا حكى معي. وين الطلبية؟
+
+[NAME]
+[PHONE]",0,SO26008530,"order SO26008530 · Ningbo coffee table, navy · supplier country China · promised by 10/10/2026 · not delivered yet · expected delivery 25/10/2026 (updated by logistics)",2026-10-10,2026-10-25,wismo,ar,ar,duplicate,Product info,ar,"مرحبا [NAME]،
+شكرا على تواصلك. طلبك SO26008530 في مرحلة التوريد من المورد. موعد التوصيل المتوقع 10/10. اذا في اي تغيير منبلغك.
+مع الاحترام،
+لينا
+خدمة الزبائن Harbor & Pine",2026-10-11
+D-172,EM-35338,35338,2026-10-11,web_form,פנייה מטופס צור קשר - אחר,"(שלחתי גם בטופס באתר)
+
+שלום,
+הזמנתי כוננית Malmo טרקוטה ב-31/8 (הזמנה SO26008472) ונאמר לי שהמשלוח יגיע עד 8/10. התאריך עבר ואף אחד לא חזר אליי.
+איפה ההזמנה???
+
+[NAME]
+[PHONE]",0,SO26008472,"order SO26008472 · Malmo bookcase, terracotta · supplier country China · promised by 08/10/2026 · not delivered yet · expected delivery 25/10/2026 (updated by logistics)",2026-10-08,2026-10-25,wismo,he,he,duplicate,Delivery status,,"שלום [NAME],
+בדקתי מול מחלקת הלוגיסטיקה. המכולה עם ההזמנה שלך התעכבה בדרך וצפויה להגיע לנמל ב-18/10. לאחר שחרור מהמכס ניצור איתך קשר לתיאום משלוח. מתנצלים מאוד על העיכוב.
+הילה",2026-10-12
+D-173,EM-35370,35370,2026-10-12,email,Order SO26007644 arrived damaged,"I sent photos of the damage a week ago and heard nothing back. What's happening with the replacement? Order SO26007644
+
+Best,
+[NAME]
+[PHONE]",0,SO26007644,"order SO26007644 · Bergen dresser, grey · supplier country Vietnam · promised by 14/09/2026 · delivered on 04/10/2026",2026-09-14,,damage,en,en,followup,Delivery damage,,"שלום [NAME],
+מצטערים לשמוע. פתחנו עבורך תביעת נזק מס' DC-26-0xx. נא לשלוח תמונות של הנזק ושל מדבקת הקרטון אם עוד לא שלחת. נחזור אליך לאחר בדיקה.
+רינה, תביעות
+שירות לקוחות Harbor & Pine",2026-10-13
+D-174,EM-35384,35384,2026-10-13,email,מוצר פגום,המשלוח הגיע היום. בפתיחת הקרטון ראינו שהזכוכית של השולחן מנופצת. המובילים כבר הלכו. מבקש החלפה. הזמנה SO26008078,3,SO26008078,"order SO26008078 · Hoi An bookcase, olive · supplier country Vietnam · promised by 29/09/2026 · delivered on 12/10/2026",2026-09-29,,damage,he,he,new,Complaint,he,"שלום [NAME],
+מצטערים לשמוע. פתחנו עבורך תביעת נזק מס' DC-26-136. נא לשלוח תמונות של הנזק ושל מדבקת הקרטון אם עוד לא שלחת. נחזור אליך לאחר בדיקה.
+רינה, תביעות
+שירות לקוחות Harbor & Pine",2026-10-13
+D-175,EM-35389,35389,2026-10-13,email,הלוואה מהירה,"הלוואות עד 50,000 ש""ח ללא בטחונות! לחץ כאן",0,,none,,,spam,he,none,new,Spam,,,
+D-176,EM-35393,35393,2026-10-13,web_form,פנייה מטופס צור קשר - אחר,"יש לכם את פינת ישיבה Aarhus לבן בתצוגה בסניף חיפה? רוצה לבוא לראות
+
+תודה,
+[NAME]",0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+שני",2026-10-14
+D-177,EM-35397,35397,2026-10-14,email,הזמנה SO26008698,"שלום, הזמנתי שולחן אוכל Carmel טרקוטה לפני כמה שבועות. רק רציתי לוודא שהמשלוח עדיין בזמן ל-19/10? יש לנו אירוע משפחתי
+
+תודה,
+[NAME]",0,SO26008698,"order SO26008698 · Carmel dining table, terracotta · supplier country Vietnam · promised by 19/10/2026 · not delivered yet · expected delivery 06/11/2026 (updated by logistics)",2026-10-19,2026-11-06,wismo,he,he,new,Other/כללי,,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26008698) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 19/10. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+יאנה
+שירות לקוחות Harbor & Pine",2026-10-14
+D-178,EM-35441,35441,2026-10-15,email,סטטוס הזמנה,"ערב טוב, ההזמנה שלי SO26008523 הייתה אמורה להגיע השבוע. אפשר לדעת מה קורה איתה? לקחתי יום חופש מהעבודה בשביל זה
+
+נשלח מה-iPhone שלי",0,SO26008523,"order SO26008523 · Carmel dining table, terracotta · supplier country Vietnam · promised by 14/10/2026 · not delivered yet · expected delivery 01/11/2026 (updated by logistics)",2026-10-14,2026-11-01,wismo,he,he,new,Delivery status,he,"שלום [NAME],
+בדקתי מול מחלקת הלוגיסטיקה. המכולה עם ההזמנה שלך התעכבה בדרך וצפויה להגיע לנמל ב-25/10. לאחר שחרור מהמכס ניצור איתך קשר לתיאום משלוח. מתנצלים מאוד על העיכוב.
+שני",2026-10-15
+D-179,EM-35458,35458,2026-10-15,web_form,פנייה מטופס צור קשר - אחר,"אפשר לקבל את הקטלוג החדש במייל?
+
+תודה,
+[NAME]",0,,none,,,other,he,he,new,Product info,he,"שלום [NAME], תודה על פנייתך. אחמד",2026-10-16
+D-180,EM-35480,35480,2026-10-16,email,עיכוב במשלוח,"שלום. אני מחכה לשולחן עבודה Lisbon בז' כבר יותר מחודש וחצי. בטלפון אי אפשר להשיג אף אחד, מחכים 20 דק'. מה קורה עם ההזמנה SO26008617?
+
+[NAME]
+[PHONE]",0,SO26008617,"order SO26008617 · Lisbon desk, beige · supplier country China · promised by 12/10/2026 · not delivered yet · expected delivery 25/10/2026 (updated by logistics)",2026-10-12,2026-10-25,wismo,he,he,new,Product info,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26008617) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 12/10. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+הילה
+שירות לקוחות Harbor & Pine",2026-10-18
+D-181,EM-35493,35493,2026-10-17,email,מתי מגיע?,"שלום, הזמנתי ארון בגדים Porto לבן לפני כמה שבועות. רק רציתי לוודא שהמשלוח עדיין בזמן ל-29/10? יש לנו אירוע משפחתי
+
+תודה,
+[NAME]",0,SO26009732,"order SO26009732 · Porto wardrobe, white · supplier country Turkey · promised by 29/10/2026 · not delivered yet · expected delivery 29/10/2026 (updated by logistics)",2026-10-29,2026-10-29,wismo,he,he,new,Returns & refunds,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26009732) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 29/10. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+טיגיסט
+שירות לקוחות Harbor & Pine",2026-10-18
+D-182,EM-35503,35503,2026-10-18,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,"זו כבר הפנייה השלישית שלי בנושא הזמנה SO26008361. אם לא אקבל תאריך אמיתי עד מחר אני מבטלת את ההזמנה ופונה לחברת האשראי.
+
+[NAME] [PHONE]",0,SO26008361,"order SO26008361 · Negev outdoor lounge set, navy · supplier country Vietnam · promised by 08/10/2026 · delivered on 18/10/2026",2026-10-08,,wismo,he,he,followup,Delivery status,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26008361) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 8/10. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+שני
+שירות לקוחות Harbor & Pine",2026-10-18
+D-183,EM-35523,35523,2026-10-18,email,הרכבה,"קיבלנו את פינת ישיבה Aarhus אגוז אבל אין הוראות הרכבה בקופסה. איך מרכיבים? יש סרטון?
+
+[NAME]
+[PHONE]",0,SO26008447,"order SO26008447 · Aarhus corner sofa, walnut · supplier country China · promised by 07/10/2026 · delivered on 15/10/2026",2026-10-07,,assembly,he,he,new,Assembly,he,"שלום [NAME],
+מצורף קישור להוראות ההרכבה (PDF) וסרטון. אם חסר חלק, נא לציין את מספר החלק ונשלח בדואר. לתיאום מרכיב: 03-9xx-xxxx שלוחה 3.
+דניאל",2026-10-19
+D-184,EM-35527,35527,2026-10-18,email,לא מקובל,"לא קיבלתי שום התייחסות לתלונה שלי. SO26009569
+
+[NAME]
+[PHONE]",0,SO26009569,"order SO26009569 · Bodrum double bed, white · supplier country Turkey · promised by 23/10/2026 · delivered on 11/10/2026",2026-10-23,,complaint,he,he,followup,Complaint,yi,"שלום [NAME], אנו מתנצלים על החוויה. העברנו את הפנייה למנהל השירות לבדיקה מול חברת ההובלה.
+מורן",2026-10-19
+D-185,EM-35568,35568,2026-10-19,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,"שלום,
+הזמנתי שולחן סלון Malmo אפור ב-10/9 (הזמנה SO26008839) ונאמר לי שהמשלוח יגיע עד 18/10. התאריך עבר ואף אחד לא חזר אליי.
+איפה ההזמנה???
+
+[NAME]
+[PHONE]",0,SO26008839,"order SO26008839 · Malmo coffee table, grey · supplier country China · promised by 18/10/2026 · not delivered yet · expected delivery 01/11/2026 (updated by logistics)",2026-10-18,2026-11-01,wismo,he,he,new,Delivery status,he,"שלום [NAME],
+בדקתי מול מחלקת הלוגיסטיקה. המכולה עם ההזמנה שלך התעכבה בדרך וצפויה להגיע לנמל ב-25/10. לאחר שחרור מהמכס ניצור איתך קשר לתיאום משלוח. מתנצלים מאוד על העיכוב.
+טיגיסט",2026-10-20
+D-186,EM-35587,35587,2026-10-20,email,Mailbox full - action required,"Dear Sir/Madam, we are a leading manufacturer of office chairs in Foshan with 15 years experience. Attached is our catalog. MOQ 50 pcs. Best price guaranteed.",1,,none,,,spam,en,none,new,Spam,en,,
+D-187,EM-35598,35598,2026-10-20,email,,הרגל של הכורסה נשברה אחרי שנה וחצי. יש אחריות?,0,,none,,,other,he,he,new,Other/כללי,he,"שלום [NAME], תודה על פנייתך. יאנה",2026-10-21
+D-188,EM-35647,35647,2026-10-22,email,توصيل,مساء الخير، متى بوصل الطلب؟ SO26008822,0,SO26008822,"order SO26008822 · Ningbo dining chair, navy · supplier country China · promised by 18/10/2026 · not delivered yet · expected delivery 01/11/2026 (updated by logistics)",2026-10-18,2026-11-01,wismo,ar,ar,new,Delivery status,ar,"مرحبا [NAME]،
+شكرا على تواصلك. طلبك SO26008822 في مرحلة التوريد من المورد. موعد التوصيل المتوقع 18/10. اذا في اي تغيير منبلغك.
+مع الاحترام،
+لينا
+خدمة الزبائن Harbor & Pine",2026-10-22
+D-189,EM-35683,35683,2026-10-24,email,Re: ההזמנה שלך התקבלה,"שלום,
+הזמנתי שידה Aarhus לבן ב-15/9 (הזמנה SO26008988) ונאמר לי שהמשלוח יגיע עד 23/10. התאריך עבר ואף אחד לא חזר אליי.
+איפה ההזמנה???
+
+[NAME] [PHONE]",0,SO26008988,"order SO26008988 · Aarhus dresser, white · supplier country China · promised by 23/10/2026 · not delivered yet · expected delivery 05/11/2026 (updated by logistics)",2026-10-23,2026-11-05,wismo,he,he,new,Other/כללי,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26008988) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 23/10. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+הילה
+שירות לקוחות Harbor & Pine",2026-10-25
+D-190,EM-35697,35697,2026-10-25,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,"היי, אפשר לדעת אם ההזמנה SO26009332 יוצאת בזמן? תודה
+
+תודה,
+[NAME]",0,SO26009332,"order SO26009332 · Galil armchair, beige · supplier country China · promised by 02/11/2026 · not delivered yet · expected delivery 12/11/2026 (updated by logistics)",2026-11-02,2026-11-12,wismo,he,he,new,Product info,,"שלום [NAME],
+בדקתי מול מחלקת הלוגיסטיקה. המכולה עם ההזמנה שלך התעכבה בדרך וצפויה להגיע לנמל ב-5/11. לאחר שחרור מהמכס ניצור איתך קשר לתיאום משלוח. מתנצלים מאוד על העיכוב.
+אחמד",2026-10-25
+D-191,EM-35712,35712,2026-10-25,email,מוצר פגום,"שלום רב, מנורה תלויה Aarhus טיק טבעי שהזמנו (הזמנה SO26008603) הגיע עם נזק: הזכוכית של השולחן מנופצת. שילמנו הרבה כסף ואנחנו מאוד מאוכזבים. מבקשים פתרון מהיר.
+כתובת למסירה: [ADDRESS]",2,SO26008603,"order SO26008603 · Aarhus pendant lamp, natural teak · supplier country China · promised by 12/10/2026 · delivered on 25/10/2026",2026-10-12,,damage,he,he,new,Other/כללי,,"שלום [NAME],
+מצטערים לשמוע. פתחנו עבורך תביעת נזק מס' DC-26-146. נא לשלוח תמונות של הנזק ושל מדבקת הקרטון אם עוד לא שלחת. נחזור אליך לאחר בדיקה.
+רינה, תביעות
+שירות לקוחות Harbor & Pine",2026-10-25
+D-192,EM-35726,35726,2026-10-25,web_form,Contact form: Damaged item,"Sending again in case the first one didn't go through
+
+Hello, order SO26008363 arrived but the glass top is shattered. The delivery guys left before we opened the box. What now?
+
+Sent from my iPhone",3,SO26008363,"order SO26008363 · Como coffee table, beige · supplier country Italy · promised by 25/09/2026 · delivered on 22/09/2026",2026-09-25,,damage,en,en,duplicate,Delivery damage,en,"Hi [NAME], we're sorry to hear that. We have opened damage claim DC-26-0xx. Please send photos of the damage and of the label on the box if you haven't already. We'll get back to you after review.
+Daniel",2026-10-26
+D-193,EM-35756,35756,2026-10-25,web_form,Contact form: Order status,"Hello, any update on order SO26009089? Still waiting. Thanks
+
+Sent from my iPhone",0,SO26009089,"order SO26009089 · Aarhus bookcase, natural teak · supplier country China · promised by 25/10/2026 · not delivered yet · expected delivery 05/11/2026 (updated by logistics)",2026-10-25,2026-11-05,wismo,en,en,new,Complaint,en,"Hi [NAME],
+Thank you for your patience. Your order SO26009089 is on its way from our supplier. The estimated delivery date is 25 Oct. We will let you know if anything changes.
+Best regards,
+Olga
+Harbor & Pine Customer Care",2026-10-26
+D-194,EM-35784,35784,2026-10-26,email,אחריות,"שלום, ראיתי שאתם מחפשים עובדים למחסן בראשון. למי שולחים קו""ח?
+
+תודה,
+[NAME]",0,,none,,,other,he,he,new,Complaint,he,"שלום [NAME], תודה על פנייתך. עדי",2026-10-26
+D-195,EM-35842,35842,2026-10-28,email,,"כמה זמן לוקח משלוח לאילת?
+
+תודה,
+[NAME]",0,,none,,,product_question,he,he,new,Other/כללי,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+דניאל",2026-10-29
+D-196,EM-35848,35848,2026-10-28,email,תיאום משלוח,אפשר להזיז את המשלוח ליום אחר? לא נהיה בבית ביום חמישי. הזמנה SO26008881,0,SO26008881,"order SO26008881 · Aarhus bookcase, natural teak · supplier country China · promised by 19/10/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 31/10/2026 (updated by logistics)",2026-10-19,2026-10-31,reschedule,he,he,new,Other/כללי,he,"שלום [NAME], עדכנו את מועד המשלוח. תקבל/י SMS עם חלון הגעה יום לפני.
+הילה",2026-10-29
+D-197,EM-35859,35859,2026-10-29,email,,"יש לכם את ארון בגדים Oslo בז' בתצוגה בסניף חיפה? רוצה לבוא לראות
+
+תודה,
+[NAME]",0,,none,,,product_question,he,he,new,Product info,he,"שלום [NAME], המוצר זמין בצבעים המופיעים באתר. זמן אספקה משוער מופיע בעמוד המוצר בעת ההזמנה. מוזמנים לתצוגה בתל אביב או בחיפה.
+מורן",2026-10-29
+D-198,EM-35863,35863,2026-10-29,web_form,פנייה מטופס צור קשר - סטטוס הזמנה,"שלום רב,
+ביום 16/9 רכשתי באתר ארון בגדים Negev אגוז. הובטח משלוח עד 28/10. עד היום לא קיבלתי שום עדכון, לא SMS ולא מייל. אשמח לתשובה מתי צפוי המשלוח.
+תודה
+
+[NAME]
+[PHONE]",0,SO26009048,"order SO26009048 · Negev wardrobe, walnut · supplier country Vietnam · promised by 28/10/2026 · container arrived at port, delivery being scheduled · not delivered yet · expected delivery 01/11/2026 (updated by logistics)",2026-10-28,2026-11-01,wismo,he,he,new,Delivery status,he,"שלום [NAME],
+תודה על פנייתך ועל הסבלנות. ההזמנה שלך (SO26009048) נמצאת בתהליך אספקה מהספק. מועד האספקה המשוער הוא 28/10. במידה ויהיה שינוי נעדכן אותך.
+בברכה,
+אולגה
+שירות לקוחות Harbor & Pine",2026-10-29
+D-199,EM-35888,35888,2026-10-30,email,Вопрос,"Здравствуйте, сломалась ножка кресла через год. Это гарантия?
+
+[NAME]",0,,none,,,other,ru,ru,new,Other/כללי,ru,,
+D-200,EM-35912,35912,2026-10-31,email,משלוח,"(שלחתי גם בטופס באתר)
+
+מתי מגיעה ההזמנה?? מספר SO26009283
+
+[NAME]
+[PHONE]",0,SO26009283,"order SO26009283 · Galil pendant lamp, olive · supplier country China · promised by 31/10/2026 · not delivered yet · expected delivery 12/11/2026 (updated by logistics)",2026-10-31,2026-11-12,wismo,he,he,duplicate,Delivery status,he,,

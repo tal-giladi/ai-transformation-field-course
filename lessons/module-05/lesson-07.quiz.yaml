@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    The integrator proposes to log the full customer message and the full draft for every ticket in a
+    new log database "for analysis". What do you put in the logging spec instead?
+  options:
+    - >-
+      Both texts, but encrypted, so the analysis remains possible and the data is protected.
+    - >-
+      References, versions, decisions and numbers; the texts stay in the helpdesk under its own rules.
+    - >-
+      Only the drafts, since the customer messages are already stored in the helpdesk anyway.
+    - >-
+      Nothing per ticket, only daily totals, so no personal data is logged anywhere at all.
+  correct: 1
+  explanation: >-
+    A second copy of every message is a second database to secure, justify and delete. The log needs
+    to answer what went in, what came out, from which model and prompt, and what the person did; it
+    can point to the text by ticket id. Daily totals alone cannot support an incident review.
+
+- id: q2
+  question: >-
+    The provider e-mails that the model your pilot uses will be retired in 70 days. What does your
+    change control require?
+  options:
+    - >-
+      Switch to the recommended replacement on the retirement date, since the provider tested it.
+    - >-
+      Wait for the first weekly spot audit after the switch, then roll back if quality falls.
+    - >-
+      Ask the provider for a written guarantee that the replacement behaves the same way.
+    - >-
+      Treat it as a major change: full eval, negative tests and a week of shadow before switching.
+  correct: 3
+  explanation: >-
+    A different model is a different system, whoever recommends it. The re-run happens before the
+    switch, well ahead of the retirement date, with the same test set and negative tests, so a drop in
+    any language is found before customers see it.
+
+- id: q3
+  question: >-
+    Which monitoring entry is complete?
+  options:
+    - >-
+      "Discard rate per language, weekly; below 5% while acceptance is under 90%: Samir audits 20 sends."
+    - >-
+      "Dashboard of acceptance, review time and cost, reviewed by the team when there is time."
+    - >-
+      "Alert when quality drops, so the right people can investigate and take action quickly."
+    - >-
+      "Acceptance rate per language, tracked continuously and reported to the steering committee."
+  correct: 0
+  explanation: >-
+    A signal needs an indicator, a threshold, a cadence, an owner and a response. The other entries
+    name what to watch but not when it triggers, who acts or what they do.
+
+- id: q4
+  question: >-
+    An agent with admin rights notices the helpdesk's own AI add-on can auto-send "high confidence"
+    replies, and switches it on for invoice questions to save time. How should change control treat it?
+  options:
+    - >-
+      As a local process improvement that the team lead can approve without further steps.
+    - >-
+      As acceptable, since invoice questions are low risk and the pilot already drafts them.
+    - >-
+      As a major change through the intake register and the steering committee; revert it now.
+    - >-
+      As a vendor matter: the vendor is responsible for what its own features send to customers.
+  correct: 2
+  explanation: >-
+    Turning on a vendor AI feature that sends without a person is a new stage of autonomy and a new
+    data flow. It goes through intake and the committee; the monthly settings audit exists to catch
+    exactly this, and the admin list should be short.
+
+- id: q5
+  question: >-
+    One week's spot audit of 20 Arabic replies shows 14 accepted (70%), down from 80% the week before.
+    What do you do?
+  options:
+    - >-
+      Switch Arabic drafts off at once, since the threshold has been reached this week.
+    - >-
+      Read it with the rolling figure and act if it repeats next week; react today only to safety events.
+    - >-
+      Ignore it: twenty items are too few to measure anything, so only monthly figures count.
+    - >-
+      Raise the Arabic sample to 100 a week permanently, so each week can be read on its own.
+  correct: 1
+  explanation: >-
+    With 20 items one week's figure moves by about 17 points by chance. The stop rule acts on two
+    weeks in a row and on the rolling figure; safety and privacy events are the exception and get a
+    same-day response. A five-fold sample would cost more review time than the signal is worth.

@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    The business case's gate 1 says "at least 80% of drafts accepted, at least 70% in each language".
+    The pilot team proposes "75% acceptance overall" as the charter's success threshold because it
+    feels more achievable. What do you do?
+  options:
+    - >-
+      Accept 75% for the charter and keep 80% for the board, since the two documents serve different readers.
+    - >-
+      Use the gate-1 conditions word for word in the charter, or change both documents together.
+    - >-
+      Use 75% overall and drop the per-language condition, since the languages will average out.
+    - >-
+      Leave the threshold open until the offline evaluation shows what the model can reach.
+  correct: 1
+  explanation: >-
+    Two different thresholds let each reader pick the one that suits them when the result arrives.
+    The charter and the business case must test the same numbers on the same date; if one changes,
+    both change, openly.
+
+- id: q2
+  question: >-
+    Which rule of use is complete enough to run?
+  options:
+    - >-
+      "A human reviews every AI output before it is sent, and the team lead monitors quality each week."
+    - >-
+      "The AI drafts replies and categories; agents use their judgment and escalate when unsure."
+    - >-
+      "The AI may send routine replies; agents check anything the model marks as low confidence."
+    - >-
+      "AI decides nothing alone; any agent overrides; two named people clear flags; overrides logged."
+  correct: 3
+  explanation: >-
+    A rule of use answers three questions: what the output may decide, who may override what, and
+    how the override is recorded. "A human reviews" answers none of them precisely, and sending on
+    model confidence gives the output a decision it has not earned.
+
+- id: q3
+  question: >-
+    The date fix goes live in January and is expected to cut "where is my order?" volume. In April
+    you must show Ronit how many agent hours the drafts saved. Which measurement design holds up?
+  options:
+    - >-
+      Compare minutes per contact on drafted tickets with a random 10% holdout that got no draft.
+    - >-
+      Compare total support hours in March with total support hours in November.
+    - >-
+      Ask agents in a survey how much time the drafts save them on an average day.
+    - >-
+      Compare the pilot team's hours with those of the showroom team over the same weeks.
+  correct: 0
+  explanation: >-
+    Totals mix the date fix, the end of the peak and the new channel. A random holdout keeps the same
+    agents, weeks and message mix, so the difference in minutes per contact is the drafts' effect;
+    self-report and an unlike team are not comparable instruments.
+
+- id: q4
+  question: >-
+    Average handling time on drafted tickets fell by a third in the first month. Which number do you
+    need next to it before you report it as a saving?
+  options:
+    - >-
+      The number of drafts generated, to show the tool was used at scale.
+    - >-
+      The agents' satisfaction score with the drafting tool after the first month.
+    - >-
+      The repeat-contact rate and the share of wrong replies reaching customers.
+    - >-
+      The token cost per draft, to show the saving was not eaten by the model bill.
+  correct: 2
+  explanation: >-
+    An efficiency gain needs its paired quality metric: if agents send drafts without reading them,
+    handling time falls while repeat contacts and wrong replies rise. Usage and token cost matter, but
+    they cannot tell a real saving from a cost moved to next week.
+
+- id: q5
+  question: >-
+    In March, two weekly samples in a row show more wrong replies reaching customers than today's rate,
+    all in Arabic. The charter has stop rules. What happens?
+  options:
+    - >-
+      The pilot pauses entirely until the steering committee meets and decides on all languages.
+    - >-
+      Arabic drafts are switched off by the named owner until fixed and re-tested; the rest continues.
+    - >-
+      The team adds a second reviewer for Arabic and keeps the drafts running while they investigate.
+    - >-
+      Nothing yet: the gate is on 1 April, and the full sample will show whether Arabic recovers.
+  correct: 1
+  explanation: >-
+    A stop rule written in advance names the trigger, the action and the person, so the decision is
+    not reopened under pressure. Here it switches off only the segment that failed; waiting for the
+    gate lets more wrong replies reach customers.

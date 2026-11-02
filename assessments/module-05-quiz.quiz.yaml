@@ -1,0 +1,185 @@
+- id: q1
+  question: >-
+    The sponsor wants the drafting pilot live in two weeks. The team has a prompt that "looks great"
+    on 40 messages someone picked from the inbox, and no charter. What do you do first?
+  options:
+    - >-
+      Go live with the 40-message result and measure it properly once agents are using it daily.
+    - >-
+      Write the charter with the gates' thresholds and stop rules, then build a real test set.
+    - >-
+      Extend the 40 messages to 100 by asking the model to generate more examples just like them.
+    - >-
+      Run a vendor's benchmark set instead, since it is larger and already labelled by experts.
+  correct: 1
+  explanation: >-
+    Without a charter nobody agreed what the pilot must prove or what stops it, and 40 hand-picked
+    messages say nothing about the real stream. The charter's thresholds come from the business case;
+    the test set comes from real data, sized for those thresholds.
+
+- id: q2
+  question: >-
+    In April, minutes per written contact are down 30% since November. The date fix went live in
+    January and the peak ended in February. What lets you tell Ronit how much of that the drafts caused?
+  options:
+    - >-
+      A survey in which agents estimate how much time the drafts save them on a typical day.
+    - >-
+      Total support hours in March compared with total support hours in November last year.
+    - >-
+      A random holdout of tickets without drafts over the same weeks, compared per contact.
+    - >-
+      The model's own estimate of minutes saved, logged with every draft it produces.
+  correct: 2
+  explanation: >-
+    A holdout keeps the same agents, weeks and message mix, so the difference is the drafts' effect.
+    Totals mix the date fix, the end of the peak and the new channel; self-report and the model's
+    estimate are different instruments from the baseline.
+
+- id: q3
+  question: >-
+    Your test set has 50 Arabic messages and Arabic acceptance comes out at 72%. The gate requires
+    70% in each language. How do you report it?
+  options:
+    - >-
+      Met, at 72%, since the figure is above the threshold and was measured on real messages.
+    - >-
+      Not met, since 72% is too close to the 70% threshold to count as a pass at all.
+    - >-
+      Met for now, and ask the raters to re-rate the Arabic drafts more strictly to be sure.
+    - >-
+      Above the line but uncertain (about 58–83%); top Arabic up to 100 in production.
+  correct: 3
+  explanation: >-
+    With 50 items the interval around 72% is wide. The honest report gives the interval and plans
+    the sample that can decide it; re-rating to move a number is the opposite of measurement.
+
+- id: q4
+  question: >-
+    Keyword rules written from the development set sort 98.2% of test messages correctly; your LLM
+    sorts 97.5%. The LLM also drafts replies and raises flags. What is the sensible design?
+  options:
+    - >-
+      Route on the rules and use the model for drafts, reply language and flags.
+    - >-
+      Route on the LLM, since one system is simpler to maintain than two.
+    - >-
+      Drop the LLM entirely, since rules do the routing better and cost nothing.
+    - >-
+      Average the two predictions so that each covers the other's mistakes.
+  correct: 0
+  explanation: >-
+    The baseline shows where the model earns its place. Rules route well on these repetitive messages
+    but cannot write replies or detect injuries, legal threats or injected instructions; the model is
+    kept for what only it does.
+
+- id: q5
+  question: >-
+    Raters accept 82% of drafts. In the blind set, they also accepted most real agent replies that
+    gave a delivery date already in the past. What do you conclude?
+  options:
+    - >-
+      The drafts clearly beat the agents, which is the main finding for the steering committee.
+    - >-
+      The raters are not checking facts; tighten the rubric and re-rate before using the 82%.
+    - >-
+      The calibration set is unnecessary, since the drafts were rated by native speakers.
+    - >-
+      The agents need retraining on dates before the pilot can be evaluated fairly.
+  correct: 1
+  explanation: >-
+    The blind set tests the raters. If a wrong fact is accepted in a real reply, it is accepted in
+    drafts too, so the 82% is inflated by the same leniency.
+
+- id: q6
+  question: >-
+    The review step is budgeted at 2 minutes a draft, 64 hours a month at peak. A real check takes
+    about 3 minutes unless the order data is shown beside the draft. Samir offers a fourth reviewer
+    instead of the extra integration work. What do you recommend?
+  options:
+    - >-
+      Accept the fourth reviewer: more people checking is the safer and quicker option.
+    - >-
+      Check only drafts the model flags, so that the budgeted 64 hours are enough.
+    - >-
+      Build the source-beside-the-draft panel: it makes the 2 minutes real and helps catch errors.
+    - >-
+      Keep the design and record review time in production, then decide in April.
+  correct: 2
+  explanation: >-
+    The capacity screen shows the 2 minutes holds only with the source on screen, and the simulation
+    shows more reviewers without better information and feedback catch little more. Checking only
+    flagged drafts is not safe before the error rate is measured.
+
+- id: q7
+  question: >-
+    A wrong reply promising a refund reached a customer. The agent who sent it reads no Arabic, had
+    110 drafts waiting and no order data on screen. Who is accountable?
+  options:
+    - >-
+      The agent, because the rule of use says a person reads and sends every reply.
+    - >-
+      The model vendor, because its model produced the refund promise in the draft.
+    - >-
+      Nobody: one error in thousands of drafts is within the pilot's agreed tolerance.
+    - >-
+      The design's owner: information, time and competence were missing.
+  correct: 3
+  explanation: >-
+    Before any finding about a person, ask whether they had the information, the time, the authority
+    and the competence. Three answers are no; blaming the agent would misattribute a design failure,
+    and the prompt failure is fixed separately.
+
+- id: q8
+  question: >-
+    WhatsApp joins the helpdesk on go-live day; the offline test used only email. Which release plan
+    fits?
+  options:
+    - >-
+      Drafts on demand for email and web form; WhatsApp in shadow mode with a written exit condition.
+    - >-
+      Everything on at once, so the gate in April has the largest possible sample.
+    - >-
+      WhatsApp first, since it carries most of the volume and therefore most of the value.
+    - >-
+      Pre-filled drafts on all channels, so agents see the full benefit from day one.
+  correct: 0
+  explanation: >-
+    Each stage changes one thing and must earn the next. The tested channels start with drafts on
+    request; the untested one runs hidden until its rated sample meets the exit condition.
+
+- id: q9
+  question: >-
+    The model provider announces your model will be retired in 70 days and recommends a replacement.
+    What happens under your change control?
+  options:
+    - >-
+      Switch on the retirement date, since the provider has already tested the replacement.
+    - >-
+      Full eval, negative tests and a week of shadow on the replacement, before switching.
+    - >-
+      Switch now and watch the weekly spot audit closely for any change in quality.
+    - >-
+      Ask the provider to confirm in writing that the outputs will not change at all.
+  correct: 1
+  explanation: >-
+    A new model is a major change. It is tested before release on the same frozen test set and
+    negative tests, with time to spare before the retirement date, so a drop in any language is found
+    before customers see it.
+
+- id: q10
+  question: >-
+    Which monitoring entry would actually change what happens in the pilot?
+  options:
+    - >-
+      "Quality dashboard reviewed regularly by the team, with issues escalated as needed."
+    - >-
+      "Acceptance tracked per language and reported to the steering committee each month."
+    - >-
+      "Model outputs logged in full so that any problem can be investigated later on."
+    - >-
+      "Spot audit, 20 per language weekly; above today's rate two weeks running: segment off."
+  correct: 3
+  explanation: >-
+    A signal works only with an indicator, a threshold, a cadence, an owner and a response. The
+    other entries watch without saying when to act or what to do.

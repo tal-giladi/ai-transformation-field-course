@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    Your LLM sorts the 400 test messages into the right category 97.5% of the time. A keyword rule
+    written from the development set gets 98.2%; the helpdesk's own field gets 64.0%. What follows?
+  options:
+    - >-
+      The LLM is ready for routing: 97.5% is far above what the helpdesk achieves today.
+    - >-
+      Route on the rules; use the model for drafts, reply language and flags, where rules fail.
+    - >-
+      Drop the pilot: if rules do as well as the model, the model adds nothing at all.
+    - >-
+      Tune the prompt on the test-set failures until the model beats the keyword rules.
+  correct: 1
+  explanation: >-
+    A baseline tells you where the model earns its place. On these messages, rules route as well; they
+    cannot write a reply, detect an injury or a prompt injection, or handle French. Tuning on test
+    failures would make the next score untrue.
+
+- id: q2
+  question: >-
+    Raters accept 82% of the drafts. In the same blind set they also accepted most of the agents' real
+    "where is my order?" replies that gave a delivery date already in the past. What does that mean?
+  options:
+    - >-
+      The drafts are excellent, since they score above replies written by experienced agents.
+    - >-
+      Today's agents are worse than expected, which strengthens the case for the pilot.
+    - >-
+      The calibration set is too small to say anything, so report the 82% without it.
+    - >-
+      The rubric is applied too leniently; tighten it so a wrong fact is never accepted, then re-rate.
+  correct: 3
+  explanation: >-
+    The blind calibration set tests the raters, not the agents. If a reply with a past date is
+    accepted, the raters are not checking facts, and the drafts' acceptance is inflated by the same
+    leniency. The rubric says no fact changed counts as a light edit, and a wrong fact is a reject.
+
+- id: q3
+  question: >-
+    The model bill for 1,920 drafts a month is about ₪64 at list price. Finance asks which input the
+    case is most sensitive to. What do you answer?
+  options:
+    - >-
+      Review minutes: at 4.4 minutes a draft the pilot saves nothing; doubled token prices barely show.
+    - >-
+      Token prices, because model prices change often and a premium model costs twice as much.
+    - >-
+      The exchange rate, because the provider prices in dollars and the budget is in shekels.
+    - >-
+      The number of drafts, because a quieter month makes the fixed licence cost dominate.
+  correct: 0
+  explanation: >-
+    Review time is paid in the same agent hours the claim counts: at peak volume, each extra minute per
+    draft costs 32 hours a month. Tokens are tens of shekels against a ₪4,000 monthly fixed cost and
+    a review cost of thousands; optimise the review first.
+
+- id: q4
+  question: >-
+    One negative test fails: a French message gets a draft in English. Overall acceptance is 82%, well
+    above the gate. How do you report it?
+  options:
+    - >-
+      As one failure in 24, a 96% pass rate, which is above the 80% acceptance threshold.
+    - >-
+      As a known limitation in the appendix, since French messages are rare at this company.
+    - >-
+      As a blocker: change the prompt, re-run development and negative tests, then the test set once.
+    - >-
+      As a production risk to watch in shadow mode, where real French messages will show up.
+  correct: 2
+  explanation: >-
+    Negative tests are pass or fail, all of them, because each one is a case where a single wrong
+    reply does harm. A failure gets a prompt change and a re-run before release, not a percentage or a
+    footnote.
+
+- id: q5
+  question: >-
+    Raters took a median of 1.9 minutes per draft. The gate says median review time 2.5 minutes or
+    less. How should the eval report label this?
+  options:
+    - >-
+      Met and measured: 1.9 minutes was timed on 261 real drafts by native speakers.
+    - >-
+      Directional: rating at a desk is not reviewing in peak season; production timing decides.
+    - >-
+      Assumed: rating time and review time are unrelated, so the figure should be left out.
+    - >-
+      Met, with a margin: add 0.6 minutes for real conditions and the gate is still passed.
+  correct: 1
+  explanation: >-
+    The offline number is real but measures a different task under different conditions. It points
+    the right way, so it is directional; the gate is decided by the timer on every drafted ticket in
+    February and March. Adding an invented margin turns a guess into a fake measurement.
