@@ -28,7 +28,7 @@ export const PRESETS = {
     },
     target: { maxEscaped: 10, maxReviewerHoursPerDay: 6 },
     notes: [
-      '90 drafts a day is roughly the pilot-economics preset: 3,200 emails a month × 60% handled ÷ 22 working days.',
+      '90 drafts a day is roughly the pilot-economics preset: 3,200 written contacts a month × 60% handled ÷ 22 working days.',
       'The pilot-economics preset assumes 2 review minutes per draft. Here a real check takes 3, or about 2 with the source beside the draft.',
     ],
   },

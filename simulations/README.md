@@ -61,7 +61,7 @@ All presets are in each folder's `presets.js` (pure data). Numbers for `harbor` 
 
 | Parameter | Meaning | `harbor` | `generic` |
 |---|---|---|---|
-| `volume` | items per month in scope | 3,200 non-WISMO emails | 10,000 invoices |
+| `volume` | items per month in scope | 3,200 written contacts | 10,000 invoices |
 | `automationRate` | share the AI handles (0–1) | 0.6 | 0.85 |
 | `accuracy` | share of AI outputs right (0–1) | 0.8 | 0.92 |
 | `minutesSaved` | minutes saved per right output | 8 | 4 |
@@ -74,7 +74,7 @@ All presets are in each folder's `presets.js` (pure data). Numbers for `harbor` 
 | `fixedMonthly` | ₪ a month | 4,000 | 8,000 |
 | `buildCost` | one-off ₪ | 120,000 (under the ₪150k board line) | 250,000 |
 
-Result for `harbor`: about ₪10,051 a month, 108.8 net hours (0.6 FTE), breakeven 11.9 months,
+Result for `harbor`: about ₪10,048 a month (exchange rate 3.70), 108.8 net hours (0.6 FTE), breakeven 11.9 months,
 breakeven accuracy 61.4%, at most 4.4 review minutes per draft before it loses money.
 
 ### oversight-under-load

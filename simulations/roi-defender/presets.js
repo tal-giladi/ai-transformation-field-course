@@ -30,7 +30,7 @@ const harbor = {
   claims: [
     {
       id: 'drafts', title: 'Agents save 8 minutes on every AI-drafted reply', claimed: 319500, deckLabel: 'measured', deckClass: 'cash',
-      basis: 'Timed on 400 real emails and three weeks of shadow mode: 8 minutes saved per accepted draft, 80% accepted. 3,200 non-WISMO emails a month, 60% drafted: about 2,460 hours a year at ₪130.',
+      basis: 'Timed on 400 real emails and three weeks of shadow mode: 8 minutes saved per accepted draft, 80% accepted. 3,200 written contacts a month (email, web form and WhatsApp routed into the helpdesk), 60% drafted: about 2,460 hours a year at ₪130.',
       adjustments: [
         { id: 'rework', ledger: 'sponsor', amount: -49920, real: true, text: 'The 20% of drafts that are wrong take 5 extra minutes to fix: 384 hours a year.', why: 'Rework is a cost inside the sponsor’s own team; the deck counted only the right drafts’ saving and forgot the wrong ones’ cost.' },
         { id: 'review', ledger: 'control', amount: -99840, real: true, text: 'Every draft is read before it is sent: 2 minutes × 23,040 drafts = 768 hours a year.', why: 'The human check is what makes the pilot safe; it is paid for in the same hours the claim counts.' },
@@ -100,7 +100,7 @@ const harbor = {
     'and the customer’s share. Label each one measured, directional or assumed, count freed hours as capacity until someone owns turning them into money, ' +
     'and ask what happens without the project. The smaller number that survives finance is worth more than the big one that does not.',
   notes: [
-    'Hours and minutes follow the pilot-economics harbor preset (3,200 non-WISMO emails a month, 60% drafted, 80% right, 8 minutes saved, 2 minutes review, 5 minutes rework, ₪130 an hour).',
+    'Hours and minutes follow the pilot-economics harbor preset (3,200 written contacts a month (email, web form and WhatsApp routed into the helpdesk), 60% drafted, 80% right, 8 minutes saved, 2 minutes review, 5 minutes rework, ₪130 an hour).',
     'Build ₪120,000 and about ₪49,000 a year to run (₪4,000 a month fixed plus tokens) also follow pilot-economics.',
     'Hurdle rate 12%, payback preferred within 24 months, approval above ₪150,000 over three years by the board, “freed capacity is not cash”, write-offs ₪690,000 and support salaries ₪3.02 million for 14 people: the CFO’s finance summary in the data room.',
     'The translation contract (₪42,000), the temps (two for three months at ₪16,000 a month), the 15% credit cut and the vendor’s satisfaction-to-revenue ratio are assumptions for the exercise.',

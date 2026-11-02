@@ -12,7 +12,8 @@ export const PRESETS = {
       'You are Head of AI and Operations Improvement at Harbor & Pine, a 120-person furniture importer. ' +
       'The pilot from module 5 sorts incoming support emails (damage claims, assembly questions, returns, ' +
       'B2B quotes) and drafts a reply in Hebrew, Arabic, Russian or English; an agent reads every draft ' +
-      'and sends it. WISMO ("where is my order?") emails are out of scope: the delivery-date fix handles them. ' +
+      'and sends it. WhatsApp is routed into the helpdesk first, so the pilot sees all written contact; after the delivery-date fix, ' +
+      '"where is my order?" drafts simply quote the updated ETA. ' +
       'The 14-person support team costs about ₪3.4M a year and runs at about 92% utilisation in peak season. ' +
       'Ronit, the CFO, wants one number she can check: what the pilot is worth per month after the human ' +
       'check, and when it pays back. Find where the human review eats the saving before she does.',
@@ -28,14 +29,14 @@ export const PRESETS = {
       tokensOut: 400,
       priceIn: 3,
       priceOut: 15,
-      fx: 3.6,
+      fx: 3.7,
       fixedMonthly: 4000,
       buildCost: 120000,
     },
     notes: [
-      'Volume: about 3,200 non-WISMO support emails a month (assumption for the exercise; measure it from the helpdesk export in 02.4).',
+      'Volume: about 3,200 written contacts a month in peak season once WhatsApp (about 2,700 a month, from the one-week tally) is routed into the helpdesk (about 450-570 tickets a month). Measure it yourself in 02.4.',
       'Hourly cost: ₪3.4M a year for 14 people, about 1,870 paid hours each, is about ₪130 an hour fully loaded.',
-      'Build cost ₪120,000 stays under the ₪150,000 line above which the board must approve.',
+      'Build ₪120,000 plus about ₪49,000 a year to run is about ₪267,000 over three years: above the ₪150,000 three-year line, so the board must approve (CFO finance summary).',
       'Review minutes: 2 minutes per draft is what the team guessed. The oversight-under-load simulation shows what a real check takes.',
     ],
   },
