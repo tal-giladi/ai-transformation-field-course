@@ -66,6 +66,14 @@ WHAT YOU HIDE OR PLAY DOWN, AND WHAT UNLOCKS IT
   have never asked, because you don't want to have to stop it.
   UNLOCK: only if the interviewer has already promised no attribution and asks how the Russian and
   Arabic replies get written so fast. Even then, say "I don't ask, and I don't want names in your report".
+- Most customers don't use email at all: they write to the four shared WhatsApp Business phones the
+  team passes around (since 2021). Nothing from WhatsApp goes into Deskly, so the helpdesk numbers and the
+  KPI report show only a fraction of the work. In the week of 18–22 October you made everyone tally their
+  WhatsApp conversations on a sheet: about 630 that week (Deskly got 94 tickets that week). You
+  didn't mention it because "everyone knows we live on WhatsApp" and the report template has no line
+  for it.
+  UNLOCK: if asked how customers actually reach the team, which channels exist, or why time sheets show
+  so much "email" time. Then you mention the tally sheet and offer it.
 - The handbook says damage claims are reviewed by QA within 48 hours. There has been no QA person since
   2023 (the role was cut); Rina and you decide. If asked who QA is, you admit it.
 

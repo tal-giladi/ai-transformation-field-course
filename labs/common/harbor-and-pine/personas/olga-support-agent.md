@@ -54,6 +54,12 @@ WHAT YOU HIDE OR PLAY DOWN, AND WHAT UNLOCKS IT
   legal"; Avi never answered.
   UNLOCK: after the first hidden point, if asked whether others do the same or whether she ever asked
   IT for a tool.
+- Most of your day is WhatsApp, not Deskly: you have one of the four shared WhatsApp Business phones
+  about half the week, 40–60 conversations a day on it, many in Russian. Customers send photos of damage
+  and voice notes there. You log WhatsApp time as "email" in the time sheet because there is no other
+  box. You copy WhatsApp messages into ChatGPT too.
+  UNLOCK: if asked how customers reach you, what a normal day looks like hour by hour, or where the photos
+  of damage arrive. Not hidden, just never asked: you assume everyone knows.
 - You know at least four colleagues paste customer emails into ChatGPT too. You will NOT give names.
   UNLOCK: never give names. If pressed, say "ask the team together, not one by one, and promise nobody
   gets punished".

@@ -1,0 +1,24 @@
+- **Accidental owner** — Someone told to "also do AI" on top of an existing job, with no written mandate, time or budget (lesson 01.1).
+- **Advisory boundary** — The line between questions you answer yourself (method, framing, priorities) and those you route to a named specialist such as counsel, the DPO, security, procurement or HR (lesson 01.1).
+- **Exitable phase** — A priced part of an engagement with its own deliverables and acceptance criteria, after which the client can stop and keep everything delivered (lesson 01.1).
+- **Mandate** — The objective, money, authority and definition of "done" that a named sponsor has agreed to in writing (lesson 01.2).
+- **Read-back** — Repeating the sponsor's objective to them in their own words and recording that they confirmed or corrected it (lesson 01.2).
+- **Scope test** — One sentence, derived from the objective, that every inclusion and exclusion in the scope boundary must answer to (lesson 01.3).
+- **Scope boundary** — The written list of what a phase includes, excludes and only reads, each line with a reason, acknowledged by the people who can change it (lesson 01.3).
+- **Refinement** — A new request that serves the same objective, users, data and deliverable and fits the agreed time and money; done inside the phase without a change request (lesson 01.3).
+- **Expansion** — A new request that fails any of the five refinement questions and therefore goes through a change request (lesson 01.3).
+- **Change request** — The logged, assessed and decided route for an expansion, recording what it would displace and telling the requester the reason and review date (lesson 01.3).
+- **Decision point** — A dated decision by a named person, placed in a plan where the evidence for it will exist, instead of a solution chosen in advance (lesson 01.4).
+- **Steering pre-read** — The date the decision-makers receive a pack before a board or steering meeting, usually a week earlier; the real deadline for the work (lesson 01.4).
+- **Data-room first read** — The day-one record of every file's provenance, what is missing, and each narrative number's status (lesson 01.5).
+- **Provenance** — How a file was produced (system export, hand-kept file, narrative document, vendor document, written for you), which sets how far to trust it (lesson 01.5).
+- **Claims register** — The table that records, for every number in narrative documents, who said it, where, when, and whether it is verified, contradicted, a claim to test or unverifiable (lesson 01.5).
+- **Access request** — A one-page request for the minimum data needed, stating purpose, form, approver, storage, deletion date and whether counsel must check it (lesson 01.5).
+- **Shadow AI** — AI tools and features used for work without the organization having decided to use them, including tools paid for in plain sight on expense claims (lesson 01.6).
+- **Shadow-AI census** — A department-level count of AI use built from at least four sources (survey, proxy log, extensions, expenses and SaaS list, interviews, traces in the work) under a stated amnesty (lesson 01.6).
+- **Host list** — The maintained list of AI service domains used to find AI traffic in a proxy log, because proxy categories lag behind new tools (lesson 01.6).
+- **Interim AI rule** — A short rule issued within days of the census, covering the data that may not go into unapproved tools, an approved alternative with a date, and an amnesty for past use (lesson 01.6).
+- **Counting rule** — The written definition of what counts as AI for the inventory (outputs inferred from data, not only human-written rules), applied before counting (lesson 01.7).
+- **AI inventory** — The list of every AI system and feature, one row per tool per use, with owner, data, the decision it shapes and the next action, including excluded systems with reasons (lesson 01.7).
+- **AI in a feature update** — An AI capability that arrived in software the organization already used, often enabled by default, without anyone choosing it (lesson 01.7).
+- **Legal register** — The separate list of AI systems that carry a legal duty, with the duty and the evidence it is met, linked to the inventory by ID (lesson 01.7).

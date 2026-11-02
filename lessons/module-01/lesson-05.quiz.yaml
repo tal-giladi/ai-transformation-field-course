@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    The quarterly KPI report says "Average first response time 2.0 hours ✅". Its footnote says:
+    business hours only, email tickets received on business days, average. How do you record it in
+    your first read?
+  options:
+    - >-
+      Verified, because it comes from the support manager together with the finance BI team.
+    - >-
+      Contradicted, because a footnote that narrows the definition means the figure is wrong.
+    - >-
+      Claim to test: true by its own definition, to be re-measured from the ticket export.
+    - >-
+      Unverifiable, because the helpdesk timestamps cannot show business hours precisely.
+  correct: 2
+  explanation: >-
+    A narrative number is a claim until an export confirms it by the same definition. The footnote
+    shows the definition excludes the web form, weekends and the median, so you test it against the
+    ticket export rather than call it right or wrong.
+
+- id: q2
+  question: >-
+    You need the web store's order data to compare promised and actual delivery dates. The web
+    store belongs to another department. Which request is most likely to be signed quickly?
+  options:
+    - >-
+      An admin login to the web store, so you can explore what is available yourself.
+    - >-
+      A full export of all orders and customers, to avoid having to ask twice later.
+    - >-
+      A verbal request to the e-commerce manager, to keep the process informal and fast.
+    - >-
+      A one-page request for named order fields, no customer details, read-only, deletion date set.
+  correct: 3
+  explanation: >-
+    Owners sign requests that are small, specific and already answer their questions: purpose,
+    fields, form, storage and deletion. Logins and "everything" create risk the owner has to carry.
+
+- id: q3
+  question: >-
+    The company profile says the company receives "roughly 2 containers a week". The freight
+    forwarder's export lists 112 containers departing over about 38 weeks. How do you record this?
+  options:
+    - >-
+      Contradicted: the export shows about 3 a week; note it plainly without blaming anyone.
+    - >-
+      Verified: the difference is small and the profile is an official company document.
+    - >-
+      Unverifiable: departures and arrivals may differ, so neither number can be trusted.
+    - >-
+      Remove it from the register, since container volume is not part of an AI programme.
+  correct: 0
+  explanation: >-
+    A primary export gives a different number, so the claim is contradicted. Writing it down stops
+    the next person quoting the old sentence; it is a stale description, not an accusation.
+
+- id: q4
+  question: >-
+    You are a consultant. To speed up your analysis you want to upload the client's ticket export,
+    with customer names and phone numbers, to your own AI assistant account. What is right?
+  options:
+    - >-
+      Fine, if your personal plan's settings say conversations are not used for training.
+    - >-
+      Not without the client's approval: an outside provider handling its data needs agreed safeguards.
+    - >-
+      Fine, if you delete the conversation as soon as the analysis is complete.
+    - >-
+      Not allowed under any circumstances, so all analysis must be done by hand in a spreadsheet.
+  correct: 1
+  explanation: >-
+    The data belongs to the client, and an outside party's access to its databases needs agreed
+    safeguards (in Israel, Regulation 15 of the Data Security Regulations and the PPA's outsourcing
+    guidance); storage abroad adds transfer rules. Approved tools or minimised data make the
+    analysis possible.
+
+- id: q5
+  question: >-
+    The data room includes the logistics manager's hand-kept ETA spreadsheet, with mixed date
+    formats and two containers entered twice. The freight forwarder's export covers the same
+    containers. What do you do with the spreadsheet?
+  options:
+    - >-
+      Ignore it: the system export is cleaner and covers the same containers.
+    - >-
+      Replace the export with it, since the manager knows the containers best.
+    - >-
+      Keep it as working truth to compare with the export, and note its gaps and duplicates.
+    - >-
+      Ask the manager to clean it before you will look at it in any detail.
+  correct: 2
+  explanation: >-
+    Hand-kept files show how people actually work and often hold what systems miss. You record their
+    provenance and flaws and compare them with the export instead of trusting or discarding either.

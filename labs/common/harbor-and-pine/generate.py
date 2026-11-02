@@ -1260,6 +1260,50 @@ def build_timesheets(staff: list[Person]) -> list[list]:
     return rows
 
 
+def build_whatsapp_tally(staff: list[Person]) -> list[list]:
+    """One week of WhatsApp Business conversations, tallied by hand by the agents (no export exists).
+
+    Most customers write to the four shared WhatsApp phones, not to the helpdesk. Samir asked the team
+    to note every conversation for one week in October; this is that sheet, typed up as people typed it.
+    """
+    r = rng_for("whatsapp-tally")
+    agents = [p for p in staff if p.team == "Customer Service" and p.name not in ("Samir Haddad", "Rina Azoulay")]
+    # (share, how agents wrote the topic, minutes range)
+    topics = [
+        (0.46, ["איפה ההזמנה", "מתי מגיע", "בירור מועד אספקה", "where is my order", "где заказ", "وين الطلبية",
+                "עיכוב באספקה", "לקוח שואל על משלוח", "איפה הספה", "מועד משלוח"], (5, 15)),
+        (0.15, ["תיאום הובלה", "תיאום משלוח", "לשנות תאריך הובלה", "delivery booking", "תיאום מועד"], (5, 15)),
+        (0.12, ["נזק", "שריטה", "פגם במוצר", "damage", "רגל שבורה", "תמונות נזק", "повреждение"], (10, 30)),
+        (0.08, ["הרכבה", "שאלה על הרכבה", "חסרים ברגים", "assembly", "сборка", "تركيب"], (5, 20)),
+        (0.07, ["החזרה", "ביטול הזמנה", "החזר כספי", "return", "возврат"], (10, 20)),
+        (0.04, ["הצעת מחיר", "לקוח עסקי", "B2B", "מלון - הזמנה גדולה"], (10, 30)),
+        (0.08, ["שאלה על מוצר", "מלאי", "מבצע", "חשבונית", "אחר", "", "שאלה כללית"], (5, 10)),
+    ]
+    langs = [("עברית", 0.55), ("רוסית", 0.17), ("ערבית", 0.14), ("אנגלית", 0.06), ("en", 0.03), ("ru", 0.03), ("", 0.02)]
+    rows = []
+    for d in days(date(2026, 10, 18), date(2026, 10, 22)):   # Sunday to Thursday
+        for agent in agents:
+            if r.random() < 0.08:
+                continue   # forgot to fill the sheet that day
+            for _ in range(poisson(r, 11.5)):
+                share = r.random()
+                acc = 0.0
+                for weight, words, (lo, hi) in topics:
+                    acc += weight
+                    if share <= acc:
+                        break
+                topic = r.choice(words)
+                minutes = r.choice([m for m in (5, 10, 15, 20, 30) if lo <= m <= hi])
+                lang = r.choices([l for l, _ in langs], weights=[w for _, w in langs], k=1)[0]
+                hour = r.choice(["בוקר", "צהריים", "אחה\"צ", f"{r.randint(8, 16)}:{r.choice(['00', '15', '30', '45'])}"])
+                order_no = f"HP-{r.randint(118000, 121400)}" if r.random() < 0.38 else ""
+                called = r.choices(["כן", "לא", ""], weights=[0.18, 0.5, 0.32], k=1)[0]
+                note = r.choice(["", "", "", "", "", "לקוח עצבני", "שלח תמונות", "העברתי לרינה", "חוזר שוב", "ביקש מנהל"])
+                rows.append([d.strftime(r.choice(["%d/%m", "%d/%m/%Y", "%d.%m"])), agent.name, hour, lang, topic,
+                             order_no, minutes, called, note])
+    return rows
+
+
 # =============================================================================================
 # 10. IT: SaaS list, proxy log, browser extensions, expenses
 # =============================================================================================
@@ -1755,6 +1799,9 @@ def main() -> None:
               [[t.tid, iso(t.created), t.channel, t.customer.cid, t.order_ref, t.detected_lang, t.category, t.subject,
                 t.priority, t.status, iso(t.first_response), iso(t.resolved), t.agent, " ".join(t.tags), t.work_min, t.csat]
                for t in tickets])
+    write_csv("support/whatsapp-week-tally.csv",
+              ["date", "agent", "time", "customer_language", "topic", "order_no", "minutes", "also_called", "note"],
+              build_whatsapp_tally(staff))
     write_csv("support/emails.csv",
               ["email_id", "ticket_id", "received_at", "from_name", "from_address", "to_address", "subject", "body",
                "attachments", "reply_sent_at", "reply_agent", "reply_body"], emails)

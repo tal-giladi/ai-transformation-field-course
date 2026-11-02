@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    A purchasing add-on is sold as "AI-powered smart reorder". Its settings show minimum and maximum
+    stock levels from 13-week average sales, safety weeks per country and a seasonality factor that
+    buyers type in each January. How do you record it?
+  options:
+    - >-
+      As AI, because the vendor markets it as AI and buyers approve most of its suggestions.
+    - >-
+      As excluded under the counting rule, with the reason, and listed as an automated decision.
+    - >-
+      Leave it off the inventory entirely, since rules engines are irrelevant to AI governance.
+    - >-
+      As "to verify", until the vendor confirms in writing whether it uses machine learning.
+  correct: 1
+  explanation: >-
+    Every output follows from formulas and numbers people chose, so it is not AI under the rule. You
+    still record it with the reason, so nobody re-checks it, and note that it shapes purchasing
+    decisions. The configuration already answers the question; no vendor letter is needed.
+
+- id: q2
+  question: >-
+    IT's software list says the HR system has no AI features. The vendor's release notes from
+    March say an AI candidate-ranking feature is on by default. What is your first concrete step?
+  options:
+    - >-
+      Switch the feature off in the admin settings today, before more applicants are affected.
+    - >-
+      Trust IT's list, since it is the company's official record of its software.
+    - >-
+      Ask the HR manager how candidates are screened now; export applicants and scores before changes.
+    - >-
+      Report the vendor to the privacy regulator for enabling an AI feature by default.
+  correct: 2
+  explanation: >-
+    Check how the work is actually done and preserve what the feature decided before anyone changes a
+    setting; then the HR manager and counsel decide. Switching off first can lose the evidence needed
+    to review who was hidden.
+
+- id: q3
+  question: >-
+    Support agents use free ChatGPT and a translation extension to draft replies. Who should be the
+    business owner of these rows in the AI inventory?
+  options:
+    - >-
+      The IT manager, because all software and browser extensions fall under IT.
+    - >-
+      The AI programme lead, because the inventory is the programme's document.
+    - >-
+      The vendors, because they decide how the tools process the data sent to them.
+    - >-
+      The customer service manager, whose team decided to use them and sends the data.
+  correct: 3
+  explanation: >-
+    The department that uses a tool owns the decision to use it and the data it sends. IT owns
+    infrastructure; making IT the owner of every tool hides the business decision and overloads one
+    person.
+
+- id: q4
+  question: >-
+    Counsel asks you to "just add a legal-duties column to your AI inventory so we have one
+    document". Why keep the legal register separate?
+  options:
+    - >-
+      Different readers and granularity: merged, counsel reads unknowns and borderline tools vanish.
+    - >-
+      Legal registers must by law be kept in a file separate from any operational inventory.
+    - >-
+      The inventory contains personal data and so cannot be shared with counsel at all.
+    - >-
+      Legal duties change too often to be tracked in a spreadsheet the programme maintains.
+  correct: 0
+  explanation: >-
+    The inventory lists everything found, including excluded and unknown rows; the legal register
+    lists systems with duties and evidence they are met. Linked by ID they serve both readers; merged,
+    each gets worse.
+
+- id: q5
+  question: >-
+    Which row is the most useful sentence to add for an AI feature already in use?
+  options:
+    - >-
+      "Vendor states the model is accurate and widely used by similar firms."
+    - >-
+      "Feature enabled; considered low risk because it only makes suggestions."
+    - >-
+      "Hides applicants scoring under 40 from recruiters; no human check designed."
+    - >-
+      "AI capability: advanced; maturity level 3 of 5 for the HR department overall."
+  correct: 2
+  explanation: >-
+    Naming the decision the AI shapes, who is affected and who checks it turns a software list into a
+    governance tool. Vendor claims and maturity scores belong elsewhere, and "only suggestions" is a
+    claim that the hidden-applicant filter contradicts.

@@ -1,6 +1,6 @@
 # Transcript — Michal Peretz (COO)
 
-*Pre-run interview for lesson 01.2. Sunday 2 November 2026, 09:05, Michal's office, 30 minutes. The
+*Pre-run interview for lesson 01.2. Monday 2 November 2026, 09:05, Michal's office, 30 minutes. The
 interviewer is the new Head of AI and Operations Improvement, on their first morning. Read it as if you
 were sitting in: note what the interviewer found out, what they missed, and which questions worked.*
 

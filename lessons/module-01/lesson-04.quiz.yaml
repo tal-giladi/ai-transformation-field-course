@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    The CEO has promised the board an AI chatbot. You are writing your 30-60-90 plan on day four,
+    before any data analysis. How should the plan handle the chatbot?
+  options:
+    - >-
+      Commit to it in the 61–90 block, since the board expects it and the plan must match.
+    - >-
+      Leave it out entirely, so that nobody assumes you have already agreed to build it.
+    - >-
+      Name a dated decision on the first move, chosen from a shortlist with measured baselines.
+    - >-
+      Put it in the 1–30 block as a quick win, to buy time for the deeper diagnostic work.
+  correct: 2
+  explanation: >-
+    A plan should name decisions and their dates where the evidence will exist, not solutions. That
+    keeps the chatbot on the table without making every contrary finding look like a change of plan.
+
+- id: q2
+  question: >-
+    Board meeting: 28 January. The CFO must sign the business case. When should the board pack
+    reach the sponsor and the CFO?
+  options:
+    - >-
+      About a week before the board, as a steering pre-read with time for questions.
+    - >-
+      The day before the board, so that the numbers are as fresh as possible.
+    - >-
+      At the board meeting itself, so the discussion is not shaped in advance.
+    - >-
+      Only the sponsor needs it early; the CFO reviews numbers during the meeting.
+  correct: 0
+  explanation: >-
+    "Numbers the CFO has signed" needs time for the CFO to check and challenge them. The pre-read is
+    the real deadline; a pack seen for the first time two days before the board will not be signed.
+
+- id: q3
+  question: >-
+    Which first-30-days entry is written as a plan someone can manage?
+  options:
+    - >-
+      "Interview stakeholders and analyse available data to understand the current state."
+    - >-
+      "Engage the organization on AI and build momentum with a series of quick wins."
+    - >-
+      "Explore AI opportunities across departments and prepare a long list for prioritisation."
+    - >-
+      "Answer what is really happening; findings memo by 1 Dec; COO decides interim AI rule by 12 Nov."
+  correct: 3
+  explanation: >-
+    A manageable block has a question, a dated deliverable and a decision by a named person. Activity
+    lists can never be late or wrong, so they cannot be managed.
+
+- id: q4
+  question: >-
+    It is peak season and the support team runs at about 92% utilisation. You want the agents'
+    input on the work. What fits the first 30 days?
+  options:
+    - >-
+      A half-day workshop with all 14 agents, scheduled early before the volume rises further.
+    - >-
+      Short one-to-one interviews and an hour watching an agent work, with workshops after February.
+    - >-
+      A detailed online survey that every agent must complete during working hours this week.
+    - >-
+      Waiting until February for any contact with the support team, to avoid disrupting them.
+  correct: 1
+  explanation: >-
+    Short interviews and observation cost little time and give you the real work; a full-team
+    workshop in peak season takes replies away from customers. Waiting until February loses the
+    diagnosis the board needs in January.
+
+- id: q5
+  question: >-
+    On day one you plan to request exports from the helpdesk, the phone system and the ERP. When
+    should the requests go out?
+  options:
+    - >-
+      After all interviews, so you know exactly which fields to ask for.
+    - >-
+      At the end of week one, together with the 30-day plan for approval.
+    - >-
+      On day one or two, because exports and access usually take days to arrive.
+    - >-
+      Only once the sponsor has approved the 30-60-90 plan in writing.
+  correct: 2
+  explanation: >-
+    Exports are slow and their delay pushes back every baseline. Ask early with a minimal, specific
+    request (01.5), and refine fields later if interviews reveal more.

@@ -1,0 +1,95 @@
+- id: q1
+  question: >-
+    You are a consultant asked to "run the AI transformation" at a company whose data room you have
+    not seen. The sponsor wants one fixed price for the whole year. What do you propose?
+  options:
+    - >-
+      A single annual fixed fee with a generous contingency, so the client has budget certainty.
+    - >-
+      Time and materials for the whole year with no cap, since nobody can know the scope yet.
+    - >-
+      A priced diagnostic phase with defined deliverables and an exit, then later phases quoted on its findings.
+    - >-
+      A success fee tied to the savings target the CEO has already announced to the board.
+  correct: 2
+  explanation: >-
+    Phases you can exit limit the client's risk and yours: the diagnostic has known deliverables, so it
+    can be fixed-price, and the later phases are priced once the data and the real problem are known.
+    A success fee on someone else's announced number rewards the wrong behaviour.
+
+- id: q2
+  question: >-
+    Harbor & Pine's rules: up to ₪50,000 the department head and CFO approve, ₪50,000–150,000 the
+    CEO, above ₪150,000 over three years the board. Your honest estimate for a diagnostic is
+    ₪160,000. What do you do?
+  options:
+    - >-
+      Split it into two ₪80,000 phases so that each one can be approved by the CEO without the board.
+    - >-
+      Cut phases where real decisions happen, show the total, and take the approval route it needs.
+    - >-
+      Cut the price to ₪149,000 and absorb the difference, because board approval would take too long.
+    - >-
+      Quote it before VAT and leave the threshold question for the CFO to discover later.
+  correct: 1
+  explanation: >-
+    Approval thresholds are part of the client's control system. Phases should be cut where a real
+    decision happens, and the CFO will see through a split designed to dodge the board. Ask finance
+    whether thresholds are before or after VAT instead of guessing.
+
+- id: q3
+  question: >-
+    On your second day a support agent asks: "Can I paste customer emails into ChatGPT if I delete
+    the name first?" What is the best response?
+  options:
+    - >-
+      Yes, as long as the name is removed, because what remains is no longer personal data.
+    - >-
+      No, and report every agent who has already done it to their manager today.
+    - >-
+      Say it depends on the plan the agent uses and leave the decision to their judgement for now.
+    - >-
+      Not yet: route it to counsel with a date; meanwhile, no customer details in any AI tool.
+  correct: 3
+  explanation: >-
+    Whether an email minus the name is still personal data is a legal question, so you route it with a
+    deadline. You do not leave a gap meanwhile: an interim rule protects customers, and you do not hunt
+    people before the organization has even told them what the rule is.
+
+- id: q4
+  question: >-
+    You were told to "also handle AI" on top of your job as operations manager. Nothing is written
+    down. What should your first document be?
+  options:
+    - >-
+      A one-page mandate request: hours a week, what you drop, who settles disputes, a review date.
+    - >-
+      An AI strategy for the company, so that leadership sees you are taking the role seriously.
+    - >-
+      A survey of every employee's AI ideas, to build momentum before asking for resources.
+    - >-
+      A vendor shortlist, because the quickest way to show progress is a working tool.
+  correct: 0
+  explanation: >-
+    The accidental owner's problem is missing authority and time, not missing ideas. Until the time,
+    the trade-offs and the decision rights are written down, every later step competes with the day job
+    and can be quietly dropped.
+
+- id: q5
+  question: >-
+    You are Harbor & Pine's internal Head of AI. Nobody has asked you for a statement of work. Why
+    write the same headings anyway?
+  options:
+    - >-
+      Because internal staff are legally required to have a statement of work for any project.
+    - >-
+      Because finance cannot pay your salary without a document listing your deliverables.
+    - >-
+      Because without written deliverables and acceptance criteria you become the inbox for every AI request.
+    - >-
+      Because a consultant may be hired later and will need your document to price their work.
+  correct: 2
+  explanation: >-
+    The SOW headings (objective, scope, deliverables with acceptance, client responsibilities, exit)
+    protect an internal lead as much as a consultant: they define what done means and what is not your
+    job, which is what keeps the role from absorbing every idea in the company.

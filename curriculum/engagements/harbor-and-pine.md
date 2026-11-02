@@ -20,7 +20,7 @@ room lives in `labs/common/harbor-and-pine/` so every module zip includes it.
 ## Who the learner is
 
 Michal Peretz (COO) hired the learner as "Head of AI and Operations Improvement", reporting to her,
-start date Sunday 2 November 2026. The CEO, Yoav Ben-Ami (founder's son), came back from a
+start date Monday 2 November 2026. The CEO, Yoav Ben-Ami (founder's son), came back from a
 conference and told the board in September: "we'll have an AI customer-service bot and an AI
 strategy within 90 days, and cut support cost by 40%". The board meets on 28 January 2027.
 
@@ -245,3 +245,18 @@ emails), Olga (≈130 of 316 Russian tickets). Persona-only facts, by design not
 ₪120k H1 2027 budget, the origin of Yoav's 40%, Ronit's 2022 CRM story (only the write-off line is in the
 data), Noa's 2024 refusal to lengthen the Vietnam lead time, the pre-2021 delay SMS, ChatNest's ≈38%
 Israeli reference, and Olga's unanswered request to IT (the DPA's cover note dates it 2 Oct 2026).
+
+## Added by the main session (2026-11-02)
+
+16. **WhatsApp is the real channel.** `support/whatsapp-week-tally.csv`: one hand-kept week (Sun 18 –
+    Thu 22 Oct 2026), 630 conversations, 123.75 estimated agent-hours, WISMO-type topics 43.8% (topic
+    words listed in `generate.py`, `build_whatsapp_tally`). Deskly had 94 tickets that week, so
+    roughly 87% of written contact never reaches the helpdesk or the KPI report; ~2,700 conversations
+    a month. It reconciles the time sheets (agents log WhatsApp as "email", ~70% of time) with the low
+    helpdesk volume. No export: the data sits on four shared phones (privacy and retention finding).
+    Unlocks: Samir (channels / why so much "email" time), Olga (normal day, where damage photos arrive).
+    Pilot implication (modules 3 and 5): the email pilot touches a minority of written contact; the
+    bigger prerequisite is routing WhatsApp into the helpdesk (Deskly's WhatsApp channel), plain
+    integration, not AI.
+17. **Container frequency.** `company/company-profile.md` says "roughly 2 a week"; `shipments.csv` and
+    the profile's own schedule make ~3 a week (a claim contradicted by the data; used in 01.5).

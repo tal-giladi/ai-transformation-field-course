@@ -1,0 +1,93 @@
+- id: q1
+  question: >-
+    Mid-pilot, the support manager asks you to "also check the drafts on Russian tickets, not only
+    Hebrew". Russian tickets are already in the agreed data and the pilot's objective covers all
+    customers. The extra check takes half a day. How do you treat it?
+  options:
+    - >-
+      As an expansion: log a change request and wait for the sponsor's monthly decision.
+    - >-
+      As a refinement: same objective, customers, data and deliverable; do it and note it.
+    - >-
+      As out of scope, because languages were not listed by name in the boundary.
+    - >-
+      As a new phase, since a new language means a new evaluation and a new budget.
+  correct: 1
+  explanation: >-
+    All five questions say yes: same objective, same customers, same data and systems, the same
+    deliverable done better, and it fits in the time. Sending refinements through change control
+    makes you the bureaucrat people route around.
+
+- id: q2
+  question: >-
+    The marketing director asks you to add an AI sales chatbot to phase one, "while you're at it".
+    Phase one is scoped to customer-service contacts and cost. What do you say?
+  options:
+    - >-
+      "Yes, if it's small", so that marketing stays on side during the first weeks.
+    - >-
+      "That's not a priority for this programme", and move on to the next agenda item.
+    - >-
+      "We'll call it phase one and a half and start it once the support pilot is running."
+    - >-
+      "It's on the request list: it aims at conversion, not support contacts; we review it in February."
+  correct: 3
+  explanation: >-
+    An exclusion keeps goodwill when it carries a reason from the objective and a review date. A bare
+    "not a priority" reads as "marketing doesn't matter", and a half-phase is a promise nobody
+    resourced.
+
+- id: q3
+  question: >-
+    Your sponsor, the COO, has agreed the scope boundary by email. One line marks the web store's
+    delivery-date settings as "read-only: changes are marketing's decision". Marketing reports to the
+    CEO. What else do you need?
+  options:
+    - >-
+      The marketing director's acknowledgement of the lines that touch her area, with the CEO copied.
+    - >-
+      Nothing more, because the sponsor's agreement covers the whole programme and every department.
+    - >-
+      A formal steering committee vote before any data from the web store can be read.
+    - >-
+      Legal approval, since the delivery date shown to customers is a contractual promise.
+  correct: 0
+  explanation: >-
+    A boundary must be acknowledged by the people who can change it. The sponsor covers her own
+    line; the web store sits under the CEO, so its owner acknowledges and the CEO sees it.
+
+- id: q4
+  question: >-
+    Which exclusion line in a scope boundary is written well?
+  options:
+    - >-
+      "Website translation — out. Not a good fit for the AI programme at this stage."
+    - >-
+      "Website translation — out. Marketing should run its own projects separately."
+    - >-
+      "Website translation — out, review Feb 2027: new system and legal work; contact data first."
+    - >-
+      "Website translation — out. Too expensive for phase one and probably low value."
+  correct: 2
+  explanation: >-
+    A good exclusion gives a reason someone could check (a new system and legal work, no evidence
+    yet that it reduces contacts), says what would change the decision, and gives a review date.
+    The others are opinions.
+
+- id: q5
+  question: >-
+    Two weeks in, nobody has answered three of the requests in your change-request log. The
+    requesters are asking around. What is the main risk, and what do you do?
+  options:
+    - >-
+      None: requests outside scope do not need answers until the monthly review takes place.
+    - >-
+      Lost trust in the route; give each a status, a reason and a review date this week.
+    - >-
+      Scope creep; quietly delete the three requests so the log only shows active work.
+    - >-
+      Budget overrun; ask finance to approve the three requests so they can be closed quickly.
+  correct: 1
+  explanation: >-
+    A change-request route works only if requesters see that nothing disappears. Every line needs a
+    status, a reason and a date, even when the answer is "not now".

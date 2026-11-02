@@ -4,3 +4,11 @@ Every document you produce in the course starts from one of these templates. Eac
 
 ## All templates
 
+- [30-60-90 plan](30-60-90-plan.md)
+- [Access request pack](access-request-pack.md)
+- [AI inventory](ai-inventory.md)
+- [Change request](change-request.md)
+- [Data-room first read](data-room-first-read.md)
+- [Engagement charter](engagement-charter.md)
+- [Scope boundary](scope-boundary.md)
+- [Shadow-AI survey](shadow-ai-survey.md)

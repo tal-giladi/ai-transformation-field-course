@@ -11,3 +11,7 @@ Decisions (all made 2026-11-02):
 5. Done: ten organizations kept as planned (Tal left it to Claude, 2026-11-02).
 
 Later: create the GitHub repo `tal-giladi/ai-transformation-field-course` when you want it pushed.
+
+Open (no rush):
+
+- Lesson 01.1 prices an illustrative consultant phase at 22 days × ₪5,500 a day and says it is not a market figure. Keep it, or ask for a sourced Israeli rate range.

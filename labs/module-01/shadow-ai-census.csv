@@ -1,0 +1,2 @@
+tool,host_or_merchant,department,distinct_users,machines,requests_or_claims,period,used_for,data_going_in,plan_or_terms,paid_how,risk,action,owner,sources
+ChatGPT,chatgpt.com; chat.openai.com,Customer Service,,,,2026-10-11 to 2026-10-22,,,,,,,,proxy-log

@@ -1,0 +1,192 @@
+- id: q1
+  question: >-
+    A regional retailer's CEO asks you, an outside consultant, for "a fixed price for the whole AI
+    transformation this year". You have not seen any data. Their rules send anything above ₪150,000
+    to the board. What do you propose?
+  options:
+    - >-
+      A fixed annual fee just under ₪150,000, so the CEO can sign it without the board.
+    - >-
+      A priced diagnostic phase with acceptance criteria and an exit, later phases quoted on its findings.
+    - >-
+      Uncapped time and materials, since the scope cannot be known before the data is read.
+    - >-
+      A success fee of a share of the savings the CEO has already announced to the board.
+  correct: 1
+  explanation: >-
+    Phases that end in a decision limit everyone's risk and can be priced honestly; the board route
+    is part of the client's controls, not an obstacle to price around. A success fee tied to an
+    announced target rewards confirming it rather than testing it.
+
+- id: q2
+  question: >-
+    In your first meeting the COO says success is "one thing that works, a plan the board believes,
+    numbers the CFO signed, and my people still trust us". The CEO has publicly promised a chatbot.
+    What goes in the charter as the objective?
+  options:
+    - >-
+      The CEO's chatbot commitment, because it was made to the board and outranks the COO.
+    - >-
+      A consultant's summary: "deliver measurable AI value while maintaining engagement".
+    - >-
+      Her words, read back and confirmed; whether the bot is goal or means; the CEO gap as an open question.
+    - >-
+      Both objectives merged into one sentence, so neither the CEO nor the COO is contradicted.
+  correct: 2
+  explanation: >-
+    The confirmed objective is the sponsor's, in her words. Recording whether the solution is the goal
+    or a means, and logging the gap with the CEO's promise openly, lets evidence settle it later.
+
+- id: q3
+  question: >-
+    Week five. The marketing director asks you to "quickly add" an AI room-designer to the pilot.
+    Phase one is scoped to customer-service contacts and cost. She says it is tiny. What happens?
+  options:
+    - >-
+      It goes in the change-request log; the sponsor decides, and she hears the reason and a review date.
+    - >-
+      You add it, because a small favour now buys marketing's support for the rest of the programme.
+    - >-
+      You decline on the spot and explain that marketing projects are not your responsibility.
+    - >-
+      You add it as phase one and a half, scheduled after the pilot, to avoid an awkward no.
+  correct: 0
+  explanation: >-
+    It fails the refinement test (different objective, users and deliverable), so it is an expansion
+    whatever its size. The route — log, assess, sponsor decides, requester told with a reason and a
+    date — keeps both the boundary and the goodwill.
+
+- id: q4
+  question: >-
+    Your 30-60-90 plan must survive a CEO who wants a chatbot and a data room you have not analysed.
+    Which line belongs in it?
+  options:
+    - >-
+      "Chatbot vendor selected by day 30 and live on the website by day 75."
+    - >-
+      "Days 1–90: discovery, analysis and stakeholder engagement across the business."
+    - >-
+      "No chatbot will be considered until the full policy pack is approved."
+    - >-
+      "By 10 December the COO and CEO pick the first move from a measured shortlist."
+  correct: 3
+  explanation: >-
+    A plan names decisions, who makes them and when, at the point where evidence will exist. Naming
+    or ruling out the solution in week one makes every later finding look like a change of plan.
+
+- id: q5
+  question: >-
+    The quarterly KPI report says response time is "2.0 hours ✅" and the resolution rate is
+    "100%". Footnotes define the first as a business-hours average of email tickets only, and the
+    second as tickets in status "resolved". How do these enter your first read?
+  options:
+    - >-
+      As verified, because the support manager prepared them together with finance's BI team.
+    - >-
+      As claims to test against the ticket export, with their definitions noted.
+    - >-
+      As contradicted, because any footnote that narrows a headline makes it false.
+    - >-
+      As out of scope, because KPI reports describe the past rather than the AI opportunity.
+  correct: 1
+  explanation: >-
+    Both are true by their own definitions and both may mislead as headlines. They are claims until
+    the export confirms them by the same definition; you note the definitions and test them in
+    discovery.
+
+- id: q6
+  question: >-
+    You need the helpdesk export to measure contacts. The quickest offer on the table is an admin
+    login to the helpdesk from the IT manager. What do you ask for instead?
+  options:
+    - >-
+      A read-only export of named fields for a set period, owner-approved, stored internally, deletion date set.
+    - >-
+      The admin login, but with a promise to look only at the tickets you actually need.
+    - >-
+      A complete export of every ticket and customer record, so that you never need to ask again.
+    - >-
+      Nothing yet: wait until the interviews are over and you know exactly which fields matter.
+  correct: 0
+  explanation: >-
+    A minimal, purpose-bound export that the data owner approved is what you can justify later.
+    Logins and "everything" give you data you can't justify and responsibility for a system you don't
+    run; waiting delays every baseline.
+
+- id: q7
+  question: >-
+    The proxy log shows heavy use of chatgpt.com from Customer Service, with large amounts of data
+    sent per request. The CEO asks for the names of the agents involved. What do you recommend?
+  options:
+    - >-
+      Provide the names, since customer data is at stake and the company owns the network logs.
+    - >-
+      Provide names only for the agents who sent the largest amounts of data in the period.
+    - >-
+      Report by department, keep the amnesty, issue an interim rule with an approved alternative.
+    - >-
+      Block the site immediately and announce that further use will lead to disciplinary action.
+  correct: 2
+  explanation: >-
+    Rules can be written from department-level patterns. Identifying employees from monitoring data
+    is a decision for management with counsel and HR (Israeli labour courts limit employer
+    monitoring), and naming people ends the census. A ban without an alternative moves use to phones.
+
+- id: q8
+  question: >-
+    Expense claims show ₪2,372 of AI subscriptions on personal cards, all approved by managers.
+    The finance controller says "then they're approved tools". How do you respond?
+  options:
+    - >-
+      Agree, and add them to the approved-tools list, since management signed the claims.
+    - >-
+      Approving a payment did not approve the data going in; record them and check use and terms.
+    - >-
+      Disagree, and ask finance to reclaim the money from the employees involved.
+    - >-
+      Ignore them, because personal subscriptions are outside the company's responsibility.
+  correct: 1
+  explanation: >-
+    Shadow AI is often in plain sight. A reimbursed subscription says nothing about what data goes in
+    or under which terms; the census records it and the approved-tools decision in module 4 settles
+    it, while the amnesty holds.
+
+- id: q9
+  question: >-
+    The HR system's release notes show an AI feature that ranks job applicants and hides low
+    scorers, on by default since March. IT's software list says the system has no AI. What do
+    you do this week?
+  options:
+    - >-
+      Record it as excluded, because the vendor says scores are only suggestions.
+    - >-
+      Wait for the risk-tiering work in module 4 before raising it with anyone.
+    - >-
+      Tell the HR manager it is illegal discrimination and switch the feature off yourself.
+    - >-
+      Record it as AI; export applicants and scores; HR and counsel decide on review and switching off.
+  correct: 3
+  explanation: >-
+    It shapes who gets considered for a job, which Israel's equal-opportunities law protects, and
+    nobody chose it. Preserve the evidence, route the legal question to counsel, and let the owner
+    decide — without declaring a legal conclusion yourself or waiting a module.
+
+- id: q10
+  question: >-
+    Two systems sold as "AI": a stock reorder tool that applies min/max formulas with a seasonality
+    factor people type in, and an accounting tool that matches payments with four ordered rules.
+    How do they appear in your inventory?
+  options:
+    - >-
+      As excluded under the counting rule, each with its reason, and noted as automated decisions.
+    - >-
+      As AI, because the vendors market them as AI and staff accept most of their outputs.
+    - >-
+      Left off the inventory entirely, since only generative AI tools need to be listed.
+    - >-
+      As high-risk AI, because they make decisions about money without a person checking.
+  correct: 0
+  explanation: >-
+    Outputs that follow only from rules people wrote are not AI under the counting rule. Listing
+    them with the reason saves the next person a day of re-checking, and noting that they shape
+    decisions keeps them visible to process owners.

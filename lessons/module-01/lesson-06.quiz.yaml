@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    You filter the proxy log on the category "Generative AI" and find 230 requests. What is the
+    main risk in reporting that number?
+  options:
+    - >-
+      Proxy logs over-count, because every page load sends several requests to the same host.
+    - >-
+      Categories lag behind new tools; a host list catches AI services filed as uncategorised.
+    - >-
+      The category is accurate, but the result must first be converted from UTC to Israel time.
+    - >-
+      Generative AI use is too sensitive to report at all before a written policy exists.
+  correct: 1
+  explanation: >-
+    Two of Harbor & Pine's busiest AI hosts were "Uncategorized" and one was filed under "Business".
+    A maintained host list finds 706 requests where the category filter finds 230.
+
+- id: q2
+  question: >-
+    The IT manager offers to map the proxy's pseudonymised user IDs to names "so you can see exactly
+    who pastes customer data into ChatGPT". What do you do?
+  options:
+    - >-
+      Accept, because the risk to customers justifies identifying the people involved quickly.
+    - >-
+      Accept for Customer Service only, since that department handles customer data.
+    - >-
+      Decline: report by department; identifying people is a management decision with counsel and HR.
+    - >-
+      Decline, and ask IT to delete the proxy logs so that nobody can identify employees later.
+  correct: 2
+  explanation: >-
+    Rules can be written from department-level patterns. Identifying employees from monitoring data
+    raises labour-law and privacy questions (Israel's courts limit employer monitoring) and would end
+    the census's credibility. Deleting logs destroys evidence you may need.
+
+- id: q3
+  question: >-
+    The census shows support agents paste customer emails into free ChatGPT to write Russian and
+    Arabic replies faster. Which interim rule is most likely to protect customers?
+  options:
+    - >-
+      Block all AI websites on the proxy from tomorrow and announce it by email to all staff.
+    - >-
+      Ask agents to remove customer names before pasting, and otherwise keep working as now.
+    - >-
+      Wait for the full policy pack in module 4 rather than issuing a partial rule now.
+    - >-
+      No personal details in unapproved tools; an approved drafting tool by a date; amnesty for past use.
+  correct: 3
+  explanation: >-
+    The use meets a real need, so a ban without an alternative moves it to personal phones where no
+    log shows it. A short rule with a dated approved alternative and an amnesty keeps people talking
+    and protects data now.
+
+- id: q4
+  question: >-
+    Median bytes sent per request: Google Docs about 2,300; Customer Service to ChatGPT about 6,000;
+    Finance to an AI assistant about 15,000 (five requests). What can you conclude?
+  options:
+    - >-
+      Large sends suggest pasted content; they show which conversations to have, not what was sent.
+    - >-
+      Finance has leaked financial data and the incident must be reported to the regulator today.
+    - >-
+      Nothing, because bytes sent measure only file uploads and never text typed into a chat.
+    - >-
+      Customer Service uses AI three times as much as Finance, measured in total volume sent.
+  correct: 0
+  explanation: >-
+    Bytes sent are a signal, not proof: consistent with pasting whole emails or documents. They tell
+    you which teams to talk to and what to ask; they don't establish what data was sent or that an
+    incident occurred.
+
+- id: q5
+  question: >-
+    Expense claims show a manager approved twelve months of an AI copywriting subscription on an
+    employee's personal card. Is this shadow AI?
+  options:
+    - >-
+      No: a manager approved the expense, so the tool is approved for company use.
+    - >-
+      No: personal-card subscriptions are the employee's own business, not the company's.
+    - >-
+      Yes: approving a payment is not approving the data that goes in; check use and terms.
+    - >-
+      Yes: and the manager who approved the claims should be disciplined as an example.
+  correct: 2
+  explanation: >-
+    Shadow AI is often in plain sight. An approved expense says nothing about what data goes into
+    the tool or under which terms. Record it, check the terms, and keep the amnesty.

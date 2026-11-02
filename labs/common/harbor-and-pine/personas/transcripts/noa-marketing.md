@@ -1,6 +1,6 @@
 # Transcript — Noa Levi (Marketing Director)
 
-*Pre-run interview for lesson 01.3. Wednesday 5 November 2026, 11:00, the marketing room. The
+*Pre-run interview for lesson 01.3. Thursday 5 November 2026, 11:00, the marketing room. The
 interviewer is the new Head of AI and Operations Improvement, who wants to agree the scope of the first
 phase. Read it as if you were sitting in: note what the interviewer found out, what they missed, and
 which questions worked.*

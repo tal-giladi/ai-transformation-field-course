@@ -2,7 +2,7 @@
 
 Harbor & Pine Ltd. imports furniture and home goods from Vietnam, China, Turkey and Italy and sells
 them online, in two showrooms (Tel Aviv, Haifa) and to hotels and offices. About 120 employees, ₪96M
-revenue. You joined on Sunday 2 November 2026 as Head of AI and Operations Improvement, reporting to
+revenue. You joined on Monday 2 November 2026 as Head of AI and Operations Improvement, reporting to
 the COO. This folder is what the company gave you access to in your first weeks.
 
 Everything here is fictional and synthetic: the company, the people, the customers, the vendors. Data
@@ -57,6 +57,7 @@ Lesson ids are from the course plan: 01.6 is module 1, lesson 6.
 | `tickets.csv` | Helpdesk (Deskly) export: every email and web-form ticket, May–Oct 2026. `ticket_id`, `created_at`, `channel`, `requester_id`, `order_id`, `language` (auto-detected), `category`, `subject`, `priority`, `status`, `first_response_at`, `resolved_at`, `agent`, `tags`, `time_spent_min` (timer, where used), `csat` | 2,529 | 01.5, 02.3, 02.4, 02.5, 02.6, 03.1, 03.4, 05.1, 05.2, 07.1 |
 | `emails.csv` | Full text of 600 of those tickets: the customer's message and the agent's reply, in Hebrew, Arabic, Russian and English. Joins to `tickets.csv` on `ticket_id` | 600 | 01.6, 02.5, 05.2, 05.3, 05.4, 05.5 |
 | `phone-log.csv` | Phone system (CloudVoice) call log, inbound calls, UTC: IVR language and option, queue, result, wait and talk seconds, agent | 3,194 | 02.4, 03.7 |
+| `whatsapp-week-tally.csv` | WhatsApp Business conversations on the four shared support phones, tallied by hand by the agents for one week (Sun 18 – Thu 22 Oct 2026) at Samir's request; there is no export. Date, agent, rough time, language, topic in the agent's own words, order number, estimated minutes | 630 | 02.3, 02.4, 02.5, 02.6 |
 
 ### orders/
 

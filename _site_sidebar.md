@@ -1,0 +1,15 @@
+- [Home](/)
+- [Glossary](/glossary.md)
+- [Templates](/templates/README.md)
+- [Laws, Guidance and Standards](/references/laws-and-guidance.md)
+
+- Stage 1 — The field kit
+- **Module 1 — Walking In**
+  - [01 · Three ways in](/lessons/module-01/lesson-01.md)
+  - [02 · Getting a real mandate](/lessons/module-01/lesson-02.md)
+  - [03 · Scope boundary and change control](/lessons/module-01/lesson-03.md)
+  - [04 · The first-week plan and the 30-60-90](/lessons/module-01/lesson-04.md)
+  - [05 · Access and the first-day data-room read](/lessons/module-01/lesson-05.md)
+  - [06 · The shadow-AI census](/lessons/module-01/lesson-06.md)
+  - [07 · The AI inventory from zero](/lessons/module-01/lesson-07.md)
+  - [Module 1 quiz](/assessments/module-01-quiz.md)

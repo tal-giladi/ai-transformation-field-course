@@ -1,0 +1,97 @@
+- id: q1
+  question: >-
+    Ten minutes into your first meeting, the sponsor says success is "one thing that already works,
+    a plan the board believes, numbers finance has signed, and my people still trust us". What do you
+    do next?
+  options:
+    - >-
+      Rephrase it into four measurable objectives with KPIs and send them to her after the meeting.
+    - >-
+      Read it back in her own words and ask whether you missed anything.
+    - >-
+      Explain which AI use cases could deliver each of the four outcomes before the board.
+    - >-
+      Ask her to rank the four outcomes so you know which one to drop if time runs short.
+  correct: 1
+  explanation: >-
+    Reading the objective back in the sponsor's words confirms it and makes it hers. Translating it
+    into consultant language loses her ownership, and pitching use cases this early stops her
+    telling you what she needs.
+
+- id: q2
+  question: >-
+    The CEO has promised the board an AI chatbot. Your sponsor, the COO, describes the goal as
+    "fewer angry customers and a support cost that stops rising". How do you write the objective
+    in the charter?
+  options:
+    - >-
+      As "deliver the chatbot by January", because the CEO's commitment outranks the COO's view.
+    - >-
+      As the CEO's three commitments only, leaving the COO's words for the interview notes.
+    - >-
+      As her words, noting the bot is a means, and log the gap with the CEO as an open question.
+    - >-
+      As a compromise sentence that blends the bot and her outcomes so that nobody objects.
+  correct: 2
+  explanation: >-
+    The charter records the sponsor's confirmed objective and whether the solution is the goal or a
+    means. The difference from the CEO's promise is real, so you log it openly and plan to reconcile
+    it with evidence, rather than hiding it in a blended sentence.
+
+- id: q3
+  question: >-
+    The interview is going well. Your sponsor has given you the objective, the budget and your
+    access, and asked "What worries me most? The team." You have five minutes left. What is the most
+    useful question now?
+  options:
+    - >-
+      "What keeps you up at night about delivery, the part of the operation you run every day?"
+    - >-
+      "Would you support a chatbot pilot in December if the vendor can deliver it in time?"
+    - >-
+      "Can you send me the full customer-service budget breakdown before Thursday?"
+    - >-
+      "Do you think the CEO's 40% target is realistic, between the two of us?"
+  correct: 0
+  explanation: >-
+    The political worry came out; the operational worry, the one sponsors keep from their own boss,
+    usually needs a question about the operation they run. Asking her to judge the CEO's target
+    invites disloyalty and closes her down.
+
+- id: q4
+  question: >-
+    After your first meeting you discover your "sponsor" controls no budget and none of the teams
+    whose work would change. What do you do?
+  options:
+    - >-
+      Proceed as planned, since enthusiasm matters more than budget at the start of a programme.
+    - >-
+      Ask her to lend you two people from another department informally until money appears.
+    - >-
+      Start building a small pilot quickly so that results create the budget you need later.
+    - >-
+      Note it in the charter and ask who can grant money and authority before going further.
+  correct: 3
+  explanation: >-
+    A sponsor without money or authority over the affected teams is a supporter. Write it down and
+    find the real sponsor now; a pilot built without one usually dies when it needs its first
+    decision.
+
+- id: q5
+  question: >-
+    It is 18:00 on your first day. You had a good meeting with the sponsor and took notes. What
+    should exist before you go home?
+  options:
+    - >-
+      A slide deck summarising your first impressions of the company's AI opportunities.
+    - >-
+      Charter sections 1–7 and a short read-back email she can correct.
+    - >-
+      A request to IT for admin access to every system, so that discovery can start tomorrow.
+    - >-
+      A list of vendors to call this week, so the CEO sees momentum on the chatbot.
+  correct: 1
+  explanation: >-
+    Writing the charter and sending a read-back the same day turns the conversation into a record
+    the sponsor can correct. Impressions decks, blanket access requests and vendor calls all get
+    ahead of the mandate.
