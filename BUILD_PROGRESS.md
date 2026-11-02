@@ -43,3 +43,21 @@ Goal: build the course in `curriculum/plan.md` under
 - 2026-11-02 Writer's notes for each organization (hidden truth, planted findings, numbers) live in `curriculum/engagements/` (never imported); the hidden truth reaches learners only inside `<details>` in NN.6.
 - 2026-11-02 fieldkit default model `claude-opus-5-5` with effort "low" (env FIELDKIT_MODEL/FIELDKIT_EFFORT to change); prices in `fieldkit/cost.py` from Anthropic's price list cached 2026-10-06. OpenAI has no default model (learner sets one). Anthropic path not run live (no key here); mock path tested.
 - 2026-11-02 docsify `vendor/` copied from activist-law for local preview; `index.html` + `_site_sidebar.md` to add at final QA.
+
+## Agent prompt for a module (copy, replace NN)
+
+> You write module NN of "AI Transformation in the Field" in
+> `C:\Users\TalGiladi\OneDrive\repos\course-creator\ai-transformation-field-course`.
+> Read `curriculum/build-spec.md` first and follow it exactly; it tells you what else to read.
+> Do NOT spawn sub-agents (max 2 agents run in total). Never commit or push. Never edit shared
+> files or another module's files; use the inboxes. Stage 1: the Harbor & Pine data room in
+> `labs/common/harbor-and-pine/` is read-only, and the numbers in
+> `curriculum/engagements/harbor-and-pine.md` ("Where each finding is planted") are the truth for
+> reference answers. Verify every law, guidance, price and tool fact you state against a primary
+> source you open now. Skip lessons the status log already lists. End with the build-spec's final
+> report (under 200 words).
+
+Main session after each module: read the report; `node curriculum/tools/merge-inboxes.mjs`;
+merge `curriculum/inbox/module-NN-sources.md` into `references/` when that page exists;
+`node curriculum/tools/check-module.mjs NN`; `node curriculum/tools/build-sidebar.mjs`;
+`npm run check-course` from tals-academy; commit.
