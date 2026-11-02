@@ -1,0 +1,22 @@
+/* vendor-rfp: page-specific styles (the shared look is in ../common/sim.css). */
+
+@media (min-width: 860px) {
+  .rfp-layout { grid-template-columns: minmax(220px, 280px) minmax(0, 1fr); }
+  .rfp-layout > .stack:first-child { position: sticky; top: 12px; }
+}
+.rank-list { padding-left: 1.4em; }
+.rank-list li { margin-bottom: 4px; }
+
+.vendor h3 { margin-bottom: 2px; }
+.vendor h4 { font-size: 0.95rem; margin: 10px 0 4px; }
+.claims { padding-left: 1.1em; }
+.claims li { margin-bottom: 8px; }
+.conditions { margin-top: 4px; padding: 6px 8px; border-left: 3px solid var(--warn); background: var(--surface-2); border-radius: 4px; }
+.docs { margin: 6px 0 10px; }
+.docs summary { cursor: pointer; color: var(--accent); }
+.poc-note { padding: 6px 8px; border-left: 3px solid var(--accent); background: var(--accent-soft); border-radius: 4px; }
+.scores .field { margin-bottom: 8px; }
+.vendor-total { font-weight: 700; margin: 6px 0 0; }
+
+.decision .choice { display: flex; gap: 10px; align-items: flex-start; padding: 5px 0; }
+.decision input[type="radio"], .decision input[type="checkbox"] { margin-top: 4px; width: 18px; height: 18px; flex: none; }

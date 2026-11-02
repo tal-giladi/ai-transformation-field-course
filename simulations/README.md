@@ -20,7 +20,7 @@ folders below the course root:
 [Simulation: Pilot economics](../../simulations/pilot-economics/index.html?preset=harbor)
 ```
 
-`?preset=` picks the scenario. An unknown or missing preset falls back to the default (`harbor`)
+`?preset=` picks the scenario. An unknown or missing preset falls back to the default (`harbor`; for batch 3, the engagement preset)
 and says so on the page. The learner can also switch scenarios with the picker.
 
 ## The simulations
@@ -32,11 +32,14 @@ and says so on the page. The learner can also switch scenarios with the picker.
 | `pilot-economics` | Volume × automation × accuracy × review and rework minutes × tokens → monthly net value, net hours (capacity, not cash), breakeven; charts of net value vs accuracy and vs review minutes; shows when review eats the saving | `harbor`, `generic` | 05.4 and 03.7 |
 | `oversight-under-load` | A review queue over two working weeks (Sun–Thu); load, rubber-stamping, vigilance; toggles "source shown beside the draft" and "flag feedback on"; the capacity screen; must meet a target for errors reaching customers within a reviewer-hours limit | `harbor`, `generic` | 05.5 |
 | `adoption-dynamics` | A 26-week rollout plan (training generic vs role-based, champions, office hours, workflow redesign, mandate, removing the old path); licences vs weekly active users vs qualified-use rate; a hidden "who stopped" view of quiet non-adoption; Goodhart under a mandate | `harbor`, `generic` | 06.4 |
-| `readiness-evidence-grader` | Sorts 17 dated evidence items (interview notes, a KPI report, the handbook, export profiles, vendor statements, emails) into verified / reported / contradicted; picks proceed / phase / not yet; sees the steering group react to the same verdict with an honest and an over-claimed report | `harbor` | 02.6 |
+| `readiness-evidence-grader` | Sorts 18 dated evidence items (interview notes, a KPI report, the handbook, export profiles, vendor statements, emails) into verified / reported / contradicted; picks proceed / phase / not yet; sees the steering group react to the same verdict with an honest and an over-claimed report | `harbor` | 02.6 |
 | `roi-defender` | Seven sponsor claims (₪1.36M a year, "the 40%") under the CFO's review: nets each across four ledgers (sponsor's team, receiving team, control capacity, customer's share), labels measured / directional / assumed, separates capacity from cash, applies the 12% hurdle and the ₪150k three-year board line; defensible vs claimed number and which claims survived | `harbor` | 03.7 |
 | `risk-register-tester` | Twelve owner-rated risks and a 15-point testing budget (ask the owner 1, sample the evidence 2, run a test 3); unearned greens, overstated reds; re-rates and sees the register's credibility before and after: earn the green | `harbor` | 04.5 |
 | `steering-committee` | A branching steering meeting with the CEO, CFO, sponsor, IT and the support manager; answer first, evidence vs inference, concede, overclaim, defer, ask for the decision; the sponsor-as-advocate branch; approved / with conditions / sent back / killed and "six months later" | `harbor` | 07.4 |
 | `incident-tabletop` | The draft pilot promises refunds outside policy and discloses another customer's address; six points over four days; contain, communicate, fix, report (privacy goes to the DPO or counsel, no legal deadline asserted); scored on harm, time to contain, trust and documentation; compared with a runbook | `harbor` | 07.5 |
+| `agent-authority` | Grants a customer-support agent its tools (read account, issue credit, change plan, reset 2FA, delete data, email customer, create ticket), a rung each (not granted / one approver / two approvers / executes alone), limits (caps, daily totals, per-customer rate, tiers, verification, address on file, soft delete), logging, its own identity, a kill switch; runs the must-refuse tests and a scripted week (edge cases, injections, a confused customer, social engineering, a replaced help article); tasks resolved, damage, last reversible moment, audit trail; the authority ladder and staged autonomy | `lumen`, `generic` | 14.4 and 14.5 |
+| `vendor-rfp` | Scores four ambient-scribe vendors on six criteria after the demos, again after the “demo conditions” reveal, again after a proof of concept on the clinics’ own synthetic recordings; picks a vendor, contract terms (training use, retention, location, sub-processors, model changes, safety, exit) and the steps before signing (DPO and counsel, clinician pilot, consent); compared with the evidence and the expert | `galil`, `generic` | 10.4 and 10.5 |
+| `operating-model-scaler` | Chooses central CoE / federated / hub-and-spoke, decision rights, central review slots a quarter, model-risk validation depth and paved roads (platform, templates and evaluation kit, catalogue); plays 12 quarters with shadow builds, duplicates, a supervisor’s question, a resignation, a budget cut, model drift and a vendor release; pilots in production, time to decision, backlog, duplicates, incidents, shadow tools, cost; hub constants vs spoke variables | `crescent`, `generic` | 15.4 and 15.5 |
 
 URL examples (from a lesson two folders deep):
 
@@ -50,6 +53,9 @@ URL examples (from a lesson two folders deep):
 - `../../simulations/risk-register-tester/index.html?preset=harbor` (04.5)
 - `../../simulations/steering-committee/index.html?preset=harbor` (07.4)
 - `../../simulations/incident-tabletop/index.html?preset=harbor` (07.5)
+- `../../simulations/agent-authority/index.html?preset=lumen` (14.4 and 14.5) and `?preset=generic`
+- `../../simulations/vendor-rfp/index.html?preset=galil` (10.4 and 10.5) and `?preset=generic`
+- `../../simulations/operating-model-scaler/index.html?preset=crescent` (15.4 and 15.5) and `?preset=generic`
 
 ## Presets and their parameters
 
@@ -138,6 +144,40 @@ problems (empty when the data is consistent). The field lists are at the top of 
   `overclaimThreshold` (2), `verdicts` (one `best`, reactions and tones for an honest and an
   over-claimed report, `changeIt`).
 
+### Batch 3: engagement simulations (scenario presets)
+
+Built before modules 10, 14 and 15 were written: each has a preset for its engagement and a `generic` one.
+The facts each engagement preset assumes (names, numbers, dates, the expert answer) are listed in
+`curriculum/inbox/simulations-batch-3-notes.md` so the module writers can match them or change the preset.
+Each `model.js` exports `validateScenario(preset)`; the field lists are at the top of each `presets.js`.
+
+- `agent-authority`: `currency`, `tiers`, `tools` (id, label, consequence, recoverability `band` easy / bounded /
+  difficult / none, `needs`, `limits` of kinds `cap`, `dailyTotal`, `perCustomerDay`, `tiers`, `verify`,
+  `ownAddressOnly`, `softDelete`, and `expertWhy`), `days`, `approvalCapacity` (approvals a day before they are
+  rubber-stamped), `costs` (minutes), `detection` (daily review hour, weekly report, no-log delay),
+  `killSwitchHours` / `noKillSwitchHours`, `softDeleteHours`, `routine` (requests a day per tool), `events`
+  (day, hour, customer, what they say, the action the agent tries, `right` = do / handoff / refuse, why, and
+  the `harm` with its window and last reversible moment; `catchAt` says whether one approver or only a second
+  catches it; `cause` links repeats such as the replaced article), `probes` (the must-refuse tests),
+  `startConfig` (what the product team demoed: everything on, no limits) and `expert` (config and a
+  staged-autonomy plan). `lumen`: about 80 requests a day for one week (Sunday–Thursday), 30 approvals a
+  day, invoice run Thursday 22:00, the replaced help article from Monday, found after 11 days with no log.
+  The validator checks that the expert set-up refuses every probe and loses nothing.
+- `vendor-rfp`: `criteria` (with weights), `vendors` (demo, `claims` with the measurement `conditions` and
+  whether they hold here, `docs`, `demoImpression` and `truth` scores 1–5 per criterion, `poc` results,
+  `terms` answers accepts / refuses with a note, price, `later`), `pocMetrics`, `terms` (must-have or not),
+  `beforeSigning` (right or wrong), `expert`. The validator checks that the evidence ranks the expert's pick
+  first and the demos do not, and that the pick accepts every must-have. `galil`: ScribeWave, Kol Refua,
+  MedNote for Clinix, Vocalis Health (expert pick). Never state a legal requirement: privacy questions go to
+  the DPO and counsel.
+- `operating-model-scaler`: `units` (maturity 1–3, `appetite` for building outside the process, `pilots` with
+  theme, risk tier, `weak`, `dependsOn`), `arrivals`, `money`, `build`, `review`, `shadow`, `risk`,
+  `regulator`, `keyPerson`, `driftTheme`, `events` (quarter, options with `effects` from a fixed list
+  described at the top of `presets.js`), `startConfig` (the organization as it works today),
+  `federatedConfig`, `naiveAnswers`, `expert` (config and answers), `hubSpoke`. The validator checks that the
+  expert design beats today's on production and federated on incidents and duplicates. `crescent`:
+  14 units, 40 pilots (10 weak), 12 quarters from Q1 2027, budget ₪11M a year (a 15% cut announced in Q3 2028).
+
 ## How to add a preset
 
 1. Open the simulation's `presets.js`, copy an existing entry and give it a new key (lowercase,
@@ -146,10 +186,10 @@ problems (empty when the data is consistent). The field lists are at the top of 
    learner is, what is being decided, what "done" looks like). Use fictional names only.
 3. Change the numbers or the scenario content. Keep every number realistic for that organization and
    say in `notes` which ones are assumptions.
-4. For a scenario preset (discovery, portfolio and all of batch 2): every fact must be reachable by some question, every
+4. For a scenario preset (discovery, portfolio and all of batches 2 and 3): every fact must be reachable by some question, every
    flag a question `requires` must be set by another question, exactly one diagnosis is correct, and
    the expert's picks must fit the teams' capacities. The batch-1 model test (see the notes file) checks this for `harbor`.
-   For batch-2 simulations run `validateScenario` from the simulation's `model.js` on the new preset;
+   For batch-2 and batch-3 simulations run `validateScenario` from the simulation's `model.js` on the new preset;
    for `steering-committee` also play every path once (the batch-2 test enumerates all of them) and
    check that each outcome you wrote can be reached.
 5. Check: `node --check simulations/<name>/presets.js`, then load the model in node and run the new

@@ -103,7 +103,7 @@ A short list at the end: the things you did not look at and why. At Harbor & Pin
 
 [Simulation: Readiness evidence grader](../../simulations/readiness-evidence-grader/index.html?preset=harbor)
 
-The simulation gives you 17 dated evidence items to sort into verified, reported and contradicted, then asks for a verdict and shows the steering group reacting to an honest report and to an over-claimed one.
+The simulation gives you 18 dated evidence items to sort into verified, reported and contradicted, then asks for a verdict and shows the steering group reacting to an honest report and to an over-claimed one.
 
 ## Watch out
 

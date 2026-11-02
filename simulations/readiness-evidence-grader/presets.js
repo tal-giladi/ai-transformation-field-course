@@ -112,8 +112,13 @@ const harbor = {
     {
       id: 'deskly', kind: 'vendor', source: 'Email from Deskly’s account manager to Avi', date: '3 Nov 2026', area: 'Technology and security',
       text: '“Customer content is never used to train our models and is deleted after 90 days.”',
-      truth: 'contradicted', why: 'The signed add-on terms say otherwise: §3.2 lets Deskly train on de-identified content unless you opt out in writing, and §3.4 keeps prompts and outputs 24 months in analytics. A sales email does not change a contract.',
+      truth: 'contradicted', by: ['desklyTerms'], why: 'The signed add-on terms say otherwise: §3.2 lets Deskly train on de-identified content unless you opt out in writing, and §3.4 keeps prompts and outputs 24 months in analytics. A sales email does not change a contract.',
       challenge: 'Ronit: “Which document binds us, the email or the terms we signed?” Nobody had compared them.',
+    },
+    {
+      id: 'desklyTerms', kind: 'policy', source: 'Deskly AI add-on terms of service, as received by Samir with the quote', date: '14 Oct 2026', area: 'Technology and security',
+      text: '§3.2: Deskly may use customer content in de-identified form to train and evaluate models unless the customer opts out in writing. §3.4: prompts and outputs kept 30 days, and 24 months in the analytics store.',
+      truth: 'verified', why: 'You read the terms yourself, clause by clause. What they say is verified; whether the settings match them is the next check.',
     },
   ],
   verdicts: [

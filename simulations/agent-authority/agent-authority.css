@@ -1,0 +1,20 @@
+/* agent-authority: page-specific styles (the shared look is in ../common/sim.css). */
+
+.group.tool .field { margin-bottom: 10px; }
+.tiers { border: 0; padding: 0; margin: 0 0 10px; min-width: 0; }
+.tiers legend { font-weight: 600; padding: 0; margin-bottom: 4px; }
+.tier { display: inline-flex; align-items: center; gap: 6px; margin: 0 14px 6px 0; }
+.tier input { width: 18px; height: 18px; margin: 0; }
+
+.probe-list { list-style: none; padding: 0; margin: 0; }
+.probe-list li { padding: 6px 0; border-bottom: 1px solid var(--border); }
+.probe-list li:last-child { border-bottom: 0; }
+
+.day { border-top: 1px solid var(--border); padding: 8px 0; }
+.day > summary { cursor: pointer; font-weight: 700; }
+.events { list-style: none; padding: 0; margin: 8px 0; }
+.event { padding: 8px 0 8px 12px; border-left: 3px solid var(--border); margin-bottom: 8px; }
+.event-head { margin-bottom: 4px; }
+.event p { margin-bottom: 4px; }
+.harm { padding: 6px 8px; border-radius: 6px; background: var(--bad-soft); }
+.bad-text { color: var(--bad); font-weight: 600; }
