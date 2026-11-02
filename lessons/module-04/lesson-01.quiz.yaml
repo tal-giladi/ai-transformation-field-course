@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    The CEO asks you to list the approved AI tools by name inside the acceptable-use policy, "so
+    nobody can say they didn't know". What do you propose instead?
+  options:
+    - >-
+      Name every tool in the policy and re-approve the whole policy each time a tool changes.
+    - >-
+      Leave tools out entirely and let each department head decide what is acceptable.
+    - >-
+      Point the policy to an approved list that IT maintains, so tools change without a re-signature.
+    - >-
+      Name only the banned tools in the policy, since approved tools are obvious to staff.
+  correct: 2
+  explanation: >-
+    The policy should be short and stable while the tool list changes monthly. Pointing to a maintained
+    list keeps one source of truth without making every new tool a management signature.
+
+- id: q2
+  question: >-
+    A draft rule says "Use AI responsibly and check outputs carefully." Six customer replies were sent
+    with the chatbot's own preamble. How do you rewrite the rule?
+  options:
+    - >-
+      Add that staff who send unchecked AI text will face disciplinary action.
+    - >-
+      List the checks: names, order numbers, dates and prices against the system of record.
+    - >-
+      Require every AI-drafted reply to be approved by the team lead before sending.
+    - >-
+      Ban AI drafting of customer replies until a pilot with formal review exists.
+  correct: 1
+  explanation: >-
+    A rule binds when it says what to do. Naming the concrete checks (against Priority, Deskly or StoreHub,
+    not against the draft) is what changes behaviour; threats, extra approvals or a ban do not fix the
+    gap the census showed.
+
+- id: q3
+  question: >-
+    Staff ask whether the company reads their AI prompts. What should the policy's logging section say
+    to stay within Israeli limits on monitoring employees?
+  options:
+    - >-
+      That all AI use is monitored, so nobody should put anything private or personal into any of the tools.
+    - >-
+      Nothing specific, since the 2021 IT policy already says internet use is logged.
+    - >-
+      That managers may review any employee's prompts and history whenever they suspect misuse of the tools.
+    - >-
+      What is collected and why, reported by team, with content read only in approved investigations.
+  correct: 3
+  explanation: >-
+    The Isakov tests ask for legitimacy, proportionality and transparency. Saying exactly what is logged,
+    why, how it is reported and what is not done meets them; blanket or vague monitoring statements, or
+    discretionary manager access, do not.
+
+- id: q4
+  question: >-
+    The census found support agents using a free translation extension because Russian and Arabic
+    replies take too long. Your draft policy bans unapproved extensions. What must ship with it?
+  options:
+    - >-
+      An approved translation tool, or a firm date for one, so the need has a legal route.
+    - >-
+      A list of the agents who installed the extension, so IT can follow up individually.
+    - >-
+      A technical block on all translation websites at the proxy, to make the ban effective.
+    - >-
+      A training session on writing Russian and Arabic replies without any tools.
+  correct: 0
+  explanation: >-
+    A ban without an alternative moves use to personal phones, outside every log. The census proved a
+    real need, so the policy must come with an approved route; naming people breaks the amnesty.
+
+- id: q5
+  question: >-
+    The Privacy Protection Authority's April 2025 guidance on AI recommends internal policies for
+    generative AI. How should you describe its status to the COO in November 2026?
+  options:
+    - >-
+      As binding regulation in force since Amendment 13, with fines for any company without a policy.
+    - >-
+      As a draft the regulator published for comment, showing what it expects; not yet final.
+    - >-
+      As withdrawn guidance that was replaced by the EU AI Act's literacy obligation.
+    - >-
+      As guidance that applies only to public bodies and data traders under the DPO rules.
+  correct: 1
+  explanation: >-
+    When checked, the PPA's AI guidance was still a draft. It is still the clearest statement of what the
+    regulator expects to see, so it is worth following, but it should not be presented as binding law.

@@ -4,6 +4,8 @@ The list of every AI system and feature in the organization — bought, built, s
 
 ## How to fill it
 
+Module 4 adds risk-tier columns (data class, decisions about people, acting without a person, harm if wrong, tier and reason, DPIA); the spreadsheet `labs/module-04/ai-inventory-tiering.csv` has them.
+
 - Write the counting rule at the top and apply it to every candidate. One row per tool **per use**.
 - Record excluded and "to verify" systems with the reason.
 - Every row has one named business owner: the head of the team that uses it, not IT by default.

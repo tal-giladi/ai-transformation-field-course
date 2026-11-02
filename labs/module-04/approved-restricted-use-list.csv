@@ -1,0 +1,3 @@
+list,id,use,tier,tools_and_plan,data_classes,condition_or_why,owner_or_who_may_lift,version_date
+approved,U-02,Draft and translate a customer reply (email; web form; WhatsApp),2,"Gemini (Workspace, company accounts); LinguaFlow Business",D,"Only the customer's message; a person checks names, dates, prices, promises and sends",Samir Haddad,2026-11-18
+restricted,R-01,AI output sent to customers without a person (auto-send; bots),3,,D,Wrong promises reach customers at volume,Review group after a pilot and risk review,2026-11-18

@@ -1,6 +1,6 @@
 # Transcript — Eitan Gross (Account Executive, ChatNest)
 
-*Pre-run meeting for lesson 04.8. Thursday 20 November 2026, 15:00, video call, 35 minutes. The
+*Pre-run meeting for lesson 04.8. Thursday 19 November 2026, 15:00, video call, 35 minutes. The
 interviewer is the Head of AI and Operations Improvement at Harbor & Pine. Read it as if you were
 sitting in: note what the interviewer found out, what they missed, and which questions worked.*
 

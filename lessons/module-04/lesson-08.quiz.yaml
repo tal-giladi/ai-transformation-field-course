@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    A vendor deck says its chatbot "fully resolves 70% of conversations without an agent". What do you
+    ask first?
+  options:
+    - >-
+      Whether the 70% figure has been independently audited by a major consulting firm.
+    - >-
+      How "resolved" is counted, and on which customers, languages, channels and period.
+    - >-
+      Whether the vendor would guarantee the same 70% for us in the contract.
+    - >-
+      How many retail customers in total use the chatbot, to judge its maturity.
+  correct: 1
+  explanation: >-
+    The number is only meaningful with its definition and measurement conditions. Here "resolved" means
+    no transfer during the session, on English US and Canadian retail with order tracking, which tells
+    you how far it is from your conditions.
+
+- id: q2
+  question: >-
+    The previous consultant's roadmap also assumes 70% deflection. The CEO says "two sources agree".
+    What do you tell him?
+  options:
+    - >-
+      That two documents agreeing makes the number reliable enough to plan with.
+    - >-
+      That the roadmap is more reliable because the consultant has no stake in the sale.
+    - >-
+      That the roadmap repeats the vendor's figure; it is the same claim one hop further away.
+    - >-
+      That consultants always inflate numbers, so the true figure is likely much lower.
+  correct: 2
+  explanation: >-
+    Tracing the figure shows the roadmap took it from the deck. Circulation is not corroboration; there
+    is still one source, chosen by the interested party.
+
+- id: q3
+  question: >-
+    Without the order-tracking integration, the bot answers "where is my order?" from the order
+    confirmation. About 38% of contacts are that question, caused by promised dates that are never
+    updated. What follows?
+  options:
+    - >-
+      The bot will repeat the same wrong date for delayed orders, so the claim does not fit until fixed.
+    - >-
+      The bot will still deflect those contacts, which is the main source of the vendor's value.
+    - >-
+      The integration can be added after go-live, so it does not affect the decision now.
+    - >-
+      The question should be excluded from the evaluation, since it is a logistics problem.
+  correct: 0
+  explanation: >-
+    The bot would answer the biggest contact type with the wrong date that causes it. The claim is
+    contradicted for those contacts until the date fix and an integration exist; testing them first
+    measures the wrong problem.
+
+- id: q4
+  question: >-
+    The account executive pushes for a decision before the 15% discount expires at his quarter end.
+    What is the best response?
+  options:
+    - >-
+      Sign now to secure the discount and run the evaluation during implementation.
+    - >-
+      Ask him to extend the discount by a month while you finish the paperwork.
+    - >-
+      Escalate to the CEO, since only he can decide whether the discount matters.
+    - >-
+      Say the discount does not set your timeline and propose a proof of concept on your own data.
+  correct: 3
+  explanation: >-
+    The deadline is the vendor's, not a risk input. Naming your sequence and offering a fair test keeps
+    the relationship and moves the decision onto evidence.
+
+- id: q5
+  question: >-
+    Which design makes a vendor proof of concept a real test?
+  options:
+    - >-
+      The vendor selects representative conversations and reports its own success rate.
+    - >-
+      Your own pseudonymised data under a DPA, criteria signed before results, intermediate steps shown.
+    - >-
+      A longer demo on the vendor's sample data, with your team asking live questions.
+    - >-
+      A free trial on the live website for a month, measured by the vendor's analytics.
+  correct: 1
+  explanation: >-
+    The test must run under your conditions, with success defined before anyone sees results, and be
+    inspectable. Vendor-chosen data, demos and vendor-measured live trials keep the vendor's conditions.

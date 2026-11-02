@@ -1,0 +1,15 @@
+id,tool_or_use,status,owner,max_data_class,decides_about_people,acts_without_person,harm_if_wrong,reaches_outside,people_or_contacts_per_month,new_recipients,source
+P-01,Reply drafts for all written support contact (drafts pilot; runs in Deskly AI Assist = AI-14),planned Feb 2027 (shadow),Samir Haddad,D,n,n,money,y,3200,y,"pilot scope (module 3); whatsapp-week-tally.csv (630 a week); tickets.csv (570 in Oct)"
+AI-01,PeopleWise AI Candidate Match,on by default (switch-off pending),Dana Katz,S,y,n,rights,y,40,y,peoplewise-release-notes-2026-03.md; 01.7
+AI-02,ChatGPT consumer plans — support replies,stopped by interim rule 12 Nov,Samir Haddad,D,n,n,money,y,300,y,proxy-log.csv; 01.6
+AI-03,LinguaFlow free extension — translation,being removed by 30 Nov,Samir Haddad,D,n,n,money,y,300,y,browser-extensions.csv; linguaflow DPA s1.2
+AI-18,LinguaFlow Business — translation of messages and replies,approved (04.3),Samir Haddad,D,n,n,money,y,800,y,linguaflow-translation-dpa.md
+AI-11,Gemini in Google Workspace — drafting and summaries,approved for listed uses (04.2),Avi Mizrahi,D,n,n,money,y,500,n,saas-list.csv; Google privacy hub
+AI-04,Marketing copy (CopyGenie company account),on,Noa Levi,P,n,n,none,y,0,n,expenses.csv; 04.2
+AI-07,StoreHub AI product descriptions,on,Noa Levi,P,n,n,none,y,0,n,saas-list.csv
+AI-08,MailPost AI subject lines and send-time optimisation,on,Noa Levi,D,n,y,none,y,,n,saas-list.csv
+AI-06,Claude (personal) — finance,unknown,Ronit Avraham,B,n,n,none,n,0,y,proxy-log.csv; expenses.csv
+AI-10,Grammarly extension,being removed by 30 Nov,department heads,D,n,n,none,y,,y,browser-extensions.csv
+AI-12,Zoom AI Companion,to verify,Avi Mizrahi,D,n,n,none,n,,n,saas-list.csv
+AI-16,Bitdefender ML detection,on,Avi Mizrahi,I,n,y,none,n,0,n,saas-list.csv
+AI-19,ChatNest customer chatbot,proposed,Yoav Ben-Ami,D,n,y,money,y,3200,y,chatnest-sales-deck.md

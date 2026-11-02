@@ -1,0 +1,2 @@
+tool,plan_or_account,training_on_our_input,retention,contract_dpa,location,source,checked,P_public,I_internal,B_business,D_personal,S_sensitive,conditions
+LinguaFlow Business,Business plan (15 seats),No,"Zero; 24-hour encrypted logs",DPA v4.0 (processor),"EU (Ireland, Netherlands)","vendors/linguaflow-translation-dpa.md s2, s4.1, s5",2026-11-17,Yes,Yes,Yes,Listed uses (translation),No,Extension forced to the Business account; free extension removed

@@ -1,0 +1,2 @@
+id,received,source,requester,what,business_owner,runs_in,data_class,overlaps,tier,route,status,decision,decided,days_to_decision,reason_or_conditions
+IN-01,2026-10-02,Email to IT (DPA cover note),Olga Petrenko (via Samir),Translation of customer messages and replies,Samir Haddad,LinguaFlow Business (15 seats),D,"Deskly AI Assist Translate; Gemini",Medium,New vendor: AI lead + IT,decided,Approved with conditions,2026-11-19,48,"Certificate scope confirmed; forced Business sign-in; free extension removed"

@@ -23,7 +23,7 @@ const harbor = {
       control: 'The 2021 IT policy forbids unapproved software; the proxy covers all web traffic.',
       evidence: {
         ask: { strength: 'none', text: 'Avi: “The policy is clear, and the proxy sees everything.”' },
-        sample: { strength: 'strong', text: 'October proxy log: 1,212 visits to chatgpt.com and gemini from 11 machines, 7 of them in Support. Logged, not blocked. The 2021 policy does not mention AI tools.' },
+        sample: { strength: 'strong', text: 'Proxy log 11–22 October: 160 ChatGPT requests from 5 Customer Service users, more from Marketing and Purchasing; the LinguaFlow extension on 9 machines. Logged, not blocked. The 2021 policy does not mention AI tools.' },
         test: { strength: 'strong', text: 'From a support PC you open chatgpt.com and paste a dummy customer record. Nothing stops you or warns you.' },
       },
       truth: { rating: 'red', control: 'paper', why: 'The proxy logs but does not block, the policy predates AI tools, and support agents paste customer data daily. A control that exists only on paper.' },
@@ -34,7 +34,7 @@ const harbor = {
       evidence: {
         ask: { strength: 'weak', text: 'Samir: “It is in the handbook, page 12. I would have to check who does it now.”' },
         sample: { strength: 'strong', text: 'Ten September claims: none has a QA sign-off; the outcome is missing on four. The org chart has no QA role.' },
-        test: { strength: 'strong', text: 'You ask who did QA on claim C-2291. Nobody can say; Rina says she “usually closes them herself”.' },
+        test: { strength: 'strong', text: 'You ask who did QA on claim DC-26-112. Nobody can say; Rina says she “usually closes them herself”.' },
       },
       truth: { rating: 'amber', control: 'paper', why: 'The QA step exists only in the handbook, and about a third of outcomes are never recorded. Amber: no AI uses these labels yet, but nothing should be trained on them.' },
     },
@@ -43,7 +43,7 @@ const harbor = {
       control: 'We do not use AI in hiring; recruiters read every CV.',
       evidence: {
         ask: { strength: 'none', text: 'Dana: “We do not use any AI in hiring. I would know.”' },
-        sample: { strength: 'strong', text: 'PeopleWise settings: “AI candidate match” on since the 14 March 2026 update; 212 candidates have a match score, and the list is sorted by it by default.' },
+        sample: { strength: 'strong', text: 'PeopleWise settings: “AI candidate match” on since the March 2026 update; 212 candidates have a match score, and the list is sorted by it by default.' },
         test: { strength: 'strong', text: 'You open the warehouse job posting as a recruiter: candidates are sorted by an AI match score, with no explanation shown.' },
       },
       truth: { rating: 'red', control: 'missing', why: 'The feature arrived in a SaaS update and is on. Recruiters see a ranking nobody chose or checked for bias. The control describes a world that ended in March.' },
@@ -64,7 +64,7 @@ const harbor = {
       evidence: {
         ask: { strength: 'none', text: 'Noa: “The new catalogue is the only one anyone uses.”' },
         sample: { strength: 'strong', text: 'The pilot’s source configuration lists the StoreHub feed only. The 2023 shared-drive copy was archived read-only on 20 November and removed from the vendor demo.' },
-        test: { strength: 'strong', text: 'You ask the pilot sandbox for the price of SOFA-118, discontinued in 2024. It answers: “no longer available”.' },
+        test: { strength: 'strong', text: 'You ask the pilot sandbox for the price of HP-DTB-1097, the Bergen table discontinued on 1 August 2025. It answers: “no longer available”.' },
       },
       truth: { rating: 'green', control: 'effective', why: 'The control exists, runs and catches what it should. A green you can show evidence for.' },
     },
@@ -110,10 +110,10 @@ const harbor = {
     },
     {
       id: 'retention', title: 'Customer data kept in AI logs longer than allowed', owner: 'Avi Mizrahi, IT', ownerRating: 'green',
-      control: 'Data-retention note: support data deleted after 24 months; AI logs after 90 days.',
+      control: 'The pilot DPIA says AI drafts and prompts are deleted after 90 days.',
       evidence: {
         ask: { strength: 'none', text: 'Avi: “Retention is in the note. Ninety days.”' },
-        sample: { strength: 'strong', text: 'Deskly admin: the AI add-on’s conversation history is set to “indefinite (default)”. The retention note was written in 2024, before the add-on.' },
+        sample: { strength: 'strong', text: 'Deskly admin: the AI add-on keeps prompts and outputs 24 months in its analytics store (terms §3.4), and the company’s retention note sets no deletion rule for tickets. The DPIA’s 90 days exists only on paper.' },
         test: { strength: 'strong', text: 'You search the Deskly AI history for a conversation from May 2026. It is there, with the customer’s phone number.' },
       },
       truth: { rating: 'amber', control: 'paper', why: 'The rule exists in a document; the setting was never changed. Amber: limited data, easy fix, but today the green is unearned.' },
@@ -144,7 +144,7 @@ const harbor = {
     'and whether there is evidence. Asking the owner is not a test. Unearned greens are what hurt you; overstated reds waste the attention the real reds need.',
   notes: [
     'The proxy log, the PeopleWise update, the missing QA step, the claims log and the stale catalogue copy follow the planted findings in the data room.',
-    'The visit counts, the dry-run results, the 41% drop after the date fix (live from 16 November 2026) and the training dates are assumptions for the exercise.',
+    'The vendor row assumes the Deskly agreement after the opt-out and renegotiation (lesson 04.3). The candidate count, the dry-run results, the 41% drop after the date fix (live from 16 November 2026) and the training dates are assumptions for the exercise.',
   ],
 };
 

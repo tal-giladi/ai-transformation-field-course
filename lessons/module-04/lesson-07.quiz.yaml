@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    The CEO proposes an eight-member AI committee that meets monthly and approves every AI request.
+    What do you propose instead?
+  options:
+    - >-
+      Accept it, because broad membership gives its decisions more legitimacy in the company.
+    - >-
+      A small group with written decision rights; most requests decided outside it, fast.
+    - >-
+      No committee at all; let IT approve every AI request as part of software approval.
+    - >-
+      A quarterly committee, so members have time to read every request carefully.
+  correct: 1
+  explanation: >-
+    Most requests can be decided by the secretary or IT within days if the rights are written down; the
+    group handles high-tier and restricted items. Big, slow committees push people back to shadow tools.
+
+- id: q2
+  question: >-
+    Marketing asks to move a ₪1,300-a-year copywriting tool from a personal card to a company account,
+    for public product text only. Which route does it take?
+  options:
+    - >-
+      The portfolio gate, with a business case in the CFO's template and the hurdle rate.
+    - >-
+      The review group's next monthly meeting, since every new tool needs its approval.
+    - >-
+      The board, because all AI spending must be reported there before approval.
+    - >-
+      Fast-track: a low-tier use with public data, decided within days and recorded in the register.
+  correct: 3
+  explanation: >-
+    The portfolio gate is for money above the thresholds or a move to scale. A cheap tool on public data
+    is a fast-track decision; routing it through a business case teaches people not to ask.
+
+- id: q3
+  question: >-
+    Three requests arrive in a month: a translation tool, the helpdesk add-on (which also translates),
+    and a workspace assistant already approved. What does the intake register's overlap column change?
+  options:
+    - >-
+      It lets you decide them together, so the company does not buy three translators.
+    - >-
+      Nothing, since each request must be judged on its own merits by its requester.
+    - >-
+      It forces the most expensive option to be chosen, since it covers the most features.
+    - >-
+      It sends all three to the board, because overlapping spending needs board approval.
+  correct: 0
+  explanation: >-
+    Recording what else does the same job turns three separate approvals into one decision and avoids
+    paying twice for the same capability.
+
+- id: q4
+  question: >-
+    Which set of numbers best tells the board whether AI governance works?
+  options:
+    - >-
+      Meetings held, documents approved and policies published this quarter.
+    - >-
+      Number of AI tools in the inventory and the share rated high risk.
+    - >-
+      Uses that reached production, median days to decision, and what was declined and why.
+    - >-
+      Licence spend on AI tools and the number of employees trained on the policy.
+  correct: 2
+  explanation: >-
+    The three numbers show whether governance lets the company use AI, whether it is fast enough to be
+    used, and whether it can say no. Activity counts and inventories do not show any of that.
+
+- id: q5
+  question: >-
+    The helpdesk vendor emails that it has added an AI sub-processor that reviews flagged content in a
+    new country. Customers can object within 15 days. Who acts, and how fast?
+  options:
+    - >-
+      Nobody yet: it waits for the next monthly review group meeting on the agenda.
+    - >-
+      The vendor, since sub-processor choices are its responsibility under the contract.
+    - >-
+      Counsel alone, since sub-processors are a purely legal matter for the company.
+    - >-
+      IT tells you the same day; the chair decides continue, object or pause within the 15 days.
+  correct: 3
+  explanation: >-
+    Escalation names a trigger, an owner, a response and who decides, with the contract's deadline as the
+    limit. Waiting for the meeting can run out the objection window; counsel advises on the transfer.

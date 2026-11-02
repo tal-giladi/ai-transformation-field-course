@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    The helpdesk's AI add-on terms say the vendor may use customer content, de-identified, to train
+    models unless the customer opts out in writing, effective 30 days after receipt. The pilot starts
+    in three weeks. What do you do?
+  options:
+    - >-
+      Accept it, since de-identified content no longer counts as personal data.
+    - >-
+      Send the opt-out now and put no customer data in until it is confirmed and in effect.
+    - >-
+      Start the pilot on schedule and send the opt-out once results look promising.
+    - >-
+      Reject the vendor outright, because any training clause rules a tool out for good.
+  correct: 1
+  explanation: >-
+    The clause is fixable but has a 30-day delay, so the opt-out must go first and data must wait for
+    it. "De-identified" is the vendor's method, which you cannot check; rejecting a fixable vendor wastes
+    the renewal leverage.
+
+- id: q2
+  question: >-
+    Which clause in the add-on terms most directly breaks the rule that a person sends every
+    customer reply?
+  options:
+    - >-
+      The liability cap of three months' fees for anything arising from the add-on.
+    - >-
+      Prompts and outputs kept for 24 months in the vendor's analytics store.
+    - >-
+      Any workspace administrator may switch on automatic sending for any view.
+    - >-
+      Sub-processors are changed by updating an annex on the vendor's website.
+  correct: 2
+  explanation: >-
+    The other clauses matter for liability, retention and control, but the admin switch turns drafting
+    into automatic sending with one click. It becomes a setting (off, admins limited, checked monthly)
+    and a contract ask.
+
+- id: q3
+  question: >-
+    A translation vendor's data processing addendum promises zero retention and no training. Nine
+    support machines run that vendor's free browser extension. What does your review conclude?
+  options:
+    - >-
+      The free extension is covered by the same addendum, so today's use is already fine.
+    - >-
+      The vendor is unsafe, because a free version exists that keeps data for training.
+    - >-
+      The review is premature until the agents stop using the extension voluntarily.
+    - >-
+      Approve the business plan, and treat the free extension as today's risk to remove.
+  correct: 3
+  explanation: >-
+    The addendum states it covers only the business plan; the free extension runs under consumer terms.
+    Review the contract that will govern the data, then use the admin controls to force the business
+    sign-in and remove the free installs.
+
+- id: q4
+  question: >-
+    A vendor's slide says "SOC 2 Type II" and "ISO 42001 aligned". What do you ask for?
+  options:
+    - >-
+      The SOC 2 report with its period and systems, and any certificate with its scope and sites.
+    - >-
+      Nothing more, since both are independent standards that settle the security question.
+    - >-
+      A signed letter from the vendor's CEO confirming the slide is accurate and current.
+    - >-
+      Their penetration-test results in full, which replace any certificate or audit report.
+  correct: 0
+  explanation: >-
+    A report covers a period and a set of systems; a certificate covers a scope and sites; "aligned"
+    is not certified. You need the documents to know whether they cover the service you would use.
+
+- id: q5
+  question: >-
+    The CEO asks why you sent counsel a list of facts and questions about the vendor instead of your
+    own conclusion on the transfer-abroad rules. What is the best answer?
+  options:
+    - >-
+      Counsel prefers to start from scratch, so a summary of the terms would only bias them.
+    - >-
+      Transfer routes and Regulation 15 are legal calls; you supply facts and hold data until answered.
+    - >-
+      The transfer rules apply only to public bodies, so the question is a formality for us.
+    - >-
+      Vendors are responsible for transfer compliance, so counsel only needs to confirm it.
+  correct: 1
+  explanation: >-
+    The duties sit with the database owner, and which route applies is counsel's judgment. Your job is
+    to give counsel the facts that decide it and to make sure no customer data moves before the answer.

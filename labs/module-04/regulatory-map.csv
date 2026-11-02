@@ -1,0 +1,2 @@
+id,instrument,applies_and_why,actor,obligation,inventory_ids,applies_from,status,source,checked,evidence_owner,question_for_counsel
+IL-5,"Privacy Protection (Transfer of Data to Databases Abroad) Regulations, 5761-2001",Yes: customer data goes to processors in the US and EU,Database owner,A permitted route for each destination; onward transfers with approval,"P-01, AI-18, AI-11, AI-19",In force,in force,Chambers Data Protection & Privacy 2026: Israel (secondary),2026-11-02,Ronit Avraham,Which route covers Deskly (US; Ireland; Philippines) and LinguaFlow (EU)?

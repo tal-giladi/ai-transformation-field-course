@@ -39,7 +39,8 @@ WHAT YOU KNOW AND WILL SAY IF ASKED PLAINLY
   a decision). "Freed capacity is not cash."
 - Q1 is the weakest cash quarter (after the winter sale); large payments in February and March are a
   problem.
-- Planning exchange rate: 3.70 shekels per US dollar.
+- Planning exchange rate: 3.70 shekels per US dollar, deliberately above the market rate (about 3.14 in
+  early November 2026) to cover currency risk on imports. Business cases use it; you know it is conservative.
 - Damage and returns write-offs were 690,000 shekels in 2025 — a separate line from customer service.
 
 WHAT YOU HIDE OR PLAY DOWN, AND WHAT UNLOCKS IT

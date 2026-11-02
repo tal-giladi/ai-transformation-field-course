@@ -33,3 +33,13 @@
   - [22 · The roadmap](/lessons/module-03/lesson-08.md)
   - [23 · The decision-ready case](/lessons/module-03/lesson-09.md)
   - [Module 3 quiz](/assessments/module-03-quiz.md)
+- **Module 4 — Guardrails You Can Ship in Week Two**
+  - [24 · The AI acceptable-use policy](/lessons/module-04/lesson-01.md)
+  - [25 · Approved tools and data classes](/lessons/module-04/lesson-02.md)
+  - [26 · Vendor and tool review](/lessons/module-04/lesson-03.md)
+  - [27 · AI inventory, risk tiering and the DPIA](/lessons/module-04/lesson-04.md)
+  - [28 · Risk register from zero](/lessons/module-04/lesson-05.md)
+  - [29 · Which law applies to you](/lessons/module-04/lesson-06.md)
+  - [30 · Governance that runs](/lessons/module-04/lesson-07.md)
+  - [31 · Vendor and claim due diligence](/lessons/module-04/lesson-08.md)
+  - [Module 4 quiz](/assessments/module-04-quiz.md)

@@ -5,6 +5,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 ## Terms
 
 - **Absorption** — The hours a month a receiving team says it can give to anything new (training, checking, new steps), asked of its lead, not assumed (lesson 03.4).
+- **Acceptable-use policy (AUP)** — The two-page rule set that tells employees whether they may use AI for a task, with which data, in which tool, and what they must check before an output leaves the company (lesson 04.1).
 - **Access request** — A one-page request for the minimum data needed, stating purpose, form, approver, storage, deletion date and whether counsel must check it (lesson 01.5).
 - **Accidental owner** — Someone told to "also do AI" on top of an existing job, with no written mandate, time or budget (lesson 01.1).
 - **Advisory boundary** — The line between questions you answer yourself (method, framing, priorities) and those you route to a named specialist such as counsel, the DPO, security, procurement or HR (lesson 01.1).
@@ -18,8 +19,12 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Chain of custody** — For a dataset: origin, the purpose it was collected for, whether that purpose covers the new use, where access is enforced, and the person who owns it today (lesson 02.5).
 - **Change request** — The logged, assessed and decided route for an expansion, recording what it would displace and telling the requester the reason and review date (lesson 01.3).
 - **Check log** — The appendix that lists each statement of an AI-drafted text, the source it was checked against and whether it was kept, corrected or removed (lesson 02.7).
+- **Claim read-back** — A one-page answer to whether a claim can be believed: the claim as stated, its measurement conditions, who chose them, the fit to the client's conditions, a rating and the evidence that would change it (lesson 04.8).
 - **Claims register** — The table that records, for every number in narrative documents, who said it, where, when, and whether it is verified, contradicted, a claim to test or unverifiable (lesson 01.5).
+- **Control status** — Whether a control is effective (runs and catches the failure, with evidence), designed, on paper only, or missing; it decides how far the residual rating may fall (lesson 04.5).
 - **Counting rule** — The written definition of what counts as AI for the inventory (outputs inferred from data, not only human-written rules), applied before counting (lesson 01.7).
+- **Data boundary** — One page per approved AI tool stating what data enters, where it travels, who sees it, whether the vendor trains on it, how long it stays and what happens at exit (lesson 04.3).
+- **Data class** — One of five labels (public, internal, confidential business, personal, highly sensitive) that decide which AI tools a piece of information may go into; a record takes the highest class of anything in it (lesson 04.2).
 - **Data gate** — The pass-or-fail check that a candidate's data is reachable, trusted, lawful for the purpose and, where outcomes matter, labelled (lesson 03.3).
 - **Data profile** — A one-page check of whether a dataset can carry a named AI use: completeness, label, duplicates, currency, representativeness, joinability, chain of custody and a verdict (lesson 02.5).
 - **Data-room first read** — The day-one record of every file's provenance, what is missing, and each narrative number's status (lesson 01.5).
@@ -27,6 +32,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Decision-ready case** — A one-page front with a one-sentence ask, the conservative scenario first, conditions, the cost of waiting and labelled claims with source tags, backed by an appendix (lesson 03.9).
 - **Definition card** — The rule that produced a baseline: start and stop events, population, clock, statistic, period, source and n, written before the number is computed (lesson 02.4).
 - **Divergence** — The spread between independent scores on one card; discussed for evidence instead of averaged (lesson 03.5).
+- **DPIA trigger** — A written condition (decisions about people, highly sensitive data, personal data at scale, new recipients, a new purpose, monitoring of people) that means a DPIA must be done before an AI use starts or continues (lesson 04.4).
 - **Exitable phase** — A priced part of an engagement with its own deliverables and acceptance criteria, after which the client can stop and keep everything delivered (lesson 01.1).
 - **Expansion** — A new request that fails any of the five refinement questions and therefore goes through a change request (lesson 01.3).
 - **Expected error cost** — Items a month × error rate × cost per error, netted from a candidate's benefit before its value is rated (lesson 03.4).
@@ -37,6 +43,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Hand tally** — A count kept by people over a chosen period where no export exists; a sample with estimation bias, used with its limits stated (lesson 02.4).
 - **Horizon by evidence** — Placing an initiative in Now, Next or Later by how much is proven and what it depends on, not by a start date (lesson 03.8).
 - **Host list** — The maintained list of AI service domains used to find AI traffic in a proxy log, because proxy categories lag behind new tools (lesson 01.6).
+- **Intake register** — The single list of every AI build, purchase and request, with owner, tool, data class, overlaps, tier, route, decision and days to decision (lesson 04.7).
 - **Interim AI rule** — A short rule issued within days of the census, covering the data that may not go into unapproved tools, an approved alternative with a date, and an amnesty for past use (lesson 01.6).
 - **Label question** — Whether the outcome an AI use would learn from or be judged against was ever recorded, consistently, by someone who knew; if not, the verdict is "not yet" (lesson 02.5).
 - **Ledger line** — For a candidate, who now checks, corrects, escalates or waits because of the change; never left blank (lesson 03.1).
@@ -44,19 +51,24 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Locked criteria** — Scoring weights, rating anchors and rules agreed and dated before the candidate list is opened, so they cannot bend to a favourite (lesson 03.4).
 - **Mandate** — The objective, money, authority and definition of "done" that a named sponsor has agreed to in writing (lesson 01.2).
 - **Measured / directional / assumed** — Evidence labels for a benefit: counted from data you can show; direction evidenced but size estimated; a belief, vendor figure or someone else's number (lesson 03.7).
+- **Measurement conditions** — The sample, definition of success, volume and task mix, oversight and time window under which a figure was measured (lesson 04.8).
+- **Mechanism sentence** — A risk written as "Because [condition], [who] may suffer [harm] through [path]", so a control can be attached to the path (lesson 04.5).
 - **Not yet a candidate** — An idea whose workflow step or owner cannot be named yet; recorded with the question that would make it a candidate (lesson 03.1).
 - **Observation protocol** — The agreed rules for watching real work: stated purpose, consent and the right to stop, a timed log, no personal data in the notes, a read-back (lesson 02.3).
 - **Opportunity map** — The full list of candidate changes from three feeds plus discovery, each restated as one workflow step with an owner, a sourced volume and one benefit unit, and placed as automate, assist, augment or leave alone (lesson 03.1).
 - **Paper versus practice** — The documented difference between the written process and the observed one, recorded as a finding with evidence and consequence (lesson 02.3).
 - **Parked list** — Ideas not funded now, each with its reason and a dated, evidence-based reopening condition (lesson 03.6).
 - **Plain automation** — Rules, integrations and scheduled jobs that need no model, such as comparing two dates and sending a fixed text (lesson 03.2).
+- **Pre-mortem** — A workshop in which participants assume the project has already failed and write down why before any discussion, to surface risks people hesitate to name (lesson 04.5).
 - **Proceed / phase / not yet** — The three readiness verdicts, given per use case, each with the findings it turns on and what would change it (lesson 02.6).
 - **Provenance** — How a file was produced (system export, hand-kept file, narrative document, vendor document, written for you), which sets how far to trust it (lesson 01.5).
 - **Read-back** — Repeating the sponsor's objective to them in their own words and recording that they confirmed or corrected it (lesson 01.2).
 - **Readiness assessment** — A dated judgment, per use case, of whether the work, data, owners, people, governance, measurement and technology around it are ready, ending in proceed, phase or not yet (lesson 02.6).
 - **Receiving team** — The people who absorb work a program moves or creates, often outside the team in scope and missing from the org chart's view of the project (lesson 02.1).
 - **Refinement** — A new request that serves the same objective, users, data and deliverable and fits the agreed time and money; done inside the phase without a change request (lesson 01.3).
+- **Regulatory map** — A one-page table of which instrument applies to which AI use, in which role (actor), with which obligation, from which date, at which status and on which checked source (lesson 04.6).
 - **Residue** — The work people take on so that an automation or AI can run, such as keeping a sheet in a fixed format; it goes on the ledger line with an owner (lesson 03.2).
+- **Restricted use** — An AI use that needs the review group's decision or that nobody may do, recorded with the reason and who may lift it (lesson 04.2).
 - **Same-word test** — Asking each role what has happened when a shared word such as "resolved" or "ready" is true and what it excludes, then recording the competing readings and the one the work will use (lesson 02.2).
 - **Scope boundary** — The written list of what a phase includes, excludes and only reads, each line with a reason, acknowledged by the people who can change it (lesson 01.3).
 - **Scope test** — One sentence, derived from the objective, that every inclusion and exclusion in the scope boundary must answer to (lesson 01.3).
@@ -69,6 +81,9 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Steering pre-read** — The date the decision-makers receive a pack before a board or steering meeting, usually a week earlier; the real deadline for the work (lesson 01.4).
 - **Task inventory** — One row per task as the worker does it, with trigger, volume, time, error or rework, variation and judgment, each number with its source (lesson 02.3).
 - **Three feeds** — The three sources of candidates: what people request, what they already use, and the goals leadership has stated (lesson 03.1).
+- **Three numbers for the board** — What reached production, how long decisions take, and what was declined and why: the report that shows whether AI governance works (lesson 04.7).
+- **Tier rule** — The High / Medium / Low classification of AI uses written as conditions anyone can check from the inventory, combining consequence (who can be harmed) and authority (whether a person stands between output and world) (lesson 04.4).
+- **Tiered control** — Sorting AI uses by what they touch into "go ahead", "go ahead within the listed use" and "ask first", so low-risk use needs no approval and review effort goes where the risk is (lesson 04.2).
 - **Time study** — A planned measurement of handling time per task (start and end of each item, minimum items per task and language), reported as medians, never per person (lesson 02.4).
 - **Triangulation** — Stating a quantity that no field records as a range from several independent signals, each with the reason it is high or low (lesson 02.4).
 - **Two-reader check** — Giving the front page to a finance reader and a sponsor for one minute each and fixing whatever they cannot find (lesson 03.9).

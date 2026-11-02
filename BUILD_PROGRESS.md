@@ -29,7 +29,7 @@ Goal: build the course in `curriculum/plan.md` under
 ## Now working
 
 - Agent 1: module 05 — started 2026-11-02.
-- Agent 2: module 04 — started 2026-11-02.
+- Agent 2: module 06 — started 2026-11-02.
 - After Foundation C: align Harbor volumes in `simulations/pilot-economics/presets.js`, `oversight-under-load/presets.js` and the portfolio-sorter cards with the data room (see `curriculum/inbox/simulations-batch-1-notes.md`).
 - Next: modules 03, 04 as slots free; simulations batch 3 before module 10/14/15.
 
@@ -66,3 +66,5 @@ merge `curriculum/inbox/module-NN-sources.md` into `references/` when that page 
 - 2026-11-02 Pilot scope decided: support drafts for ALL written contact (email, web form, and WhatsApp once routed into Deskly), about 3,200 a month in peak season; WISMO drafts quote the updated ETA after the date fix. Sim presets reworded to match (no number changes except exchange rate 3.70 → pilot-economics harbor ₪10,048/month, 108.8 h, breakeven 11.9 months). The ₪150k board line is over three years.
 - 2026-11-02 Finding 18 (two order numbers: WhatsApp HP-1… web-store numbers vs ERP SO26…) kept as intended. readiness-evidence-grader preset aligned with the data room (Deskly item is now a contradicted sales email).
 - 2026-11-02 Timeline for modules 3–7 fixed in `curriculum/engagements/harbor-and-pine.md` (steering 19 Jan 2027 on test-set evidence, board 28 Jan, shadow mode and staged release from 1 Feb, incident 15 Mar, May gate). Sims: shadow-mode claims removed from steering/roi; Hadar Klein → Yaniv Carmi; delay-email volume 210/month. Two seasonal temps added to Samir's persona.
+- 2026-11-02 Exchange rate: the CFO's ₪3.70/US$ is a deliberately conservative planning rate (market ~3.14 in Nov 2026); stated in finance-summary.md and Ronit's persona. risk-register-tester preset aligned with the data room. Module 4 dates (AUP 19/22 Nov, Deskly opt-out 18 Nov, first review group 10 Dec) are canon for later modules. EU hotel customers (Cyprus/Greece groups buying for Israeli hotels) exist only as Yaniv's interview fact in 04.6.
+- At final QA: merge the suggested updates at the end of `curriculum/inbox/module-04-sources.md` into `references/laws-and-guidance.md`.

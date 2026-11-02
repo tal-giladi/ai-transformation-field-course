@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    The support manager says the drafts pilot is low risk "because an agent sends every reply". It
+    reads about 3,200 customer messages a month and sends them to processors in three countries.
+    How does the tier rule classify it?
+  options:
+    - >-
+      Low, because a person stands between every single draft and the customer who receives it.
+    - >-
+      Medium, because personal data is involved but the agent controls the output.
+    - >-
+      High: personal data at scale goes to new recipients, reviewer or not.
+    - >-
+      Unclassified until the pilot has run in shadow mode and the error rate is known.
+  correct: 2
+  explanation: >-
+    The reviewer limits what goes out; it does not change what the system reads, keeps and sends abroad.
+    The rule's data-at-scale condition makes the use High, so it needs a DPIA and tested controls.
+
+- id: q2
+  question: >-
+    The marketing tool picks subject lines and send times for newsletters without anyone approving
+    each email. The rule's "acts without a person" condition seems to make it High. What do you do?
+  options:
+    - >-
+      Apply the harm test: a badly timed newsletter costs nobody money or rights, so Medium.
+    - >-
+      Mark it High, since any system that acts without a person must be High in every case.
+    - >-
+      Remove the row, because marketing automation is outside the scope of AI governance.
+    - >-
+      Ask the vendor to rate the risk, since they know their own product best.
+  correct: 0
+  explanation: >-
+    The authority condition is paired with the consequence of a wrong output. Here the harm is trivial,
+    so the row is Medium; a rule that makes everything High stops telling you where to look.
+
+- id: q3
+  question: >-
+    Which of these is written as a DPIA risk in a form you can put a control on?
+  options:
+    - >-
+      "Reputational risk to Harbor & Pine if the AI makes mistakes in front of customers."
+    - >-
+      "Privacy risk: medium. Accuracy risk: high. Security risk: medium. Bias risk: unknown."
+    - >-
+      "Regulatory fines under Amendment 13 if the regulator investigates the pilot."
+    - >-
+      "Because drafts state dates, a customer may get a wrong date via an agent who trusts it."
+  correct: 3
+  explanation: >-
+    A DPIA looks at harm to people, and a mechanism sentence names the path a control can block. Company
+    risks and category labels do not tell you what to change.
+
+- id: q4
+  question: >-
+    Harbor & Pine has no data protection officer. Who should own and approve the pilot's DPIA?
+  options:
+    - >-
+      You, as the AI lead, since you wrote it and understand the system best.
+    - >-
+      The business owner owns it, the sponsor approves it, and counsel's advice is recorded in it.
+    - >-
+      The vendor, because it operates the AI and its sub-processors on the company's behalf.
+    - >-
+      Nobody yet: a DPIA cannot be finalised in Israel until a DPO is appointed.
+  correct: 1
+  explanation: >-
+    The person who runs the use and the sponsor who accepts the residual risk must own the decision;
+    counsel advises and, if the company turns out to need a DPO, the DPO signs too. You draft.
+
+- id: q5
+  question: >-
+    The privacy notice from 2022 says messages are used "to answer your questions and complaints"
+    and shared with service providers. The pilot adds AI processing abroad. What is your next step?
+  options:
+    - >-
+      Nothing, because answering questions already covers any tool used to do it.
+    - >-
+      Publish a new notice yourself before the pilot so customers are informed in time.
+    - >-
+      Write the gap list and proposed wording and send them to counsel as questions.
+    - >-
+      Ask every customer for consent by email before their messages are drafted.
+  correct: 2
+  explanation: >-
+    Whether the old notice covers the use, and what the new one must say after Amendment 13, are legal
+    calls. You prepare the facts and the draft wording; counsel decides and the company publishes.

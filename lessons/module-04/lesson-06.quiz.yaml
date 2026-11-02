@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    The CEO heard that "the EU AI Act applies to everyone who uses AI". The company sells and delivers
+    only in Israel, but three hotel-group customers have procurement managers in Cyprus and Greece.
+    What do you check first?
+  options:
+    - >-
+      Whether any AI output is used in the EU, since non-EU deployers are in scope only then.
+    - >-
+      Whether the company's AI tools come from EU vendors, since that decides the scope.
+    - >-
+      Whether the company has more than 250 employees, since smaller firms are exempt.
+    - >-
+      Whether any system is high-risk, since only high-risk systems are covered at all.
+  correct: 0
+  explanation: >-
+    Article 2(1)(c) brings in providers and deployers outside the EU only where the system's output is
+    used in the Union. Here that is at most AI-drafted replies to the EU contacts; other rows stay outside.
+
+- id: q2
+  question: >-
+    A colleague's map says "AI Act high-risk rules apply from 2 August 2026". What do you correct,
+    after checking EUR-Lex?
+  options:
+    - >-
+      Nothing: 2 August 2026 is the AI Act's general date and covers high-risk systems too.
+    - >-
+      The date to 2 August 2027, the original date for all high-risk obligations.
+    - >-
+      The date to 2 December 2027 for Annex III systems and 2 August 2028 for Annex I systems.
+    - >-
+      The status: the Digital Omnibus repealed the high-risk obligations entirely in 2026.
+  correct: 2
+  explanation: >-
+    Regulation (EU) 2026/1744, in force since 27 July 2026, amended Article 113: Chapter III Sections 1–3
+    apply from 2 December 2027 for Annex III systems and 2 August 2028 for Annex I systems.
+
+- id: q3
+  question: >-
+    Which instrument is most likely to impose concrete duties on an Israeli company for personal data
+    that an EU hotel group sends it about its own staff?
+  options:
+    - >-
+      The GDPR, because any data about EU residents is covered wherever it is processed.
+    - >-
+      Israel's 2023 regulations on data transferred to Israel from the EEA.
+    - >-
+      The EU AI Act, because the data may later be processed with an AI tool.
+    - >-
+      None, because Israel's EU adequacy decision removes all duties on such data.
+  correct: 1
+  explanation: >-
+    The 2023 Israeli regulations apply to personal data received from the EEA that was not sent directly
+    by the person (deletion, minimisation, accuracy, notice). The GDPR does not follow data everywhere,
+    and adequacy is what makes the transfer easy, not what removes duties.
+
+- id: q4
+  question: >-
+    How should the regulatory map record the Privacy Protection Authority's April 2025 guidance on AI?
+  options:
+    - >-
+      Leave it off, because only binding law belongs on a regulatory map.
+    - >-
+      As binding law, since the regulator says it will enforce its positions.
+    - >-
+      As replaced by Amendment 13, which absorbed the guidance into the statute.
+    - >-
+      As a draft, with what it expects of the company, labelled separately from law.
+  correct: 3
+  explanation: >-
+    The map separates status: in force, not yet applying, draft, proposal, voluntary. The draft shows
+    what the regulator expects and is worth following, but it must not be presented as law.
+
+- id: q5
+  question: >-
+    Your reasoning says the GDPR most likely does not apply and the AI Act reaches the company only
+    through drafts to EU contacts. What do you do with that conclusion?
+  options:
+    - >-
+      Send it to counsel as a proposed reading with facts, plus reopening triggers.
+    - >-
+      Publish it to the board as the company's settled legal position on EU law.
+    - >-
+      Hold it back until counsel writes an independent opinion from scratch.
+    - >-
+      Start an EU compliance programme anyway, because the reasoning might be wrong.
+  correct: 0
+  explanation: >-
+    You narrow the question with facts so counsel can confirm it efficiently, and you record what would
+    change the answer. Asserting it as the legal position, or over-reacting, both skip that step.

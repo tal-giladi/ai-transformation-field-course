@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A buyer asks: "Is a supplier record sensitive? It has the factory's prices and the sales rep's
+    name and mobile." Which answer does the data-class list give?
+  options:
+    - >-
+      Public, because the supplier sent it to us without any confidentiality agreement.
+    - >-
+      Confidential business only, since supplier contacts are business data, not personal data.
+    - >-
+      Personal data overall: prices are business data, the rep's details personal, and the highest class wins.
+    - >-
+      Highly sensitive, because any combination of prices and names must be locked down.
+  correct: 2
+  explanation: >-
+    A record takes the highest class of anything in it. The rep's name and phone are personal data, so the
+    whole record goes only into tools approved for personal data; the prices alone would be business data.
+
+- id: q2
+  question: >-
+    An agent says she removes the customer's name before pasting an email into a chatbot, so it is
+    anonymous. The email still has the order number and a delivery address. What do you tell her?
+  options:
+    - >-
+      That is fine for free tools, as long as the name is gone from every line.
+    - >-
+      It is still personal data: the order number and address identify the customer.
+    - >-
+      It is fine if she also removes the phone number, because phones are the key identifier.
+    - >-
+      It is only a problem for Arabic and Russian emails, which contain more personal details.
+  correct: 1
+  explanation: >-
+    Identifiers such as an order number or address point to one person in the ERP. Removing the name does
+    not anonymise a support message, so it stays in the personal-data class.
+
+- id: q3
+  question: >-
+    Marketing wants "ChatGPT" on the approved list. Two employees use it on Plus with personal cards,
+    one on the free plan. What do you put in the list's row?
+  options:
+    - >-
+      The plan and account type, since consumer and business plans have different training terms.
+    - >-
+      "ChatGPT: approved", since the brand is the same whichever plan each person uses.
+    - >-
+      "ChatGPT: banned", because personal subscriptions show the tool cannot be controlled.
+    - >-
+      "ChatGPT: approved for marketing only", since marketing data is never personal.
+  correct: 0
+  explanation: >-
+    OpenAI says individual plans may train on content unless the user opts out, while business plans do
+    not by default. Approving a brand hides that difference; each row names the plan and account.
+
+- id: q4
+  question: >-
+    Which of these belongs on the restricted-use list rather than in tier 1 or tier 2?
+  options:
+    - >-
+      Translating a supplier email with prices in the company's Workspace Gemini account.
+    - >-
+      Drafting a customer reply in an approved tool, with an agent checking and sending it.
+    - >-
+      Rewriting a help-centre article that is already published on the website.
+    - >-
+      Letting the helpdesk's AI send replies it rates "high confidence" without an agent.
+  correct: 3
+  explanation: >-
+    Automatic sending removes the human check and can spread a wrong promise at volume. That is a
+    management decision after a pilot and risk review, not something a user or admin switches on.
+
+- id: q5
+  question: >-
+    The approved list is published, but nothing else changes. Two weeks later the proxy still shows
+    the free translation extension in Customer Service. What was missing?
+  options:
+    - >-
+      A stronger warning in the acceptable-use policy about disciplinary action.
+    - >-
+      A transition plan: buy the approved tool, remove the extension, force the business sign-in.
+    - >-
+      A second data class between internal and personal to cover translation work.
+    - >-
+      A survey asking agents why they ignored the list after it was published.
+  correct: 1
+  explanation: >-
+    A list changes behaviour only when the approved route exists and the old one is removed. Buying the
+    business plan, removing the free installs and forcing sign-in to the company account is the change.

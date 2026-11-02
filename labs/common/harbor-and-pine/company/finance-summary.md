@@ -45,4 +45,5 @@ customer-service cost.
 - Seasonal cash: Q4 is the strongest quarter for cash in, Q1 the weakest after the winter sale. Large
   payments in February–March are hard.
 - Currency: suppliers are paid in US$ and €; we hedge three months ahead. For planning use
-  ₪3.70 per US$ (finance planning rate, October 2026).
+  ₪3.70 per US$ (finance planning rate, October 2026). Deliberately conservative: it covers currency
+  risk on dollar-priced imports and is above the market rate.

@@ -1,0 +1,15 @@
+- **Acceptable-use policy (AUP)** — The two-page rule set that tells employees whether they may use AI for a task, with which data, in which tool, and what they must check before an output leaves the company (lesson 04.1).
+- **Data class** — One of five labels (public, internal, confidential business, personal, highly sensitive) that decide which AI tools a piece of information may go into; a record takes the highest class of anything in it (lesson 04.2).
+- **Tiered control** — Sorting AI uses by what they touch into "go ahead", "go ahead within the listed use" and "ask first", so low-risk use needs no approval and review effort goes where the risk is (lesson 04.2).
+- **Restricted use** — An AI use that needs the review group's decision or that nobody may do, recorded with the reason and who may lift it (lesson 04.2).
+- **Data boundary** — One page per approved AI tool stating what data enters, where it travels, who sees it, whether the vendor trains on it, how long it stays and what happens at exit (lesson 04.3).
+- **Tier rule** — The High / Medium / Low classification of AI uses written as conditions anyone can check from the inventory, combining consequence (who can be harmed) and authority (whether a person stands between output and world) (lesson 04.4).
+- **DPIA trigger** — A written condition (decisions about people, highly sensitive data, personal data at scale, new recipients, a new purpose, monitoring of people) that means a DPIA must be done before an AI use starts or continues (lesson 04.4).
+- **Mechanism sentence** — A risk written as "Because [condition], [who] may suffer [harm] through [path]", so a control can be attached to the path (lesson 04.5).
+- **Pre-mortem** — A workshop in which participants assume the project has already failed and write down why before any discussion, to surface risks people hesitate to name (lesson 04.5).
+- **Control status** — Whether a control is effective (runs and catches the failure, with evidence), designed, on paper only, or missing; it decides how far the residual rating may fall (lesson 04.5).
+- **Regulatory map** — A one-page table of which instrument applies to which AI use, in which role (actor), with which obligation, from which date, at which status and on which checked source (lesson 04.6).
+- **Intake register** — The single list of every AI build, purchase and request, with owner, tool, data class, overlaps, tier, route, decision and days to decision (lesson 04.7).
+- **Three numbers for the board** — What reached production, how long decisions take, and what was declined and why: the report that shows whether AI governance works (lesson 04.7).
+- **Claim read-back** — A one-page answer to whether a claim can be believed: the claim as stated, its measurement conditions, who chose them, the fit to the client's conditions, a rating and the evidence that would change it (lesson 04.8).
+- **Measurement conditions** — The sample, definition of success, volume and task mix, oversight and time window under which a figure was measured (lesson 04.8).
