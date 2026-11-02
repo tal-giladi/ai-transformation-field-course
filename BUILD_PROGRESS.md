@@ -29,7 +29,7 @@ Goal: build the course in `curriculum/plan.md` under
 ## Now working
 
 - Agent 1: engagement 08 (Northwind) — started 2026-11-02.
-- Agent 2: free.
+- Agent 2: engagement 09 (Meridian) — started 2026-11-02.
 - After Foundation C: align Harbor volumes in `simulations/pilot-economics/presets.js`, `oversight-under-load/presets.js` and the portfolio-sorter cards with the data room (see `curriculum/inbox/simulations-batch-1-notes.md`).
 - Next: modules 03, 04 as slots free; simulations batch 3 before module 10/14/15.
 
