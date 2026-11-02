@@ -1,0 +1,311 @@
+expense_id,employee_id,employee_name,department,expense_date,merchant,description,amount,currency,amount_ils,payment_method,category,approved_by
+EXP-5209,HP-1075,Abebe Barak,Sales – Showroom Tel Aviv,2026-01-01,AROMA ESPRESSO BAR,Meeting coffee,87.30,ILS,87.30,Personal card - reimbursement,Meals,Rebecca Morris
+EXP-5213,HP-1004,Samir Haddad,Customer Service,2026-01-02,AROMA ESPRESSO BAR,Meeting coffee,73.50,ILS,73.50,Corporate card,Meals,Michal Peretz
+EXP-5216,HP-1085,Anna Volkova,Sales – Showroom Tel Aviv,2026-01-02,RAV-KAV,Train,32.87,ILS,32.87,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5225,HP-1021,Shir Barak,Marketing & E-commerce,2026-01-03,DELEK,Fuel,236.68,ILS,236.68,Personal card - reimbursement,Travel,Noa Levi
+EXP-5210,HP-1005,Olga Petrenko,Customer Service,2026-01-04,AROMA ESPRESSO BAR,Meeting coffee,83.95,ILS,83.95,Personal card - reimbursement,Meals,Samir Haddad
+EXP-5208,HP-1103,Lior Friedman,Marketing & E-commerce,2026-01-05,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Noa Levi
+EXP-5229,HP-1097,Ksenia Orlova,B2B Sales,2026-01-07,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Yaniv Carmi
+EXP-5214,HP-1119,Inbal Mekonen,Facilities,2026-01-08,WOLT,Team lunch,433.32,ILS,433.32,Personal card - reimbursement,Meals,Michal Peretz
+EXP-5221,HP-1103,Lior Friedman,Marketing & E-commerce,2026-01-08,OFFICE DEPOT IL,Office supplies,43.82,ILS,43.82,Personal card - reimbursement,Office,Noa Levi
+EXP-5222,HP-1076,Larisa Zaitseva,Sales – Showroom Tel Aviv,2026-01-08,GETT TAXI,Taxi to client meeting,142.00,ILS,142.00,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5212,HP-1102,Jamal Nasser,B2B Sales,2026-01-09,SHUTTERSTOCK,Stock photos,224.19,ILS,224.19,Personal card - reimbursement,Marketing,Yaniv Carmi
+EXP-5224,HP-1020,Noa Levi,Marketing & E-commerce,2026-01-09,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Corporate card,Software,Yoav Ben-Ami
+EXP-5230,HP-1016,Tigist Mekonen,Customer Service,2026-01-09,RAV-KAV,Train,29.21,ILS,29.21,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5205,HP-1101,Yossi Friedman,B2B Sales,2026-01-10,HOTEL HAIFA,Overnight - Haifa showroom,479.90,ILS,479.90,Personal card - reimbursement,Travel,Yaniv Carmi
+EXP-5207,HP-1009,Lina Khoury,Customer Service,2026-01-10,SHUTTERSTOCK,Stock photos,183.47,ILS,183.47,Personal card - reimbursement,Marketing,Samir Haddad
+EXP-5202,HP-1085,Anna Volkova,Sales – Showroom Tel Aviv,2026-01-12,GETT TAXI,Taxi to client meeting,101.38,ILS,101.38,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5203,HP-1012,Hila Dahan,Customer Service,2026-01-12,DELEK,Fuel,330.58,ILS,330.58,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5228,HP-1101,Yossi Friedman,B2B Sales,2026-01-12,SHUTTERSTOCK,Stock photos,128.92,ILS,128.92,Personal card - reimbursement,Marketing,Yaniv Carmi
+EXP-5217,HP-1085,Anna Volkova,Sales – Showroom Tel Aviv,2026-01-17,WOLT,Team lunch,279.43,ILS,279.43,Personal card - reimbursement,Meals,Rebecca Morris
+EXP-5215,HP-1013,Moran Biton,Customer Service,2026-01-19,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Samir Haddad
+EXP-5226,HP-1107,Svetlana Belova,Marketing & E-commerce,2026-01-19,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Noa Levi
+EXP-5206,HP-1079,Yossi Hazan,Sales – Showroom Tel Aviv,2026-01-20,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Rebecca Morris
+EXP-5219,HP-1116,Khaled Shehadeh,Merchandising,2026-01-20,GETT TAXI,Taxi to client meeting,146.98,ILS,146.98,Personal card - reimbursement,Travel,Liat Dahan
+EXP-5227,HP-1005,Olga Petrenko,Customer Service,2026-01-21,ALIEXPRESS,Samples,347.32,ILS,347.32,Personal card - reimbursement,Purchasing,Samir Haddad
+EXP-5223,HP-1110,Suha Kiwan,Finance,2026-01-22,ALIEXPRESS,Samples,255.36,ILS,255.36,Personal card - reimbursement,Purchasing,Natalia Gurevich
+EXP-5211,HP-1071,Leah Price,Purchasing,2026-01-23,GETT TAXI,Taxi to client meeting,175.72,ILS,175.72,Personal card - reimbursement,Travel,Eyal Navon
+EXP-5201,HP-1087,Pavel Rabinovich,Sales – Showroom Tel Aviv,2026-01-26,ALIEXPRESS,Samples,323.88,ILS,323.88,Personal card - reimbursement,Purchasing,Rebecca Morris
+EXP-5204,HP-1089,Yulia Rabinovich,Sales – Showroom Haifa,2026-01-26,AROMA ESPRESSO BAR,Meeting coffee,39.79,ILS,39.79,Personal card - reimbursement,Meals,Sivan Carmi
+EXP-5218,HP-1074,Rebecca Morris,Sales – Showroom Tel Aviv,2026-01-27,OFFICE DEPOT IL,Office supplies,179.11,ILS,179.11,Personal card - reimbursement,Office,Yoav Ben-Ami
+EXP-5220,HP-1114,Rasha Badir,HR,2026-01-27,OFFICE DEPOT IL,Office supplies,88.92,ILS,88.92,Personal card - reimbursement,Office,Dana Katz
+EXP-5240,HP-1007,Yana Kogan,Customer Service,2026-02-01,ALIEXPRESS,Samples,354.28,ILS,354.28,Personal card - reimbursement,Purchasing,Samir Haddad
+EXP-5232,HP-1106,Ido Ohayon,Marketing & E-commerce,2026-02-02,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Noa Levi
+EXP-5252,HP-1110,Suha Kiwan,Finance,2026-02-02,SHUTTERSTOCK,Stock photos,143.73,ILS,143.73,Personal card - reimbursement,Marketing,Natalia Gurevich
+EXP-5245,HP-1019,Avi Mizrahi,IT,2026-02-03,ALIEXPRESS,Samples,138.33,ILS,138.33,Personal card - reimbursement,Purchasing,Ronit Avraham
+EXP-5236,HP-1030,Itai Mekonen,Logistics & Warehouse,2026-02-04,DELEK,Fuel,371.66,ILS,371.66,Personal card - reimbursement,Travel,Tamar Shalev
+EXP-5231,HP-1020,Noa Levi,Marketing & E-commerce,2026-02-05,COPYGENIE.IO,CopyGenie Pro - monthly,39.00,USD,144.30,Personal card - reimbursement,Software,Yoav Ben-Ami
+EXP-5235,HP-1100,Ruti Shapiro,B2B Sales,2026-02-07,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Yaniv Carmi
+EXP-5244,HP-1108,Noam Rosen,Finance,2026-02-10,GETT TAXI,Taxi to client meeting,173.46,ILS,173.46,Personal card - reimbursement,Travel,Natalia Gurevich
+EXP-5237,HP-1076,Larisa Zaitseva,Sales – Showroom Tel Aviv,2026-02-11,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Rebecca Morris
+EXP-5248,HP-1100,Ruti Shapiro,B2B Sales,2026-02-11,SHUTTERSTOCK,Stock photos,147.65,ILS,147.65,Personal card - reimbursement,Marketing,Yaniv Carmi
+EXP-5251,HP-1072,Oren Malka,Purchasing,2026-02-11,ALIEXPRESS,Samples,68.19,ILS,68.19,Personal card - reimbursement,Purchasing,Eyal Navon
+EXP-5241,HP-1077,Dafna Biton,Sales – Showroom Tel Aviv,2026-02-12,RAV-KAV,Train,31.38,ILS,31.38,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5243,HP-1024,Igor Volkov,Purchasing,2026-02-12,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Eyal Navon
+EXP-5247,HP-1086,Anat Rosen,Sales – Showroom Tel Aviv,2026-02-13,HOTEL HAIFA,Overnight - Haifa showroom,663.05,ILS,663.05,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5250,HP-1078,David Ben-David,Sales – Showroom Tel Aviv,2026-02-14,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Rebecca Morris
+EXP-5238,HP-1030,Itai Mekonen,Logistics & Warehouse,2026-02-18,WOLT,Team lunch,364.41,ILS,364.41,Personal card - reimbursement,Meals,Tamar Shalev
+EXP-5239,HP-1114,Rasha Badir,HR,2026-02-20,SHUTTERSTOCK,Stock photos,156.38,ILS,156.38,Personal card - reimbursement,Marketing,Dana Katz
+EXP-5242,HP-1102,Jamal Nasser,B2B Sales,2026-02-20,ALIEXPRESS,Samples,106.94,ILS,106.94,Personal card - reimbursement,Purchasing,Yaniv Carmi
+EXP-5246,HP-1081,Inbal Gabay,Sales – Showroom Tel Aviv,2026-02-23,AROMA ESPRESSO BAR,Meeting coffee,64.88,ILS,64.88,Personal card - reimbursement,Meals,Rebecca Morris
+EXP-5233,HP-1073,Tomer Azoulay,Purchasing,2026-02-24,HOTEL HAIFA,Overnight - Haifa showroom,596.53,ILS,596.53,Personal card - reimbursement,Travel,Eyal Navon
+EXP-5234,HP-1007,Yana Kogan,Customer Service,2026-02-24,ALIEXPRESS,Samples,106.34,ILS,106.34,Personal card - reimbursement,Purchasing,Samir Haddad
+EXP-5249,HP-1021,Shir Barak,Marketing & E-commerce,2026-02-26,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Noa Levi
+EXP-5253,HP-1115,Liat Dahan,Merchandising,2026-02-28,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Corporate card,Software,Michal Peretz
+EXP-5260,HP-1116,Khaled Shehadeh,Merchandising,2026-03-01,GETT TAXI,Taxi to client meeting,155.69,ILS,155.69,Personal card - reimbursement,Travel,Liat Dahan
+EXP-5262,HP-1094,Ido Biton,Sales – Showroom Haifa,2026-03-01,DELEK,Fuel,349.80,ILS,349.80,Personal card - reimbursement,Travel,Sivan Carmi
+EXP-5286,HP-1102,Jamal Nasser,B2B Sales,2026-03-01,PANGO,Parking,31.94,ILS,31.94,Personal card - reimbursement,Travel,Yaniv Carmi
+EXP-5276,HP-1115,Liat Dahan,Merchandising,2026-03-02,OFFICE DEPOT IL,Office supplies,186.95,ILS,186.95,Personal card - reimbursement,Office,Michal Peretz
+EXP-5281,HP-1001,Yoav Ben-Ami,Management,2026-03-02,HOTEL HAIFA,Overnight - Haifa showroom,605.87,ILS,605.87,Personal card - reimbursement,Travel,
+EXP-5254,HP-1020,Noa Levi,Marketing & E-commerce,2026-03-05,COPYGENIE.IO,CopyGenie Pro - monthly,39.00,USD,144.30,Personal card - reimbursement,Marketing tools,Yoav Ben-Ami
+EXP-5271,HP-1104,Nir Barak,Marketing & E-commerce,2026-03-06,DELEK,Fuel,391.50,ILS,391.50,Personal card - reimbursement,Travel,Noa Levi
+EXP-5255,HP-1030,Itai Mekonen,Logistics & Warehouse,2026-03-07,AROMA ESPRESSO BAR,Meeting coffee,118.96,ILS,118.96,Personal card - reimbursement,Meals,Tamar Shalev
+EXP-5265,HP-1114,Rasha Badir,HR,2026-03-07,ALIEXPRESS,Samples,138.05,ILS,138.05,Personal card - reimbursement,Purchasing,Dana Katz
+EXP-5285,HP-1097,Ksenia Orlova,B2B Sales,2026-03-07,HOTEL HAIFA,Overnight - Haifa showroom,620.60,ILS,620.60,Personal card - reimbursement,Travel,Yaniv Carmi
+EXP-5264,HP-1115,Liat Dahan,Merchandising,2026-03-08,HOTEL HAIFA,Overnight - Haifa showroom,558.31,ILS,558.31,Corporate card,Travel,Michal Peretz
+EXP-5282,HP-1108,Noam Rosen,Finance,2026-03-08,WOLT,Team lunch,174.46,ILS,174.46,Personal card - reimbursement,Meals,Natalia Gurevich
+EXP-5257,HP-1018,Tamar Shalev,Logistics & Warehouse,2026-03-10,ALIEXPRESS,Samples,390.40,ILS,390.40,Corporate card,Purchasing,Michal Peretz
+EXP-5261,HP-1077,Dafna Biton,Sales – Showroom Tel Aviv,2026-03-12,HOTEL HAIFA,Overnight - Haifa showroom,631.44,ILS,631.44,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5256,HP-1100,Ruti Shapiro,B2B Sales,2026-03-13,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Yaniv Carmi
+EXP-5273,HP-1013,Moran Biton,Customer Service,2026-03-14,ALIEXPRESS,Samples,286.47,ILS,286.47,Personal card - reimbursement,Purchasing,Samir Haddad
+EXP-5279,HP-1092,Leonid Volkov,Sales – Showroom Haifa,2026-03-14,GETT TAXI,Taxi to client meeting,67.99,ILS,67.99,Personal card - reimbursement,Travel,Sivan Carmi
+EXP-5268,HP-1099,Dafna Yosef,B2B Sales,2026-03-16,OFFICE DEPOT IL,Office supplies,227.78,ILS,227.78,Personal card - reimbursement,Office,Yaniv Carmi
+EXP-5269,HP-1103,Lior Friedman,Marketing & E-commerce,2026-03-16,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Noa Levi
+EXP-5263,HP-1082,Lior Azoulay,Sales – Showroom Tel Aviv,2026-03-17,OFFICE DEPOT IL,Office supplies,314.61,ILS,314.61,Personal card - reimbursement,Office,Rebecca Morris
+EXP-5275,HP-1027,Muhammad Shehadeh,Management,2026-03-17,DELEK,Fuel,169.39,ILS,169.39,Personal card - reimbursement,Travel,Yoav Ben-Ami
+EXP-5274,HP-1008,Sergei Novikov,Customer Service,2026-03-18,ALIEXPRESS,Samples,121.72,ILS,121.72,Personal card - reimbursement,Purchasing,Samir Haddad
+EXP-5283,HP-1084,Dmitri Lerner,Sales – Showroom Tel Aviv,2026-03-18,GETT TAXI,Taxi to client meeting,168.37,ILS,168.37,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5258,HP-1114,Rasha Badir,HR,2026-03-20,SHUTTERSTOCK,Stock photos,278.34,ILS,278.34,Personal card - reimbursement,Marketing,Dana Katz
+EXP-5259,HP-1006,Rina Azoulay,Customer Service,2026-03-22,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Samir Haddad
+EXP-5278,HP-1101,Yossi Friedman,B2B Sales,2026-03-22,DELEK,Fuel,374.61,ILS,374.61,Personal card - reimbursement,Travel,Yaniv Carmi
+EXP-5270,HP-1090,Worku Azoulay,Sales – Showroom Haifa,2026-03-23,PANGO,Parking,54.87,ILS,54.87,Personal card - reimbursement,Travel,Sivan Carmi
+EXP-5280,HP-1087,Pavel Rabinovich,Sales – Showroom Tel Aviv,2026-03-23,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Rebecca Morris
+EXP-5284,HP-1075,Abebe Barak,Sales – Showroom Tel Aviv,2026-03-23,SHUTTERSTOCK,Stock photos,164.64,ILS,164.64,Personal card - reimbursement,Marketing,Rebecca Morris
+EXP-5267,HP-1107,Svetlana Belova,Marketing & E-commerce,2026-03-25,SHUTTERSTOCK,Stock photos,139.59,ILS,139.59,Personal card - reimbursement,Marketing,Noa Levi
+EXP-5272,HP-1026,Natalia Gurevich,Finance,2026-03-25,SHUTTERSTOCK,Stock photos,220.77,ILS,220.77,Corporate card,Marketing,Ronit Avraham
+EXP-5266,HP-1115,Liat Dahan,Merchandising,2026-03-27,SHUTTERSTOCK,Stock photos,128.54,ILS,128.54,Corporate card,Marketing,Michal Peretz
+EXP-5277,HP-1091,Abebe Alemu,Sales – Showroom Haifa,2026-03-27,HOTEL HAIFA,Overnight - Haifa showroom,497.03,ILS,497.03,Personal card - reimbursement,Travel,Sivan Carmi
+EXP-5307,HP-1119,Inbal Mekonen,Facilities,2026-04-01,PANGO,Parking,47.93,ILS,47.93,Personal card - reimbursement,Travel,Michal Peretz
+EXP-5289,HP-1086,Anat Rosen,Sales – Showroom Tel Aviv,2026-04-02,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Rebecca Morris
+EXP-5299,HP-1004,Samir Haddad,Customer Service,2026-04-03,WOLT,Team lunch,235.13,ILS,235.13,Corporate card,Meals,Michal Peretz
+EXP-5313,HP-1029,Irina Lerner,Logistics & Warehouse,2026-04-03,ALIEXPRESS,Samples,233.54,ILS,233.54,Personal card - reimbursement,Purchasing,Tamar Shalev
+EXP-5309,HP-1084,Dmitri Lerner,Sales – Showroom Tel Aviv,2026-04-04,AROMA ESPRESSO BAR,Meeting coffee,110.28,ILS,110.28,Personal card - reimbursement,Meals,Rebecca Morris
+EXP-5287,HP-1020,Noa Levi,Marketing & E-commerce,2026-04-05,COPYGENIE.IO,CopyGenie Pro - monthly,39.00,USD,144.30,Personal card - reimbursement,Software,Yoav Ben-Ami
+EXP-5294,HP-1110,Suha Kiwan,Finance,2026-04-05,GETT TAXI,Taxi to client meeting,131.21,ILS,131.21,Personal card - reimbursement,Travel,Natalia Gurevich
+EXP-5315,HP-1073,Tomer Azoulay,Purchasing,2026-04-05,PANGO,Parking,41.91,ILS,41.91,Personal card - reimbursement,Travel,Eyal Navon
+EXP-5288,HP-1021,Shir Barak,Marketing & E-commerce,2026-04-07,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,20.00,USD,74.00,Personal card - reimbursement,Software,Noa Levi
+EXP-5306,HP-1102,Jamal Nasser,B2B Sales,2026-04-07,OFFICE DEPOT IL,Office supplies,123.99,ILS,123.99,Personal card - reimbursement,Office,Yaniv Carmi
+EXP-5317,HP-1017,Daniel Shaw,Customer Service,2026-04-07,DELEK,Fuel,364.88,ILS,364.88,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5295,HP-1111,Mahmoud Khoury,Finance,2026-04-08,WOLT,Team lunch,258.71,ILS,258.71,Personal card - reimbursement,Meals,Natalia Gurevich
+EXP-5297,HP-1008,Sergei Novikov,Customer Service,2026-04-09,GETT TAXI,Taxi to client meeting,152.35,ILS,152.35,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5302,HP-1007,Yana Kogan,Customer Service,2026-04-09,ALIEXPRESS,Samples,214.12,ILS,214.12,Personal card - reimbursement,Purchasing,Samir Haddad
+EXP-5304,HP-1100,Ruti Shapiro,B2B Sales,2026-04-09,AROMA ESPRESSO BAR,Meeting coffee,41.08,ILS,41.08,Personal card - reimbursement,Meals,Yaniv Carmi
+EXP-5312,HP-1090,Worku Azoulay,Sales – Showroom Haifa,2026-04-09,PANGO,Parking,17.84,ILS,17.84,Personal card - reimbursement,Travel,Sivan Carmi
+EXP-5292,HP-1002,Michal Peretz,Management,2026-04-11,WOLT,Team lunch,376.31,ILS,376.31,Corporate card,Meals,Yoav Ben-Ami
+EXP-5301,HP-1101,Yossi Friedman,B2B Sales,2026-04-12,SHUTTERSTOCK,Stock photos,175.78,ILS,175.78,Personal card - reimbursement,Marketing,Yaniv Carmi
+EXP-5311,HP-1073,Tomer Azoulay,Purchasing,2026-04-12,AROMA ESPRESSO BAR,Meeting coffee,108.08,ILS,108.08,Personal card - reimbursement,Meals,Eyal Navon
+EXP-5296,HP-1009,Lina Khoury,Customer Service,2026-04-13,WOLT,Team lunch,399.76,ILS,399.76,Personal card - reimbursement,Meals,Samir Haddad
+EXP-5291,HP-1017,Daniel Shaw,Customer Service,2026-04-14,OFFICE DEPOT IL,Office supplies,47.50,ILS,47.50,Personal card - reimbursement,Office,Samir Haddad
+EXP-5293,HP-1075,Abebe Barak,Sales – Showroom Tel Aviv,2026-04-18,WOLT,Team lunch,239.33,ILS,239.33,Personal card - reimbursement,Meals,Rebecca Morris
+EXP-5316,HP-1084,Dmitri Lerner,Sales – Showroom Tel Aviv,2026-04-19,DELEK,Fuel,183.94,ILS,183.94,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5303,HP-1107,Svetlana Belova,Marketing & E-commerce,2026-04-20,AROMA ESPRESSO BAR,Meeting coffee,41.50,ILS,41.50,Personal card - reimbursement,Meals,Noa Levi
+EXP-5290,HP-1008,Sergei Novikov,Customer Service,2026-04-21,WOLT,Team lunch,246.66,ILS,246.66,Personal card - reimbursement,Meals,Samir Haddad
+EXP-5314,HP-1101,Yossi Friedman,B2B Sales,2026-04-21,ALIEXPRESS,Samples,152.43,ILS,152.43,Personal card - reimbursement,Purchasing,Yaniv Carmi
+EXP-5310,HP-1004,Samir Haddad,Customer Service,2026-04-23,RAV-KAV,Train,22.14,ILS,22.14,Corporate card,Travel,Michal Peretz
+EXP-5305,HP-1098,Guy Elbaz,B2B Sales,2026-04-25,OFFICE DEPOT IL,Office supplies,307.18,ILS,307.18,Personal card - reimbursement,Office,Yaniv Carmi
+EXP-5298,HP-1087,Pavel Rabinovich,Sales – Showroom Tel Aviv,2026-04-26,RAV-KAV,Train,28.10,ILS,28.10,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5300,HP-1001,Yoav Ben-Ami,Management,2026-04-28,WOLT,Team lunch,449.39,ILS,449.39,Corporate card,Meals,
+EXP-5308,HP-1083,Emily Morris,Sales – Showroom Tel Aviv,2026-04-28,PANGO,Parking,51.79,ILS,51.79,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5329,HP-1023,Eyal Navon,Purchasing,2026-05-04,GETT TAXI,Taxi to client meeting,59.15,ILS,59.15,Personal card - reimbursement,Travel,Michal Peretz
+EXP-5318,HP-1020,Noa Levi,Marketing & E-commerce,2026-05-05,COPYGENIE.IO,CopyGenie Pro - monthly,39.00,USD,144.30,Personal card - reimbursement,Software,Yoav Ben-Ami
+EXP-5319,HP-1021,Shir Barak,Marketing & E-commerce,2026-05-07,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,20.00,USD,74.00,Personal card - reimbursement,Software,Noa Levi
+EXP-5326,HP-1108,Noam Rosen,Finance,2026-05-07,GETT TAXI,Taxi to client meeting,142.73,ILS,142.73,Personal card - reimbursement,Travel,Natalia Gurevich
+EXP-5337,HP-1090,Worku Azoulay,Sales – Showroom Haifa,2026-05-08,DELEK,Fuel,373.19,ILS,373.19,Personal card - reimbursement,Travel,Sivan Carmi
+EXP-5324,HP-1084,Dmitri Lerner,Sales – Showroom Tel Aviv,2026-05-09,GETT TAXI,Taxi to client meeting,120.79,ILS,120.79,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5332,HP-1116,Khaled Shehadeh,Merchandising,2026-05-09,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Liat Dahan
+EXP-5338,HP-1024,Igor Volkov,Purchasing,2026-05-09,ALIEXPRESS,Samples,338.47,ILS,338.47,Personal card - reimbursement,Purchasing,Eyal Navon
+EXP-5323,HP-1116,Khaled Shehadeh,Merchandising,2026-05-10,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Liat Dahan
+EXP-5334,HP-1113,Orly Yosef,HR,2026-05-10,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Dana Katz
+EXP-5322,HP-1097,Ksenia Orlova,B2B Sales,2026-05-11,AROMA ESPRESSO BAR,Meeting coffee,59.41,ILS,59.41,Personal card - reimbursement,Meals,Yaniv Carmi
+EXP-5327,HP-1118,Keren Azoulay,Merchandising,2026-05-11,OFFICE DEPOT IL,Office supplies,307.81,ILS,307.81,Personal card - reimbursement,Office,Liat Dahan
+EXP-5325,HP-1014,Adi Golan,Customer Service,2026-05-14,ALIEXPRESS,Samples,370.09,ILS,370.09,Personal card - reimbursement,Purchasing,Samir Haddad
+EXP-5330,HP-1020,Noa Levi,Marketing & E-commerce,2026-05-14,RAV-KAV,Train,26.35,ILS,26.35,Corporate card,Travel,Yoav Ben-Ami
+EXP-5340,HP-1103,Lior Friedman,Marketing & E-commerce,2026-05-14,HOTEL HAIFA,Overnight - Haifa showroom,562.04,ILS,562.04,Personal card - reimbursement,Travel,Noa Levi
+EXP-5343,HP-1007,Yana Kogan,Customer Service,2026-05-17,SHUTTERSTOCK,Stock photos,242.89,ILS,242.89,Personal card - reimbursement,Marketing,Samir Haddad
+EXP-5509,HP-1021,Shir Barak,Marketing & E-commerce,2026-05-17,MIDJOURNEY INC.,image gen - campaign,30.00,USD,111.00,Personal card - reimbursement,Software,Noa Levi
+EXP-5328,HP-1119,Inbal Mekonen,Facilities,2026-05-18,SHUTTERSTOCK,Stock photos,120.62,ILS,120.62,Personal card - reimbursement,Marketing,Michal Peretz
+EXP-5320,HP-1009,Lina Khoury,Customer Service,2026-05-19,RAV-KAV,Train,24.56,ILS,24.56,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5331,HP-1011,Ahmad Jabareen,Customer Service,2026-05-19,RAV-KAV,Train,21.43,ILS,21.43,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5341,HP-1026,Natalia Gurevich,Finance,2026-05-19,ALIEXPRESS,Samples,175.33,ILS,175.33,Corporate card,Purchasing,Ronit Avraham
+EXP-5342,HP-1082,Lior Azoulay,Sales – Showroom Tel Aviv,2026-05-19,DELEK,Fuel,205.45,ILS,205.45,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5339,HP-1012,Hila Dahan,Customer Service,2026-05-20,HOTEL HAIFA,Overnight - Haifa showroom,589.16,ILS,589.16,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5321,HP-1093,David Tesfaye,Sales – Showroom Haifa,2026-05-25,DELEK,Fuel,350.22,ILS,350.22,Personal card - reimbursement,Travel,Sivan Carmi
+EXP-5333,HP-1019,Avi Mizrahi,IT,2026-05-26,GETT TAXI,Taxi to client meeting,98.24,ILS,98.24,Personal card - reimbursement,Travel,Ronit Avraham
+EXP-5336,HP-1104,Nir Barak,Marketing & E-commerce,2026-05-27,RAV-KAV,Train,21.41,ILS,21.41,Personal card - reimbursement,Travel,Noa Levi
+EXP-5335,HP-1006,Rina Azoulay,Customer Service,2026-05-28,SHUTTERSTOCK,Stock photos,155.15,ILS,155.15,Personal card - reimbursement,Marketing,Samir Haddad
+EXP-5344,HP-1111,Mahmoud Khoury,Finance,2026-05-28,WOLT,Team lunch,240.08,ILS,240.08,Personal card - reimbursement,Meals,Natalia Gurevich
+EXP-5366,HP-1017,Daniel Shaw,Customer Service,2026-06-01,RAV-KAV,Train,15.12,ILS,15.12,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5370,HP-1110,Suha Kiwan,Finance,2026-06-02,HOTEL HAIFA,Overnight - Haifa showroom,659.30,ILS,659.30,Personal card - reimbursement,Travel,Natalia Gurevich
+EXP-5349,HP-1108,Noam Rosen,Finance,2026-06-04,HOTEL HAIFA,Overnight - Haifa showroom,699.66,ILS,699.66,Personal card - reimbursement,Travel,Natalia Gurevich
+EXP-5368,HP-1009,Lina Khoury,Customer Service,2026-06-04,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Samir Haddad
+EXP-5345,HP-1020,Noa Levi,Marketing & E-commerce,2026-06-05,COPYGENIE.IO,CopyGenie Pro - monthly,39.00,USD,144.30,Personal card - reimbursement,Marketing tools,Yoav Ben-Ami
+EXP-5358,HP-1103,Lior Friedman,Marketing & E-commerce,2026-06-05,HOTEL HAIFA,Overnight - Haifa showroom,621.47,ILS,621.47,Personal card - reimbursement,Travel,Noa Levi
+EXP-5346,HP-1021,Shir Barak,Marketing & E-commerce,2026-06-07,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,20.00,USD,74.00,Personal card - reimbursement,Marketing tools,Noa Levi
+EXP-5357,HP-1093,David Tesfaye,Sales – Showroom Haifa,2026-06-07,WOLT,Team lunch,266.66,ILS,266.66,Personal card - reimbursement,Meals,Sivan Carmi
+EXP-5347,HP-1024,Igor Volkov,Purchasing,2026-06-09,OPENAI *CHATGPT SUBSCR,chatgpt plus,20.00,USD,74.00,Personal card - reimbursement,Marketing tools,Eyal Navon
+EXP-5356,HP-1005,Olga Petrenko,Customer Service,2026-06-09,DELEK,Fuel,379.80,ILS,379.80,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5360,HP-1119,Inbal Mekonen,Facilities,2026-06-09,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Michal Peretz
+EXP-5364,HP-1114,Rasha Badir,HR,2026-06-09,OFFICE DEPOT IL,Office supplies,162.16,ILS,162.16,Personal card - reimbursement,Office,Dana Katz
+EXP-5367,HP-1116,Khaled Shehadeh,Merchandising,2026-06-12,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Liat Dahan
+EXP-5354,HP-1028,Wassim Jabareen,Logistics & Warehouse,2026-06-13,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Tamar Shalev
+EXP-5359,HP-1100,Ruti Shapiro,B2B Sales,2026-06-13,AROMA ESPRESSO BAR,Meeting coffee,53.45,ILS,53.45,Personal card - reimbursement,Meals,Yaniv Carmi
+EXP-5369,HP-1086,Anat Rosen,Sales – Showroom Tel Aviv,2026-06-13,GETT TAXI,Taxi to client meeting,177.19,ILS,177.19,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5373,HP-1002,Michal Peretz,Management,2026-06-13,GETT TAXI,Taxi to client meeting,134.91,ILS,134.91,Corporate card,Travel,Yoav Ben-Ami
+EXP-5348,HP-1100,Ruti Shapiro,B2B Sales,2026-06-14,GETT TAXI,Taxi to client meeting,117.03,ILS,117.03,Personal card - reimbursement,Travel,Yaniv Carmi
+EXP-5362,HP-1072,Oren Malka,Purchasing,2026-06-15,ALIEXPRESS,Samples,272.76,ILS,272.76,Personal card - reimbursement,Purchasing,Eyal Navon
+EXP-5351,HP-1017,Daniel Shaw,Customer Service,2026-06-17,RAV-KAV,Train,36.53,ILS,36.53,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5372,HP-1077,Dafna Biton,Sales – Showroom Tel Aviv,2026-06-19,OFFICE DEPOT IL,Office supplies,203.82,ILS,203.82,Personal card - reimbursement,Office,Rebecca Morris
+EXP-5350,HP-1016,Tigist Mekonen,Customer Service,2026-06-20,AROMA ESPRESSO BAR,Meeting coffee,80.09,ILS,80.09,Personal card - reimbursement,Meals,Samir Haddad
+EXP-5355,HP-1009,Lina Khoury,Customer Service,2026-06-21,DELEK,Fuel,344.24,ILS,344.24,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5353,HP-1029,Irina Lerner,Logistics & Warehouse,2026-06-22,ALIEXPRESS,Samples,304.51,ILS,304.51,Personal card - reimbursement,Purchasing,Tamar Shalev
+EXP-5363,HP-1011,Ahmad Jabareen,Customer Service,2026-06-22,OFFICE DEPOT IL,Office supplies,150.68,ILS,150.68,Personal card - reimbursement,Office,Samir Haddad
+EXP-5361,HP-1111,Mahmoud Khoury,Finance,2026-06-23,OFFICE DEPOT IL,Office supplies,218.04,ILS,218.04,Personal card - reimbursement,Office,Natalia Gurevich
+EXP-5371,HP-1100,Ruti Shapiro,B2B Sales,2026-06-25,PANGO,Parking,46.09,ILS,46.09,Personal card - reimbursement,Travel,Yaniv Carmi
+EXP-5374,HP-1016,Tigist Mekonen,Customer Service,2026-06-27,DELEK,Fuel,348.24,ILS,348.24,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5352,HP-1075,Abebe Barak,Sales – Showroom Tel Aviv,2026-06-28,OFFICE DEPOT IL,Office supplies,278.59,ILS,278.59,Personal card - reimbursement,Office,Rebecca Morris
+EXP-5365,HP-1086,Anat Rosen,Sales – Showroom Tel Aviv,2026-06-28,AROMA ESPRESSO BAR,Meeting coffee,112.59,ILS,112.59,Personal card - reimbursement,Meals,Rebecca Morris
+EXP-5382,HP-1115,Liat Dahan,Merchandising,2026-07-01,PANGO,Parking,54.69,ILS,54.69,Corporate card,Travel,Michal Peretz
+EXP-5392,HP-1098,Guy Elbaz,B2B Sales,2026-07-01,WOLT,Team lunch,247.50,ILS,247.50,Personal card - reimbursement,Meals,Yaniv Carmi
+EXP-5399,HP-1013,Moran Biton,Customer Service,2026-07-02,OFFICE DEPOT IL,Office supplies,163.77,ILS,163.77,Personal card - reimbursement,Office,Samir Haddad
+EXP-5375,HP-1020,Noa Levi,Marketing & E-commerce,2026-07-05,COPYGENIE.IO,CopyGenie Pro - monthly,39.00,USD,144.30,Personal card - reimbursement,Marketing tools,Yoav Ben-Ami
+EXP-5378,HP-1087,Pavel Rabinovich,Sales – Showroom Tel Aviv,2026-07-05,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Rebecca Morris
+EXP-5393,HP-1022,Dana Katz,HR,2026-07-06,PANGO,Parking,27.98,ILS,27.98,Corporate card,Travel,Michal Peretz
+EXP-5376,HP-1021,Shir Barak,Marketing & E-commerce,2026-07-07,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,20.00,USD,74.00,Personal card - reimbursement,Marketing tools,Noa Levi
+EXP-5401,HP-1075,Abebe Barak,Sales – Showroom Tel Aviv,2026-07-08,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Rebecca Morris
+EXP-5377,HP-1024,Igor Volkov,Purchasing,2026-07-09,OPENAI *CHATGPT SUBSCR,chatgpt plus,20.00,USD,74.00,Personal card - reimbursement,Marketing tools,Eyal Navon
+EXP-5388,HP-1111,Mahmoud Khoury,Finance,2026-07-09,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Natalia Gurevich
+EXP-5395,HP-1012,Hila Dahan,Customer Service,2026-07-09,ALIEXPRESS,Samples,319.31,ILS,319.31,Personal card - reimbursement,Purchasing,Samir Haddad
+EXP-5384,HP-1096,Svetlana Zaitseva,Sales – Showroom Haifa,2026-07-11,GETT TAXI,Taxi to client meeting,48.26,ILS,48.26,Personal card - reimbursement,Travel,Sivan Carmi
+EXP-5390,HP-1026,Natalia Gurevich,Finance,2026-07-12,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Corporate card,Software,Ronit Avraham
+EXP-5391,HP-1110,Suha Kiwan,Finance,2026-07-13,HOTEL HAIFA,Overnight - Haifa showroom,644.01,ILS,644.01,Personal card - reimbursement,Travel,Natalia Gurevich
+EXP-5397,HP-1094,Ido Biton,Sales – Showroom Haifa,2026-07-14,WOLT,Team lunch,434.48,ILS,434.48,Personal card - reimbursement,Meals,Sivan Carmi
+EXP-5405,HP-1003,Ronit Avraham,Finance,2026-07-15,DELEK,Fuel,243.39,ILS,243.39,Personal card - reimbursement,Travel,Yoav Ben-Ami
+EXP-5385,HP-1080,Worku Ben-David,Sales – Showroom Tel Aviv,2026-07-16,RAV-KAV,Train,39.43,ILS,39.43,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5386,HP-1080,Worku Ben-David,Sales – Showroom Tel Aviv,2026-07-17,ALIEXPRESS,Samples,148.60,ILS,148.60,Personal card - reimbursement,Purchasing,Rebecca Morris
+EXP-5404,HP-1030,Itai Mekonen,Logistics & Warehouse,2026-07-17,PANGO,Parking,54.00,ILS,54.00,Personal card - reimbursement,Travel,Tamar Shalev
+EXP-5379,HP-1085,Anna Volkova,Sales – Showroom Tel Aviv,2026-07-19,GETT TAXI,Taxi to client meeting,60.50,ILS,60.50,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5387,HP-1109,Limor Tesfaye,Finance,2026-07-19,WOLT,Team lunch,402.16,ILS,402.16,Personal card - reimbursement,Meals,Natalia Gurevich
+EXP-5389,HP-1024,Igor Volkov,Purchasing,2026-07-20,SHUTTERSTOCK,Stock photos,152.01,ILS,152.01,Personal card - reimbursement,Marketing,Eyal Navon
+EXP-5396,HP-1119,Inbal Mekonen,Facilities,2026-07-20,GETT TAXI,Taxi to client meeting,49.91,ILS,49.91,Personal card - reimbursement,Travel,Michal Peretz
+EXP-5394,HP-1080,Worku Ben-David,Sales – Showroom Tel Aviv,2026-07-21,OFFICE DEPOT IL,Office supplies,319.95,ILS,319.95,Personal card - reimbursement,Office,Rebecca Morris
+EXP-5380,HP-1113,Orly Yosef,HR,2026-07-22,AROMA ESPRESSO BAR,Meeting coffee,35.39,ILS,35.39,Personal card - reimbursement,Meals,Dana Katz
+EXP-5398,HP-1076,Larisa Zaitseva,Sales – Showroom Tel Aviv,2026-07-22,RAV-KAV,Train,24.54,ILS,24.54,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5400,HP-1086,Anat Rosen,Sales – Showroom Tel Aviv,2026-07-25,AROMA ESPRESSO BAR,Meeting coffee,57.39,ILS,57.39,Personal card - reimbursement,Meals,Rebecca Morris
+EXP-5402,HP-1003,Ronit Avraham,Finance,2026-07-25,DELEK,Fuel,379.70,ILS,379.70,Corporate card,Travel,Yoav Ben-Ami
+EXP-5381,HP-1022,Dana Katz,HR,2026-07-26,DELEK,Fuel,289.21,ILS,289.21,Personal card - reimbursement,Travel,Michal Peretz
+EXP-5383,HP-1098,Guy Elbaz,B2B Sales,2026-07-26,WOLT,Team lunch,256.23,ILS,256.23,Personal card - reimbursement,Meals,Yaniv Carmi
+EXP-5403,HP-1083,Emily Morris,Sales – Showroom Tel Aviv,2026-07-28,ALIEXPRESS,Samples,133.00,ILS,133.00,Personal card - reimbursement,Purchasing,Rebecca Morris
+EXP-5432,HP-1020,Noa Levi,Marketing & E-commerce,2026-08-02,WOLT,Team lunch,151.09,ILS,151.09,Corporate card,Meals,Yoav Ben-Ami
+EXP-5429,HP-1010,Rami Nasser,Customer Service,2026-08-03,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Samir Haddad
+EXP-5438,HP-1087,Pavel Rabinovich,Sales – Showroom Tel Aviv,2026-08-03,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Rebecca Morris
+EXP-5419,HP-1091,Abebe Alemu,Sales – Showroom Haifa,2026-08-04,HOTEL HAIFA,Overnight - Haifa showroom,694.27,ILS,694.27,Personal card - reimbursement,Travel,Sivan Carmi
+EXP-5406,HP-1020,Noa Levi,Marketing & E-commerce,2026-08-05,COPYGENIE.IO,CopyGenie Pro - monthly,39.00,USD,144.30,Personal card - reimbursement,Software,Yoav Ben-Ami
+EXP-5416,HP-1015,Shani Ohayon,Customer Service,2026-08-05,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Samir Haddad
+EXP-5425,HP-1004,Samir Haddad,Customer Service,2026-08-05,DELEK,Fuel,368.17,ILS,368.17,Corporate card,Travel,Michal Peretz
+EXP-5436,HP-1113,Orly Yosef,HR,2026-08-05,RAV-KAV,Train,16.49,ILS,16.49,Personal card - reimbursement,Travel,Dana Katz
+EXP-5410,HP-1100,Ruti Shapiro,B2B Sales,2026-08-06,ALIEXPRESS,Samples,347.30,ILS,347.30,Personal card - reimbursement,Purchasing,Yaniv Carmi
+EXP-5441,HP-1102,Jamal Nasser,B2B Sales,2026-08-06,RAV-KAV,Train,28.78,ILS,28.78,Personal card - reimbursement,Travel,Yaniv Carmi
+EXP-5407,HP-1021,Shir Barak,Marketing & E-commerce,2026-08-07,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,20.00,USD,74.00,Personal card - reimbursement,Software,Noa Levi
+EXP-5426,HP-1090,Worku Azoulay,Sales – Showroom Haifa,2026-08-07,RAV-KAV,Train,19.76,ILS,19.76,Personal card - reimbursement,Travel,Sivan Carmi
+EXP-5418,HP-1083,Emily Morris,Sales – Showroom Tel Aviv,2026-08-08,HOTEL HAIFA,Overnight - Haifa showroom,485.99,ILS,485.99,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5408,HP-1024,Igor Volkov,Purchasing,2026-08-09,OPENAI *CHATGPT SUBSCR,chatgpt plus,20.00,USD,74.00,Personal card - reimbursement,Software,Eyal Navon
+EXP-5510,HP-1026,Natalia Gurevich,Finance,2026-08-09,ANTHROPIC,Claude Pro (1 month),20.00,USD,74.00,Personal card - reimbursement,Software,Ronit Avraham
+EXP-5417,HP-1099,Dafna Yosef,B2B Sales,2026-08-10,RAV-KAV,Train,38.06,ILS,38.06,Personal card - reimbursement,Travel,Yaniv Carmi
+EXP-5423,HP-1072,Oren Malka,Purchasing,2026-08-11,DELEK,Fuel,240.83,ILS,240.83,Personal card - reimbursement,Travel,Eyal Navon
+EXP-5411,HP-1075,Abebe Barak,Sales – Showroom Tel Aviv,2026-08-12,PANGO,Parking,58.22,ILS,58.22,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5424,HP-1024,Igor Volkov,Purchasing,2026-08-12,HOTEL HAIFA,Overnight - Haifa showroom,473.86,ILS,473.86,Personal card - reimbursement,Travel,Eyal Navon
+EXP-5434,HP-1102,Jamal Nasser,B2B Sales,2026-08-12,OFFICE DEPOT IL,Office supplies,70.67,ILS,70.67,Personal card - reimbursement,Office,Yaniv Carmi
+EXP-5427,HP-1105,Noam Cohen,Marketing & E-commerce,2026-08-13,AROMA ESPRESSO BAR,Meeting coffee,86.28,ILS,86.28,Personal card - reimbursement,Meals,Noa Levi
+EXP-5433,HP-1003,Ronit Avraham,Finance,2026-08-13,DELEK,Fuel,284.87,ILS,284.87,Corporate card,Travel,Yoav Ben-Ami
+EXP-5428,HP-1119,Inbal Mekonen,Facilities,2026-08-16,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Michal Peretz
+EXP-5413,HP-1100,Ruti Shapiro,B2B Sales,2026-08-17,GETT TAXI,Taxi to client meeting,71.74,ILS,71.74,Personal card - reimbursement,Travel,Yaniv Carmi
+EXP-5420,HP-1110,Suha Kiwan,Finance,2026-08-17,WOLT,Team lunch,307.60,ILS,307.60,Personal card - reimbursement,Meals,Natalia Gurevich
+EXP-5421,HP-1085,Anna Volkova,Sales – Showroom Tel Aviv,2026-08-17,SHUTTERSTOCK,Stock photos,299.75,ILS,299.75,Personal card - reimbursement,Marketing,Rebecca Morris
+EXP-5422,HP-1107,Svetlana Belova,Marketing & E-commerce,2026-08-17,HOTEL HAIFA,Overnight - Haifa showroom,510.21,ILS,510.21,Personal card - reimbursement,Travel,Noa Levi
+EXP-5409,HP-1009,Lina Khoury,Customer Service,2026-08-18,HOTEL HAIFA,Overnight - Haifa showroom,581.24,ILS,581.24,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5435,HP-1012,Hila Dahan,Customer Service,2026-08-19,PANGO,Parking,54.97,ILS,54.97,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5414,HP-1021,Shir Barak,Marketing & E-commerce,2026-08-21,HOTEL HAIFA,Overnight - Haifa showroom,467.13,ILS,467.13,Personal card - reimbursement,Travel,Noa Levi
+EXP-5415,HP-1082,Lior Azoulay,Sales – Showroom Tel Aviv,2026-08-23,ALIEXPRESS,Samples,170.40,ILS,170.40,Personal card - reimbursement,Purchasing,Rebecca Morris
+EXP-5440,HP-1096,Svetlana Zaitseva,Sales – Showroom Haifa,2026-08-24,RAV-KAV,Train,26.22,ILS,26.22,Personal card - reimbursement,Travel,Sivan Carmi
+EXP-5412,HP-1020,Noa Levi,Marketing & E-commerce,2026-08-25,HOTEL HAIFA,Overnight - Haifa showroom,682.58,ILS,682.58,Corporate card,Travel,Yoav Ben-Ami
+EXP-5430,HP-1071,Leah Price,Purchasing,2026-08-25,PANGO,Parking,20.31,ILS,20.31,Personal card - reimbursement,Travel,Eyal Navon
+EXP-5431,HP-1005,Olga Petrenko,Customer Service,2026-08-25,DELEK,Fuel,222.86,ILS,222.86,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5437,HP-1081,Inbal Gabay,Sales – Showroom Tel Aviv,2026-08-25,HOTEL HAIFA,Overnight - Haifa showroom,595.49,ILS,595.49,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5439,HP-1112,Tigist Ben-David,Finance,2026-08-25,WOLT,Team lunch,318.22,ILS,318.22,Personal card - reimbursement,Meals,Natalia Gurevich
+EXP-5473,HP-1008,Sergei Novikov,Customer Service,2026-09-02,AROMA ESPRESSO BAR,Meeting coffee,85.02,ILS,85.02,Personal card - reimbursement,Meals,Samir Haddad
+EXP-5469,HP-1077,Dafna Biton,Sales – Showroom Tel Aviv,2026-09-03,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Rebecca Morris
+EXP-5442,HP-1020,Noa Levi,Marketing & E-commerce,2026-09-05,COPYGENIE.IO,CopyGenie Pro - monthly,39.00,USD,144.30,Personal card - reimbursement,Marketing tools,Yoav Ben-Ami
+EXP-5446,HP-1115,Liat Dahan,Merchandising,2026-09-05,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Michal Peretz
+EXP-5471,HP-1010,Rami Nasser,Customer Service,2026-09-06,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Samir Haddad
+EXP-5443,HP-1021,Shir Barak,Marketing & E-commerce,2026-09-07,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,20.00,USD,74.00,Personal card - reimbursement,Marketing tools,Noa Levi
+EXP-5445,HP-1091,Abebe Alemu,Sales – Showroom Haifa,2026-09-07,HOTEL HAIFA,Overnight - Haifa showroom,655.93,ILS,655.93,Personal card - reimbursement,Travel,Sivan Carmi
+EXP-5454,HP-1095,Vladimir Kaplan,Sales – Showroom Haifa,2026-09-07,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Sivan Carmi
+EXP-5467,HP-1101,Yossi Friedman,B2B Sales,2026-09-07,AROMA ESPRESSO BAR,Meeting coffee,94.57,ILS,94.57,Personal card - reimbursement,Meals,Yaniv Carmi
+EXP-5474,HP-1075,Abebe Barak,Sales – Showroom Tel Aviv,2026-09-08,RAV-KAV,Train,35.72,ILS,35.72,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5444,HP-1024,Igor Volkov,Purchasing,2026-09-09,OPENAI *CHATGPT SUBSCR,chatgpt plus,20.00,USD,74.00,Personal card - reimbursement,Software,Eyal Navon
+EXP-5453,HP-1004,Samir Haddad,Customer Service,2026-09-09,DELEK,Fuel,307.70,ILS,307.70,Corporate card,Travel,Michal Peretz
+EXP-5448,HP-1086,Anat Rosen,Sales – Showroom Tel Aviv,2026-09-10,ALIEXPRESS,Samples,376.72,ILS,376.72,Personal card - reimbursement,Purchasing,Rebecca Morris
+EXP-5472,HP-1089,Yulia Rabinovich,Sales – Showroom Haifa,2026-09-11,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Sivan Carmi
+EXP-5451,HP-1104,Nir Barak,Marketing & E-commerce,2026-09-14,RAV-KAV,Train,24.06,ILS,24.06,Personal card - reimbursement,Travel,Noa Levi
+EXP-5464,HP-1075,Abebe Barak,Sales – Showroom Tel Aviv,2026-09-14,WOLT,Team lunch,246.56,ILS,246.56,Personal card - reimbursement,Meals,Rebecca Morris
+EXP-5459,HP-1015,Shani Ohayon,Customer Service,2026-09-15,PANGO,Parking,18.71,ILS,18.71,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5460,HP-1107,Svetlana Belova,Marketing & E-commerce,2026-09-15,OFFICE DEPOT IL,Office supplies,175.28,ILS,175.28,Personal card - reimbursement,Office,Noa Levi
+EXP-5462,HP-1023,Eyal Navon,Purchasing,2026-09-15,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Corporate card,Software,Michal Peretz
+EXP-5455,HP-1086,Anat Rosen,Sales – Showroom Tel Aviv,2026-09-16,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Rebecca Morris
+EXP-5457,HP-1083,Emily Morris,Sales – Showroom Tel Aviv,2026-09-16,SHUTTERSTOCK,Stock photos,299.39,ILS,299.39,Personal card - reimbursement,Marketing,Rebecca Morris
+EXP-5463,HP-1073,Tomer Azoulay,Purchasing,2026-09-16,WOLT,Team lunch,372.98,ILS,372.98,Personal card - reimbursement,Meals,Eyal Navon
+EXP-5470,HP-1007,Yana Kogan,Customer Service,2026-09-16,AROMA ESPRESSO BAR,Meeting coffee,92.67,ILS,92.67,Personal card - reimbursement,Meals,Samir Haddad
+EXP-5447,HP-1108,Noam Rosen,Finance,2026-09-22,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Natalia Gurevich
+EXP-5449,HP-1094,Ido Biton,Sales – Showroom Haifa,2026-09-22,SHUTTERSTOCK,Stock photos,149.91,ILS,149.91,Personal card - reimbursement,Marketing,Sivan Carmi
+EXP-5458,HP-1117,Galit Azoulay,Merchandising,2026-09-22,HOTEL HAIFA,Overnight - Haifa showroom,580.52,ILS,580.52,Personal card - reimbursement,Travel,Liat Dahan
+EXP-5461,HP-1103,Lior Friedman,Marketing & E-commerce,2026-09-25,WOLT,Team lunch,289.40,ILS,289.40,Personal card - reimbursement,Meals,Noa Levi
+EXP-5466,HP-1101,Yossi Friedman,B2B Sales,2026-09-25,HOTEL HAIFA,Overnight - Haifa showroom,593.40,ILS,593.40,Personal card - reimbursement,Travel,Yaniv Carmi
+EXP-5450,HP-1020,Noa Levi,Marketing & E-commerce,2026-09-26,OFFICE DEPOT IL,Office supplies,107.77,ILS,107.77,Personal card - reimbursement,Office,Yoav Ben-Ami
+EXP-5468,HP-1007,Yana Kogan,Customer Service,2026-09-26,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Samir Haddad
+EXP-5465,HP-1095,Vladimir Kaplan,Sales – Showroom Haifa,2026-09-27,OFFICE DEPOT IL,Office supplies,72.88,ILS,72.88,Personal card - reimbursement,Office,Sivan Carmi
+EXP-5452,HP-1074,Rebecca Morris,Sales – Showroom Tel Aviv,2026-09-28,HOTEL HAIFA,Overnight - Haifa showroom,526.66,ILS,526.66,Personal card - reimbursement,Travel,Yoav Ben-Ami
+EXP-5456,HP-1028,Wassim Jabareen,Logistics & Warehouse,2026-09-28,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Tamar Shalev
+EXP-5508,HP-1073,Tomer Azoulay,Purchasing,2026-10-02,ALIEXPRESS,Samples,394.23,ILS,394.23,Personal card - reimbursement,Purchasing,Eyal Navon
+EXP-5490,HP-1010,Rami Nasser,Customer Service,2026-10-03,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Samir Haddad
+EXP-5498,HP-1099,Dafna Yosef,B2B Sales,2026-10-04,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Yaniv Carmi
+EXP-5475,HP-1020,Noa Levi,Marketing & E-commerce,2026-10-05,COPYGENIE.IO,CopyGenie Pro - monthly,39.00,USD,144.30,Personal card - reimbursement,Software,Yoav Ben-Ami
+EXP-5497,HP-1090,Worku Azoulay,Sales – Showroom Haifa,2026-10-06,SHUTTERSTOCK,Stock photos,256.00,ILS,256.00,Personal card - reimbursement,Marketing,Sivan Carmi
+EXP-5502,HP-1081,Inbal Gabay,Sales – Showroom Tel Aviv,2026-10-06,HOTEL HAIFA,Overnight - Haifa showroom,651.93,ILS,651.93,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5476,HP-1021,Shir Barak,Marketing & E-commerce,2026-10-07,OPENAI *CHATGPT SUBSCR,ChatGPT Plus,20.00,USD,74.00,Personal card - reimbursement,Marketing tools,Noa Levi
+EXP-5482,HP-1104,Nir Barak,Marketing & E-commerce,2026-10-07,DELEK,Fuel,386.10,ILS,386.10,Personal card - reimbursement,Travel,Noa Levi
+EXP-5483,HP-1105,Noam Cohen,Marketing & E-commerce,2026-10-07,GETT TAXI,Taxi to client meeting,117.62,ILS,117.62,Personal card - reimbursement,Travel,Noa Levi
+EXP-5487,HP-1095,Vladimir Kaplan,Sales – Showroom Haifa,2026-10-07,PANGO,Parking,41.73,ILS,41.73,Personal card - reimbursement,Travel,Sivan Carmi
+EXP-5477,HP-1024,Igor Volkov,Purchasing,2026-10-09,OPENAI *CHATGPT SUBSCR,chatgpt plus,20.00,USD,74.00,Personal card - reimbursement,Software,Eyal Navon
+EXP-5479,HP-1008,Sergei Novikov,Customer Service,2026-10-09,AROMA ESPRESSO BAR,Meeting coffee,53.59,ILS,53.59,Personal card - reimbursement,Meals,Samir Haddad
+EXP-5484,HP-1111,Mahmoud Khoury,Finance,2026-10-09,AROMA ESPRESSO BAR,Meeting coffee,69.73,ILS,69.73,Personal card - reimbursement,Meals,Natalia Gurevich
+EXP-5491,HP-1028,Wassim Jabareen,Logistics & Warehouse,2026-10-10,PANGO,Parking,47.29,ILS,47.29,Personal card - reimbursement,Travel,Tamar Shalev
+EXP-5507,HP-1024,Igor Volkov,Purchasing,2026-10-10,DELEK,Fuel,271.47,ILS,271.47,Personal card - reimbursement,Travel,Eyal Navon
+EXP-5505,HP-1116,Khaled Shehadeh,Merchandising,2026-10-11,RAV-KAV,Train,31.36,ILS,31.36,Personal card - reimbursement,Travel,Liat Dahan
+EXP-5478,HP-1100,Ruti Shapiro,B2B Sales,2026-10-12,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Yaniv Carmi
+EXP-5488,HP-1118,Keren Azoulay,Merchandising,2026-10-12,WOLT,Team lunch,227.61,ILS,227.61,Personal card - reimbursement,Meals,Liat Dahan
+EXP-5481,HP-1111,Mahmoud Khoury,Finance,2026-10-13,GETT TAXI,Taxi to client meeting,108.45,ILS,108.45,Personal card - reimbursement,Travel,Natalia Gurevich
+EXP-5494,HP-1119,Inbal Mekonen,Facilities,2026-10-14,PANGO,Parking,23.97,ILS,23.97,Personal card - reimbursement,Travel,Michal Peretz
+EXP-5485,HP-1023,Eyal Navon,Purchasing,2026-10-15,SHUTTERSTOCK,Stock photos,296.70,ILS,296.70,Corporate card,Marketing,Michal Peretz
+EXP-5486,HP-1022,Dana Katz,HR,2026-10-15,RAV-KAV,Train,28.56,ILS,28.56,Corporate card,Travel,Michal Peretz
+EXP-5496,HP-1086,Anat Rosen,Sales – Showroom Tel Aviv,2026-10-17,ZOOM.US,Zoom Pro (personal),60.00,ILS,60.00,Personal card - reimbursement,Software,Rebecca Morris
+EXP-5501,HP-1081,Inbal Gabay,Sales – Showroom Tel Aviv,2026-10-19,HOTEL HAIFA,Overnight - Haifa showroom,542.91,ILS,542.91,Personal card - reimbursement,Travel,Rebecca Morris
+EXP-5492,HP-1007,Yana Kogan,Customer Service,2026-10-22,PANGO,Parking,20.51,ILS,20.51,Personal card - reimbursement,Travel,Samir Haddad
+EXP-5480,HP-1010,Rami Nasser,Customer Service,2026-10-23,AROMA ESPRESSO BAR,Meeting coffee,35.77,ILS,35.77,Personal card - reimbursement,Meals,Samir Haddad
+EXP-5493,HP-1111,Mahmoud Khoury,Finance,2026-10-23,HOTEL HAIFA,Overnight - Haifa showroom,588.65,ILS,588.65,Personal card - reimbursement,Travel,Natalia Gurevich
+EXP-5506,HP-1117,Galit Azoulay,Merchandising,2026-10-24,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Liat Dahan
+EXP-5499,HP-1089,Yulia Rabinovich,Sales – Showroom Haifa,2026-10-25,ALIEXPRESS,Samples,384.89,ILS,384.89,Personal card - reimbursement,Purchasing,Sivan Carmi
+EXP-5500,HP-1113,Orly Yosef,HR,2026-10-25,SHUTTERSTOCK,Stock photos,110.85,ILS,110.85,Personal card - reimbursement,Marketing,Dana Katz
+EXP-5504,HP-1030,Itai Mekonen,Logistics & Warehouse,2026-10-25,RAV-KAV,Train,34.46,ILS,34.46,Personal card - reimbursement,Travel,Tamar Shalev
+EXP-5495,HP-1119,Inbal Mekonen,Facilities,2026-10-26,GETT TAXI,Taxi to client meeting,58.89,ILS,58.89,Personal card - reimbursement,Travel,Michal Peretz
+EXP-5489,HP-1089,Yulia Rabinovich,Sales – Showroom Haifa,2026-10-28,LINKEDIN PREMIUM,LinkedIn Premium,110.00,ILS,110.00,Personal card - reimbursement,Software,Sivan Carmi
+EXP-5503,HP-1112,Tigist Ben-David,Finance,2026-10-28,HOTEL HAIFA,Overnight - Haifa showroom,538.87,ILS,538.87,Personal card - reimbursement,Travel,Natalia Gurevich

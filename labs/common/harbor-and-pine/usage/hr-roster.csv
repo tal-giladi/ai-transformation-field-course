@@ -1,0 +1,17 @@
+employee_id,email,full_name,team,role,manager,site,fte,employment_status,status_since_date,pilot_wave,ai_assist_licence
+HP-1004,samir.haddad@harborpine.co.il,Samir Haddad,Customer Service,Customer Service Manager,Michal Peretz,Rishon LeZion (HQ & warehouse),1.0,active,,wave 1,Y
+HP-1005,olga.petrenko@harborpine.co.il,Olga Petrenko,Customer Service,Senior Support Agent (team lead),Samir Haddad,Rishon LeZion (HQ & warehouse),1.0,active,,wave 1,Y
+HP-1006,rina.azoulay@harborpine.co.il,Rina Azoulay,Customer Service,Claims & Returns Coordinator,Samir Haddad,Rishon LeZion (HQ & warehouse),1.0,active,,wave 1,Y
+HP-1007,yana.kogan@harborpine.co.il,Yana Kogan,Customer Service,Support Agent,Samir Haddad,Rishon LeZion (HQ & warehouse),1.0,active,,wave 1,Y
+HP-1008,sergei.novikov@harborpine.co.il,Sergei Novikov,Customer Service,Support Agent,Samir Haddad,Rishon LeZion (HQ & warehouse),1.0,active,,wave 1,Y
+HP-1009,lina.khoury@harborpine.co.il,Lina Khoury,Customer Service,Support Agent,Samir Haddad,Rishon LeZion (HQ & warehouse),1.0,active,,wave 1,Y
+HP-1010,rami.nasser@harborpine.co.il,Rami Nasser,Customer Service,Support Agent,Samir Haddad,Rishon LeZion (HQ & warehouse),1.0,active,,wave 1,Y
+HP-1011,ahmad.jabareen@harborpine.co.il,Ahmad Jabareen,Customer Service,Support Agent,Samir Haddad,Rishon LeZion (HQ & warehouse),1.0,active,,wave 1,Y
+HP-1012,hila.dahan@harborpine.co.il,Hila Dahan,Customer Service,Support Agent,Samir Haddad,Rishon LeZion (HQ & warehouse),1.0,maternity leave,2027-02-21,wave 1,Y
+HP-1013,moran.biton@harborpine.co.il,Moran Biton,Customer Service,Support Agent,Samir Haddad,Rishon LeZion (HQ & warehouse),1.0,active,,wave 1,Y
+HP-1014,adi.golan@harborpine.co.il,Adi Golan,Customer Service,Support Agent,Samir Haddad,Rishon LeZion (HQ & warehouse),1.0,resigned,2027-03-05,wave 1,Y
+HP-1015,shani.ohayon@harborpine.co.il,Shani Ohayon,Customer Service,Support Agent,Samir Haddad,Rishon LeZion (HQ & warehouse),1.0,active,,wave 1,Y
+HP-1016,tigist.mekonen@harborpine.co.il,Tigist Mekonen,Customer Service,Support Agent,Samir Haddad,Rishon LeZion (HQ & warehouse),1.0,active,,wave 1,Y
+HP-1017,daniel.shaw@harborpine.co.il,Daniel Shaw,Customer Service,Support Agent,Samir Haddad,Rishon LeZion (HQ & warehouse),1.0,active,,wave 1,Y
+HP-1020,noa.levi@harborpine.co.il,Noa Levi,Marketing & E-commerce,Marketing Director,Yoav Ben-Ami,Rishon LeZion (HQ & warehouse),1.0,active,,,Y
+HP-1021,shir.barak@harborpine.co.il,Shir Barak,Marketing & E-commerce,Content Manager,Noa Levi,Rishon LeZion (HQ & warehouse),1.0,active,,,Y

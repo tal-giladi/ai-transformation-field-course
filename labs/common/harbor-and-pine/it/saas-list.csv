@@ -1,0 +1,21 @@
+application,vendor,category,business_owner,users,plan,annual_cost_ils,renewal_date,sso,data_held,ai_features,ai_enabled,dpa_signed,notes
+Priority ERP,Priority Software (via local integrator),ERP,Ronit Avraham,64,Cloud Pro,312000,2027-12-31,N,"customers, orders, stock, suppliers, finance",,N/A,Y,
+SmartStock AI (ERP add-on),Optimo Systems Ltd,Inventory replenishment,Eyal Navon,6,Module,38000,2027-03-31,N,"stock levels, purchase orders",AI-powered smart reorder suggestions,Yes,N,Bought 2024 as 'AI'. See it/smartstock-reorder-config.md
+AutoRecon (accounting add-on),Optimo Systems Ltd,Bank reconciliation,Natalia Gurevich,4,Module,14000,2027-03-31,N,bank transactions,Intelligent auto-match,Yes,N,
+Deskly,Deskly Inc.,"Helpdesk (email, web form)",Samir Haddad,15,Growth,61000,2027-01-31,Y,"customer names, emails, phones, addresses, order details","Deskly AI Assist add-on (triage, drafts) available, not purchased",No,Y,AI add-on terms received Oct 2026
+CloudVoice PBX,CloudVoice Ltd,Phone system,Samir Haddad,18,Contact center,48000,2026-12-31,N,"caller numbers, call recordings (30 days)",Call transcription & summary,No,Y,
+StoreHub,StoreHub Commerce,Web store,Noa Levi,7,Advanced,54000,2027-06-30,N,"customers, orders, payments (tokenised)",AI product descriptions,Yes,Y,Lead-time table set by marketing
+Google Workspace,Google,"Email, docs, drive",Avi Mizrahi,92,Business Standard,101000,2027-02-28,Y,everything,Gemini features,Unknown,Y,Admin console not reviewed since 2024
+PeopleWise,PeopleWise HR Ltd,"HR, payroll, recruiting",Dana Katz,5,Business,46000,2027-08-31,N,"employee and candidate personal data, salaries",,No,Y,
+MailPost,MailPost,Email marketing,Noa Levi,3,Pro,21000,2027-01-31,N,"customer emails, purchase history","AI subject lines, send-time optimisation",Yes,Y,
+Canva,Canva,Design,Noa Levi,4,Teams,6200,2027-05-31,N,marketing images,Magic Write / AI image tools,Yes,N,
+Zoom,Zoom,Video meetings,Avi Mizrahi,25,Business,9800,2027-04-30,N,meeting content,AI Companion (meeting summaries),Unknown,N,
+Monday.com,monday.com,"Projects (marketing, B2B)",Yaniv Carmi,12,Standard,13000,2026-12-31,N,"B2B leads, contacts",AI assistant,Unknown,N,
+RouteMaster,RouteMaster Ltd,Delivery route planning,Tamar Shalev,4,Fleet,26000,2027-02-28,N,"customer addresses, phone numbers",Route optimisation,N/A,Y,"Algorithmic optimisation, not ML (per vendor)"
+Gal-Ship Portal,Gal-Ship Forwarding Ltd,Freight forwarder portal,Tamar Shalev,4,Free with service,0,,N,"shipments, containers",,N/A,N,Export to CSV weekly; ETA changes also come by email
+SignNow IL,SignNow IL,E-signature,Ronit Avraham,6,Business,4800,2027-09-30,N,contracts,,No,Y,
+Bitdefender GravityZone,Bitdefender,Endpoint security,Avi Mizrahi,88,Business,17500,2027-01-31,N,device telemetry,ML-based threat detection,Yes,Y,Managed by MSP
+NetGuard Web Proxy,NetGuard,Web proxy / filtering,Avi Mizrahi,88,Cloud,12000,2027-01-31,N,browsing logs,URL categorisation,Yes,Y,Logs kept 90 days
+Kaltura-like LMS (LearnBox),LearnBox,Training,Dana Katz,120,Basic,8000,2027-03-31,N,training records,,No,N,Barely used
+Hilan-style attendance (ClockIn),ClockIn,Attendance,Dana Katz,120,Standard,15000,2027-12-31,N,attendance,,No,Y,
+Waze for Business,Google,Driver navigation,Tamar Shalev,8,Free,0,,N,locations,,N/A,N,

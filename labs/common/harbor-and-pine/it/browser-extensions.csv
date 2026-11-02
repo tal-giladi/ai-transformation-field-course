@@ -1,0 +1,174 @@
+device,user,department,os,extension_name,extension_id,version,installed_date,install_source,permissions,inventory_date
+HP-LT-101,yoav.benami@harborpine.co.il,Management,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-04-02,Force-installed (policy),Storage,2026-10-28
+HP-LT-101,yoav.benami@harborpine.co.il,Management,Windows 11,Google Translate,aapbdbdomjkkjkaonfhkkikfgjllcleb,2.0.16,2026-06-24,Chrome Web Store,Read data on all websites,2026-10-28
+HP-PC-102,michal.peretz@harborpine.co.il,Management,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-08-04,Force-installed (policy),Storage,2026-10-28
+HP-PC-102,michal.peretz@harborpine.co.il,Management,Windows 11,Grammarly: AI Writing Assistant,kbfnbcaeplbcioakkpcpgfkobkghlhen,14.1189.0,2026-09-01,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-PC-102,michal.peretz@harborpine.co.il,Management,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-03-01,Chrome Web Store,Calendar,2026-10-28
+HP-PC-103,ronit.avraham@harborpine.co.il,Finance,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-02-20,Force-installed (policy),Storage,2026-10-28
+HP-PC-103,ronit.avraham@harborpine.co.il,Finance,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-05-28,Chrome Web Store,Calendar,2026-10-28
+HP-PC-103,ronit.avraham@harborpine.co.il,Finance,Windows 11,Google Translate,aapbdbdomjkkjkaonfhkkikfgjllcleb,2.0.16,2026-10-09,Chrome Web Store,Read data on all websites,2026-10-28
+HP-PC-104,samir.haddad@harborpine.co.il,Customer Service,macOS 15,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-05-09,Force-installed (policy),Storage,2026-10-28
+HP-PC-104,samir.haddad@harborpine.co.il,Customer Service,Windows 11,Deskly Agent Toolbar,pdkdmblkcfmnhhdagfjjjpljmlmcolbh,4.2.0,2026-04-22,Force-installed (policy),Read and change data on harborpine.deskly.com,2026-10-28
+HP-LT-105,olga.petrenko@harborpine.co.il,Customer Service,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-01-08,Force-installed (policy),Storage,2026-10-28
+HP-LT-105,olga.petrenko@harborpine.co.il,Customer Service,Windows 11,Deskly Agent Toolbar,pdkdmblkcfmnhhdagfjjjpljmlmcolbh,4.2.0,2026-07-21,Force-installed (policy),Read and change data on harborpine.deskly.com,2026-10-28
+HP-LT-105,olga.petrenko@harborpine.co.il,Customer Service,Windows 11,LinguaFlow – AI Translate & Rewrite,lgfnnkpcmoapejcbkoahjhebbcbjmhgk,3.7.2,2026-05-04,Chrome Web Store,Read and change all your data on all websites; clipboard,2026-10-28
+HP-LT-105,olga.petrenko@harborpine.co.il,Customer Service,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-06-09,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-105,olga.petrenko@harborpine.co.il,Customer Service,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-10-06,Chrome Web Store,Calendar,2026-10-28
+HP-LT-106,rina.azoulay@harborpine.co.il,Customer Service,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-06-12,Force-installed (policy),Storage,2026-10-28
+HP-LT-106,rina.azoulay@harborpine.co.il,Customer Service,Windows 11,Deskly Agent Toolbar,pdkdmblkcfmnhhdagfjjjpljmlmcolbh,4.2.0,2026-07-11,Force-installed (policy),Read and change data on harborpine.deskly.com,2026-10-28
+HP-LT-106,rina.azoulay@harborpine.co.il,Customer Service,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-01-01,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-PC-107,yana.kogan@harborpine.co.il,Customer Service,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-07-14,Force-installed (policy),Storage,2026-10-28
+HP-PC-107,yana.kogan@harborpine.co.il,Customer Service,Windows 11,Deskly Agent Toolbar,pdkdmblkcfmnhhdagfjjjpljmlmcolbh,4.2.0,2026-08-15,Force-installed (policy),Read and change data on harborpine.deskly.com,2026-10-28
+HP-PC-107,yana.kogan@harborpine.co.il,Customer Service,Windows 11,LinguaFlow – AI Translate & Rewrite,lgfnnkpcmoapejcbkoahjhebbcbjmhgk,3.7.2,2026-08-22,Chrome Web Store,Read and change all your data on all websites; clipboard,2026-10-28
+HP-LT-108,sergei.novikov@harborpine.co.il,Customer Service,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-06-05,Force-installed (policy),Storage,2026-10-28
+HP-LT-108,sergei.novikov@harborpine.co.il,Customer Service,Windows 11,Deskly Agent Toolbar,pdkdmblkcfmnhhdagfjjjpljmlmcolbh,4.2.0,2026-01-02,Force-installed (policy),Read and change data on harborpine.deskly.com,2026-10-28
+HP-LT-108,sergei.novikov@harborpine.co.il,Customer Service,Windows 11,LinguaFlow – AI Translate & Rewrite,lgfnnkpcmoapejcbkoahjhebbcbjmhgk,3.7.2,2026-06-26,Chrome Web Store,Read and change all your data on all websites; clipboard,2026-10-28
+HP-LT-108,sergei.novikov@harborpine.co.il,Customer Service,Windows 11,Google Translate,aapbdbdomjkkjkaonfhkkikfgjllcleb,2.0.16,2026-05-21,Chrome Web Store,Read data on all websites,2026-10-28
+HP-LT-109,lina.khoury@harborpine.co.il,Customer Service,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-05-23,Force-installed (policy),Storage,2026-10-28
+HP-LT-109,lina.khoury@harborpine.co.il,Customer Service,Windows 11,Deskly Agent Toolbar,pdkdmblkcfmnhhdagfjjjpljmlmcolbh,4.2.0,2026-07-07,Force-installed (policy),Read and change data on harborpine.deskly.com,2026-10-28
+HP-LT-109,lina.khoury@harborpine.co.il,Customer Service,Windows 11,LinguaFlow – AI Translate & Rewrite,lgfnnkpcmoapejcbkoahjhebbcbjmhgk,3.7.2,2026-07-22,Chrome Web Store,Read and change all your data on all websites; clipboard,2026-10-28
+HP-LT-109,lina.khoury@harborpine.co.il,Customer Service,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-03-26,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-110,rami.nasser@harborpine.co.il,Customer Service,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-01-06,Force-installed (policy),Storage,2026-10-28
+HP-LT-110,rami.nasser@harborpine.co.il,Customer Service,Windows 11,Deskly Agent Toolbar,pdkdmblkcfmnhhdagfjjjpljmlmcolbh,4.2.0,2026-10-16,Force-installed (policy),Read and change data on harborpine.deskly.com,2026-10-28
+HP-LT-110,rami.nasser@harborpine.co.il,Customer Service,Windows 11,LinguaFlow – AI Translate & Rewrite,lgfnnkpcmoapejcbkoahjhebbcbjmhgk,3.7.2,2026-05-25,Chrome Web Store,Read and change all your data on all websites; clipboard,2026-10-28
+HP-PC-111,ahmad.jabareen@harborpine.co.il,Customer Service,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-08-08,Force-installed (policy),Storage,2026-10-28
+HP-PC-111,ahmad.jabareen@harborpine.co.il,Customer Service,Windows 11,Deskly Agent Toolbar,pdkdmblkcfmnhhdagfjjjpljmlmcolbh,4.2.0,2026-01-15,Force-installed (policy),Read and change data on harborpine.deskly.com,2026-10-28
+HP-PC-111,ahmad.jabareen@harborpine.co.il,Customer Service,macOS 15,LinguaFlow – AI Translate & Rewrite,lgfnnkpcmoapejcbkoahjhebbcbjmhgk,3.7.2,2026-06-07,Chrome Web Store,Read and change all your data on all websites; clipboard,2026-10-28
+HP-PC-111,ahmad.jabareen@harborpine.co.il,Customer Service,Windows 11,Google Translate,aapbdbdomjkkjkaonfhkkikfgjllcleb,2.0.16,2026-06-08,Chrome Web Store,Read data on all websites,2026-10-28
+HP-LT-112,hila.dahan@harborpine.co.il,Customer Service,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-04-21,Force-installed (policy),Storage,2026-10-28
+HP-LT-112,hila.dahan@harborpine.co.il,Customer Service,Windows 11,Deskly Agent Toolbar,pdkdmblkcfmnhhdagfjjjpljmlmcolbh,4.2.0,2026-09-22,Force-installed (policy),Read and change data on harborpine.deskly.com,2026-10-28
+HP-LT-112,hila.dahan@harborpine.co.il,Customer Service,Windows 11,Grammarly: AI Writing Assistant,kbfnbcaeplbcioakkpcpgfkobkghlhen,14.1189.0,2026-04-10,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-112,hila.dahan@harborpine.co.il,Customer Service,macOS 15,Google Translate,aapbdbdomjkkjkaonfhkkikfgjllcleb,2.0.16,2026-07-04,Chrome Web Store,Read data on all websites,2026-10-28
+HP-PC-113,moran.biton@harborpine.co.il,Customer Service,macOS 15,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-05-06,Force-installed (policy),Storage,2026-10-28
+HP-PC-113,moran.biton@harborpine.co.il,Customer Service,Windows 11,Deskly Agent Toolbar,pdkdmblkcfmnhhdagfjjjpljmlmcolbh,4.2.0,2026-10-01,Force-installed (policy),Read and change data on harborpine.deskly.com,2026-10-28
+HP-LT-114,adi.golan@harborpine.co.il,Customer Service,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-09-24,Force-installed (policy),Storage,2026-10-28
+HP-LT-114,adi.golan@harborpine.co.il,Customer Service,macOS 15,Deskly Agent Toolbar,pdkdmblkcfmnhhdagfjjjpljmlmcolbh,4.2.0,2026-02-03,Force-installed (policy),Read and change data on harborpine.deskly.com,2026-10-28
+HP-LT-115,shani.ohayon@harborpine.co.il,Customer Service,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-02-04,Force-installed (policy),Storage,2026-10-28
+HP-LT-115,shani.ohayon@harborpine.co.il,Customer Service,macOS 15,Deskly Agent Toolbar,pdkdmblkcfmnhhdagfjjjpljmlmcolbh,4.2.0,2026-07-24,Force-installed (policy),Read and change data on harborpine.deskly.com,2026-10-28
+HP-LT-116,tigist.mekonen@harborpine.co.il,Customer Service,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-03-13,Force-installed (policy),Storage,2026-10-28
+HP-LT-116,tigist.mekonen@harborpine.co.il,Customer Service,Windows 11,Deskly Agent Toolbar,pdkdmblkcfmnhhdagfjjjpljmlmcolbh,4.2.0,2026-07-10,Force-installed (policy),Read and change data on harborpine.deskly.com,2026-10-28
+HP-LT-116,tigist.mekonen@harborpine.co.il,Customer Service,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-07-27,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-117,daniel.shaw@harborpine.co.il,Customer Service,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-02-14,Force-installed (policy),Storage,2026-10-28
+HP-LT-117,daniel.shaw@harborpine.co.il,Customer Service,Windows 11,Deskly Agent Toolbar,pdkdmblkcfmnhhdagfjjjpljmlmcolbh,4.2.0,2026-02-03,Force-installed (policy),Read and change data on harborpine.deskly.com,2026-10-28
+HP-LT-117,daniel.shaw@harborpine.co.il,Customer Service,Windows 11,Grammarly: AI Writing Assistant,kbfnbcaeplbcioakkpcpgfkobkghlhen,14.1189.0,2026-08-14,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-118,tamar.shalev@harborpine.co.il,Logistics & Warehouse,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-10-05,Force-installed (policy),Storage,2026-10-28
+HP-PC-119,avi.mizrahi@harborpine.co.il,IT,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-10-11,Force-installed (policy),Storage,2026-10-28
+HP-LT-120,noa.levi@harborpine.co.il,Marketing & E-commerce,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-03-11,Force-installed (policy),Storage,2026-10-28
+HP-LT-120,noa.levi@harborpine.co.il,Marketing & E-commerce,Windows 11,Grammarly: AI Writing Assistant,kbfnbcaeplbcioakkpcpgfkobkghlhen,14.1189.0,2026-10-06,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-120,noa.levi@harborpine.co.il,Marketing & E-commerce,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-01-01,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-PC-121,shir.barak@harborpine.co.il,Marketing & E-commerce,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-06-13,Force-installed (policy),Storage,2026-10-28
+HP-PC-121,shir.barak@harborpine.co.il,Marketing & E-commerce,Windows 11,Grammarly: AI Writing Assistant,kbfnbcaeplbcioakkpcpgfkobkghlhen,14.1189.0,2026-04-19,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-PC-121,shir.barak@harborpine.co.il,Marketing & E-commerce,Windows 11,ChatGPT Sidebar – AI Assistant for Any Page,difoiogjjojoaoomphldepapgpbgkhkb,6.2.4,2026-01-21,Chrome Web Store,Read and change all your data on all websites; tabs; clipboard,2026-10-28
+HP-LT-122,dana.katz@harborpine.co.il,HR,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-05-14,Force-installed (policy),Storage,2026-10-28
+HP-LT-122,dana.katz@harborpine.co.il,HR,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-04-08,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-PC-123,eyal.navon@harborpine.co.il,Purchasing,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-01-21,Force-installed (policy),Storage,2026-10-28
+HP-PC-123,eyal.navon@harborpine.co.il,Purchasing,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-08-18,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-PC-123,eyal.navon@harborpine.co.il,Purchasing,Windows 11,Google Translate,aapbdbdomjkkjkaonfhkkikfgjllcleb,2.0.16,2026-03-15,Chrome Web Store,Read data on all websites,2026-10-28
+HP-LT-124,igor.volkov@harborpine.co.il,Purchasing,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-05-17,Force-installed (policy),Storage,2026-10-28
+HP-LT-124,igor.volkov@harborpine.co.il,Purchasing,Windows 11,LinguaFlow – AI Translate & Rewrite,lgfnnkpcmoapejcbkoahjhebbcbjmhgk,3.7.2,2026-09-17,Chrome Web Store,Read and change all your data on all websites; clipboard,2026-10-28
+HP-LT-124,igor.volkov@harborpine.co.il,Purchasing,Windows 11,ChatGPT Sidebar – AI Assistant for Any Page,difoiogjjojoaoomphldepapgpbgkhkb,6.2.4,2026-05-22,Chrome Web Store,Read and change all your data on all websites; tabs; clipboard,2026-10-28
+HP-LT-125,yaniv.carmi@harborpine.co.il,B2B Sales,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-07-05,Force-installed (policy),Storage,2026-10-28
+HP-LT-125,yaniv.carmi@harborpine.co.il,B2B Sales,Windows 11,Grammarly: AI Writing Assistant,kbfnbcaeplbcioakkpcpgfkobkghlhen,14.1189.0,2026-03-03,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-PC-126,natalia.gurevich@harborpine.co.il,Finance,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-09-13,Force-installed (policy),Storage,2026-10-28
+HP-PC-127,muhammad.shehadeh@harborpine.co.il,Management,macOS 15,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-01-17,Force-installed (policy),Storage,2026-10-28
+HP-PC-127,muhammad.shehadeh@harborpine.co.il,Management,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-04-26,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-PC-127,muhammad.shehadeh@harborpine.co.il,Management,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-05-02,Chrome Web Store,Calendar,2026-10-28
+HP-LT-128,wassim.jabareen@harborpine.co.il,Logistics & Warehouse,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-09-01,Force-installed (policy),Storage,2026-10-28
+HP-LT-128,wassim.jabareen@harborpine.co.il,Logistics & Warehouse,Windows 11,LinguaFlow – AI Translate & Rewrite,lgfnnkpcmoapejcbkoahjhebbcbjmhgk,3.7.2,2026-08-25,Chrome Web Store,Read and change all your data on all websites; clipboard,2026-10-28
+HP-LT-128,wassim.jabareen@harborpine.co.il,Logistics & Warehouse,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-10-10,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-128,wassim.jabareen@harborpine.co.il,Logistics & Warehouse,macOS 15,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-02-12,Chrome Web Store,Calendar,2026-10-28
+HP-PC-129,irina.lerner@harborpine.co.il,Logistics & Warehouse,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-09-21,Force-installed (policy),Storage,2026-10-28
+HP-LT-130,itai.mekonen@harborpine.co.il,Logistics & Warehouse,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-02-21,Force-installed (policy),Storage,2026-10-28
+HP-LT-131,samah.hamdan@harborpine.co.il,Logistics & Warehouse,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-03-17,Force-installed (policy),Storage,2026-10-28
+HP-LT-131,samah.hamdan@harborpine.co.il,Logistics & Warehouse,macOS 15,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-10-12,Chrome Web Store,Calendar,2026-10-28
+HP-LT-131,samah.hamdan@harborpine.co.il,Logistics & Warehouse,Windows 11,Google Translate,aapbdbdomjkkjkaonfhkkikfgjllcleb,2.0.16,2026-07-28,Chrome Web Store,Read data on all websites,2026-10-28
+HP-LT-132,keren.tesfaye@harborpine.co.il,Logistics & Warehouse,macOS 15,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-07-17,Force-installed (policy),Storage,2026-10-28
+HP-LT-132,keren.tesfaye@harborpine.co.il,Logistics & Warehouse,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-07-17,Chrome Web Store,Calendar,2026-10-28
+HP-LT-132,keren.tesfaye@harborpine.co.il,Logistics & Warehouse,Windows 11,Google Translate,aapbdbdomjkkjkaonfhkkikfgjllcleb,2.0.16,2026-07-27,Chrome Web Store,Read data on all websites,2026-10-28
+HP-PC-133,itai.bendavid@harborpine.co.il,Logistics & Warehouse,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-09-08,Force-installed (policy),Storage,2026-10-28
+HP-PC-133,itai.bendavid@harborpine.co.il,Logistics & Warehouse,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-07-15,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-134,sarah.green@harborpine.co.il,Logistics & Warehouse,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-02-01,Force-installed (policy),Storage,2026-10-28
+HP-PC-135,leah.price@harborpine.co.il,Purchasing,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-08-13,Force-installed (policy),Storage,2026-10-28
+HP-PC-135,leah.price@harborpine.co.il,Purchasing,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-03-24,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-136,oren.malka@harborpine.co.il,Purchasing,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-06-18,Force-installed (policy),Storage,2026-10-28
+HP-LT-136,oren.malka@harborpine.co.il,Purchasing,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-06-08,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-137,tomer.azoulay@harborpine.co.il,Purchasing,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-09-26,Force-installed (policy),Storage,2026-10-28
+HP-PC-138,rebecca.morris@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-05-12,Force-installed (policy),Storage,2026-10-28
+HP-PC-138,rebecca.morris@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,LinguaFlow – AI Translate & Rewrite,lgfnnkpcmoapejcbkoahjhebbcbjmhgk,3.7.2,2026-05-15,Chrome Web Store,Read and change all your data on all websites; clipboard,2026-10-28
+HP-PC-138,rebecca.morris@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-02-27,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-139,abebe.barak@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-06-14,Force-installed (policy),Storage,2026-10-28
+HP-PC-140,larisa.zaitseva@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-01-09,Force-installed (policy),Storage,2026-10-28
+HP-PC-140,larisa.zaitseva@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-07-21,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-PC-140,larisa.zaitseva@harborpine.co.il,Sales – Showroom Tel Aviv,macOS 15,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-10-01,Chrome Web Store,Calendar,2026-10-28
+HP-LT-141,dafna.biton@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-07-05,Force-installed (policy),Storage,2026-10-28
+HP-LT-142,david.bendavid@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-09-10,Force-installed (policy),Storage,2026-10-28
+HP-LT-143,yossi.hazan@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-06-19,Force-installed (policy),Storage,2026-10-28
+HP-LT-143,yossi.hazan@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-06-11,Chrome Web Store,Calendar,2026-10-28
+HP-LT-144,worku.bendavid@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-08-27,Force-installed (policy),Storage,2026-10-28
+HP-LT-145,inbal.gabay@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-04-03,Force-installed (policy),Storage,2026-10-28
+HP-LT-146,lior.azoulay@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-06-06,Force-installed (policy),Storage,2026-10-28
+HP-LT-147,emily.morris@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-06-18,Force-installed (policy),Storage,2026-10-28
+HP-LT-148,dmitri.lerner@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-10-05,Force-installed (policy),Storage,2026-10-28
+HP-LT-148,dmitri.lerner@harborpine.co.il,Sales – Showroom Tel Aviv,macOS 15,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-07-18,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-148,dmitri.lerner@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-08-13,Chrome Web Store,Calendar,2026-10-28
+HP-LT-149,anna.volkova@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-08-05,Force-installed (policy),Storage,2026-10-28
+HP-LT-150,anat.rosen@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-07-19,Force-installed (policy),Storage,2026-10-28
+HP-LT-150,anat.rosen@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Translate,aapbdbdomjkkjkaonfhkkikfgjllcleb,2.0.16,2026-03-18,Chrome Web Store,Read data on all websites,2026-10-28
+HP-LT-151,pavel.rabinovich@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-01-02,Force-installed (policy),Storage,2026-10-28
+HP-LT-151,pavel.rabinovich@harborpine.co.il,Sales – Showroom Tel Aviv,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-05-06,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-PC-152,sivan.carmi@harborpine.co.il,Sales – Showroom Haifa,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-02-04,Force-installed (policy),Storage,2026-10-28
+HP-LT-153,yulia.rabinovich@harborpine.co.il,Sales – Showroom Haifa,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-10-10,Force-installed (policy),Storage,2026-10-28
+HP-LT-153,yulia.rabinovich@harborpine.co.il,Sales – Showroom Haifa,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-03-10,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-153,yulia.rabinovich@harborpine.co.il,Sales – Showroom Haifa,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-07-19,Chrome Web Store,Calendar,2026-10-28
+HP-LT-154,worku.azoulay@harborpine.co.il,Sales – Showroom Haifa,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-05-16,Force-installed (policy),Storage,2026-10-28
+HP-LT-154,worku.azoulay@harborpine.co.il,Sales – Showroom Haifa,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-06-02,Chrome Web Store,Calendar,2026-10-28
+HP-PC-155,abebe.alemu@harborpine.co.il,Sales – Showroom Haifa,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-04-07,Force-installed (policy),Storage,2026-10-28
+HP-LT-156,leonid.volkov@harborpine.co.il,Sales – Showroom Haifa,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-06-09,Force-installed (policy),Storage,2026-10-28
+HP-LT-156,leonid.volkov@harborpine.co.il,Sales – Showroom Haifa,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-02-08,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-156,leonid.volkov@harborpine.co.il,Sales – Showroom Haifa,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-04-25,Chrome Web Store,Calendar,2026-10-28
+HP-PC-157,david.tesfaye@harborpine.co.il,Sales – Showroom Haifa,macOS 15,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-05-10,Force-installed (policy),Storage,2026-10-28
+HP-PC-157,david.tesfaye@harborpine.co.il,Sales – Showroom Haifa,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-05-09,Chrome Web Store,Calendar,2026-10-28
+HP-PC-157,david.tesfaye@harborpine.co.il,Sales – Showroom Haifa,Windows 11,Google Translate,aapbdbdomjkkjkaonfhkkikfgjllcleb,2.0.16,2026-10-19,Chrome Web Store,Read data on all websites,2026-10-28
+HP-PC-158,ido.biton@harborpine.co.il,Sales – Showroom Haifa,macOS 15,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-09-23,Force-installed (policy),Storage,2026-10-28
+HP-LT-159,vladimir.kaplan@harborpine.co.il,Sales – Showroom Haifa,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-03-27,Force-installed (policy),Storage,2026-10-28
+HP-PC-160,svetlana.zaitseva@harborpine.co.il,Sales – Showroom Haifa,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-10-23,Force-installed (policy),Storage,2026-10-28
+HP-PC-160,svetlana.zaitseva@harborpine.co.il,Sales – Showroom Haifa,macOS 15,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-07-13,Chrome Web Store,Calendar,2026-10-28
+HP-LT-161,ksenia.orlova@harborpine.co.il,B2B Sales,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-05-14,Force-installed (policy),Storage,2026-10-28
+HP-LT-161,ksenia.orlova@harborpine.co.il,B2B Sales,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-01-12,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-162,guy.elbaz@harborpine.co.il,B2B Sales,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-02-01,Force-installed (policy),Storage,2026-10-28
+HP-PC-163,dafna.yosef@harborpine.co.il,B2B Sales,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-07-11,Force-installed (policy),Storage,2026-10-28
+HP-LT-164,ruti.shapiro@harborpine.co.il,B2B Sales,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-09-02,Force-installed (policy),Storage,2026-10-28
+HP-LT-164,ruti.shapiro@harborpine.co.il,B2B Sales,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-04-27,Chrome Web Store,Calendar,2026-10-28
+HP-LT-165,yossi.friedman@harborpine.co.il,B2B Sales,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-06-16,Force-installed (policy),Storage,2026-10-28
+HP-PC-166,jamal.nasser@harborpine.co.il,B2B Sales,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-06-11,Force-installed (policy),Storage,2026-10-28
+HP-PC-167,lior.friedman@harborpine.co.il,Marketing & E-commerce,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-08-21,Force-installed (policy),Storage,2026-10-28
+HP-PC-168,nir.barak@harborpine.co.il,Marketing & E-commerce,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-01-23,Force-installed (policy),Storage,2026-10-28
+HP-PC-168,nir.barak@harborpine.co.il,Marketing & E-commerce,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-08-20,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-PC-168,nir.barak@harborpine.co.il,Marketing & E-commerce,Windows 11,Google Translate,aapbdbdomjkkjkaonfhkkikfgjllcleb,2.0.16,2026-01-02,Chrome Web Store,Read data on all websites,2026-10-28
+HP-PC-169,noam.cohen@harborpine.co.il,Marketing & E-commerce,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-04-10,Force-installed (policy),Storage,2026-10-28
+HP-PC-169,noam.cohen@harborpine.co.il,Marketing & E-commerce,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-02-08,Chrome Web Store,Calendar,2026-10-28
+HP-PC-170,ido.ohayon@harborpine.co.il,Marketing & E-commerce,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-08-23,Force-installed (policy),Storage,2026-10-28
+HP-PC-170,ido.ohayon@harborpine.co.il,Marketing & E-commerce,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-05-16,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-171,svetlana.belova@harborpine.co.il,Marketing & E-commerce,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-08-22,Force-installed (policy),Storage,2026-10-28
+HP-LT-171,svetlana.belova@harborpine.co.il,Marketing & E-commerce,macOS 15,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-08-01,Chrome Web Store,Calendar,2026-10-28
+HP-LT-172,noam.rosen@harborpine.co.il,Finance,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-07-16,Force-installed (policy),Storage,2026-10-28
+HP-LT-173,limor.tesfaye@harborpine.co.il,Finance,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-03-22,Force-installed (policy),Storage,2026-10-28
+HP-LT-173,limor.tesfaye@harborpine.co.il,Finance,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-05-05,Chrome Web Store,Calendar,2026-10-28
+HP-PC-174,suha.kiwan@harborpine.co.il,Finance,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-02-01,Force-installed (policy),Storage,2026-10-28
+HP-PC-174,suha.kiwan@harborpine.co.il,Finance,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-02-06,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-PC-174,suha.kiwan@harborpine.co.il,Finance,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-01-23,Chrome Web Store,Calendar,2026-10-28
+HP-LT-175,mahmoud.khoury@harborpine.co.il,Finance,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-08-11,Force-installed (policy),Storage,2026-10-28
+HP-PC-176,tigist.bendavid@harborpine.co.il,Finance,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-10-28,Force-installed (policy),Storage,2026-10-28
+HP-PC-176,tigist.bendavid@harborpine.co.il,Finance,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-10-24,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-177,orly.yosef@harborpine.co.il,HR,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-01-14,Force-installed (policy),Storage,2026-10-28
+HP-LT-177,orly.yosef@harborpine.co.il,HR,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-04-15,Chrome Web Store,Calendar,2026-10-28
+HP-LT-178,rasha.badir@harborpine.co.il,HR,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-02-13,Force-installed (policy),Storage,2026-10-28
+HP-LT-178,rasha.badir@harborpine.co.il,HR,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-02-21,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-178,rasha.badir@harborpine.co.il,HR,Windows 11,Google Translate,aapbdbdomjkkjkaonfhkkikfgjllcleb,2.0.16,2026-07-04,Chrome Web Store,Read data on all websites,2026-10-28
+HP-LT-179,liat.dahan@harborpine.co.il,Merchandising,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-04-13,Force-installed (policy),Storage,2026-10-28
+HP-LT-180,khaled.shehadeh@harborpine.co.il,Merchandising,macOS 15,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-05-23,Force-installed (policy),Storage,2026-10-28
+HP-LT-180,khaled.shehadeh@harborpine.co.il,Merchandising,Windows 11,uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm,1.60.0,2026-04-16,Chrome Web Store,Read and change all your data on all websites,2026-10-28
+HP-LT-181,galit.azoulay@harborpine.co.il,Merchandising,Windows 11,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-09-21,Force-installed (policy),Storage,2026-10-28
+HP-PC-182,keren.azoulay@harborpine.co.il,Merchandising,macOS 15,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-10-19,Force-installed (policy),Storage,2026-10-28
+HP-PC-183,inbal.mekonen@harborpine.co.il,Facilities,macOS 15,Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi,1.88.1,2026-03-16,Force-installed (policy),Storage,2026-10-28
+HP-PC-183,inbal.mekonen@harborpine.co.il,Facilities,Windows 11,Zoom Scheduler,kgjfgplpablkjnlkjmjdecgdpfankdle,2.1.6,2026-01-16,Chrome Web Store,Calendar,2026-10-28

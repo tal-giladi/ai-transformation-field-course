@@ -1,0 +1,2530 @@
+ticket_id,true_category,true_language,kind,parent_ticket_id,order_id,is_wismo,used_order_status_macro,planted_findings
+31841,spam,en,new,,,,,
+31842,product_question,he,new,,,,,F5
+31844,reschedule,ar,new,,SO26004431,,,
+31846,other,he,new,,,,,F5
+31848,spam,en,new,,,,,
+31849,returns,ar,new,,SO26004147,,,
+31852,other,ru,new,,,,,F5
+31855,reschedule,he,new,,SO26004887,,,
+31858,wismo,he,new,,SO26004466,Y,Y,F1
+31861,product_question,he,new,,,,,
+31862,product_question,he,duplicate,31861,,,,F6
+31864,spam,en,new,,,,,
+31865,invoice,he,new,,SO26004510,,,F5
+31867,assembly,he,new,,SO26004456,,,F5
+31870,assembly,he,new,,SO26004322,,,
+31872,b2b_quote,he,new,,,,,
+31875,product_question,ru,new,,,,,
+31876,other,ar,new,,,,,F5
+31877,other,he,new,,,,,F5
+31878,product_question,ar,new,,,,,F5
+31880,invoice,ar,new,,SO26005296,,,
+31881,spam,en,new,,,,,
+31883,other,ru,new,,,,,F5
+31886,other,ru,duplicate,31883,,,,F6 F5
+31888,spam,en,new,,,,,
+31890,product_question,ru,new,,,,,F5
+31891,reschedule,ru,new,,SO26004329,,,F5
+31894,other,he,new,,,,,
+31897,assembly,he,followup,31870,SO26004322,,,F4
+31900,b2b_quote,he,new,,,,,
+31901,assembly,en,new,,SO26004449,,,
+31904,damage,he,new,,SO26004880,,,F5
+31905,b2b_quote,he,new,,,,,
+31908,product_question,he,new,,,,,
+31909,assembly,he,new,,SO26004398,,,
+31910,returns,he,new,,SO26004356,,,
+31911,damage,he,new,,SO26004854,,,
+31912,product_question,ru,new,,,,,
+31913,product_question,he,new,,,,,
+31914,other,he,new,,,,,F5
+31915,assembly,en,new,,SO26004386,,,
+31916,other,he,new,,,,,F5
+31919,b2b_quote,he,new,,,,,
+31920,damage,ru,new,,SO26004686,,,
+31921,assembly,he,new,,SO26004538,,,F5
+31922,complaint,he,new,,SO26004585,,,F5
+31923,other,he,new,,,,,F5
+31924,product_question,ru,new,,,,,
+31927,damage,he,new,,SO26004508,,,F5
+31928,damage,he,duplicate,31927,SO26004508,,,F6
+31931,complaint,he,new,,SO26004589,,,
+31933,complaint,he,duplicate,31931,SO26004589,,,F6
+31936,other,en,new,,,,,F5
+31939,product_question,he,new,,,,,
+31940,product_question,ru,new,,,,,
+31941,damage,ar,new,,SO26004431,,,
+31942,product_question,he,new,,,,,F5
+31943,invoice,he,new,,SO26004710,,,F5
+31944,wismo,ru,new,,SO26004502,Y,,F1 F5
+31946,other,en,new,,,,,F5
+31947,reschedule,he,new,,SO26004994,,,
+31948,other,he,new,,,,,F5
+31949,assembly,he,new,,SO26004937,,,
+31952,complaint,he,new,,,,,F5
+31953,product_question,he,new,,,,,F5
+31956,other,en,new,,,,,F5
+31959,other,ru,new,,,,,F5
+31961,other,ru,duplicate,31959,,,,F6 F5
+31963,product_question,he,new,,,,,
+31964,product_question,he,new,,,,,
+31965,invoice,he,new,,SO26005298,,,
+31967,product_question,ru,new,,,,,
+31970,product_question,ar,new,,,,,
+31972,b2b_quote,he,new,,,,,F5
+31975,other,he,new,,,,,F5
+31976,product_question,ru,new,,,,,
+31978,assembly,he,new,,SO26004515,,,
+31979,complaint,he,new,,,,,F5
+31982,spam,en,new,,,,,
+31983,other,he,new,,,,,
+31984,returns,he,new,,SO26004342,,,
+31987,other,he,new,,,,,
+31990,spam,en,new,,,,,F5
+31991,product_question,he,new,,,,,F5
+31992,product_question,he,new,,,,,
+31994,spam,en,new,,,,,
+31995,spam,en,new,,,,,
+31997,assembly,en,new,,SO26004367,,,
+31998,damage,he,new,,SO26004521,,,
+31999,assembly,en,followup,31901,SO26004449,,,F4
+32000,assembly,ar,new,,SO26005271,,,
+32001,damage,he,new,,SO26005206,,,
+32002,product_question,he,new,,,,,
+32003,spam,en,new,,,,,F5
+32006,invoice,he,new,,SO26005146,,,
+32008,other,he,new,,,,,F5
+32010,assembly,he,new,,SO26004958,,,
+32011,product_question,he,new,,,,,
+32014,assembly,ar,new,,SO26005004,,,
+32016,damage,ar,new,,SO26005128,,,F5
+32017,damage,he,new,,SO26004558,,,
+32018,returns,he,new,,SO26004558,,,
+32020,invoice,ar,followup,31880,SO26005296,,,F4
+32021,other,he,new,,,,,F5
+32023,assembly,he,followup,31909,SO26004398,,,F4
+32026,reschedule,he,new,,SO26004708,,,
+32029,other,he,new,,,,,F5
+32030,product_question,ar,new,,,,,F5
+32031,product_question,he,new,,,,,
+32033,assembly,he,new,,SO26004747,,,
+32035,wismo,en,new,,SO26005245,Y,Y,F1 F5
+32036,other,ar,new,,,,,F5
+32039,reschedule,he,new,,SO26004942,,,
+32041,damage,he,new,,SO26004524,,,
+32042,complaint,he,new,,SO26004700,,,
+32043,invoice,he,new,,SO26005555,,,
+32045,assembly,he,new,,SO26004605,,,
+32046,damage,he,new,,SO26004713,,,
+32048,damage,ar,followup,31941,SO26004431,,,F4
+32049,wismo,he,new,,SO26004631,Y,Y,F1
+32050,reschedule,ru,new,,SO26004756,,,
+32051,other,he,new,,,,,
+32052,damage,he,new,,SO26004700,,,
+32054,complaint,he,followup,31931,SO26004589,,,F4
+32055,other,he,new,,,,,F5
+32057,wismo,he,new,,SO26004633,Y,Y,F1 F5
+32060,b2b_quote,he,new,,,,,
+32061,product_question,he,new,,,,,
+32064,damage,he,followup,32017,SO26004558,,,F4
+32066,assembly,he,new,,SO26004488,,,
+32067,other,ru,new,,,,,
+32068,spam,en,new,,,,,F5
+32069,product_question,he,new,,,,,
+32070,complaint,he,new,,SO26004850,,,
+32073,damage,he,new,,SO26004731,,,
+32076,product_question,ru,new,,,,,
+32077,spam,en,new,,,,,
+32078,invoice,he,new,,SO26005292,,,
+32080,b2b_quote,en,new,,,,,
+32081,product_question,ar,new,,,,,
+32083,product_question,he,new,,,,,F5
+32085,other,ru,new,,,,,F5
+32086,product_question,he,new,,,,,
+32087,returns,he,new,,SO26004848,,,
+32090,product_question,he,new,,,,,
+32091,damage,he,new,,SO26004750,,,
+32093,product_question,ru,new,,,,,
+32095,damage,he,new,,SO26005045,,,F5
+32096,spam,en,new,,,,,
+32097,spam,en,new,,,,,
+32099,wismo,ar,new,,SO26004635,Y,Y,F1
+32101,other,he,new,,,,,
+32102,spam,he,new,,,,,
+32103,damage,he,new,,SO26005215,,,
+32104,complaint,he,new,,SO26004671,,,
+32105,product_question,ar,new,,,,,
+32106,returns,he,new,,SO26004796,,,
+32107,damage,ar,new,,SO26005240,,,
+32109,damage,en,new,,SO26005245,,,F5
+32112,damage,en,duplicate,32109,SO26005245,,,F6 F5
+32113,assembly,he,new,,SO26005078,,,
+32116,assembly,ru,new,,SO26004853,,,
+32117,damage,he,new,,SO26005005,,,
+32119,invoice,he,new,,SO26005119,,,F5
+32121,wismo,he,new,,SO26005010,Y,,F1 F5
+32124,damage,ar,new,,SO26004659,,,F5
+32125,damage,he,new,,SO26004920,,,
+32126,b2b_quote,he,new,,,,,
+32127,b2b_quote,he,new,,,,,F5
+32130,product_question,he,new,,,,,
+32133,damage,ar,new,,SO26005332,,,
+32135,other,he,new,,,,,
+32136,wismo,he,new,,SO26005462,Y,Y,F1 F5
+32137,other,he,new,,,,,
+32139,spam,en,new,,,,,
+32140,other,ar,new,,,,,F5
+32143,invoice,he,new,,SO26005778,,,
+32144,other,he,new,,,,,F5
+32147,product_question,ar,new,,,,,F5
+32150,returns,he,new,,SO26004488,,,
+32151,b2b_quote,en,new,,,,,
+32152,reschedule,he,new,,SO26005462,,,F5
+32153,returns,he,new,,SO26004671,,,
+32154,damage,he,followup,32073,SO26004731,,,F4
+32155,damage,he,duplicate,32154,SO26004731,,,F6
+32156,assembly,he,followup,32113,SO26005078,,,F4 F5
+32158,assembly,ru,new,,SO26004721,,,
+32159,damage,en,new,,SO26005339,,,
+32160,wismo,he,new,,SO26005101,Y,,F1
+32163,product_question,ru,new,,,,,
+32164,product_question,ru,duplicate,32163,,,,F6
+32167,assembly,he,followup,32033,SO26004747,,,F4
+32170,reschedule,en,new,,SO26005419,,,
+32171,damage,he,new,,SO26005555,,,
+32172,spam,he,new,,,,,
+32175,damage,he,new,,SO26004925,,,F5
+32176,reschedule,ru,new,,SO26004973,,,
+32177,reschedule,he,new,,SO26005422,,,
+32179,spam,he,new,,,,,
+32180,wismo,ar,new,,SO26005369,Y,Y,F1
+32181,damage,he,new,,SO26005197,,,
+32182,product_question,ru,new,,,,,F5
+32184,product_question,he,new,,,,,F5
+32185,reschedule,he,new,,SO26005554,,,F5
+32186,reschedule,ar,new,,SO26004873,,,F5
+32188,assembly,he,new,,SO26004898,,,
+32191,damage,he,followup,32125,SO26004920,,,F4
+32193,spam,en,new,,,,,
+32194,reschedule,en,new,,SO26005089,,,
+32195,b2b_quote,he,new,,,,,
+32196,other,he,new,,,,,F5
+32197,damage,he,new,,SO26004947,,,
+32198,product_question,ar,new,,,,,F5
+32199,product_question,ar,new,,,,,F5
+32200,other,he,new,,,,,F5
+32201,damage,he,new,,SO26005371,,,
+32202,damage,he,new,,SO26005469,,,
+32205,damage,ar,new,,SO26005446,,,F5
+32206,wismo,he,new,,SO26005520,Y,,F1
+32207,product_question,he,new,,,,,F5
+32210,other,en,new,,,,,F5
+32211,assembly,he,followup,32045,SO26004605,,,F4
+32212,spam,en,new,,,,,
+32213,damage,he,new,,SO26004997,,,
+32216,b2b_quote,en,new,,,,,
+32217,wismo,he,followup,32160,SO26005101,Y,Y,F1 F4
+32218,wismo,he,new,,SO26004905,Y,Y,F1 F5
+32221,spam,en,new,,,,,
+32223,damage,ru,new,,SO26005020,,,
+32224,b2b_quote,he,new,,,,,F5
+32225,damage,ar,new,,SO26004873,,,F5
+32226,product_question,he,new,,,,,
+32229,spam,en,new,,,,,
+32230,damage,he,new,,SO26005689,,,F5
+32233,damage,he,new,,SO26005601,,,
+32235,reschedule,ar,new,,SO26005073,,,
+32238,damage,he,new,,SO26005526,,,
+32239,wismo,he,new,,SO26004841,Y,Y,F1
+32241,product_question,ar,new,,,,,F5
+32243,damage,he,followup,32202,SO26005469,,,F4
+32244,returns,en,new,,SO26004996,,,
+32245,damage,he,new,,SO26005490,,,
+32246,wismo,he,new,,SO26005080,Y,Y,F1
+32247,wismo,ru,new,,SO26005037,Y,Y,F1
+32248,damage,en,followup,32159,SO26005339,,,F4
+32250,reschedule,he,new,,SO26005067,,,
+32252,other,he,new,,,,,
+32253,assembly,ru,new,,SO26005593,,,
+32256,product_question,ar,new,,,,,
+32259,damage,he,new,,SO26005180,,,
+32260,assembly,he,new,,SO26005595,,,
+32261,assembly,en,followup,31997,SO26004367,,,F4
+32263,assembly,en,duplicate,32261,SO26004367,,,F6
+32264,product_question,ru,new,,,,,
+32265,product_question,he,new,,,,,F5
+32266,product_question,he,new,,,,,
+32267,wismo,he,new,,SO26005162,Y,Y,F1
+32268,returns,he,new,,SO26005106,,,
+32269,damage,he,followup,32238,SO26005526,,,F4
+32271,product_question,he,new,,,,,
+32272,product_question,he,new,,,,,
+32274,other,ar,new,,,,,F5
+32275,damage,he,new,,SO26005016,,,F5
+32278,product_question,he,new,,,,,
+32280,assembly,he,new,,SO26005513,,,
+32281,wismo,he,new,,SO26005059,Y,Y,F1
+32284,wismo,ar,new,,SO26005071,Y,Y,F1 F5
+32285,damage,he,followup,32197,SO26004947,,,F4
+32288,wismo,ar,duplicate,32284,SO26005071,Y,Y,F1 F6 F5
+32289,damage,ar,followup,32205,SO26005446,,,F4
+32292,other,he,new,,,,,F5
+32293,product_question,he,new,,,,,
+32296,product_question,he,new,,,,,
+32297,wismo,he,new,,SO26005042,Y,Y,F1
+32300,b2b_quote,ar,new,,,,,
+32301,product_question,ru,new,,,,,F5
+32302,product_question,ru,new,,,,,
+32303,wismo,he,new,,SO26005231,Y,Y,F1
+32304,product_question,he,new,,,,,
+32306,assembly,he,new,,SO26005162,,,
+32307,product_question,ru,new,,,,,F5
+32310,damage,he,new,,SO26005080,,,
+32312,spam,en,new,,,,,
+32315,other,ru,new,,,,,F5
+32317,invoice,he,new,,SO26005238,,,F5
+32318,product_question,ar,new,,,,,F5
+32319,product_question,he,new,,,,,
+32320,other,en,new,,,,,F5
+32321,wismo,he,new,,SO26005374,Y,Y,F1 F5
+32322,damage,he,followup,32243,SO26005469,,,F4
+32323,product_question,he,new,,,,,
+32325,returns,he,followup,32150,SO26004488,,,F4
+32327,b2b_quote,he,new,,,,,
+32328,other,he,new,,,,,F5
+32329,spam,en,new,,,,,
+32331,product_question,he,new,,,,,
+32333,invoice,he,new,,SO26005897,,,
+32334,damage,he,followup,32233,SO26005601,,,F4
+32335,other,he,new,,,,,
+32336,b2b_quote,he,new,,,,,
+32337,invoice,he,new,,SO26005315,,,
+32340,other,ru,new,,,,,
+32341,assembly,he,new,,SO26005034,,,
+32344,wismo,ar,new,,SO26005192,Y,Y,F1
+32345,damage,he,followup,32175,SO26004925,,,F4
+32348,spam,en,new,,,,,F5
+32349,wismo,ar,new,,SO26005296,Y,Y,F1
+32352,spam,en,new,,,,,
+32353,other,ar,new,,,,,
+32354,spam,en,new,,,,,
+32355,wismo,ru,new,,SO26005711,Y,Y,F1
+32356,spam,en,new,,,,,
+32357,b2b_quote,he,new,,,,,
+32360,b2b_quote,he,duplicate,32357,,,,F6
+32361,wismo,ar,new,,SO26005540,Y,,F1
+32362,product_question,en,new,,,,,F5
+32364,complaint,ru,new,,,,,
+32365,product_question,he,new,,,,,
+32366,invoice,he,new,,SO26005862,,,
+32369,product_question,he,duplicate,32365,,,,F6 F5
+32370,product_question,ar,new,,,,,
+32372,product_question,ar,duplicate,32370,,,,F6 F5
+32375,wismo,ru,new,,SO26005259,Y,Y,F1
+32376,b2b_quote,he,new,,,,,
+32379,returns,he,new,,SO26005407,,,F5
+32380,product_question,he,new,,,,,F5
+32381,wismo,he,new,,SO26005315,Y,,F1
+32382,reschedule,ru,new,,SO26005869,,,
+32383,spam,he,new,,,,,
+32385,invoice,he,new,,SO26005371,,,
+32386,product_question,he,new,,,,,F5
+32389,product_question,en,new,,,,,
+32390,wismo,he,new,,SO26005370,Y,Y,F1 F5
+32392,other,ar,new,,,,,F5
+32394,spam,en,new,,,,,
+32396,spam,en,new,,,,,
+32397,returns,en,followup,32244,SO26004996,,,F4
+32398,complaint,he,new,,,,,
+32399,reschedule,he,new,,SO26005868,,,
+32400,wismo,he,new,,SO26005318,Y,Y,F1
+32403,wismo,he,new,,SO26005740,Y,Y,F1
+32406,product_question,he,new,,,,,F5
+32407,wismo,he,new,,SO26005231,Y,Y,F1
+32410,spam,en,new,,,,,
+32412,product_question,ru,new,,,,,F5
+32413,other,he,new,,,,,F5
+32414,assembly,he,new,,SO26006013,,,
+32415,wismo,ar,new,,SO26005343,Y,Y,F1
+32417,wismo,he,new,,SO26005279,Y,Y,F1
+32418,damage,he,new,,SO26005801,,,
+32420,other,ru,new,,,,,F5
+32421,damage,ar,followup,32225,SO26004873,,,F4
+32424,other,he,new,,,,,F5
+32425,reschedule,he,new,,SO26005279,,,F5
+32426,invoice,he,new,,SO26006101,,,
+32427,product_question,he,new,,,,,
+32429,spam,he,new,,,,,
+32430,wismo,ar,new,,SO26005799,Y,Y,F1
+32431,assembly,he,new,,SO26005883,,,
+32434,wismo,en,new,,SO26005195,Y,Y,F1
+32435,wismo,en,duplicate,32434,SO26005195,Y,Y,F1 F6
+32438,damage,ru,new,,SO26005963,,,F5
+32439,spam,en,new,,,,,
+32440,product_question,ru,new,,,,,
+32442,wismo,he,new,,SO26005311,Y,,F1
+32445,other,ar,new,,,,,
+32447,assembly,he,new,,SO26005974,,,
+32448,assembly,he,duplicate,32447,SO26005974,,,F6
+32449,invoice,he,new,,SO26006169,,,
+32450,product_question,he,new,,,,,
+32451,invoice,ar,new,,SO26005875,,,
+32452,wismo,he,new,,SO26005287,Y,,F1
+32453,damage,ru,new,,SO26005711,,,F5
+32454,damage,ru,duplicate,32453,SO26005711,,,F6 F5
+32455,reschedule,he,new,,SO26005382,,Y,
+32457,wismo,en,new,,SO26005244,Y,,F1
+32459,product_question,ar,new,,,,,
+32461,product_question,he,new,,,,,
+32462,reschedule,he,new,,SO26005427,,,F5
+32463,product_question,he,new,,,,,
+32464,other,he,new,,,,,F5
+32465,product_question,he,new,,,,,
+32466,reschedule,he,new,,SO26005481,,,F5
+32467,wismo,en,followup,32434,SO26005195,Y,Y,F1 F4
+32469,wismo,ar,new,,SO26005364,Y,Y,F1 F5
+32471,wismo,en,new,,SO26005303,Y,Y,F1
+32472,wismo,he,new,,SO26005262,Y,Y,F1 F5
+32474,damage,ar,new,,SO26005926,,,
+32475,product_question,ar,new,,,,,F5
+32477,other,ru,new,,,,,F5
+32479,spam,en,new,,,,,
+32480,complaint,en,new,,SO26005341,,,
+32481,other,ru,new,,,,,
+32484,complaint,en,duplicate,32480,SO26005341,,,F6
+32485,wismo,ar,new,,SO26005363,Y,Y,F1 F5
+32486,other,ar,new,,,,,F5
+32487,reschedule,ar,new,,SO26005379,,,F5
+32488,product_question,he,new,,,,,
+32490,assembly,ru,new,,SO26005854,,,
+32491,spam,en,new,,,,,
+32492,wismo,en,new,,SO26005783,Y,Y,F1 F5
+32493,reschedule,he,new,,SO26005211,,,F5
+32495,damage,he,new,,SO26005337,,,
+32497,wismo,he,new,,SO26005370,Y,Y,F1
+32500,damage,he,duplicate,32495,SO26005337,,,F6
+32501,damage,ar,new,,SO26005799,,,
+32502,product_question,he,new,,,,,F5
+32504,assembly,ar,new,,SO26005728,,,
+32507,b2b_quote,he,new,,,,,
+32510,b2b_quote,he,duplicate,32507,,,,F6
+32511,damage,he,new,,SO26005268,,,
+32514,product_question,he,new,,,,,
+32515,invoice,he,new,,SO26005958,,,
+32518,assembly,ru,new,,SO26005975,,,
+32521,wismo,ar,new,,SO26005496,Y,Y,F1
+32522,wismo,ar,new,,SO26005346,Y,Y,F1
+32524,wismo,he,new,,SO26005356,Y,Y,F1 F5
+32527,wismo,he,new,,SO26005447,Y,Y,F1
+32528,wismo,he,new,,SO26005372,Y,Y,F1
+32531,damage,he,followup,32345,SO26004925,,,F4
+32532,wismo,he,duplicate,32528,SO26005372,Y,Y,F1 F6
+32533,damage,en,new,,SO26005338,,,
+32534,spam,en,new,,,,,
+32535,damage,he,new,,SO26005315,,,
+32537,assembly,ar,new,,SO26006000,,,
+32538,product_question,ar,new,,,,,F5
+32539,complaint,he,new,,SO26005315,,,
+32540,b2b_quote,he,new,,,,,
+32541,other,he,new,,,,,F5
+32542,damage,he,new,,SO26005359,,,
+32545,wismo,he,new,,SO26005823,Y,Y,F1
+32546,product_question,he,new,,,,,
+32549,wismo,he,followup,32390,SO26005370,Y,Y,F1 F4
+32550,reschedule,ar,new,,SO26005314,,,F5
+32551,damage,en,new,,SO26005195,,,
+32552,assembly,en,new,,SO26005362,,,
+32553,damage,ru,followup,32453,SO26005711,,,F4
+32554,other,he,new,,,,,F5
+32556,spam,en,new,,,,,
+32559,other,ar,new,,,,,F5
+32562,reschedule,ar,new,,SO26006121,,,
+32565,product_question,ru,new,,,,,
+32567,product_question,he,new,,,,,
+32570,wismo,he,new,,SO26005425,Y,Y,F1 F5
+32571,returns,he,new,,SO26005427,,,F5
+32572,damage,he,new,,SO26005347,,,
+32573,damage,he,new,,SO26005231,,,
+32574,assembly,ru,followup,32490,SO26005854,,,F4
+32575,damage,he,followup,32495,SO26005337,,,F4
+32578,other,ru,new,,,,,
+32579,reschedule,he,new,,SO26006064,,,
+32580,wismo,he,new,,SO26005599,Y,,F1
+32581,other,he,new,,,,,F5
+32583,product_question,ru,new,,,,,
+32584,product_question,ru,duplicate,32583,,,,F6 F5
+32585,wismo,he,new,,SO26005483,Y,Y,F1
+32586,wismo,he,duplicate,32585,SO26005483,Y,Y,F1 F6
+32587,assembly,he,new,,SO26005324,,,F5
+32589,product_question,ar,new,,,,,
+32590,damage,en,followup,32533,SO26005338,,,F4
+32591,other,ar,new,,,,,F5
+32594,wismo,he,new,,SO26005534,Y,,F1 F5
+32595,wismo,he,new,,SO26005610,Y,,F1
+32596,assembly,he,new,,SO26005993,,,
+32597,other,ar,new,,,,,F5
+32598,returns,ar,new,,SO26005983,,,
+32599,product_question,he,new,,,,,
+32601,other,en,new,,,,,
+32604,damage,he,new,,SO26006226,,,
+32607,b2b_quote,he,new,,,,,
+32610,wismo,ru,new,,SO26005630,Y,Y,F1 F5
+32611,complaint,ar,new,,SO26006124,,,
+32612,returns,en,new,,SO26005244,,,
+32614,other,ar,new,,,,,
+32615,complaint,he,new,,SO26005483,,,
+32617,invoice,he,new,,SO26005751,,,
+32618,product_question,he,new,,,,,F5
+32621,damage,he,followup,32573,SO26005231,,,F4
+32622,assembly,he,new,,SO26005880,,,
+32624,product_question,ru,new,,,,,
+32625,assembly,ar,new,,SO26005945,,,
+32626,invoice,he,new,,SO26005664,,,
+32627,complaint,en,new,,SO26005367,,,
+32630,assembly,he,new,,SO26006163,,,
+32632,wismo,he,new,,SO26005623,Y,Y,F1
+32633,damage,en,followup,32551,SO26005195,,,F4 F5
+32635,product_question,he,new,,,,,
+32636,assembly,he,new,,SO26006035,,,
+32637,returns,ar,new,,SO26005226,,,
+32638,spam,en,new,,,,,
+32639,invoice,he,new,,SO26006160,,,
+32640,spam,en,new,,,,,
+32642,wismo,he,new,,SO26005577,Y,Y,F1
+32643,product_question,en,new,,,,,F5
+32646,returns,he,new,,SO26006163,,,
+32647,returns,en,new,,SO26005783,,,
+32648,damage,en,new,,SO26005367,,,
+32651,damage,en,duplicate,32648,SO26005367,,,F6
+32652,complaint,he,new,,SO26005464,,,
+32655,damage,he,new,,SO26005534,,,
+32657,spam,en,new,,,,,
+32660,returns,ru,new,,SO26005485,,,
+32661,spam,en,new,,,,,
+32663,spam,en,new,,,,,
+32665,spam,en,new,,,,,
+32668,reschedule,ar,followup,32562,SO26006121,,,F4
+32669,returns,he,new,,SO26006353,,,
+32670,b2b_quote,he,new,,,,,
+32671,wismo,ar,new,,SO26005647,Y,Y,F1
+32672,reschedule,ar,new,,SO26005633,,,F5
+32675,product_question,ar,new,,,,,F5
+32677,wismo,ar,new,,SO26005633,Y,Y,F1 F5
+32679,product_question,he,new,,,,,F5
+32680,b2b_quote,en,new,,,,,
+32683,wismo,he,new,,SO26005609,Y,,F1 F5
+32684,wismo,he,new,,SO26005680,Y,Y,F1 F5
+32687,invoice,he,new,,SO26006308,,,
+32690,wismo,he,new,,SO26005729,Y,,F1
+32693,product_question,he,new,,,,,
+32694,assembly,he,new,,SO26006265,,,
+32695,product_question,he,new,,,,,
+32698,wismo,he,new,,SO26005969,Y,Y,F1 F5
+32700,returns,he,new,,SO26005355,,,
+32701,wismo,ar,new,,SO26005670,Y,Y,F1 F5
+32703,b2b_quote,en,new,,,,,
+32704,wismo,he,new,,SO26006445,Y,Y,F1
+32705,returns,he,followup,32571,SO26005427,,,F4
+32708,wismo,ar,new,,SO26005580,Y,,F1
+32709,wismo,he,new,,SO26005624,Y,Y,F1 F5
+32710,returns,en,followup,32612,SO26005244,,,F4
+32712,b2b_quote,he,new,,,,,
+32713,invoice,he,new,,SO26005824,,,
+32715,product_question,he,new,,,,,
+32717,wismo,he,new,,SO26005686,Y,Y,F1
+32718,other,en,new,,,,,F5
+32721,product_question,he,new,,,,,
+32722,returns,he,followup,32669,SO26006353,,,F4
+32725,invoice,he,followup,32626,SO26005664,,,F4 F5
+32726,spam,en,new,,,,,
+32727,returns,he,new,,SO26006236,,,
+32730,returns,he,duplicate,32727,SO26006236,,,F6
+32733,b2b_quote,he,new,,,,,F5
+32734,wismo,he,new,,SO26005615,Y,,F1
+32735,wismo,he,new,,SO26005743,Y,Y,F1
+32736,wismo,ru,new,,SO26005798,Y,Y,F1
+32737,product_question,ru,new,,,,,
+32738,wismo,he,new,,SO26005652,Y,Y,F1
+32741,damage,ar,followup,32501,SO26005799,,,F4
+32742,complaint,ru,new,,,,,F5
+32743,wismo,he,new,,SO26005814,Y,Y,F1
+32745,product_question,he,new,,,,,F5
+32748,wismo,he,followup,32632,SO26005623,Y,Y,F1 F4
+32751,complaint,he,new,,,,,
+32753,wismo,ar,followup,32671,SO26005647,Y,Y,F1 F4 F5
+32754,product_question,ru,new,,,,,
+32755,wismo,he,followup,32642,SO26005577,Y,Y,F1 F4 F5
+32758,wismo,he,new,,SO26005763,Y,,F1
+32761,wismo,he,duplicate,32758,SO26005763,Y,Y,F1 F6
+32762,product_question,ar,new,,,,,
+32763,product_question,ar,duplicate,32762,,,,F6
+32764,product_question,he,new,,,,,
+32767,wismo,he,new,,SO26005569,Y,,F1 F5
+32768,wismo,ru,new,,SO26005809,Y,Y,F1
+32769,product_question,ru,new,,,,,
+32771,spam,en,new,,,,,
+32772,spam,en,new,,,,,
+32773,wismo,ar,new,,SO26006037,Y,Y,F1
+32774,wismo,he,new,,SO26006157,Y,Y,F1
+32775,wismo,he,new,,SO26005677,Y,Y,F1
+32778,wismo,he,new,,SO26005644,Y,Y,F1
+32781,other,he,new,,,,,F5
+32784,wismo,he,followup,32698,SO26005969,Y,Y,F1 F4
+32785,wismo,en,new,,SO26006303,Y,Y,F1
+32786,product_question,ar,new,,,,,
+32788,product_question,he,new,,,,,F5
+32789,wismo,he,new,,SO26005664,Y,,F1 F5
+32791,product_question,ru,new,,,,,
+32792,wismo,ru,new,,SO26005667,Y,Y,F1
+32793,damage,ar,new,,SO26005704,,,
+32796,product_question,he,new,,,,,
+32798,wismo,ru,new,,SO26005715,Y,Y,F1
+32799,b2b_quote,he,new,,,,,
+32801,damage,he,new,,SO26006277,,,
+32804,damage,en,new,,SO26006303,,,
+32806,wismo,en,new,,SO26005710,Y,Y,F1
+32808,assembly,he,new,,SO26006223,,,F5
+32809,returns,ar,new,,SO26005670,,,
+32810,wismo,ru,new,,SO26005734,Y,Y,F1 F5
+32811,product_question,ar,new,,,,,F5
+32812,product_question,ar,duplicate,32811,,,,F6
+32813,wismo,ar,new,,SO26005674,Y,,F1
+32814,wismo,en,new,,SO26005774,Y,,F1
+32815,assembly,he,new,,SO26006193,,,
+32817,reschedule,en,new,,SO26005774,,,F5
+32818,other,ru,new,,,,,F5
+32819,wismo,en,new,,SO26005796,Y,Y,F1
+32820,product_question,he,new,,,,,
+32821,other,he,new,,,,,
+32822,b2b_quote,he,new,,,,,
+32823,wismo,he,new,,SO26005718,Y,Y,F1 F5
+32825,damage,he,new,,SO26005732,,,
+32828,other,he,new,,,,,F5
+32831,wismo,he,new,,SO26006098,Y,Y,F1
+32834,wismo,he,duplicate,32831,SO26006098,Y,Y,F1 F6
+32835,wismo,he,new,,SO26005896,Y,Y,F1
+32837,wismo,he,new,,SO26005751,Y,Y,F1
+32838,product_question,ar,new,,,,,
+32839,wismo,he,new,,SO26005839,Y,,F1
+32842,wismo,ar,new,,SO26005736,Y,Y,F1
+32843,wismo,he,new,,SO26005790,Y,Y,F1 F5
+32844,wismo,he,new,,SO26005831,Y,Y,F1
+32845,wismo,he,new,,SO26006114,Y,Y,F1
+32848,wismo,he,new,,SO26006070,Y,Y,F1
+32849,wismo,he,new,,SO26005748,Y,Y,F1 F5
+32851,assembly,he,new,,SO26006251,,,
+32852,assembly,he,followup,32587,SO26005324,,,F4 F5
+32855,product_question,ru,new,,,,,F5
+32856,complaint,ru,new,,SO26005840,,,
+32859,product_question,he,new,,,,,
+32861,spam,en,new,,,,,
+32862,wismo,he,new,,SO26005792,Y,Y,F1
+32863,other,he,new,,,,,F5
+32864,wismo,he,new,,SO26005827,Y,,F1 F5
+32866,damage,he,followup,32825,SO26005732,,,F4 F5
+32869,returns,he,new,,SO26005643,,,
+32870,assembly,he,new,,SO26005814,,,
+32872,returns,he,duplicate,32869,SO26005643,,,F6 F5
+32873,wismo,he,new,,SO26005968,Y,Y,F1 F5
+32874,wismo,he,new,,SO26005969,Y,Y,F1 F5
+32875,damage,en,followup,32633,SO26005195,,,F4
+32877,assembly,ar,followup,32625,SO26005945,,,F4
+32878,product_question,ru,new,,,,,F5
+32880,wismo,he,new,,SO26006539,Y,,F1
+32882,assembly,ru,new,,SO26005798,,,
+32885,other,he,new,,,,,F5
+32887,wismo,he,new,,SO26005970,Y,Y,F1
+32888,reschedule,en,new,,SO26006386,,,F5
+32889,other,he,new,,,,,F5
+32890,product_question,he,new,,,,,F5
+32891,wismo,he,new,,SO26005769,Y,Y,F1
+32893,b2b_quote,he,new,,,,,
+32895,damage,ar,followup,32793,SO26005704,,,F4
+32897,other,he,new,,,,,F5
+32900,product_question,ar,new,,,,,F5
+32901,wismo,ru,new,,SO26005916,Y,Y,F1
+32903,assembly,he,new,,SO26005686,,,
+32904,b2b_quote,he,new,,,,,
+32906,b2b_quote,en,new,,,,,
+32908,b2b_quote,en,duplicate,32906,,,,F6
+32909,reschedule,ar,new,,SO26006431,,,F5
+32910,wismo,he,new,,SO26005824,Y,Y,F1
+32911,wismo,he,new,,SO26005895,Y,Y,F1 F5
+32914,invoice,ar,new,,SO26006310,,,
+32916,wismo,he,new,,SO26005934,Y,,F1 F5
+32919,wismo,ar,new,,SO26006379,Y,Y,F1
+32922,wismo,ru,followup,32792,SO26005667,Y,Y,F1 F4
+32925,wismo,he,new,,SO26006399,Y,Y,F1
+32926,other,he,new,,,,,F5
+32928,assembly,he,followup,32870,SO26005814,,,F4
+32929,damage,he,new,,SO26005615,,,
+32930,wismo,ru,new,,SO26006004,Y,Y,F1
+32931,wismo,he,new,,SO26006500,Y,Y,F1
+32934,other,he,new,,,,,F5
+32935,damage,he,new,,SO26006530,,,
+32938,product_question,he,new,,,,,
+32939,damage,he,new,,SO26005627,,,
+32942,wismo,he,new,,SO26005977,Y,Y,F1 F5
+32945,product_question,he,new,,,,,
+32946,b2b_quote,he,new,,,,,
+32948,wismo,ru,new,,SO26005886,Y,Y,F1
+32949,b2b_quote,he,new,,,,,
+32952,wismo,he,new,,SO26005994,Y,Y,F1 F5
+32955,wismo,ar,new,,SO26005941,Y,Y,F1
+32958,product_question,he,new,,,,,
+32961,wismo,he,new,,SO26005821,Y,Y,F1
+32962,wismo,he,new,,SO26006015,Y,Y,F1
+32964,wismo,he,new,,SO26006030,Y,Y,F1 F5
+32965,spam,en,new,,,,,
+32968,damage,en,new,,SO26005666,,,
+32971,product_question,he,new,,,,,F5
+32974,wismo,he,new,,SO26006005,Y,,F1 F5
+32976,assembly,en,new,,SO26005796,,,
+32978,other,he,new,,,,,F5
+32981,damage,he,new,,SO26006689,,,
+32982,damage,he,duplicate,32981,SO26006689,,,F6
+32983,wismo,he,new,,SO26005843,Y,Y,F1 F5
+32984,wismo,he,new,,SO26005954,Y,Y,F1
+32985,wismo,he,followup,32789,SO26005664,Y,Y,F1 F4
+32987,product_question,he,new,,,,,
+32988,wismo,he,followup,32767,SO26005569,Y,Y,F1 F4 F5
+32989,b2b_quote,he,new,,,,,
+32990,assembly,en,new,,SO26005760,,,
+32991,wismo,he,followup,32887,SO26005970,Y,Y,F1 F4
+32993,complaint,ar,new,,SO26006379,,,F5
+32995,wismo,he,new,,SO26005965,Y,Y,F1
+32996,wismo,he,duplicate,32995,SO26005965,Y,Y,F1 F6
+32997,returns,ar,new,,SO26006584,,,
+33000,returns,ru,new,,SO26006255,,,F5
+33001,wismo,he,new,,SO26005906,Y,Y,F1
+33002,b2b_quote,he,new,,,,,
+33005,wismo,he,new,,SO26005956,Y,Y,F1
+33006,product_question,he,new,,,,,F5
+33009,wismo,he,new,,SO26006055,Y,Y,F1 F5
+33010,invoice,he,new,,SO26006291,,,
+33011,wismo,he,duplicate,33009,SO26006055,Y,Y,F1 F6 F5
+33014,complaint,he,new,,SO26006703,,,
+33015,wismo,he,new,,SO26006021,Y,,F1
+33016,wismo,he,duplicate,33015,SO26006021,Y,,F1 F6
+33017,wismo,ar,new,,SO26005917,Y,Y,F1
+33018,wismo,en,new,,SO26005870,Y,Y,F1
+33019,other,he,new,,,,,F5
+33022,b2b_quote,he,new,,,,,
+33023,returns,ar,followup,32809,SO26005670,,,F4
+33024,wismo,he,new,,SO26006024,Y,Y,F1 F5
+33025,product_question,ru,new,,,,,
+33028,wismo,he,new,,SO26006025,Y,Y,F1 F5
+33029,wismo,en,new,,SO26005962,Y,Y,F1
+33030,invoice,he,new,,SO26006557,,,
+33032,complaint,he,new,,SO26006656,,,
+33033,returns,he,new,,SO26006196,,,
+33035,wismo,he,new,,SO26006714,Y,Y,F1
+33037,wismo,he,duplicate,33035,SO26006714,Y,Y,F1 F6 F5
+33038,wismo,he,followup,32942,SO26005977,Y,Y,F1 F4
+33039,product_question,ar,new,,,,,
+33040,wismo,ru,new,,SO26005912,Y,Y,F1
+33041,wismo,he,new,,SO26005908,Y,Y,F1 F5
+33043,wismo,he,new,,SO26006084,Y,Y,F1 F5
+33044,invoice,he,new,,SO26006265,,,
+33046,assembly,he,new,,SO26006530,,,
+33047,other,he,new,,,,,
+33049,product_question,he,new,,,,,
+33050,wismo,ru,new,,SO26006079,Y,,F1
+33051,product_question,ru,new,,,,,
+33053,wismo,ru,new,,SO26006096,Y,Y,F1 F5
+33054,damage,he,followup,32801,SO26006277,,,F4
+33055,spam,he,new,,,,,
+33057,wismo,ru,new,,SO26006108,Y,Y,F1 F5
+33060,wismo,he,new,,SO26006071,Y,Y,F1
+33061,returns,en,new,,SO26006303,,,F5
+33063,wismo,he,new,,SO26005971,Y,Y,F1 F5
+33065,product_question,he,new,,,,,F5
+33066,spam,en,new,,,,,
+33069,product_question,he,duplicate,33065,,,,F6
+33070,wismo,ar,new,,SO26005980,Y,Y,F1 F5
+33071,returns,he,followup,32869,SO26005643,,,F4
+33072,wismo,ar,duplicate,33070,SO26005980,Y,Y,F1 F6
+33073,wismo,ru,new,,SO26006081,Y,Y,F1
+33074,assembly,ar,new,,SO26005697,,,
+33075,invoice,he,new,,SO26006761,,,F5
+33077,wismo,ru,duplicate,33073,SO26006081,Y,,F1 F6
+33080,other,en,new,,,,,F5
+33081,product_question,he,new,,,,,
+33082,wismo,he,new,,SO26006042,Y,Y,F1
+33085,wismo,he,new,,SO26006094,Y,,F1
+33086,wismo,he,new,,SO26006009,Y,Y,F1
+33087,returns,ru,new,,SO26005715,,,
+33088,damage,he,new,,SO26006496,,,
+33089,assembly,he,new,,SO26006703,,,
+33090,wismo,he,new,,SO26005899,Y,Y,F1
+33091,wismo,he,new,,SO26006045,Y,Y,F1 F5
+33094,wismo,he,new,,SO26006070,Y,Y,F1 F5
+33095,wismo,ru,new,,SO26006047,Y,,F1
+33098,spam,he,new,,,,,F5
+33099,assembly,ar,new,,SO26006379,,,F5
+33100,b2b_quote,he,new,,,,,
+33103,wismo,he,new,,SO26006768,Y,Y,F1
+33104,b2b_quote,he,new,,,,,
+33105,b2b_quote,he,duplicate,33104,,,,F6
+33106,wismo,ar,followup,32842,SO26005736,Y,Y,F1 F4 F5
+33108,product_question,ru,new,,,,,F5
+33110,assembly,en,new,,SO26006593,,,
+33113,product_question,ar,new,,,,,
+33116,other,he,new,,,,,
+33117,product_question,ar,duplicate,33113,,,,F6
+33118,wismo,he,followup,32837,SO26005751,Y,Y,F1 F4
+33119,wismo,he,new,,SO26006114,Y,Y,F1
+33121,spam,en,new,,,,,
+33123,wismo,he,new,,SO26006010,Y,Y,F1 F5
+33126,wismo,ru,new,,SO26006049,Y,Y,F1
+33127,wismo,ru,new,,SO26006059,Y,Y,F1 F5
+33128,product_question,he,new,,,,,
+33129,wismo,he,new,,SO26006092,Y,Y,F1
+33130,wismo,he,new,,SO26006117,Y,Y,F1
+33133,wismo,he,new,,SO26006078,Y,,F1
+33136,wismo,ru,new,,SO26006125,Y,Y,F1 F5
+33137,product_question,ar,new,,,,,
+33139,wismo,en,new,,SO26006394,Y,Y,F1
+33140,wismo,he,new,,SO26006149,Y,Y,F1
+33143,wismo,he,duplicate,33140,SO26006149,Y,Y,F1 F6
+33144,product_question,he,new,,,,,
+33147,returns,he,followup,33033,SO26006196,,,F4
+33149,invoice,he,new,,SO26006242,,,F5
+33151,damage,ar,new,,SO26006488,,,
+33152,damage,en,new,,SO26006477,,,
+33153,wismo,he,new,,SO26006365,Y,Y,F1 F5
+33154,returns,ar,followup,32997,SO26006584,,,F4
+33157,wismo,he,duplicate,33153,SO26006365,Y,,F1 F6
+33160,reschedule,he,new,,SO26006857,,,
+33161,product_question,he,new,,,,,
+33162,spam,en,new,,,,,
+33163,damage,he,new,,SO26006691,,,
+33166,wismo,en,followup,33029,SO26005962,Y,Y,F1 F4
+33167,wismo,he,new,,SO26006174,Y,Y,F1
+33168,wismo,he,new,,SO26006101,Y,Y,F1
+33169,returns,he,new,,SO26006425,,,
+33170,wismo,he,followup,33103,SO26006768,Y,Y,F1 F4
+33171,product_question,ar,new,,,,,F5
+33172,wismo,he,duplicate,33170,SO26006768,Y,,F1 F6
+33173,wismo,he,new,,SO26006110,Y,Y,F1 F5
+33175,wismo,ru,followup,33127,SO26006059,Y,Y,F1 F4
+33176,invoice,en,new,,SO26006275,,,F5
+33177,product_question,he,new,,,,,F5
+33178,wismo,he,new,,SO26006128,Y,Y,F1
+33179,damage,ar,new,,SO26006507,,,
+33182,spam,en,new,,,,,
+33183,wismo,he,new,,SO26006205,Y,Y,F1 F5
+33185,wismo,he,new,,SO26006179,Y,Y,F1
+33186,wismo,ru,new,,SO26006359,Y,Y,F1 F5
+33187,wismo,ar,new,,SO26006056,Y,,F1 F5
+33188,wismo,he,new,,SO26006239,Y,Y,F1
+33189,wismo,ar,new,,SO26006043,Y,,F1 F5
+33190,wismo,he,followup,32961,SO26005821,Y,Y,F1 F4
+33193,invoice,ar,new,,SO26006488,,,
+33196,wismo,en,new,,SO26006187,Y,Y,F1 F5
+33197,wismo,ru,new,,SO26006208,Y,Y,F1
+33199,other,he,new,,,,,
+33200,wismo,ru,new,,SO26006201,Y,Y,F1 F5
+33202,reschedule,he,new,,SO26006710,,,
+33203,damage,en,followup,32968,SO26005666,,,F4
+33205,assembly,en,new,,SO26005857,,,F5
+33208,wismo,he,followup,32964,SO26006030,Y,Y,F1 F4
+33209,product_question,ru,new,,,,,
+33210,damage,he,new,,SO26006820,,,
+33213,wismo,he,new,,SO26006166,Y,,F1 F5
+33214,wismo,he,new,,SO26006248,Y,Y,F1
+33215,wismo,he,duplicate,33214,SO26006248,Y,,F1 F6
+33217,other,ru,new,,,,,F5
+33218,product_question,he,new,,,,,
+33220,assembly,ar,new,,SO26006507,,,
+33223,wismo,he,new,,SO26006202,Y,Y,F1 F5
+33224,wismo,ar,followup,32955,SO26005941,Y,Y,F1 F4
+33227,other,he,new,,,,,F5
+33230,other,he,duplicate,33227,,,,F6 F5
+33232,wismo,he,followup,33094,SO26006070,Y,Y,F1 F4 F5
+33233,wismo,he,followup,33153,SO26006365,Y,Y,F1 F4
+33234,wismo,he,followup,33170,SO26006768,Y,Y,F1 F4
+33235,product_question,he,new,,,,,
+33236,damage,he,new,,SO26006652,,,
+33239,reschedule,he,new,,SO26006212,,,
+33240,reschedule,he,duplicate,33239,SO26006212,,,F6 F5
+33242,reschedule,he,new,,SO26006925,,,F5
+33245,complaint,he,new,,SO26006365,,,
+33246,product_question,he,new,,,,,
+33247,other,ru,new,,,,,F5
+33249,wismo,he,new,,SO26006322,Y,Y,F1
+33250,other,he,new,,,,,F5
+33252,wismo,ar,new,,SO26006323,Y,Y,F1
+33254,wismo,ar,followup,33187,SO26006056,Y,Y,F1 F4 F5
+33255,product_question,he,new,,,,,F5
+33256,other,he,new,,,,,
+33257,spam,en,new,,,,,
+33260,assembly,he,new,,SO26006820,,,
+33262,assembly,he,new,,SO26006514,,,
+33264,wismo,he,new,,SO26006439,Y,Y,F1 F5
+33265,damage,he,new,,SO26006779,,,
+33266,complaint,he,new,,SO26007013,,,
+33267,product_question,he,new,,,,,
+33268,wismo,he,new,,SO26006335,Y,Y,F1 F5
+33269,wismo,he,new,,SO26006326,Y,Y,F1
+33271,product_question,he,new,,,,,
+33272,product_question,he,duplicate,33271,,,,F6
+33273,other,ar,new,,,,,F5
+33274,product_question,he,new,,,,,
+33275,other,en,new,,,,,F5
+33276,reschedule,he,new,,SO26006062,,,
+33278,product_question,he,new,,,,,F5
+33281,invoice,he,new,,SO26006353,,,
+33284,wismo,he,new,,SO26006249,Y,Y,F1
+33286,other,en,new,,,,,F5
+33288,spam,en,new,,,,,
+33289,assembly,he,new,,SO26005895,,,
+33290,product_question,he,new,,,,,
+33291,wismo,he,followup,32984,SO26005954,Y,,F1 F4
+33292,returns,ru,followup,33000,SO26006255,,,F4
+33293,damage,he,new,,SO26005821,,,
+33296,other,he,new,,,,,
+33297,spam,he,new,,,,,
+33298,invoice,he,new,,SO26006943,,,
+33299,invoice,he,duplicate,33298,SO26006943,,,F6
+33300,damage,he,new,,SO26006714,,,
+33301,product_question,he,new,,,,,
+33302,other,ru,new,,,,,
+33303,invoice,he,new,,SO26007081,,,
+33304,invoice,ar,new,,SO26007009,,,
+33306,wismo,he,new,,SO26006368,Y,Y,F1
+33309,wismo,he,followup,33185,SO26006179,Y,Y,F1 F4 F5
+33310,spam,en,new,,,,,
+33311,wismo,ru,new,,SO26006333,Y,Y,F1
+33312,damage,he,new,,SO26005954,,,
+33313,wismo,ar,new,,SO26006378,Y,Y,F1
+33315,wismo,ar,duplicate,33313,SO26006378,Y,Y,F1 F6
+33316,invoice,he,followup,33030,SO26006557,,,F4
+33319,complaint,en,new,,,,,
+33320,spam,en,new,,,,,
+33321,wismo,ru,followup,33057,SO26006108,Y,,F1 F4
+33322,wismo,he,followup,33130,SO26006117,Y,,F1 F4
+33325,damage,he,new,,SO26005968,,,
+33326,wismo,he,new,,SO26006222,Y,,F1
+33327,product_question,ar,new,,,,,F5
+33328,wismo,he,new,,SO26006325,Y,,F1
+33329,complaint,he,new,,SO26006166,,,
+33331,wismo,ar,new,,SO26006261,Y,Y,F1
+33332,wismo,he,new,,SO26006269,Y,Y,F1
+33333,wismo,he,new,,SO26006231,Y,Y,F1
+33334,wismo,ru,new,,SO26006307,Y,,F1 F5
+33336,wismo,ru,new,,SO26006238,Y,Y,F1 F5
+33337,other,he,new,,,,,
+33338,damage,ar,new,,SO26005923,,,
+33341,spam,en,new,,,,,
+33342,product_question,he,new,,,,,
+33343,spam,en,new,,,,,F5
+33344,returns,ru,new,,SO26006221,,,
+33345,other,ru,new,,,,,F5
+33347,wismo,ru,new,,SO26006318,Y,Y,F1
+33348,complaint,he,new,,SO26006143,,,
+33349,invoice,ar,new,,SO26007118,,,
+33352,wismo,ar,new,,SO26006274,Y,Y,F1
+33354,wismo,ru,new,,SO26006362,Y,Y,F1 F5
+33355,product_question,he,new,,,,,
+33356,product_question,ar,new,,,,,
+33357,invoice,en,new,,SO26006825,,,
+33360,wismo,en,new,,SO26006347,Y,Y,F1
+33362,assembly,he,followup,33089,SO26006703,,,F4
+33363,product_question,he,new,,,,,
+33364,product_question,he,duplicate,33363,,,,F6
+33365,spam,en,new,,,,,
+33367,invoice,he,new,,SO26006579,,,
+33369,wismo,he,followup,33328,SO26006325,Y,,F1 F4
+33370,complaint,ru,new,,,,,F5
+33371,complaint,ru,duplicate,33370,,,,F6
+33374,reschedule,he,followup,33202,SO26006710,,,F4
+33375,wismo,ru,new,,SO26006359,Y,Y,F1 F5
+33378,other,he,new,,,,,F5
+33380,wismo,ar,followup,33224,SO26005941,Y,Y,F1 F4
+33383,wismo,he,new,,SO26006330,Y,Y,F1
+33385,other,ru,new,,,,,F5
+33386,complaint,he,new,,SO26006028,,,
+33387,product_question,he,new,,,,,F5
+33388,wismo,he,new,,SO26006263,Y,Y,F1
+33390,wismo,he,new,,SO26006437,Y,Y,F1
+33391,wismo,ar,new,,SO26006372,Y,Y,F1
+33392,damage,ru,new,,SO26006108,,,
+33395,wismo,en,new,,SO26006374,Y,Y,F1 F5
+33397,wismo,he,new,,SO26006271,Y,Y,F1
+33398,assembly,he,new,,SO26005792,,,
+33399,product_question,he,new,,,,,
+33400,wismo,ar,new,,SO26006415,Y,Y,F1
+33401,wismo,he,new,,SO26006776,Y,Y,F1
+33402,wismo,he,new,,SO26006659,Y,,F1
+33405,wismo,ru,new,,SO26006387,Y,Y,F1
+33407,complaint,he,new,,,,,
+33408,product_question,ar,new,,,,,
+33411,other,ar,new,,,,,
+33412,other,ar,new,,,,,F5
+33414,spam,en,new,,,,,
+33415,returns,en,new,,SO26006187,,,
+33417,damage,he,followup,33312,SO26005954,,,F4
+33420,spam,en,new,,,,,
+33421,wismo,he,new,,SO26006454,Y,Y,F1
+33424,wismo,he,new,,SO26006443,Y,Y,F1
+33425,wismo,he,new,,SO26006413,Y,Y,F1
+33426,returns,he,new,,SO26006015,,,
+33427,wismo,ar,new,,SO26006315,Y,Y,F1
+33429,complaint,he,new,,SO26006098,,,
+33430,wismo,ar,new,,SO26006420,Y,Y,F1
+33431,wismo,ar,new,,SO26006757,Y,Y,F1
+33432,wismo,he,new,,SO26006382,Y,Y,F1
+33433,wismo,he,duplicate,33432,SO26006382,Y,,F1 F6 F5
+33434,assembly,ru,new,,SO26006079,,,
+33435,wismo,he,new,,SO26006866,Y,Y,F1
+33436,invoice,en,followup,33357,SO26006825,,,F4
+33439,damage,en,new,,SO26006139,,,
+33440,spam,en,new,,,,,
+33441,wismo,he,new,,SO26006456,Y,Y,F1
+33443,product_question,he,new,,,,,
+33445,wismo,ar,new,,SO26006535,Y,Y,F1 F5
+33446,wismo,he,new,,SO26006441,Y,Y,F1 F5
+33448,spam,en,new,,,,,
+33449,assembly,ru,new,,SO26006120,,,F5
+33452,product_question,he,new,,,,,
+33453,other,ru,new,,,,,F5
+33455,wismo,he,followup,33333,SO26006231,Y,Y,F1 F4 F5
+33457,returns,he,new,,SO26006010,,,
+33458,wismo,ru,new,,SO26006517,Y,Y,F1 F5
+33461,assembly,he,new,,SO26006062,,,
+33463,b2b_quote,he,new,,,,,
+33464,wismo,he,new,,SO26006412,Y,Y,F1 F5
+33467,wismo,ar,new,,SO26006806,Y,Y,F1
+33468,wismo,ru,new,,SO26006371,Y,Y,F1
+33469,assembly,ar,followup,33220,SO26006507,,,F4
+33470,product_question,he,new,,,,,
+33472,other,he,new,,,,,
+33473,wismo,he,new,,SO26006552,Y,Y,F1 F5
+33474,reschedule,en,new,,SO26006374,,,
+33475,wismo,ru,new,,SO26006423,Y,Y,F1
+33476,reschedule,he,new,,SO26006933,,,
+33477,wismo,he,new,,SO26006391,Y,Y,F1
+33478,wismo,ru,new,,SO26006468,Y,Y,F1
+33481,wismo,ru,new,,SO26006600,Y,Y,F1
+33482,wismo,ar,new,,SO26006499,Y,,F1
+33483,wismo,ar,duplicate,33482,SO26006499,Y,Y,F1 F6
+33484,product_question,he,new,,,,,
+33485,wismo,he,new,,SO26006448,Y,Y,F1 F5
+33486,wismo,en,followup,33360,SO26006347,Y,,F1 F4
+33487,wismo,he,new,,SO26006410,Y,,F1 F5
+33488,product_question,he,new,,,,,
+33491,wismo,he,followup,33446,SO26006441,Y,Y,F1 F4 F5
+33493,other,he,new,,,,,F5
+33494,wismo,ru,new,,SO26006527,Y,Y,F1
+33495,reschedule,ar,new,,SO26006258,,,F5
+33496,wismo,he,new,,SO26006863,Y,Y,F1
+33499,wismo,ar,new,,SO26006607,Y,Y,F1
+33500,product_question,en,new,,,,,
+33503,product_question,en,duplicate,33500,,,,F6
+33506,spam,en,new,,,,,F5
+33507,other,en,new,,,,,
+33510,wismo,he,followup,33424,SO26006443,Y,,F1 F4
+33511,wismo,he,new,,SO26006551,Y,Y,F1 F5
+33514,wismo,he,new,,SO26006610,Y,Y,F1
+33516,wismo,he,new,,SO26007068,Y,Y,F1 F5
+33519,spam,en,new,,,,,
+33521,wismo,ru,followup,33354,SO26006362,Y,Y,F1 F4
+33523,damage,ar,followup,33338,SO26005923,,,F4
+33524,wismo,he,new,,SO26006601,Y,,F1
+33526,other,he,new,,,,,F5
+33527,other,ar,new,,,,,F5
+33528,assembly,he,followup,33289,SO26005895,,,F4
+33529,wismo,ru,new,,SO26006934,Y,Y,F1
+33530,wismo,en,new,,SO26006643,Y,Y,F1
+33531,wismo,en,duplicate,33530,SO26006643,Y,,F1 F6
+33533,wismo,he,new,,SO26007070,Y,,F1 F5
+33534,other,ru,new,,,,,F5
+33537,wismo,he,new,,SO26006763,Y,Y,F1 F5
+33540,returns,ru,new,,SO26006079,,,
+33541,wismo,he,new,,SO26006572,Y,Y,F1
+33544,wismo,he,new,,SO26006439,Y,Y,F1
+33545,wismo,he,new,,SO26006618,Y,Y,F1
+33546,other,he,new,,,,,F5
+33549,product_question,ru,new,,,,,
+33550,invoice,he,new,,SO26007377,,,
+33551,damage,he,new,,SO26006846,,,
+33552,product_question,he,new,,,,,
+33553,spam,en,new,,,,,
+33554,wismo,he,new,,SO26006609,Y,Y,F1
+33555,product_question,he,new,,,,,F5
+33556,product_question,he,duplicate,33555,,,,F6 F5
+33559,damage,he,followup,33325,SO26005968,,,F4
+33560,wismo,he,followup,33537,SO26006763,Y,,F1 F4 F5
+33561,wismo,he,new,,SO26006472,Y,Y,F1
+33562,wismo,ar,followup,33352,SO26006274,Y,Y,F1 F4 F5
+33563,wismo,he,new,,SO26006565,Y,Y,F1 F5
+33564,product_question,he,new,,,,,
+33565,wismo,he,new,,SO26006677,Y,Y,F1 F5
+33566,product_question,en,new,,,,,
+33567,wismo,ar,new,,SO26006607,Y,Y,F1 F5
+33569,wismo,ar,duplicate,33567,SO26006607,Y,Y,F1 F6
+33572,other,he,new,,,,,
+33574,assembly,he,new,,SO26006542,,,
+33576,wismo,he,new,,SO26006563,Y,Y,F1 F5
+33578,wismo,he,new,,SO26006547,Y,Y,F1
+33579,wismo,ar,followup,33430,SO26006420,Y,,F1 F4
+33582,wismo,en,new,,SO26006544,Y,,F1
+33583,damage,he,new,,SO26006582,,,
+33584,damage,he,new,,SO26006252,,,
+33587,wismo,he,new,,SO26006706,Y,Y,F1
+33588,wismo,he,duplicate,33587,SO26006706,Y,Y,F1 F6
+33590,damage,he,new,,SO26006933,,,
+33591,product_question,he,new,,,,,
+33593,complaint,ar,new,,SO26006461,,,
+33594,spam,en,new,,,,,
+33595,wismo,he,new,,SO26006707,Y,Y,F1
+33596,damage,he,new,,SO26006456,,,
+33597,damage,ru,followup,33392,SO26006108,,,F4
+33598,damage,he,new,,SO26006356,,,
+33601,complaint,ar,new,,SO26006268,,,
+33603,b2b_quote,he,new,,,,,
+33605,wismo,he,new,,SO26006679,Y,Y,F1 F5
+33606,product_question,ar,new,,,,,
+33607,product_question,he,new,,,,,F5
+33608,product_question,he,new,,,,,
+33609,other,ar,new,,,,,
+33611,complaint,he,new,,SO26006252,,,F5
+33612,b2b_quote,en,new,,,,,
+33615,wismo,ru,new,,SO26006629,Y,Y,F1 F5
+33616,other,he,new,,,,,F5
+33618,damage,ru,new,,SO26006279,,,
+33619,wismo,ar,new,,SO26006692,Y,Y,F1
+33620,damage,he,followup,33584,SO26006252,,,F4
+33621,damage,he,new,,SO26006441,,,F5
+33622,spam,he,new,,,,,
+33624,spam,en,new,,,,,
+33626,assembly,he,new,,SO26006579,,,
+33627,wismo,he,followup,33485,SO26006448,Y,,F1 F4 F5
+33630,reschedule,ar,new,,SO26007402,,,F5
+33631,damage,ar,new,,SO26006288,,,
+33634,wismo,ru,new,,SO26006655,Y,Y,F1
+33635,assembly,ru,new,,SO26007176,,,
+33638,other,he,new,,,,,F5
+33641,damage,ar,new,,SO26007118,,,
+33642,damage,ar,duplicate,33641,SO26007118,,,F6
+33644,wismo,ru,followup,33478,SO26006468,Y,,F1 F4
+33645,wismo,he,new,,SO26006759,Y,Y,F1
+33647,wismo,he,new,,SO26006645,Y,Y,F1
+33649,damage,he,new,,SO26006389,,,
+33651,damage,he,duplicate,33649,SO26006389,,,F6
+33652,b2b_quote,he,new,,,,,
+33653,assembly,he,new,,SO26007405,,,
+33654,b2b_quote,he,duplicate,33652,,,,F6 F5
+33655,assembly,he,new,,SO26006243,,,
+33656,wismo,he,new,,SO26006776,Y,Y,F1
+33659,spam,en,new,,,,,
+33660,wismo,he,new,,SO26006674,Y,Y,F1
+33663,wismo,he,new,,SO26006591,Y,,F1
+33664,wismo,he,new,,SO26006681,Y,Y,F1
+33665,complaint,ar,new,,SO26006372,,,F5
+33666,spam,en,new,,,,,
+33667,returns,he,new,,SO26006866,,,
+33668,assembly,ru,followup,33434,SO26006079,,,F4
+33669,wismo,he,followup,33605,SO26006679,Y,Y,F1 F4
+33671,wismo,ru,new,,SO26007434,Y,Y,F1
+33672,returns,he,new,,SO26005951,,,
+33675,damage,he,followup,33596,SO26006456,,,F4 F5
+33676,invoice,he,new,,SO26007153,,,
+33678,wismo,ru,followup,33481,SO26006600,Y,Y,F1 F4
+33680,product_question,he,new,,,,,F5
+33681,wismo,he,new,,SO26006705,Y,Y,F1
+33682,b2b_quote,he,new,,,,,
+33684,assembly,he,new,,SO26007409,,,
+33685,wismo,he,new,,SO26006659,Y,,F1 F5
+33686,wismo,he,new,,SO26006614,Y,Y,F1
+33688,wismo,he,duplicate,33686,SO26006614,Y,Y,F1 F6
+33690,wismo,he,followup,33561,SO26006472,Y,,F1 F4
+33693,damage,he,new,,SO26007359,,,
+33695,wismo,he,new,,SO26006798,Y,,F1 F5
+33696,b2b_quote,he,new,,,,,
+33697,wismo,ar,new,,SO26006788,Y,Y,F1
+33698,b2b_quote,he,duplicate,33696,,,,F6
+33699,wismo,ru,new,,SO26006603,Y,,F1 F5
+33701,product_question,ar,new,,,,,
+33702,spam,en,new,,,,,
+33703,wismo,ar,new,,SO26006639,Y,Y,F1 F5
+33704,product_question,ar,duplicate,33701,,,,F6
+33705,wismo,he,new,,SO26006827,Y,Y,F1 F5
+33706,wismo,ru,new,,SO26006635,Y,Y,F1
+33707,other,he,new,,,,,
+33708,product_question,he,new,,,,,
+33709,wismo,ru,new,,SO26006699,Y,Y,F1
+33710,product_question,he,duplicate,33708,,,,F6
+33712,b2b_quote,he,new,,,,,
+33713,product_question,he,new,,,,,
+33714,invoice,he,new,,SO26007710,,,
+33715,invoice,he,duplicate,33714,SO26007710,,,F6
+33717,wismo,he,new,,SO26006755,Y,,F1 F5
+33718,wismo,he,new,,SO26007465,Y,Y,F1 F5
+33719,wismo,en,new,,SO26006808,Y,Y,F1
+33720,assembly,ar,new,,SO26007414,,,
+33723,b2b_quote,he,new,,,,,
+33726,product_question,ar,new,,,,,F5
+33728,b2b_quote,he,duplicate,33723,,,,F6
+33729,spam,en,new,,,,,
+33731,wismo,he,new,,SO26006636,Y,Y,F1 F5
+33732,wismo,he,new,,SO26006733,Y,Y,F1
+33733,returns,ar,new,,SO26006535,,,F5
+33734,wismo,he,new,,SO26006893,Y,Y,F1 F5
+33735,other,he,new,,,,,F5
+33736,assembly,en,new,,SO26006294,,,
+33737,wismo,he,new,,SO26006761,Y,Y,F1
+33738,wismo,he,followup,33464,SO26006412,Y,Y,F1 F4
+33741,wismo,he,new,,SO26006713,Y,Y,F1
+33744,product_question,he,new,,,,,F5
+33745,returns,he,new,,SO26006906,,,
+33746,assembly,en,new,,SO26007400,,,
+33747,product_question,en,new,,,,,F5
+33749,invoice,he,new,,SO26007035,,,
+33750,wismo,he,new,,SO26006766,Y,,F1
+33751,assembly,ar,new,,SO26006340,,,F5
+33752,product_question,ar,new,,,,,
+33753,b2b_quote,he,new,,,,,
+33754,complaint,he,new,,SO26006547,,,F5
+33757,product_question,ru,new,,,,,F5
+33758,wismo,he,new,,SO26006695,Y,Y,F1
+33759,spam,en,new,,,,,
+33762,wismo,ar,new,,SO26006790,Y,Y,F1 F5
+33763,other,he,new,,,,,F5
+33764,returns,he,new,,SO26006552,,,
+33765,returns,he,followup,33745,SO26006906,,,F4
+33766,b2b_quote,he,new,,,,,
+33767,complaint,he,new,,SO26007241,,,
+33769,wismo,he,new,,SO26006702,Y,Y,F1 F5
+33770,wismo,he,new,,SO26006793,Y,Y,F1
+33771,product_question,ru,new,,,,,
+33774,b2b_quote,he,new,,,,,
+33775,wismo,ar,followup,33703,SO26006639,Y,Y,F1 F4 F5
+33778,wismo,he,new,,SO26006785,Y,Y,F1
+33779,wismo,he,new,,SO26006789,Y,,F1
+33780,spam,en,new,,,,,
+33783,b2b_quote,he,new,,,,,
+33784,b2b_quote,he,duplicate,33783,,,,F6
+33785,wismo,he,followup,33769,SO26006702,Y,Y,F1 F4
+33786,damage,ar,new,,SO26007201,,,
+33789,wismo,ar,new,,SO26006716,Y,Y,F1
+33790,returns,he,followup,33764,SO26006552,,,F4
+33791,invoice,en,new,,SO26007614,,,
+33792,invoice,en,duplicate,33791,SO26007614,,,F6
+33793,spam,en,new,,,,,
+33796,damage,he,new,,SO26006413,,,
+33797,damage,ar,new,,SO26006420,,,F5
+33798,damage,ar,new,,SO26007390,,,
+33799,wismo,he,new,,SO26006747,Y,Y,F1
+33800,wismo,ar,new,,SO26006823,Y,Y,F1
+33802,other,ar,new,,,,,F5
+33803,invoice,he,new,,SO26007783,,,
+33805,invoice,he,new,,SO26007138,,,F5
+33806,reschedule,he,new,,SO26007767,,,F5
+33808,wismo,he,new,,SO26006760,Y,,F1
+33809,damage,en,new,,SO26006510,,,
+33811,wismo,he,new,,SO26006817,Y,,F1 F5
+33812,wismo,ar,new,,SO26006890,Y,Y,F1 F5
+33813,wismo,ar,duplicate,33812,SO26006890,Y,Y,F1 F6
+33815,wismo,en,new,,SO26006825,Y,Y,F1
+33817,product_question,he,new,,,,,
+33818,wismo,he,new,,SO26007042,Y,Y,F1
+33819,wismo,he,new,,SO26006870,Y,,F1
+33820,product_question,ru,new,,,,,
+33823,returns,he,new,,SO26006339,,,
+33826,product_question,he,new,,,,,F5
+33827,product_question,he,new,,,,,
+33828,wismo,he,new,,SO26006831,Y,Y,F1
+33829,product_question,he,new,,,,,
+33831,product_question,ar,new,,,,,
+33832,wismo,ru,followup,33634,SO26006655,Y,,F1 F4
+33835,spam,en,new,,,,,
+33836,returns,he,followup,33765,SO26006906,,,F4
+33839,other,ar,new,,,,,F5
+33840,damage,he,followup,33559,SO26005968,,,F4 F5
+33841,returns,he,new,,SO26006234,,,
+33843,wismo,ru,followup,33706,SO26006635,Y,Y,F1 F4
+33845,damage,ar,new,,SO26006716,,,F5
+33847,wismo,he,new,,SO26006849,Y,Y,F1
+33848,damage,he,new,,SO26006623,,,
+33849,invoice,he,new,,SO26007832,,,
+33850,wismo,en,new,,SO26006928,Y,Y,F1
+33851,wismo,ar,new,,SO26007424,Y,,F1 F5
+33852,wismo,he,new,,SO26006915,Y,Y,F1
+33853,wismo,ru,new,,SO26006772,Y,Y,F1
+33855,spam,en,new,,,,,
+33856,product_question,he,new,,,,,F5
+33859,wismo,he,new,,SO26007143,Y,Y,F1 F5
+33860,other,he,new,,,,,F5
+33861,reschedule,en,new,,SO26007605,,Y,
+33863,wismo,he,new,,SO26006879,Y,Y,F1 F5
+33864,wismo,he,followup,33741,SO26006713,Y,Y,F1 F4
+33865,spam,en,new,,,,,
+33867,wismo,he,new,,SO26006920,Y,Y,F1
+33868,damage,he,new,,SO26006706,,,
+33869,assembly,he,followup,33574,SO26006542,,,F4
+33871,returns,he,followup,33672,SO26005951,,,F4
+33872,wismo,en,new,,SO26006859,Y,Y,F1
+33874,wismo,ru,new,,SO26007252,Y,Y,F1 F5
+33877,reschedule,he,new,,SO26006888,,,F5
+33878,product_question,he,new,,,,,
+33879,wismo,ar,new,,SO26006949,Y,Y,F1
+33881,wismo,ar,new,,SO26006840,Y,Y,F1
+33882,damage,he,new,,SO26006624,,,
+33883,wismo,he,new,,SO26006882,Y,Y,F1 F5
+33886,invoice,he,new,,SO26007371,,,F5
+33888,invoice,he,new,,SO26007522,,,
+33889,wismo,ar,new,,SO26006951,Y,,F1
+33892,product_question,he,new,,,,,
+33895,spam,en,new,,,,,
+33897,wismo,ar,new,,SO26006913,Y,Y,F1 F5
+33898,assembly,he,followup,33869,SO26006542,,,F4
+33899,invoice,ru,new,,SO26007524,,,F5
+33900,returns,ar,new,,SO26006716,,,
+33901,invoice,ru,duplicate,33899,SO26007524,,,F6 F5
+33903,damage,he,new,,SO26007633,,,
+33905,wismo,he,followup,33867,SO26006920,Y,Y,F1 F4
+33907,damage,he,new,,SO26007645,,,
+33908,spam,en,new,,,,,
+33911,assembly,ar,new,,SO26006692,,,
+33912,spam,en,new,,,,,
+33914,other,ru,new,,,,,
+33915,wismo,he,followup,33770,SO26006793,Y,Y,F1 F4
+33916,other,he,new,,,,,F5
+33917,product_question,he,new,,,,,F5
+33918,wismo,ru,new,,SO26007387,Y,Y,F1
+33919,invoice,ru,new,,SO26007176,,,
+33920,invoice,ru,duplicate,33919,SO26007176,,,F6
+33921,wismo,he,new,,SO26006893,Y,Y,F1
+33922,wismo,he,new,,SO26007081,Y,Y,F1 F5
+33923,damage,ar,new,,SO26007539,,,
+33924,wismo,he,new,,SO26007569,Y,Y,F1
+33925,damage,ru,new,,SO26006655,,,
+33926,product_question,ru,new,,,,,
+33927,wismo,ru,new,,SO26006993,Y,Y,F1
+33930,wismo,he,new,,SO26006911,Y,Y,F1
+33931,returns,ar,new,,SO26006671,,,
+33932,complaint,he,new,,SO26006664,,,
+33933,other,he,new,,,,,F5
+33934,wismo,en,new,,SO26006937,Y,,F1
+33935,damage,ar,new,,SO26006697,,,
+33938,other,en,new,,,,,
+33939,wismo,ar,new,,SO26007008,Y,Y,F1
+33940,spam,en,new,,,,,
+33941,wismo,he,new,,SO26006991,Y,,F1
+33942,wismo,ru,new,,SO26006967,Y,Y,F1 F5
+33945,wismo,ar,new,,SO26007078,Y,Y,F1
+33947,product_question,he,new,,,,,
+33949,wismo,he,new,,SO26007133,Y,Y,F1
+33950,returns,ar,new,,SO26007758,,,
+33951,other,ru,new,,,,,F5
+33952,wismo,he,new,,SO26007132,Y,Y,F1
+33955,wismo,ru,new,,SO26007094,Y,Y,F1
+33956,wismo,ar,followup,33812,SO26006890,Y,Y,F1 F4
+33957,wismo,he,new,,SO26007059,Y,,F1 F5
+33958,wismo,en,new,,SO26007021,Y,,F1
+33960,wismo,he,new,,SO26007106,Y,Y,F1
+33963,wismo,ar,new,,SO26007096,Y,Y,F1
+33964,wismo,ar,followup,33762,SO26006790,Y,Y,F1 F4
+33967,other,he,new,,,,,F5
+33970,other,he,new,,,,,F5
+33973,wismo,he,new,,SO26007097,Y,Y,F1
+33974,wismo,ru,followup,33853,SO26006772,Y,Y,F1 F4
+33975,wismo,he,followup,33717,SO26006755,Y,Y,F1 F4 F5
+33977,wismo,he,duplicate,33975,SO26006755,Y,,F1 F6
+33978,invoice,he,new,,SO26007920,,,
+33979,assembly,he,new,,SO26007693,,,
+33980,wismo,he,new,,SO26007654,Y,Y,F1 F5
+33983,wismo,en,new,,SO26007044,Y,Y,F1 F5
+33986,wismo,he,followup,33799,SO26006747,Y,Y,F1 F4
+33989,wismo,ar,new,,SO26007047,Y,Y,F1
+33990,complaint,he,new,,SO26006827,,,F5
+33991,wismo,ar,duplicate,33989,SO26007047,Y,,F1 F6
+33994,other,he,new,,,,,F5
+33995,spam,en,new,,,,,
+33996,product_question,ar,new,,,,,F5
+33997,wismo,he,new,,SO26007205,Y,Y,F1
+33999,other,ar,new,,,,,F5
+34000,returns,he,new,,SO26006636,,,
+34001,b2b_quote,he,new,,,,,
+34004,other,he,new,,,,,
+34005,product_question,he,new,,,,,
+34006,spam,en,new,,,,,
+34007,wismo,he,new,,SO26007092,Y,Y,F1
+34008,damage,he,new,,SO26007654,,,
+34010,wismo,he,new,,SO26006981,Y,Y,F1 F5
+34011,product_question,ru,new,,,,,F5
+34012,other,he,new,,,,,F5
+34013,wismo,he,new,,SO26007032,Y,,F1
+34014,b2b_quote,he,new,,,,,
+34015,wismo,ar,new,,SO26007009,Y,Y,F1
+34017,wismo,ar,new,,SO26007016,Y,Y,F1
+34020,other,he,new,,,,,F5
+34023,invoice,ru,new,,SO26007129,,,
+34025,damage,ar,followup,33786,SO26007201,,,F4
+34026,wismo,he,new,,SO26007153,Y,Y,F1
+34029,wismo,he,new,,SO26007228,Y,,F1
+34030,b2b_quote,he,new,,,,,
+34033,invoice,ar,new,,SO26007641,,,
+34035,wismo,he,new,,SO26007098,Y,Y,F1
+34036,wismo,he,new,,SO26007173,Y,Y,F1 F5
+34038,other,he,new,,,,,
+34039,damage,en,new,,SO26006762,,,
+34042,b2b_quote,he,new,,,,,F5
+34043,product_question,he,new,,,,,
+34045,invoice,en,new,,SO26007605,,,
+34046,product_question,he,new,,,,,
+34047,spam,en,new,,,,,
+34050,other,he,new,,,,,F5
+34051,wismo,en,new,,SO26007182,Y,Y,F1
+34052,other,he,new,,,,,F5
+34053,damage,en,followup,33809,SO26006510,,,F4
+34056,wismo,he,new,,SO26007184,Y,Y,F1 F5
+34057,assembly,he,new,,SO26006785,,,
+34059,reschedule,he,new,,SO26006874,,Y,F5
+34060,reschedule,he,duplicate,34059,SO26006874,,,F6 F5
+34061,spam,en,new,,,,,
+34063,product_question,he,new,,,,,
+34064,wismo,he,new,,SO26007208,Y,Y,F1 F5
+34065,damage,ar,followup,33797,SO26006420,,,F4
+34066,product_question,ar,new,,,,,F5
+34068,returns,ar,new,,SO26006801,,,
+34071,wismo,en,new,,SO26007542,Y,,F1
+34072,invoice,he,new,,SO26007264,,,
+34073,assembly,he,new,,SO26007473,,,
+34075,other,he,new,,,,,
+34078,wismo,ar,new,,SO26007108,Y,Y,F1
+34079,wismo,ru,new,,SO26007129,Y,Y,F1 F5
+34080,wismo,ar,followup,33945,SO26007078,Y,Y,F1 F4
+34082,wismo,he,new,,SO26007160,Y,Y,F1 F5
+34083,product_question,he,new,,,,,
+34084,spam,en,new,,,,,
+34085,wismo,he,new,,SO26007209,Y,Y,F1 F5
+34088,wismo,he,new,,SO26007949,Y,Y,F1 F5
+34091,damage,he,followup,33868,SO26006706,,,F4
+34092,wismo,he,duplicate,34085,SO26007209,Y,Y,F1 F6
+34094,damage,he,followup,33907,SO26007645,,,F4
+34095,product_question,he,new,,,,,
+34098,spam,he,new,,,,,
+34099,b2b_quote,he,new,,,,,
+34102,wismo,he,new,,SO26007229,Y,Y,F1 F5
+34105,wismo,he,new,,SO26007203,Y,Y,F1
+34107,other,he,new,,,,,
+34110,invoice,he,new,,SO26007742,,,
+34111,product_question,ru,new,,,,,
+34112,damage,ar,followup,33798,SO26007390,,,F4
+34113,spam,en,new,,,,,
+34114,damage,ar,new,,SO26006951,,,
+34116,wismo,en,followup,33872,SO26006859,Y,Y,F1 F4 F5
+34117,wismo,he,new,,SO26007478,Y,Y,F1
+34119,assembly,ru,new,,SO26006950,,,
+34120,damage,en,new,,SO26007021,,,
+34123,product_question,he,new,,,,,F5
+34126,product_question,en,new,,,,,F5
+34127,product_question,he,new,,,,,
+34128,other,he,new,,,,,F5
+34129,assembly,ru,new,,SO26007056,,,F5
+34130,wismo,ru,new,,SO26007252,Y,Y,F1
+34132,returns,he,followup,33841,SO26006234,,,F4
+34133,complaint,ar,new,,SO26006951,,,F5
+34134,assembly,ar,new,,SO26007519,,,
+34135,wismo,he,followup,34088,SO26007949,Y,Y,F1 F4 F5
+34138,product_question,he,new,,,,,
+34139,wismo,he,new,,SO26007290,Y,Y,F1 F5
+34140,wismo,he,new,,SO26007561,Y,,F1
+34141,returns,he,new,,SO26007767,,,
+34142,b2b_quote,en,new,,,,,
+34143,wismo,ar,new,,SO26007154,Y,Y,F1 F5
+34144,wismo,he,followup,33941,SO26006991,Y,Y,F1 F4 F5
+34147,wismo,he,new,,SO26007305,Y,,F1 F5
+34148,wismo,ru,followup,33955,SO26007094,Y,Y,F1 F4 F5
+34150,wismo,he,new,,SO26007873,Y,Y,F1 F5
+34152,product_question,he,new,,,,,
+34153,wismo,he,new,,SO26007263,Y,,F1 F5
+34156,other,he,new,,,,,
+34157,other,he,new,,,,,
+34159,product_question,he,new,,,,,
+34160,wismo,he,followup,33949,SO26007133,Y,Y,F1 F4 F5
+34162,damage,he,new,,SO26007835,,,
+34164,damage,ru,new,,SO26007987,,,
+34167,product_question,en,new,,,,,
+34168,wismo,he,new,,SO26007248,Y,Y,F1
+34169,wismo,en,new,,SO26007260,Y,Y,F1
+34171,invoice,en,new,,SO26008321,,,
+34172,invoice,he,new,,SO26007699,,,
+34174,wismo,he,new,,SO26007187,Y,Y,F1
+34176,returns,he,new,,SO26006981,,,
+34177,assembly,ar,new,,SO26006843,,,
+34179,damage,en,new,,SO26008064,,,
+34180,product_question,he,new,,,,,
+34182,wismo,he,new,,SO26007304,Y,Y,F1 F5
+34183,product_question,he,new,,,,,
+34185,assembly,ar,new,,SO26007864,,,
+34186,other,he,new,,,,,F5
+34188,returns,ar,followup,34068,SO26006801,,,F4 F5
+34190,wismo,he,new,,SO26007223,Y,Y,F1 F5
+34192,product_question,ar,new,,,,,
+34193,product_question,he,new,,,,,F5
+34194,product_question,he,duplicate,34193,,,,F6 F5
+34196,wismo,he,new,,SO26007212,Y,Y,F1 F5
+34197,other,he,new,,,,,F5
+34198,damage,ru,new,,SO26008076,,,
+34199,assembly,ru,followup,34129,SO26007056,,,F4
+34200,wismo,he,new,,SO26007384,Y,,F1 F5
+34203,b2b_quote,he,new,,,,,
+34205,wismo,he,new,,SO26007273,Y,Y,F1
+34208,other,ru,new,,,,,F5
+34209,wismo,ru,new,,SO26007336,Y,Y,F1 F5
+34212,wismo,he,new,,SO26007346,Y,,F1
+34214,wismo,he,new,,SO26007350,Y,Y,F1 F5
+34215,other,he,new,,,,,
+34216,damage,ar,new,,SO26008146,,,
+34217,wismo,he,new,,SO26007267,Y,Y,F1 F5
+34218,wismo,he,new,,SO26007413,Y,Y,F1
+34221,wismo,he,new,,SO26007308,Y,,F1 F5
+34224,wismo,en,new,,SO26007438,Y,,F1
+34225,invoice,en,new,,SO26007644,,,F5
+34228,wismo,ar,followup,33963,SO26007096,Y,Y,F1 F4 F5
+34231,complaint,he,new,,SO26007938,,,
+34232,wismo,en,new,,SO26007391,Y,Y,F1
+34234,wismo,he,new,,SO26007326,Y,Y,F1
+34236,product_question,he,new,,,,,F5
+34237,wismo,he,new,,SO26007324,Y,Y,F1
+34238,wismo,he,new,,SO26007264,Y,Y,F1
+34241,wismo,he,duplicate,34237,SO26007324,Y,Y,F1 F6 F5
+34243,wismo,he,new,,SO26007399,Y,,F1
+34244,spam,en,new,,,,,
+34247,other,ru,new,,,,,F5
+34248,product_question,en,new,,,,,
+34249,wismo,en,new,,SO26007662,Y,Y,F1
+34252,product_question,he,new,,,,,
+34253,wismo,ar,new,,SO26007289,Y,Y,F1
+34254,wismo,ar,duplicate,34253,SO26007289,Y,Y,F1 F6
+34256,product_question,he,new,,,,,
+34258,product_question,he,duplicate,34256,,,,F6
+34259,wismo,he,new,,SO26007394,Y,Y,F1 F5
+34262,wismo,he,new,,SO26007266,Y,Y,F1 F5
+34263,wismo,he,new,,SO26007371,Y,Y,F1
+34264,spam,en,new,,,,,
+34265,spam,en,new,,,,,
+34266,other,he,new,,,,,F5
+34269,spam,en,new,,,,,
+34270,complaint,ru,new,,SO26008093,,,
+34271,wismo,he,new,,SO26007455,Y,Y,F1
+34274,wismo,en,new,,SO26007438,Y,Y,F1
+34277,wismo,en,new,,SO26007475,Y,Y,F1
+34279,product_question,he,new,,,,,F5
+34280,wismo,he,new,,SO26008207,Y,Y,F1 F5
+34281,spam,en,new,,,,,
+34282,other,he,new,,,,,
+34284,assembly,ar,new,,SO26007976,,,
+34287,invoice,ar,followup,34033,SO26007641,,,F4 F5
+34288,wismo,he,followup,34190,SO26007223,Y,,F1 F4
+34289,b2b_quote,he,new,,,,,
+34291,b2b_quote,he,duplicate,34289,,,,F6
+34292,wismo,ru,new,,SO26007296,Y,Y,F1 F5
+34293,wismo,he,new,,SO26007449,Y,,F1
+34294,other,ar,new,,,,,
+34297,damage,en,followup,34120,SO26007021,,,F4
+34298,wismo,ru,new,,SO26007719,Y,Y,F1
+34300,wismo,ru,followup,34148,SO26007094,Y,Y,F1 F4
+34303,product_question,he,new,,,,,
+34304,wismo,en,followup,34051,SO26007182,Y,Y,F1 F4
+34306,wismo,he,new,,SO26007478,Y,Y,F1
+34308,wismo,en,new,,SO26007464,Y,Y,F1
+34310,spam,en,new,,,,,
+34313,wismo,ar,followup,34078,SO26007108,Y,,F1 F4
+34316,wismo,he,new,,SO26007468,Y,Y,F1
+34317,complaint,he,new,,SO26007992,,,
+34320,spam,en,new,,,,,
+34321,wismo,he,new,,SO26007422,Y,Y,F1
+34324,wismo,he,new,,SO26007491,Y,Y,F1 F5
+34326,b2b_quote,he,new,,,,,
+34327,spam,en,new,,,,,F5
+34328,product_question,he,new,,,,,
+34329,complaint,ar,new,,,,,F5
+34330,wismo,he,new,,SO26007471,Y,Y,F1
+34332,wismo,he,duplicate,34330,SO26007471,Y,Y,F1 F6
+34333,damage,he,new,,SO26007992,,,
+34334,wismo,en,new,,SO26007412,Y,Y,F1 F5
+34335,invoice,ru,new,,SO26008279,,,
+34337,invoice,he,new,,SO26007873,,,F5
+34338,product_question,he,new,,,,,
+34339,assembly,he,new,,SO26008023,,,F5
+34340,damage,ar,followup,34114,SO26006951,,,F4
+34343,wismo,he,new,,SO26007408,Y,Y,F1
+34344,wismo,en,new,,SO26007361,Y,Y,F1
+34346,wismo,he,new,,SO26007479,Y,Y,F1 F5
+34347,wismo,ar,new,,SO26007536,Y,Y,F1
+34349,wismo,he,followup,34238,SO26007264,Y,Y,F1 F4
+34351,product_question,he,new,,,,,
+34352,wismo,ru,new,,SO26007482,Y,Y,F1 F5
+34353,complaint,he,new,,SO26007187,,,
+34355,complaint,he,new,,SO26007262,,,
+34357,product_question,he,new,,,,,F5
+34359,reschedule,ru,new,,SO26008279,,,
+34360,complaint,he,followup,34317,SO26007992,,,F4
+34362,invoice,he,new,,SO26007795,,,
+34365,wismo,he,new,,SO26007554,Y,Y,F1
+34366,wismo,ru,new,,SO26007594,Y,Y,F1
+34368,other,ru,new,,,,,F5
+34369,invoice,he,new,,SO26007625,,,
+34370,wismo,en,new,,SO26007565,Y,Y,F1 F5
+34372,wismo,he,new,,SO26007549,Y,Y,F1 F5
+34373,assembly,he,new,,SO26007262,,,
+34375,wismo,ar,followup,34253,SO26007289,Y,Y,F1 F4
+34376,invoice,ru,new,,SO26008093,,,
+34377,wismo,ru,new,,SO26007494,Y,Y,F1
+34378,returns,he,new,,SO26007816,,,
+34381,wismo,ru,followup,34298,SO26007719,Y,,F1 F4
+34382,wismo,he,new,,SO26007561,Y,,F1
+34383,assembly,he,new,,SO26007190,,,
+34386,wismo,he,new,,SO26007501,Y,Y,F1
+34387,damage,he,new,,SO26008554,,,F5
+34390,product_question,he,new,,,,,
+34391,product_question,he,new,,,,,
+34394,wismo,he,new,,SO26007415,Y,Y,F1
+34395,wismo,he,followup,34346,SO26007479,Y,Y,F1 F4 F5
+34396,reschedule,he,new,,SO26007263,,,
+34398,invoice,he,new,,SO26007868,,,
+34400,wismo,ar,new,,SO26007587,Y,Y,F1
+34403,other,en,new,,,,,F5
+34405,other,ar,new,,,,,
+34406,wismo,he,new,,SO26007608,Y,Y,F1
+34408,wismo,ru,new,,SO26007458,Y,Y,F1 F5
+34409,wismo,en,new,,SO26007575,Y,Y,F1
+34412,reschedule,ar,new,,SO26008524,,,F5
+34413,other,he,new,,,,,F5
+34415,wismo,ru,new,,SO26007572,Y,Y,F1 F5
+34416,wismo,he,new,,SO26007483,Y,Y,F1 F5
+34417,wismo,he,followup,34147,SO26007305,Y,Y,F1 F4
+34419,wismo,he,new,,SO26007447,Y,Y,F1
+34422,wismo,he,new,,SO26007663,Y,,F1 F5
+34423,other,he,new,,,,,F5
+34424,damage,he,new,,SO26007097,,,
+34425,wismo,en,new,,SO26007611,Y,Y,F1
+34427,wismo,he,new,,SO26007697,Y,Y,F1
+34429,returns,he,new,,SO26007098,,,
+34430,returns,he,duplicate,34429,SO26007098,,,F6
+34431,wismo,ru,new,,SO26008365,Y,Y,F1
+34434,wismo,he,new,,SO26007578,Y,Y,F1
+34436,wismo,he,duplicate,34434,SO26007578,Y,,F1 F6
+34437,product_question,he,new,,,,,
+34438,other,he,new,,,,,F5
+34439,reschedule,he,new,,SO26007092,,,
+34440,other,he,new,,,,,
+34441,spam,en,new,,,,,
+34443,returns,ru,new,,SO26008076,,,
+34444,returns,he,followup,34141,SO26007767,,,F4
+34446,wismo,he,new,,SO26007505,Y,,F1
+34448,product_question,he,new,,,,,F5
+34451,returns,ru,new,,SO26007129,,,
+34453,returns,ru,duplicate,34451,SO26007129,,,F6
+34456,spam,en,new,,,,,
+34457,wismo,he,new,,SO26007637,Y,Y,F1
+34460,wismo,ru,new,,SO26007770,Y,Y,F1 F5
+34462,wismo,ru,duplicate,34460,SO26007770,Y,Y,F1 F6
+34463,product_question,he,new,,,,,F5
+34464,reschedule,ru,new,,SO26007458,,,F5
+34465,product_question,he,new,,,,,
+34466,returns,en,new,,SO26008159,,,
+34467,reschedule,en,new,,SO26007486,,Y,
+34470,product_question,he,new,,,,,F5
+34473,wismo,he,new,,SO26007589,Y,Y,F1 F5
+34474,spam,en,new,,,,,
+34475,wismo,ru,new,,SO26007698,Y,Y,F1 F5
+34476,damage,ru,new,,SO26007094,,,
+34479,damage,ru,duplicate,34476,SO26007094,,,F6
+34480,wismo,he,new,,SO26007656,Y,Y,F1
+34482,wismo,he,followup,34221,SO26007308,Y,,F1 F4
+34484,product_question,ru,new,,,,,
+34487,other,he,new,,,,,
+34488,assembly,en,new,,SO26008303,,,
+34490,product_question,he,new,,,,,
+34491,wismo,he,new,,SO26007696,Y,,F1
+34492,assembly,he,new,,SO26007187,,,F5
+34493,assembly,he,duplicate,34492,SO26007187,,,F6
+34494,wismo,he,new,,SO26007593,Y,Y,F1 F5
+34497,wismo,ar,new,,SO26007891,Y,Y,F1 F5
+34498,complaint,he,new,,,,,F5
+34499,wismo,he,new,,SO26007631,Y,,F1
+34500,wismo,he,new,,SO26007532,Y,Y,F1
+34501,product_question,he,new,,,,,
+34502,b2b_quote,he,new,,,,,
+34503,reschedule,he,new,,SO26007356,,,
+34506,wismo,he,followup,34343,SO26007408,Y,Y,F1 F4
+34508,wismo,en,followup,34274,SO26007438,Y,Y,F1 F4
+34510,wismo,he,new,,SO26007727,Y,Y,F1 F5
+34513,product_question,he,new,,,,,
+34514,product_question,he,duplicate,34513,,,,F6
+34515,wismo,he,new,,SO26007627,Y,Y,F1
+34516,wismo,ru,new,,SO26007639,Y,Y,F1
+34519,damage,ru,new,,SO26007297,,,F5
+34521,damage,en,new,,SO26007438,,,
+34523,b2b_quote,he,new,,,,,
+34524,wismo,ru,new,,SO26007682,Y,Y,F1
+34525,other,he,new,,,,,F5
+34526,other,he,duplicate,34525,,,,F6 F5
+34528,damage,ru,duplicate,34519,SO26007297,,,F6
+34530,damage,he,new,,SO26007419,,,
+34531,wismo,ar,new,,SO26007731,Y,Y,F1 F5
+34532,wismo,he,new,,SO26008213,Y,Y,F1
+34533,complaint,he,followup,34355,SO26007262,,,F4
+34534,complaint,he,duplicate,34533,SO26007262,,,F6
+34535,wismo,he,new,,SO26007647,Y,Y,F1
+34536,other,he,new,,,,,F5
+34537,product_question,he,new,,,,,
+34538,product_question,he,new,,,,,
+34541,product_question,he,duplicate,34538,,,,F6
+34542,wismo,he,new,,SO26007749,Y,Y,F1 F5
+34545,invoice,he,new,,SO26008126,,,
+34547,spam,en,new,,,,,
+34548,damage,en,new,,SO26007412,,,
+34549,complaint,he,new,,SO26007593,,,
+34551,wismo,ar,new,,SO26007702,Y,Y,F1
+34552,wismo,he,new,,SO26007720,Y,Y,F1
+34553,damage,he,new,,SO26007593,,,
+34554,wismo,he,new,,SO26007811,Y,Y,F1
+34555,other,he,new,,,,,F5
+34556,wismo,en,new,,SO26007644,Y,Y,F1 F5
+34557,other,he,new,,,,,
+34560,product_question,he,new,,,,,F5
+34562,product_question,he,new,,,,,
+34563,wismo,en,new,,SO26007662,Y,Y,F1 F5
+34564,wismo,he,new,,SO26008036,Y,Y,F1
+34565,assembly,ru,new,,SO26008616,,,
+34567,wismo,he,new,,SO26007718,Y,Y,F1
+34570,complaint,he,new,,SO26007332,,,
+34571,complaint,he,duplicate,34570,SO26007332,,,F6
+34572,product_question,en,new,,,,,F5
+34575,assembly,he,new,,SO26007593,,,
+34578,spam,en,new,,,,,
+34579,wismo,he,new,,SO26007739,Y,Y,F1
+34582,wismo,he,new,,SO26007671,Y,Y,F1
+34584,invoice,en,new,,SO26007818,,,
+34585,damage,he,new,,SO26007483,,,
+34586,damage,he,duplicate,34585,SO26007483,,,F6
+34587,returns,ru,new,,SO26007296,,,
+34588,returns,ru,duplicate,34587,SO26007296,,,F6
+34589,b2b_quote,he,new,,,,,
+34590,b2b_quote,he,duplicate,34589,,,,F6
+34593,assembly,he,new,,SO26008563,,,
+34594,complaint,he,new,,SO26007507,,,
+34596,assembly,ru,new,,SO26007529,,,
+34599,assembly,ru,duplicate,34596,SO26007529,,,F6
+34601,other,he,new,,,,,F5
+34603,spam,en,new,,,,,
+34604,reschedule,he,new,,SO26008243,,,
+34605,b2b_quote,en,new,,,,,
+34606,invoice,ru,new,,SO26009033,,,F5
+34607,invoice,ru,duplicate,34606,SO26009033,,,F6
+34608,wismo,he,new,,SO26007723,Y,Y,F1 F5
+34610,wismo,he,new,,SO26008138,Y,Y,F1
+34613,other,he,new,,,,,
+34614,product_question,ar,new,,,,,
+34616,wismo,he,new,,SO26008092,Y,Y,F1 F5
+34617,spam,en,new,,,,,
+34618,damage,ru,new,,SO26007572,,,
+34619,product_question,ar,new,,,,,
+34621,wismo,he,new,,SO26007798,Y,Y,F1
+34622,assembly,en,new,,SO26007464,,,
+34623,wismo,ar,followup,34497,SO26007891,Y,Y,F1 F4
+34624,invoice,he,followup,34362,SO26007795,,,F4
+34625,wismo,he,new,,SO26007708,Y,Y,F1 F5
+34626,wismo,ru,new,,SO26007719,Y,Y,F1
+34629,other,he,new,,,,,F5
+34632,other,he,duplicate,34629,,,,F6 F5
+34634,wismo,ru,new,,SO26007698,Y,Y,F1 F5
+34637,wismo,he,new,,SO26007832,Y,Y,F1
+34639,wismo,ru,new,,SO26007871,Y,Y,F1
+34640,wismo,ru,duplicate,34639,SO26007871,Y,Y,F1 F6
+34642,reschedule,he,new,,SO26008393,,,F5
+34643,wismo,he,new,,SO26007782,Y,Y,F1
+34646,wismo,he,new,,SO26007765,Y,Y,F1
+34649,returns,he,new,,SO26007280,,,F5
+34652,wismo,he,new,,SO26007794,Y,Y,F1
+34653,wismo,he,new,,SO26007804,Y,Y,F1 F5
+34654,damage,he,new,,SO26007304,,,
+34655,wismo,he,new,,SO26007750,Y,Y,F1 F5
+34658,other,ar,new,,,,,F5
+34659,wismo,he,new,,SO26008171,Y,Y,F1
+34660,wismo,en,new,,SO26007859,Y,,F1 F5
+34661,spam,en,new,,,,,
+34662,product_question,ru,new,,,,,
+34663,returns,ru,new,,SO26008359,,,
+34664,wismo,he,new,,SO26007648,Y,,F1 F5
+34665,assembly,en,new,,SO26007542,,,
+34666,returns,ar,new,,SO26007452,,,
+34669,wismo,ru,new,,SO26007884,Y,Y,F1
+34670,assembly,he,new,,SO26008551,,,
+34671,wismo,he,new,,SO26007849,Y,Y,F1
+34674,b2b_quote,he,new,,,,,
+34675,returns,he,new,,SO26007447,,,
+34676,wismo,ar,new,,SO26007813,Y,Y,F1
+34678,wismo,he,followup,34610,SO26008138,Y,,F1 F4
+34681,returns,he,new,,SO26007478,,,
+34682,wismo,ru,new,,SO26008732,Y,,F1 F5
+34683,other,ru,new,,,,,F5
+34684,wismo,ru,followup,34475,SO26007698,Y,Y,F1 F4
+34685,wismo,ru,new,,SO26007838,Y,Y,F1
+34687,other,he,new,,,,,F5
+34688,wismo,he,new,,SO26007856,Y,Y,F1
+34689,product_question,he,new,,,,,
+34692,assembly,ru,new,,SO26007458,,,
+34693,wismo,he,new,,SO26007896,Y,,F1
+34694,damage,ru,new,,SO26008250,,,
+34696,invoice,he,new,,SO26008762,,,
+34698,wismo,he,new,,SO26007769,Y,Y,F1
+34699,returns,he,new,,SO26007166,,,
+34700,wismo,he,duplicate,34698,SO26007769,Y,,F1 F6 F5
+34701,other,he,new,,,,,F5
+34702,wismo,he,new,,SO26007904,Y,Y,F1
+34703,b2b_quote,he,new,,,,,
+34704,assembly,he,new,,SO26007554,,,
+34705,wismo,he,new,,SO26007807,Y,Y,F1 F5
+34706,wismo,he,new,,SO26007965,Y,Y,F1
+34707,product_question,he,new,,,,,
+34708,product_question,ar,new,,,,,F5
+34709,wismo,en,new,,SO26008321,Y,,F1
+34712,product_question,he,new,,,,,
+34713,wismo,ru,new,,SO26008050,Y,Y,F1
+34714,wismo,he,new,,SO26007876,Y,Y,F1 F5
+34716,wismo,en,new,,SO26007957,Y,Y,F1
+34717,other,he,new,,,,,F5
+34720,spam,en,new,,,,,
+34722,assembly,en,new,,SO26008380,,,
+34724,wismo,en,new,,SO26008847,Y,Y,F1
+34726,b2b_quote,he,new,,,,,
+34727,other,he,new,,,,,F5
+34730,invoice,he,new,,SO26008570,,,
+34733,wismo,en,new,,SO26007885,Y,,F1
+34736,returns,he,followup,34444,SO26007767,,,F4
+34738,wismo,en,new,,SO26007779,Y,Y,F1
+34739,other,he,new,,,,,F5
+34740,complaint,he,new,,SO26008348,,,
+34741,assembly,he,new,,SO26008537,,,F5
+34742,spam,en,new,,,,,
+34743,wismo,ru,new,,SO26008011,Y,Y,F1 F5
+34744,wismo,he,followup,34552,SO26007720,Y,Y,F1 F4 F5
+34747,spam,en,new,,,,,
+34748,b2b_quote,he,new,,,,,
+34751,spam,he,new,,,,,
+34752,invoice,en,new,,SO26008470,,,
+34753,complaint,ru,new,,,,,
+34754,wismo,en,new,,SO26007831,Y,,F1 F5
+34755,b2b_quote,he,new,,,,,
+34758,wismo,he,new,,SO26007795,Y,Y,F1
+34759,returns,he,new,,SO26007589,,,
+34760,wismo,ru,new,,SO26007940,Y,Y,F1 F5
+34761,wismo,ar,new,,SO26007891,Y,Y,F1 F5
+34762,product_question,ar,new,,,,,
+34765,wismo,he,new,,SO26007985,Y,Y,F1
+34768,wismo,ru,new,,SO26007833,Y,Y,F1
+34769,b2b_quote,he,new,,,,,
+34772,product_question,ar,duplicate,34762,,,,F6 F5
+34773,wismo,he,new,,SO26007868,Y,Y,F1 F5
+34774,product_question,en,new,,,,,
+34775,product_question,he,new,,,,,
+34776,product_question,he,new,,,,,F5
+34777,damage,en,new,,SO26008515,,,
+34778,damage,en,new,,SO26008363,,,
+34780,wismo,ru,new,,SO26008050,Y,Y,F1
+34781,wismo,he,new,,SO26007984,Y,Y,F1 F5
+34783,wismo,he,new,,SO26008033,Y,,F1
+34784,other,he,new,,,,,F5
+34785,product_question,ar,new,,,,,
+34788,assembly,he,followup,34741,SO26008537,,,F4 F5
+34789,assembly,he,duplicate,34788,SO26008537,,,F6
+34792,assembly,he,new,,SO26008329,,,
+34793,product_question,he,new,,,,,
+34794,wismo,he,new,,SO26008395,Y,Y,F1
+34795,product_question,he,new,,,,,
+34798,wismo,he,new,,SO26007922,Y,,F1
+34799,product_question,he,new,,,,,
+34800,damage,he,new,,SO26008483,,,
+34802,wismo,en,new,,SO26007818,Y,Y,F1
+34803,wismo,ar,new,,SO26008068,Y,Y,F1 F5
+34804,other,he,new,,,,,F5
+34805,wismo,ru,followup,34768,SO26007833,Y,Y,F1 F4
+34807,wismo,he,new,,SO26008015,Y,Y,F1 F5
+34809,product_question,he,new,,,,,
+34811,b2b_quote,he,new,,,,,
+34812,b2b_quote,he,duplicate,34811,,,,F6
+34813,invoice,ru,new,,SO26008407,,,
+34814,other,ar,new,,,,,F5
+34815,wismo,he,new,,SO26007879,Y,Y,F1
+34816,returns,en,followup,34466,SO26008159,,,F4
+34818,other,he,new,,,,,F5
+34819,wismo,ar,new,,SO26008002,Y,Y,F1
+34822,wismo,he,new,,SO26008045,Y,Y,F1 F5
+34824,invoice,he,followup,34730,SO26008570,,,F4
+34825,wismo,he,duplicate,34822,SO26008045,Y,Y,F1 F6
+34826,spam,he,new,,,,,
+34829,wismo,he,new,,SO26008133,Y,Y,F1
+34830,b2b_quote,he,new,,,,,
+34831,wismo,ru,new,,SO26008113,Y,Y,F1
+34832,wismo,he,new,,SO26007872,Y,Y,F1 F5
+34833,wismo,he,new,,SO26008052,Y,Y,F1
+34834,wismo,he,new,,SO26008070,Y,Y,F1
+34835,wismo,he,new,,SO26007995,Y,Y,F1
+34836,other,ru,new,,,,,
+34837,wismo,he,new,,SO26008010,Y,Y,F1
+34838,wismo,ru,new,,SO26007908,Y,Y,F1 F5
+34839,wismo,he,new,,SO26008149,Y,Y,F1 F5
+34840,wismo,he,new,,SO26007914,Y,Y,F1
+34842,wismo,he,duplicate,34840,SO26007914,Y,,F1 F6
+34845,spam,en,new,,,,,
+34848,wismo,ar,new,,SO26008026,Y,Y,F1
+34851,wismo,he,new,,SO26008141,Y,,F1 F5
+34854,wismo,ar,duplicate,34848,SO26008026,Y,Y,F1 F6 F5
+34855,spam,en,new,,,,,
+34856,spam,en,new,,,,,
+34859,wismo,en,new,,SO26008826,Y,,F1
+34860,wismo,he,new,,SO26008086,Y,,F1
+34862,wismo,ar,new,,SO26008225,Y,,F1
+34863,wismo,ar,new,,SO26008072,Y,Y,F1
+34864,product_question,ru,new,,,,,
+34865,product_question,ru,duplicate,34864,,,,F6 F5
+34867,wismo,ar,new,,SO26008075,Y,Y,F1 F5
+34868,complaint,he,new,,,,,
+34871,complaint,he,new,,SO26007794,,,F5
+34873,wismo,he,followup,34698,SO26007769,Y,Y,F1 F4 F5
+34874,wismo,ar,new,,SO26008097,Y,Y,F1
+34875,b2b_quote,he,new,,,,,
+34876,wismo,ar,new,,SO26008098,Y,Y,F1 F5
+34877,wismo,he,new,,SO26008796,Y,Y,F1
+34880,wismo,ar,new,,SO26008690,Y,Y,F1 F5
+34881,wismo,ar,new,,SO26007899,Y,Y,F1 F5
+34884,wismo,en,followup,34556,SO26007644,Y,Y,F1 F4 F5
+34885,wismo,he,new,,SO26008061,Y,Y,F1 F5
+34887,wismo,ar,duplicate,34881,SO26007899,Y,,F1 F6 F5
+34889,wismo,ru,new,,SO26008143,Y,Y,F1 F5
+34891,wismo,ar,new,,SO26008055,Y,Y,F1 F5
+34892,wismo,he,new,,SO26008083,Y,Y,F1 F5
+34893,wismo,he,new,,SO26008094,Y,,F1
+34894,product_question,he,new,,,,,
+34897,wismo,he,duplicate,34892,SO26008083,Y,Y,F1 F6
+34898,wismo,ar,new,,SO26008065,Y,Y,F1
+34901,assembly,he,new,,SO26007631,,,
+34904,wismo,ar,new,,SO26007888,Y,Y,F1 F5
+34905,wismo,ru,new,,SO26008030,Y,Y,F1 F5
+34907,reschedule,ru,new,,SO26008916,,,F5
+34908,wismo,ru,duplicate,34905,SO26008030,Y,Y,F1 F6
+34909,wismo,en,new,,SO26009077,Y,Y,F1
+34910,wismo,he,new,,SO26007894,Y,Y,F1
+34911,reschedule,he,new,,SO26008747,,,F5
+34913,spam,en,new,,,,,F5
+34916,damage,he,new,,SO26007651,,,
+34917,wismo,ru,new,,SO26007958,Y,Y,F1 F5
+34919,complaint,he,new,,SO26007798,,,
+34921,wismo,en,followup,34738,SO26007779,Y,,F1 F4
+34922,returns,he,new,,SO26008243,,,
+34925,wismo,he,new,,SO26008112,Y,,F1
+34926,wismo,he,new,,SO26008186,Y,,F1 F5
+34927,wismo,he,new,,SO26008138,Y,Y,F1
+34929,other,he,new,,,,,F5
+34930,wismo,he,new,,SO26008056,Y,Y,F1 F5
+34932,other,ru,new,,,,,F5
+34934,wismo,ar,followup,34874,SO26008097,Y,Y,F1 F4
+34937,wismo,he,new,,SO26008190,Y,Y,F1
+34940,product_question,he,new,,,,,
+34941,wismo,en,new,,SO26008725,Y,Y,F1 F5
+34944,wismo,he,new,,SO26008747,Y,Y,F1
+34947,wismo,he,followup,34637,SO26007832,Y,Y,F1 F4 F5
+34949,wismo,he,new,,SO26008179,Y,Y,F1 F5
+34952,wismo,he,duplicate,34949,SO26008179,Y,,F1 F6
+34954,product_question,he,new,,,,,
+34957,damage,ru,followup,34519,SO26007297,,,F4
+34958,product_question,ru,new,,,,,F5
+34961,wismo,ar,followup,34848,SO26008026,Y,Y,F1 F4
+34962,wismo,he,new,,SO26008108,Y,Y,F1 F5
+34963,spam,en,new,,,,,
+34964,wismo,he,new,,SO26008082,Y,Y,F1
+34967,spam,he,new,,,,,
+34968,wismo,he,new,,SO26008773,Y,,F1
+34969,reschedule,he,new,,SO26008752,,,
+34971,complaint,he,new,,SO26009145,,,F5
+34974,b2b_quote,en,new,,,,,
+34977,returns,he,new,,SO26008999,,,
+34979,wismo,ru,new,,SO26008020,Y,Y,F1
+34981,wismo,ru,duplicate,34979,SO26008020,Y,Y,F1 F6
+34984,wismo,he,new,,SO26008079,Y,Y,F1
+34985,wismo,he,duplicate,34984,SO26008079,Y,Y,F1 F6
+34988,other,ru,new,,,,,F5
+34989,damage,he,new,,SO26007795,,,F5
+34991,damage,he,followup,34654,SO26007304,,,F4
+34992,wismo,he,new,,SO26008171,Y,Y,F1
+34995,assembly,ar,new,,SO26007731,,,
+34996,assembly,ar,new,,SO26008949,,,
+34997,wismo,ar,followup,34961,SO26008026,Y,Y,F1 F4 F5
+34998,wismo,en,followup,34724,SO26008847,Y,Y,F1 F4
+34999,invoice,he,new,,SO26009042,,,
+35001,spam,en,new,,,,,F5
+35002,spam,en,new,,,,,
+35005,wismo,he,new,,SO26008092,Y,Y,F1
+35006,wismo,he,new,,SO26008036,Y,Y,F1
+35007,wismo,he,new,,SO26008116,Y,Y,F1
+35009,complaint,he,new,,SO26009113,,,F5
+35010,wismo,he,new,,SO26008155,Y,Y,F1 F5
+35012,returns,he,new,,SO26007629,,,
+35013,damage,he,new,,SO26007629,,,
+35014,damage,he,duplicate,35013,SO26007629,,,F6
+35016,b2b_quote,he,new,,,,,
+35019,b2b_quote,en,new,,,,,
+35021,damage,ru,new,,SO26008732,,,
+35022,other,ru,new,,,,,F5
+35023,complaint,he,new,,SO26009076,,,
+35024,other,he,new,,,,,F5
+35025,returns,ar,followup,34666,SO26007452,,,F4
+35027,assembly,he,new,,SO26007637,,,F5
+35029,assembly,he,new,,SO26007798,,,F5
+35030,damage,ar,new,,SO26008696,,,
+35031,wismo,he,followup,34815,SO26007879,Y,Y,F1 F4
+35032,damage,ar,duplicate,35030,SO26008696,,,F6
+35034,spam,he,new,,,,,
+35035,damage,he,new,,SO26007744,,,
+35036,wismo,he,new,,SO26008219,Y,Y,F1
+35037,damage,he,duplicate,35035,SO26007744,,,F6
+35038,returns,he,new,,SO26008645,,,F5
+35039,product_question,he,new,,,,,
+35040,wismo,he,new,,SO26008104,Y,Y,F1
+35043,wismo,ar,new,,SO26008211,Y,,F1 F5
+35045,product_question,he,new,,,,,
+35046,wismo,he,new,,SO26008059,Y,Y,F1
+35048,wismo,he,new,,SO26008607,Y,Y,F1
+35050,spam,en,new,,,,,
+35051,spam,he,new,,,,,
+35052,wismo,he,new,,SO26008294,Y,Y,F1
+35054,product_question,ru,new,,,,,
+35057,wismo,ar,new,,SO26008097,Y,Y,F1 F5
+35060,spam,en,new,,,,,F5
+35061,reschedule,ru,new,,SO26008669,,,
+35062,other,ru,new,,,,,F5
+35065,other,ru,duplicate,35062,,,,F6
+35066,spam,en,new,,,,,
+35067,returns,ru,new,,SO26008906,,,
+35068,wismo,he,followup,34671,SO26007849,Y,Y,F1 F4
+35069,other,he,new,,,,,
+35071,wismo,he,followup,34837,SO26008010,Y,,F1 F4 F5
+35073,damage,ar,followup,35030,SO26008696,,,F4 F5
+35075,wismo,ru,followup,34917,SO26007958,Y,Y,F1 F4
+35076,wismo,ar,new,,SO26008137,Y,Y,F1 F5
+35079,product_question,ar,new,,,,,
+35080,wismo,he,new,,SO26008089,Y,Y,F1
+35082,wismo,en,new,,SO26008174,Y,Y,F1
+35084,damage,he,new,,SO26007970,,,
+35086,wismo,he,new,,SO26008317,Y,Y,F1
+35089,wismo,he,new,,SO26008199,Y,Y,F1
+35090,returns,he,new,,SO26007753,,,
+35093,assembly,he,new,,SO26008004,,,
+35095,wismo,he,new,,SO26008094,Y,Y,F1
+35096,assembly,he,new,,SO26008796,,,F5
+35097,other,he,new,,,,,F5
+35099,wismo,ru,new,,SO26008060,Y,Y,F1
+35100,wismo,he,new,,SO26008139,Y,Y,F1 F5
+35102,product_question,he,new,,,,,
+35103,damage,ru,new,,SO26007719,,,
+35104,product_question,en,new,,,,,
+35105,complaint,he,new,,SO26008788,,,
+35107,damage,he,new,,SO26008975,,,
+35109,product_question,ru,new,,,,,
+35111,assembly,he,new,,SO26008773,,,
+35113,wismo,en,new,,SO26008263,Y,Y,F1
+35114,wismo,ru,new,,SO26008432,Y,Y,F1 F5
+35117,wismo,ru,new,,SO26008282,Y,Y,F1
+35118,other,ar,new,,,,,F5
+35119,damage,en,new,,SO26007644,,,F5
+35121,damage,he,new,,SO26007925,,,
+35123,spam,en,new,,,,,
+35125,other,he,new,,,,,
+35126,invoice,he,new,,SO26009475,,,
+35127,invoice,he,new,,SO26008649,,,
+35128,wismo,ar,followup,34898,SO26008065,Y,Y,F1 F4
+35129,wismo,en,new,,SO26008110,Y,Y,F1 F5
+35130,wismo,ar,new,,SO26008300,Y,Y,F1
+35131,other,he,new,,,,,F5
+35134,damage,ru,new,,SO26008910,,,
+35137,assembly,he,new,,SO26008973,,,
+35138,wismo,he,followup,35086,SO26008317,Y,,F1 F4
+35139,product_question,he,new,,,,,
+35142,damage,ru,new,,SO26008669,,,
+35143,spam,he,new,,,,,
+35146,invoice,he,new,,SO26009207,,,
+35147,damage,he,new,,SO26007985,,,
+35148,product_question,he,duplicate,35139,,,,F6
+35150,assembly,he,new,,SO26009010,,,
+35153,b2b_quote,en,new,,,,,
+35155,wismo,ar,new,,SO26008387,Y,Y,F1
+35158,assembly,he,new,,SO26008913,,,
+35159,assembly,he,duplicate,35158,SO26008913,,,F6
+35160,assembly,he,new,,SO26009149,,,
+35161,wismo,ar,duplicate,35155,SO26008387,Y,,F1 F6
+35164,b2b_quote,en,duplicate,35153,,,,F6
+35165,complaint,he,new,,SO26008717,,,
+35166,damage,he,new,,SO26007856,,,
+35169,product_question,he,new,,,,,F5
+35170,damage,he,new,,SO26008937,,,F5
+35171,wismo,ar,new,,SO26009202,Y,Y,F1
+35172,other,he,new,,,,,F5
+35174,wismo,he,followup,35036,SO26008219,Y,Y,F1 F4
+35175,wismo,he,followup,34962,SO26008108,Y,Y,F1 F4 F5
+35178,wismo,ar,new,,SO26008451,Y,Y,F1 F5
+35181,wismo,he,new,,SO26008383,Y,Y,F1 F5
+35182,b2b_quote,he,new,,,,,
+35183,other,ru,new,,,,,F5
+35184,invoice,en,new,,SO26008735,,,
+35185,invoice,en,duplicate,35184,SO26008735,,,F6
+35187,wismo,ar,new,,SO26008289,Y,Y,F1
+35189,wismo,he,new,,SO26008353,Y,,F1
+35190,complaint,ar,new,,SO26007891,,,
+35191,wismo,he,new,,SO26008259,Y,Y,F1 F5
+35194,damage,en,followup,34778,SO26008363,,,F4
+35195,product_question,he,new,,,,,
+35196,product_question,he,new,,,,,
+35197,assembly,en,new,,SO26008856,,,
+35198,wismo,en,new,,SO26008321,Y,Y,F1
+35200,wismo,en,duplicate,35198,SO26008321,Y,Y,F1 F6 F5
+35201,damage,he,new,,SO26007830,,,
+35203,damage,he,duplicate,35201,SO26007830,,,F6
+35204,wismo,he,new,,SO26008332,Y,Y,F1 F5
+35205,product_question,he,new,,,,,
+35206,damage,ar,new,,SO26008026,,,
+35207,wismo,ar,new,,SO26008410,Y,Y,F1
+35209,product_question,he,new,,,,,
+35212,wismo,he,new,,SO26008295,Y,Y,F1
+35215,wismo,ar,new,,SO26008292,Y,Y,F1 F5
+35216,wismo,he,new,,SO26008395,Y,Y,F1 F5
+35217,wismo,ar,duplicate,35215,SO26008292,Y,,F1 F6
+35218,other,he,new,,,,,F5
+35219,b2b_quote,en,new,,,,,
+35220,wismo,he,followup,34937,SO26008190,Y,Y,F1 F4
+35221,wismo,he,followup,35080,SO26008089,Y,Y,F1 F4
+35224,wismo,ar,new,,SO26008475,Y,,F1 F5
+35225,wismo,he,new,,SO26008603,Y,Y,F1
+35228,wismo,ar,new,,SO26008427,Y,Y,F1
+35230,wismo,he,new,,SO26008233,Y,Y,F1 F5
+35231,wismo,ar,new,,SO26008225,Y,Y,F1
+35232,spam,en,new,,,,,
+35233,wismo,ru,followup,34905,SO26008030,Y,Y,F1 F4
+35236,wismo,ar,duplicate,35231,SO26008225,Y,Y,F1 F6
+35238,wismo,he,new,,SO26008352,Y,Y,F1 F5
+35241,wismo,he,new,,SO26008228,Y,Y,F1
+35244,wismo,en,followup,35129,SO26008110,Y,Y,F1 F4 F5
+35247,product_question,ar,new,,,,,
+35248,other,he,new,,,,,F5
+35249,product_question,ar,duplicate,35247,,,,F6 F5
+35250,product_question,ru,new,,,,,
+35253,wismo,he,new,,SO26008436,Y,Y,F1 F5
+35254,wismo,he,followup,34926,SO26008186,Y,Y,F1 F4
+35257,reschedule,ru,new,,SO26009188,,,
+35259,other,he,new,,,,,F5
+35262,wismo,he,new,,SO26008465,Y,Y,F1
+35263,wismo,he,new,,SO26008222,Y,Y,F1 F5
+35266,product_question,he,new,,,,,F5
+35269,returns,he,followup,34922,SO26008243,,,F4
+35270,product_question,ar,new,,,,,
+35273,other,he,new,,,,,F5
+35274,assembly,ru,new,,SO26008767,,,
+35276,wismo,ar,new,,SO26008398,Y,Y,F1
+35277,wismo,ar,new,,SO26008865,Y,Y,F1
+35278,other,he,new,,,,,F5
+35281,assembly,he,followup,35111,SO26008773,,,F4
+35282,damage,ar,followup,35073,SO26008696,,,F4
+35285,wismo,he,followup,35089,SO26008199,Y,Y,F1 F4 F5
+35286,wismo,he,new,,SO26008447,Y,Y,F1
+35287,wismo,he,followup,34822,SO26008045,Y,Y,F1 F4
+35289,other,he,new,,,,,F5
+35292,wismo,ru,followup,35114,SO26008432,Y,Y,F1 F4
+35294,wismo,he,new,,SO26008361,Y,Y,F1
+35296,wismo,he,new,,SO26008261,Y,,F1
+35297,wismo,he,followup,35230,SO26008233,Y,,F1 F4
+35299,wismo,he,new,,SO26008542,Y,,F1
+35301,other,he,new,,,,,
+35302,wismo,ar,new,,SO26008473,Y,Y,F1 F5
+35304,wismo,en,followup,35244,SO26008110,Y,Y,F1 F4
+35305,wismo,he,new,,SO26009359,Y,Y,F1
+35307,wismo,ar,new,,SO26008244,Y,Y,F1
+35308,complaint,he,new,,SO26009569,,,
+35309,b2b_quote,he,new,,,,,
+35310,wismo,he,new,,SO26008349,Y,Y,F1 F5
+35311,wismo,he,duplicate,35310,SO26008349,Y,Y,F1 F6 F5
+35312,wismo,ar,new,,SO26008387,Y,Y,F1
+35313,wismo,he,new,,SO26008539,Y,Y,F1
+35316,reschedule,he,new,,SO26008317,,,F5
+35317,wismo,he,new,,SO26008364,Y,Y,F1
+35318,returns,he,new,,SO26007849,,,F5
+35321,assembly,he,new,,SO26007984,,,
+35322,wismo,ar,new,,SO26008530,Y,,F1 F5
+35323,invoice,en,new,,SO26009179,,,
+35325,wismo,ar,duplicate,35322,SO26008530,Y,Y,F1 F6
+35326,wismo,he,new,,SO26008595,Y,Y,F1 F5
+35329,spam,en,new,,,,,
+35330,complaint,en,new,,SO26009293,,,
+35333,wismo,he,new,,SO26008472,Y,Y,F1 F5
+35336,returns,he,new,,SO26008654,,,
+35338,wismo,he,duplicate,35333,SO26008472,Y,,F1 F6
+35339,damage,he,followup,35201,SO26007830,,,F4
+35340,wismo,en,new,,SO26008470,Y,Y,F1 F5
+35341,damage,ar,new,,SO26009180,,,
+35344,damage,ru,followup,35103,SO26007719,,,F4
+35345,assembly,ru,new,,SO26008910,,,
+35346,wismo,ru,new,,SO26008324,Y,Y,F1 F5
+35348,wismo,en,followup,35198,SO26008321,Y,Y,F1 F4
+35349,wismo,he,new,,SO26008426,Y,Y,F1
+35351,wismo,ar,followup,35155,SO26008387,Y,Y,F1 F4 F5
+35352,wismo,he,followup,35181,SO26008383,Y,Y,F1 F4
+35353,product_question,he,new,,,,,
+35354,wismo,he,new,,SO26008625,Y,,F1
+35356,damage,he,followup,34989,SO26007795,,,F4
+35357,wismo,ar,new,,SO26009190,Y,,F1
+35358,complaint,he,new,,SO26009174,,,
+35361,returns,ru,new,,SO26008910,,,
+35362,reschedule,ru,new,,SO26008444,,,
+35363,complaint,he,duplicate,35358,SO26009174,,,F6
+35364,damage,ar,new,,SO26009333,,,
+35367,wismo,he,new,,SO26008454,Y,Y,F1
+35368,spam,en,new,,,,,
+35370,damage,en,followup,35119,SO26007644,,,F4
+35372,wismo,he,new,,SO26008498,Y,Y,F1
+35373,b2b_quote,en,new,,,,,
+35374,reschedule,he,new,,SO26008260,,,F5
+35376,wismo,ru,new,,SO26008587,Y,Y,F1 F5
+35377,wismo,he,new,,SO26009025,Y,Y,F1
+35378,wismo,he,new,,SO26008459,Y,Y,F1
+35381,wismo,he,new,,SO26008641,Y,Y,F1 F5
+35382,product_question,he,new,,,,,
+35383,wismo,he,new,,SO26008666,Y,Y,F1
+35384,damage,he,new,,SO26008078,,,
+35385,damage,he,new,,SO26009235,,,
+35386,complaint,he,new,,,,,
+35387,wismo,he,new,,SO26008486,Y,Y,F1
+35389,spam,he,new,,,,,
+35391,wismo,en,followup,35113,SO26008263,Y,Y,F1 F4
+35392,wismo,he,new,,SO26008607,Y,Y,F1
+35393,product_question,he,new,,,,,
+35396,product_question,he,new,,,,,F5
+35397,wismo,he,new,,SO26008698,Y,Y,F1 F5
+35398,invoice,he,new,,SO26008790,,,
+35400,product_question,ru,new,,,,,
+35401,product_question,he,new,,,,,
+35404,spam,en,new,,,,,
+35405,wismo,he,new,,SO26008487,Y,,F1
+35407,damage,he,followup,34991,SO26007304,,,F4
+35408,wismo,he,new,,SO26008598,Y,Y,F1
+35409,wismo,he,new,,SO26008614,Y,Y,F1
+35410,damage,he,new,,SO26008435,,,
+35411,wismo,he,new,,SO26008535,Y,Y,F1
+35413,damage,en,new,,SO26008174,,,
+35416,wismo,ru,new,,SO26009613,Y,Y,F1
+35419,complaint,en,new,,SO26008356,,,
+35420,complaint,en,duplicate,35419,SO26008356,,,F6
+35423,wismo,ru,new,,SO26008432,Y,Y,F1
+35424,wismo,he,followup,35238,SO26008352,Y,,F1 F4 F5
+35427,wismo,ru,followup,35376,SO26008587,Y,,F1 F4 F5
+35428,wismo,he,new,,SO26008618,Y,Y,F1
+35429,invoice,he,new,,SO26009814,,,
+35430,wismo,he,new,,SO26009396,Y,Y,F1
+35433,wismo,he,followup,35253,SO26008436,Y,Y,F1 F4 F5
+35435,other,he,new,,,,,F5
+35436,returns,ar,new,,SO26008684,,,
+35438,assembly,he,new,,SO26009359,,,F5
+35440,wismo,ru,new,,SO26008671,Y,Y,F1 F5
+35441,wismo,he,new,,SO26008523,Y,,F1
+35444,other,he,new,,,,,
+35445,other,he,new,,,,,F5
+35447,wismo,he,new,,SO26008839,Y,Y,F1
+35448,wismo,he,new,,SO26008603,Y,Y,F1
+35449,other,he,duplicate,35445,,,,F6 F5
+35450,spam,en,new,,,,,
+35451,other,he,new,,,,,F5
+35452,assembly,he,followup,35029,SO26007798,,,F4
+35454,other,ru,new,,,,,F5
+35455,wismo,he,followup,35349,SO26008426,Y,,F1 F4
+35456,spam,en,new,,,,,
+35457,other,ru,duplicate,35454,,,,F6 F5
+35458,other,he,new,,,,,
+35461,other,ru,new,,,,,
+35462,wismo,he,followup,35174,SO26008219,Y,Y,F1 F4
+35463,damage,he,new,,SO26008224,,,
+35464,spam,en,new,,,,,
+35465,wismo,he,followup,35317,SO26008364,Y,Y,F1 F4 F5
+35468,wismo,he,followup,35225,SO26008603,Y,Y,F1 F4
+35469,wismo,ar,new,,SO26008724,Y,Y,F1
+35470,assembly,he,new,,SO26009349,,,
+35471,product_question,he,new,,,,,
+35473,wismo,he,new,,SO26008578,Y,Y,F1 F5
+35476,product_question,he,new,,,,,F5
+35477,wismo,he,new,,SO26008694,Y,,F1
+35479,spam,en,new,,,,,
+35480,wismo,he,new,,SO26008617,Y,Y,F1
+35481,returns,ar,new,,SO26008292,,,F5
+35482,invoice,ru,new,,SO26008890,,,
+35483,returns,he,new,,SO26008788,,,
+35484,product_question,he,new,,,,,
+35485,product_question,en,new,,,,,F5
+35487,invoice,he,followup,35127,SO26008649,,,F4
+35490,wismo,he,new,,SO26008577,Y,Y,F1
+35492,complaint,he,followup,35358,SO26009174,,,F4 F5
+35493,wismo,he,new,,SO26009732,Y,Y,F1
+35494,wismo,he,followup,35191,SO26008259,Y,Y,F1 F4
+35495,damage,ar,new,,SO26008072,,,
+35498,b2b_quote,en,new,,,,,
+35499,spam,en,new,,,,,
+35502,b2b_quote,en,new,,,,,
+35503,wismo,he,followup,35294,SO26008361,Y,Y,F1 F4
+35504,wismo,he,new,,SO26008828,Y,Y,F1
+35505,product_question,he,new,,,,,
+35508,wismo,ru,new,,SO26008770,Y,Y,F1 F5
+35510,assembly,he,new,,SO26008176,,,
+35511,product_question,he,new,,,,,F5
+35512,wismo,ru,new,,SO26008761,Y,Y,F1
+35513,spam,en,new,,,,,
+35514,product_question,he,new,,,,,
+35515,invoice,ar,new,,SO26008822,,,
+35518,b2b_quote,he,new,,,,,
+35519,wismo,he,new,,SO26008663,Y,,F1
+35520,wismo,he,new,,SO26008543,Y,Y,F1
+35521,spam,en,new,,,,,
+35522,wismo,he,new,,SO26008708,Y,Y,F1
+35523,assembly,he,new,,SO26008447,,,
+35524,wismo,en,new,,SO26008489,Y,Y,F1
+35527,complaint,he,followup,35308,SO26009569,,,F4
+35529,other,he,new,,,,,F5
+35532,other,he,new,,,,,F5
+35533,b2b_quote,ar,new,,,,,
+35535,wismo,ar,new,,SO26008688,Y,Y,F1
+35536,wismo,en,new,,SO26008571,Y,Y,F1 F5
+35539,wismo,he,followup,35477,SO26008694,Y,Y,F1 F4
+35540,wismo,he,new,,SO26008705,Y,,F1 F5
+35543,wismo,ru,new,,SO26008751,Y,Y,F1 F5
+35544,wismo,ru,new,,SO26008681,Y,Y,F1 F5
+35546,wismo,he,new,,SO26008861,Y,Y,F1
+35547,returns,he,new,,SO26008435,,,
+35550,wismo,he,new,,SO26008720,Y,Y,F1
+35552,wismo,he,new,,SO26008879,Y,Y,F1 F5
+35553,wismo,he,duplicate,35550,SO26008720,Y,Y,F1 F6
+35554,damage,he,new,,SO26008248,,,
+35556,spam,en,new,,,,,
+35557,assembly,he,followup,35150,SO26009010,,,F4
+35558,other,he,new,,,,,F5
+35560,other,ru,new,,,,,F5
+35563,wismo,he,new,,SO26008727,Y,Y,F1
+35564,wismo,he,new,,SO26008593,Y,Y,F1
+35566,wismo,he,followup,35367,SO26008454,Y,Y,F1 F4
+35568,wismo,he,new,,SO26008839,Y,,F1
+35569,wismo,ar,new,,SO26008825,Y,Y,F1
+35570,damage,he,new,,SO26008176,,,
+35571,wismo,ru,followup,35543,SO26008751,Y,Y,F1 F4 F5
+35572,wismo,he,new,,SO26008652,Y,Y,F1
+35573,invoice,he,new,,SO26009269,,,F5
+35574,wismo,he,new,,SO26008743,Y,Y,F1
+35577,damage,ru,new,,SO26008143,,,F5
+35578,wismo,he,new,,SO26008636,Y,Y,F1
+35579,wismo,he,new,,SO26009185,Y,Y,F1
+35581,product_question,ru,new,,,,,F5
+35584,assembly,he,new,,SO26008056,,,
+35587,spam,en,new,,,,,
+35589,wismo,ru,new,,SO26008836,Y,Y,F1 F5
+35590,wismo,ar,new,,SO26008866,Y,Y,F1
+35591,wismo,ar,new,,SO26008745,Y,Y,F1
+35594,product_question,en,new,,,,,
+35595,wismo,he,new,,SO26008666,Y,,F1 F5
+35596,wismo,he,new,,SO26008649,Y,Y,F1 F5
+35597,wismo,ar,new,,SO26008662,Y,Y,F1 F5
+35598,other,he,new,,,,,F5
+35599,wismo,he,new,,SO26008606,Y,Y,F1
+35600,wismo,ar,new,,SO26008619,Y,Y,F1 F5
+35602,wismo,en,new,,SO26009171,Y,Y,F1 F5
+35605,wismo,ar,duplicate,35600,SO26008619,Y,Y,F1 F6
+35607,wismo,en,duplicate,35602,SO26009171,Y,,F1 F6
+35608,damage,he,new,,SO26008079,,,
+35611,product_question,he,new,,,,,
+35613,wismo,ru,new,,SO26008685,Y,Y,F1
+35615,wismo,he,new,,SO26008779,Y,Y,F1 F5
+35618,assembly,en,new,,SO26008246,,,
+35621,product_question,he,new,,,,,
+35622,product_question,he,new,,,,,
+35623,wismo,he,new,,SO26008794,Y,Y,F1 F5
+35624,product_question,he,new,,,,,
+35627,wismo,he,new,,SO26008804,Y,Y,F1
+35628,wismo,en,new,,SO26008782,Y,Y,F1 F5
+35629,reschedule,ar,new,,SO26009249,,,F5
+35632,wismo,he,new,,SO26009605,Y,Y,F1
+35633,product_question,he,new,,,,,
+35635,wismo,ar,new,,SO26009106,Y,,F1
+35637,product_question,he,new,,,,,F5
+35638,wismo,he,new,,SO26009847,Y,Y,F1
+35639,wismo,he,new,,SO26009854,Y,Y,F1
+35642,wismo,he,new,,SO26008674,Y,Y,F1
+35644,wismo,en,followup,35602,SO26009171,Y,Y,F1 F4
+35645,other,he,new,,,,,F5
+35646,wismo,he,new,,SO26008762,Y,Y,F1 F5
+35647,wismo,ar,new,,SO26008822,Y,Y,F1
+35648,invoice,ru,new,,SO26009188,,,
+35650,wismo,he,new,,SO26008938,Y,Y,F1
+35651,wismo,he,new,,SO26008974,Y,,F1
+35652,returns,ru,followup,35361,SO26008910,,,F4
+35653,wismo,he,new,,SO26008656,Y,Y,F1
+35654,wismo,he,followup,35568,SO26008839,Y,Y,F1 F4
+35655,wismo,he,new,,SO26009343,Y,Y,F1
+35656,damage,ar,new,,SO26009227,,,
+35657,assembly,he,new,,SO26008550,,,
+35658,wismo,he,new,,SO26009146,Y,,F1
+35661,wismo,ar,followup,35591,SO26008745,Y,Y,F1 F4
+35662,b2b_quote,he,new,,,,,
+35664,wismo,he,new,,SO26008808,Y,Y,F1 F5
+35666,wismo,he,new,,SO26009083,Y,,F1 F5
+35669,wismo,he,new,,SO26008881,Y,Y,F1
+35672,wismo,ar,followup,35357,SO26009190,Y,Y,F1 F4
+35673,product_question,he,new,,,,,
+35676,other,ar,new,,,,,F5
+35679,product_question,ru,new,,,,,F5
+35680,damage,he,followup,35384,SO26008078,,,F4 F5
+35682,wismo,he,followup,35540,SO26008705,Y,,F1 F4 F5
+35683,wismo,he,new,,SO26008988,Y,Y,F1 F5
+35685,returns,he,new,,SO26008326,,,F5
+35687,wismo,en,new,,SO26009051,Y,Y,F1 F5
+35688,wismo,ar,new,,SO26008744,Y,Y,F1 F5
+35689,wismo,ar,new,,SO26008942,Y,Y,F1 F5
+35690,wismo,he,new,,SO26009048,Y,Y,F1
+35691,invoice,en,new,,SO26010088,,,
+35694,wismo,he,new,,SO26009102,Y,,F1
+35695,wismo,he,new,,SO26008983,Y,Y,F1
+35696,other,he,new,,,,,F5
+35697,wismo,he,new,,SO26009332,Y,,F1
+35698,wismo,ru,new,,SO26009101,Y,,F1
+35699,b2b_quote,he,new,,,,,
+35702,b2b_quote,he,duplicate,35699,,,,F6
+35704,wismo,ru,new,,SO26008943,Y,Y,F1 F5
+35705,other,ru,new,,,,,F5
+35708,wismo,he,new,,SO26008791,Y,Y,F1
+35709,other,ar,new,,,,,F5
+35712,damage,he,new,,SO26008603,,,F5
+35713,wismo,he,new,,SO26009681,Y,Y,F1
+35714,returns,ar,new,,SO26008410,,,
+35715,damage,en,followup,35194,SO26008363,,,F4
+35716,wismo,he,new,,SO26008899,Y,Y,F1 F5
+35718,reschedule,ar,new,,SO26009982,,,
+35721,complaint,ru,new,,SO26009307,,,
+35723,other,ru,new,,,,,F5
+35726,damage,en,duplicate,35715,SO26008363,,,F6
+35727,wismo,ru,new,,SO26008850,Y,Y,F1
+35729,wismo,ru,new,,SO26008965,Y,Y,F1
+35732,wismo,he,new,,SO26008869,Y,Y,F1
+35733,wismo,he,new,,SO26008799,Y,,F1 F5
+35734,assembly,ru,new,,SO26009316,,,
+35737,wismo,ru,duplicate,35727,SO26008850,Y,Y,F1 F6
+35738,wismo,he,new,,SO26009036,Y,Y,F1 F5
+35739,wismo,en,new,,SO26008875,Y,Y,F1
+35742,complaint,he,new,,SO26008472,,,
+35745,wismo,he,new,,SO26009387,Y,Y,F1
+35747,assembly,he,followup,35523,SO26008447,,,F4
+35748,product_question,he,new,,,,,
+35749,b2b_quote,he,new,,,,,
+35750,wismo,he,new,,SO26009439,Y,Y,F1
+35753,reschedule,en,new,,SO26009636,,,
+35756,wismo,en,new,,SO26009089,Y,Y,F1
+35757,wismo,ru,followup,35544,SO26008681,Y,Y,F1 F4
+35760,wismo,he,followup,35564,SO26008593,Y,Y,F1 F4 F5
+35763,wismo,he,followup,35383,SO26008666,Y,Y,F1 F4
+35764,assembly,he,new,,SO26009443,,,
+35765,wismo,ru,new,,SO26008893,Y,Y,F1 F5
+35766,b2b_quote,ar,new,,,,,F5
+35767,b2b_quote,he,new,,,,,
+35769,wismo,he,new,,SO26008953,Y,Y,F1 F5
+35770,wismo,he,duplicate,35769,SO26008953,Y,,F1 F6
+35772,wismo,he,new,,SO26008806,Y,Y,F1 F5
+35773,assembly,he,new,,SO26008465,,,
+35774,wismo,he,new,,SO26009007,Y,Y,F1 F5
+35775,wismo,he,followup,35627,SO26008804,Y,Y,F1 F4 F5
+35776,product_question,ar,new,,,,,
+35778,product_question,ru,new,,,,,
+35780,invoice,he,new,,SO26009556,,,
+35782,wismo,he,new,,SO26008876,Y,Y,F1
+35783,wismo,he,followup,35599,SO26008606,Y,Y,F1 F4
+35784,other,he,new,,,,,
+35785,damage,he,new,,SO26008527,,,
+35786,wismo,ru,new,,SO26009446,Y,Y,F1
+35787,invoice,he,new,,SO26009865,,,
+35790,assembly,he,new,,SO26008663,,,
+35791,b2b_quote,he,new,,,,,F5
+35792,wismo,ar,followup,35535,SO26008688,Y,Y,F1 F4 F5
+35793,wismo,he,followup,35658,SO26009146,Y,Y,F1 F4
+35794,wismo,he,new,,SO26008926,Y,Y,F1
+35795,product_question,ar,new,,,,,
+35797,wismo,he,new,,SO26009146,Y,Y,F1 F5
+35800,wismo,ar,new,,SO26009002,Y,Y,F1
+35803,wismo,ar,new,,SO26008958,Y,Y,F1 F5
+35804,product_question,he,new,,,,,F5
+35805,product_question,he,duplicate,35804,,,,F6
+35806,assembly,he,new,,SO26009538,,,
+35809,wismo,ar,new,,SO26009106,Y,Y,F1 F5
+35810,wismo,he,new,,SO26009083,Y,Y,F1
+35811,assembly,he,new,,SO26008542,,,
+35814,wismo,he,followup,35572,SO26008652,Y,Y,F1 F4
+35815,damage,en,new,,SO26009636,,,
+35818,wismo,he,new,,SO26009058,Y,Y,F1
+35819,assembly,he,followup,35764,SO26009443,,,F4
+35820,reschedule,he,new,,SO26008606,,,
+35821,spam,en,new,,,,,
+35823,wismo,he,new,,SO26009099,Y,,F1
+35825,spam,he,new,,,,,
+35826,spam,en,new,,,,,
+35827,invoice,he,new,,SO26009882,,,
+35828,product_question,ru,new,,,,,
+35829,invoice,he,new,,SO26009107,,,
+35831,wismo,he,followup,35669,SO26008881,Y,Y,F1 F4 F5
+35833,wismo,he,new,,SO26009167,Y,,F1 F5
+35834,other,he,new,,,,,F5
+35837,wismo,he,new,,SO26009028,Y,Y,F1
+35838,other,he,duplicate,35834,,,,F6
+35839,product_question,he,new,,,,,
+35842,product_question,he,new,,,,,F5
+35843,product_question,he,new,,,,,
+35844,complaint,he,new,,SO26009810,,,
+35847,spam,en,new,,,,,F5
+35848,reschedule,he,new,,SO26008881,,,F5
+35849,product_question,ar,new,,,,,F5
+35852,wismo,he,followup,35654,SO26008839,Y,Y,F1 F4 F5
+35853,other,he,new,,,,,F5
+35855,wismo,ru,new,,SO26009215,Y,,F1
+35858,returns,he,new,,SO26008618,,,
+35859,product_question,he,new,,,,,
+35860,product_question,he,duplicate,35859,,,,F6
+35861,other,ar,new,,,,,
+35863,wismo,he,new,,SO26009048,Y,Y,F1
+35864,other,he,new,,,,,
+35865,damage,he,new,,SO26008779,,,
+35866,wismo,he,new,,SO26009078,Y,Y,F1
+35868,wismo,he,followup,35833,SO26009167,Y,Y,F1 F4
+35869,wismo,en,new,,SO26009121,Y,Y,F1 F5
+35870,reschedule,ar,new,,SO26008866,,,
+35872,wismo,he,new,,SO26008998,Y,,F1
+35873,wismo,he,duplicate,35872,SO26008998,Y,,F1 F6
+35875,wismo,en,followup,35739,SO26008875,Y,Y,F1 F4
+35878,wismo,en,duplicate,35875,SO26008875,Y,Y,F1 F6
+35879,returns,he,new,,SO26008048,,,
+35882,other,ar,new,,,,,F5
+35884,wismo,ar,new,,SO26009370,Y,,F1 F5
+35886,wismo,he,new,,SO26009204,Y,,F1 F5
+35887,wismo,he,new,,SO26009137,Y,,F1
+35888,other,ru,new,,,,,F5
+35891,wismo,he,new,,SO26009213,Y,,F1
+35894,other,ru,duplicate,35888,,,,F6 F5
+35895,other,he,new,,,,,F5
+35896,assembly,ru,new,,SO26009357,,,
+35898,returns,he,new,,SO26008199,,,
+35899,returns,he,duplicate,35898,SO26008199,,,F6
+35900,wismo,en,new,,SO26009172,Y,,F1 F5
+35901,wismo,en,duplicate,35900,SO26009172,Y,,F1 F6
+35902,wismo,he,new,,SO26008990,Y,,F1
+35903,wismo,he,new,,SO26009318,Y,,F1
+35904,reschedule,he,new,,SO26008578,,,
+35906,wismo,he,new,,SO26009197,Y,,F1
+35908,damage,he,new,,SO26008834,,,
+35910,damage,he,followup,35356,SO26007795,,,F4
+35911,wismo,he,new,,SO26009283,Y,,F1
+35912,wismo,he,duplicate,35911,SO26009283,Y,,F1 F6
+35915,wismo,he,new,,SO26009403,Y,,F1

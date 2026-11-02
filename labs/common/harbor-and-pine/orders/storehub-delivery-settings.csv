@@ -1,0 +1,6 @@
+setting,supplier_country,value_days,applies_to,last_modified_at,modified_by
+promised_delivery_lead_time,Vietnam,42,all SKUs from this country,2023-02-14 11:02:37+02:00,noa.levi
+promised_delivery_lead_time,China,38,all SKUs from this country,2023-02-14 11:02:37+02:00,noa.levi
+promised_delivery_lead_time,Turkey,21,all SKUs from this country,2023-02-14 11:02:37+02:00,noa.levi
+promised_delivery_lead_time,Italy,28,all SKUs from this country,2023-02-14 11:02:37+02:00,noa.levi
+in_stock_lead_time,(warehouse stock),7,SKUs flagged in stock,2023-02-14 11:03:10+02:00,noa.levi

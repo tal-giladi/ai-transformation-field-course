@@ -1,0 +1,121 @@
+employee_id,full_name,role,team,site,manager_id,start_date,fte,loaded_monthly_cost_band
+HP-1001,Yoav Ben-Ami,Chief Executive Officer,Management,Rishon LeZion (HQ & warehouse),,2014-01-01,1.0,₪60k+
+HP-1002,Michal Peretz,Chief Operating Officer,Management,Rishon LeZion (HQ & warehouse),HP-1001,2019-04-01,1.0,₪45–60k
+HP-1003,Ronit Avraham,Chief Financial Officer,Finance,Rishon LeZion (HQ & warehouse),HP-1001,2017-09-01,1.0,₪45–60k
+HP-1004,Samir Haddad,Customer Service Manager,Customer Service,Rishon LeZion (HQ & warehouse),HP-1002,2015-03-01,1.0,₪28–35k
+HP-1005,Olga Petrenko,Senior Support Agent (team lead),Customer Service,Rishon LeZion (HQ & warehouse),HP-1004,2016-09-01,1.0,₪23–28k
+HP-1006,Rina Azoulay,Claims & Returns Coordinator,Customer Service,Rishon LeZion (HQ & warehouse),HP-1004,2012-05-01,1.0,₪16–19k
+HP-1007,Yana Kogan,Support Agent,Customer Service,Rishon LeZion (HQ & warehouse),HP-1004,2019-02-01,1.0,₪16–19k
+HP-1008,Sergei Novikov,Support Agent,Customer Service,Rishon LeZion (HQ & warehouse),HP-1004,2023-06-01,1.0,₪16–19k
+HP-1009,Lina Khoury,Support Agent,Customer Service,Rishon LeZion (HQ & warehouse),HP-1004,2020-01-01,1.0,₪16–19k
+HP-1010,Rami Nasser,Support Agent,Customer Service,Rishon LeZion (HQ & warehouse),HP-1004,2022-03-01,1.0,₪16–19k
+HP-1011,Ahmad Jabareen,Support Agent,Customer Service,Rishon LeZion (HQ & warehouse),HP-1004,2024-05-01,1.0,₪16–19k
+HP-1012,Hila Dahan,Support Agent,Customer Service,Rishon LeZion (HQ & warehouse),HP-1004,2018-07-01,1.0,₪16–19k
+HP-1013,Moran Biton,Support Agent,Customer Service,Rishon LeZion (HQ & warehouse),HP-1004,2021-10-01,1.0,₪16–19k
+HP-1014,Adi Golan,Support Agent,Customer Service,Rishon LeZion (HQ & warehouse),HP-1004,2025-01-01,1.0,₪16–19k
+HP-1015,Shani Ohayon,Support Agent,Customer Service,Rishon LeZion (HQ & warehouse),HP-1004,2022-08-01,1.0,₪16–19k
+HP-1016,Tigist Mekonen,Support Agent,Customer Service,Rishon LeZion (HQ & warehouse),HP-1004,2023-02-01,1.0,₪16–19k
+HP-1017,Daniel Shaw,Support Agent,Customer Service,Rishon LeZion (HQ & warehouse),HP-1004,2021-04-01,1.0,₪16–19k
+HP-1018,Tamar Shalev,Logistics Manager,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1002,2013-11-01,1.0,₪28–35k
+HP-1019,Avi Mizrahi,IT Manager,IT,Rishon LeZion (HQ & warehouse),HP-1003,2018-01-01,1.0,₪28–35k
+HP-1020,Noa Levi,Marketing Director,Marketing & E-commerce,Rishon LeZion (HQ & warehouse),HP-1001,2020-06-01,1.0,₪35–45k
+HP-1021,Shir Barak,Content Manager,Marketing & E-commerce,Rishon LeZion (HQ & warehouse),HP-1020,2022-01-01,1.0,₪19–23k
+HP-1022,Dana Katz,HR Manager,HR,Rishon LeZion (HQ & warehouse),HP-1002,2016-02-01,1.0,₪28–35k
+HP-1023,Eyal Navon,Head of Purchasing,Purchasing,Rishon LeZion (HQ & warehouse),HP-1002,2014-06-01,1.0,₪35–45k
+HP-1024,Igor Volkov,Buyer (Asia),Purchasing,Rishon LeZion (HQ & warehouse),HP-1023,2020-09-01,1.0,₪23–28k
+HP-1025,Yaniv Carmi,Head of B2B Sales,B2B Sales,Rishon LeZion (HQ & warehouse),HP-1001,2018-03-01,1.0,₪35–45k
+HP-1026,Natalia Gurevich,Financial Controller,Finance,Rishon LeZion (HQ & warehouse),HP-1003,2019-11-01,1.0,₪28–35k
+HP-1027,Muhammad Shehadeh,Executive Assistant,Management,Rishon LeZion (HQ & warehouse),HP-1001,2014-02-01,1.0,₪16–19k
+HP-1028,Wassim Jabareen,Import Coordinator,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2016-02-01,1.0,₪16–19k
+HP-1029,Irina Lerner,Import Coordinator,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2024-05-01,1.0,₪16–19k
+HP-1030,Itai Mekonen,Import Coordinator,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2021-10-01,1.0,₪16–19k
+HP-1031,Samah Hamdan,Delivery Coordinator,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2019-06-01,0.5,₪14–16k
+HP-1032,Keren Tesfaye,Delivery Coordinator,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2011-12-01,1.0,₪14–16k
+HP-1033,Itai Ben-David,Delivery Coordinator,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2016-10-01,1.0,₪14–16k
+HP-1034,Sarah Green,Warehouse Supervisor,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2011-10-01,1.0,₪19–23k
+HP-1035,Inbal Vaknin,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2016-04-01,1.0,₪11–14k
+HP-1036,Nadia Zoabi,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2022-07-01,1.0,₪11–14k
+HP-1037,Yulia Ivanova,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2010-07-01,1.0,₪11–14k
+HP-1038,Ronen Cohen,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2024-01-01,1.0,₪11–14k
+HP-1039,Elena Gurevich,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2015-06-01,0.5,₪11–14k
+HP-1040,Samah Zoabi,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2025-09-01,1.0,₪11–14k
+HP-1041,Maya Sasson,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2010-05-01,1.0,₪11–14k
+HP-1042,Tigist Navon,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2022-02-01,1.0,₪11–14k
+HP-1043,Limor Gabay,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2022-08-01,1.0,₪11–14k
+HP-1044,Eli Ohayon,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2013-06-01,0.5,₪11–14k
+HP-1045,Omer Tesfaye,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2012-10-01,1.0,₪11–14k
+HP-1046,Fadi Hamdan,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2019-07-01,1.0,₪11–14k
+HP-1047,Dmitri Melnik,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2014-01-01,0.5,₪11–14k
+HP-1048,Dmitri Orlov,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2018-10-01,0.5,₪11–14k
+HP-1049,Hannah Goldberg,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2015-12-01,1.0,₪11–14k
+HP-1050,Eli Hazan,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2017-09-01,1.0,₪11–14k
+HP-1051,Sarah Adler,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2025-11-01,1.0,₪11–14k
+HP-1052,Erez Hazan,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2018-06-01,1.0,₪11–14k
+HP-1053,Maya Weiss,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2018-06-01,1.0,₪11–14k
+HP-1054,Abebe Belay,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2014-03-01,1.0,₪11–14k
+HP-1055,Ksenia Gurevich,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2012-05-01,0.5,₪11–14k
+HP-1056,Abebe Mekonen,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2022-10-01,1.0,₪11–14k
+HP-1057,Anna Gurevich,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2023-06-01,1.0,₪11–14k
+HP-1058,Worku Negash,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2014-01-01,1.0,₪11–14k
+HP-1059,Keren Segal,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2018-07-01,1.0,₪11–14k
+HP-1060,Shira Tesfaye,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2025-11-01,1.0,₪11–14k
+HP-1061,Dmitri Smirnov,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2024-05-01,1.0,₪11–14k
+HP-1062,Fadi Khoury,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2023-05-01,1.0,₪11–14k
+HP-1063,Ruti Mekonen,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2023-11-01,1.0,₪11–14k
+HP-1064,Maya Golan,Warehouse Worker,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2019-10-01,1.0,₪11–14k
+HP-1065,Efrat Gabay,Assembly Technician,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2019-05-01,1.0,₪14–16k
+HP-1066,Yulia Belova,Assembly Technician,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2010-02-01,1.0,₪14–16k
+HP-1067,Anna Kaplan,Assembly Technician,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2015-05-01,0.5,₪14–16k
+HP-1068,Osnat Gabay,Assembly Technician,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2011-12-01,1.0,₪14–16k
+HP-1069,Desta Mengistu,Assembly Technician,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2016-06-01,1.0,₪14–16k
+HP-1070,Malkam Tesfaye,Assembly Technician,Logistics & Warehouse,Rishon LeZion (HQ & warehouse),HP-1018,2024-05-01,1.0,₪14–16k
+HP-1071,Leah Price,Buyer,Purchasing,Rishon LeZion (HQ & warehouse),HP-1023,2025-12-01,1.0,₪19–23k
+HP-1072,Oren Malka,Buyer,Purchasing,Rishon LeZion (HQ & warehouse),HP-1023,2020-04-01,1.0,₪19–23k
+HP-1073,Tomer Azoulay,Purchasing Assistant,Purchasing,Rishon LeZion (HQ & warehouse),HP-1023,2020-06-01,1.0,₪14–16k
+HP-1074,Rebecca Morris,Showroom Manager,Sales – Showroom Tel Aviv,Tel Aviv showroom,HP-1001,2012-03-01,1.0,₪23–28k
+HP-1075,Abebe Barak,Sales Consultant,Sales – Showroom Tel Aviv,Tel Aviv showroom,HP-1074,2025-10-01,1.0,₪14–16k
+HP-1076,Larisa Zaitseva,Sales Consultant,Sales – Showroom Tel Aviv,Tel Aviv showroom,HP-1074,2014-09-01,1.0,₪14–16k
+HP-1077,Dafna Biton,Sales Consultant,Sales – Showroom Tel Aviv,Tel Aviv showroom,HP-1074,2013-08-01,1.0,₪14–16k
+HP-1078,David Ben-David,Sales Consultant,Sales – Showroom Tel Aviv,Tel Aviv showroom,HP-1074,2024-11-01,1.0,₪14–16k
+HP-1079,Yossi Hazan,Sales Consultant,Sales – Showroom Tel Aviv,Tel Aviv showroom,HP-1074,2016-09-01,1.0,₪14–16k
+HP-1080,Worku Ben-David,Sales Consultant,Sales – Showroom Tel Aviv,Tel Aviv showroom,HP-1074,2020-04-01,1.0,₪14–16k
+HP-1081,Inbal Gabay,Sales Consultant,Sales – Showroom Tel Aviv,Tel Aviv showroom,HP-1074,2018-11-01,1.0,₪14–16k
+HP-1082,Lior Azoulay,Sales Consultant,Sales – Showroom Tel Aviv,Tel Aviv showroom,HP-1074,2021-02-01,1.0,₪14–16k
+HP-1083,Emily Morris,Sales Consultant,Sales – Showroom Tel Aviv,Tel Aviv showroom,HP-1074,2019-08-01,0.5,₪14–16k
+HP-1084,Dmitri Lerner,Sales Consultant,Sales – Showroom Tel Aviv,Tel Aviv showroom,HP-1074,2011-02-01,1.0,₪14–16k
+HP-1085,Anna Volkova,Sales Consultant,Sales – Showroom Tel Aviv,Tel Aviv showroom,HP-1074,2012-04-01,1.0,₪14–16k
+HP-1086,Anat Rosen,Sales Consultant,Sales – Showroom Tel Aviv,Tel Aviv showroom,HP-1074,2014-04-01,1.0,₪14–16k
+HP-1087,Pavel Rabinovich,Sales Consultant,Sales – Showroom Tel Aviv,Tel Aviv showroom,HP-1074,2010-01-01,1.0,₪14–16k
+HP-1088,Sivan Carmi,Showroom Manager,Sales – Showroom Haifa,Haifa showroom,HP-1001,2014-07-01,1.0,₪23–28k
+HP-1089,Yulia Rabinovich,Sales Consultant,Sales – Showroom Haifa,Haifa showroom,HP-1088,2024-11-01,0.5,₪14–16k
+HP-1090,Worku Azoulay,Sales Consultant,Sales – Showroom Haifa,Haifa showroom,HP-1088,2013-11-01,1.0,₪14–16k
+HP-1091,Abebe Alemu,Sales Consultant,Sales – Showroom Haifa,Haifa showroom,HP-1088,2016-01-01,1.0,₪14–16k
+HP-1092,Leonid Volkov,Sales Consultant,Sales – Showroom Haifa,Haifa showroom,HP-1088,2020-10-01,0.5,₪14–16k
+HP-1093,David Tesfaye,Sales Consultant,Sales – Showroom Haifa,Haifa showroom,HP-1088,2022-05-01,1.0,₪14–16k
+HP-1094,Ido Biton,Sales Consultant,Sales – Showroom Haifa,Haifa showroom,HP-1088,2025-07-01,1.0,₪14–16k
+HP-1095,Vladimir Kaplan,Sales Consultant,Sales – Showroom Haifa,Haifa showroom,HP-1088,2022-05-01,1.0,₪14–16k
+HP-1096,Svetlana Zaitseva,Sales Consultant,Sales – Showroom Haifa,Haifa showroom,HP-1088,2014-08-01,1.0,₪14–16k
+HP-1097,Ksenia Orlova,Account Manager,B2B Sales,Rishon LeZion (HQ & warehouse),HP-1025,2016-07-01,1.0,₪23–28k
+HP-1098,Guy Elbaz,Account Manager,B2B Sales,Rishon LeZion (HQ & warehouse),HP-1025,2010-03-01,1.0,₪23–28k
+HP-1099,Dafna Yosef,Account Manager,B2B Sales,Rishon LeZion (HQ & warehouse),HP-1025,2015-08-01,1.0,₪23–28k
+HP-1100,Ruti Shapiro,Account Manager,B2B Sales,Rishon LeZion (HQ & warehouse),HP-1025,2019-07-01,1.0,₪23–28k
+HP-1101,Yossi Friedman,Account Manager,B2B Sales,Rishon LeZion (HQ & warehouse),HP-1025,2010-07-01,1.0,₪23–28k
+HP-1102,Jamal Nasser,Account Manager,B2B Sales,Rishon LeZion (HQ & warehouse),HP-1025,2012-09-01,1.0,₪23–28k
+HP-1103,Lior Friedman,E-commerce Manager,Marketing & E-commerce,Rishon LeZion (HQ & warehouse),HP-1020,2021-05-01,1.0,₪23–28k
+HP-1104,Nir Barak,Performance Marketing Specialist,Marketing & E-commerce,Rishon LeZion (HQ & warehouse),HP-1020,2011-08-01,1.0,₪19–23k
+HP-1105,Noam Cohen,Graphic Designer,Marketing & E-commerce,Rishon LeZion (HQ & warehouse),HP-1020,2012-11-01,1.0,₪16–19k
+HP-1106,Ido Ohayon,Social Media Coordinator,Marketing & E-commerce,Rishon LeZion (HQ & warehouse),HP-1020,2010-05-01,1.0,₪14–16k
+HP-1107,Svetlana Belova,Web Content Editor,Marketing & E-commerce,Rishon LeZion (HQ & warehouse),HP-1020,2014-11-01,1.0,₪14–16k
+HP-1108,Noam Rosen,Accountant,Finance,Rishon LeZion (HQ & warehouse),HP-1026,2024-12-01,1.0,₪19–23k
+HP-1109,Limor Tesfaye,Accountant,Finance,Rishon LeZion (HQ & warehouse),HP-1026,2015-12-01,1.0,₪19–23k
+HP-1110,Suha Kiwan,Accounts Payable Clerk,Finance,Rishon LeZion (HQ & warehouse),HP-1026,2018-03-01,1.0,₪14–16k
+HP-1111,Mahmoud Khoury,Accounts Receivable Clerk,Finance,Rishon LeZion (HQ & warehouse),HP-1026,2015-08-01,0.5,₪14–16k
+HP-1112,Tigist Ben-David,Payroll Specialist,Finance,Rishon LeZion (HQ & warehouse),HP-1026,2016-05-01,1.0,₪16–19k
+HP-1113,Orly Yosef,HR Generalist,HR,Rishon LeZion (HQ & warehouse),HP-1022,2011-10-01,0.5,₪16–19k
+HP-1114,Rasha Badir,Recruiter,HR,Rishon LeZion (HQ & warehouse),HP-1022,2010-05-01,1.0,₪16–19k
+HP-1115,Liat Dahan,Head of Merchandising,Merchandising,Rishon LeZion (HQ & warehouse),HP-1002,2018-10-01,1.0,₪28–35k
+HP-1116,Khaled Shehadeh,Merchandiser,Merchandising,Rishon LeZion (HQ & warehouse),HP-1115,2023-06-01,1.0,₪16–19k
+HP-1117,Galit Azoulay,Merchandiser,Merchandising,Rishon LeZion (HQ & warehouse),HP-1115,2024-01-01,1.0,₪16–19k
+HP-1118,Keren Azoulay,Merchandiser,Merchandising,Rishon LeZion (HQ & warehouse),HP-1115,2018-05-01,1.0,₪16–19k
+HP-1119,Inbal Mekonen,Office & Facilities Coordinator,Facilities,Rishon LeZion (HQ & warehouse),HP-1002,2011-06-01,0.5,₪14–16k
+HP-1120,Ksenia Belova,Maintenance Technician,Facilities,Rishon LeZion (HQ & warehouse),HP-1002,2013-09-01,1.0,₪14–16k
