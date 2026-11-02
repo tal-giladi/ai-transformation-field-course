@@ -13,3 +13,12 @@
   - [06 · The shadow-AI census](lessons/module-01/lesson-06.md)
   - [07 · The AI inventory from zero](lessons/module-01/lesson-07.md)
   - [Module 1 quiz](assessments/module-01-quiz.md)
+- **Module 2 — Discovery That Finds the Real Work**
+  - [08 · Stakeholder map before the first interview](lessons/module-02/lesson-01.md)
+  - [09 · The discovery interview](lessons/module-02/lesson-02.md)
+  - [10 · Process walk and task inventory](lessons/module-02/lesson-03.md)
+  - [11 · Measuring a baseline from exports](lessons/module-02/lesson-04.md)
+  - [12 · Profiling the data: is it AI-ready?](lessons/module-02/lesson-05.md)
+  - [13 · The readiness assessment as a deliverable](lessons/module-02/lesson-06.md)
+  - [14 · Writing a findings memo people believe](lessons/module-02/lesson-07.md)
+  - [Module 2 quiz](assessments/module-02-quiz.md)

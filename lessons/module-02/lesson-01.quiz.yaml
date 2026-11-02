@@ -1,0 +1,76 @@
+- id: q1
+  question: >-
+    You are building the stakeholder map for an AI program in customer service. The org chart shows
+    the support manager, the COO, the CFO and IT. The logistics mailbox shows support agents emailing
+    an import coordinator about single orders dozens of times a week. What do you do with the import
+    coordinator?
+  options:
+    - >-
+      Leave him off: he is outside the team in scope and has no say in the budget.
+    - >-
+      Note him under the logistics manager's row instead of giving him his own line.
+    - >-
+      Add him as a receiving-team stakeholder whose workload the program will change.
+    - >-
+      Interview him first, because frontline staff are always more honest than managers.
+  correct: 2
+  explanation: >-
+    The receiving team absorbs work a program moves or creates, and is usually missing from the org
+    chart's view of a project. He gets his own row; you still respect the order of introductions and
+    ask his manager before you sit with him.
+
+- id: q2
+  question: >-
+    Before meeting the support manager, you write his row. You know the CEO promised the board 40%
+    lower support cost, and nothing else about him. What goes in the "needs" sentence?
+  options:
+    - >-
+      "To learn", with the 40% promise recorded as the evidence behind his likely risk.
+    - >-
+      "Wants to protect his team at any cost", since managers resist headcount cuts.
+    - >-
+      "Wants AI to reduce the team's workload", since every support manager would.
+    - >-
+      "Opposes the program", so you can prepare arguments before the interview.
+  correct: 0
+  explanation: >-
+    The two-sentence test only works with evidence. You can infer what he risks from the board
+    minutes, but his need is unknown until you ask; a guessed need turns the interview into a search
+    for confirmation.
+
+- id: q3
+  question: >-
+    Your sponsor offers to send interview invitations and suggests you start with the CEO "to get
+    his vision first". The CEO has already told the board he wants a chatbot. What do you propose?
+  options:
+    - >-
+      Start with the CEO as suggested, because the sponsor knows the politics best.
+    - >-
+      See the holders of the facts first and the CEO once you have numbers to show him.
+    - >-
+      Skip the CEO entirely and send him the findings memo at the end of the month.
+    - >-
+      Interview the CEO and the support manager together to save a week of calendar time.
+  correct: 1
+  explanation: >-
+    Holders of facts before holders of opinions: meeting the CEO first gets you his announced answer
+    again and nothing to respond with. You keep him in the plan, one to one, once you can bring
+    evidence.
+
+- id: q4
+  question: >-
+    The shadow-AI census showed AI chat traffic from support machines. You plan to interview the
+    senior agent. What protection do you write on her row and offer at the start?
+  options:
+    - >-
+      A promise that no one in the team will lose their job because of the program.
+    - >-
+      A promise to keep everything she says entirely off the record, including the work itself.
+    - >-
+      A request that she name colleagues privately, so that the census is complete.
+    - >-
+      Findings reported about the work, never about her, under the interim rule's amnesty.
+  correct: 3
+  explanation: >-
+    Promise only what you control: how you report what she tells you. Job guarantees are not yours to
+    give, "off the record" makes her facts unusable, and asking for names ends honesty in the team.

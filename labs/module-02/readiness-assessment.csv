@@ -1,0 +1,2 @@
+id,dimension,observation,consequence,evidence,status,date,use_cases,owner,action,due
+R-03,Measurement,"KPI ""first response 2.0 h"" = mean working hours, Q3 email tickets received Sun-Thu; all tickets wall clock median 6.1 h",The board's baseline is not the customer's wait; any improvement claim measured against 2.0 h is meaningless,support/tickets.csv (n = 2319) + company/kpi-report-2026-q3.md footnote 1,contradicted,2026-11-18,"A, B, C",Samir Haddad,Report both definitions monthly from December,2026-12-10

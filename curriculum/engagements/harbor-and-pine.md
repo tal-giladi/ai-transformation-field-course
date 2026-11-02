@@ -260,3 +260,7 @@ Israeli reference, and Olga's unanswered request to IT (the DPA's cover note dat
     integration, not AI.
 17. **Container frequency.** `company/company-profile.md` says "roughly 2 a week"; `shipments.csv` and
     the profile's own schedule make ~3 a week (a claim contradicted by the data; used in 01.5).
+18. **Two order numbers.** WhatsApp tally `order_no` values are `HP-1xxxxx`: the web-store (StoreHub)
+    order number customers see on their confirmation SMS. The ERP and every export use `SO26…`. The
+    mapping lives only in StoreHub (no export in the data room), so WhatsApp cannot be joined to orders
+    until someone gets a StoreHub order export. Samir knows ("customers quote the number from the SMS").

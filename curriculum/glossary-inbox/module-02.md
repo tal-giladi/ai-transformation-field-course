@@ -1,0 +1,22 @@
+- **Two-sentence test** — For each stakeholder, one sentence on what they need to call the program a win and one on what they risk; if you cannot write both from evidence, you write "to learn" (lesson 02.1).
+- **Receiving team** — The people who absorb work a program moves or creates, often outside the team in scope and missing from the org chart's view of the project (lesson 02.1).
+- **Attribution rule** — The promise, made at the start of an interview and kept, about how what the person says will be reported (for example "the support team said", never their name) (lesson 02.2).
+- **Same-word test** — Asking each role what has happened when a shared word such as "resolved" or "ready" is true and what it excludes, then recording the competing readings and the one the work will use (lesson 02.2).
+- **Seen / said / hearsay** — The three marks on every fact in interview notes: you observed it or saw the record, the person told you, or the person told you about someone else (lesson 02.2).
+- **Observation protocol** — The agreed rules for watching real work: stated purpose, consent and the right to stop, a timed log, no personal data in the notes, a read-back (lesson 02.3).
+- **Paper versus practice** — The documented difference between the written process and the observed one, recorded as a finding with evidence and consequence (lesson 02.3).
+- **Walkable on paper** — A process whose steps, owner per step, trigger and volume can all be written down; one that is not is "not yet a candidate" for automation or AI (lesson 02.3).
+- **Task inventory** — One row per task as the worker does it, with trigger, volume, time, error or rework, variation and judgment, each number with its source (lesson 02.3).
+- **Definition card** — The rule that produced a baseline: start and stop events, population, clock, statistic, period, source and n, written before the number is computed (lesson 02.4).
+- **Triangulation** — Stating a quantity that no field records as a range from several independent signals, each with the reason it is high or low (lesson 02.4).
+- **Hand tally** — A count kept by people over a chosen period where no export exists; a sample with estimation bias, used with its limits stated (lesson 02.4).
+- **Time study** — A planned measurement of handling time per task (start and end of each item, minimum items per task and language), reported as medians, never per person (lesson 02.4).
+- **Label question** — Whether the outcome an AI use would learn from or be judged against was ever recorded, consistently, by someone who knew; if not, the verdict is "not yet" (lesson 02.5).
+- **Stale copy** — A copy of a dataset read more often than it is refreshed, such as an old catalogue on a shared drive (lesson 02.5).
+- **Chain of custody** — For a dataset: origin, the purpose it was collected for, whether that purpose covers the new use, where access is enforced, and the person who owns it today (lesson 02.5).
+- **Data profile** — A one-page check of whether a dataset can carry a named AI use: completeness, label, duplicates, currency, representativeness, joinability, chain of custody and a verdict (lesson 02.5).
+- **Readiness assessment** — A dated judgment, per use case, of whether the work, data, owners, people, governance, measurement and technology around it are ready, ending in proceed, phase or not yet (lesson 02.6).
+- **Verified / reported / contradicted** — The three evidence statuses in a readiness assessment: checked against data you hold or seen yourself, said but not checked, or contradicted by data you hold (lesson 02.6).
+- **Proceed / phase / not yet** — The three readiness verdicts, given per use case, each with the findings it turns on and what would change it (lesson 02.6).
+- **Answer first** — Opening a memo with the answer to the sponsor's question, the number that carries it and the recommended decision, in three sentences (lesson 02.7).
+- **Check log** — The appendix that lists each statement of an AI-drafted text, the source it was checked against and whether it was kept, corrected or removed (lesson 02.7).

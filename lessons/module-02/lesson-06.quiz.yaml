@@ -1,0 +1,76 @@
+- id: q1
+  question: >-
+    The IT manager told you in an interview that "nobody here puts customer data into ChatGPT". The
+    proxy log you analysed shows chatbot traffic from support machines, and six sent replies carry
+    chatbot phrasing. How do you mark the IT manager's statement in the readiness assessment?
+  options:
+    - >-
+      Verified, since the IT manager is responsible for the systems and knows them best.
+    - >-
+      Reported, since you have not watched anyone paste customer data yourself.
+    - >-
+      Contradicted, with the proxy log and the replies as the evidence that contradicts it.
+    - >-
+      Leave it out, to avoid embarrassing the IT manager in front of the steering group.
+  correct: 2
+  explanation: >-
+    Data you hold says otherwise, so the statement is contradicted, with the evidence named. Leaving
+    it out hides a finding; marking it verified on the speaker's authority is the over-claim that
+    destroys trust in every other label.
+
+- id: q2
+  question: >-
+    Your evidence supports a no-AI delay notice now, a draft-reply pilot only after conditions are met,
+    and no chatbot yet. The CEO wants one word for the board: ready or not. What do you write?
+  options:
+    - >-
+      A verdict per use case — proceed, phase, not yet — each with what would change it.
+    - >-
+      "Not ready", because two of the three ideas cannot start this quarter.
+    - >-
+      "Ready", because at least one use case can go ahead immediately.
+    - >-
+      A readiness score of 60%, averaged across the seven dimensions.
+  correct: 0
+  explanation: >-
+    Readiness is for a use, so verdicts differ by use case. One company-wide word either blocks the
+    use that is ready or approves the one that is not; an averaged score hides the single gate that
+    fails.
+
+- id: q3
+  question: >-
+    You found that the claim outcome is blank for 32% of damage claims. Which sentence belongs in the
+    findings log?
+  options:
+    - >-
+      "Claims data quality is poor across the board and the claims team should improve it soon."
+    - >-
+      "Outcome blank on 48 of 149 claims (19 Nov): no label for a decision aid; Samir to record from 1 Dec."
+    - >-
+      "Rina does not record her decisions consistently and needs additional training on the log."
+    - >-
+      "Claims are probably decided correctly, but the evidence we have is not complete enough to say."
+  correct: 1
+  explanation: >-
+    A finding is an observation with its number, source and date, plus the consequence for the
+    decision and an owner with an action. Vague quality statements give no action; naming an individual
+    turns a process gap into blame.
+
+- id: q4
+  question: >-
+    You give the chatbot idea a "not yet". The sponsor worries the CEO will hear it as "never" and go
+    around you to the vendor. What makes the verdict usable?
+  options:
+    - >-
+      Softening it to "proceed with caution" so the CEO does not feel blocked.
+    - >-
+      Removing the chatbot from the assessment, since the CEO asked for it, not discovery.
+    - >-
+      Adding more findings against the chatbot so the verdict looks overwhelming.
+    - >-
+      Stating what would change it: the delay fix measured and the vendor tested on your own data.
+  correct: 3
+  explanation: >-
+    "Not yet" with the evidence that would move it up is a plan the CEO can work toward; "not yet"
+    alone reads as a refusal. Softening it misstates the evidence, and piling on findings argues
+    instead of informing.

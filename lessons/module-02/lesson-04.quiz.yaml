@@ -1,0 +1,75 @@
+- id: q1
+  question: >-
+    The KPI report says average first response is 2.0 hours. From the export you get a wall-clock
+    median of 6.1 hours for all tickets. The CEO asks which number is right. What do you answer?
+  options:
+    - >-
+      The 6.1 hours: the KPI report used the wrong data and should be withdrawn.
+    - >-
+      Both, each with its definition, and agree which one the program is judged on.
+    - >-
+      The 2.0 hours, because it is the figure the board has already seen and accepted.
+    - >-
+      Neither until a consultant audits the helpdesk configuration end to end.
+  correct: 1
+  explanation: >-
+    Both reproduce from the same export under different definitions: working hours, email, business
+    days, mean versus wall clock, all channels, median. A baseline is a number plus its rule; the
+    program must be measured before and after by the same rule.
+
+- id: q2
+  question: >-
+    You need the share of "where is my order?" contacts. The category field gives 23%, the
+    order-status macro tag 31%, the phone menu 41% and the WhatsApp tally 44%. What do you report?
+  options:
+    - >-
+      23%, because the category field is the official classification in the helpdesk.
+    - >-
+      44%, because the WhatsApp tally is the most recent measurement you have.
+    - >-
+      A range of about a third to a half, with why each signal is high or low.
+    - >-
+      The average of the four signals, 35%, as a single neutral compromise figure.
+  correct: 2
+  explanation: >-
+    No field records the share directly; each signal is biased in a known direction (the category was
+    redefined in July, the macro is a lower bound, the menu and tally are customer- or agent-chosen).
+    A triangulated range with reasons is honest and usable; averaging biased signals is not.
+
+- id: q3
+  question: >-
+    To estimate a share by reading messages you code a sample. Which sample gives a usable estimate?
+  options:
+    - >-
+      100 messages chosen at random across all months, with a 95% interval of about ±9 points.
+    - >-
+      The first 100 rows of the export, since the export is already sorted by ticket number.
+    - >-
+      The 30 longest messages, because they contain the most information per message.
+    - >-
+      All messages from one busy week, because they reflect the real workload best.
+  correct: 0
+  explanation: >-
+    A random sample across the period is representative; its error is about
+    1.96 × sqrt(p(1−p)/n), roughly ±9 points for n = 100. The first rows, the longest messages or
+    one week are all biased toward one period or one kind of message.
+
+- id: q4
+  question: >-
+    The agents' WhatsApp tally shows 630 conversations in one October week, with minutes estimated in
+    multiples of five. Ronit wants to use it as the WhatsApp baseline in the business case. What do
+    you do?
+  options:
+    - >-
+      Use it as is: it is the only data available, so it is the best data available.
+    - >-
+      Drop it: a hand tally is anecdotal and cannot appear in a finance document.
+    - >-
+      Multiply the week by 52 and present the annual figure as measured volume.
+    - >-
+      Use it with its limits stated, and design a proper two-week measurement with timestamps.
+  correct: 3
+  explanation: >-
+    A tally is a sample with estimation bias: one manager-chosen week, rounded minutes, no timestamps.
+    It is evidence that the channel is large, labelled as such, and the reason to measure it properly
+    before anyone builds a business case on it.

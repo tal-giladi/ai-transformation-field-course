@@ -1,0 +1,2 @@
+dataset,named_use,file_or_system,owner_today,provenance,period,rows,refresh_cadence,read_cadence,check,result,numerator,denominator,verdict,note
+damage-claims-log,suggest a decision on damage claims,claims/damage-claims-log.csv (Google Sheet),Rina Azoulay,hand-kept,May-Oct 2026,149,when Rina updates it,per claim,label: decision recorded,blank,48,149,fail,31.4% blank even among claims opened by 30 Sep

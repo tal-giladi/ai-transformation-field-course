@@ -1,0 +1,78 @@
+- id: q1
+  question: >-
+    The time sheets put about 6,990 hours in the "email" bucket over six months, and the helpdesk
+    holds 2,529 tickets for the same period. A colleague proposes 2.8 hours per ticket as the
+    baseline for the business case. What do you say?
+  options:
+    - >-
+      Use it, but round it down to two hours to stay conservative in front of finance.
+    - >-
+      Use it only for Russian and Arabic tickets, which take agents the longest to write.
+    - >-
+      Reject the time sheets entirely, since coarse buckets cannot tell you anything useful.
+    - >-
+      Reject the division: the bucket holds other written work, so find where it goes and time it.
+  correct: 3
+  explanation: >-
+    An absurd number from a division means the numerator and denominator do not describe the same
+    work. Here the bucket also holds WhatsApp, chasing logistics and re-contacts; per-item time needs
+    observation or a time study, and the gap itself points to the missing channel.
+
+- id: q2
+  question: >-
+    The handbook says every damage claim is reviewed by QA within 48 hours. The org chart has no QA
+    role, the claims log has no QA column, and the median time to a decision is 8 days. A vendor
+    offers an AI that "suggests claim decisions". Where does this task stand?
+  options:
+    - >-
+      Not yet a candidate: map the decision step and start recording outcomes first.
+    - >-
+      A strong candidate, because an AI suggestion would replace the missing QA step.
+    - >-
+      A candidate only if the vendor can show accuracy above 90% at another retailer.
+    - >-
+      Out of scope, because damage claims belong to finance and not to customer service.
+  correct: 0
+  explanation: >-
+    A process you cannot walk on paper — steps, owner per step, trigger, volume, and here an outcome
+    record — is not yet a candidate. Automating it would amplify an undefined decision; the next
+    action is mapping it and recording outcomes.
+
+- id: q3
+  question: >-
+    You want to sit beside two agents for an hour each to see how replies are written. What belongs
+    in the observation protocol you agree beforehand?
+  options:
+    - >-
+      A screen recording, so you can time each step precisely afterwards.
+    - >-
+      Purpose stated, consent with the right to stop, no customer details, and a read-back.
+    - >-
+      A stopwatch per item, shared with the manager to compare the two agents' speed.
+    - >-
+      Observation without telling the agents in advance, so they behave as usual.
+  correct: 1
+  explanation: >-
+    Observation is a form of monitoring: transparency and proportionality keep it acceptable and keep
+    the trust you need later. Recording screens, comparing individuals or hiding the purpose all cost
+    more than they give.
+
+- id: q4
+  question: >-
+    One agent sends the "where is my order" macro as the handbook says; the senior agent skips it and
+    checks the logistics sheet. Both work the same queue. How do you record this in the task
+    inventory?
+  options:
+    - >-
+      Record only the handbook's version, because it is the approved process.
+    - >-
+      Record only the senior agent's version, because it gives the customer a better answer.
+    - >-
+      Record both as a paper-versus-practice finding, with the repeat contacts each produces.
+    - >-
+      Leave the task out until the manager decides which version is correct.
+  correct: 2
+  explanation: >-
+    Variation between people doing the same task is itself a finding. Writing both with their
+    consequences — the macro creates repeat contacts — shows where the official process fails and
+    what the best workers already do instead.

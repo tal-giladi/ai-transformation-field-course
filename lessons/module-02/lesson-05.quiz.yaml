@@ -1,0 +1,78 @@
+- id: q1
+  question: >-
+    The CEO likes the idea of an AI that suggests decisions on damage claims. The claims log has 149
+    claims; the decision column is blank for 48 of them and no reason is ever recorded. What is your
+    data verdict for this use?
+  options:
+    - >-
+      Usable: 101 decided claims are enough for a vendor to fine-tune a model on.
+    - >-
+      Not yet: start recording a decision and reason on every claim, with an owner and a date.
+    - >-
+      Usable after filling the 48 blanks with "rejected", the most cautious assumption.
+    - >-
+      Usable if the vendor's model was already trained on other retailers' claims.
+  correct: 1
+  explanation: >-
+    Without a consistently recorded outcome there is nothing to learn from or test against; guessing
+    blanks invents labels. The fix is an outcome-recording routine with an owner and a start date,
+    then revisit the use.
+
+- id: q2
+  question: >-
+    For a draft-reply pilot you want an outcome for each past reply. The helpdesk marks 100% of
+    replied tickets "resolved". Which outcome do you build from the data?
+  options:
+    - >-
+      The CSAT rating, since customers report their own satisfaction directly.
+    - >-
+      The "resolved" status, because the helpdesk sets it consistently for every ticket.
+    - >-
+      Whether the same customer wrote again about the same order within 14 days.
+    - >-
+      The time the agent spent on the ticket, since faster replies mean easier cases.
+  correct: 2
+  explanation: >-
+    "Resolved" is set on reply, so it records an action, not an outcome; CSAT covers only a fifth of
+    tickets. A follow-up from the same customer about the same order, after normalising order numbers,
+    is a definable outcome you can compute for every ticket with an order.
+
+- id: q3
+  question: >-
+    A vendor's demo, "built on your own catalogue", quotes a sofa at ₪4,290. The ERP price is ₪4,990;
+    a 2023 copy of the catalogue on the shared drive says ₪4,290. What does the profile record?
+  options:
+    - >-
+      The demo read a stale copy; product answers must read the ERP, and the copies need an owner.
+    - >-
+      The ERP price is probably out of date, since the vendor built its demo very recently.
+    - >-
+      A minor rounding issue that the vendor will correct during implementation.
+    - >-
+      Nothing: catalogue data is public, so its quality is not part of AI readiness.
+  correct: 0
+  explanation: >-
+    A copy read more often than it is refreshed is stale. The demo's price matches the 2023 copy,
+    which also lists discontinued items; any product-answer use must read the published source, and the
+    old copies need an owner and a deletion date.
+
+- id: q4
+  question: >-
+    Avi, the IT manager, asks whether the company may use past customer emails to build and test a
+    draft-reply tool. The privacy notice lists answering questions and complaints as a purpose. What do
+    you do?
+  options:
+    - >-
+      Answer yes: the emails were sent to the company, so the company may use them for any purpose.
+    - >-
+      Answer no: Israeli privacy law forbids using customer data for AI under any circumstances.
+    - >-
+      Proceed quietly with a small sample, since a test is not really a new purpose.
+    - >-
+      Write the question with the facts for counsel or the DPO, and minimise the data meanwhile.
+  correct: 3
+  explanation: >-
+    Whether a new use fits the purposes the data was collected for is a legal judgement under the
+    Privacy Protection Law and its Amendment 13, not yours. Your job is a precise question with the
+    facts — purpose stated, pseudonymised, approved tool, storage location — and minimisation until it is
+    answered.

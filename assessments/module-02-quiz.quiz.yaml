@@ -1,0 +1,193 @@
+- id: q1
+  question: >-
+    Your sponsor offers to book interviews and proposes the org chart's department heads, starting
+    with the CEO. The data room shows support agents emailing a logistics coordinator about single
+    orders all day, and a hand-kept container sheet owned by the logistics manager. How do you change
+    the list?
+  options:
+    - >-
+      Keep the list as proposed, since department heads can speak for their teams' work.
+    - >-
+      Replace the managers with frontline staff, who are always more candid than managers.
+    - >-
+      Add the receiving team and the file keepers, and see the CEO once you hold the facts.
+    - >-
+      Postpone all interviews until the data analysis is finished, to avoid bias.
+  correct: 2
+  explanation: >-
+    The map must include the people the work touches beyond the org chart — the receiving team and
+    the keepers of hand-made files — and the order should put holders of facts before holders of
+    opinions. Managers stay on the list; they hold definitions and permissions.
+
+- id: q2
+  question: >-
+    In an interview the support manager says "our resolution rate is 100%". Customer satisfaction is
+    63%. Which question gets you closest to the truth?
+  options:
+    - >-
+      "When a ticket is marked resolved, what has happened, and what does it not mean?"
+    - >-
+      "Do you think the resolution rate is a good KPI for a team like yours?"
+    - >-
+      "Would an AI assistant help the team keep the resolution rate at 100%?"
+    - >-
+      "Can you send me the resolution figures for the last two years by month?"
+  correct: 0
+  explanation: >-
+    The same-word test asks what has happened when the word is true and what it excludes. Here it
+    reveals that "resolved" is set when a reply is sent, which explains the gap with satisfaction.
+
+- id: q3
+  question: >-
+    During a sit-in you see one agent send the "where is my order" macro as the handbook says, while
+    the senior agent skips it and checks the logistics sheet. Customers who got the macro write again.
+    What goes into the task inventory?
+  options:
+    - >-
+      The handbook's version only, since it is the approved and documented process.
+    - >-
+      A note that the first agent needs retraining on how to answer delivery questions.
+    - >-
+      Nothing yet: wait until the manager states which method is officially correct.
+    - >-
+      Both methods as a paper-versus-practice finding, with the repeat contacts the macro causes.
+  correct: 3
+  explanation: >-
+    Differences between the written and the observed process are findings, with their evidence and
+    consequence. Turning them into individual retraining blames a person for a process that produces
+    repeat contacts.
+
+- id: q4
+  question: >-
+    The CFO asks for the first-response baseline. The KPI report says 2.0 hours; your export gives a
+    wall-clock median of 6.1 hours; the phone log shows an 82-second median wait. What do you give her?
+  options:
+    - >-
+      The 2.0 hours, since the board has already seen it and changing it causes confusion.
+    - >-
+      Each figure with its definition card, and agreement on which one the program is judged on.
+    - >-
+      The 6.1 hours only, since the KPI report's definition is wrong and should be retired.
+    - >-
+      An average of the three figures, converted to hours, as one blended baseline.
+  correct: 1
+  explanation: >-
+    A baseline is a number plus the rule that produced it. The KPI reproduces under its narrow
+    definition; the customer's wait is different; the phone is a different event. Show them with
+    definitions and measure any change by the same rule.
+
+- id: q5
+  question: >-
+    The agents tallied 630 WhatsApp conversations by hand in one October week, with minutes estimated
+    in multiples of five; the helpdesk received 94 tickets that week. How do you use the tally?
+  options:
+    - >-
+      As evidence that WhatsApp is the main written channel, labelled as a one-week estimate.
+    - >-
+      As the measured monthly volume, multiplied up and used directly in the business case.
+    - >-
+      Not at all, because a hand tally cannot be checked against any system export.
+    - >-
+      As proof that the helpdesk export is wrong and should be removed from the baselines.
+  correct: 0
+  explanation: >-
+    A tally is a sample with estimation bias: one manager-chosen week, rounded minutes, no timestamps.
+    It is strong evidence that the channel exists and is large, and the reason to design a proper
+    measurement, but it is not a measured volume.
+
+- id: q6
+  question: >-
+    A vendor proposes an AI that suggests decisions on damage claims. The claims log has no decision
+    for 32% of claims and no reason for any decision. What is your data verdict for this use?
+  options:
+    - >-
+      Usable, because the remaining 68% of claims is a large enough sample to train on.
+    - >-
+      Usable after filling the missing decisions with the most common outcome in the log.
+    - >-
+      Not yet: no reliable label; start recording decision and reason on every claim first.
+    - >-
+      Usable if the vendor has trained its model on other retailers' claims data before.
+  correct: 2
+  explanation: >-
+    Without a consistently recorded outcome there is nothing to learn from or evaluate against;
+    imputing blanks invents labels. The fix is an outcome-recording routine with an owner and a start
+    date.
+
+- id: q7
+  question: >-
+    The IT manager asks whether past customer emails may be used to build and test a draft-reply tool.
+    The privacy notice lists answering questions as a purpose. What do you do?
+  options:
+    - >-
+      Approve it, because the customers wrote to the company and the use is internal.
+    - >-
+      Refuse it, because Israeli privacy law does not allow customer data in AI systems.
+    - >-
+      Approve it for a small test only, since tests are not a new purpose under the law.
+    - >-
+      Write the question with the facts for counsel or the DPO, and minimise the data meanwhile.
+  correct: 3
+  explanation: >-
+    Whether a new use fits the purposes the data was collected for is a legal judgement under the
+    Privacy Protection Law and Amendment 13. Your job is a precise question — purpose,
+    pseudonymisation, approved tool, storage location — and minimisation until it is answered.
+
+- id: q8
+  question: >-
+    Your readiness assessment supports a no-AI delay notice now, a draft-reply pilot in shadow mode
+    from February, and no chatbot yet. The CEO wants a single "ready" or "not ready". What do you
+    present?
+  options:
+    - >-
+      "Not ready", because most of the AI ideas cannot start this quarter.
+    - >-
+      A verdict per use case, each with the findings it turns on and what would change it.
+    - >-
+      A readiness score averaged across the seven dimensions, to keep it simple.
+    - >-
+      "Ready", because at least one of the use cases can start immediately.
+  correct: 1
+  explanation: >-
+    Readiness is for a use. A verdict per use case — proceed, phase, not yet, with what would change
+    it — lets the ready work start and gives the not-ready work a route; one word or a score hides the
+    gate that fails.
+
+- id: q9
+  question: >-
+    An AI-drafted memo says the median first response is 2 hours and cites a "Gartner 2025 study of
+    400 retailers". The KPI footnote defines 2.0 hours as a working-hours mean for email only, and
+    nobody can find the study. What does your check log record?
+  options:
+    - >-
+      Both kept, with a note that AI-drafted text may contain small inaccuracies.
+    - >-
+      The response time kept and the study removed, since only citations need checking.
+    - >-
+      The response time corrected with its definition, and the study removed unless produced.
+    - >-
+      Both removed, and the memo withdrawn because AI was used to draft it.
+  correct: 2
+  explanation: >-
+    Check every number, definition and citation against its source: the 2.0 hours is a mean under a
+    narrow definition, not a median, and a citation nobody can open stays out. Using AI to draft is
+    fine; sending unchecked statements is not.
+
+- id: q10
+  question: >-
+    Your findings memo must report that support agents pasted customer emails into free chatbots to
+    reply faster in Russian and Arabic. You promised the team no names. Which sentence do you write?
+  options:
+    - >-
+      "Two named agents misused ChatGPT with customer data and should be formally warned."
+    - >-
+      "Customer emails went into free chatbots; six replies show traces; we need an approved tool."
+    - >-
+      "Support staff showed weak compliance with IT policy over several months this year."
+    - >-
+      Nothing: the finding would embarrass the support team in front of the CEO and board.
+  correct: 1
+  explanation: >-
+    Report the practice, not the people, and translate twice: the obligation (customer data left
+    approved systems) and the consequence (without an approved tool the workaround returns). Naming or
+    blaming individuals breaks your promise and loses the pilot's best allies.

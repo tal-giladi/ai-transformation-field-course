@@ -23,7 +23,7 @@ const harbor = {
   overclaimThreshold: 2,
   items: [
     {
-      id: 'samirWismo', kind: 'interview', source: 'Samir Haddad, customer service manager', date: '4 Nov 2026', area: 'Value',
+      id: 'samirWismo', kind: 'interview', source: 'Samir Haddad, customer service manager', date: '10 Nov 2026', area: 'Value',
       text: '“About a third of our contacts are customers asking where their order is.”',
       truth: 'verified', by: ['tickets'], why: 'Your own profile of the ticket export shows 38%, once the old and new delivery categories are combined. Reported by Samir, verified by the data.',
     },
@@ -36,11 +36,11 @@ const harbor = {
       id: 'kpi', kind: 'dashboard', source: 'Q3 KPI report (customer service with Finance BI)', date: '6 Oct 2026', area: 'Process',
       text: 'Average first response 2.0 hours, target met; resolution rate 100%.',
       truth: 'contradicted', by: ['times'], why: 'The report counts business hours, email only, weekdays only, and “resolved” means a reply was sent. Your export says otherwise.',
-      challenge: 'Ronit: “Your report lists ‘first response 2 hours’ as verified. Your own export says a median of 6.5 hours. Which one is true?”',
+      challenge: 'Ronit: “Your report lists ‘first response 2 hours’ as verified. Your own export says a median of 6.1 hours. Which one is true?”',
     },
     {
       id: 'times', kind: 'export', source: 'You: same export, all channels and all days', date: '7 Nov 2026', area: 'Process',
-      text: 'Median first response 6.5 hours. 22% of tickets marked “resolved” are followed by a new ticket from the same customer about the same order within 14 days.',
+      text: 'Median first response 6.1 hours (clock time, all channels; 6.5 in Q3 alone). 23% of tickets marked “resolved” are followed by a new ticket from the same customer about the same order within 14 days.',
       truth: 'verified', why: 'Computed from timestamps in a full export.',
     },
     {
@@ -51,7 +51,7 @@ const harbor = {
     },
     {
       id: 'claims', kind: 'export', source: 'You: profile of damage-claims-log.csv (kept by Rina)', date: '7 Nov 2026', area: 'Data',
-      text: 'Outcome missing for 35% of claims. No QA field. The org chart has no QA role.',
+      text: 'Outcome missing for 32% of claims. No QA field. The org chart has no QA role.',
       truth: 'verified', why: 'Your own profile of the only record of claim outcomes. It also means these outcomes cannot be used as training labels yet.',
     },
     {
@@ -61,21 +61,21 @@ const harbor = {
       challenge: 'Ronit: “Verified by whom? The 70% was measured at other clients, on US English retail.”',
     },
     {
-      id: 'avi', kind: 'interview', source: 'Avi Mizrahi, IT manager', date: '5 Nov 2026', area: 'Technology and security',
+      id: 'avi', kind: 'interview', source: 'Avi Mizrahi, IT manager', date: '11 Nov 2026', area: 'Technology and security',
       text: '“Nobody here puts customer data into ChatGPT. It is against policy.”',
       truth: 'contradicted', by: ['proxy'], why: 'The proxy log shows AI chat sites on seven support machines. Avi believes the policy; the log shows practice.',
       challenge: 'Yoav: “You list Avi’s statement as verified, and two pages later the proxy log shows ChatGPT on seven support machines?”',
     },
     {
       id: 'proxy', kind: 'export', source: 'You: profile of proxy-log.csv (October)', date: '6 Nov 2026', area: 'Technology and security',
-      text: 'chatgpt.com and gemini visited from 11 machines, 7 of them in Support. Logged, not blocked.',
+      text: 'chatgpt.com and chat.openai.com: 4 Customer Service users (160 requests), plus 2 in Marketing and 1 in Purchasing; Gemini 2 more. Logged, not blocked.',
       truth: 'verified', why: 'Your own analysis of the log.',
     },
     {
-      id: 'olga', kind: 'interview', source: 'Senior support agent (not attributed)', date: '5 Nov 2026', area: 'People',
-      text: '“I draft the Russian replies in ChatGPT on my phone. It is much faster.”',
-      truth: 'reported', why: 'Consistent with the proxy log, but phones are not in the log and you did not see it. Report it, unattributed, as consistent with what the log shows.',
-      challenge: 'Avi: “How did you verify what someone does on her own phone? And who is this?” The room starts guessing names.',
+      id: 'olga', kind: 'interview', source: 'Senior support agent (not attributed)', date: '11 Nov 2026', area: 'People',
+      text: '“I draft the Russian replies in ChatGPT, on my own Google login. It is much faster.”',
+      truth: 'reported', why: 'Consistent with the proxy log, but the log shows a pseudonymised user, not her, and you did not see it. Report it, unattributed, as consistent with what the log shows.',
+      challenge: 'Avi: “How did you verify that? And who is this?” The room starts guessing names.',
     },
     {
       id: 'eta', kind: 'email', source: 'Tamar Shalev to the logistics mailbox', date: '28 Oct 2026', area: 'Process',
@@ -84,11 +84,11 @@ const harbor = {
     },
     {
       id: 'storehub', kind: 'screen', source: 'StoreHub delivery settings (you, with the web manager)', date: '6 Nov 2026', area: 'Data',
-      text: 'Lead-time table: Vietnam 45 days, China 40, Turkey 21, Italy 28. Last edited 14 February 2023.',
+      text: 'Lead-time table: Vietnam 42 days, China 38, Turkey 21, Italy 28. Last edited 14 February 2023.',
       truth: 'verified', why: 'You saw the settings yourself. This is where the promised date comes from.',
     },
     {
-      id: 'paperwork', kind: 'interview', source: 'Samir Haddad, customer service manager', date: '4 Nov 2026', area: 'People',
+      id: 'paperwork', kind: 'interview', source: 'Samir Haddad, customer service manager', date: '10 Nov 2026', area: 'People',
       text: '“My agents spend about half their day on damage-claim paperwork.”',
       truth: 'reported', why: 'Plausible, but nothing measures it: the timesheets have three coarse buckets and the claims log records no time. Report it and say how you would measure it.',
       challenge: 'Ronit: “Half the day on paperwork: where is that measured? The timesheets have three buckets.”',
@@ -99,7 +99,7 @@ const harbor = {
       truth: 'verified', why: 'Your own analysis. The buckets are coarse, so say what they can and cannot show.',
     },
     {
-      id: 'dana', kind: 'interview', source: 'Dana Katz, HR manager', date: '6 Nov 2026', area: 'Governance',
+      id: 'dana', kind: 'interview', source: 'Dana Katz, HR manager', date: '12 Nov 2026', area: 'Governance',
       text: '“We do not use any AI in hiring.”',
       truth: 'contradicted', by: ['peoplewise'], why: 'The PeopleWise update switched an AI candidate match on in March. Dana did not know.',
       challenge: 'Dana, in the meeting: “I told you we don’t use AI.” Avi puts the PeopleWise settings on the screen: the AI match is on.',
@@ -110,10 +110,10 @@ const harbor = {
       truth: 'verified', why: 'The vendor’s note alone would be reported; you checked the setting yourself with the owner.',
     },
     {
-      id: 'deskly', kind: 'vendor', source: 'Deskly AI add-on terms of service', date: 'Jan 2026', area: 'Technology and security',
+      id: 'deskly', kind: 'vendor', source: 'Email from Deskly’s account manager to Avi', date: '3 Nov 2026', area: 'Technology and security',
       text: '“Customer content is never used to train our models and is deleted after 90 days.”',
-      truth: 'reported', why: 'The vendor’s terms. Nobody has looked at the admin settings or a deletion log. Report it, and add the check.',
-      challenge: 'Avi: “The terms say so. Did anyone look at the settings?” Nobody did.',
+      truth: 'contradicted', why: 'The signed add-on terms say otherwise: §3.2 lets Deskly train on de-identified content unless you opt out in writing, and §3.4 keeps prompts and outputs 24 months in analytics. A sales email does not change a contract.',
+      challenge: 'Ronit: “Which document binds us, the email or the terms we signed?” Nobody had compared them.',
     },
   ],
   verdicts: [

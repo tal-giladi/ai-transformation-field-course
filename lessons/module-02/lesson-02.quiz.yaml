@@ -1,0 +1,93 @@
+- id: q1
+  question: >-
+    You ask the support manager how fast the team answers. He says "two hours, it's in the KPI
+    report". What is your next question?
+  options:
+    - >-
+      "Is that fast enough for customers, in your opinion, or should it be lower?"
+    - >-
+      "What exactly is counted: which channels, which days and hours, average or median?"
+    - >-
+      "Could an AI assistant bring that down to minutes for most of the tickets?"
+    - >-
+      "Can you send me the KPI report so I can include the figure in my findings?"
+  correct: 1
+  explanation: >-
+    Every number in an interview is a claim until you know its definition and source. Asking what is
+    counted turns "two hours" into business hours, email only, business days, average, which you can
+    then re-measure from the export.
+
+- id: q2
+  question: >-
+    The KPI report shows a 100% resolution rate, yet CSAT is 63%. In the interview with the support
+    manager, which question runs the same-word test?
+  options:
+    - >-
+      "Why do you think customers are unhappy when every single ticket gets resolved?"
+    - >-
+      "Would you agree that the resolution rate is not a very useful measure?"
+    - >-
+      "When a ticket is 'resolved', what has happened, and what does it not mean?"
+    - >-
+      "How many tickets does each agent resolve per day on a normal day?"
+  correct: 2
+  explanation: >-
+    The same-word test asks what has happened when the word is true and what it excludes. Here it
+    reveals that "resolved" means a reply was sent, not that the customer's problem was solved.
+
+- id: q3
+  question: >-
+    The senior agent tells you she drafts Russian replies in a free chatbot, pasting the customer's
+    email, and adds "others do it too". She refuses to say who. What do you do?
+  options:
+    - >-
+      Accept it, note the practice without names, and ask the whole team later under the amnesty.
+    - >-
+      Explain that you need names for the census and promise they will stay confidential.
+    - >-
+      Tell her the practice breaks privacy law and that she must stop before you continue.
+    - >-
+      Ask her manager after the interview which agents work in Russian and Arabic queues.
+  correct: 0
+  explanation: >-
+    Pressing for names, directly or through her manager, ends honesty in the team. Record the practice,
+    not the person, and find out how widespread it is by asking the team together under the interim
+    rule's amnesty.
+
+- id: q4
+  question: >-
+    You were given the helpdesk export and the phone log. In interviews, agents mention "the phones"
+    several times but you are not sure what they mean. What should your interview guide have
+    included?
+  options:
+    - >-
+      A question asking agents to estimate their own productivity per channel.
+    - >-
+      A question about how customers actually reach the team and how many contacts a day.
+    - >-
+      A request to the IT manager for admin access to every communication system.
+    - >-
+      Nothing more: what is not in the exports is out of scope for an AI programme.
+  correct: 1
+  explanation: >-
+    Work often lives outside the systems you were handed. Asking every frontline person how customers
+    reach them, and how many a day, lets you compare their answer with the system's count and find the
+    channel nobody reports.
+
+- id: q5
+  question: >-
+    Your interview transcript with the logistics manager shows your lines are longer than hers, and
+    you explained twice how AI could predict container delays. What does the coach most likely flag?
+  options:
+    - >-
+      That you should have prepared slides to make the AI explanation clearer.
+    - >-
+      That you were right to explain, because she distrusts head-office projects.
+    - >-
+      That the interview was too short to judge and should be repeated as a workshop.
+    - >-
+      That you pitched AI and talked more than she did, so you heard your own opinion back.
+  correct: 3
+  explanation: >-
+    Pitching AI and out-talking the interviewee are the classic discovery habits to drop. Ask about how
+    the work flows — for example where ETA updates go after they reach her — and let her talk.

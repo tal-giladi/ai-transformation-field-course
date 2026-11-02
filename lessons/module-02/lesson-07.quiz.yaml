@@ -1,0 +1,78 @@
+- id: q1
+  question: >-
+    An AI-drafted memo says "only 18% of tickets are delivery-status questions". You check: the
+    category "Delivery status" has 463 of 2,529 tickets, but it exists only since 1 July. What goes
+    in your check log?
+  options:
+    - >-
+      Kept: the division is correct and the source file is named in the memo.
+    - >-
+      Removed: category fields are always unreliable, so no share can be stated.
+    - >-
+      Corrected: the right arithmetic on the wrong population; the triangulated share is 31–44%.
+    - >-
+      Kept with a footnote that the figure may be slightly low for the summer months.
+  correct: 2
+  explanation: >-
+    The most common AI-draft error is correct arithmetic over the wrong population. Check what was
+    counted, not only the division; replace it with the share your baselines support and say how it was
+    measured.
+
+- id: q2
+  question: >-
+    The draft cites "a Gartner 2025 study of 400 retailers" for a 65–70% chatbot resolution rate. No
+    document is attached and you cannot find the study. What do you do?
+  options:
+    - >-
+      Remove it unless the author produces the document; a citation nobody can open stays out.
+    - >-
+      Keep it, since Gartner is a reputable firm and the figure sounds plausible for retail.
+    - >-
+      Keep it but soften it to "industry research suggests" without naming the source.
+    - >-
+      Replace it with the vendor's 70% deflection figure, which you can at least open and read.
+  correct: 0
+  explanation: >-
+    Generative AI confabulates sources; Mata v. Avianca is the public example. Whoever sends the memo
+    owns every citation in it. Softening a fabricated source hides it, and a vendor figure measured
+    elsewhere does not replace it.
+
+- id: q3
+  question: >-
+    You are writing the findings memo for your sponsor. Which opening paragraph follows the method?
+  options:
+    - >-
+      "This memo describes the discovery work done in November: nine interviews, two observations and
+      six exports, followed by the findings."
+    - >-
+      "Customers are angry because the promised date is never updated; two in five contacts ask
+      where their order is. Fix the promise first."
+    - >-
+      "Customer service at Harbor & Pine faces many challenges, and AI offers significant
+      opportunities across several areas of the business."
+    - >-
+      "Before presenting the findings, it is important to explain the limitations of the data and
+      the definitions used in this memo."
+  correct: 1
+  explanation: >-
+    Answer first: the answer to the sponsor's question, the number that carries it, and the decision
+    you recommend, in three sentences. Method, background and limitations come after or in the
+    appendix.
+
+- id: q4
+  question: >-
+    One finding is that support agents pasted customer emails into free chatbots. How do you write it?
+  options:
+    - >-
+      "Agents Olga and Lina misused ChatGPT with customer data and should receive formal warnings."
+    - >-
+      Leave it out, because it could make the support team look bad in front of the CEO.
+    - >-
+      "Support staff broke the IT policy repeatedly, showing weak compliance in the team."
+    - >-
+      As practice, not people: chatbot traces in six replies, the interim rule, and the cost of no tool.
+  correct: 3
+  explanation: >-
+    Findings are about the work. Translate twice — the obligation (customer data left approved systems)
+    and the operating consequence (replies slowed once the rule stopped it) — and never name individuals
+    next to a workaround.

@@ -72,6 +72,8 @@ WHAT YOU HIDE OR PLAY DOWN, AND WHAT UNLOCKS IT
   WhatsApp conversations on a sheet: about 630 that week (Deskly got 94 tickets that week). You
   didn't mention it because "everyone knows we live on WhatsApp" and the report template has no line
   for it.
+  On WhatsApp customers quote the order number from their confirmation SMS (HP-1…, the web store's
+  number); agents look it up in StoreHub to find the ERP number (SO26…). Nobody exports that mapping.
   UNLOCK: if asked how customers actually reach the team, which channels exist, or why time sheets show
   so much "email" time. Then you mention the tally sheet and offer it.
 - The handbook says damage claims are reviewed by QA within 48 hours. There has been no QA person since
