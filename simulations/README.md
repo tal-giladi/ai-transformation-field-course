@@ -168,7 +168,7 @@ Each `model.js` exports `validateScenario(preset)`; the field lists are at the t
   `terms` answers accepts / refuses with a note, price, `later`), `pocMetrics`, `terms` (must-have or not),
   `beforeSigning` (right or wrong), `expert`. The validator checks that the evidence ranks the expert's pick
   first and the demos do not, and that the pick accepts every must-have. `galil`: ScribeWave, Kol Refua,
-  MedNote for Clinix, Vocalis Health (expert pick). Never state a legal requirement: privacy questions go to
+  MedNote for Notara, Rishma Health (expert pick). Never state a legal requirement: privacy questions go to
   the DPO and counsel.
 - `operating-model-scaler`: `units` (maturity 1–3, `appetite` for building outside the process, `pilots` with
   theme, risk tier, `weak`, `dependsOn`), `arrivals`, `money`, `build`, `review`, `shadow`, `risk`,

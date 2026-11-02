@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    The board was told a scribe saves two hours a day per doctor. Galil's audit log shows 112 minutes of
+    documentation per doctor-day in total. What do you put in the case?
+  options:
+    - >-
+      Two hours, because it is the vendor's published figure and the board already accepted it.
+    - >-
+      112 minutes saved, since the scribe will take over all of a doctor's documentation.
+    - >-
+      No time figure at all until the scribe has been running for a full year.
+    - >-
+      A planning assumption of about 30 minutes, labelled assumed, to be measured in the pilot.
+  correct: 3
+  explanation: >-
+    A claim larger than the whole measured activity cannot be right for Galil. An independent evaluation
+    elsewhere suggests 40 to 70 minutes; a cautious planning figure, clearly labelled as an assumption and
+    tested in the pilot, is what survives the CFO.
+
+- id: q2
+  question: >-
+    Thirty minutes a day across Galil's doctors is about 600 doctor-hours a month, ₪198,000 at ₪330 an
+    hour. How does that appear in the case?
+  options:
+    - >-
+      As capacity on its own line; cash only if it fills or keeps posts without locums.
+    - >-
+      As a ₪2.4M annual saving, since the hourly cost is the CFO's own figure.
+    - >-
+      As half that amount, to be conservative about what doctors will really save.
+    - >-
+      Not at all, because time saved for clinicians cannot be valued in money.
+  correct: 0
+  explanation: >-
+    Galil is paid per registered patient and doctors' pay does not change, so freed time is capacity. It
+    turns into money only through a named mechanism, here fewer locum-covered vacancies. Halving the
+    number keeps the same mistake; refusing to value time hides a real benefit.
+
+- id: q3
+  question: >-
+    Notara's language field defaults to Hebrew and misled the KPI report. Where does the fix belong in
+    your opportunity map?
+  options:
+    - >-
+      In the scribe's requirements, so the vendor detects the language automatically.
+    - >-
+      Out of scope, because the engagement is about selecting a vendor.
+    - >-
+      As a plain configuration change with no AI, owned by the CIO.
+    - >-
+      In the risk register, as a data-quality risk for the proof of concept.
+  correct: 2
+  explanation: >-
+    Some of the best findings need no AI: making the field required or filling it from the appointment
+    system fixes the number every later decision depends on, at almost no cost. Waiting for a vendor to
+    fix it, or calling it out of scope, leaves the KPI wrong.
+
+- id: q4
+  question: >-
+    The quote has 120 seats, including 42 nurses. Nobody measured what nurses would use a scribe for.
+    How do you screen the nurses' scribe?
+  options:
+    - >-
+      Go, because buying all seats at once earns the volume discount.
+    - >-
+      Stop for now, and evaluate it separately once nurses' need is measured.
+    - >-
+      Go with a condition that nurses use it only for interpreting visits.
+    - >-
+      Merge it with the doctors' scribe, since the vendor treats every seat alike.
+  correct: 1
+  explanation: >-
+    The ask was "every doctor"; the nurses' seats came from the vendor's quote. With no measured need and
+    the Head of Nursing expecting the gain to come indirectly through doctors' visits, it is a separate
+    decision for later, not a line in this purchase.
+
+- id: q5
+  question: >-
+    In your private meeting the CEO asks why you won't recommend signing before the discount ends.
+    What do you open with?
+  options:
+    - >-
+      That the demo she liked was misleading and the board was given wrong figures.
+    - >-
+      That the proof of concept is best practice and every consultant would insist on it.
+    - >-
+      Her own goal for July, then Galil's language finding, then which plan the quote is for.
+    - >-
+      That the CFO and counsel both oppose the purchase, so it cannot pass the steering group.
+  correct: 2
+  explanation: >-
+    Starting from what she needs (doctors home at six, fewer resignations) and Galil's own facts lets her
+    own the conclusion. Attacking the demo or invoking other people's opposition makes her defend the
+    decision she has already announced.

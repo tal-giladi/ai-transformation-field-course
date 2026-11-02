@@ -1,0 +1,41 @@
+vendor,term_id,term,must_have,reply,note
+ScribeWave,noTraining,"No use of our audio, transcripts or notes to train or improve models, de-identified included",must,accepts,"On the enterprise plan, 18% more."
+ScribeWave,retention,Audio deleted within 30 days of the note being signed,must,refuses,90 days of audio is the minimum.
+ScribeWave,location,"Stored and processed in Israel, or where Galil's DPO approves in writing",must,refuses,EU or US only.
+ScribeWave,subprocessors,"Full sub-processor list, notice before changes, the right to object",must,accepts,List published; 30 days' notice.
+ScribeWave,exit,"Data returned in a standard format, certified deletion, six months' transition",must,accepts,Export in a standard format.
+ScribeWave,modelChange,Notice before model changes and a re-run on Galil's test set first,must,refuses,Models update continuously.
+ScribeWave,safety,A named clinical safety officer and incident reporting to Galil within an agreed time,must,accepts,A named clinical safety contact.
+ScribeWave,audit,Independent security certification and the right to audit,nice,accepts,"The audit report, no on-site audit."
+ScribeWave,priceLock,Price fixed for three years,nice,refuses,Annual list-price changes.
+ScribeWave,price,Price (as quoted in the RFP answer),info,,"About ₪1,150 per clinician a month (standard plan); enterprise plan 18% more."
+Kol Refua,noTraining,"No use of our audio, transcripts or notes to train or improve models, de-identified included",must,accepts,Already in the agreement.
+Kol Refua,retention,Audio deleted within 30 days of the note being signed,must,accepts,Audio deleted after 7 days.
+Kol Refua,location,"Stored and processed in Israel, or where Galil's DPO approves in writing",must,refuses,"Not until it replaces the US speech service, ""next year""."
+Kol Refua,subprocessors,"Full sub-processor list, notice before changes, the right to object",must,accepts,Will add notice and objection.
+Kol Refua,exit,"Data returned in a standard format, certified deletion, six months' transition",must,accepts,"Export, but no escrow; 18 months of funding left."
+Kol Refua,modelChange,Notice before model changes and a re-run on Galil's test set first,must,accepts,Will notify.
+Kol Refua,safety,A named clinical safety officer and incident reporting to Galil within an agreed time,must,accepts,Will appoint someone.
+Kol Refua,audit,Independent security certification and the right to audit,nice,refuses,No certification yet.
+Kol Refua,priceLock,Price fixed for three years,nice,accepts,Three years fixed.
+Kol Refua,price,Price (as quoted in the RFP answer),info,,About ₪600 per clinician a month.
+MedNote for Notara,noTraining,"No use of our audio, transcripts or notes to train or improve models, de-identified included",must,refuses,"The master agreement's ""product improvement"" clause stays."
+MedNote for Notara,retention,Audio deleted within 30 days of the note being signed,must,accepts,Audio deleted after 30 days.
+MedNote for Notara,location,"Stored and processed in Israel, or where Galil's DPO approves in writing",must,accepts,Hosted in Israel.
+MedNote for Notara,subprocessors,"Full sub-processor list, notice before changes, the right to object",must,accepts,Listed.
+MedNote for Notara,exit,"Data returned in a standard format, certified deletion, six months' transition",must,accepts,Notes stay in Notara anyway.
+MedNote for Notara,modelChange,Notice before model changes and a re-run on Galil's test set first,must,refuses,Changes ship with Notara releases.
+MedNote for Notara,safety,A named clinical safety officer and incident reporting to Galil within an agreed time,must,accepts,Through the existing support contract.
+MedNote for Notara,audit,Independent security certification and the right to audit,nice,accepts,Existing certification.
+MedNote for Notara,priceLock,Price fixed for three years,nice,refuses,Year two to be agreed.
+MedNote for Notara,price,Price (as quoted in the RFP answer),info,,Free in year one; year two to be agreed.
+Rishma Health,noTraining,"No use of our audio, transcripts or notes to train or improve models, de-identified included",must,accepts,Default.
+Rishma Health,retention,Audio deleted within 30 days of the note being signed,must,accepts,Default 30 days.
+Rishma Health,location,"Stored and processed in Israel, or where Galil's DPO approves in writing",must,accepts,"Israel hosting, about 8% more."
+Rishma Health,subprocessors,"Full sub-processor list, notice before changes, the right to object",must,accepts,Default.
+Rishma Health,exit,"Data returned in a standard format, certified deletion, six months' transition",must,accepts,Default.
+Rishma Health,modelChange,Notice before model changes and a re-run on Galil's test set first,must,accepts,Notice and a re-run on Galil's test set.
+Rishma Health,safety,A named clinical safety officer and incident reporting to Galil within an agreed time,must,accepts,Named clinical safety officer.
+Rishma Health,audit,Independent security certification and the right to audit,nice,accepts,Certification and audit rights.
+Rishma Health,priceLock,Price fixed for three years,nice,refuses,Annual indexation.
+Rishma Health,price,Price (as quoted in the RFP answer),info,,"About ₪1,300 per clinician a month, plus the Notara integration project; Israel hosting about 8% more."

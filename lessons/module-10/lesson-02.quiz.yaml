@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    The KPI report says 77% of visits are in Hebrew. The appointment system says 30% of the same
+    patients prefer Hebrew. What is the right next step?
+  options:
+    - >-
+      Average the two figures and use about 54% Hebrew as the planning number.
+    - >-
+      Check how each field is filled; the Notara field defaults to Hebrew and is rarely changed.
+    - >-
+      Use the KPI figure, because it is the one management already reviews every quarter.
+    - >-
+      Drop language from the analysis, since the two systems cannot be reconciled.
+  correct: 1
+  explanation: >-
+    Two sources disagree, so you profile both: where each value comes from and how it is entered. A
+    field that defaults to Hebrew records the default, not the visit. Averaging or picking the familiar
+    figure hides the very finding that changes the vendor requirement.
+
+- id: q2
+  question: >-
+    Doctors say in the survey that notes take about two hours a day. Notara's audit log gives a median
+    of 112 minutes per doctor-day. How do you use the two?
+  options:
+    - >-
+      Use the survey figure, because doctors know their own day better than a log does.
+    - >-
+      Use the log alone and leave the survey out, since self-report is unreliable.
+    - >-
+      Report the higher figure, since the burden is clearly real and the case needs it.
+    - >-
+      Use the log as the measured baseline and the survey, labelled reported, for evenings and concerns.
+  correct: 3
+  explanation: >-
+    The audit log measures minutes the same way for everyone and becomes the pilot's baseline; the survey
+    tells you how it feels, about evenings and about concerns. Both belong in the memo with their labels.
+    Here they are close, which makes the finding stronger, and both are below "saves two hours".
+
+- id: q3
+  question: >-
+    A doctor shows you, after you promised not to name anyone, that she records visits on a consumer app.
+    How does the finding appear in your memo?
+  options:
+    - >-
+      As a system finding from several sources, naming no doctor and no clinic team.
+    - >-
+      As her case, with her permission, because a named example is more convincing to the CEO.
+    - >-
+      Not at all, because reporting it would break the promise you made to her.
+    - >-
+      As a compliance breach for the CMO to investigate clinic by clinic.
+  correct: 0
+  explanation: >-
+    The finding matters (patient audio is already leaving Galil), and it is supported by sources that name
+    nobody. Naming her breaks the promise and silences the floor; leaving it out hides a real risk; framing
+    it as a breach for investigation is a decision for the CMO and counsel, not the memo.
+
+- id: q4
+  question: >-
+    In visits where the doctor does not speak the patient's language, notes take 43% longer and a third
+    need after-hours work. What does that change for the selection?
+  options:
+    - >-
+      Nothing yet, because the scribe is meant for all visits equally.
+    - >-
+      It argues for hiring more interpreters instead of buying a scribe.
+    - >-
+      Arabic and Russian with relatives become requirements, not nice-to-haves.
+    - >-
+      It means the scribe should be bought only for the mixed-language clinics.
+  correct: 2
+  explanation: >-
+    The burden concentrates where languages and relatives make notes hard. A vendor that only works well
+    in Hebrew helps the visits that need it least, so language performance with relatives becomes a
+    requirement to test. Interpreters and where to start are separate questions for later.
+
+- id: q5
+  question: >-
+    The CIO did not mention a 2025 dictation trial, but its usage export is in the data room. What do you
+    take from it into the memo?
+  options:
+    - >-
+      Nothing, since dictation is a different product from an ambient scribe.
+    - >-
+      The usage curve and its two incidents, as evidence of how a tool here fails.
+    - >-
+      A note that the CIO withheld information, for the steering group to consider.
+    - >-
+      Only the incidents, since usage data from a different product is irrelevant.
+  correct: 1
+  explanation: >-
+    Nine users fell to two by week seven, and the near misses were about what relatives said: those are
+    the two failure modes to test for this time (adoption and omissions). The point is the system's
+    history, not blame.

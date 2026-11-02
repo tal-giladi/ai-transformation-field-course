@@ -1,0 +1,85 @@
+response_id,submitted_at,role,region,years_at_galil,documentation_minutes_per_day,evenings_finishing_notes_per_week,interpreting_minutes_per_day,would_use_scribe_1to5,main_concern,tools_used_for_notes,comment
+S-001,2026-10-04T07:21+03:00,doctor,Kinneret,15+,195,3,,3,accuracy,other,"Коллеги в Кармиэле показали мне приложение, теперь записываю почти все приёмы."
+S-002,2026-10-04T15:44+03:00,nurse,Kinneret,5-14,95,1,15,4,recordings_used_against_staff,notara_templates,
+S-003,2026-10-04T18:58+03:00,doctor,Karmiel–Misgav,0-4,85,3,,4,language_support,other,"Пользуюсь ИИ для писем в больницу, экономит время."
+S-004,2026-10-04T20:25+03:00,doctor,Upper Galilee,15+,145,0,,3,accuracy,none,
+S-005,2026-10-04T20:41+03:00,doctor,Karmiel–Misgav,15+,160,1,,3,accuracy,notara_templates,
+S-006,2026-10-04T21:17+03:00,doctor,Upper Galilee,5-14,175,1,,1,privacy,notara_templates,التمريض يترجم للأطباء الجدد طوال اليوم
+S-007,2026-10-05T08:23+03:00,doctor,Nazareth,0-4,140,2,,3,privacy,notara_templates,
+S-008,2026-10-05T14:52+03:00,nurse,Upper Galilee,15+,35,0,140,4,time_to_check,other,أستعمل تطبيق تسجيل على هاتفي الخاص ثم أنسخ الملخص إلى الملف
+S-009,2026-10-05T14:56+03:00,nurse,Kinneret,5-14,65,0,25,3,time_to_check,none,
+S-010,2026-10-05T16:27+03:00,doctor,Upper Galilee,5-14,165,1,,3,accuracy,other,
+S-011,2026-10-05T19:50+03:00,doctor,Kinneret,15+,105,1,,1,accuracy,other,"I already use an AI note app on my own phone. Works well in Hebrew, less in Arabic."
+S-012,2026-10-05T22:20+03:00,doctor,Karmiel–Misgav,15+,110,2,,5,accuracy,notara_templates,
+S-013,2026-10-06T09:42+03:00,doctor,Kinneret,15+,110,1,,2,recordings_used_against_staff,other,"אני מקליטה את השיחה בטלפון ומבקשת סיכום, זה חוסך לי חצי שעה בערב"
+S-014,2026-10-06T12:39+03:00,doctor,Nazareth,15+,135,1,,1,accuracy,none,
+S-015,2026-10-06T17:51+03:00,doctor,Western Galilee,15+,160,1,,4,time_to_check,notara_templates,أكتب الملاحظات بالعبرية بعد زيارة بالعربية، هذا يأخذ وقتاً مضاعفاً
+S-016,2026-10-06T21:12+03:00,doctor,Upper Galilee,5-14,185,2,,4,recordings_used_against_staff,other,زميل علمني على تطبيق يلخص الزيارة، لكن لا أعرف أين تذهب التسجيلات
+S-017,2026-10-07T10:20+03:00,doctor,Karmiel–Misgav,5-14,105,2,,4,privacy,other,
+S-018,2026-10-07T10:44+03:00,doctor,Kinneret,0-4,190,3,,4,patients_refuse,notara_templates,
+S-019,2026-10-07T13:38+03:00,nurse,Karmiel–Misgav,15+,105,2,65,2,privacy,notara_templates,
+S-020,2026-10-07T14:03+03:00,doctor,Karmiel–Misgav,0-4,125,3,,4,accuracy,notara_templates,Nurses translate half my afternoon list. Nobody counts that.
+S-021,2026-10-07T16:43+03:00,doctor,Karmiel–Misgav,5-14,105,3,,1,time_to_check,none,Happy to pilot anything that handles Arabic properly.
+S-022,2026-10-07T20:18+03:00,nurse,Kinneret,15+,70,1,40,3,time_to_check,other,
+S-023,2026-10-08T11:23+03:00,doctor,Nazareth,0-4,75,1,,3,language_support,notara_templates,מי יבדוק את הסיכום? אני. אז מה חסכנו?
+S-024,2026-10-08T18:32+03:00,doctor,Karmiel–Misgav,5-14,110,1,,2,patients_refuse,other,
+S-025,2026-10-08T18:55+03:00,doctor,Karmiel–Misgav,5-14,140,1,,1,accuracy,none,
+S-026,2026-10-08T19:14+03:00,doctor,Kinneret,15+,135,4,,2,time_to_check,notara_templates,
+S-027,2026-10-08T19:27+03:00,doctor,Upper Galilee,5-14,130,2,,5,privacy,notara_templates,
+S-028,2026-10-09T08:08+03:00,nurse,Nazareth,5-14,110,1,55,4,privacy,other,
+S-029,2026-10-09T14:23+03:00,doctor,Upper Galilee,5-14,110,1,,4,patients_refuse,notara_templates,
+S-030,2026-10-09T15:56+03:00,doctor,Western Galilee,0-4,65,1,,2,accuracy,notara_templates,
+S-031,2026-10-09T16:57+03:00,doctor,Nazareth,15+,130,2,,5,privacy,other,יותר זמן מול המטופל ופחות מול המסך
+S-032,2026-10-09T18:51+03:00,nurse,Western Galilee,0-4,60,0,65,4,privacy,notara_templates,עובדת מהבית בערבים כדי לסגור רשומות
+S-033,2026-10-09T22:19+03:00,nurse,Western Galilee,5-14,75,0,45,4,patients_refuse,notara_templates,"Хорошо бы, если бы врач смотрел на пациента, а не в экран."
+S-034,2026-10-10T11:46+03:00,doctor,Western Galilee,5-14,110,3,,2,privacy,notara_templates,أحتاج وقتاً أطول مع المريض، وليس أداة جديدة فقط
+S-035,2026-10-10T20:31+03:00,doctor,Kinneret,15+,100,3,,5,privacy,notara_templates,
+S-036,2026-10-10T21:04+03:00,doctor,Western Galilee,5-14,80,2,,4,privacy,notara_templates,
+S-037,2026-10-11T18:16+03:00,nurse,Western Galilee,0-4,45,0,80,4,privacy,notara_templates,אני לא רוצה שיקליטו אותי ושזה יגיע לתלונות
+S-038,2026-10-11T21:12+03:00,doctor,Nazareth,0-4,140,3,,4,recordings_used_against_staff,none,האחיות מתרגמות ואף אחד לא סופר את זה
+S-039,2026-10-12T20:33+03:00,doctor,Nazareth,15+,150,3,,2,accuracy,notara_templates,لا أثق بالأرقام التي يعرضها البائعون
+S-040,2026-10-13T09:40+03:00,doctor,Karmiel–Misgav,15+,105,0,,3,privacy,dictation,
+S-041,2026-10-13T11:51+03:00,doctor,Kinneret,0-4,155,3,,4,accuracy,none,
+S-042,2026-10-13T14:27+03:00,doctor,Nazareth,15+,130,3,,5,privacy,other,
+S-043,2026-10-13T18:12+03:00,doctor,Western Galilee,5-14,100,2,,1,patients_refuse,none,
+S-044,2026-10-14T08:22+03:00,nurse,Western Galilee,15+,75,0,40,4,accuracy,none,
+S-045,2026-10-14T09:09+03:00,doctor,Nazareth,0-4,100,4,,5,patients_refuse,other,Без приложения на телефоне я бы сидела до десяти вечера.
+S-046,2026-10-14T15:15+03:00,doctor,Kinneret,5-14,165,2,,4,patients_refuse,none,
+S-047,2026-10-14T20:24+03:00,doctor,Kinneret,15+,110,4,,4,accuracy,notara_templates,
+S-048,2026-10-15T10:30+03:00,doctor,Karmiel–Misgav,5-14,140,2,,3,time_to_check,notara_templates,
+S-049,2026-10-15T11:39+03:00,doctor,Nazareth,15+,100,2,,4,privacy,notara_templates,תנו לנו לנסות לפני שקונים לכולם
+S-050,2026-10-15T19:43+03:00,doctor,Karmiel–Misgav,15+,100,1,,4,accuracy,other,
+S-051,2026-10-15T19:50+03:00,nurse,Western Galilee,15+,65,2,65,5,time_to_check,none,المرضى كبار السن لن يوافقوا على التسجيل إذا لم نشرح لهم بالعربية
+S-052,2026-10-16T07:40+03:00,nurse,Karmiel–Misgav,5-14,120,0,10,3,privacy,other,Главное — чтобы не путались лекарства.
+S-053,2026-10-16T13:05+03:00,doctor,Kinneret,5-14,100,2,,4,privacy,other,צ'אט GPT עוזר לי לתרגם מכתבים מרוסית לעברית
+S-054,2026-10-16T14:28+03:00,doctor,Karmiel–Misgav,5-14,105,4,,5,accuracy,none,הכי קשה זה ביקורים עם בני משפחה שמדברים כולם ביחד
+S-055,2026-10-16T16:30+03:00,doctor,Upper Galilee,5-14,140,3,,2,accuracy,notara_templates,
+S-056,2026-10-16T17:21+03:00,nurse,Kinneret,15+,50,1,50,3,time_to_check,none,
+S-057,2026-10-16T18:27+03:00,nurse,Karmiel–Misgav,0-4,55,2,50,4,privacy,notara_templates,
+S-058,2026-10-16T20:15+03:00,doctor,Western Galilee,5-14,125,0,,2,language_support,notara_templates,
+S-059,2026-10-17T09:27+03:00,doctor,Upper Galilee,15+,120,1,,1,patients_refuse,notara_templates,
+S-060,2026-10-17T15:31+03:00,nurse,Karmiel–Misgav,0-4,75,1,100,5,privacy,notara_templates,Please make sure whatever we buy works with the old Notara in Tiberias.
+S-061,2026-10-17T20:01+03:00,nurse,Western Galilee,5-14,65,1,20,2,time_to_check,notara_templates,
+S-062,2026-10-17T20:25+03:00,doctor,Nazareth,5-14,215,1,,3,privacy,other,"ההכתבה של MedNote ב-2025 הייתה סיוט, היום יש כלים טובים יותר בחינם"
+S-063,2026-10-18T10:48+03:00,nurse,Nazareth,0-4,70,1,20,2,accuracy,notara_templates,
+S-064,2026-10-18T11:10+03:00,doctor,Upper Galilee,5-14,135,1,,3,language_support,none,
+S-065,2026-10-18T12:18+03:00,nurse,Nazareth,15+,50,1,30,4,time_to_check,notara_templates,
+S-066,2026-10-18T12:26+03:00,doctor,Kinneret,5-14,140,0,,4,patients_refuse,none,
+S-067,2026-10-18T20:40+03:00,nurse,Upper Galilee,15+,60,3,25,4,time_to_check,other,מקליט רק כשהמטופל מסכים בעל פה
+S-068,2026-10-18T20:58+03:00,doctor,Kinneret,5-14,70,2,,1,privacy,notara_templates,"בצפת עדיין גרסה ישנה של Notara, כל עדכון לוקח חודשים"
+S-069,2026-10-19T12:12+03:00,doctor,Western Galilee,15+,130,0,,1,privacy,notara_templates,לא ברור לי מה קורה להקלטה אחרי זה
+S-070,2026-10-19T21:49+03:00,nurse,Kinneret,5-14,75,0,45,5,language_support,notara_templates,
+S-071,2026-10-20T09:33+03:00,nurse,Nazareth,0-4,75,3,30,2,privacy,notara_templates,
+S-072,2026-10-20T11:44+03:00,doctor,Kinneret,0-4,90,1,,4,patients_refuse,none,
+S-073,2026-10-20T13:47+03:00,doctor,Western Galilee,15+,120,2,,1,privacy,notara_templates,
+S-074,2026-10-20T16:21+03:00,nurse,Nazareth,0-4,50,0,10,5,privacy,other,"יש אפליקציה שכולם במרפאה משתמשים בה, למה לא לשלם עליה רשמית?"
+S-075,2026-10-20T16:35+03:00,nurse,Upper Galilee,0-4,80,0,25,4,privacy,notara_templates,
+S-076,2026-10-20T18:46+03:00,nurse,Upper Galilee,15+,65,0,65,2,accuracy,notara_templates,
+S-077,2026-10-20T20:36+03:00,doctor,Nazareth,5-14,90,1,,3,recordings_used_against_staff,notara_templates,
+S-078,2026-10-20T21:16+03:00,doctor,Nazareth,15+,165,0,,3,language_support,other,"Записываю приём на телефон, приложение делает выжимку по-русски, потом перевожу в Notara."
+S-079,2026-10-21T11:08+03:00,doctor,Nazareth,0-4,75,4,,5,language_support,other,"Пожилые пациенты приходят с детьми, и все говорят одновременно."
+S-080,2026-10-21T11:44+03:00,doctor,Western Galilee,5-14,150,5,,5,language_support,notara_templates,
+S-081,2026-10-21T19:22+03:00,doctor,Karmiel–Misgav,15+,90,2,,2,accuracy,notara_templates,
+S-082,2026-10-21T21:58+03:00,doctor,Upper Galilee,15+,120,2,,3,patients_refuse,none,
+S-083,2026-10-21T22:41+03:00,doctor,Western Galilee,15+,85,1,,3,patients_refuse,none,"Не хочу, чтобы записи использовали для проверки врачей."
+S-084,2026-10-22T15:18+03:00,doctor,Nazareth,15+,105,3,,4,accuracy,notara_templates,"שעתיים ביום על תיעוד, לפחות"

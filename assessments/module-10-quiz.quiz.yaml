@@ -1,0 +1,193 @@
+- id: q1
+  question: >-
+    A clinic network's CIO hires you to "run the scribe selection properly". The CEO already prefers one
+    vendor. Which line in the charter protects both the engagement and your independence most?
+  options:
+    - >-
+      That the consultant will select the vendor that scores highest on the agreed criteria.
+    - >-
+      That the CIO will select the vendor, since he will have to integrate it.
+    - >-
+      That the consultant designs and scores the evidence, and the steering group selects.
+    - >-
+      That the CEO's preferred vendor is shortlisted automatically to save time.
+  correct: 2
+  explanation: >-
+    Designing and scoring the evidence while the organization's forum decides keeps you out of the
+    vendor's line of fire and the accountability where it belongs. Selecting yourself makes you a party;
+    automatic shortlisting builds the CEO's preference into the process.
+
+- id: q2
+  question: >-
+    The KPI report shows 77% of visits in Hebrew; the appointment system shows 30% of patients prefer
+    Hebrew. Which consequence matters most for the vendor selection?
+  options:
+    - >-
+      The language weighting and the test set must follow the preferred language, not the KPI.
+    - >-
+      The KPI report must be withdrawn before the steering group can meet again.
+    - >-
+      Only vendors with a Hebrew-first product should be invited to the RFP.
+    - >-
+      The appointment system should be replaced by Notara's field to avoid two sources.
+  correct: 0
+  explanation: >-
+    A field that defaults to Hebrew under-states Arabic and Russian by a factor of about three; any
+    weighting, requirement or test set built on it would favour the vendors that are weakest where the
+    work is hardest. Fix the field too, but the selection must use the real mix now.
+
+- id: q3
+  question: >-
+    Doctors already record visits on consumer apps on their own phones. Which response do you
+    recommend to the CMO and counsel?
+  options:
+    - >-
+      Ignore it until the approved scribe arrives, since it shows how much doctors want one.
+    - >-
+      Identify the doctors through the firewall logs and refer them for discipline.
+    - >-
+      Block the guest Wi-Fi in all clinics so the apps can no longer upload audio.
+    - >-
+      An instruction to stop with no discipline for past use, and a date for an approved tool.
+  correct: 3
+  explanation: >-
+    Patient audio is already leaving the organization, so ignoring it is not neutral; punishing people
+    who told you in confidence drives the practice underground; blocking one network moves it to mobile
+    data. A clear instruction, an amnesty and a sanctioned alternative with a date address the risk and
+    the need.
+
+- id: q4
+  question: >-
+    The CFO says: "Thirty minutes a day for 78 doctors is ₪2.4M a year. Show me where it lands." Galil is
+    paid per registered patient. What is the honest answer?
+  options:
+    - >-
+      It lands in lower salary costs as doctors work fewer hours.
+    - >-
+      It is capacity; it becomes cash only if it fills or keeps posts without locums.
+    - >-
+      It lands in higher revenue as each doctor sees more patients a day.
+    - >-
+      It lands in fewer complaints, which the board values above cash.
+  correct: 1
+  explanation: >-
+    On capitation, freed time does not change pay or revenue by itself. The cash mechanism at Galil is
+    vacancies and locums: about ₪300,000 a year per post. Naming that mechanism, and labelling it an
+    assumption, is what makes the case credible to finance.
+
+- id: q5
+  question: >-
+    One vendor claims "omits a relevant fact in 2.1% of notes", from an independent university-hospital
+    evaluation of 1,200 real primary-care conversations in four languages including Arabic. How do you
+    rate it for Galil?
+  options:
+    - >-
+      Enough to act on: sign without a proof of concept, since it is independent.
+    - >-
+      Not yet supportable, since every vendor's claims need the same scepticism.
+    - >-
+      Worth testing further: close to Galil's conditions, but Hebrew and the version differ.
+    - >-
+      Contradicted, because Galil's own proof of concept found a slightly different rate.
+  correct: 2
+  explanation: >-
+    Independent, on conversations, including Arabic: the conditions are close to Galil's, so it is the
+    best evidence on offer. Hebrew was not in the evaluation and the model version matters, so it is a
+    hypothesis to test, not a reason to skip the test. A similar rate on a small PoC is consistent, not a
+    contradiction.
+
+- id: q6
+  question: >-
+    You are writing the RFP's legal section. Which approach fits your role?
+  options:
+    - >-
+      State which Israeli laws the vendors must comply with and require written confirmation.
+    - >-
+      Leave privacy out of the RFP and let counsel review the winning vendor's contract.
+    - >-
+      Ask counsel to write the whole RFP, since it involves health information.
+    - >-
+      List the rules and contracts in play with their sources as questions for counsel and the DPO.
+  correct: 3
+  explanation: >-
+    You prepare the facts and the questions (health information under the Privacy Protection Law, the
+    Data Security Regulations, the Patient's Rights Law, the Ministry's cloud circular, the funds'
+    agreements, the medical-device question) so counsel can decide quickly. A vendor's confirmation is a
+    claim; leaving privacy to the end puts it after the choice.
+
+- id: q7
+  question: >-
+    In the proof of concept, the same synthetic recording gave the leading vendor a correct note on run 1
+    and missed a stopped medicine on run 2. What does this tell you to build into the pilot?
+  options:
+    - >-
+      A weekly audit of real scribe notes against the audio, feeding the stop rules.
+    - >-
+      Nothing, because one discrepancy in 180 notes is within the vendor's error rate.
+    - >-
+      A rule that every visit is processed twice and the two notes compared.
+    - >-
+      A switch to the vendor that produced identical notes on both runs.
+  correct: 0
+  explanation: >-
+    Generative tools can give different outputs for the same input, so a single test run does not
+    guarantee what a doctor will see on a given day. An ongoing audit of real notes, with stop rules, is
+    how the clinical owner keeps the risk visible. Double processing every visit doubles cost and audio
+    exposure without replacing the audit.
+
+- id: q8
+  question: >-
+    The vendor with the lowest price refuses one must-have term: processing in Israel or where the DPO
+    approves. Its evidence scores are close behind the leader's. What happens to it?
+  options:
+    - >-
+      It wins if the CFO agrees the price difference is worth the risk.
+    - >-
+      It is excluded before ranking unless it changes that term in writing.
+    - >-
+      It is ranked normally, with privacy weighted lower to reflect the refusal.
+    - >-
+      It is shortlisted as a fallback in case the leader's contract stalls.
+  correct: 1
+  explanation: >-
+    A must-have is a gate set before the answers arrived; a refusal excludes the vendor whatever its
+    price or score, unless it moves. Trading a must-have for price, or quietly re-weighting it, undoes the
+    reason it was a must-have.
+
+- id: q9
+  question: >-
+    The clinician pilot will record doctors' visits in two clinics. Which plan element best protects the
+    patients who are recorded?
+  options:
+    - >-
+      The vendor's standard consent text, translated into the four languages.
+    - >-
+      A sign at reception saying that visits may be recorded for quality.
+    - >-
+      Consent wording by the CMO and DPO, spoken by the doctor, with a free right to refuse.
+    - >-
+      A clause in the contract making the vendor responsible for patients' consent.
+  correct: 2
+  explanation: >-
+    Patients agree to a person, in their language, when told who hears it, what it is for, that it is
+    deleted and that refusing changes nothing; that is what the patient in discovery asked for. A vendor's
+    text serves the vendor, a sign is not a conversation, and consent cannot be outsourced to a supplier.
+
+- id: q10
+  question: >-
+    The CEO told the board about one vendor; the evidence recommends another. Before the steering
+    meeting, what is the most useful thing you can give her?
+  options:
+    - >-
+      A detailed annex on every flaw in the vendor's demo, so she can answer any challenge.
+    - >-
+      A recommendation to postpone the board update until the pilot has finished.
+    - >-
+      A copy of the scoring sheet, so she can see that the numbers are objective.
+    - >-
+      A sentence for the board that is true and does not depend on the demo.
+  correct: 3
+  explanation: >-
+    A CEO who has to reverse a public preference needs a way to say it that keeps her credible: "we chose
+    on evidence from our own clinics; the first doctors start in March". Annexes and scores support the
+    sentence; postponing the update leaves her with nothing to say.

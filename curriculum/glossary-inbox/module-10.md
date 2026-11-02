@@ -1,0 +1,11 @@
+- **Ambient scribe** — A tool that listens to a clinical conversation and drafts the visit note for the clinician to check, edit and sign; the signed note stays the clinician's (lesson 10.1).
+- **Decision rights** — A charter table naming who decides each kind of question (clinical safety, patients' information, money, the vendor, integration) so the consultant can route a question without looking evasive (lesson 10.1).
+- **Language mismatch** — A visit in which the doctor does not speak the patient's preferred language, so a relative, a nurse or a phone interpreter carries the conversation (lesson 10.2).
+- **Demo conditions** — The sample, language, setting, speakers, measure and measurer behind a vendor's headline number, which decide whether the number says anything about your organization (lesson 10.4).
+- **Must-have term** — A contract term set before vendors answer whose refusal excludes the vendor whatever its price or score; a gate, not a weight (lesson 10.4).
+- **Synthetic visit** — A clinical encounter written from a real-shaped scenario and recorded by actors, used to test vendors on an organization's conditions without any real patient's data (lesson 10.4).
+- **Omission rate** — Clinically relevant facts from a visit's fact list that are missing or wrong in the drafted note, counted per 100 notes and reported with the count and an interval (lesson 10.4).
+- **Unsure-marking** — A scribe's flag on a passage it is not confident about, which the clinician must confirm before signing (lesson 10.4).
+- **Run-to-run variation** — Different outputs from a generative tool for the same input, which is why a proof of concept runs each item more than once and a pilot audits real outputs (lesson 10.4).
+- **Intended purpose** — What a product's maker says it is for, in its labelling and marketing; for software in healthcare it decides whether the product is treated as a medical device (lesson 10.4).
+- **Sensitivity check** — Recomputing a weighted score with the weights someone disputes, to show whether the choice changes, without reopening the locked criteria (lesson 10.5).

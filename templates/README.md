@@ -43,6 +43,7 @@ Every document you produce in the course starts from one of these templates. Eac
 - [Production-readiness checklist](production-readiness-checklist.md)
 - [Readiness assessment](readiness-assessment.md)
 - [Regulatory map](regulatory-map.md)
+- [RFP for AI vendors](rfp-for-ai-vendors.md)
 - [Risk register](risk-register.md)
 - [Roadmap](roadmap.md)
 - [ROI model](roi-model.md)

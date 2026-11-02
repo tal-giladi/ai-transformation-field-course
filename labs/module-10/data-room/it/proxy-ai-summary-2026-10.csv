@@ -1,0 +1,199 @@
+week_start_date,clinic_id,network,application,category,sessions,upload_mb,distinct_devices
+2026-10-04,GH-AKK,clinic_lan,ChatGPT,AI chatbot,184,2.7,3
+2026-10-04,GH-AKK,clinic_lan,Google Translate,translation,1211,3.6,11
+2026-10-04,GH-AKK,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,77,148.8,1
+2026-10-04,GH-AKK,guest_wifi,WhatsApp,messaging,8100,416.1,56
+2026-10-04,GH-NAH,clinic_lan,ChatGPT,AI chatbot,122,1.8,5
+2026-10-04,GH-NAH,clinic_lan,Google Translate,translation,1066,3.0,7
+2026-10-04,GH-NAH,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,252,254.5,3
+2026-10-04,GH-NAH,guest_wifi,WhatsApp,messaging,8810,705.6,34
+2026-10-04,GH-NAHP,clinic_lan,Google Gemini,AI chatbot,16,0.7,3
+2026-10-04,GH-NAHP,clinic_lan,Google Translate,translation,1122,3.1,7
+2026-10-04,GH-NAHP,guest_wifi,WhatsApp,messaging,3620,284.8,44
+2026-10-04,GH-KRM,clinic_lan,ChatGPT,AI chatbot,241,0.5,5
+2026-10-04,GH-KRM,clinic_lan,Google Gemini,AI chatbot,19,0.8,3
+2026-10-04,GH-KRM,clinic_lan,Google Translate,translation,756,3.8,12
+2026-10-04,GH-KRM,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,500,548.3,5
+2026-10-04,GH-KRM,guest_wifi,WhatsApp,messaging,5651,899.4,46
+2026-10-04,GH-MAJ,clinic_lan,Google Gemini,AI chatbot,7,0.3,2
+2026-10-04,GH-MAJ,clinic_lan,Google Translate,translation,676,2.8,10
+2026-10-04,GH-MAJ,guest_wifi,WhatsApp,messaging,8996,608.5,76
+2026-10-04,GH-KRMW,clinic_lan,ChatGPT,AI chatbot,190,1.4,2
+2026-10-04,GH-KRMW,clinic_lan,Google Translate,translation,941,2.6,12
+2026-10-04,GH-KRMW,guest_wifi,WhatsApp,messaging,2959,539.3,73
+2026-10-04,GH-NAZ,clinic_lan,ChatGPT,AI chatbot,105,0.2,3
+2026-10-04,GH-NAZ,clinic_lan,Google Gemini,AI chatbot,36,0.5,1
+2026-10-04,GH-NAZ,clinic_lan,Claude,AI chatbot,20,0.6,1
+2026-10-04,GH-NAZ,clinic_lan,Google Translate,translation,976,2.9,12
+2026-10-04,GH-NAZ,guest_wifi,WhatsApp,messaging,7773,267.6,54
+2026-10-04,GH-NOF,clinic_lan,ChatGPT,AI chatbot,138,2.9,5
+2026-10-04,GH-NOF,clinic_lan,Google Translate,translation,820,2.6,6
+2026-10-04,GH-NOF,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,345,379.0,2
+2026-10-04,GH-NOF,guest_wifi,WhatsApp,messaging,7978,521.6,41
+2026-10-04,GH-NAZD,clinic_lan,ChatGPT,AI chatbot,57,2.1,4
+2026-10-04,GH-NAZD,clinic_lan,Google Gemini,AI chatbot,7,0.7,1
+2026-10-04,GH-NAZD,clinic_lan,Google Translate,translation,893,2.0,10
+2026-10-04,GH-NAZD,guest_wifi,WhatsApp,messaging,6299,756.7,30
+2026-10-04,GH-SAF,clinic_lan,ChatGPT,AI chatbot,163,1.4,5
+2026-10-04,GH-SAF,clinic_lan,Google Translate,translation,1157,1.8,6
+2026-10-04,GH-SAF,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,176,319.3,1
+2026-10-04,GH-SAF,guest_wifi,WhatsApp,messaging,3787,861.4,31
+2026-10-04,GH-HAT,clinic_lan,Google Gemini,AI chatbot,42,0.7,3
+2026-10-04,GH-HAT,clinic_lan,Google Translate,translation,1214,2.6,7
+2026-10-04,GH-HAT,guest_wifi,WhatsApp,messaging,2577,307.6,77
+2026-10-04,GH-TIB,clinic_lan,ChatGPT,AI chatbot,260,2.1,2
+2026-10-04,GH-TIB,clinic_lan,Google Translate,translation,676,3.8,12
+2026-10-04,GH-TIB,guest_wifi,WhatsApp,messaging,2512,290.7,71
+2026-10-04,GH-MGR,clinic_lan,Claude,AI chatbot,15,0.3,1
+2026-10-04,GH-MGR,clinic_lan,Google Translate,translation,525,3.2,10
+2026-10-04,GH-MGR,guest_wifi,WhatsApp,messaging,4354,709.6,39
+2026-10-04,GH-TIBC,clinic_lan,Google Gemini,AI chatbot,37,0.6,3
+2026-10-04,GH-TIBC,clinic_lan,Google Translate,translation,1000,1.7,9
+2026-10-04,GH-TIBC,guest_wifi,WhatsApp,messaging,3577,399.3,29
+2026-10-11,GH-AKK,clinic_lan,ChatGPT,AI chatbot,259,3.3,5
+2026-10-11,GH-AKK,clinic_lan,Google Gemini,AI chatbot,30,0.8,2
+2026-10-11,GH-AKK,clinic_lan,Google Translate,translation,1372,2.0,6
+2026-10-11,GH-AKK,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,90,116.7,1
+2026-10-11,GH-AKK,guest_wifi,WhatsApp,messaging,7979,270.8,39
+2026-10-11,GH-NAH,clinic_lan,ChatGPT,AI chatbot,162,2.6,3
+2026-10-11,GH-NAH,clinic_lan,Google Gemini,AI chatbot,59,0.8,2
+2026-10-11,GH-NAH,clinic_lan,Claude,AI chatbot,22,0.4,2
+2026-10-11,GH-NAH,clinic_lan,Google Translate,translation,1262,2.3,10
+2026-10-11,GH-NAH,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,236,293.3,1
+2026-10-11,GH-NAH,guest_wifi,WhatsApp,messaging,6191,262.8,30
+2026-10-11,GH-NAHP,clinic_lan,Claude,AI chatbot,20,0.6,1
+2026-10-11,GH-NAHP,clinic_lan,Google Translate,translation,1404,3.2,12
+2026-10-11,GH-NAHP,guest_wifi,WhatsApp,messaging,8585,544.8,28
+2026-10-11,GH-KRM,clinic_lan,ChatGPT,AI chatbot,65,3.0,2
+2026-10-11,GH-KRM,clinic_lan,Google Translate,translation,1230,2.7,10
+2026-10-11,GH-KRM,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,340,598.6,6
+2026-10-11,GH-KRM,guest_wifi,WhatsApp,messaging,6698,584.5,41
+2026-10-11,GH-MAJ,clinic_lan,Claude,AI chatbot,8,0.2,1
+2026-10-11,GH-MAJ,clinic_lan,Google Translate,translation,1210,3.7,5
+2026-10-11,GH-MAJ,guest_wifi,WhatsApp,messaging,3654,889.8,48
+2026-10-11,GH-KRMW,clinic_lan,ChatGPT,AI chatbot,103,0.6,2
+2026-10-11,GH-KRMW,clinic_lan,Google Translate,translation,1389,1.2,6
+2026-10-11,GH-KRMW,guest_wifi,WhatsApp,messaging,7330,603.7,71
+2026-10-11,GH-NAZ,clinic_lan,ChatGPT,AI chatbot,68,0.5,4
+2026-10-11,GH-NAZ,clinic_lan,Google Translate,translation,1024,1.7,4
+2026-10-11,GH-NAZ,guest_wifi,WhatsApp,messaging,5772,275.3,56
+2026-10-11,GH-NOF,clinic_lan,ChatGPT,AI chatbot,199,0.5,3
+2026-10-11,GH-NOF,clinic_lan,Claude,AI chatbot,27,0.5,2
+2026-10-11,GH-NOF,clinic_lan,Google Translate,translation,877,3.7,8
+2026-10-11,GH-NOF,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,192,479.5,4
+2026-10-11,GH-NOF,guest_wifi,WhatsApp,messaging,4899,313.4,79
+2026-10-11,GH-NAZD,clinic_lan,ChatGPT,AI chatbot,196,1.5,4
+2026-10-11,GH-NAZD,clinic_lan,Google Gemini,AI chatbot,44,0.7,3
+2026-10-11,GH-NAZD,clinic_lan,Google Translate,translation,526,2.8,7
+2026-10-11,GH-NAZD,guest_wifi,WhatsApp,messaging,4241,799.8,33
+2026-10-11,GH-SAF,clinic_lan,ChatGPT,AI chatbot,124,0.6,2
+2026-10-11,GH-SAF,clinic_lan,Google Translate,translation,1454,3.2,9
+2026-10-11,GH-SAF,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,240,249.3,2
+2026-10-11,GH-SAF,guest_wifi,WhatsApp,messaging,7612,326.1,27
+2026-10-11,GH-HAT,clinic_lan,Google Translate,translation,428,0.7,5
+2026-10-11,GH-HAT,guest_wifi,WhatsApp,messaging,3284,696.0,53
+2026-10-11,GH-TIB,clinic_lan,ChatGPT,AI chatbot,82,1.4,5
+2026-10-11,GH-TIB,clinic_lan,Google Translate,translation,1285,3.7,7
+2026-10-11,GH-TIB,guest_wifi,WhatsApp,messaging,8864,274.4,49
+2026-10-11,GH-MGR,clinic_lan,Google Gemini,AI chatbot,44,0.2,1
+2026-10-11,GH-MGR,clinic_lan,Google Translate,translation,1297,1.8,11
+2026-10-11,GH-MGR,guest_wifi,WhatsApp,messaging,2980,563.6,40
+2026-10-11,GH-TIBC,clinic_lan,Google Gemini,AI chatbot,34,0.7,3
+2026-10-11,GH-TIBC,clinic_lan,Google Translate,translation,1227,0.7,12
+2026-10-11,GH-TIBC,guest_wifi,WhatsApp,messaging,2547,349.5,31
+2026-10-18,GH-AKK,clinic_lan,ChatGPT,AI chatbot,192,2.6,2
+2026-10-18,GH-AKK,clinic_lan,Google Gemini,AI chatbot,13,0.5,1
+2026-10-18,GH-AKK,clinic_lan,Google Translate,translation,1027,2.1,9
+2026-10-18,GH-AKK,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,131,123.6,1
+2026-10-18,GH-AKK,guest_wifi,WhatsApp,messaging,8007,646.5,24
+2026-10-18,GH-NAH,clinic_lan,ChatGPT,AI chatbot,116,2.1,4
+2026-10-18,GH-NAH,clinic_lan,Claude,AI chatbot,6,0.3,1
+2026-10-18,GH-NAH,clinic_lan,Google Translate,translation,866,3.3,6
+2026-10-18,GH-NAH,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,154,252.2,1
+2026-10-18,GH-NAH,guest_wifi,WhatsApp,messaging,3524,590.6,74
+2026-10-18,GH-NAHP,clinic_lan,Google Translate,translation,375,2.0,10
+2026-10-18,GH-NAHP,guest_wifi,WhatsApp,messaging,3376,743.0,37
+2026-10-18,GH-KRM,clinic_lan,ChatGPT,AI chatbot,217,1.0,5
+2026-10-18,GH-KRM,clinic_lan,Google Translate,translation,1093,1.5,6
+2026-10-18,GH-KRM,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,665,604.5,5
+2026-10-18,GH-KRM,guest_wifi,WhatsApp,messaging,6377,730.7,59
+2026-10-18,GH-MAJ,clinic_lan,Google Translate,translation,522,2.5,10
+2026-10-18,GH-MAJ,guest_wifi,WhatsApp,messaging,6503,675.9,66
+2026-10-18,GH-KRMW,clinic_lan,ChatGPT,AI chatbot,65,2.9,5
+2026-10-18,GH-KRMW,clinic_lan,Google Translate,translation,517,4.0,7
+2026-10-18,GH-KRMW,guest_wifi,WhatsApp,messaging,4346,538.7,46
+2026-10-18,GH-NAZ,clinic_lan,ChatGPT,AI chatbot,83,1.5,5
+2026-10-18,GH-NAZ,clinic_lan,Google Translate,translation,436,1.5,5
+2026-10-18,GH-NAZ,guest_wifi,WhatsApp,messaging,5023,307.4,64
+2026-10-18,GH-NOF,clinic_lan,ChatGPT,AI chatbot,50,2.9,5
+2026-10-18,GH-NOF,clinic_lan,Google Translate,translation,561,0.9,9
+2026-10-18,GH-NOF,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,342,431.4,3
+2026-10-18,GH-NOF,guest_wifi,WhatsApp,messaging,3980,514.7,44
+2026-10-18,GH-NAZD,clinic_lan,ChatGPT,AI chatbot,41,2.4,4
+2026-10-18,GH-NAZD,clinic_lan,Google Gemini,AI chatbot,52,0.1,2
+2026-10-18,GH-NAZD,clinic_lan,Google Translate,translation,324,1.6,11
+2026-10-18,GH-NAZD,guest_wifi,WhatsApp,messaging,6379,532.8,31
+2026-10-18,GH-SAF,clinic_lan,ChatGPT,AI chatbot,74,2.3,4
+2026-10-18,GH-SAF,clinic_lan,Google Gemini,AI chatbot,56,0.4,3
+2026-10-18,GH-SAF,clinic_lan,Google Translate,translation,463,2.9,10
+2026-10-18,GH-SAF,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,208,285.8,2
+2026-10-18,GH-SAF,guest_wifi,WhatsApp,messaging,4214,313.4,23
+2026-10-18,GH-HAT,clinic_lan,Google Translate,translation,532,1.5,5
+2026-10-18,GH-HAT,guest_wifi,WhatsApp,messaging,7516,225.1,31
+2026-10-18,GH-TIB,clinic_lan,ChatGPT,AI chatbot,46,2.2,5
+2026-10-18,GH-TIB,clinic_lan,Google Translate,translation,1327,1.0,5
+2026-10-18,GH-TIB,guest_wifi,WhatsApp,messaging,5833,385.6,47
+2026-10-18,GH-MGR,clinic_lan,Google Gemini,AI chatbot,14,0.3,2
+2026-10-18,GH-MGR,clinic_lan,Google Translate,translation,622,3.6,10
+2026-10-18,GH-MGR,guest_wifi,WhatsApp,messaging,6638,488.7,58
+2026-10-18,GH-TIBC,clinic_lan,Google Translate,translation,1348,1.5,5
+2026-10-18,GH-TIBC,guest_wifi,WhatsApp,messaging,4301,477.4,44
+2026-10-25,GH-AKK,clinic_lan,ChatGPT,AI chatbot,195,1.1,6
+2026-10-25,GH-AKK,clinic_lan,Google Translate,translation,311,3.8,5
+2026-10-25,GH-AKK,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,123,117.5,1
+2026-10-25,GH-AKK,guest_wifi,WhatsApp,messaging,7647,218.5,78
+2026-10-25,GH-NAH,clinic_lan,ChatGPT,AI chatbot,80,2.3,2
+2026-10-25,GH-NAH,clinic_lan,Google Gemini,AI chatbot,25,0.6,1
+2026-10-25,GH-NAH,clinic_lan,Google Translate,translation,1459,3.6,5
+2026-10-25,GH-NAH,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,242,231.8,1
+2026-10-25,GH-NAH,guest_wifi,WhatsApp,messaging,8030,850.2,24
+2026-10-25,GH-NAHP,clinic_lan,Google Gemini,AI chatbot,10,0.3,3
+2026-10-25,GH-NAHP,clinic_lan,Google Translate,translation,830,1.9,8
+2026-10-25,GH-NAHP,guest_wifi,WhatsApp,messaging,4743,254.5,21
+2026-10-25,GH-KRM,clinic_lan,ChatGPT,AI chatbot,94,1.3,5
+2026-10-25,GH-KRM,clinic_lan,Google Translate,translation,1033,3.8,12
+2026-10-25,GH-KRM,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,650,676.4,4
+2026-10-25,GH-KRM,guest_wifi,WhatsApp,messaging,4442,663.9,53
+2026-10-25,GH-MAJ,clinic_lan,Claude,AI chatbot,19,0.2,2
+2026-10-25,GH-MAJ,clinic_lan,Google Translate,translation,1151,3.7,11
+2026-10-25,GH-MAJ,guest_wifi,WhatsApp,messaging,6843,448.0,24
+2026-10-25,GH-KRMW,clinic_lan,ChatGPT,AI chatbot,146,2.1,5
+2026-10-25,GH-KRMW,clinic_lan,Google Gemini,AI chatbot,25,0.4,2
+2026-10-25,GH-KRMW,clinic_lan,Google Translate,translation,637,1.6,4
+2026-10-25,GH-KRMW,guest_wifi,WhatsApp,messaging,3468,663.4,31
+2026-10-25,GH-NAZ,clinic_lan,ChatGPT,AI chatbot,132,0.9,2
+2026-10-25,GH-NAZ,clinic_lan,Claude,AI chatbot,23,0.3,2
+2026-10-25,GH-NAZ,clinic_lan,Google Translate,translation,778,0.7,5
+2026-10-25,GH-NAZ,guest_wifi,WhatsApp,messaging,3194,809.4,62
+2026-10-25,GH-NOF,clinic_lan,ChatGPT,AI chatbot,112,1.0,4
+2026-10-25,GH-NOF,clinic_lan,Google Translate,translation,1472,2.7,8
+2026-10-25,GH-NOF,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,255,457.6,4
+2026-10-25,GH-NOF,guest_wifi,WhatsApp,messaging,3748,792.3,59
+2026-10-25,GH-NAZD,clinic_lan,ChatGPT,AI chatbot,257,3.4,4
+2026-10-25,GH-NAZD,clinic_lan,Google Translate,translation,834,3.5,11
+2026-10-25,GH-NAZD,guest_wifi,WhatsApp,messaging,4877,811.9,49
+2026-10-25,GH-SAF,clinic_lan,ChatGPT,AI chatbot,60,3.0,2
+2026-10-25,GH-SAF,clinic_lan,Google Gemini,AI chatbot,50,0.3,2
+2026-10-25,GH-SAF,clinic_lan,Google Translate,translation,794,3.2,11
+2026-10-25,GH-SAF,guest_wifi,Generic: AI speech-to-text (consumer),AI audio transcription,256,315.6,3
+2026-10-25,GH-SAF,guest_wifi,WhatsApp,messaging,7063,511.5,46
+2026-10-25,GH-HAT,clinic_lan,Google Translate,translation,924,1.8,7
+2026-10-25,GH-HAT,guest_wifi,WhatsApp,messaging,8273,680.8,77
+2026-10-25,GH-TIB,clinic_lan,ChatGPT,AI chatbot,127,1.9,5
+2026-10-25,GH-TIB,clinic_lan,Google Translate,translation,1205,1.6,5
+2026-10-25,GH-TIB,guest_wifi,WhatsApp,messaging,8391,707.2,71
+2026-10-25,GH-MGR,clinic_lan,Claude,AI chatbot,16,0.2,1
+2026-10-25,GH-MGR,clinic_lan,Google Translate,translation,350,0.5,4
+2026-10-25,GH-MGR,guest_wifi,WhatsApp,messaging,8923,693.5,21
+2026-10-25,GH-TIBC,clinic_lan,Google Translate,translation,1141,2.2,5
+2026-10-25,GH-TIBC,guest_wifi,WhatsApp,messaging,8271,276.9,66

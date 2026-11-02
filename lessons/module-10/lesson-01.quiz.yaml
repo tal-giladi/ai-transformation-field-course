@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    On day one the CEO asks you, in front of the CIO, "You'll pick the best vendor for us, right?" What
+    do you put in the charter in response?
+  options:
+    - >-
+      That you select the vendor, since that is the main deliverable the CIO is paying you for.
+    - >-
+      That the CIO selects the vendor, because he signed your proposal and owns the budget.
+    - >-
+      That you design and score the evidence, and the steering group selects the vendor.
+    - >-
+      That the vendor is chosen by a vote of the clinicians who took part in the demos.
+  correct: 2
+  explanation: >-
+    A consultant who selects a vendor becomes a party to the outcome and can be accused of bias. Designing
+    the evidence and scoring it, while Galil's steering group decides, keeps your independence and puts the
+    decision where the accountability is.
+
+- id: q2
+  question: >-
+    A director asks whether ScribeWave's data terms are acceptable for patients' recordings. Under the
+    decision rights you wrote, who answers?
+  options:
+    - >-
+      Galil's counsel and DPO, with external counsel where they need it.
+    - >-
+      You, since you have read every vendor's data-processing agreement.
+    - >-
+      The CIO, since the recordings will pass through Galil's systems.
+    - >-
+      The CMO, since the recordings contain clinical information.
+  correct: 0
+  explanation: >-
+    Health information is especially sensitive under Israel's Privacy Protection Law, and whether its terms
+    are acceptable is a privacy and legal decision. You prepare the facts; counsel and the DPO decide. The
+    CMO owns clinical safety, and the CIO owns integration.
+
+- id: q3
+  question: >-
+    The KPI report says 77% of visits are in Hebrew. On the first-day read, how do you sort that number?
+  options:
+    - >-
+      Verified, because it comes from Galil's own BI team rather than a vendor.
+    - >-
+      Contradicted, because Galil's motto promises care in the patient's language.
+    - >-
+      Unverifiable, because nobody can know which language a visit was held in.
+    - >-
+      A claim to test, because its footnote says it is the field recorded in Notara.
+  correct: 3
+  explanation: >-
+    The footnote tells you where the number comes from: a field in the visit screen. Whether that field
+    reflects the language actually spoken is something to test against another source (in 10.2, the
+    appointment system's preferred language). Internal is not the same as verified.
+
+- id: q4
+  question: >-
+    The CEO's assistant offers you 20 minutes with her "after the first readout". What do you do?
+  options:
+    - >-
+      Accept, since the readout will give you more to say to her anyway.
+    - >-
+      Ask for the 20 minutes before the readout, or a private preview of it.
+    - >-
+      Ask the CIO to present the readout so the CEO hears it from inside.
+    - >-
+      Skip the CEO and send the readout to the board chair to save time.
+  correct: 1
+  explanation: >-
+    The CEO holds the ask and the quote. If she first hears in a room that her preferred vendor's numbers
+    don't hold, she is likely to defend them. A private conversation before the readout lets her own the
+    answer.
+
+- id: q5
+  question: >-
+    A vendor offers to speed things up by running "last month's real visit recordings" for the test.
+    What does the charter you wrote say?
+  options:
+    - >-
+      Accept if the vendor signs an NDA, since real recordings give the best evidence.
+    - >-
+      Accept only Hebrew recordings, since those patients are fewest at risk.
+    - >-
+      The proof of concept uses synthetic visits recorded by actors, never real patients.
+    - >-
+      Ask the CMO to choose which real recordings are safe enough to share.
+  correct: 2
+  explanation: >-
+    Real patients' audio is the most sensitive data Galil holds, and nobody has decided it may go to any
+    vendor. Synthetic visits written from real-shaped scenarios test the same conditions without exposing
+    anyone. Writing it in the charter on day one stops the question from coming back.

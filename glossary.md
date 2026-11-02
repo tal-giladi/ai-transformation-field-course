@@ -17,6 +17,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **AI in a feature update** — An AI capability that arrived in software the organization already used, often enabled by default, without anyone choosing it (lesson 01.7).
 - **AI inventory** — The list of every AI system and feature, one row per tool per use, with owner, data, the decision it shapes and the next action, including excluded systems with reasons (lesson 01.7).
 - **Altitude problem** — Adoption looks better the higher you ask, because managers see screens and dashboards rather than the work (lesson 06.4).
+- **Ambient scribe** — A tool that listens to a clinical conversation and drafts the visit note for the clinician to check, edit and sign; the signed note stays the clinician's (lesson 10.1).
 - **Answer first** — Opening a memo with the answer to the sponsor's question, the number that carries it and the recommended decision, in three sentences (lesson 02.7).
 - **Attribution rule** — The promise, made at the start of an interview and kept, about how what the person says will be reported (for example "the support team said", never their name) (lesson 02.2).
 - **Automate / assist / augment / leave alone** — The four modes of change, decided by who does the work afterwards: no person per item, a person deciding each item, a person gaining a new capability, or no change (lesson 03.1).
@@ -50,10 +51,12 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Decision block** — The three lines at the top of every steering document: the decision it supports, who can stop the work, and what a "no" means (lesson 07.1).
 - **Decision point** — A dated decision by a named person, placed in a plan where the evidence for it will exist, instead of a solution chosen in advance (lesson 01.4).
 - **Decision record** — A short, signed record of one gate or committee decision: options, evidence with labels, money released and held, next-gate conditions, who can stop it, and dissent (lesson 07.2).
+- **Decision rights** — A charter table naming who decides each kind of question (clinical safety, patients' information, money, the vendor, integration) so the consultant can route a question without looking evasive (lesson 10.1).
 - **Decision-ready case** — A one-page front with a one-sentence ask, the conservative scenario first, conditions, the cost of waiting and labelled claims with source tags, backed by an appendix (lesson 03.9).
 - **Decommissioning checklist** — The steps that make a "retire" real: people told, access removed, vendor data deleted, contract ended, records updated, and a check after 30 days that the old path is gone (lesson 07.2).
 - **Definition card** — The rule that produced a baseline: start and stop events, population, clock, statistic, period, source and n, written before the number is computed (lesson 02.4).
 - **Deliverable map** — One table of every document an engagement produced, with its kind (living, record, retired), owner after handover, location, users and next review (lesson 07.9).
+- **Demo conditions** — The sample, language, setting, speakers, measure and measurer behind a vendor's headline number, which decide whether the number says anything about your organization (lesson 10.4).
 - **Departure from a gate rule** — A written statement that a pre-agreed gate was not met and why money or a stage is released anyway, so the gate keeps its meaning (lesson 07.2).
 - **Development set** — The part of the labelled data used to write and tune the prompt; failures are read and fixed here (lesson 05.2).
 - **Divergence** — The spread between independent scores on one card; discussed for evidence instead of averaged (lesson 03.5).
@@ -82,10 +85,12 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Incident severity** — S1: harm reached people, or personal data reached someone not entitled to it; S2: harm likely if nothing changes; S3: degraded service with no harm (lesson 07.5).
 - **Intake register** — The single list of every AI build, purchase and request, with owner, tool, data class, overlaps, tier, route, decision and days to decision (lesson 04.7).
 - **Integration check** — A side-by-side reading of deliverables that logs every contradiction between them and traces each human control to a cost line and each claim's timing to readiness and the roadmap (lesson 07.1).
+- **Intended purpose** — What a product's maker says it is for, in its labelling and marketing; for software in healthcare it decides whether the product is treated as a medical device (lesson 10.4).
 - **Interim AI rule** — A short rule issued within days of the census, covering the data that may not go into unapproved tools, an approved alternative with a date, and an amnesty for past use (lesson 01.6).
 - **Issues log** — The champions' record of what goes wrong, one row per problem with an example, each with a decision, an owner and the date the team was told (lesson 06.3).
 - **Job aid** — The one-page reference kept beside the screen: the rule, the checks, the marks, the stop conditions and where to get help (lesson 06.2).
 - **Label question** — Whether the outcome an AI use would learn from or be judged against was ever recorded, consistently, by someone who knew; if not, the verdict is "not yet" (lesson 02.5).
+- **Language mismatch** — A visit in which the doctor does not speak the patient's preferred language, so a relative, a nurse or a phone interpreter carries the conversation (lesson 10.2).
 - **Ledger line** — For a candidate, who now checks, corrects, escalates or waits because of the change; never left blank (lesson 03.1).
 - **Legal register** — The separate list of AI systems that carry a legal duty, with the duty and the evidence it is met, linked to the inventory by ID (lesson 01.7).
 - **Light edit** — A change to a draft that takes under a minute and changes wording or tone only, never a fact; a draft needing more is not counted as accepted (lesson 05.4).
@@ -97,12 +102,14 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Measurement conditions** — The sample, definition of success, volume and task mix, oversight and time window under which a figure was measured (lesson 04.8).
 - **Mechanism sentence** — A risk written as "Because [condition], [who] may suffer [harm] through [path]", so a control can be attached to the path (lesson 04.5).
 - **Monitoring notice** — The written notice, given before collection, of what is recorded about employees, why, who sees it, what it is never used for and how long it is kept (lesson 06.5).
+- **Must-have term** — A contract term set before vendors answer whose refusal excludes the vendor whatever its price or score; a gate, not a weight (lesson 10.4).
 - **Narrowest switch** — The smallest switch-off that stops the harm (one category, channel or language), tried before wider ones (lesson 07.5).
 - **Negative test** — A hand-written test case for a rare or harmful situation (injury, refund outside policy, another person's data, prompt injection, unsupported language) that the pilot must handle correctly every time (lesson 05.2).
 - **No-AI baseline** — The result of the simplest method without a model (keyword rules, macros) on the same test set, which an AI pilot must beat where it is used (lesson 05.4).
 - **Not yet a candidate** — An idea whose workflow step or owner cannot be named yet; recorded with the question that would make it a candidate (lesson 03.1).
 - **Observation protocol** — The agreed rules for watching real work: stated purpose, consent and the right to stop, a timed log, no personal data in the notes, a read-back (lesson 02.3).
 - **Old path** — The way a step was done before the AI output arrived (a macro, a phone, a free tool); a workflow redesign switches it off on a date with an owner, or people go back to it (lesson 06.1).
+- **Omission rate** — Clinically relevant facts from a visit's fact list that are missing or wrong in the drafted note, counted per 100 notes and reported with the count and an interval (lesson 10.4).
 - **Operating control** — A human check shown to happen in practice by evidence such as confirmation timers and samples, as opposed to one that exists only as a procedure (lesson 09.5).
 - **Operating rhythm** — The owner, RACI, calendar with hours, triggers, monthly agenda and retirement criteria that keep a running AI service watched after the project team leaves (lesson 07.6).
 - **Opportunity map** — The full list of candidate changes from three feeds plus discovery, each restated as one workflow step with an owner, a sourced volume and one benefit unit, and placed as automate, assist, augment or leave alone (lesson 03.1).
@@ -141,11 +148,13 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Residue** — The work people take on so that an automation or AI can run, such as keeping a sheet in a fixed format; it goes on the ledger line with an owner (lesson 03.2).
 - **Restricted use** — An AI use that needs the review group's decision or that nobody may do, recorded with the reason and who may lift it (lesson 04.2).
 - **Retirement criteria** — Checkable conditions, written when a service goes live, under which it will be retired (lesson 07.6).
+- **Run-to-run variation** — Different outputs from a generative tool for the same input, which is why a proof of concept runs each item more than once and a pilot audits real outputs (lesson 10.4).
 - **Same-word test** — Asking each role what has happened when a shared word such as "resolved" or "ready" is true and what it excludes, then recording the competing readings and the one the work will use (lesson 02.2).
 - **Scope boundary** — The written list of what a phase includes, excludes and only reads, each line with a reason, acknowledged by the people who can change it (lesson 01.3).
 - **Scope test** — One sentence, derived from the objective, that every inclusion and exclusion in the scope boundary must answer to (lesson 01.3).
 - **Scrutiny rule** — The written, dated list of candidate classes that always get full scrutiny, agreed with the sponsor before screening (lesson 03.3).
 - **Seen / said / hearsay** — The three marks on every fact in interview notes: you observed it or saw the record, the person told you, or the person told you about someone else (lesson 02.2).
+- **Sensitivity check** — Recomputing a weighted score with the weights someone disputes, to show whether the choice changes, without reopening the locked criteria (lesson 10.5).
 - **Shadow AI** — AI tools and features used for work without the organization having decided to use them, including tools paid for in plain sight on expense claims (lesson 01.6).
 - **Shadow mode** — Running the AI on live production messages with its output hidden from staff and customers, compared afterwards with what people actually did (lesson 05.6).
 - **Shadow-AI census** — A department-level count of AI use built from at least four sources (survey, proxy log, extensions, expenses and SaaS list, interviews, traces in the work) under a stated amnesty (lesson 01.6).
@@ -158,6 +167,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Steering pre-read** — The date the decision-makers receive a pack before a board or steering meeting, usually a week earlier; the real deadline for the work (lesson 01.4).
 - **Stop rule** — A condition written before a pilot starts that ends it, or one segment of it, early, with a trigger, an action and the person who decides (lesson 05.1).
 - **Stratified fairness check** — A fairness check that splits a group gap by an explanatory variable (such as scanner or capture channel) to find its cause before calling it a group effect (lesson 09.5).
+- **Synthetic visit** — A clinical encounter written from a real-shaped scenario and recorded by actors, used to test vendors on an organization's conditions without any real patient's data (lesson 10.4).
 - **Task inventory** — One row per task as the worker does it, with trigger, volume, time, error or rework, variation and judgment, each number with its source (lesson 02.3).
 - **Test set** — The frozen, versioned part of the labelled data scored once per prompt or model version, never used for tuning (lesson 05.2).
 - **Three feeds** — The three sources of candidates: what people request, what they already use, and the goals leadership has stated (lesson 03.1).
@@ -169,6 +179,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Trigger vs cadence** — A trigger makes a named person act when a threshold is crossed; a cadence is when people look; a service needs both, written separately (lesson 07.6).
 - **Two-reader check** — Giving the front page to a finance reader and a sponsor for one minute each and fixing whatever they cannot find (lesson 03.9).
 - **Two-sentence test** — For each stakeholder, one sentence on what they need to call the program a win and one on what they risk; if you cannot write both from evidence, you write "to learn" (lesson 02.1).
+- **Unsure-marking** — A scribe's flag on a passage it is not confident about, which the clinician must confirm before signing (lesson 10.4).
 - **Verified / reported / contradicted** — The three evidence statuses in a readiness assessment: checked against data you hold or seen yourself, said but not checked, or contradicted by data you hold (lesson 02.6).
 - **Walkable on paper** — A process whose steps, owner per step, trigger and volume can all be written down; one that is not is "not yet a candidate" for automation or AI (lesson 02.3).
 - **Wrong vs fragile** — A wrong assumption is false today and must be corrected; a fragile dependency is true today but may change and needs a fallback, a trigger or a re-sequence (lesson 07.7).

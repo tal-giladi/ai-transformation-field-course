@@ -89,3 +89,11 @@
   - [64 · Build and decide: the extraction pilot](/lessons/module-09/lesson-05.md)
   - [65 · Readout and debrief](/lessons/module-09/lesson-06.md)
   - [Module 9 quiz](/assessments/module-09-quiz.md)
+- **Module 10 — Galil Health: Choosing an Ambient Scribe**
+  - [66 · The call](/lessons/module-10/lesson-01.md)
+  - [67 · Discovery](/lessons/module-10/lesson-02.md)
+  - [68 · Diagnosis](/lessons/module-10/lesson-03.md)
+  - [69 · The hard part: choosing on evidence](/lessons/module-10/lesson-04.md)
+  - [70 · Decide: scoring, contract terms and the clinician pilot](/lessons/module-10/lesson-05.md)
+  - [71 · Readout and debrief](/lessons/module-10/lesson-06.md)
+  - [Module 10 quiz](/assessments/module-10-quiz.md)

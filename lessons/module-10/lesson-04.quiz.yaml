@@ -1,0 +1,95 @@
+- id: q1
+  question: >-
+    A vendor's deck says "98% transcription accuracy". Its footnote: 200 scripted English visits, studio
+    microphone, one speaker at a time. How do you rate it for a clinic network whose visits are in three
+    languages with relatives present?
+  options:
+    - >-
+      Enough to act on, because 98% leaves a wide margin even if Galil's visits are harder.
+    - >-
+      Not yet supportable for Galil, since its conditions match none of Galil's.
+    - >-
+      Contradicted, because the vendor has shown the figure to be false.
+    - >-
+      Worth testing further, since a larger English sample would settle the question.
+  correct: 1
+  explanation: >-
+    The number may well be true under the vendor's conditions; it just says nothing about Galil's
+    language, setting, speakers or the facts in a note. "Contradicted" needs evidence against it, and a
+    bigger English sample would still not be Galil's conditions.
+
+- id: q2
+  question: >-
+    Igor's draft RFP asks vendors to "confirm in writing that you comply with Israeli privacy law".
+    What should the RFP ask instead?
+  options:
+    - >-
+      A legal opinion from the vendor's own Israeli law firm confirming compliance.
+    - >-
+      A certificate from the Privacy Protection Authority approving the product.
+    - >-
+      A signed indemnity covering any privacy fine Galil may receive.
+    - >-
+      Answers to each must-have term, with the DPA, sub-processors and regulatory status.
+  correct: 3
+  explanation: >-
+    A vendor's statement that it complies is a claim and does not move Galil's responsibility. Specific
+    answers to specific terms, plus the documents, give counsel and the DPO something to assess. The
+    Authority does not certify products, and an indemnity does not stop the data from going where it goes.
+
+- id: q3
+  question: >-
+    Galil's PoC gives Rishma 4 omissions in 180 notes (2.2 per 100, 95% interval about 1 to 6) and
+    ScribeWave 13 in 180. How do you describe Rishma's result to the steering group?
+  options:
+    - >-
+      Fit to take to a clinician pilot, where real notes are audited; not proof that it is safe.
+    - >-
+      Proof that Rishma is safe for all 78 doctors, so the pilot can be skipped.
+    - >-
+      Too small to mean anything, so the choice should rest on the demo scores.
+    - >-
+      Equal to ScribeWave's, because the two intervals overlap at the edges.
+  correct: 0
+  explanation: >-
+    A 180-note test picks out the clearly unfit and gives enough evidence to pilot the best candidate, but
+    its interval is wide. Overlapping edges do not make two results equal, and a small test is still far
+    better evidence than a demo.
+
+- id: q4
+  question: >-
+    A director asks whether an ambient scribe needs registration as medical equipment in Israel. What do
+    you do?
+  options:
+    - >-
+      Say no, because the UK regulator decided in 2026 that scribes are not medical devices.
+    - >-
+      Say yes, because the Medical Equipment Law covers all software used in clinics.
+    - >-
+      Ask each vendor for its intended purpose in writing and route the question to counsel.
+    - >-
+      Leave it out, since registration is the vendor's problem rather than Galil's.
+  correct: 2
+  explanation: >-
+    Whether a product is medical equipment depends on what it is intended to do, which the vendor must
+    state; counsel decides whether to consult the Ministry's medical devices division. The UK guidance is
+    a useful comparator, not Israeli law, and Galil using an unregistered device would be Galil's problem.
+
+- id: q5
+  question: >-
+    The reseller says the 12% discount ends on 31 December. The PoC results arrive on 30 December and
+    the health fund's approval will take 45 days. What should happen before the note to the CEO?
+  options:
+    - >-
+      Sign a letter of intent with the reseller so the discount is kept while counsel works.
+    - >-
+      Ask the reseller in writing whether the price can be held until the decision.
+    - >-
+      Ask the CFO whether the discount is worth more than the health fund's approval.
+    - >-
+      Recommend signing now and cancelling later if the health fund refuses.
+  correct: 1
+  explanation: >-
+    A deadline set by a seller is a negotiating position until tested. Asking in writing costs nothing and,
+    at Galil, the reseller could hold the price to 31 March. A letter of intent or a signature before the
+    approval commits Galil before the evidence and the contract allow it.

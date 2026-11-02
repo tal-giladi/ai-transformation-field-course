@@ -1,0 +1,57 @@
+incident_id,reported_date,clinic_id,category,severity,description,description_en
+IN-2025-020,2025-01-25,GH-KRM,referral,no_harm,הפניה לקרדיולוג לא נשלחה,Cardiology referral not sent
+IN-2025-075,2025-01-27,GH-AKK,vaccine,near_miss,תקלה בקירור חיסונים במשך הלילה,Vaccine fridge temperature excursion overnight
+IN-2025-017,2025-02-05,GH-TIBC,identification,near_miss,מדבקה עם שם מטופל אחר על מבחנה,Another patient's label on a sample tube
+IN-2025-052,2025-02-07,GH-MAJ,communication,minor,מטופל לא קיבל הודעה על ביטול תור,Patient not told about a cancelled appointment
+IN-2025-033,2025-02-18,GH-NAZD,vaccine,near_miss,תקלה בקירור חיסונים במשך הלילה,Vaccine fridge temperature excursion overnight
+IN-2025-003,2025-03-11,GH-KRMW,referral,minor,הפניה לקרדיולוג לא נשלחה,Cardiology referral not sent
+IN-2025-013,2025-03-15,GH-NAHP,referral,minor,הפניה לקרדיולוג לא נשלחה,Cardiology referral not sent
+IN-2025-031,2025-03-24,GH-NOF,documentation,near_miss,בהכתבה נרשם 'מטפורמין הופסק' במקום 'מטופרולול הופסק'. הרוקחת זיהתה לפני ניפוק.,Dictated note recorded 'metformin stopped' instead of 'metoprolol stopped'. The pharmacist caught it before dispensing.
+IN-2025-009,2025-04-06,GH-NAHP,identification,near_miss,מדבקה עם שם מטופל אחר על מבחנה,Another patient's label on a sample tube
+IN-2025-076,2025-04-11,GH-NAZD,documentation,no_harm,רשומה נפתחה על שם מטופל שגוי ותוקנה,Record opened under the wrong patient and corrected
+IN-2025-044,2025-04-15,GH-NAH,documentation,no_harm,"בת המטופלת אמרה בביקור שהאם הפסיקה אליקוויס; לא הופיע בסיכום שהוכתב. נרשם NSAID; זוהה ע""י רופא המשפחה למחרת.",The patient's daughter said in the visit that her mother had stopped Eliquis; it was not in the dictated summary. An NSAID was prescribed; the family doctor caught it the next day.
+IN-2025-034,2025-04-16,GH-NOF,vaccine,near_miss,תקלה בקירור חיסונים במשך הלילה,Vaccine fridge temperature excursion overnight
+IN-2025-011,2025-04-23,GH-NAH,communication,no_harm,מטופל לא קיבל הודעה על ביטול תור,Patient not told about a cancelled appointment
+IN-2025-077,2025-05-16,GH-MGR,vaccine,near_miss,תקלה בקירור חיסונים במשך הלילה,Vaccine fridge temperature excursion overnight
+IN-2025-065,2025-05-27,GH-NAZD,fall,minor,נפילה של מטופל בחדר ההמתנה,Patient fall in the waiting room
+IN-2025-001,2025-06-05,GH-KRMW,lab,near_miss,תוצאת מעבדה חריגה לא נצפתה במשך שבוע,Abnormal lab result not seen for a week
+IN-2025-027,2025-06-29,GH-KRMW,lab,near_miss,תוצאת מעבדה חריגה לא נצפתה במשך שבוע,Abnormal lab result not seen for a week
+IN-2025-047,2025-07-04,GH-HAT,aggression,no_harm,אלימות מילולית כלפי מזכירה,Verbal aggression towards a receptionist
+IN-2025-073,2025-08-05,GH-NAZD,aggression,no_harm,אלימות מילולית כלפי מזכירה,Verbal aggression towards a receptionist
+IN-2025-023,2025-08-12,GH-NAZD,vaccine,near_miss,תקלה בקירור חיסונים במשך הלילה,Vaccine fridge temperature excursion overnight
+IN-2025-071,2025-08-14,GH-MAJ,documentation,no_harm,רשומה נפתחה על שם מטופל שגוי ותוקנה,Record opened under the wrong patient and corrected
+IN-2025-015,2025-08-31,GH-AKK,identification,near_miss,מדבקה עם שם מטופל אחר על מבחנה,Another patient's label on a sample tube
+IN-2025-007,2025-09-03,GH-MAJ,equipment,no_harm,"מכשיר א.ק.ג. לא תקין, בדיקה נדחתה","ECG machine faulty, test postponed"
+IN-2025-030,2025-09-26,GH-HAT,medication,near_miss,"מינון שגוי במרשם, תוקן ע""י הרוקח","Wrong dose on a prescription, corrected by the pharmacist"
+IN-2025-064,2025-09-29,GH-KRMW,lab,no_harm,תוצאת מעבדה חריגה לא נצפתה במשך שבוע,Abnormal lab result not seen for a week
+IN-2025-046,2025-10-14,GH-MGR,identification,near_miss,מדבקה עם שם מטופל אחר על מבחנה,Another patient's label on a sample tube
+IN-2025-010,2025-10-29,GH-SAF,fall,no_harm,נפילה של מטופל בחדר ההמתנה,Patient fall in the waiting room
+IN-2025-024,2025-11-11,GH-NAZD,fall,no_harm,נפילה של מטופל בחדר ההמתנה,Patient fall in the waiting room
+IN-2025-006,2025-11-18,GH-NAZD,equipment,no_harm,"מכשיר א.ק.ג. לא תקין, בדיקה נדחתה","ECG machine faulty, test postponed"
+IN-2025-041,2025-11-20,GH-SAF,referral,no_harm,הפניה לקרדיולוג לא נשלחה,Cardiology referral not sent
+IN-2025-068,2025-12-03,GH-KRMW,documentation,no_harm,רשומה נפתחה על שם מטופל שגוי ותוקנה,Record opened under the wrong patient and corrected
+IN-2026-038,2026-01-12,GH-MGR,communication,no_harm,מטופל לא קיבל הודעה על ביטול תור,Patient not told about a cancelled appointment
+IN-2026-026,2026-01-18,GH-NAZ,fall,no_harm,נפילה של מטופל בחדר ההמתנה,Patient fall in the waiting room
+IN-2026-012,2026-01-19,GH-NAZ,lab,no_harm,תוצאת מעבדה חריגה לא נצפתה במשך שבוע,Abnormal lab result not seen for a week
+IN-2026-035,2026-01-28,GH-TIB,identification,near_miss,מדבקה עם שם מטופל אחר על מבחנה,Another patient's label on a sample tube
+IN-2026-054,2026-02-06,GH-AKK,medication,near_miss,"מינון שגוי במרשם, תוקן ע""י הרוקח","Wrong dose on a prescription, corrected by the pharmacist"
+IN-2026-043,2026-02-17,GH-MGR,referral,minor,הפניה לקרדיולוג לא נשלחה,Cardiology referral not sent
+IN-2026-016,2026-02-27,GH-HAT,fall,minor,נפילה של מטופל בחדר ההמתנה,Patient fall in the waiting room
+IN-2026-003,2026-03-10,GH-NOF,fall,minor,נפילה של מטופל בחדר ההמתנה,Patient fall in the waiting room
+IN-2026-019,2026-04-02,GH-MAJ,communication,minor,"מטופלת דוברת ערבית נבדקה ע""י רופא מחליף ללא מתורגמן; הוראות המינון הובנו לא נכון.",An Arabic-speaking patient was seen by a substitute doctor without an interpreter; the dosing instructions were misunderstood.
+IN-2026-040,2026-04-06,GH-MGR,referral,minor,הפניה לקרדיולוג לא נשלחה,Cardiology referral not sent
+IN-2026-058,2026-05-14,GH-NOF,identification,near_miss,מדבקה עם שם מטופל אחר על מבחנה,Another patient's label on a sample tube
+IN-2026-015,2026-06-21,GH-SAF,referral,minor,הפניה לקרדיולוג לא נשלחה,Cardiology referral not sent
+IN-2026-060,2026-07-25,GH-MAJ,referral,no_harm,הפניה לקרדיולוג לא נשלחה,Cardiology referral not sent
+IN-2026-018,2026-08-04,GH-NOF,documentation,no_harm,רשומה נפתחה על שם מטופל שגוי ותוקנה,Record opened under the wrong patient and corrected
+IN-2026-025,2026-08-31,GH-MAJ,lab,near_miss,תוצאת מעבדה חריגה לא נצפתה במשך שבוע,Abnormal lab result not seen for a week
+IN-2026-020,2026-09-12,GH-NAZ,medication,near_miss,"מינון שגוי במרשם, תוקן ע""י הרוקח","Wrong dose on a prescription, corrected by the pharmacist"
+IN-2026-001,2026-09-14,GH-AKK,referral,minor,הפניה לקרדיולוג לא נשלחה,Cardiology referral not sent
+IN-2026-014,2026-09-16,GH-MGR,fall,minor,נפילה של מטופל בחדר ההמתנה,Patient fall in the waiting room
+IN-2026-021,2026-09-17,GH-MAJ,referral,no_harm,הפניה לקרדיולוג לא נשלחה,Cardiology referral not sent
+IN-2026-052,2026-09-17,GH-KRM,documentation,near_miss,"אלרגיה לפניצילין שדווחה ע""י בן המטופלת (ברוסית) לא הופיעה ברשומה. הרופאה ציינה שהסיכום 'מהטלפון' השמיט אותה. אחות זיהתה לפני מתן מרשם.",A penicillin allergy reported by the patient's son (in Russian) was missing from the record. The doctor said the summary 'from the phone' had left it out. A nurse caught it before a prescription was issued.
+IN-2026-002,2026-09-19,GH-NAZ,medication,no_harm,"מינון שגוי במרשם, תוקן ע""י הרוקח","Wrong dose on a prescription, corrected by the pharmacist"
+IN-2026-031,2026-09-29,GH-TIBC,identification,near_miss,מדבקה עם שם מטופל אחר על מבחנה,Another patient's label on a sample tube
+IN-2026-073,2026-10-06,GH-MAJ,referral,no_harm,הפניה לקרדיולוג לא נשלחה,Cardiology referral not sent
+IN-2026-046,2026-10-20,GH-MGR,fall,minor,נפילה של מטופל בחדר ההמתנה,Patient fall in the waiting room
+IN-2026-028,2026-10-28,GH-NAZ,communication,minor,מטופל לא קיבל הודעה על ביטול תור,Patient not told about a cancelled appointment

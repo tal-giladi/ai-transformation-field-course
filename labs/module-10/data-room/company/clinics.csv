@@ -1,0 +1,15 @@
+clinic_id,name,region,type,notara_version,doctors,nurses,main_patient_languages
+GH-AKK,Akko,Western Galilee,primary,9.2,6,3,ar;he
+GH-NAH,Nahariya,Western Galilee,primary,9.2,6,3,he;ru
+GH-NAHP,Nahariya Child Development & Paediatrics,Western Galilee,specialist,9.2,4,3,he;ar;ru
+GH-KRM,Karmiel,Karmiel–Misgav,primary,9.2,7,4,ru;he
+GH-MAJ,Majd al-Krum,Karmiel–Misgav,primary,9.2,5,3,ar
+GH-KRMW,Karmiel Women's Health,Karmiel–Misgav,specialist,9.2,4,3,he;ru;ar
+GH-NAZ,Nazareth,Nazareth,primary,9.2,7,4,ar
+GH-NOF,Nof HaGalil,Nazareth,primary,9.2,7,3,ru;ar;he
+GH-NAZD,Nazareth Diabetes & Endocrine Centre,Nazareth,specialist,9.2,4,3,ar;ru;he
+GH-SAF,Safed,Upper Galilee,primary,7.4,6,3,he;ru
+GH-HAT,Hatzor HaGlilit,Upper Galilee,primary,7.4,5,2,he;ru
+GH-TIB,Tiberias,Kinneret,primary,7.4,6,3,ru;he
+GH-MGR,Maghar,Kinneret,primary,7.4,5,2,ar
+GH-TIBC,Tiberias Cardiology & Internal Medicine,Kinneret,specialist,7.4,6,3,he;ru;ar

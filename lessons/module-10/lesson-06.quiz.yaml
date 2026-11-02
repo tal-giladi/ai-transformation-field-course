@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    Your steering pack recommends Rishma. Where do ScribeWave's PoC results and terms belong?
+  options:
+    - >-
+      In an annex, so the front page stays positive about the recommended vendor.
+    - >-
+      Out of the pack, since ScribeWave is no longer under consideration.
+    - >-
+      On the front page, as a recommend-against with its evidence.
+    - >-
+      In a separate memo to the CEO only, to avoid embarrassing her.
+  correct: 2
+  explanation: >-
+    The CEO announced ScribeWave to the board; if the evidence against it is not on the front page, the
+    room will not discuss it and the discount will win by default. Sharing it privately first is the
+    rehearsal, not a substitute for putting it in the pack.
+
+- id: q2
+  question: >-
+    Your integration check finds the pilot plan says "start 1 March" while Fund A has until 6 March to
+    approve. What do you do?
+  options:
+    - >-
+      Move the pilot to 14 March and show the dependency in the pack.
+    - >-
+      Keep 1 March and ask counsel to press Fund A for an early answer.
+    - >-
+      Start on 1 March with Fund B's members only, since Fund B needs notice.
+    - >-
+      Leave it, since dates usually move after the steering meeting anyway.
+  correct: 0
+  explanation: >-
+    A date that depends on someone else's approval is set by that approval. Starting with only some
+    patients' visits is impractical and still risky; hoping for an early answer is a plan to break the
+    agreement if it doesn't come.
+
+- id: q3
+  question: >-
+    In the private rehearsal, your first attempt opens with the PoC table and the CEO spends ten minutes
+    defending the demo. What changes in the second attempt?
+  options:
+    - >-
+      The finding is softened: ScribeWave is presented as a close second.
+    - >-
+      You bring the CMO and counsel so she hears the finding from them.
+    - >-
+      You drop the Fund A point, since it is the most embarrassing for her.
+    - >-
+      The order: her goal first, then Galil's facts, then the PoC, then the date.
+  correct: 3
+  explanation: >-
+    Change the delivery, never the finding. Starting from her own goal and Galil's facts lets her reach the
+    conclusion herself; the funds' timeline as a date rather than a reproach gives her something to say to
+    the board.
+
+- id: q4
+  question: >-
+    The steering committee approves "Rishma, subject to approvals". What makes this a decision record
+    rather than a hope?
+  options:
+    - >-
+      A signature from every member under the word "approved".
+    - >-
+      An owner and a date for each condition, the stop rules and the gate date.
+    - >-
+      A note that the consultant will follow up after the contract ends.
+    - >-
+      A budget line for the full rollout to all 120 clinicians.
+  correct: 1
+  explanation: >-
+    Conditions without owners and dates are where impatience wins: someone signs early to "save time".
+    Owners, dates, stop rules and a gate turn the approval into something that can be checked; a budget
+    for full rollout would pre-empt the gate.
+
+- id: q5
+  question: >-
+    A year later, the futures differ mainly by one thing that happened, or didn't, in December. What was it?
+  options:
+    - >-
+      Whether anyone asked how the demo numbers were measured, before signing.
+    - >-
+      Whether the CEO attended the demo of the vendor that later won the contract.
+    - >-
+      Whether Galil upgraded its two older Notara regions before choosing.
+    - >-
+      Whether the board approved a larger 2027 budget line for the scribe.
+  correct: 0
+  explanation: >-
+    The futures split on whether claims were read under their measurement conditions and tested on Galil's
+    own visits, and whether the deadline was tested against the health funds' contracts, before anyone
+    signed. Upgrades and budget mattered less than evidence and timing.

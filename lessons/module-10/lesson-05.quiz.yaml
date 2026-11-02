@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    Kol Refua is the cheapest vendor and scores well on Hebrew, but it refuses the must-have on data
+    location. The CFO asks whether it could win on price. What do you answer?
+  options:
+    - >-
+      No: refusing a must-have excludes it before ranking, unless it changes the term.
+    - >-
+      Yes, if its weighted score comes within half a point of the leading vendor's score.
+    - >-
+      Yes, if Galil adds a clause making the vendor responsible for any fine.
+    - >-
+      Only if the DPO agrees to treat data location as a nice-to-have for this purchase.
+  correct: 0
+  explanation: >-
+    Must-haves are a gate, not a weight. A low price or a good score cannot buy back a term Galil decided
+    it cannot do without; only a written change by the vendor can. Shifting a must-have to win a price
+    argument defeats the point of setting it before the answers arrived.
+
+- id: q2
+  question: >-
+    The CIO argues integration should weigh 3, not 1. You recompute: Rishma 3.80, MedNote 2.67. What
+    do you write in the paper?
+  options:
+    - >-
+      Nothing, because the weights were locked and reopening them signals weakness.
+    - >-
+      That the weights are reopened, and a new scoring round is held with the CIO's weights.
+    - >-
+      That the CIO's view has been noted for the next procurement.
+    - >-
+      That no reasonable change of weights moves another vendor ahead, with the recomputed scores.
+  correct: 3
+  explanation: >-
+    A sensitivity check answers the objection with numbers without reopening the lock. Showing that the
+    choice survives the CIO's weights makes the recommendation stronger; ignoring him or restarting the
+    scoring both invite the argument to continue in the room.
+
+- id: q3
+  question: >-
+    The CEO wants the pilot to start on 1 March. Fund A's approval request goes out on 20 January and the
+    fund has 45 days to answer. What sets the pilot's start date?
+  options:
+    - >-
+      The CEO's date, with Fund A informed that the pilot has started.
+    - >-
+      Fund A's approval, so the start moves to after 6 March, here 14 March.
+    - >-
+      The vendor's onboarding schedule, since it has the most staff to plan.
+    - >-
+      The board meeting, so that the pilot is running when the CEO reports.
+  correct: 1
+  explanation: >-
+    The fund's agreement requires prior written approval before an outside party processes its members'
+    information, so the pilot cannot start before that answer. Building the timeline backwards from the
+    dependencies is what turns a wish into a date.
+
+- id: q4
+  question: >-
+    A doctor reviews every scribe draft before signing it. Why does the pilot plan still include a
+    weekly audit of 10 notes per doctor against the audio?
+  options:
+    - >-
+      Because the vendor's contract requires Galil to check a sample of its notes.
+    - >-
+      Because the audit replaces the doctor's review once the pilot ends.
+    - >-
+      Because doctors reading fluent drafts at the end of a list miss what was left out.
+    - >-
+      Because the audit is the only way to measure the time the scribe saves.
+  correct: 2
+  explanation: >-
+    Human review fails quietly when the output is usually right and the reviewer is tired; Galil's 2025
+    near misses were omissions nobody caught at signing. The audit checks the system, not the doctor, and
+    feeds the stop rules. Time saved comes from the audit log, not the audit.
+
+- id: q5
+  question: >-
+    The pilot records doctors' visits only. Why must the staff committee still be consulted before it
+    starts?
+  options:
+    - >-
+      Because nurses who interpret in a recorded visit are recorded too.
+    - >-
+      Because the committee must approve every purchase above ₪100,000.
+    - >-
+      Because doctors are covered by the collective agreement as well.
+    - >-
+      Because the Ministry's cloud circular requires the staff committee's opinion.
+  correct: 0
+  explanation: >-
+    The collective agreement requires written notice and consultation before technology that records
+    employees' work, and nurses interpret in many mixed-language visits. Doctors are on personal
+    contracts, purchases follow the finance procedure, and the cloud circular names a different committee.

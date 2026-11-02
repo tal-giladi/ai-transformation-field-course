@@ -89,18 +89,18 @@ For BUILD_PROGRESS.md: tick "Simulations batch 3". Lesson links:
 
 - Galil Health: **14 community clinics** in the north, **about 120 doctors and nurses**, patients speak
   Hebrew, Arabic and Russian (roughly a third each, often with a relative in the room). Clinic record system:
-  **Clinix** (fictional). Two of **five regions** run an older Clinix version.
+  **Notara** (fictional). Two of **five regions** run an older Notara version.
 - Criteria and weights (agreed before the demos): demo vs evidence ×2, clinical safety ×3, privacy and data
   ×3, Hebrew/Arabic/Russian ×2, integration ×1, contract and exit ×2.
 - Vendors (all fictional): **ScribeWave** (large US; "98% accuracy" on scripted English studio visits; Hebrew
   beta; data may train models unless enterprise plan; audio 90 days; EU/US only), **Kol Refua** (Israeli
   start-up, best Hebrew; no Arabic; "never leaves Israel" but a US speech API in the sub-processor annex; 18
-  months of funding), **MedNote for Clinix** (the record vendor's add-on; "95%" on dictation; "product
-  improvement" data clause; year-two price open), **Vocalis Health** (European, 200 people; independent
+  months of funding), **MedNote for Notara** (the record vendor's add-on; "95%" on dictation; "product
+  improvement" data clause; year-two price open), **Rishma Health** (European, 200 people; independent
   university-hospital evaluation, 1,200 visits in four languages, 2.1% omissions; three Israeli clinics for 14
   months; accepts every must-have; Israel hosting about 8% extra; dearest, about ₪1,300 per clinician a month).
 - Proof of concept: **90 synthetic visits** (30 per language, actors, real-shaped scripts, relatives and room
-  noise). Vocalis: word error 9 / 11 / 10% (he / ar / ru), 2 omissions and 0.5 invented findings per 100 notes,
+  noise). Rishma: word error 9 / 11 / 10% (he / ar / ru), 2 omissions and 0.5 invented findings per 100 notes,
   3 minutes to correct.
 - Must-have terms: no training on our data (de-identified included); audio deleted within 30 days of
   sign-off; Israel or a location the DPO approves; sub-processor list with notice and objection; model-change
@@ -110,9 +110,9 @@ For BUILD_PROGRESS.md: tick "Simulations batch 3". Lesson links:
   is asserted anywhere; the sim says health data is especially sensitive under Israeli privacy law and the
   Ministry of Health has its own rules, and that which apply is their call); a six-week clinician pilot in two
   clinics (one Arabic-speaking) with a stop rule; consent wording by the medical director and the DPO.
-- Expert: **Vocalis Health**. Weighted evidence scores: Vocalis 3.92, ScribeWave 2.31, MedNote 2.31, Kol Refua
-  2.00; the demo impressions rank them the other way (Vocalis last, 2.92). "Twelve months later" texts per
-  vendor are in the preset (e.g. Vocalis: region-by-region rollout, Arabic clinics adopted fastest, integration
+- Expert: **Rishma Health**. Weighted evidence scores: Rishma 3.92, ScribeWave 2.31, MedNote 2.31, Kol Refua
+  2.00; the demo impressions rank them the other way (Rishma last, 2.92). "Twelve months later" texts per
+  vendor are in the preset (e.g. Rishma: region-by-region rollout, Arabic clinics adopted fastest, integration
   four months, note time down about 35 minutes a day).
 
 ### Module 15 — `operating-model-scaler`, preset `crescent`
@@ -153,7 +153,7 @@ For BUILD_PROGRESS.md: tick "Simulations batch 3". Lesson links:
 2. Every Lumen, Galil and Crescent number above is an assumption made before the modules exist. When the
    module writers build the data rooms, either match these or change the preset (and re-run
    `validateScenario`); the field lists are at the top of each `presets.js`.
-3. Vendor and product names (ScribeWave, Kol Refua, MedNote, Clinix, Vocalis Health, Lumen Shifts, Lumen Assist)
+3. Vendor and product names (ScribeWave, Kol Refua, MedNote, Notara, Rishma Health, Lumen Shifts, Lumen Assist)
    are invented; a quick check that none is a real product in Israel would be prudent before publishing.
 
 ## Not done

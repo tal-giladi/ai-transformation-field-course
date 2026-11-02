@@ -1,0 +1,91 @@
+poc_visit_id,language,setting,scenario,speakers,relative_present,noise,variety,facts_total,hard_case
+P-01,he,primary,rash,2,n,quiet,Arabic-accented,11,none
+P-02,he,primary,medication review after hospital,3,y,quiet,Arabic-accented,15,none
+P-03,he,primary,diabetes follow-up,2,n,quiet,Arabic-accented,11,code_switching;drug_brand_names
+P-04,he,primary,medication review after hospital,3,y,quiet,native,11,med_change_said_by_relative;drug_brand_names
+P-05,he,primary,diabetes follow-up,3,y,corridor,Russian-accented,12,none
+P-06,he,primary,medication review after hospital,3,y,corridor,Arabic-accented,11,med_change_said_by_relative;code_switching;drug_brand_names
+P-07,he,primary,back pain,2,n,quiet,native,10,drug_brand_names
+P-08,he,primary,hypertension review,3,y,quiet,native,10,med_change_said_by_relative
+P-09,he,primary,rash,2,n,quiet,Arabic-accented,15,code_switching
+P-10,he,primary,new cough and fever,3,y,corridor,Arabic-accented,11,med_change_said_by_relative;drug_brand_names
+P-11,he,primary,asthma flare,3,y,quiet,native,11,med_change_said_by_relative;drug_brand_names
+P-12,he,primary,new cough and fever,3,y,quiet,native,12,none
+P-13,he,primary,diabetes follow-up,2,n,quiet,Arabic-accented,15,none
+P-14,he,primary,diabetes follow-up,3,y,child_in_room,Russian-accented,9,code_switching;drug_brand_names
+P-15,he,primary,new cough and fever,2,n,child_in_room,Arabic-accented,14,none
+P-16,he,primary,back pain,3,y,child_in_room,native,9,none
+P-17,he,primary,new cough and fever,3,y,quiet,native,13,none
+P-18,he,primary,fatigue and anaemia results,3,y,air_conditioner,native,15,none
+P-19,he,primary,new cough and fever,2,n,corridor,Arabic-accented,14,none
+P-20,he,primary,fatigue and anaemia results,3,y,quiet,Arabic-accented,12,code_switching
+P-21,he,primary,rash,2,n,corridor,Arabic-accented,12,none
+P-22,he,primary,back pain,3,y,air_conditioner,native,10,med_change_said_by_relative;drug_brand_names
+P-23,he,specialist,chest pain follow-up (cardiology),2,n,air_conditioner,Russian-accented,15,none
+P-24,he,specialist,pregnancy check (gynaecology),3,y,quiet,Russian-accented,14,med_change_said_by_relative;drug_brand_names
+P-25,he,specialist,chest pain follow-up (cardiology),2,n,air_conditioner,native,8,none
+P-26,he,specialist,insulin adjustment (endocrinology),3,y,quiet,native,9,none
+P-27,he,specialist,chest pain follow-up (cardiology),2,n,quiet,native,15,code_switching
+P-28,he,specialist,pregnancy check (gynaecology),3,y,air_conditioner,native,10,drug_brand_names
+P-29,he,specialist,chest pain follow-up (cardiology),2,n,air_conditioner,Arabic-accented,15,drug_brand_names
+P-30,he,specialist,pregnancy check (gynaecology),3,y,quiet,native,9,none
+P-31,ar,primary,medication review after hospital,2,n,corridor,Druze,15,drug_brand_names
+P-32,ar,primary,diabetes follow-up,3,y,quiet,Galilee urban,8,code_switching
+P-33,ar,primary,rash,2,n,quiet,Galilee urban,12,none
+P-34,ar,primary,asthma flare,3,y,quiet,Galilee rural,13,code_switching;drug_brand_names
+P-35,ar,primary,medication review after hospital,3,y,air_conditioner,Galilee urban,12,med_change_said_by_relative
+P-36,ar,primary,hypertension review,3,y,air_conditioner,Druze,8,med_change_said_by_relative
+P-37,ar,primary,diabetes follow-up,2,n,child_in_room,Druze,15,none
+P-38,ar,primary,hypertension review,3,y,air_conditioner,Galilee rural,11,med_change_said_by_relative
+P-39,ar,primary,back pain,2,n,air_conditioner,Galilee urban,8,code_switching
+P-40,ar,primary,hypertension review,3,y,quiet,Galilee rural,8,code_switching
+P-41,ar,primary,fatigue and anaemia results,3,y,quiet,Galilee rural,10,code_switching
+P-42,ar,primary,new cough and fever,3,y,child_in_room,Galilee urban,8,med_change_said_by_relative;drug_brand_names
+P-43,ar,primary,new cough and fever,2,n,child_in_room,Galilee urban,10,none
+P-44,ar,primary,hypertension review,3,y,child_in_room,Druze,13,code_switching;drug_brand_names
+P-45,ar,primary,asthma flare,2,n,child_in_room,Galilee urban,8,code_switching
+P-46,ar,primary,rash,3,y,corridor,Galilee urban,11,drug_brand_names
+P-47,ar,primary,asthma flare,3,y,quiet,Galilee rural,13,code_switching;drug_brand_names
+P-48,ar,primary,rash,3,y,corridor,Galilee rural,8,med_change_said_by_relative;code_switching
+P-49,ar,primary,hypertension review,2,n,quiet,Galilee urban,10,code_switching
+P-50,ar,primary,rash,3,y,quiet,Galilee urban,14,med_change_said_by_relative;code_switching
+P-51,ar,primary,back pain,2,n,child_in_room,Galilee urban,12,code_switching
+P-52,ar,primary,asthma flare,3,y,child_in_room,Galilee urban,14,med_change_said_by_relative;drug_brand_names
+P-53,ar,specialist,heart failure review (cardiology),2,n,quiet,Galilee urban,13,code_switching
+P-54,ar,specialist,pregnancy check (gynaecology),3,y,corridor,Galilee urban,12,code_switching
+P-55,ar,specialist,child development review (paediatrics),2,n,quiet,Galilee urban,8,none
+P-56,ar,specialist,insulin adjustment (endocrinology),3,y,child_in_room,Druze,15,none
+P-57,ar,specialist,heart failure review (cardiology),2,n,air_conditioner,Galilee rural,13,code_switching
+P-58,ar,specialist,pregnancy check (gynaecology),3,y,quiet,Galilee rural,8,med_change_said_by_relative;drug_brand_names
+P-59,ar,specialist,heart failure review (cardiology),2,n,quiet,Druze,11,drug_brand_names
+P-60,ar,specialist,chest pain follow-up (cardiology),3,y,quiet,Galilee rural,9,med_change_said_by_relative;drug_brand_names
+P-61,ru,primary,back pain,2,n,child_in_room,standard,10,drug_brand_names
+P-62,ru,primary,diabetes follow-up,3,y,corridor,standard,15,code_switching;drug_brand_names
+P-63,ru,primary,back pain,2,n,air_conditioner,with Hebrew loanwords,12,code_switching;drug_brand_names
+P-64,ru,primary,hypertension review,3,y,corridor,standard,13,none
+P-65,ru,primary,medication review after hospital,3,y,air_conditioner,standard,14,med_change_said_by_relative;code_switching
+P-66,ru,primary,asthma flare,3,y,corridor,with Hebrew loanwords,9,med_change_said_by_relative;code_switching;drug_brand_names
+P-67,ru,primary,medication review after hospital,2,n,quiet,with Hebrew loanwords,8,code_switching;drug_brand_names
+P-68,ru,primary,fatigue and anaemia results,3,y,air_conditioner,standard,8,med_change_said_by_relative
+P-69,ru,primary,back pain,2,n,corridor,standard,9,drug_brand_names
+P-70,ru,primary,asthma flare,3,y,quiet,with Hebrew loanwords,11,drug_brand_names
+P-71,ru,specialist,heart failure review (cardiology),3,y,corridor,standard,13,none
+P-72,ru,primary,rash,3,y,quiet,with Hebrew loanwords,8,code_switching
+P-73,ru,primary,asthma flare,2,n,air_conditioner,standard,12,code_switching;drug_brand_names
+P-74,ru,primary,medication review after hospital,3,y,corridor,standard,8,med_change_said_by_relative;code_switching
+P-75,ru,primary,hypertension review,2,n,air_conditioner,standard,15,code_switching;drug_brand_names
+P-76,ru,primary,new cough and fever,3,y,quiet,with Hebrew loanwords,10,med_change_said_by_relative
+P-77,ru,primary,back pain,3,y,child_in_room,standard,11,med_change_said_by_relative
+P-78,ru,primary,diabetes follow-up,3,y,quiet,standard,10,med_change_said_by_relative;code_switching
+P-79,ru,primary,fatigue and anaemia results,2,n,quiet,standard,9,none
+P-80,ru,primary,fatigue and anaemia results,3,y,quiet,with Hebrew loanwords,8,none
+P-81,ru,primary,back pain,2,n,quiet,with Hebrew loanwords,13,code_switching
+P-82,ru,primary,asthma flare,3,y,quiet,standard,9,med_change_said_by_relative;drug_brand_names
+P-83,ru,specialist,pregnancy check (gynaecology),2,n,quiet,with Hebrew loanwords,11,none
+P-84,ru,specialist,child development review (paediatrics),3,y,child_in_room,standard,14,code_switching;drug_brand_names
+P-85,ru,specialist,chest pain follow-up (cardiology),2,n,quiet,standard,10,code_switching
+P-86,ru,specialist,heart failure review (cardiology),3,y,child_in_room,standard,8,med_change_said_by_relative;code_switching
+P-87,ru,specialist,pregnancy check (gynaecology),2,n,child_in_room,standard,9,none
+P-88,ru,specialist,chest pain follow-up (cardiology),3,y,corridor,standard,8,med_change_said_by_relative;code_switching
+P-89,ru,specialist,pregnancy check (gynaecology),2,n,child_in_room,standard,14,code_switching
+P-90,ru,specialist,insulin adjustment (endocrinology),3,y,corridor,with Hebrew loanwords,8,med_change_said_by_relative
