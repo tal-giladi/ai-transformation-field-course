@@ -1,0 +1,15 @@
+/* incident-tabletop: page-specific styles (the shared look is in ../common/sim.css). */
+
+.info { font-size: 1.02rem; }
+.info.extra { padding: 8px 10px; border-left: 4px solid var(--warn); background: var(--warn-soft); border-radius: 6px; }
+
+.choices .choice { display: flex; gap: 10px; align-items: flex-start; padding: 6px 0; }
+.choices input[type="radio"] { margin-top: 4px; width: 18px; height: 18px; flex: none; }
+
+.timeline { list-style: none; padding: 0; margin: 0; max-height: 640px; overflow-y: auto; }
+.tl-item { padding: 8px 0 8px 12px; border-left: 3px solid var(--accent); margin-bottom: 10px; }
+.tl-when { font-weight: 700; margin-bottom: 4px; }
+.tl-item ul { padding-left: 1.1em; }
+.tl-item li { margin-bottom: 6px; }
+.bad-text { color: var(--bad); font-weight: 600; }
+.compact { padding-left: 1.1em; margin: 0; }

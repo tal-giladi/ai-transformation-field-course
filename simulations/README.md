@@ -32,6 +32,11 @@ and says so on the page. The learner can also switch scenarios with the picker.
 | `pilot-economics` | Volume × automation × accuracy × review and rework minutes × tokens → monthly net value, net hours (capacity, not cash), breakeven; charts of net value vs accuracy and vs review minutes; shows when review eats the saving | `harbor`, `generic` | 05.4 and 03.7 |
 | `oversight-under-load` | A review queue over two working weeks (Sun–Thu); load, rubber-stamping, vigilance; toggles "source shown beside the draft" and "flag feedback on"; the capacity screen; must meet a target for errors reaching customers within a reviewer-hours limit | `harbor`, `generic` | 05.5 |
 | `adoption-dynamics` | A 26-week rollout plan (training generic vs role-based, champions, office hours, workflow redesign, mandate, removing the old path); licences vs weekly active users vs qualified-use rate; a hidden "who stopped" view of quiet non-adoption; Goodhart under a mandate | `harbor`, `generic` | 06.4 |
+| `readiness-evidence-grader` | Sorts 17 dated evidence items (interview notes, a KPI report, the handbook, export profiles, vendor statements, emails) into verified / reported / contradicted; picks proceed / phase / not yet; sees the steering group react to the same verdict with an honest and an over-claimed report | `harbor` | 02.6 |
+| `roi-defender` | Seven sponsor claims (₪1.36M a year, "the 40%") under the CFO's review: nets each across four ledgers (sponsor's team, receiving team, control capacity, customer's share), labels measured / directional / assumed, separates capacity from cash, applies the 12% hurdle and the ₪150k three-year board line; defensible vs claimed number and which claims survived | `harbor` | 03.7 |
+| `risk-register-tester` | Twelve owner-rated risks and a 15-point testing budget (ask the owner 1, sample the evidence 2, run a test 3); unearned greens, overstated reds; re-rates and sees the register's credibility before and after: earn the green | `harbor` | 04.5 |
+| `steering-committee` | A branching steering meeting with the CEO, CFO, sponsor, IT and the support manager; answer first, evidence vs inference, concede, overclaim, defer, ask for the decision; the sponsor-as-advocate branch; approved / with conditions / sent back / killed and "six months later" | `harbor` | 07.4 |
+| `incident-tabletop` | The draft pilot promises refunds outside policy and discloses another customer's address; six points over four days; contain, communicate, fix, report (privacy goes to the DPO or counsel, no legal deadline asserted); scored on harm, time to contain, trust and documentation; compared with a runbook | `harbor` | 07.5 |
 
 URL examples (from a lesson two folders deep):
 
@@ -40,6 +45,11 @@ URL examples (from a lesson two folders deep):
 - `../../simulations/pilot-economics/index.html?preset=harbor` (05.4) and `?preset=generic`
 - `../../simulations/oversight-under-load/index.html?preset=harbor`
 - `../../simulations/adoption-dynamics/index.html?preset=harbor`
+- `../../simulations/readiness-evidence-grader/index.html?preset=harbor` (02.6)
+- `../../simulations/roi-defender/index.html?preset=harbor` (03.7, after pilot-economics)
+- `../../simulations/risk-register-tester/index.html?preset=harbor` (04.5)
+- `../../simulations/steering-committee/index.html?preset=harbor` (07.4)
+- `../../simulations/incident-tabletop/index.html?preset=harbor` (07.5)
 
 ## Presets and their parameters
 
@@ -94,6 +104,40 @@ month and the answer when asked), `cards` (claimed benefit, evidence, volume, er
 error, build cost, team, hours to absorb, hidden `truth`, `expertRating`), `expert` (criteria,
 picks, `mustHave`), `lessonPoint`. The field lists are at the top of each `presets.js`.
 
+### Batch 2: scenario presets (data only)
+
+All five batch-2 simulations are scenario presets: the engine in `model.js` knows nothing about
+Harbor & Pine, and each `model.js` exports `validateScenario(preset)`, which returns a list of
+problems (empty when the data is consistent). The field lists are at the top of each `presets.js`.
+
+- `steering-committee`: `cast` (id, name, role, `concern`, starting `mood` 0–4, `weight`, `sponsor`),
+  `paper` (lines of the paper the learner sent), `rounds` (speaker, prompt, optional `when`, `advocate`
+  for the sponsor-as-advocate moment, `choices` with `type`, text, reply, `moods` deltas, `honesty`
+  delta, `sets` flags), `outcomes` (kind `approved | conditions | sentBack | killed`, `when`, text,
+  `later` variants), `lessonPoint`. Conditions are plain data (`flag`, `notFlag`, `support`, `mood`,
+  `honesty`, `all`, `any`, `not`), described at the top of `model.js`. `harbor`: CEO and CFO weight 2,
+  sponsor 1.5, others 1; approved needs support of at least 2.2 and an explicit ask.
+- `incident-tabletop`: `start` (running, customers already harmed, trust), `fixedFlag`, `injects` (t in
+  hours, clock text, info, `extra` lines by flag, `exposure` = customers harmed until the next inject
+  while the feature is fully on and the cause is not fixed, `decisions` with options tagged by runbook
+  `step` and `quality` best / ok / poor and `effects`), `runbook`, `flagNotes`, `scoring` (6 points per
+  customer harmed; containment bands from 30 minutes to a day). Never write an option that states a
+  legal deadline as the right answer: reporting questions go to the DPO or counsel.
+- `risk-register-tester`: `budget` (15), `costs` (ask 1, sample 2, test 3), `risks` (owner, owner's
+  rating, control as described, `evidence` per method with `strength` none / weak / strong, `truth`
+  rating, control kind and why). A green counts as earned only with strong evidence. Make sure testing
+  everything costs more than the budget.
+- `roi-defender`: `hourlyCost`, `hurdleRate`, `costs` (build, running per year, years), `approval`
+  levels (max total over the years), `claims` (claimed ₪ a year, basis, the deck's label and class,
+  `adjustments` on the four ledgers with `real` true/false, optional `target` claim, and why; `truth`
+  label and class). `harbor`: claimed ₪1,360,000; defensible ₪113,000 cash plus about 567 hours of
+  capacity a year; NPV at 12% over three years about ₪33,700; payback 22.5 months; three-year cost
+  ₪267,000, so the board approves. Claim 1's hours match `pilot-economics` `harbor`.
+- `readiness-evidence-grader`: `items` (kind, source, date, area, text, `truth`, `by` = the verified items
+  that confirm or contradict it, why, `challenge` for every item that is not verified),
+  `overclaimThreshold` (2), `verdicts` (one `best`, reactions and tones for an honest and an
+  over-claimed report, `changeIt`).
+
 ## How to add a preset
 
 1. Open the simulation's `presets.js`, copy an existing entry and give it a new key (lowercase,
@@ -102,12 +146,30 @@ picks, `mustHave`), `lessonPoint`. The field lists are at the top of each `prese
    learner is, what is being decided, what "done" looks like). Use fictional names only.
 3. Change the numbers or the scenario content. Keep every number realistic for that organization and
    say in `notes` which ones are assumptions.
-4. For a scenario preset (discovery, portfolio): every fact must be reachable by some question, every
+4. For a scenario preset (discovery, portfolio and all of batch 2): every fact must be reachable by some question, every
    flag a question `requires` must be set by another question, exactly one diagnosis is correct, and
    the expert's picks must fit the teams' capacities. The batch-1 model test (see the notes file) checks this for `harbor`.
+   For batch-2 simulations run `validateScenario` from the simulation's `model.js` on the new preset;
+   for `steering-committee` also play every path once (the batch-2 test enumerates all of them) and
+   check that each outcome you wrote can be reached.
 5. Check: `node --check simulations/<name>/presets.js`, then load the model in node and run the new
-   preset (see `curriculum/inbox/simulations-batch-1-notes.md` for the test used for batch 1), then
+   preset (see `curriculum/inbox/simulations-batch-1-notes.md` and `simulations-batch-2-notes.md` for the tests used), then
    open the page through a local static server (ES modules do not load from `file://`).
+
+## How an engagement module adds a preset
+
+An engagement module (8–17) re-uses a simulation with its own organization by adding one entry to that
+simulation's `presets.js`; no code changes.
+
+1. Pick a key named after the engagement (`insurance`, `hospital`…) and copy the `harbor` entry.
+2. Replace the cast, the issues and the numbers with the engagement's own, from `labs/module-NN/brief.md`
+   and its data room. For `steering-committee`, write the members' concerns first, then one round per
+   concern, then the sponsor-as-advocate round, then the decision round; write the outcomes last.
+3. Keep the lesson's point and rewrite `lessonPoint` only if the engagement adds something.
+4. Put every number that is not in the engagement's data room in `notes` as an assumption.
+5. Run `validateScenario` (and the path enumeration for `steering-committee`) and open the page with
+   `?preset=<key>`. Link it from the engagement lesson as
+   `[Simulation: Steering committee](../../simulations/steering-committee/index.html?preset=<key>)`.
 
 ## Code layout
 
@@ -115,6 +177,7 @@ picks, `mustHave`), `lessonPoint`. The field lists are at the top of each `prese
   (labelled slider + number box, toggle, select, button, stat tile), `chart.js` (inline-SVG line
   and bar charts with a table alternative), `format.js` (₪, %, hours, minutes, months), `random.js`
   (seeded random), `math.js`, `storage.js` (optional localStorage, always in try/catch), `dom.js`,
+  `table.js` (a table that becomes labelled blocks below 640 px, class `stack`),
   `sim.css` (light and dark, responsive from 360 px, visible focus).
 - `<name>/index.html` loads `../common/sim.css`, `<name>.css` and `app.js` only.
 - `<name>/model.js` is the pure model (no DOM), testable in node. `<name>/app.js` is the UI.

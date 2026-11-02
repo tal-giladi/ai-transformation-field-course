@@ -220,6 +220,15 @@ table { border-collapse: collapse; width: 100%; font-size: 0.9rem; font-variant-
 th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--border); vertical-align: top; }
 thead th { background: var(--surface-2); }
 
+/* Stacked tables (common/table.js): a normal table that becomes labelled blocks below 640 px. */
+@media (max-width: 640px) {
+  table.stack thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  table.stack, table.stack tbody, table.stack tr, table.stack th, table.stack td { display: block; width: 100%; }
+  table.stack tr { padding: 8px 0; border-bottom: 2px solid var(--border); }
+  table.stack th, table.stack td { border-bottom: 0; padding: 3px 0; }
+  table.stack td[data-label]::before { content: attr(data-label) ": "; font-weight: 600; color: var(--muted); }
+}
+
 /* Charts */
 .chart { margin: 0 0 var(--gap); }
 .chart-title { font-weight: 600; margin-bottom: 6px; }
