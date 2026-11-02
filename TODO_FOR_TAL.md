@@ -4,7 +4,7 @@ Plan: `curriculum/plan.md`. What IBM covers and the gap: `curriculum/research/ib
 
 Decide before writing starts:
 
-1. Should Claude read the IBM course content itself (you log in to Coursera in the in-app browser)? The public syllabus was enough for the plan; the exercise guides would let lessons name the exact IBM idea they build on.
+1. Done: IBM content read and the plan updated to fill its gaps (`curriculum/research/ibm-gap-map.md`).
 2. Free or paid? (suggestion: paid)
 3. Jurisdictions: EU + Israel + US (planned), or Israel-first?
 4. Code track (Python + API) in every build lab, or only some engagements? No-code track is in all of them.

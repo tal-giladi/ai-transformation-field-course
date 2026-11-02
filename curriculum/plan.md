@@ -6,7 +6,9 @@ the real work, write the documents, build and test the pilot, train the people, 
 of the steering committee — ten times, in ten different organizations.
 
 Written 2026-11-02. Status: plan only. No lessons written yet.
-Research input: `research/ibm-certificate.md` (what IBM covers and the gap).
+Research input: `research/ibm-gap-map.md` (what IBM teaches, what it leaves out, where we fill it —
+built from the full IBM content), `research/ibm-content/01–07` (per-course notes),
+`research/ibm-certificate.md` (public syllabus).
 
 ## 0. Binding build rules
 
@@ -41,6 +43,13 @@ or "the person who was told to do AI" — and in the first 90 days:
 **What it is not.** Not an AI engineering course (see `ai-engineer`, `llm-evals`), not the
 engineering-team course (`ai-native-org` covers coding agents and the SDLC), not legal advice. It
 re-uses IBM's judgment vocabulary and does not re-teach it.
+
+**Relation to IBM.** IBM is a judgment course: one decision per pre-written case card, every number
+already measured, one large multinational, seen from the C-suite, ending at board approval. This
+course is everything around those decisions: producing the evidence, the documents, the pilot, the
+conversations and the follow-through, in organizations of every size. When a lesson builds on an IBM
+idea it names it in one line in `## The situation` (e.g. "IBM's capacity screen") and moves on; the
+gap map says which lesson fills which gap.
 
 ## 2. Target learner
 
@@ -164,59 +173,66 @@ Both tracks produce the same artifacts: the pilot, a test set, an eval report wi
 2. 01.2 Getting a real mandate: sponsor, scope, money, authority, what "done" means (sponsor conversation roleplay)
 3. 01.3 The first-week plan and the 30-60-90 (template filled for Harbor & Pine)
 4. 01.4 Access: data, systems, people — the access request pack and how to get it signed
-5. 01.5 The shadow-AI census: survey, proxy/SaaS logs, expense reports, interviews (data room exercise)
-- Module practical: engagement charter + 30-60-90 + access pack + shadow-AI census for Harbor & Pine.
+5. 01.5 The shadow-AI census: survey, proxy/SaaS logs, expense reports, browser extensions, interviews (data room exercise)
+6. 01.6 The AI inventory from zero: AI that arrived inside SaaS feature updates, the decisions AI already shapes, inventory fields and owners
+- Module practical: engagement charter + 30-60-90 + access pack + shadow-AI census + first AI inventory for Harbor & Pine.
 
 **Module 2 — Discovery that finds the real work**
 1. 02.1 Stakeholder map before the first interview
-2. 02.2 The discovery interview: questions that get workflows, not wish lists (roleplay ×3 + coach)
-3. 02.3 Process walk and task inventory: volume, time, error, variation, judgment
-4. 02.4 Measuring a baseline from exports you were given (tickets/time sheets in the data room)
-5. 02.5 Writing a findings memo people believe
-- Module practical: findings memo + task inventory + baselines.
+2. 02.2 The discovery interview: questions that get workflows and workarounds, not wish lists; protecting people who speak up (roleplay ×3 + coach)
+3. 02.3 Process walk and task inventory: observation protocol; volume, time, error, variation, judgment
+4. 02.4 Measuring a baseline from exports: cycle times and volumes from a ticketing/ERP export, sampling, time studies
+5. 02.5 Profiling the data: is it AI-ready? (completeness, labels, duplicates, access rights — on the data room)
+6. 02.6 Writing a findings memo people believe
+- Module practical: findings memo + task inventory + baselines + data profile.
 
 **Module 3 — From findings to a funded portfolio**
 1. 03.1 Opportunity map: automate, assist, augment, leave alone
 2. 03.2 Scoring with evidence, not opinions (`portfolio-sorter`)
-3. 03.3 The ROI model that survives finance: hours → capacity → money, TCO incl. tokens and review time (spreadsheet in labs)
-4. 03.4 The one-page business case and the cost of doing nothing
-5. 03.5 Saying no: killing the sponsor's favourite idea politely (roleplay)
-- Module practical: portfolio of 3, ROI model, one-page case.
+3. 03.3 Running the scoring workshop with the real stakeholders (facilitator script, roleplay)
+4. 03.4 The leadership alignment session: 60–90 minutes from "use AI" to three bets (agenda, materials, roleplay)
+5. 03.5 The ROI model that survives finance: hours → capacity → money; seats, tokens, integration days, review minutes; scenarios and NPV; the conversation with finance about their template and hurdle rate (spreadsheet in labs, `roi-defender`)
+6. 03.6 The one-page business case, the cost of doing nothing, and telling the sponsor their favourite idea lost (roleplay)
+- Module practical: portfolio of 3, ROI model, one-page case, workshop pack.
 
 **Module 4 — Guardrails you can ship in week two**
 1. 04.1 The AI acceptable-use policy (write it, 2 pages max)
 2. 04.2 Approved tools and data classes: what data may go into which tool
 3. 04.3 Vendor and tool review: data use for training, retention, location, sub-processors, certifications, exit (questionnaire + 3 real-shaped vendor documents)
 4. 04.4 AI inventory and risk tiering; when you need a DPIA and how to write one
-5. 04.5 Risk register with tested controls (`risk-register-tester`)
+5. 04.5 Risk register from zero: pre-mortem workshop, starter risks per use-case type (chatbot, extraction, scoring, agent), security risks (prompt injection, data leakage), then test the controls (`risk-register-tester`)
 6. 04.6 Which law applies to you: a one-page regulatory map (EU / Israel / US, actor and date)
-- Module practical: the policy pack (AUP, tools list, vendor review, inventory, DPIA, risk register, regulatory map).
+7. 04.7 Governance that runs: governance charter, committee terms of reference, intake form for new AI uses, cadence, link to the existing risk process
+- Module practical: the policy pack (AUP, tools list, vendor review, inventory, DPIA, risk register, regulatory map, governance charter + intake).
 
 **Module 5 — Building and testing a pilot**
-1. 05.1 The pilot charter: hypothesis, scope, thresholds, stop rules, owner
+1. 05.1 The pilot charter: hypothesis, scope, thresholds, stop rules, owner, and the counterfactual (matched teams or phased rollout, how long to run)
 2. 05.2 Building the test set from real data (and what to leave out)
 3. 05.3 Build it — Track A and Track B (support-email triage + draft replies for Harbor & Pine)
-4. 05.4 Evaluate: accuracy, failure types, cost per item, time saved (`pilot-economics`)
+4. 05.4 Evaluate: accuracy, failure types, negative tests, cost per item, time saved (`pilot-economics`)
 5. 05.5 Human-in-the-loop design that actually checks (`oversight-under-load`)
-6. 05.6 Shadow mode, limited release, rollback
-- Module practical: working pilot + eval report + go/no-go recommendation.
+6. 05.6 Shadow mode on production data, staged release, rollback, production-readiness checklist
+7. 05.7 Before launch: logging spec, monitoring (sampled output review, eval re-run on vendor model change, cost alerts), change control for prompts and models
+- Module practical: working pilot + eval report + monitoring spec + go/no-go recommendation.
 
 **Module 6 — Making people use it**
 1. 06.1 Workflow redesign: change the work, not just add a tool
 2. 06.2 Training that transfers: a 60-minute role-based session (run it, script + exercises in labs)
 3. 06.3 Champions network and office hours
-4. 06.4 The honest adoption dashboard from usage logs (`adoption-dynamics`)
-5. 06.5 Resistance conversations: the manager, the expert, the worried employee (roleplay)
-- Module practical: training session pack + adoption dashboard + comms plan.
+4. 06.4 The honest adoption dashboard from real usage exports (admin analytics joined with HR/task data; defining a qualified event; privacy of usage monitoring) (`adoption-dynamics`)
+5. 06.5 The comms pack: announcement, manager talking points, "will this replace me?" FAQ, works-council/union consultation
+6. 06.6 Resistance conversations: the manager, the expert, the worried employee (roleplay)
+- Module practical: training session pack + adoption dashboard + comms pack.
 
 **Module 7 — Readouts, decisions and the operating rhythm**
 1. 07.1 The steering pack: 5 slides, one decision
-2. 07.2 Scale, fix or stop: the decision record
+2. 07.2 Scale, fix or stop: the decision record; how to actually decommission a "retire"
 3. 07.3 The steering meeting (`steering-committee`)
-4. 07.4 When it goes wrong: incident response for AI (`incident-tabletop`)
-5. 07.5 The operating rhythm: owners, monthly review, triggers, retirement
-6. 07.6 Handover: what you leave behind so it survives you
-- Module practical: full Harbor & Pine readout + decision + handover pack.
+4. 07.4 When it goes wrong: incident runbook and tabletop (`incident-tabletop`)
+5. 07.5 The operating rhythm: owners, RACI for a running AI service, monthly review, triggers, retirement
+6. 07.6 The board said yes — now what: running phase 1 week by week (staffing, budget release, first sprint, first report)
+7. 07.7 Handover: from project to operations, so it survives you
+- Module practical: full Harbor & Pine readout + decision + phase-1 plan + handover pack.
 
 ### Stage 2 — Engagements (fixed six-lesson shape, §3.2)
 
@@ -228,7 +244,7 @@ Both tracks produce the same artifacts: the pilot, a test set, an eval report wi
 | 11 | **Riverton City** — municipality, 220k residents | "A citizen chatbot like other cities have" | Public-sector constraints: procurement, transparency, accessibility, languages, wrong-advice risk (MyCity pattern); unions | Answer-quality eval of a permit-FAQ assistant in 3 languages; transparency register entry |
 | 12 | **Atlas & Rowe** — 90-lawyer law firm | "Everyone wants Harvey/CoCounsel; partners are split" | Confidentiality, fake citations, and the billable-hour problem: time saved ≠ money earned; pricing change | Precedent-search assistant over a document set + citation verification eval; revised ROI |
 | 13 | **Kinneret Plastics** — 600-person factory, 3 shifts | "Predictive maintenance with AI" | The data is not ready: say not-yet, and fund the foundation instead; frontline and multilingual workforce | Data readiness audit on maintenance logs; maintenance-manual assistant as the honest quick win |
-| 14 | **Lumen SaaS** — 250-person B2B software company | "Ship an AI agent that resolves customer issues in the product" | Agentic AI: tool permissions, authority ladder, recoverability, audit trail (`agent-authority`) | Agent permission map + scripted red-team + staged autonomy plan |
+| 14 | **Lumen SaaS** — 250-person B2B software company | "Ship an AI agent that resolves customer issues in the product" | Agentic AI: tool permissions, authority ladder, recoverability, audit trail (`agent-authority`) | Agent permission map + negative tests (try every action it must refuse) + scripted red-team + staged autonomy plan |
 | 15 | **Crescent Bank** — 4,000 staff, 14 business units | "We have 40 pilots and nothing in production" | Operating model and scale: CoE → hub-and-spoke, decision rights, model risk management (`operating-model-scaler`) | Portfolio triage of 40 pilots + operating-model design + 12-month scale plan |
 | 16 | **Open Hands** — 30-person nonprofit, no IT | "Help us use AI, we have no budget" | Doing it all in 4 weeks with free/cheap tools; donor-data privacy; one person as IT | Grant-writing and case-notes workflow; whole policy pack in one page |
 | 17 | **Vantage Logistics** — rescue | "The last AI lead left; the board wants answers in 30 days" | Turnaround: inherited failing program, an open incident, cost overrun, broken trust | Stop/keep audit of everything running + incident closure + 30-day board brief |
@@ -244,7 +260,7 @@ Each engagement re-uses the field-kit templates; lessons point to them instead o
 4. 18.4 Your practice kit: turning everything you wrote into your own reusable playbook
 - Capstone: full deliverable set (charter, findings memo, portfolio + ROI, policy pack, pilot + eval, adoption plan, steering pack, decision record, handover).
 
-Rough size: 18 modules, ~102 lessons, ~30 h reading, ~150 h practice.
+Rough size: 18 modules, ~110 lessons, ~32 h reading, ~160 h practice.
 
 ## 7. Lesson format
 
@@ -282,7 +298,7 @@ One brief per engagement (the deliverables list and rubric), plus the capstone b
 
 ## 11. Open questions (also in TODO_FOR_TAL.md)
 
-1. Read the actual IBM content (Tal can log in) so lessons can name the IBM idea they build on?
+1. ~~Read the actual IBM content~~ — done 2026-11-02, see `research/ibm-gap-map.md`.
 2. Free or paid?
 3. Which jurisdictions: EU + Israel + US (planned), or Israel-first?
 4. Track B (code) in every build lab, or only in some engagements?
