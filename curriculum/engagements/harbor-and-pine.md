@@ -264,3 +264,17 @@ Israeli reference, and Olga's unanswered request to IT (the DPA's cover note dat
     order number customers see on their confirmation SMS. The ERP and every export use `SO26…`. The
     mapping lives only in StoreHub (no export in the data room), so WhatsApp cannot be joined to orders
     until someone gets a StoreHub order export. Samir knows ("customers quote the number from the SMS").
+
+## Timeline for modules 3–7 (main session, 2026-11-02)
+
+- Nov 2026: discovery (M1–M2); scoring workshop 26 Nov; findings memo 1 Dec; Yoav one-to-one 2 Dec;
+  alignment session 10 Dec. Date fix + proactive delay emails (no AI) live mid-November.
+- Dec 2026 – Jan 2027: pilot built and evaluated on a test set of 400 real emails (M5.1–5.5);
+  ROI model to Ronit 14 Jan; steering meeting Tue 19 Jan 2027 (07.4, `steering-committee` sim)
+  approves phase 1 with ₪60,000 now and ₪60,000 at the May gate; board 28 Jan 2027.
+- 1 Feb 2027: WhatsApp routed into Deskly; shadow mode, then staged release (05.6); training 7–11 Feb
+  (M6); `usage/ai-usage-export.csv` covers weeks 1–8 from 1 Feb.
+- Mon 15 Mar 2027: the incident (07.5, `incident-tabletop` sim).
+- May 2027 gate: scale / fix / stop (07.2), operating rhythm and handover (07.6, 07.9).
+- Two temps every peak season (Nov–Jan), ~₪16,000 a month each (Samir's persona); the ROI case's
+  cash rests on not hiring them next winter (03.7 marks it as the weakest assumption).

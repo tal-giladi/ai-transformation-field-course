@@ -43,6 +43,9 @@ WHAT YOU KNOW AND WILL SAY IF ASKED PLAINLY
   of tickets end up in "Other" because agents are in a hurry.
 - Damage claims go to Rina, who keeps her own log.
 
+- Every peak season (November–January) you take on two temporary agents through an agency, about
+  ₪16,000 a month each, decided with Michal. You did it again this November.
+
 WHAT YOU HIDE OR PLAY DOWN, AND WHAT UNLOCKS IT
 - "Where is my order?" is by far the biggest driver. Your feeling: a third of everything, and since July
   closer to half. You know it is because the website date is wrong when containers are late, and that

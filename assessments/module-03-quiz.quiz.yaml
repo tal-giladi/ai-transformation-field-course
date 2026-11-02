@@ -1,0 +1,190 @@
+- id: q1
+  question: >-
+    At a 300-person distributor, staff requests mention only "a chatbot for suppliers". Your census
+    shows the finance team already pastes supplier invoices into a free AI tool every day. What does
+    your opportunity map do with that?
+  options:
+    - >-
+      Adds invoice reading as a candidate from the "already in use" feed, with its own ledger line.
+    - >-
+      Leaves it out, since the map lists new ideas and this is a matter for the AI policy.
+    - >-
+      Merges it into the supplier chatbot request, since both concern suppliers.
+    - >-
+      Waits for the finance team to submit it formally before adding it to the list.
+  correct: 0
+  explanation: >-
+    People rarely propose what they already do. A tool in daily use is strong evidence of demand,
+    and putting it on the map, with its ledger line, is how the portfolio sees both its value and
+    its risk.
+
+- id: q2
+  question: >-
+    Customers keep asking when their delivery will arrive, because the promised date never changes
+    when a shipment slips. The forwarder exports ETAs weekly. Which design fits best?
+  options:
+    - >-
+      An AI agent that answers delivery questions on all channels, around the clock.
+    - >-
+      A model that reads the forwarder's emails and drafts a personal reply to each question.
+    - >-
+      A scheduled job comparing promised dates with ETAs and sending fixed notices, no AI.
+    - >-
+      A chatbot connected to the ERP that tells customers the date stored on the order.
+  correct: 2
+  explanation: >-
+    Simplify before choosing technology: fixing the upstream step removes most of the questions,
+    and comparing two dates and sending a fixed text are rules. A bot reading the ERP would repeat
+    the same wrong date.
+
+- id: q3
+  question: >-
+    A municipality wants a model that prioritises maintenance complaints by predicted urgency. The
+    complaint log has no field recording how urgent each complaint turned out to be. What is the
+    screen verdict?
+  options:
+    - >-
+      Go, since urgency can be inferred from the complaint text by a language model.
+    - >-
+      Stop for now, with a project to record outcomes, an owner and a re-screen date.
+    - >-
+      Go with a condition: the vendor provides urgency labels from other cities.
+    - >-
+      Medium, because value is high and only one of seven questions is weak.
+  correct: 1
+  explanation: >-
+    The data gate is pass or fail, and the label question fails: without recorded outcomes you
+    cannot train or test the prioritisation. Labels from other cities describe their streets and
+    crews, not this one's.
+
+- id: q4
+  question: >-
+    Before scoring, you check a proposer's card: "claims are 260 a month". The claims log shows 149 in
+    six months. What do you do before the workshop?
+  options:
+    - >-
+      Use the card's number, since the proposer is closer to the work than the log is.
+    - >-
+      Drop the card, since one wrong figure makes the whole proposal unreliable.
+    - >-
+      Average the two figures so neither the proposer nor the data is favoured.
+    - >-
+      Correct the volume from the log, note the source, and tell the proposer privately first.
+  correct: 3
+  explanation: >-
+    Cards are proposers' cases and must be checked against the data. Correcting with the source, and
+    warning the proposer before the room, keeps the candidate fairly in play and protects your
+    credibility when finance checks.
+
+- id: q5
+  question: >-
+    In a scoring workshop the finance director gives the CEO's favourite card value 1 and the CEO gives
+    it 5. Everyone else scored 2 or 3. How do you use the next ten minutes?
+  options:
+    - >-
+      Ask the lowest and highest scorers what evidence each is looking at, and let it decide.
+    - >-
+      Take the average of 2.75 and move on, since the group as a whole has spoken.
+    - >-
+      Ask the CEO to explain his view first, since he knows the board's expectations.
+    - >-
+      Skip the card and come back to it after the workshop with the CEO alone.
+  correct: 0
+  explanation: >-
+    A large spread means someone has evidence the others lack. Asking both ends for their evidence
+    turns a status contest into a fact check; averaging hides it, and letting the CEO speak first
+    anchors the room.
+
+- id: q6
+  question: >-
+    For the alignment page you have no reliable measure of contacts handled per agent-hour: one week
+    of hand tallies and time sheets that log chat as email. What goes in the baseline cell?
+  options:
+    - >-
+      Your best estimate from the tally, marked approximate, so the bet has a target.
+    - >-
+      The figure from the quarterly KPI report, since the board already knows it.
+    - >-
+      "To be confirmed", with the method and the date it will be measured.
+    - >-
+      Nothing, and use agent satisfaction with the tool as the measure instead.
+  correct: 2
+  explanation: >-
+    A guessed baseline becomes the target the work is judged against. "To be confirmed" with the
+    method and date is honest and is what a finance reader will accept; satisfaction is not a value
+    measure.
+
+- id: q7
+  question: >-
+    A pilot frees 109 agent-hours a month. The support manager hires two seasonal temps every winter
+    for ₪96,000 and has signed that next winter runs without them if the pilot holds. How should the
+    case show these?
+  options:
+    - >-
+      All 109 hours as cash at the loaded rate, plus the ₪96,000 temps saving on top.
+    - >-
+      The hours as capacity, with the temps' cost moved out of them into cash, counted once.
+    - >-
+      Only the ₪96,000, ignoring the remaining hours since they are not cash.
+    - >-
+      The hours as cash and the temps as capacity, since the temps are not yet released.
+  correct: 1
+  explanation: >-
+    Freed hours are capacity until a named budget line changes; the signed temps plan is such a
+    line. Moving that part from capacity to cash, and not adding it on top, counts the same hours
+    once.
+
+- id: q8
+  question: >-
+    Your sensitivity table shows: token prices doubling changes NPV by about ₪1,000; review time
+    rising from 2 to 3 minutes per draft changes it by about ₪50,000. What follows for the gates?
+  options:
+    - >-
+      Negotiate a fixed token price with the provider before stage 2 starts.
+    - >-
+      Drop the review step to protect the business case from review-time risk.
+    - >-
+      Present only the token-price line, since the board understands vendor costs.
+    - >-
+      Make measured review time a yes/no condition at the first gate.
+  correct: 3
+  explanation: >-
+    The lines that move the case most become gate conditions. Review time applies to every item and
+    is set by where the human check sits; dropping the check would trade a cost for an unsafe
+    pilot.
+
+- id: q9
+  question: >-
+    A draft roadmap starts seven initiatives in the first quarter, which is the peak season and the
+    weakest cash quarter, with every phase dated and none gated. What is the first fix?
+  options:
+    - >-
+      Keep all the dates but add a contingency month to each of the seven initiatives.
+    - >-
+      Count each team's and the reviewers' capacity per quarter; move what does not fit.
+    - >-
+      Ask the board to approve extra headcount so all seven can start on time.
+    - >-
+      Start the cheapest four now and move the other three to the second quarter.
+  correct: 1
+  explanation: >-
+    Sequencing follows absorption and review capacity, then evidence and preconditions. Padding
+    dates or splitting by cost ignores who must take the change on, and when.
+
+- id: q10
+  question: >-
+    Which sentence is a decision-ready ask for a board?
+  options:
+    - >-
+      "The board is asked to support our AI-first ambition and note the progress since November."
+    - >-
+      "We recommend approving the pilot, the chatbot study and a hiring freeze in customer service."
+    - >-
+      "The board is asked on 28 January to approve up to ₪267,000 over three years in two gated stages."
+    - >-
+      "We seek the board's endorsement of the attached business case and roadmap for 2027."
+  correct: 2
+  explanation: >-
+    A decision-ready ask states what, who, when and how much in one sentence with one decision.
+    "Support", "note" and "endorse" decide nothing, and three decisions joined by "and" cannot be
+    answered with one yes.

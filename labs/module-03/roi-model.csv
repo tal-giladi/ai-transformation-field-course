@@ -1,0 +1,12 @@
+section,item,ledger,label_measured_directional_assumed,class_cash_capacity,lands_in_budget_line,owner,year0_ils,year1_ils,year2_ils,year3_ils,basis,source
+finance_rule,Hurdle rate,,,,,CFO,,0.12,0.12,0.12,NPV at this rate in the expected scenario must be positive,company/finance-summary.md
+finance_rule,Planning exchange rate (ILS per USD),,,,,CFO,,3.70,3.70,3.70,Finance planning rate October 2026,company/finance-summary.md
+hours,Net hours a month (capacity),,measured,capacity,,,,108.8,108.8,108.8,"3,200 contacts x 60% drafted; +204.8 saved -64 review -32 rework (peak month)",pilot-economics model
+cost,Build: integration (helpdesk draft-only; Priority and ETA read),,,,Customer Service project budget,Integrator,-56000,,,,14 days x 4000 (estimate),quote to request
+cost,Running: licences hosting monitoring change control,,,,Customer Service licences,Samir Haddad,,-48000,-48000,-48000,4000 a month (estimate),
+cost,Running: tokens,,,,Customer Service licences,Samir Haddad,,-1152,-1152,-1152,"1,920 drafts x (2,500 in x 3 USD + 400 out x 15 USD per million) x 3.70 x 12",provider pricing page (date)
+benefit,Translation service no longer needed,claimed,measured,cash,Customer Service licences,Samir Haddad,,42000,42000,42000,LinguaFlow invoices 2025,invoices
+benefit,Translation service no longer needed,receiving,measured,cash,Marketing,Noa Levi,,-12000,-12000,-12000,Marketing keeps a small plan,Noa
+benefit,Translation service no longer needed,control,measured,cash,Customer Service,Olga Petrenko,,-13000,-13000,-13000,"Native-speaker spot-check of 1 in 10 Arabic and Russian drafts, about 100 h",estimate
+scenario,Expected (measured + directional cash),,,,,,-120000,64000,64000,64000,113000 cash - 49000 running a year,"=NPV(12%,year1:year3)+year0"
+gate,Gate 1 (2027-04-01),,,,,You and Samir,,,,,"All yes: 80% accepted on 400 real messages (70% per language); median review <= 2.5 min; wrong replies reaching customers no higher than today; pilot + date-fix peak hours >= 320 a month",

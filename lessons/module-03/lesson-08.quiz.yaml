@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    A draft roadmap line says "Reply-drafts pilot: starts February 2027". What would you change it
+    to?
+  options:
+    - >-
+      "Starts in February 2027, or March at the latest if the integration is delayed."
+    - >-
+      "Starts in Q1 2027, subject to the steering committee's approval at its next meeting."
+    - >-
+      "Starts once all written contact is ticketed for two weeks and an approved tool exists."
+    - >-
+      "Starts in February 2027, owner: the support manager, budget: ₪120,000."
+  correct: 2
+  explanation: >-
+    A gate is a yes/no condition, not a date. Writing the preconditions makes the dependency on the
+    WhatsApp routing and the approved tool visible, so a slip there is seen before February rather
+    than after.
+
+- id: q2
+  question: >-
+    The CEO asks why the chatbot sits in "Later" on the roadmap when he considers it the most
+    important item. What is the correct explanation?
+  options:
+    - >-
+      Its value depends on the date fix being live and on a test with our own data, neither of which exists yet.
+    - >-
+      The support manager opposes it, and the roadmap should avoid initiatives that meet resistance.
+    - >-
+      Later items are those with the lowest scores in the workshop, and the chatbot scored last.
+    - >-
+      Chatbots carry legal risk in Israel, so they always come after internal tools.
+  correct: 0
+  explanation: >-
+    Horizons are set by evidence and preconditions, not by importance or by score alone. Saying what
+    must be true first gives the CEO a path to the chatbot instead of a verdict against it.
+
+- id: q3
+  question: >-
+    Your Q2 plan has four new AI uses that each need an evaluation, a vendor review and a privacy
+    view. You, the IT manager and outside counsel can do two properly per quarter. What do you do?
+  options:
+    - >-
+      Keep all four and shorten each evaluation so they all fit in the quarter.
+    - >-
+      Keep all four and ask the vendors to provide their own evaluations instead.
+    - >-
+      Keep all four and hire a consultant for the quarter to clear the review queue.
+    - >-
+      Keep two and move the others to the next quarter with their gates unchanged.
+  correct: 3
+  explanation: >-
+    Central review capacity is a real limit like a team's absorption. Moving work that does not fit
+    keeps each review meaningful; shortened reviews and vendor self-evaluations produce green ticks
+    nobody earned.
+
+- id: q4
+  question: >-
+    The date fix will cut support contacts, but logistics must keep the ETA sheet in a fixed format,
+    about an hour a week. What does the ledger column record?
+  options:
+    - >-
+      Nothing for logistics, since one hour a week is too small to be worth recording.
+    - >-
+      Benefit in support's hours; residue in logistics, agreed by its manager.
+    - >-
+      The hour a week as a cost to support, since support receives the benefit.
+    - >-
+      A note to hire a part-time data clerk for logistics once the fix goes live.
+  correct: 1
+  explanation: >-
+    When the benefit and the residue land in different teams, it is a transfer that the receiving
+    owner must agree to. Unrecorded residue is how automations degrade quietly.
+
+- id: q5
+  question: >-
+    The drafts pilot works well in Hebrew and English. The sponsor wants to switch on Arabic and
+    Russian the same week. What does segment-by-segment scaling suggest?
+  options:
+    - >-
+      Switch them on, since the same model and prompts handle all four languages equally.
+    - >-
+      Run a full new pilot for each language, with its own business case.
+    - >-
+      Add them after a short check of what differs, such as native-speaker spot-checks.
+    - >-
+      Wait until the next annual planning cycle so that the roadmap stays stable.
+  correct: 2
+  explanation: >-
+    A pilot's result describes its conditions. Each new segment needs a small check of what is
+    different, here the quality in two more languages, not a new project and not blind trust.

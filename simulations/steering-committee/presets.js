@@ -36,7 +36,7 @@ const harbor = {
   paper: [
     'Ask: approve phase 1 with conditions; ₪60,000 now, ₪60,000 at the May gate; take it to the board on 28 January.',
     'Cash, expected case: about ₪113,000 a year. Capacity: about 570 agent-hours a year (not cash).',
-    'Evidence: 400 real emails timed, three weeks of shadow mode in January; minutes and error rate measured, not live traffic yet.',
+    'Evidence: a test set of 400 real emails, drafted and timed in December and January; minutes and error rate measured on that set, not on live traffic yet (shadow mode starts in February).',
     'Three-year cost about ₪267,000 (build ₪120,000 plus about ₪49,000 a year to run): above ₪150,000, so the board decides.',
   ],
   cast: [
@@ -107,7 +107,7 @@ const harbor = {
       choices: [
         {
           id: 'ev', type: 'evidence',
-          text: '“About ₪113,000 a year is cash: the translation contract we cut to a small plan, and the two peak-season temps Samir has agreed not to hire next winter. The other 570 hours or so are capacity, not cash. Minutes per draft were timed on 400 real emails and three weeks of shadow mode.”',
+          text: '“About ₪113,000 a year is cash: the translation contract we cut to a small plan, and the two peak-season temps Samir has agreed not to hire next winter. The other 570 hours or so are capacity, not cash. Minutes per draft were timed on a test set of 400 real emails.”',
           reply: 'Ronit checks two lines against the paper. “Good. That I can audit.”',
           moods: { ronit: 2 }, honesty: 1, sets: ['cashCapacity'],
         },
@@ -119,7 +119,7 @@ const harbor = {
         },
         {
           id: 'weak', type: 'concede',
-          text: '“The minutes come from a test set and shadow mode, not live traffic. That is exactly why the second ₪60,000 waits for the May gate.”',
+          text: '“The minutes come from a test set, not live traffic. That is exactly why the second ₪60,000 waits for the May gate.”',
           reply: 'Ronit: “Then the gate is the case. Fine.”',
           moods: { ronit: 1 }, honesty: 1, sets: ['conceded'],
         },

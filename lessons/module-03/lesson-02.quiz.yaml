@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    Customers keep asking where their order is because the promised date is never updated when a
+    container slips. The CEO asks for an AI agent that answers these questions instantly. What do
+    you look at first?
+  options:
+    - >-
+      Which agent platform supports WhatsApp, email and phone in Hebrew, Arabic and Russian.
+    - >-
+      The step upstream that creates the questions, and whether fixing it removes the need.
+    - >-
+      How fast agents answer these questions today, to set a target for the agent.
+    - >-
+      Whether the agent can be trained on past replies to sound like the support team.
+  correct: 1
+  explanation: >-
+    Simplify before choosing technology. If the questions come from a promise that is never
+    updated, answering them faster automates waste; fixing the upstream step removes most of
+    them and makes any later answer correct.
+
+- id: q2
+  question: >-
+    In a quote-drafting workflow, a model reads the customer's request and writes the full quote,
+    including prices. In a trial, 4% of prices were wrong. What change do you make to the design?
+  options:
+    - >-
+      Read prices and discounts from the ERP and let the model write only around them.
+    - >-
+      Add a second model that checks the first model's prices before the quote is sent.
+    - >-
+      Keep the design and ask account managers to check prices more carefully.
+    - >-
+      Fine-tune the model on last year's quotes so it learns the current price list.
+  correct: 0
+  explanation: >-
+    A price is a fact that lives in a system, so a lookup should supply it and the model should
+    never produce it. Checking harder or adding a checker treats the symptom; training on old
+    quotes bakes in old prices.
+
+- id: q3
+  question: >-
+    A daily job compares each order's promised date with the container's latest ETA and emails the
+    customer a new date from four fixed texts approved by the support manager. How do you classify
+    the job in the frame?
+  options:
+    - >-
+      Generation, because it writes a message to each customer.
+    - >-
+      An agent, because it runs unattended and acts on customers every day.
+    - >-
+      Plain automation, because the comparison and the texts are fixed rules.
+    - >-
+      A person's task, because any message to a customer needs human approval.
+  correct: 2
+  explanation: >-
+    Every step is a rule that can be written down and checked, and the text varies only by date
+    and order number. Running unattended does not make it an agent; an agent chooses its own next
+    step, which nothing here needs.
+
+- id: q4
+  question: >-
+    Two ETA sources exist: the forwarder's weekly export and a hand-kept sheet updated twice a week
+    with some duplicates and mixed date formats. What does the frame record?
+  options:
+    - >-
+      A model that reads both and reconciles them every morning before the job runs.
+    - >-
+      Whichever source is newer for each container, decided at run time by the job.
+    - >-
+      Only the forwarder's export, since hand-kept sheets cannot be trusted at all.
+    - >-
+      One system of record in a fixed format, checked against the other, with the upkeep owner.
+  correct: 3
+  explanation: >-
+    Simplifying means choosing one source, fixing its format and checking it against the other.
+    The upkeep this creates is real work and goes on the ledger line with the person who does it.
+
+- id: q5
+  question: >-
+    Which candidate genuinely needs an agent rather than automation plus a drafting step?
+  options:
+    - >-
+      Drafting replies to customer emails in four languages that an agent edits and sends.
+    - >-
+      Chasing a delayed shipment through several sources, picking each next check by what it finds.
+    - >-
+      Sending customers a fixed delay notice whenever a container's ETA moves past their date.
+    - >-
+      Copying quote requests from the shared sales mailbox into the sales pipeline every hour.
+  correct: 1
+  explanation: >-
+    An agent fits a goal pursued over several steps whose order depends on what each step finds,
+    with actions held for a person. The others have a fixed order and are cheaper and safer as
+    automation or a single generation step.

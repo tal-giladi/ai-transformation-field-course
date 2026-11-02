@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    Your analysis shows the CEO's chatbot should not be the first step. The leadership alignment
+    session is in a week. When and how does the CEO hear it?
+  options:
+    - >-
+      In the alignment session, so that the evidence is seen by everyone at the same time.
+    - >-
+      In the board pre-read, so the message is formal and cannot be misquoted later.
+    - >-
+      Privately, before the session: answer first, evidence once, options he can choose from.
+    - >-
+      Through the COO, who knows him better and can soften the message for him.
+  correct: 2
+  explanation: >-
+    Hearing that your idea lost in front of colleagues makes you defend it. A private conversation
+    with the answer first and real options lets him choose a path he can own; relaying it through
+    someone else usually softens it until only the good part is heard.
+
+- id: q2
+  question: >-
+    Which is a decision-ready ask?
+  options:
+    - >-
+      "The board is asked on 28 January to approve up to ₪267,000 over three years, in two gated stages."
+    - >-
+      "We recommend the board supports the AI programme and notes the progress made since November."
+    - >-
+      "The board is asked to approve the drafts pilot and the chatbot evaluation and a hiring freeze."
+    - >-
+      "We seek the board's endorsement of an AI-first strategy for customer service in 2027."
+  correct: 0
+  explanation: >-
+    A decision-ready ask says what is decided, by whom, by when and for how much, in one sentence
+    with one decision. "Supports" and "endorsement" decide nothing, and three decisions joined by
+    "and" cannot be answered with one yes.
+
+- id: q3
+  question: >-
+    The front page shows three scenarios. In what order, and why?
+  options:
+    - >-
+      High first, to show the board the full potential before the risks.
+    - >-
+      Expected only, since three scenarios confuse a board with one page.
+    - >-
+      Expected first, then low and high as a range around it.
+    - >-
+      Low first, so the expected case is read against the conservative floor.
+  correct: 3
+  explanation: >-
+    Directors anchor on the first number. Leading with the conservative case shows you are not
+    selling, and makes the expected case believable; here it also shows that without the temps
+    decision the pilot is a capacity investment, not a saving.
+
+- id: q4
+  question: >-
+    A line on the front page says "Faster replies will lift repeat purchases by ₪67,600 a year
+    (measured)". The figure comes from a vendor's satisfaction-to-revenue ratio. What do you do?
+  options:
+    - >-
+      Keep it, since the satisfaction survey that feeds it is the company's own data.
+    - >-
+      Relabel it assumed, net it to margin, and keep it out of the case the board relies on.
+    - >-
+      Remove the label so the board does not focus on the method behind the number.
+    - >-
+      Keep it as measured but add a footnote naming the vendor as the source.
+  correct: 1
+  explanation: >-
+    A vendor ratio applied to your data is an assumption, and revenue is not profit. One inflated
+    "measured" label discredits every other label on the page, so relabel it and show it only as
+    upside.
+
+- id: q5
+  question: >-
+    You give the front page to the CFO and the sponsor for one minute each. The sponsor cannot say
+    what happens if the board says no. What do you change?
+  options:
+    - >-
+      Add a two-column comparison of deciding now and deciding later, in the same units, near the top.
+    - >-
+      Add a paragraph on the strategic importance of AI for the company's future competitiveness.
+    - >-
+      Nothing, since the consequence of a "no" is in the appendix for anyone who looks.
+    - >-
+      Add a risk warning that delaying AI adoption could leave the company behind competitors.
+  correct: 0
+  explanation: >-
+    The two-reader check finds what a reader cannot see in a minute. The cost of waiting, shown as a
+    comparison in the same units (here the temps cost and the lost shadow-mode window), is a
+    decision aid; a general warning is not.

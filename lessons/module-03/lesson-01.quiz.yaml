@@ -1,0 +1,95 @@
+- id: q1
+  question: >-
+    You have collected candidates from staff requests and from the CEO's goals. Your shadow-AI census
+    shows support agents drafting Russian replies in a free chatbot every day, but nobody submitted
+    "reply drafting" as an idea. What do you do with it?
+  options:
+    - >-
+      Leave it off the map, because the opportunity map is for new ideas and this is a policy issue.
+    - >-
+      Add it to the map as a candidate from the "already in use" feed, with its own ledger line.
+    - >-
+      Add it only after the agents submit it formally, so the feeds stay consistent.
+    - >-
+      Report it to IT for blocking first, and consider it for the map next quarter.
+  correct: 1
+  explanation: >-
+    People rarely propose what they already do. A tool in daily use is the strongest evidence of
+    demand on the map, and leaving it off means your portfolio will "introduce" something people
+    already rely on, without seeing its risk.
+
+- id: q2
+  question: >-
+    The marketing director asks for "AI copywriting, saves 20 hours a month", the reseller offers
+    "15% less inventory", and the CEO wants "70% deflection". What do you do before comparing them?
+  options:
+    - >-
+      Convert each to shekels with the proposer's own figure, so they share one unit.
+    - >-
+      Ask each proposer to rank their own idea from 1 to 5 on value and effort.
+    - >-
+      Restate each as a workflow step with an owner, a volume from the data and one benefit unit.
+    - >-
+      Keep the CEO's item at the top and compare the other two with each other.
+  correct: 2
+  explanation: >-
+    Three claims in three units cannot be compared. Restating each as the step, owner, measured
+    volume and a single benefit unit shows what the request actually changes, and converting
+    unchecked claims to shekels only makes them look precise.
+
+- id: q3
+  question: >-
+    A candidate is "use AI to forecast demand per product". Nobody can say who would use the forecast
+    or which decision it would change. How should it appear on the opportunity map?
+  options:
+    - >-
+      As "not yet a candidate", with the question that would make it one.
+    - >-
+      As an "augment" candidate, since forecasts help planners in general.
+    - >-
+      Removed from the map, because unclear ideas confuse the scoring workshop.
+    - >-
+      As an "automate" candidate, since forecasting needs no human per item.
+  correct: 0
+  explanation: >-
+    A candidate needs a workflow step and an owner. Without them it cannot be screened or scored,
+    but deleting it hides that you looked; recording the open question keeps it honest and gives
+    the proposer a way back.
+
+- id: q4
+  question: >-
+    One candidate would draft replies to customers that an agent edits and sends; another would
+    let a bot answer customers directly. How do you place them?
+  options:
+    - >-
+      Both as automate, since in each case AI writes the text the customer reads.
+    - >-
+      The drafts as augment and the bot as assist, since the bot hands over to agents.
+    - >-
+      Both as assist, since the bot also hands difficult cases to a person.
+    - >-
+      The drafts as assist and the bot as automate, each with its own oversight need.
+  correct: 3
+  explanation: >-
+    The mode is decided by who does the work after the change. A person decides and sends every
+    draft, so it is assist; the bot answers without a person per item, so it is automate and needs
+    a gate on what it may tell customers.
+
+- id: q5
+  question: >-
+    Your map says the reply-drafting candidate "saves 8 minutes per reply". Finance has not seen it
+    yet. What line is missing before you move on?
+  options:
+    - >-
+      A note on which language model will be used and its current price per token.
+    - >-
+      Who checks each draft and how long that takes, and who absorbs any rework.
+    - >-
+      A comparison with what other retailers report saving from similar tools.
+    - >-
+      The date the drafting tool can go live if the board approves it.
+  correct: 1
+  explanation: >-
+    The ledger line says where the checking and rework land. A saving with no review time is the
+    first figure finance will cut, and it changes the candidate's value more than the model choice
+    or a benchmark.

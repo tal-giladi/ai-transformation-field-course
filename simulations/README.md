@@ -70,7 +70,7 @@ All presets are in each folder's `presets.js` (pure data). Numbers for `harbor` 
 | `hourlyCost` | fully loaded ₪ per hour | 130 (₪3.4M / 14 people) | 110 |
 | `tokensIn`, `tokensOut` | tokens per item | 2,500 / 400 | 3,000 / 300 |
 | `priceIn`, `priceOut` | US$ per million tokens (examples) | 3 / 15 | 1 / 4 |
-| `fx` | ₪ per US$ (example) | 3.6 | 3.6 |
+| `fx` | ₪ per US$ (example) | 3.7 | 3.6 |
 | `fixedMonthly` | ₪ a month | 4,000 | 8,000 |
 | `buildCost` | one-off ₪ | 120,000 (under the ₪150k board line) | 250,000 |
 

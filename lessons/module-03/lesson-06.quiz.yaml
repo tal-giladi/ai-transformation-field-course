@@ -1,0 +1,93 @@
+- id: q1
+  question: >-
+    You have 90 minutes with the CEO, COO, CFO and support manager to agree the AI bets. How do you
+    open the session?
+  options:
+    - >-
+      Present the three candidates from the workshop and ask which one each leader prefers.
+    - >-
+      Show a short overview of what AI can do in retail, so everyone shares a starting point.
+    - >-
+      Ask each leader for the business outcomes that matter, and read them back as two to four goals.
+    - >-
+      Present the business case numbers first, so the discussion stays grounded in money.
+  correct: 2
+  explanation: >-
+    Starting from the leaders' goals turns the candidates into answers to their questions. Opening
+    with projects or with AI capabilities invites a debate about technology instead of a decision
+    about what the company needs.
+
+- id: q2
+  question: >-
+    For the support-productivity KPI you have one week of hand tallies and time sheets that log
+    WhatsApp as email. The CFO asks what baseline will go in the board paper. What do you write?
+  options:
+    - >-
+      "To be confirmed", with how and when it will be measured once WhatsApp is in the helpdesk.
+    - >-
+      Your best estimate from the tally, marked as approximate, so the board has a number.
+    - >-
+      The KPI report's figure, since it is the official number the board already knows.
+    - >-
+      No baseline at all, and measure success by user satisfaction with the drafts instead.
+  correct: 0
+  explanation: >-
+    A guessed baseline becomes the target the pilot is judged against. Writing "to be confirmed"
+    with the method and date is honest, and it is what a CFO who checks numbers will accept.
+
+- id: q3
+  question: >-
+    The CEO, who chose the date fix privately last week, says in the session: "Put the chatbot in the
+    plan for Q2." What do you do?
+  options:
+    - >-
+      Put it in Q2 as asked, since he is the CEO and the board expects a bot.
+    - >-
+      Repeat the evidence against the chatbot until the others in the room agree with you.
+    - >-
+      Leave it off the page entirely so the board is not distracted by it.
+    - >-
+      Park it with its reason and a dated reopening condition based on evidence.
+  correct: 3
+  explanation: >-
+    A parked item with a reason and a dated, evidence-based condition is neither deleted nor
+    promised. It gives the CEO wording he can live with and gives the board an answer to "why not a
+    chatbot?".
+
+- id: q4
+  question: >-
+    A bet's KPI is "written contacts handled per agent-hour". Which guardrail metric pairs best with
+    it?
+  options:
+    - >-
+      The number of agents who used the drafting tool at least once each week.
+    - >-
+      Wrong replies reaching customers in a weekly sample, and the repeat-contact rate.
+    - >-
+      Average handling time per contact, measured from the helpdesk timestamps.
+    - >-
+      The token cost per drafted reply, reported monthly by the vendor.
+  correct: 1
+  explanation: >-
+    A guardrail moves the wrong way if the efficiency gain is fake: faster but wrong replies show up
+    as wrong replies and repeat contacts. Usage, handling time and token cost do not reveal a
+    quality problem.
+
+- id: q5
+  question: >-
+    Near the end, the support manager mentions he hires two temporary agents every winter. Why is
+    this worth a follow-up question?
+  options:
+    - >-
+      It shows the team is under-resourced, which strengthens the case for a chatbot.
+    - >-
+      It is a staffing detail for HR, outside the scope of an alignment session.
+    - >-
+      It is a budget that already exists for the work, and a route from freed hours to cash.
+    - >-
+      It means the pilot must start before the peak, while the temps can test it.
+  correct: 2
+  explanation: >-
+    Freed capacity is not cash until a named budget line changes. A recurring temp budget, decided
+    by a known person, is exactly such a line: if the pilot frees enough hours, the next peak could
+    run without it.

@@ -1,6 +1,6 @@
 # Transcript — Ronit Avraham (CFO)
 
-*Pre-run interview for lessons 03.5–03.7. Monday 17 November 2026, 09:00, Ronit's office, 30 minutes.
+*Pre-run interview for lessons 03.5–03.7. Tuesday 17 November 2026, 09:00, Ronit's office, 30 minutes.
 The interviewer is the new Head of AI and Operations Improvement, preparing the ROI model. Read it as if
 you were sitting in: note what the interviewer found out, what they missed, and which questions worked.*
 

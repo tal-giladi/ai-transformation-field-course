@@ -1,6 +1,6 @@
 # Transcript — Yoav Ben-Ami (CEO)
 
-*Pre-run conversation for lessons 03.9 and 07.3. Tuesday 2 December 2026, 17:30, Yoav's office, just the
+*Pre-run conversation for lessons 03.9 and 07.3. Wednesday 2 December 2026, 17:30, Yoav's office, just the
 two of them, 25 minutes. The interviewer is the Head of AI and Operations Improvement, one month in,
 bringing the discovery results before the alignment session. Read it as if you were sitting in: note
 what the interviewer found out, what they missed, and which moves worked.*

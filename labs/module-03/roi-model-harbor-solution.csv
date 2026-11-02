@@ -1,0 +1,20 @@
+section,item,ledger,amount_ils_year,label,class,note
+benefit,Agents save 8 minutes per accepted draft,claimed,319500,measured,capacity,
+benefit,Agents save 8 minutes per accepted draft,sponsor,-49920,measured,capacity,"rework on the 20% wrong drafts, 384 h"
+benefit,Agents save 8 minutes per accepted draft,control,-99840,measured,capacity,"2-minute review of every draft, 768 h"
+benefit,Two fewer agents from April 2027,claimed,431400,assumed,capacity,
+benefit,Two fewer agents from April 2027,sponsor,-431400,assumed,capacity,the same hours as claim 1: count them once
+benefit,Fewer 'where is my order?' contacts,claimed,300000,directional,capacity,
+benefit,Fewer 'where is my order?' contacts,sponsor,-300000,directional,capacity,"caused by the date fix (no AI), not by this pilot"
+benefit,Translation service no longer needed,claimed,42000,measured,cash,
+benefit,Translation service no longer needed,receiving,-12000,measured,cash,marketing keeps a small plan
+benefit,Translation service no longer needed,control,-13000,measured,cash,"native-speaker spot-check, about 100 h"
+benefit,Fewer goodwill credits beyond policy,claimed,103500,assumed,cash,
+benefit,Fewer goodwill credits beyond policy,control,-13000,assumed,cash,"Rina records every claim outcome, about 100 h"
+benefit,Fewer goodwill credits beyond policy,customer,-51750,assumed,cash,half is money customers no longer get
+benefit,Repeat purchases from faster replies,claimed,67600,assumed,cash,
+benefit,Repeat purchases from faster replies,customer,-39200,assumed,cash,"count gross margin (42%), not revenue"
+benefit,No seasonal temps next peak,claimed,96000,directional,cash,
+benefit,No seasonal temps next peak,sponsor,-96000,directional,cash,the temps' cost leaves claim 1's capacity when it becomes cash
+cost,Build (one-off),,-120000,estimate,cash,year 0
+cost,Running,,-49000,estimate,cash,years 1-3

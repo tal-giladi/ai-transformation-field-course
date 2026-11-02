@@ -15,3 +15,5 @@ Later: create the GitHub repo `tal-giladi/ai-transformation-field-course` when y
 Open (no rush):
 
 - Lesson 01.1 prices an illustrative consultant phase at 22 days × ₪5,500 a day and says it is not a market figure. Keep it, or ask for a sourced Israeli rate range.
+- Lesson 03.7: the ₪113k cash case rests on not hiring two seasonal temps; today's numbers cover only one, so the lesson flags it as the weakest assumption and a gate condition (with one temp the NPV turns negative). Kept as a teaching point; say if you'd rather the case use one temp.
+- Check after import that the mermaid Gantt chart in 03.8 renders.

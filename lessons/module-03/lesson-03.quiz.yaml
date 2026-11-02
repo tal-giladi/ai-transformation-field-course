@@ -1,0 +1,95 @@
+- id: q1
+  question: >-
+    The CFO's idea is a model that approves or rejects damage claims. Value is real and the data is
+    reachable, but the decision column is blank for a third of past claims. What is the verdict?
+  options:
+    - >-
+      Go with a condition: train on the two thirds that have a decision and test on the rest.
+    - >-
+      Go: the blanks are probably claims still waiting, so they will fill in over time.
+    - >-
+      Stop for now, with an outcome-recording project, an owner and a re-screen date.
+    - >-
+      Medium overall: strong value and reach balance the missing labels in the score.
+  correct: 2
+  explanation: >-
+    The label question is part of a pass-or-fail gate. Without recorded outcomes you can neither
+    train nor test a decision model, so the next step is to start recording them, with an owner and
+    a date to screen again.
+
+- id: q2
+  question: >-
+    A vendor's deck says its chatbot resolves 70% of conversations. The footnote says this was
+    measured on English-language retail in North America with live order tracking. How do you
+    record it in the value question?
+  options:
+    - >-
+      As claimed, with the conditions it was measured under and how yours differ.
+    - >-
+      As measured, since the vendor gave a definition and a measurement period.
+    - >-
+      As reported, discounted by half to account for local differences.
+    - >-
+      As unknown, leaving the value question blank until a pilot runs.
+  correct: 0
+  explanation: >-
+    A vendor figure measured on other customers, languages and integrations is a claim about them.
+    Recording the conditions next to it shows exactly why it may not transfer, which is more useful
+    than an arbitrary discount or a blank.
+
+- id: q3
+  question: >-
+    Screening a reply-drafting candidate, you find agents already paste customer names and addresses
+    into a free chatbot. Who decides whether the planned use of customer data is lawful?
+  options:
+    - >-
+      You do, since the screen needs a verdict and you have read the privacy law's summary.
+    - >-
+      The support manager, since the data belongs to his team's customers.
+    - >-
+      The vendor, since its terms state what it does with customer data.
+    - >-
+      Counsel or the DPO, with the question written down and the verdict waiting on it.
+  correct: 3
+  explanation: >-
+    You identify and route legal questions; you do not answer them. The screen records that the
+    verdict depends on counsel's or the DPO's view, which keeps it honest and keeps you inside your
+    role.
+
+- id: q4
+  question: >-
+    A demand forecast would be accurate, but purchasing books containers two months ahead and nobody
+    can say which decision the forecast would change. Which screen question does it fail?
+  options:
+    - >-
+      Data readiness, because forecasts always need more history than exists.
+    - >-
+      Workflow fit, because nobody receives it in time to change a decision.
+    - >-
+      Risk, because a wrong forecast could lead to overstocking.
+    - >-
+      Measurement, because forecast accuracy is hard to define.
+  correct: 1
+  explanation: >-
+    Actionability belongs to workflow fit: who receives the output, which decision changes, what
+    they do differently that day. A right answer that arrives after the decision has closed is
+    worth nothing.
+
+- id: q5
+  question: >-
+    You are about to screen fifteen candidates two days before a scoring workshop. What should exist
+    in writing before you give the first verdict?
+  options:
+    - >-
+      The weights for value, feasibility and risk that the workshop will use.
+    - >-
+      A draft of the portfolio you expect, so the screen can be checked against it.
+    - >-
+      Which classes of candidate always get full scrutiny, agreed with the sponsor.
+    - >-
+      The CEO's ranking of the candidates, so the screen respects his priorities.
+  correct: 2
+  explanation: >-
+    Agreeing in advance which candidates always get full scrutiny (customer-facing, decisions about
+    people, irreversible, uncertain data rights) stops the rule bending to fit a favourite. Weights
+    belong to the scoring step, and an expected portfolio biases the screen.

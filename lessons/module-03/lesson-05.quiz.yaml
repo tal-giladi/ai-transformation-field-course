@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    The workshop opens and the CEO starts talking enthusiastically about his chatbot card before
+    anyone has scored. What is your best move?
+  options:
+    - >-
+      Let him finish, then ask the others whether they agree with his assessment of the card.
+    - >-
+      Thank him and ask everyone to score all the cards on their own sheets before any discussion.
+    - >-
+      Correct his numbers right away, so the room does not anchor on the vendor's figures.
+    - >-
+      Ask the CFO to respond to him first, since she is the most sceptical person present.
+  correct: 1
+  explanation: >-
+    Once a senior person states a view, others drift toward it. Independent scores collected
+    before discussion show what each person really thinks; correcting him in public or setting the
+    CFO against him turns evidence into a contest.
+
+- id: q2
+  question: >-
+    Four people scored the reply-drafts card's risk as 2, 2, 2 and 3. The chatbot's value got 5, 3,
+    1 and 2. You have 30 minutes for discussion. How do you spend it?
+  options:
+    - >-
+      On the chatbot's value, asking the lowest and highest scorers what evidence they used.
+    - >-
+      On both cards equally, so nobody feels their card was neglected.
+    - >-
+      On the drafts card, since it is the stronger candidate and deserves the time.
+    - >-
+      On neither: average the scores and move to the absorption block early.
+  correct: 0
+  explanation: >-
+    The spread is the information: a four-point gap means someone has evidence the others lack. A
+    one-point spread needs no debate, and averaging hides exactly the disagreement the workshop is
+    for.
+
+- id: q3
+  question: >-
+    The CEO proposes a 20-point bonus for "the board's priority" after seeing the list. The criteria
+    were locked on Tuesday. What do you say?
+  options:
+    - >-
+      "Agreed, the board outranks this workshop, so we will add the bonus to every board item."
+    - >-
+      "The chatbot is honestly not a good idea, so a bonus would only hide the problem."
+    - >-
+      "If we change the rules after seeing the list, the board will ask whether we set them for the answer."
+    - >-
+      "Let's put it to a vote of everyone here and accept whatever the majority decides."
+  correct: 2
+  explanation: >-
+    The argument is about the order of decisions, not about the idea. It protects the CEO in front
+    of his own board, keeps the criteria intact and leaves the evidence free to move the card.
+
+- id: q4
+  question: >-
+    The support manager says nothing for 40 minutes. Then someone says "if this works, we'll need
+    fewer people". What should happen next?
+  options:
+    - >-
+      Note it as a benefit for the business case and move on to the next card.
+    - >-
+      Ask the support manager how many people he thinks the drafts would save.
+    - >-
+      Leave it: discussing headcount openly builds trust with the support manager.
+    - >-
+      Close the headcount topic at once and ask the support manager for his view by name.
+  correct: 3
+  explanation: >-
+    Headcount talk shuts down the person whose knowledge you most need, and headcount decisions
+    are not this workshop's to make. Close it and invite him in directly; silence is not agreement.
+
+- id: q5
+  question: >-
+    The workshop ends with agreement on three candidates. The CFO said "I'll want it staged" and
+    the support manager asked for a weekly language check. What makes the result hold?
+  options:
+    - >-
+      A read-back in the room and an email the same day, each condition with an owner and a date.
+    - >-
+      A detailed slide deck of all scores, sent to everyone before the alignment session.
+    - >-
+      A follow-up workshop next week to confirm the conditions once people have reflected.
+    - >-
+      The minutes kept by the sponsor's assistant, filed with the board papers.
+  correct: 0
+  explanation: >-
+    Conditions without owners and dates are forgotten, and a room remembers different results two
+    weeks later. A read-back plus a same-day email, in the same words, is what the next session
+    starts from.

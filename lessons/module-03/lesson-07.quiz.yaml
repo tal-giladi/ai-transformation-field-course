@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    A drafting pilot frees about 109 agent-hours a month. The sponsor's deck shows this as ₪170,000 a
+    year of savings. The CFO counts headcount savings only with a named plan. How do you show it?
+  options:
+    - >-
+      As cash, since the hours are measured and valued at the team's loaded cost.
+    - >-
+      As capacity, not cash, unless a named budget line changes with an owner and a date.
+    - >-
+      As cash in the high scenario and capacity in the low one, to show both views.
+    - >-
+      Leave it out of the case entirely, since capacity has no value to finance.
+  correct: 1
+  explanation: >-
+    Freed hours are real but change no budget until someone owns a plan for them. Showing them as
+    capacity keeps the case honest; a specific line such as the seasonal temps can then move from
+    capacity to cash with its owner and date.
+
+- id: q2
+  question: >-
+    The deck claims both "agents save 8 minutes per draft" (₪319,500) and "two fewer agents from
+    April" (₪431,400). What do you do with the second claim?
+  options:
+    - >-
+      Keep it in the expected case, since normal attrition will remove two roles anyway.
+    - >-
+      Halve it, since only one agent is likely to leave during the first year of the pilot.
+    - >-
+      Net it to zero: it counts the first claim's hours a second time, as salaries.
+    - >-
+      Move it to the high scenario, labelled as assumed, so the board can see the upside.
+  correct: 2
+  explanation: >-
+    Time saved and salaries saved are the same hours. Count them once, after netting the review and
+    rework; the second claim adds nothing, in any scenario.
+
+- id: q3
+  question: >-
+    "Where is my order?" contacts fell about 40% after a daily delay-email job went live, the same
+    month the drafting pilot started. The pilot's case claims the drop. What is the right treatment?
+  options:
+    - >-
+      Remove it from the pilot's case: without the pilot the drop would be the same.
+    - >-
+      Split it equally between the two projects, since both started in the same month.
+    - >-
+      Keep it in the pilot's case, since the pilot's drafts also answer those contacts.
+    - >-
+      Keep it but label it directional rather than measured.
+  correct: 0
+  explanation: >-
+    The credible counterfactual is what happens without the project. The drop comes from the
+    delay-email job, so it belongs in that job's case; claiming it here inflates the pilot.
+
+- id: q4
+  question: >-
+    In the model, which change would hurt the pilot's net value the most?
+  options:
+    - >-
+      Token prices doubling at the model provider.
+    - >-
+      The exchange rate moving from ₪3.70 to ₪3.90 per US$.
+    - >-
+      Running cost for licences and hosting rising by 10%.
+    - >-
+      Review time per draft rising from 2 to 4 minutes.
+  correct: 3
+  explanation: >-
+    Tokens are about ₪96 a month in this model, so price and exchange-rate moves barely register.
+    Review minutes apply to every draft: at about 4.4 minutes the pilot is worth nothing.
+
+- id: q5
+  question: >-
+    The CFO wants the first stage of a ₪120,000 build under ₪50,000. Which gate condition belongs
+    at the end of stage 1?
+  options:
+    - >-
+      "Stage 2 starts on 1 April, as agreed with the sponsor in the approved project plan."
+    - >-
+      "80% of drafts accepted on 400 real messages; median review at most 2.5 minutes."
+    - >-
+      "The support team reports in a short survey that the drafts are helpful and easy to use."
+    - >-
+      "The vendor confirms in writing that the model meets its published accuracy benchmark."
+  correct: 1
+  explanation: >-
+    A gate is a yes/no condition on evidence that tests the assumptions the case rests on, measured
+    on the organization's own data. A date, a satisfaction impression or a vendor benchmark tests
+    none of them.

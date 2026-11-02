@@ -1,0 +1,26 @@
+- **Opportunity map** — The full list of candidate changes from three feeds plus discovery, each restated as one workflow step with an owner, a sourced volume and one benefit unit, and placed as automate, assist, augment or leave alone (lesson 03.1).
+- **Three feeds** — The three sources of candidates: what people request, what they already use, and the goals leadership has stated (lesson 03.1).
+- **Automate / assist / augment / leave alone** — The four modes of change, decided by who does the work afterwards: no person per item, a person deciding each item, a person gaining a new capability, or no change (lesson 03.1).
+- **Ledger line** — For a candidate, who now checks, corrects, escalates or waits because of the change; never left blank (lesson 03.1).
+- **Not yet a candidate** — An idea whose workflow step or owner cannot be named yet; recorded with the question that would make it a candidate (lesson 03.1).
+- **Agentic opportunity frame** — A one-page design of one candidate workflow: today's steps, what simplification removes, what does each step, builder, connections and permissions, checks, upkeep and why it is or is not an agent (lesson 03.2).
+- **Plain automation** — Rules, integrations and scheduled jobs that need no model, such as comparing two dates and sending a fixed text (lesson 03.2).
+- **Residue** — The work people take on so that an automation or AI can run, such as keeping a sheet in a fixed format; it goes on the ledger line with an owner (lesson 03.2).
+- **Fast screen** — Seven one-sentence questions per candidate, a pass-or-fail data gate and a verdict of go, go with a condition, or stop, run before any scoring (lesson 03.3).
+- **Data gate** — The pass-or-fail check that a candidate's data is reachable, trusted, lawful for the purpose and, where outcomes matter, labelled (lesson 03.3).
+- **Label question** — Whether the outcome a use would learn from or be tested against was ever recorded, consistently (lesson 03.3).
+- **Scrutiny rule** — The written, dated list of candidate classes that always get full scrutiny, agreed with the sponsor before screening (lesson 03.3).
+- **Locked criteria** — Scoring weights, rating anchors and rules agreed and dated before the candidate list is opened, so they cannot bend to a favourite (lesson 03.4).
+- **Expected error cost** — Items a month × error rate × cost per error, netted from a candidate's benefit before its value is rated (lesson 03.4).
+- **Absorption** — The hours a month a receiving team says it can give to anything new (training, checking, new steps), asked of its lead, not assumed (lesson 03.4).
+- **Divergence** — The spread between independent scores on one card; discussed for evidence instead of averaged (lesson 03.5).
+- **Guardrail metric** — The number that must not get worse while the KPI improves, chosen so that it moves the wrong way if the gain is fake (lesson 03.6).
+- **Parked list** — Ideas not funded now, each with its reason and a dated, evidence-based reopening condition (lesson 03.6).
+- **Four ledgers** — The sponsor's team, the receiving team, control capacity (review labour) and the customer's share; every claimed benefit is netted across them (lesson 03.7).
+- **Measured / directional / assumed** — Evidence labels for a benefit: counted from data you can show; direction evidenced but size estimated; a belief, vendor figure or someone else's number (lesson 03.7).
+- **Capacity vs cash** — Freed hours are capacity; they become cash only when a named budget line changes, with an owner and a date (lesson 03.7).
+- **Staged gate** — A yes/no condition, written in advance, that releases the next stage of money (lesson 03.7).
+- **Horizon by evidence** — Placing an initiative in Now, Next or Later by how much is proven and what it depends on, not by a start date (lesson 03.8).
+- **Gate, not date** — Writing a roadmap dependency as a checkable condition with an owner instead of a start date (lesson 03.8).
+- **Decision-ready case** — A one-page front with a one-sentence ask, the conservative scenario first, conditions, the cost of waiting and labelled claims with source tags, backed by an appendix (lesson 03.9).
+- **Two-reader check** — Giving the front page to a finance reader and a sponsor for one minute each and fixing whatever they cannot find (lesson 03.9).

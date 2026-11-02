@@ -30,7 +30,7 @@ const harbor = {
   claims: [
     {
       id: 'drafts', title: 'Agents save 8 minutes on every AI-drafted reply', claimed: 319500, deckLabel: 'measured', deckClass: 'cash',
-      basis: 'Timed on 400 real emails and three weeks of shadow mode: 8 minutes saved per accepted draft, 80% accepted. 3,200 written contacts a month (email, web form and WhatsApp routed into the helpdesk), 60% drafted: about 2,460 hours a year at ₪130.',
+      basis: 'Timed on a test set of 400 real emails: 8 minutes saved per accepted draft, 80% accepted. 3,200 written contacts a month (email, web form and WhatsApp routed into the helpdesk), 60% drafted: about 2,460 hours a year at ₪130.',
       adjustments: [
         { id: 'rework', ledger: 'sponsor', amount: -49920, real: true, text: 'The 20% of drafts that are wrong take 5 extra minutes to fix: 384 hours a year.', why: 'Rework is a cost inside the sponsor’s own team; the deck counted only the right drafts’ saving and forgot the wrong ones’ cost.' },
         { id: 'review', ledger: 'control', amount: -99840, real: true, text: 'Every draft is read before it is sent: 2 minutes × 23,040 drafts = 768 hours a year.', why: 'The human check is what makes the pilot safe; it is paid for in the same hours the claim counts.' },
@@ -89,7 +89,7 @@ const harbor = {
       id: 'temps', title: 'No seasonal temps next peak', claimed: 96000, deckLabel: 'measured', deckClass: 'cash',
       basis: 'Samir hired two temps for November–January (₪16,000 a month each). Samir and Michal have signed that the next peak runs without them if the pilot holds its numbers until September.',
       adjustments: [
-        { id: 'convert', ledger: 'sponsor', target: 'drafts', amount: -96000, real: true, text: 'Count it once: the temps’ 960 hours come out of the hours claim 1 frees. Move them from capacity to cash; do not add them.', why: 'This is how capacity becomes cash: a named plan, an owner, a date. The hours leave claim 1 when they become money here.' },
+        { id: 'convert', ledger: 'sponsor', target: 'drafts', amount: -96000, real: true, text: 'Count it once: the temps’ ₪96,000 comes out of the capacity claim 1 frees. Move them from capacity to cash; do not add them.', why: 'This is how capacity becomes cash: a named plan, an owner, a date. The hours leave claim 1 when they become money here.' },
         { id: 'peakReview', ledger: 'control', amount: -49920, real: false, text: 'At peak the drafts still need reading: take off another 384 hours of review.', why: 'Review is already netted in claim 1 for every draft in the year.' },
       ],
       truth: { label: 'directional', cls: 'cash', note: 'A signed decision with a date makes it cash; it depends on the pilot holding up, so it is directional, not measured.' },

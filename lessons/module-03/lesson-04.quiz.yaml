@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    Halfway through scoring, the CEO's chatbot lands in seventh place. A board member who is present
+    suggests raising the weight of "strategic value" so it moves up. What do you do?
+  options:
+    - >-
+      Raise the weight for this session only and note in the minutes that leadership asked for it.
+    - >-
+      Keep the locked weights; log the request as a change and show its effect on every card.
+    - >-
+      Remove the chatbot from the list, since its low rank is now politically awkward for everyone.
+    - >-
+      Add a separate "strategic" bonus for the chatbot only, so that the rest of the grid stays the same.
+  correct: 1
+  explanation: >-
+    Criteria are locked before the list is opened so they cannot bend to a favourite. A change can
+    be proposed, but only as a recorded change applied to every card, which usually shows why it
+    was asked for.
+
+- id: q2
+  question: >-
+    A claim-decision card promises ₪3,250 a month. It handles 260 claims a month, 12% of decisions
+    would be wrong, and a wrong decision costs about ₪1,200. How should value be rated?
+  options:
+    - >-
+      As a 3, since the benefit is real and errors are a risk question, not a value question.
+    - >-
+      As a 2, since the error rate is only an estimate and may improve with use.
+    - >-
+      As a 1, since the expected error cost exceeds the benefit and the net is negative.
+    - >-
+      As a 4, since automating decisions removes the slowest step in the process.
+  correct: 2
+  explanation: >-
+    Expected error cost is 260 × 12% × ₪1,200, about ₪37,000 a month, far above the benefit. Netting
+    errors before rating value turns a modest saving into a loss, whatever the risk score adds.
+
+- id: q3
+  question: >-
+    Your top three include two candidates for the support team. Its manager says it can absorb 30
+    hours a month until February; the two together need 45. What do you do?
+  options:
+    - >-
+      Keep both and ask the manager to find the extra hours through overtime.
+    - >-
+      Drop the support candidates and pick two from teams with spare capacity.
+    - >-
+      Keep both and plan training for after February, when the work starts anyway.
+    - >-
+      Start the one that fits, and sequence the second after capacity rises.
+  correct: 3
+  explanation: >-
+    Absorption is a sequencing fact. The portfolio keeps the better candidate inside the team's
+    number and moves the other to when capacity exists; overtime or ignoring the number makes the
+    rollout fail on the team.
+
+- id: q4
+  question: >-
+    A candidate's effort is rated "high". When you split it into four parts, three are low and only
+    the integration is high because it needs a live link to the ERP. What is the useful next move?
+  options:
+    - >-
+      Look for a reshape, such as a nightly export instead of a live link in phase 1.
+    - >-
+      Keep the overall rating at high, since one hard part makes the project hard.
+    - >-
+      Average the four parts to medium and move on to the next candidate.
+    - >-
+      Drop the candidate, since integration problems are the most common cause of failure.
+  correct: 0
+  explanation: >-
+    Splitting effort shows where the friction is, and that is where a reshape move can lower it.
+    Averaging hides it, and dropping the candidate gives up value that a simpler design could keep.
+
+- id: q5
+  question: >-
+    Before the workshop you check a card that says "assembly questions are 9% of tickets, 540 a
+    month". The ticket export shows about 6%, roughly 25 a month in the helpdesk. What do you do?
+  options:
+    - >-
+      Use the card's figure, since the proposer knows the work better than the export.
+    - >-
+      Correct the volume from the data, note the source, and tell the proposer before the workshop.
+    - >-
+      Remove the card, since a wrong figure means the whole proposal is unreliable.
+    - >-
+      Average the two figures to stay neutral between the proposer and the data.
+  correct: 1
+  explanation: >-
+    Cards are proposers' cases and must be checked against the data. Correcting the number with its
+    source, and warning the proposer privately first, keeps the candidate fairly in play and keeps
+    your credibility when finance checks it.
