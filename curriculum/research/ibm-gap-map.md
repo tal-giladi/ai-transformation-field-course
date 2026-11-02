@@ -36,7 +36,7 @@ vocabulary is good and our lessons name it in one line where they build on it:
 | Counterfactual design: matched teams, phased rollout, how long to run | 05.1, 07.2 |
 | Policy pack: AUP, approved tools/data classes, vendor questionnaire and contract terms, DPIA, governance charter, intake process | M4 |
 | Risk register from zero (pre-mortem, starter risks per use-case type), security risks (prompt injection, data leakage) | 04.5 |
-| Regulation beyond the EU AI Act: Israel, US, GDPR, sector rules | 04.6 + engagements 9–12, 15 |
+| Regulation beyond the EU AI Act: Israel first, then GDPR/EU and US, sector rules | 04.6 + engagements 9–12, 15 |
 | Building and testing anything: pilot, test set, eval, negative tests, human-review design | M5; every engagement NN.5 |
 | Logging spec, monitoring after launch, change control for prompts/models, re-eval on vendor model change | 05.7, 07.5 |
 | Comms artifacts: announcement, manager talking points, "will this replace me" FAQ, works-council consultation | 06.5, 06.6 |

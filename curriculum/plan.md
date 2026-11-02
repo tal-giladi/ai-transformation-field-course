@@ -136,12 +136,19 @@ Two kinds:
 
 ## 4. Content sources and accuracy
 
-- Frameworks: NIST AI RMF 1.0 + Generative AI Profile (NIST AI 600-1), ISO/IEC 42001, EU AI Act
-  (check the current application dates and the status of the "Digital Omnibus" delay proposals when
-  writing), GDPR (DPIA), Israel (Privacy Protection Law Amendment 13, the Privacy Protection
-  Authority's AI guidance, the government AI policy principles), US (state laws such as Colorado's AI
-  Act — check status), sector rules where an engagement needs them (insurance, health, banking model
-  risk). All "verify at writing time".
+- **Israel first (Tal, 2026-11-02).** All organizations are Israel-based. Israeli law and regulators
+  are the primary layer in every lesson: Privacy Protection Law incl. Amendment 13, the Privacy
+  Protection (Data Security) Regulations, the Privacy Protection Authority's guidance on AI, the
+  government AI policy principles, and sector regulators where an engagement needs them (Bank of
+  Israel / Banking Supervision, Capital Market, Insurance and Savings Authority, Ministry of Health,
+  public-procurement and freedom-of-information rules for the municipality, labour law and works
+  committees for workforce change). Hebrew/Arabic/Russian/English workforce and customers are part of
+  the data and the evals. The course stays in English; Israeli law titles get their Hebrew name once.
+- **EU second**, as it reaches Israeli organizations: GDPR (adequacy, EU customers and staff) and the
+  EU AI Act when an Israeli company is a provider or deployer for the EU market (check current
+  application dates and the status of the "Digital Omnibus" changes when writing).
+- **US and standards last:** NIST AI RMF 1.0 + Generative AI Profile (NIST AI 600-1), ISO/IEC 42001,
+  and US rules only where an engagement sells there. All "verify at writing time".
 - Public case files for teardowns (verify each against primary sources before use): Moffatt v. Air
   Canada (chatbot refund policy), Mata v. Avianca and later fake-citation sanctions, NYC MyCity
   chatbot, Klarna's AI customer-service claims and partial walk-back, the Dutch childcare-benefits
@@ -201,7 +208,7 @@ Both tracks produce the same artifacts: the pilot, a test set, an eval report wi
 3. 04.3 Vendor and tool review: data use for training, retention, location, sub-processors, certifications, exit (questionnaire + 3 real-shaped vendor documents)
 4. 04.4 AI inventory and risk tiering; when you need a DPIA and how to write one
 5. 04.5 Risk register from zero: pre-mortem workshop, starter risks per use-case type (chatbot, extraction, scoring, agent), security risks (prompt injection, data leakage), then test the controls (`risk-register-tester`)
-6. 04.6 Which law applies to you: a one-page regulatory map (EU / Israel / US, actor and date)
+6. 04.6 Which law applies to you: a one-page regulatory map (Israel first, then EU and US; actor and date)
 7. 04.7 Governance that runs: governance charter, committee terms of reference, intake form for new AI uses, cadence, link to the existing risk process
 - Module practical: the policy pack (AUP, tools list, vendor review, inventory, DPIA, risk register, regulatory map, governance charter + intake).
 
@@ -241,7 +248,7 @@ Both tracks produce the same artifacts: the pilot, a test set, an eval report wi
 | 8 | **Northwind Outfitters** — 450-person online retailer | "A chatbot that replaces half of support by Q2" | Chatbot vs agent-assist; refund-policy liability (Air Canada pattern); the real problem is returns policy | Agent-assist pilot on 2,000 tickets + eval |
 | 9 | **Meridian Mutual** — mid-size insurer | "Automate claims intake and spot fraud" | Regulated deployment verdict: high-risk classification, explainability, bias test on claims data; pass/flag/block gate | Document-extraction pilot + fairness check + deployment verdict |
 | 10 | **Galil Health** — regional clinic network | "Ambient scribe for every doctor" | Vendor selection: RFP, demo vs evidence, clinical safety, privacy, clinician adoption (`vendor-rfp`) | Vendor scoring + contract terms + clinician pilot plan |
-| 11 | **Riverton City** — municipality, 220k residents | "A citizen chatbot like other cities have" | Public-sector constraints: procurement, transparency, accessibility, languages, wrong-advice risk (MyCity pattern); unions | Answer-quality eval of a permit-FAQ assistant in 3 languages; transparency register entry |
+| 11 | **Givat Oren** — municipality, 220k residents | "A citizen chatbot like other cities have" | Public-sector constraints: procurement, transparency, accessibility, languages, wrong-advice risk (MyCity pattern); unions | Answer-quality eval of a permit-FAQ assistant in 3 languages; transparency register entry |
 | 12 | **Atlas & Rowe** — 90-lawyer law firm | "Everyone wants Harvey/CoCounsel; partners are split" | Confidentiality, fake citations, and the billable-hour problem: time saved ≠ money earned; pricing change | Precedent-search assistant over a document set + citation verification eval; revised ROI |
 | 13 | **Kinneret Plastics** — 600-person factory, 3 shifts | "Predictive maintenance with AI" | The data is not ready: say not-yet, and fund the foundation instead; frontline and multilingual workforce | Data readiness audit on maintenance logs; maintenance-manual assistant as the honest quick win |
 | 14 | **Lumen SaaS** — 250-person B2B software company | "Ship an AI agent that resolves customer issues in the product" | Agentic AI: tool permissions, authority ladder, recoverability, audit trail (`agent-authority`) | Agent permission map + negative tests (try every action it must refuse) + scripted red-team + staged autonomy plan |
@@ -299,6 +306,6 @@ One brief per engagement (the deliverables list and rubric), plus the capstone b
 ## 11. Open questions (also in TODO_FOR_TAL.md)
 
 1. ~~Read the actual IBM content~~ — done 2026-11-02, see `research/ibm-gap-map.md`.
-2. Free or paid?
-3. Which jurisdictions: EU + Israel + US (planned), or Israel-first?
+2. ~~Free or paid?~~ — paid (Tal, 2026-11-02).
+3. ~~Which jurisdictions?~~ — Israel first, then EU, then US (Tal, 2026-11-02).
 4. Track B (code) in every build lab, or only in some engagements?
