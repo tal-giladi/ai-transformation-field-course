@@ -70,3 +70,20 @@ merge `curriculum/inbox/module-NN-sources.md` into `references/` when that page 
 - At final QA: merge the suggested updates at the end of `curriculum/inbox/module-04-sources.md` into `references/laws-and-guidance.md`.
 - 2026-11-02 Staged money follows 03.7/03.9: ₪48,000 now, ₪72,000 from gate 1 on 1 Apr 2027; gate 2 on 30 Sep (temps). Steering sim updated. Roadmap v1.1 (05.6): all four languages from 1 Feb. Module 5's LLM eval numbers are an illustrative worked example (no API key here); the keyword baseline numbers are real. `labs/module-05/labels.csv` (true categories) ships on purpose: the test set needs ground truth.
 - 2026-11-02 1 Feb 2027 is a Monday (fixed in 05.6/05.7/project); all 12 agents get drafts on demand after the 28 Jan walkthrough; temps not trained (contracts end before 7–11 Feb). adoption-dynamics wording aligned (written contact; quiet non-adoption questions vs the frontline manager's three).
+
+## Agent prompt for an engagement module (copy, replace NN and the org)
+
+> You write engagement module NN (<org>) of "AI Transformation in the Field" in
+> `C:\Users\TalGiladi\OneDrive\repos\course-creator\ai-transformation-field-course`.
+> Read `curriculum/build-spec.md` first and follow it exactly, especially "Engagement modules (08–17)".
+> Do NOT spawn sub-agents (max 2 agents run in total). Never commit or push. Never edit shared files
+> or another module's files; use the inboxes. Order: design notes (`curriculum/engagements/module-NN.md`:
+> hidden truth, planted findings from plan §6 + your own, cast, unlocks, futures, timeline) → data room
+> (`labs/module-NN/data-room/generate.py`, seeded, stdlib only; run it twice and diff) → brief →
+> personas + transcripts → expert deliverables → lessons NN.1–NN.6 (plan §3.2 shape) → module quiz →
+> project `projects/mNN-<slug>.md`. Re-use Stage 1 lessons and templates by link; don't re-teach.
+> Simulations are shared: link one only if a preset for this org exists in `simulations/README.md`;
+> otherwise put a preset proposal in your notes inbox. Verify every law, regulator, price and tool
+> fact against a primary source you open now (Israel first). Python venv for running scripts:
+> `C:\Users\TALGIL~2\AppData\Local\Temp\claude\C--Users-TalGiladi-OneDrive-repos-tals-academy\a0debebf-67cd-4f6f-aa4b-dc46c09253bc\scratchpad\venv\Scripts\python.exe`.
+> End with the build-spec's final report (under 200 words).
