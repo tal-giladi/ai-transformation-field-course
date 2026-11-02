@@ -1,0 +1,241 @@
+doc_id,file,doc_type,doc_language,line,claimant_language,region,claimant_age_band,capture_channel,form_filled,received_date
+D001,documents/D001.txt,garage_invoice,he,motor,he,Center,25-34,scanner_ramat_gan,printed,2026-10-14
+D002,documents/D002.txt,contractor_invoice,he,home,he,North,25-34,email_pdf,printed,2026-10-12
+D003,documents/D003.txt,garage_invoice,ar,motor,ar,North,75+,email_pdf,printed,2026-09-16
+D004,documents/D004.txt,claim_form,ar,motor,ar,South,55-64,app_photo,handwritten,2026-10-08
+D005,documents/D005.txt,police_confirmation,he,motor,he,Center,25-34,app_photo,printed,2026-10-14
+D006,documents/D006.txt,garage_invoice,he,motor,he,North,75+,scanner_haifa,printed,2026-09-26
+D007,documents/D007.txt,claim_form,ru,home,ru,Center,35-44,email_pdf,typed,2026-10-11
+D008,documents/D008.txt,garage_invoice,he,motor,he,Center,25-34,email_pdf,printed,2026-09-29
+D009,documents/D009.txt,claim_form,ru,home,ru,Center,45-54,app_photo,handwritten,2026-09-29
+D010,documents/D010.txt,garage_invoice,he,motor,he,Jerusalem,35-44,scanner_ramat_gan,printed,2026-10-25
+D011,documents/D011.txt,garage_invoice,he,motor,he,South,45-54,email_pdf,printed,2026-10-28
+D012,documents/D012.txt,garage_invoice,ar,motor,ar,Jerusalem,55-64,email_pdf,printed,2026-10-30
+D013,documents/D013.txt,assessor_report,he,motor,ar,Center,35-44,email_pdf,printed,2026-09-12
+D014,documents/D014.txt,assessor_report,he,motor,he,South,35-44,scanner_ramat_gan,printed,2026-09-21
+D015,documents/D015.txt,claim_form,ru,motor,ru,North,25-34,app_photo,typed,2026-09-13
+D016,documents/D016.txt,contractor_invoice,he,home,he,Tel Aviv,18-24,app_photo,printed,2026-09-14
+D017,documents/D017.txt,garage_invoice,ar,motor,ar,North,65-74,scanner_haifa,printed,2026-10-03
+D018,documents/D018.txt,health_receipt,he,health,he,Center,25-34,app_photo,printed,2026-09-03
+D019,documents/D019.txt,claim_form,ru,motor,ru,South,65-74,email_pdf,typed,2026-09-01
+D020,documents/D020.txt,assessor_report,he,motor,ar,Jerusalem,55-64,app_photo,printed,2026-09-18
+D021,documents/D021.txt,claim_form,he,motor,he,Jerusalem,65-74,scanner_ramat_gan,handwritten,2026-10-03
+D022,documents/D022.txt,garage_invoice,ar,motor,ar,Jerusalem,25-34,scanner_ramat_gan,printed,2026-10-17
+D023,documents/D023.txt,claim_form,ar,motor,ar,Center,18-24,scanner_ramat_gan,handwritten,2026-10-14
+D024,documents/D024.txt,medical_invoice_abroad,en,travel,en,North,25-34,app_photo,printed,2026-09-07
+D025,documents/D025.txt,medical_invoice_abroad,ru,travel,ru,Tel Aviv,55-64,email_pdf,printed,2026-10-09
+D026,documents/D026.txt,garage_invoice,ar,motor,ar,South,55-64,app_photo,printed,2026-09-09
+D027,documents/D027.txt,health_receipt,ar,health,ar,Center,55-64,app_photo,printed,2026-09-19
+D028,documents/D028.txt,claim_form,en,travel,en,Center,45-54,email_pdf,typed,2026-09-03
+D029,documents/D029.txt,claim_form,he,home,he,Center,35-44,scanner_ramat_gan,handwritten,2026-10-24
+D030,documents/D030.txt,contractor_invoice,ar,home,ar,North,55-64,scanner_haifa,printed,2026-10-06
+D031,documents/D031.txt,garage_invoice,he,motor,he,South,55-64,app_photo,printed,2026-09-13
+D032,documents/D032.txt,garage_invoice,ar,motor,ar,North,55-64,scanner_haifa,printed,2026-10-18
+D033,documents/D033.txt,health_receipt,he,health,he,Jerusalem,55-64,fax,printed,2026-09-19
+D034,documents/D034.txt,garage_invoice,he,motor,he,Tel Aviv,35-44,app_photo,printed,2026-10-07
+D035,documents/D035.txt,garage_invoice,ar,motor,ar,South,55-64,app_photo,printed,2026-10-29
+D036,documents/D036.txt,health_receipt,he,health,he,North,18-24,app_photo,printed,2026-10-02
+D037,documents/D037.txt,contractor_invoice,he,home,he,North,65-74,scanner_haifa,printed,2026-09-11
+D038,documents/D038.txt,contractor_invoice,he,home,he,Center,45-54,email_pdf,printed,2026-09-19
+D039,documents/D039.txt,claim_form,he,motor,he,Center,25-34,app_photo,handwritten,2026-10-06
+D040,documents/D040.txt,health_receipt,he,health,he,North,45-54,email_pdf,printed,2026-10-29
+D041,documents/D041.txt,garage_invoice,ar,motor,ar,North,25-34,scanner_haifa,printed,2026-09-26
+D042,documents/D042.txt,medical_invoice_abroad,en,travel,en,South,45-54,app_photo,printed,2026-10-22
+D043,documents/D043.txt,police_confirmation,he,home,he,North,55-64,email_pdf,printed,2026-10-06
+D044,documents/D044.txt,health_receipt,ru,health,ru,Center,55-64,email_pdf,printed,2026-10-20
+D045,documents/D045.txt,assessor_report,he,motor,he,Center,35-44,scanner_ramat_gan,printed,2026-09-22
+D046,documents/D046.txt,medical_invoice_abroad,en,travel,en,Jerusalem,55-64,app_photo,printed,2026-10-03
+D047,documents/D047.txt,claim_form,he,home,he,South,25-34,scanner_ramat_gan,typed,2026-10-03
+D048,documents/D048.txt,claim_form,he,home,he,Center,45-54,scanner_ramat_gan,typed,2026-10-29
+D049,documents/D049.txt,police_confirmation,he,motor,ru,Center,55-64,scanner_ramat_gan,printed,2026-09-11
+D050,documents/D050.txt,contractor_invoice,he,home,he,Center,55-64,scanner_ramat_gan,printed,2026-10-10
+D051,documents/D051.txt,medical_invoice_abroad,en,travel,en,North,45-54,email_pdf,printed,2026-10-02
+D052,documents/D052.txt,health_receipt,he,health,he,North,35-44,app_photo,printed,2026-10-27
+D053,documents/D053.txt,contractor_invoice,he,home,he,Jerusalem,55-64,app_photo,printed,2026-10-17
+D054,documents/D054.txt,police_confirmation,he,home,he,Tel Aviv,55-64,scanner_ramat_gan,printed,2026-10-11
+D055,documents/D055.txt,medical_invoice_abroad,en,travel,en,North,75+,app_photo,printed,2026-09-30
+D056,documents/D056.txt,medical_invoice_abroad,en,travel,en,Tel Aviv,25-34,email_pdf,printed,2026-09-14
+D057,documents/D057.txt,medical_invoice_abroad,ru,travel,ru,Tel Aviv,45-54,email_pdf,printed,2026-09-21
+D058,documents/D058.txt,claim_form,ar,motor,ar,South,25-34,app_photo,handwritten,2026-09-27
+D059,documents/D059.txt,police_confirmation,he,home,he,Tel Aviv,25-34,email_pdf,printed,2026-10-18
+D060,documents/D060.txt,police_confirmation,he,home,ar,Jerusalem,45-54,scanner_ramat_gan,printed,2026-10-12
+D061,documents/D061.txt,claim_form,he,motor,he,South,45-54,email_pdf,typed,2026-09-02
+D062,documents/D062.txt,contractor_invoice,ar,home,ar,Jerusalem,65-74,email_pdf,printed,2026-09-30
+D063,documents/D063.txt,claim_form,he,motor,he,Tel Aviv,25-34,app_photo,handwritten,2026-10-10
+D064,documents/D064.txt,garage_invoice,he,motor,he,North,35-44,scanner_haifa,printed,2026-09-20
+D065,documents/D065.txt,medical_invoice_abroad,ru,travel,ru,Center,45-54,app_photo,printed,2026-09-14
+D066,documents/D066.txt,claim_form,ru,motor,ru,North,35-44,scanner_haifa,handwritten,2026-09-01
+D067,documents/D067.txt,contractor_invoice,ru,home,ru,Center,55-64,app_photo,printed,2026-09-21
+D068,documents/D068.txt,claim_form,ru,motor,ru,Tel Aviv,35-44,scanner_ramat_gan,typed,2026-10-20
+D069,documents/D069.txt,health_receipt,he,health,he,North,18-24,scanner_ramat_gan,printed,2026-09-01
+D070,documents/D070.txt,health_receipt,he,health,he,North,75+,scanner_ramat_gan,printed,2026-10-03
+D071,documents/D071.txt,police_confirmation,he,motor,he,Center,45-54,scanner_ramat_gan,printed,2026-10-07
+D072,documents/D072.txt,assessor_report,he,motor,ar,North,45-54,scanner_haifa,printed,2026-09-18
+D073,documents/D073.txt,contractor_invoice,he,home,he,Tel Aviv,35-44,email_pdf,printed,2026-10-03
+D074,documents/D074.txt,claim_form,ar,motor,ar,South,18-24,scanner_ramat_gan,typed,2026-10-18
+D075,documents/D075.txt,health_receipt,he,health,he,Tel Aviv,35-44,fax,printed,2026-10-13
+D076,documents/D076.txt,assessor_report,he,motor,he,Center,35-44,fax,printed,2026-10-16
+D077,documents/D077.txt,claim_form,en,travel,en,North,25-34,scanner_ramat_gan,typed,2026-10-13
+D078,documents/D078.txt,claim_form,ar,motor,ar,North,65-74,app_photo,handwritten,2026-09-27
+D079,documents/D079.txt,contractor_invoice,ru,home,ru,Center,35-44,scanner_ramat_gan,printed,2026-09-09
+D080,documents/D080.txt,garage_invoice,he,motor,he,North,35-44,scanner_haifa,printed,2026-10-28
+D081,documents/D081.txt,medical_invoice_abroad,ru,travel,ru,South,65-74,app_photo,printed,2026-09-03
+D082,documents/D082.txt,garage_invoice,he,motor,he,North,45-54,email_pdf,printed,2026-10-01
+D083,documents/D083.txt,garage_invoice,he,motor,he,Jerusalem,55-64,scanner_ramat_gan,printed,2026-09-12
+D084,documents/D084.txt,medical_invoice_abroad,en,travel,en,Center,45-54,email_pdf,printed,2026-09-30
+D085,documents/D085.txt,garage_invoice,ar,motor,ar,North,45-54,scanner_haifa,printed,2026-10-03
+D086,documents/D086.txt,assessor_report,he,motor,he,Center,45-54,fax,printed,2026-09-15
+D087,documents/D087.txt,claim_form,he,motor,he,North,75+,scanner_haifa,handwritten,2026-09-22
+D088,documents/D088.txt,claim_form,ar,motor,ar,Jerusalem,25-34,fax,typed,2026-10-04
+D089,documents/D089.txt,assessor_report,he,motor,he,Tel Aviv,75+,scanner_ramat_gan,printed,2026-09-10
+D090,documents/D090.txt,claim_form,ar,home,ar,North,35-44,email_pdf,handwritten,2026-10-19
+D091,documents/D091.txt,garage_invoice,ar,motor,ar,Jerusalem,45-54,app_photo,printed,2026-10-04
+D092,documents/D092.txt,assessor_report,he,motor,he,South,55-64,scanner_ramat_gan,printed,2026-10-13
+D093,documents/D093.txt,garage_invoice,he,motor,he,North,65-74,email_pdf,printed,2026-10-12
+D094,documents/D094.txt,medical_invoice_abroad,en,travel,en,Center,45-54,email_pdf,printed,2026-09-02
+D095,documents/D095.txt,medical_invoice_abroad,en,travel,en,North,55-64,app_photo,printed,2026-09-11
+D096,documents/D096.txt,claim_form,he,motor,he,South,35-44,scanner_ramat_gan,typed,2026-10-19
+D097,documents/D097.txt,claim_form,ar,motor,ar,North,35-44,email_pdf,typed,2026-10-27
+D098,documents/D098.txt,claim_form,en,travel,en,Center,55-64,email_pdf,typed,2026-09-14
+D099,documents/D099.txt,medical_invoice_abroad,en,travel,en,South,35-44,email_pdf,printed,2026-10-24
+D100,documents/D100.txt,health_receipt,he,health,he,South,75+,app_photo,printed,2026-10-22
+D101,documents/D101.txt,health_receipt,ru,health,ru,Tel Aviv,35-44,email_pdf,printed,2026-10-30
+D102,documents/D102.txt,health_receipt,ar,health,ar,North,45-54,app_photo,printed,2026-09-23
+D103,documents/D103.txt,assessor_report,he,motor,he,Tel Aviv,18-24,app_photo,printed,2026-10-04
+D104,documents/D104.txt,claim_form,ar,home,ar,South,55-64,fax,handwritten,2026-10-29
+D105,documents/D105.txt,health_receipt,ar,health,ar,South,65-74,app_photo,printed,2026-10-11
+D106,documents/D106.txt,assessor_report,he,motor,he,North,18-24,email_pdf,printed,2026-09-14
+D107,documents/D107.txt,claim_form,he,home,he,North,35-44,app_photo,typed,2026-10-09
+D108,documents/D108.txt,claim_form,he,motor,he,South,55-64,email_pdf,handwritten,2026-10-24
+D109,documents/D109.txt,garage_invoice,he,motor,he,Center,35-44,email_pdf,printed,2026-09-25
+D110,documents/D110.txt,medical_invoice_abroad,en,travel,en,Tel Aviv,25-34,email_pdf,printed,2026-10-08
+D111,documents/D111.txt,claim_form,en,travel,en,Center,35-44,app_photo,handwritten,2026-09-28
+D112,documents/D112.txt,contractor_invoice,ru,home,ru,North,45-54,email_pdf,printed,2026-10-29
+D113,documents/D113.txt,claim_form,ru,motor,ru,South,55-64,email_pdf,typed,2026-10-21
+D114,documents/D114.txt,medical_invoice_abroad,ru,travel,ru,North,45-54,app_photo,printed,2026-09-13
+D115,documents/D115.txt,health_receipt,ru,health,ru,North,65-74,email_pdf,printed,2026-10-18
+D116,documents/D116.txt,claim_form,en,travel,en,Jerusalem,65-74,scanner_ramat_gan,typed,2026-09-21
+D117,documents/D117.txt,assessor_report,he,motor,he,North,25-34,scanner_haifa,printed,2026-10-15
+D118,documents/D118.txt,health_receipt,he,health,he,North,35-44,fax,printed,2026-10-28
+D119,documents/D119.txt,claim_form,ru,home,ru,South,65-74,app_photo,typed,2026-10-29
+D120,documents/D120.txt,assessor_report,he,motor,he,Center,25-34,scanner_ramat_gan,printed,2026-10-08
+D121,documents/D121.txt,contractor_invoice,ru,home,ru,Center,55-64,email_pdf,printed,2026-10-29
+D122,documents/D122.txt,claim_form,he,motor,he,Jerusalem,65-74,email_pdf,typed,2026-10-13
+D123,documents/D123.txt,police_confirmation,he,home,en,Center,35-44,email_pdf,printed,2026-09-03
+D124,documents/D124.txt,assessor_report,he,motor,he,Tel Aviv,45-54,email_pdf,printed,2026-09-29
+D125,documents/D125.txt,assessor_report,he,motor,he,Tel Aviv,35-44,app_photo,printed,2026-10-11
+D126,documents/D126.txt,health_receipt,ar,health,ar,North,65-74,scanner_ramat_gan,printed,2026-10-29
+D127,documents/D127.txt,claim_form,he,motor,he,South,55-64,scanner_ramat_gan,handwritten,2026-09-17
+D128,documents/D128.txt,claim_form,he,home,he,Center,55-64,email_pdf,handwritten,2026-10-19
+D129,documents/D129.txt,medical_invoice_abroad,en,travel,en,North,35-44,app_photo,printed,2026-09-21
+D130,documents/D130.txt,claim_form,he,motor,he,North,35-44,scanner_haifa,handwritten,2026-09-09
+D131,documents/D131.txt,contractor_invoice,he,home,he,Center,45-54,email_pdf,printed,2026-09-22
+D132,documents/D132.txt,garage_invoice,he,motor,he,North,45-54,scanner_haifa,printed,2026-10-05
+D133,documents/D133.txt,garage_invoice,he,motor,he,Tel Aviv,45-54,email_pdf,printed,2026-10-21
+D134,documents/D134.txt,health_receipt,ru,health,ru,North,55-64,app_photo,printed,2026-09-20
+D135,documents/D135.txt,claim_form,he,motor,he,Center,45-54,app_photo,handwritten,2026-09-26
+D136,documents/D136.txt,medical_invoice_abroad,en,travel,en,Center,55-64,email_pdf,printed,2026-10-26
+D137,documents/D137.txt,assessor_report,he,motor,ru,Jerusalem,18-24,app_photo,printed,2026-09-30
+D138,documents/D138.txt,police_confirmation,he,motor,he,Center,65-74,scanner_ramat_gan,printed,2026-10-05
+D139,documents/D139.txt,garage_invoice,he,motor,he,South,55-64,email_pdf,printed,2026-10-01
+D140,documents/D140.txt,police_confirmation,he,motor,he,North,65-74,email_pdf,printed,2026-09-08
+D141,documents/D141.txt,health_receipt,ar,health,ar,North,25-34,email_pdf,printed,2026-09-24
+D142,documents/D142.txt,claim_form,ru,home,ru,Center,25-34,scanner_ramat_gan,handwritten,2026-10-02
+D143,documents/D143.txt,contractor_invoice,he,home,he,North,45-54,scanner_haifa,printed,2026-10-08
+D144,documents/D144.txt,garage_invoice,ar,motor,ar,North,45-54,scanner_haifa,printed,2026-09-20
+D145,documents/D145.txt,medical_invoice_abroad,ru,travel,ru,Tel Aviv,35-44,app_photo,printed,2026-09-08
+D146,documents/D146.txt,claim_form,ru,home,ru,Center,45-54,app_photo,handwritten,2026-10-17
+D147,documents/D147.txt,police_confirmation,he,motor,ru,Center,45-54,email_pdf,printed,2026-09-21
+D148,documents/D148.txt,claim_form,ar,motor,ar,Jerusalem,25-34,scanner_ramat_gan,typed,2026-09-04
+D149,documents/D149.txt,medical_invoice_abroad,ru,travel,ru,Center,35-44,app_photo,printed,2026-10-20
+D150,documents/D150.txt,claim_form,he,motor,he,North,45-54,email_pdf,typed,2026-10-15
+D151,documents/D151.txt,assessor_report,he,motor,he,Jerusalem,45-54,scanner_ramat_gan,printed,2026-10-28
+D152,documents/D152.txt,medical_invoice_abroad,en,travel,en,Center,45-54,email_pdf,printed,2026-10-18
+D153,documents/D153.txt,police_confirmation,he,motor,ru,North,55-64,email_pdf,printed,2026-10-02
+D154,documents/D154.txt,police_confirmation,he,home,he,Center,55-64,email_pdf,printed,2026-09-13
+D155,documents/D155.txt,claim_form,en,travel,en,Center,65-74,email_pdf,handwritten,2026-10-16
+D156,documents/D156.txt,assessor_report,he,motor,he,Center,35-44,email_pdf,printed,2026-09-16
+D157,documents/D157.txt,garage_invoice,he,motor,he,Center,35-44,fax,printed,2026-10-19
+D158,documents/D158.txt,medical_invoice_abroad,ru,travel,ru,Center,45-54,email_pdf,printed,2026-10-25
+D159,documents/D159.txt,medical_invoice_abroad,ru,travel,ru,Tel Aviv,45-54,email_pdf,printed,2026-09-05
+D160,documents/D160.txt,contractor_invoice,he,home,he,Tel Aviv,55-64,email_pdf,printed,2026-10-23
+D161,documents/D161.txt,assessor_report,he,motor,ar,South,35-44,fax,printed,2026-09-01
+D162,documents/D162.txt,claim_form,he,home,he,Center,55-64,fax,handwritten,2026-09-24
+D163,documents/D163.txt,garage_invoice,ar,motor,ar,North,55-64,scanner_haifa,printed,2026-09-12
+D164,documents/D164.txt,medical_invoice_abroad,en,travel,en,Tel Aviv,55-64,app_photo,printed,2026-09-23
+D165,documents/D165.txt,claim_form,ru,motor,ru,Center,25-34,email_pdf,typed,2026-09-18
+D166,documents/D166.txt,police_confirmation,he,motor,he,Tel Aviv,25-34,scanner_ramat_gan,printed,2026-10-13
+D167,documents/D167.txt,claim_form,ru,motor,ru,Center,45-54,app_photo,handwritten,2026-09-19
+D168,documents/D168.txt,health_receipt,he,health,he,Jerusalem,75+,app_photo,printed,2026-09-28
+D169,documents/D169.txt,garage_invoice,ar,motor,ar,North,45-54,scanner_haifa,printed,2026-10-24
+D170,documents/D170.txt,health_receipt,he,health,he,North,45-54,email_pdf,printed,2026-09-16
+D171,documents/D171.txt,medical_invoice_abroad,ru,travel,ru,Jerusalem,25-34,email_pdf,printed,2026-09-13
+D172,documents/D172.txt,health_receipt,he,health,he,Center,35-44,app_photo,printed,2026-09-05
+D173,documents/D173.txt,claim_form,he,motor,he,North,45-54,app_photo,typed,2026-10-03
+D174,documents/D174.txt,garage_invoice,ar,motor,ar,South,35-44,app_photo,printed,2026-09-12
+D175,documents/D175.txt,medical_invoice_abroad,ru,travel,ru,Center,65-74,app_photo,printed,2026-09-14
+D176,documents/D176.txt,garage_invoice,he,motor,he,North,55-64,app_photo,printed,2026-09-25
+D177,documents/D177.txt,medical_invoice_abroad,en,travel,en,Center,35-44,email_pdf,printed,2026-10-26
+D178,documents/D178.txt,claim_form,he,motor,he,North,55-64,scanner_haifa,typed,2026-10-30
+D179,documents/D179.txt,claim_form,he,motor,he,Tel Aviv,45-54,scanner_ramat_gan,typed,2026-10-21
+D180,documents/D180.txt,health_receipt,he,health,he,Jerusalem,75+,scanner_ramat_gan,printed,2026-09-24
+D181,documents/D181.txt,assessor_report,he,motor,he,Center,45-54,email_pdf,printed,2026-09-24
+D182,documents/D182.txt,contractor_invoice,he,home,he,Center,45-54,scanner_ramat_gan,printed,2026-09-02
+D183,documents/D183.txt,contractor_invoice,ru,home,ru,South,25-34,scanner_ramat_gan,printed,2026-09-12
+D184,documents/D184.txt,police_confirmation,he,motor,he,South,45-54,app_photo,printed,2026-10-01
+D185,documents/D185.txt,assessor_report,he,motor,he,Center,75+,app_photo,printed,2026-10-20
+D186,documents/D186.txt,claim_form,he,motor,he,Center,18-24,scanner_ramat_gan,typed,2026-09-13
+D187,documents/D187.txt,police_confirmation,he,motor,he,Center,25-34,app_photo,printed,2026-10-01
+D188,documents/D188.txt,health_receipt,he,health,he,Center,45-54,email_pdf,printed,2026-09-12
+D189,documents/D189.txt,medical_invoice_abroad,en,travel,en,Center,25-34,app_photo,printed,2026-09-19
+D190,documents/D190.txt,health_receipt,ar,health,ar,North,75+,fax,printed,2026-09-21
+D191,documents/D191.txt,contractor_invoice,ar,home,ar,North,45-54,scanner_haifa,printed,2026-09-10
+D192,documents/D192.txt,garage_invoice,he,motor,he,Center,75+,app_photo,printed,2026-10-18
+D193,documents/D193.txt,claim_form,he,motor,he,Center,65-74,email_pdf,typed,2026-10-07
+D194,documents/D194.txt,health_receipt,he,health,he,North,75+,scanner_ramat_gan,printed,2026-09-17
+D195,documents/D195.txt,contractor_invoice,ru,home,ru,Center,35-44,scanner_ramat_gan,printed,2026-09-05
+D196,documents/D196.txt,assessor_report,he,motor,he,North,35-44,scanner_haifa,printed,2026-09-05
+D197,documents/D197.txt,contractor_invoice,ar,home,ar,North,25-34,scanner_haifa,printed,2026-10-05
+D198,documents/D198.txt,assessor_report,he,motor,he,Jerusalem,55-64,app_photo,printed,2026-09-22
+D199,documents/D199.txt,claim_form,he,home,he,North,55-64,app_photo,typed,2026-10-21
+D200,documents/D200.txt,claim_form,ar,motor,ar,South,35-44,scanner_ramat_gan,typed,2026-09-15
+D201,documents/D201.txt,medical_invoice_abroad,en,travel,en,North,55-64,app_photo,printed,2026-09-17
+D202,documents/D202.txt,assessor_report,he,motor,he,South,25-34,app_photo,printed,2026-10-23
+D203,documents/D203.txt,claim_form,he,home,he,Jerusalem,45-54,scanner_ramat_gan,handwritten,2026-09-30
+D204,documents/D204.txt,medical_invoice_abroad,en,travel,en,Center,45-54,app_photo,printed,2026-09-01
+D205,documents/D205.txt,medical_invoice_abroad,en,travel,en,North,45-54,email_pdf,printed,2026-10-26
+D206,documents/D206.txt,medical_invoice_abroad,en,travel,en,Center,35-44,app_photo,printed,2026-10-03
+D207,documents/D207.txt,garage_invoice,he,motor,he,Center,45-54,app_photo,printed,2026-10-03
+D208,documents/D208.txt,health_receipt,he,health,he,Tel Aviv,45-54,app_photo,printed,2026-09-05
+D209,documents/D209.txt,claim_form,ar,motor,ar,Center,18-24,app_photo,handwritten,2026-10-10
+D210,documents/D210.txt,garage_invoice,he,motor,he,South,35-44,app_photo,printed,2026-10-16
+D211,documents/D211.txt,police_confirmation,he,home,he,North,45-54,email_pdf,printed,2026-09-07
+D212,documents/D212.txt,claim_form,ar,home,ar,North,25-34,scanner_haifa,handwritten,2026-09-20
+D213,documents/D213.txt,medical_invoice_abroad,en,travel,en,Tel Aviv,18-24,email_pdf,printed,2026-10-14
+D214,documents/D214.txt,garage_invoice,he,motor,he,Jerusalem,65-74,app_photo,printed,2026-10-19
+D215,documents/D215.txt,garage_invoice,ar,motor,ar,North,18-24,app_photo,printed,2026-10-07
+D216,documents/D216.txt,health_receipt,he,health,he,Center,35-44,scanner_ramat_gan,printed,2026-10-16
+D217,documents/D217.txt,medical_invoice_abroad,en,travel,en,Center,18-24,app_photo,printed,2026-10-27
+D218,documents/D218.txt,garage_invoice,he,motor,he,North,35-44,scanner_haifa,printed,2026-10-11
+D219,documents/D219.txt,garage_invoice,he,motor,he,Center,45-54,app_photo,printed,2026-10-26
+D220,documents/D220.txt,police_confirmation,he,home,ru,Center,35-44,scanner_ramat_gan,printed,2026-09-03
+D221,documents/D221.txt,garage_invoice,he,motor,he,Center,45-54,app_photo,printed,2026-10-18
+D222,documents/D222.txt,garage_invoice,he,motor,he,Tel Aviv,45-54,scanner_ramat_gan,printed,2026-09-08
+D223,documents/D223.txt,claim_form,he,motor,he,Tel Aviv,25-34,app_photo,handwritten,2026-09-24
+D224,documents/D224.txt,health_receipt,ru,health,ru,South,35-44,scanner_ramat_gan,printed,2026-10-11
+D225,documents/D225.txt,claim_form,ar,motor,ar,North,65-74,app_photo,typed,2026-09-26
+D226,documents/D226.txt,garage_invoice,ar,motor,ar,North,25-34,scanner_haifa,printed,2026-10-08
+D227,documents/D227.txt,assessor_report,he,motor,en,Jerusalem,45-54,scanner_ramat_gan,printed,2026-10-10
+D228,documents/D228.txt,contractor_invoice,he,home,he,Center,45-54,scanner_ramat_gan,printed,2026-09-11
+D229,documents/D229.txt,claim_form,ar,motor,ar,North,45-54,email_pdf,handwritten,2026-09-08
+D230,documents/D230.txt,contractor_invoice,ru,home,ru,North,65-74,scanner_haifa,printed,2026-09-03
+D231,documents/D231.txt,garage_invoice,he,motor,he,North,35-44,scanner_haifa,printed,2026-10-24
+D232,documents/D232.txt,garage_invoice,ar,motor,ar,North,55-64,email_pdf,printed,2026-09-01
+D233,documents/D233.txt,health_receipt,ru,health,ru,Center,75+,app_photo,printed,2026-09-24
+D234,documents/D234.txt,police_confirmation,he,motor,ru,North,65-74,email_pdf,printed,2026-09-07
+D235,documents/D235.txt,police_confirmation,he,motor,ar,North,35-44,email_pdf,printed,2026-09-29
+D236,documents/D236.txt,garage_invoice,ar,motor,ar,North,25-34,app_photo,printed,2026-10-03
+D237,documents/D237.txt,claim_form,ar,home,ar,Jerusalem,18-24,scanner_ramat_gan,handwritten,2026-09-29
+D238,documents/D238.txt,contractor_invoice,ru,home,ru,Tel Aviv,25-34,scanner_ramat_gan,printed,2026-09-01
+D239,documents/D239.txt,contractor_invoice,ru,home,ru,Center,35-44,fax,printed,2026-10-16
+D240,documents/D240.txt,medical_invoice_abroad,en,travel,en,Center,25-34,app_photo,printed,2026-10-01

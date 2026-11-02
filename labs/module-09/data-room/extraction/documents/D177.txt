@@ -1,0 +1,15 @@
+[OCR text layer | D177 | email_pdf | received 2026-10-26]
+
+St. Mary's Walk-in Centre, London
+PATIENT INVOICE / STATEMENT
+Invoice no.: INV-535144
+Date of service: 26 Sep 2026
+Statement date: 28 Sep 2026
+Patient: [redacted]
+Diagnosis: lower back pain
+Services:
+  Physician visit: 188.00
+  Lab / imaging: 102.55
+  Medication: 51.27
+TOTAL DUE: GBP 341.82
+Paid by card: yes

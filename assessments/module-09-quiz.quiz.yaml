@@ -1,0 +1,192 @@
+- id: q1
+  question: >-
+    Your new manager's proposal cites a vendor's "97.4% field accuracy" for its document-capture module.
+    The release notes' footnote says it was measured on 500 typed Hebrew forms in the vendor's lab. Your
+    claims floor receives handwritten Arabic forms, phone photos and faxes. How do you treat the number?
+  options:
+    - >-
+      As a measured baseline, because it comes from the vendor's own published release notes.
+    - >-
+      As a claim valid only under its conditions, to be re-measured on Meridian's own documents.
+    - >-
+      As false, because vendors always overstate accuracy, so it should be left out of every paper.
+    - >-
+      As a ceiling, and assume Meridian will get about ten points less on its own documents.
+  correct: 1
+  explanation: >-
+    A claim is true under the conditions it was measured in. Record it with those conditions and
+    measure on your own documents: here it held on Hebrew email PDFs (96.8%) and failed on Arabic ones.
+    Guessing a discount is no better than accepting it.
+
+- id: q2
+  question: >-
+    A fraud score holds payment automatically above a threshold. Before it went live, handlers referred
+    Arabic- and Hebrew-speaking claimants at 3.2% and 3.4%; after, at 21.0% and 5.4%. Two of its rules
+    add points for "interpreter required" and "risk-area postal code". The committee meets in four weeks.
+    What is your first action?
+  options:
+    - >-
+      Recommend now that auto-referral be switched off by change request and the two rules disabled.
+    - >-
+      Commission a full external audit of the score before changing anything in production.
+    - >-
+      Raise the referral threshold so fewer claims are held, and report the change to the committee.
+    - >-
+      Ask the vendor to retrain the score on confirmed fraud outcomes before the committee meets.
+  correct: 0
+  explanation: >-
+    The harm is live and the mechanism is known; the interim step is reversible and the configuration can
+    be changed any day. A higher threshold keeps the proxies; an audit or a retraining takes months while
+    payments stay on hold.
+
+- id: q3
+  question: >-
+    Claimants wait a median 32 days from report to payment. Intake typing takes 2.5 of them; the document
+    chase 12.8. The sponsor wants to start with automated intake. What do you put first in the case?
+  options:
+    - >-
+      Automated intake, since it is what the sponsor asked for and it has a vendor module ready to extend.
+    - >-
+      A fraud check at first notice, since slow claims are often the ones with suspicious documents.
+    - >-
+      A complete documents list sent on day one, which attacks the largest segment and needs no AI.
+    - >-
+      A dashboard redesign, since the claimant's wait is not visible to management today.
+  correct: 2
+  explanation: >-
+    Fix the segment that holds the time. Forty-five percent of later requests asked for documents that
+    belonged on the first list. The dashboard change matters too, but it does not shorten anyone's wait.
+
+- id: q4
+  question: >-
+    The SIU reports ₪6.77M of "fraud prevented". It is claimed minus paid on all closed SIU cases,
+    including deductibles and claimants who withdrew. The CFO counts only confirmed fraud. A vendor offers
+    a module that "finds ₪20M". How do you treat fraud in the business case?
+  options:
+    - >-
+      Use ₪6.77M as the current benefit and the vendor's ₪20M as the upside scenario.
+    - >-
+      Use the confirmed share of ₪6.77M as the benefit the new module would multiply.
+    - >-
+      Ask the vendor for a guarantee of the ₪20M and use it as the case's expected value.
+    - >-
+      Count no fraud benefit until a tool is shown to find confirmed fraud that would otherwise be missed.
+  correct: 3
+  explanation: >-
+    A benefit is the change a tool causes. Confirmed fraud exists today and is found by handlers;
+    nothing shows the score adds to it, and the ₪20M has no source. Counting ₪0 is a decision you state,
+    not an omission.
+
+- id: q5
+  question: >-
+    The fraud score is fourteen fixed-weight rules with no learning. Your AI policy defines an AI system as
+    one that "infers" its outputs. Should the score go through the policy's high-impact approval?
+  options:
+    - >-
+      No: it is a rules engine, so it belongs in IT change management, not in the AI policy.
+    - >-
+      Yes: it materially supports decisions on claims, and anti-discrimination law applies regardless.
+    - >-
+      Only if the vendor markets it as AI, since the label creates the customers' expectations.
+    - >-
+      Only after the policy is amended, since applying it now would be outside the policy's wording.
+  correct: 1
+  explanation: >-
+    Govern by impact. The score holds payments and decides investigations; the law does not depend on
+    what the technology is called. Gate it now under rule 3.3's spirit and amend the definition so the
+    next one is in scope by name.
+
+- id: q6
+  question: >-
+    Meridian is an Israeli insurer with no EU establishment, selling to Israeli residents; some travel
+    claims include invoices from European clinics. The committee asks whether the EU AI Act applies to
+    the claims systems. What is the best answer?
+  options:
+    - >-
+      Yes: European invoices bring EU residents' data, so the AI Act's high-risk rules apply.
+    - >-
+      Yes from 2 December 2027, when Annex III obligations start for all insurance AI systems.
+    - >-
+      Not to these uses: outputs are used in Israel and claims and fraud detection are not in Annex III.
+    - >-
+      No, because Israel has an EU adequacy decision, which exempts Israeli companies from the AI Act.
+  correct: 2
+  explanation: >-
+    Scope follows where the provider or deployer is and where the output is used (Article 2(1)). Annex
+    III 5(c) covers only life and health insurance risk assessment and pricing, and 5(b) excludes fraud
+    detection. Adequacy is a GDPR concept and exempts nobody from the AI Act. Note when to re-check.
+
+- id: q7
+  question: >-
+    You are designing the outcome test for the fraud score. Which plan is legitimate and useful?
+  options:
+    - >-
+      Infer each claimant's ethnicity from name and town, then compare referral rates across ethnic groups.
+    - >-
+      Compare referral rates only overall before and after go-live, to avoid using sensitive attributes.
+    - >-
+      Ask claimants in the next survey to state their ethnicity, then test once enough answers arrive.
+    - >-
+      Compare referrals by recorded language, postal area, region and age band, before and after, with intervals.
+  correct: 3
+  explanation: >-
+    Use attributes recorded for a service reason, never as inputs, with the DPO's approval for the test.
+    Inferring ethnicity creates sensitive data and errors; an overall rate hides group effects; a survey
+    takes months while payments are held.
+
+- id: q8
+  question: >-
+    Your extraction pilot's offline eval: 95.4% of fields right, every language at least 93%, no extra
+    fields, all negative tests passed. A rules script got 86.7%; the vendor's module 82.1%. What does
+    your verdict say?
+  options:
+    - >-
+      Ship to production after the peak, since every gate was met and the alternatives are weaker.
+    - >-
+      Ship with conditions to shadow mode after the peak; Arabic pre-fill only after a production re-test.
+    - >-
+      Wait until the vendor's next release, so both can be compared on the same production documents.
+    - >-
+      Ship the rules script now and the LLM later, since the rules are cheaper and already above 85%.
+  correct: 1
+  explanation: >-
+    Offline results justify a shadow run with dated conditions, not production. The group the vendor
+    failed must pass on real documents before pre-filling. The rules script fails three negative tests
+    and the 95% gate, so it is not a ready substitute.
+
+- id: q9
+  question: >-
+    In the pilot's human-review design, handlers confirm every pre-filled field. Internal audit asks how
+    you will know the check is happening. What do you show?
+  options:
+    - >-
+      Timers per confirmation and a monthly QA sample, with a limit that flags rubber-stamping.
+    - >-
+      The procedure document and the training attendance list for every handler in the two centres.
+    - >-
+      A confidence score on every field, with fields below 0.80 highlighted for the handler.
+    - >-
+      A signed statement from each team lead that their handlers check every field.
+  correct: 0
+  explanation: >-
+    A designed control is a procedure; an operating control has evidence. Timers and a sample show
+    whether checks happen. Confidence highlighting failed here: 37 of the vendor's 83 wrong values were
+    confident.
+
+- id: q10
+  question: >-
+    At the readout the CEO asks, "Where is my ₪20M?" What is the best answer?
+  options:
+    - >-
+      That it is still possible once Fraud Insight is re-validated next year on confirmed outcomes.
+    - >-
+      That the question belongs to the COO, who received the figure from the vendor in October.
+    - >-
+      That it was the vendor's unsourced figure; confirmed fraud is ₪2.34M to date, found by handlers.
+    - >-
+      That a lower but still large figure of ₪6.77M was prevented this year by the SIU's work.
+  correct: 2
+  explanation: >-
+    Answer first and true: the figure never existed as a measurement, and the measured number is
+    confirmed fraud. Holding out hope repeats the error; passing it to the COO is not your answer; the
+    ₪6.77M counts deductibles and withdrawals.

@@ -1,0 +1,15 @@
+[OCR text layer | D189 | app_photo | received 2026-09-19]
+
+Bangkok Riverside Hospital
+PATIENT INVOICE / STATEMENT
+Invoice no.: INV-729876
+Date of service: 09/09/2026
+Statement date: 10/09/2026
+Patient: [redacted]
+Diagnosis: acute gastroenteritis
+Services:
+  Physician visit:5,106.58
+  Lab / imaging: 2,785.41
+  Medication: 1,392.70
+TOTAL DUE: THB 9,284.69
+Paid by card: yes

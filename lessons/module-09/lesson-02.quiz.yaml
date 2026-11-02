@@ -1,0 +1,76 @@
+- id: q1
+  question: >-
+    The VP Claims answers process questions openly but says "ask the SIU" when you ask what changed
+    after September. You suspect he knows more. What is the better next move?
+  options:
+    - >-
+      Ask him directly whether the new fraud flags target Arab claimants, since he is best placed to know.
+    - >-
+      Offer non-attribution, ask what changed in the SIU queue by centre, and say you will check the numbers yourself.
+    - >-
+      Drop the topic with him and ask internal audit to investigate the SIU referrals instead.
+    - >-
+      Tell him the data already shows a problem, so he has no reason to stay quiet any longer.
+  correct: 1
+  explanation: >-
+    A leading question makes a careful manager defensive and proves nothing. Making it safe and asking
+    an open, factual question gets the lead; your own analysis then carries the finding, so he never
+    has to be quoted.
+
+- id: q2
+  question: >-
+    A senior handler tells you, after you promised her non-attribution, that about ten colleagues
+    paste foreign invoices into personal ChatGPT accounts to translate them. What goes into the memo?
+  options:
+    - >-
+      Her name and team, so the DPO can stop the practice before personal data leaks any further.
+    - >-
+      Nothing, because you promised non-attribution and the memo would reveal who told you.
+    - >-
+      A recommendation to block public AI sites on the network, since the policy already forbids them.
+    - >-
+      The practice as a finding backed by the 12 CRM handler notes, framed as a need for a sanctioned tool.
+  correct: 3
+  explanation: >-
+    The CRM notes verify the practice without exposing her. It is a demand signal: people need to read
+    foreign documents in time. The DPO sets the rules for a sanctioned tool; blocking sites first only
+    pushes the practice onto phones.
+
+- id: q3
+  question: >-
+    A pivot of the motor extract shows SIU referrals for Arabic-speaking claimants rose from 3.2% to
+    21.0% after Fraud Insight went live, while Hebrew rose from 3.4% to 5.4%. The committee meets in
+    four weeks. What do you do with this on 19 November?
+  options:
+    - >-
+      Recommend to the COO now that auto-referral be switched off by change request, copying the CRO.
+    - >-
+      Hold it for the committee paper, because one pivot is not yet a proper bias test with intervals.
+    - >-
+      Send it to the regulator's public inquiries unit, since it may show discrimination against claimants.
+    - >-
+      Ask the vendor to explain the factors first, so you do not accuse the system without its side.
+  correct: 0
+  explanation: >-
+    A live system holding payments disproportionately for one group should not wait four weeks. The
+    interim step is reversible and goes to the person who can make it, under the line to the CRO. The
+    full test follows in 09.4; reporting externally is a decision for counsel and management.
+
+- id: q4
+  question: >-
+    You want the claimant's wait from first contact to payment, and plan to use the CRM's first-notice
+    rows. What is the main limit of that source here?
+  options:
+    - >-
+      CRM timestamps are in UTC, so every wait will be shifted by two or three hours.
+    - >-
+      CRM notes are in four languages, so the contact type cannot be identified reliably.
+    - >-
+      It keeps six months and never sees agents' claims, the larger and slower channel.
+    - >-
+      It records only phone calls, so web and app claims are missing from the first-notice rows.
+  correct: 2
+  explanation: >-
+    The CRM export covers May–October 2026 and only direct channels; about 55% of motor and home claims
+    come through agents. A wait measured on it is a check, not the baseline; Kalanit's reported date plus
+    the ERP's payment date covers all channels.

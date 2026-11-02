@@ -1,0 +1,15 @@
+[OCR text layer | D046 | app_photo | received 2026-10-03]
+
+Mercy Urgent Care, Orlando FL
+PATIENT INVOICE / STATEMENT
+Invoice no.: INV-780414
+Date of service: 09/06/2026
+Statement date: 09/07/2026
+Patient: [redacted]
+Diagnosis: otitis media
+Services:
+  Physician visit: 221.22
+  Lab / imaging: 120.66
+  Medication: 60.33
+TOTAL DUE: USD 402.21
+Paid by card: yes

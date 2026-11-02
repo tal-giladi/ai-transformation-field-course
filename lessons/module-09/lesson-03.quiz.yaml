@@ -1,0 +1,76 @@
+- id: q1
+  question: >-
+    You have three cycle times: the dashboard's 10.5 days (file complete to decision), Kalanit's 41
+    days (registered to closed) and 32 days (reported to last payment). The objective is "claimants
+    paid sooner". Which do you use as the baseline, and what happens to the others?
+  options:
+    - >-
+      The 41 days, because it is the longest and so leaves the most room for measurable improvement.
+    - >-
+      The 32 days, agreed with the actuary; keep the 10.5 as the regulatory clock under an honest name.
+    - >-
+      The 10.5 days, because it is the official figure the board has already seen and approved.
+    - >-
+      An average of the three, so that no department feels its number has been ignored.
+  correct: 1
+  explanation: >-
+    The objective decides the baseline: the claimant's wait. The dashboard's number measures the
+    30-day clock that runs from a complete file, which is worth keeping for compliance. Closure is
+    administration nobody waits for, and averaging different definitions produces a meaningless number.
+
+- id: q2
+  question: >-
+    Intake takes a median 2.5 days and the document chase 12.8 of the claimant's 32. Forty-five percent
+    of documents asked for in later rounds were on the standard day-one list. What is the first thing
+    to fund?
+  options:
+    - >-
+      Smart Intake in all centres, since faster typing frees clerks to send the lists sooner.
+    - >-
+      A fraud check at intake, since claims with missing documents are more likely to be suspicious.
+    - >-
+      Sending the complete list on day one, with portal fields and checklists, which needs no AI.
+    - >-
+      An LLM that writes friendlier document-request letters in the claimant's language.
+  correct: 2
+  explanation: >-
+    The data names the cause: documents that belonged on the first list are asked for later. Fixing
+    the list attacks the largest segment and needs no model. Faster typing shortens the smallest
+    segment, and the letters' tone is not the cause of the rounds.
+
+- id: q3
+  question: >-
+    The SIU reports ₪6.77M of "fraud prevented" this year. Split by outcome, ₪2.34M is confirmed
+    fraud, ₪2.90M no finding and ₪1.54M claimants who withdrew. What goes into the business case?
+  options:
+    - >-
+      The ₪6.77M, because it is the SIU's official monthly figure and the CEO has seen it.
+    - >-
+      ₪4.88M, confirmed fraud plus withdrawals, since a withdrawn claim is usually a fraudulent one.
+    - >-
+      ₪2.34M a year as the benefit of the fraud score, since that is what was actually confirmed.
+    - >-
+      No fraud benefit from the score, since nothing shows it caused any of the confirmed fraud.
+  correct: 3
+  explanation: >-
+    Confirmed fraud existed before the score and was found by handlers' referrals. A benefit is the
+    change a system causes, and none has been shown. Withdrawals include people who gave up after
+    long waits, and "no finding" includes ordinary deductibles.
+
+- id: q4
+  question: >-
+    Your case recommends against the COO's winter pilot. When and how does she first hear it?
+  options:
+    - >-
+      In person before the paper circulates, answer first, with what her proposal still gets in the plan.
+    - >-
+      In the committee pre-read, so the recommendation is seen to be independent of the sponsor.
+    - >-
+      Through the CRO, since your dotted line to him exists for exactly this kind of finding.
+    - >-
+      In a short email with the numbers attached, so she can read the evidence before reacting.
+  correct: 0
+  explanation: >-
+    You agreed in the charter that she hears bad news first and never in front of others. Telling her
+    in person, with the alternative that still serves her goal, keeps the sponsor; independence comes
+    from the evidence and the line to the CRO, not from surprising her.

@@ -1,0 +1,15 @@
+[OCR text layer | D051 | email_pdf | received 2026-10-02]
+
+Bangkok Riverside Hospital
+PATIENT INVOICE / STATEMENT
+Invoice no.: ST-182287
+Date of service: 24 Aug 2026
+Statement date: 29 Aug 2026
+Patient: [redacted]
+Diagnosis: otitis media
+Services:
+  Physician visit: 19,921.53
+  Lab / imaging: 10,866.29
+  Medication: 5,433.15
+TOTAL DUE: THB 36,220.97
+Paid by card: yes

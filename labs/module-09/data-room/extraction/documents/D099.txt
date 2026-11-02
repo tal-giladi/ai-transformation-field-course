@@ -1,0 +1,15 @@
+[OCR text layer | D099 | email_pdf | received 2026-10-24]
+
+St. Mary's Walk-in Centre, London
+PATIENT INVOICE / STATEMENT
+Invoice no.: ST-373349
+Date of service: 25 Sep 2026
+Statement date: 27 Sep 2026
+Patient: [redacted]
+Diagnosis: otitis media
+Services:
+  Physician visit: 555.15
+  Lab / imaging: 302.81
+  Medication: 151.40
+TOTAL DUE: GBP 1,009.36
+Paid by card: yes

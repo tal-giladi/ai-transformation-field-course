@@ -1,0 +1,76 @@
+- id: q1
+  question: >-
+    The vendor's fraud score turns out to be fourteen fixed-weight rules with no learning. The CRO
+    notes that under a narrow reading of the policy it is not an "AI system", so it need not come to
+    the committee. What do you recommend?
+  options:
+    - >-
+      Agree and record it as a rules engine in the inventory, since the counting rule excludes it.
+    - >-
+      Ask the vendor to add a learning component, so the system clearly falls within the policy.
+    - >-
+      Gate it as high-impact anyway: it holds payments and decides investigations, whatever its label.
+    - >-
+      Send it to IT change management instead, since a rules change is a configuration matter.
+  correct: 2
+  explanation: >-
+    Governance follows impact. The score materially supports decisions about claims, and the
+    anti-discrimination law applies whatever technology is used. Record it honestly as rules, gate it
+    as high-impact, and amend the policy so similar rules are in scope by name.
+
+- id: q2
+  question: >-
+    To test the score for bias you have language of correspondence, postal area, region and age band.
+    A colleague suggests inferring ethnicity from claimants' names to get a "cleaner" test. What do you do?
+  options:
+    - >-
+      Accept, provided the inferred field is deleted after the test and never stored in the claims system.
+    - >-
+      Refuse; test with attributes recorded for a service reason, and state which ones are missing.
+    - >-
+      Accept for Arabic and Hebrew names only, where inference is accurate enough to be useful.
+    - >-
+      Refuse, and drop the language and postal-area tests too, since they are proxies for ethnicity.
+  correct: 1
+  explanation: >-
+    Inferring a protected trait creates new sensitive data and is error-prone. Recorded attributes such
+    as language and postal area are legitimate to test with (never as inputs); place of residence is
+    itself a protected ground. State what you cannot test, such as gender.
+
+- id: q3
+  question: >-
+    After go-live, 21.0% of Arabic-speaking claimants' motor claims (n=453) are referred to the SIU
+    against 5.4% of Hebrew-speaking claimants' (n=1,697); before go-live the rates were 3.2% and 3.4%.
+    What does the before-and-after comparison add?
+  options:
+    - >-
+      It shows the disparity arrived with the system rather than reflecting a prior difference in the claims.
+    - >-
+      It proves that Arabic-speaking claimants were not committing fraud before September either.
+    - >-
+      It shows the four-fifths rule is met before go-live, so the earlier period is legally safe.
+    - >-
+      It allows the vendor's AUC of 0.81 to be recalculated on confirmed fraud instead of referrals.
+  correct: 0
+  explanation: >-
+    The earlier period is a counterfactual: the same kinds of claims, handlers deciding, equal rates.
+    It tells you the system introduced the gap. It says nothing about fraud itself, and the four-fifths
+    rule is an internal screen, not a legal test in Israel.
+
+- id: q4
+  question: >-
+    Smart Intake copies diagnoses from medical invoices into a notes field every claims user can see.
+    Everything else about it rates flag. What is its verdict for the current use?
+  options:
+    - >-
+      Ship with conditions, because the flags outweigh a single privacy issue on a minority of documents.
+    - >-
+      Ship, because a person confirms every field before anything is saved in the claim.
+    - >-
+      Stop permanently, because health data in the wrong place cannot be repaired by configuration.
+    - >-
+      Wait: the privacy gate blocks until diagnoses stop going into the notes field, by a set date.
+  correct: 3
+  explanation: >-
+    A block rules out both ship verdicts, and gates are not averaged. The fix is specific and testable,
+    so the verdict is wait with a dated condition and a stop authority (the DPO), not a permanent stop.

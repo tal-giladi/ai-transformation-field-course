@@ -1,0 +1,15 @@
+[OCR text layer | D206 | app_photo | received 2026-10-03]
+
+Harbor Medical Group, New York NY
+PATIENT INVOICE / STATEMENT
+Invoice no.: INV-338226
+Date of service: 09/04/2026
+Statement date: 09/08/2026
+Patient: [redacted]
+Diagnosis: acute gastroenteritis
+Services:
+  Physician visit: 1,229.32
+  Lab / imaging: 670.54
+  Medication: 335.27
+TOTAL DUE: USD 2,235.13
+Paid by card: yes

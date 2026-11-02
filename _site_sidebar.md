@@ -81,3 +81,11 @@
   - [58 · Build: agent-assist on 2,000 tickets](/lessons/module-08/lesson-05.md)
   - [59 · Readout and debrief](/lessons/module-08/lesson-06.md)
   - [Module 8 quiz](/assessments/module-08-quiz.md)
+- **Module 9 — Meridian Mutual: Claims, Fraud and a Regulated Verdict**
+  - [60 · The call](/lessons/module-09/lesson-01.md)
+  - [61 · Discovery](/lessons/module-09/lesson-02.md)
+  - [62 · Diagnosis](/lessons/module-09/lesson-03.md)
+  - [63 · The hard part: a regulated deployment verdict](/lessons/module-09/lesson-04.md)
+  - [64 · Build and decide: the extraction pilot](/lessons/module-09/lesson-05.md)
+  - [65 · Readout and debrief](/lessons/module-09/lesson-06.md)
+  - [Module 9 quiz](/assessments/module-09-quiz.md)

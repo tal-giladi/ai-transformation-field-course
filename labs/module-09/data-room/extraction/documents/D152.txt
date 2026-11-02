@@ -1,0 +1,15 @@
+[OCR text layer | D152 | email_pdf | received 2026-10-18]
+
+Mercy Urgent Care, Orlando FL
+PATIENT INVOICE / STATEMENT
+Invoice no.: INV-404294
+Date of service: 10/07/2026
+Statement date: 10/10/2026
+Patient: [redacted]
+Diagnosis: acute gastroenteritis
+Services:
+  Physician visit: 529.83
+  Lab / imaging: 289.00
+  Medication: 144.50
+TOTAL DUE: USD 963.32
+Paid by card: yes

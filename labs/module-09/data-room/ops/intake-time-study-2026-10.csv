@@ -1,0 +1,121 @@
+obs_id,observed_date,claims_centre,line,claimant_lang,documents_in_set,smart_intake_used,minutes_sorting,minutes_keying,minutes_verifying_prefill,minutes_finding_missing_docs,observer_note
+TS001,2026-10-07,Ramat Gan,travel,he,5,N,1.8,7.0,0.0,16.1,agent sent documents in three separate emails
+TS002,2026-10-14,Ramat Gan,motor,he,7,Y,3.1,3.3,1.9,3.1,"photos unreadable, asked for new ones"
+TS003,2026-10-06,Ramat Gan,health,he,4,N,6.3,4.3,0.0,15.1,agent sent documents in three separate emails
+TS004,2026-10-04,Ramat Gan,travel,en,3,N,1.7,8.7,0.0,11.4,"missing garage estimate, phoned the claimant"
+TS005,2026-10-18,Haifa,motor,he,4,Y,2.4,2.6,2.3,1.8,
+TS006,2026-10-14,Haifa,motor,ar,7,Y,5.5,3.0,5.7,5.2,"Smart Intake left amounts blank on the Arabic invoice, keyed by hand"
+TS007,2026-10-05,Ramat Gan,motor,he,2,Y,4.3,2.4,3.6,7.3,searched the shared mailbox for the attachments
+TS008,2026-10-06,Ramat Gan,home,he,6,N,2.7,4.3,0.0,11.7,"police confirmation not attached, emailed agent"
+TS009,2026-10-07,Ramat Gan,motor,he,7,Y,2.7,3.3,4.2,9.9,"missing garage estimate, phoned the claimant"
+TS010,2026-10-29,Jerusalem,motor,ru,6,N,2.5,9.9,0.0,10.2,"missing garage estimate, phoned the claimant"
+TS011,2026-10-05,Ramat Gan,home,he,4,N,1.5,6.3,0.0,1.4,
+TS012,2026-10-05,Ramat Gan,motor,he,3,Y,3.8,2.8,3.4,9.3,"photos unreadable, asked for new ones"
+TS013,2026-10-19,Ramat Gan,health,ar,6,N,3.1,7.1,0.0,7.8,"police confirmation not attached, emailed agent"
+TS014,2026-10-06,Beer Sheva,motor,he,3,N,4.4,6.7,0.0,6.0,"photos unreadable, asked for new ones"
+TS015,2026-10-15,Ramat Gan,home,he,4,N,2.0,7.4,0.0,8.9,agent sent documents in three separate emails
+TS016,2026-10-25,Ramat Gan,motor,he,3,Y,4.0,3.2,3.9,17.4,"missing garage estimate, phoned the claimant"
+TS017,2026-10-12,Haifa,home,he,2,N,2.3,7.1,0.0,2.4,"police confirmation not attached, emailed agent"
+TS018,2026-10-18,Beer Sheva,home,ru,4,N,4.4,6.8,0.0,1.7,
+TS019,2026-10-05,Ramat Gan,home,he,7,N,6.4,7.1,0.0,3.7,"police confirmation not attached, emailed agent"
+TS020,2026-10-28,Jerusalem,motor,he,3,N,4.1,4.7,0.0,1.1,
+TS021,2026-10-15,Ramat Gan,motor,he,3,Y,3.8,2.0,2.2,4.8,"photos unreadable, asked for new ones"
+TS022,2026-10-08,Haifa,motor,he,4,Y,2.4,2.5,2.8,17.3,searched the shared mailbox for the attachments
+TS023,2026-10-20,Ramat Gan,motor,he,4,Y,3.9,3.2,1.5,0.7,
+TS024,2026-10-18,Beer Sheva,motor,he,7,N,4.4,5.1,0.0,10.6,"police confirmation not attached, emailed agent"
+TS025,2026-10-13,Beer Sheva,motor,ar,4,N,5.3,4.3,0.0,14.8,agent sent documents in three separate emails
+TS026,2026-10-28,Ramat Gan,home,he,3,N,2.6,8.0,0.0,0.6,
+TS027,2026-10-28,Ramat Gan,motor,he,6,Y,2.9,2.3,4.6,2.1,
+TS028,2026-10-06,Ramat Gan,motor,he,6,Y,4.0,5.2,3.0,1.8,
+TS029,2026-10-20,Ramat Gan,travel,he,4,N,4.9,4.0,0.0,8.7,"photos unreadable, asked for new ones"
+TS030,2026-10-08,Beer Sheva,motor,ru,4,N,4.0,5.1,0.0,1.7,
+TS031,2026-10-15,Haifa,home,he,4,N,2.0,4.0,0.0,5.7,"photos unreadable, asked for new ones"
+TS032,2026-10-11,Ramat Gan,motor,he,6,Y,2.9,3.2,2.8,4.1,agent sent documents in three separate emails
+TS033,2026-10-07,Ramat Gan,health,ru,3,N,3.9,5.8,0.0,6.3,"photos unreadable, asked for new ones"
+TS034,2026-10-27,Ramat Gan,motor,ar,5,Y,4.2,11.0,2.5,12.0,searched the shared mailbox for the attachments
+TS035,2026-10-18,Ramat Gan,health,he,4,N,1.2,4.8,0.0,16.0,"missing garage estimate, phoned the claimant"
+TS036,2026-10-05,Ramat Gan,motor,he,7,Y,3.8,3.8,3.7,11.7,"photos unreadable, asked for new ones"
+TS037,2026-10-14,Beer Sheva,motor,he,7,N,3.1,5.6,0.0,13.7,"photos unreadable, asked for new ones"
+TS038,2026-10-12,Ramat Gan,home,he,3,N,3.1,3.9,0.0,1.2,
+TS039,2026-10-08,Jerusalem,motor,he,4,N,2.8,6.6,0.0,1.0,
+TS040,2026-10-04,Ramat Gan,motor,he,4,Y,3.0,2.1,4.5,23.0,agent sent documents in three separate emails
+TS041,2026-10-25,Ramat Gan,health,he,3,N,5.2,5.9,0.0,12.0,"police confirmation not attached, emailed agent"
+TS042,2026-10-04,Ramat Gan,health,he,2,N,5.9,9.5,0.0,1.0,
+TS043,2026-10-21,Ramat Gan,home,he,6,N,3.3,7.5,0.0,0.5,
+TS044,2026-10-04,Jerusalem,home,he,4,N,2.5,5.9,0.0,5.8,"police confirmation not attached, emailed agent"
+TS045,2026-10-18,Ramat Gan,motor,am,3,Y,3.5,3.3,6.8,1.4,
+TS046,2026-10-06,Ramat Gan,motor,he,2,Y,2.8,1.6,3.2,5.0,"missing garage estimate, phoned the claimant"
+TS047,2026-10-14,Haifa,motor,he,2,Y,3.4,2.4,2.3,1.7,
+TS048,2026-10-11,Beer Sheva,motor,he,5,N,3.5,5.7,0.0,25.6,"missing garage estimate, phoned the claimant"
+TS049,2026-10-21,Haifa,home,he,2,N,1.9,7.4,0.0,1.0,
+TS050,2026-10-22,Ramat Gan,health,he,2,N,1.6,6.5,0.0,0.9,
+TS051,2026-10-25,Haifa,motor,ar,7,Y,3.8,6.4,3.7,13.7,"Smart Intake left amounts blank on the Arabic invoice, keyed by hand"
+TS052,2026-10-21,Ramat Gan,motor,he,3,Y,2.8,3.1,1.8,1.9,
+TS053,2026-10-22,Haifa,motor,ar,4,Y,4.2,2.7,6.4,10.3,"Smart Intake left amounts blank on the Arabic invoice, keyed by hand"
+TS054,2026-10-06,Haifa,home,ar,6,N,4.1,9.8,0.0,10.0,"missing garage estimate, phoned the claimant"
+TS055,2026-10-28,Ramat Gan,home,he,4,N,2.1,3.8,0.0,17.1,"police confirmation not attached, emailed agent"
+TS056,2026-10-21,Jerusalem,motor,he,4,N,4.0,4.6,0.0,6.4,"police confirmation not attached, emailed agent"
+TS057,2026-10-20,Ramat Gan,motor,he,4,Y,2.9,4.2,3.2,0.8,
+TS058,2026-10-25,Haifa,home,ru,7,N,2.9,8.5,0.0,15.5,agent sent documents in three separate emails
+TS059,2026-10-25,Haifa,home,he,4,N,3.1,5.8,0.0,10.4,"missing garage estimate, phoned the claimant"
+TS060,2026-10-20,Ramat Gan,motor,he,6,Y,6.6,3.3,3.7,14.0,"police confirmation not attached, emailed agent"
+TS061,2026-10-15,Beer Sheva,motor,ar,7,N,11.5,10.8,0.0,0.9,
+TS062,2026-10-21,Ramat Gan,motor,he,3,Y,4.3,3.3,2.2,2.1,
+TS063,2026-10-12,Haifa,motor,ar,6,Y,2.1,4.1,8.6,27.9,"photos unreadable, asked for new ones"
+TS064,2026-10-12,Ramat Gan,travel,ru,6,N,3.8,5.6,0.0,1.0,
+TS065,2026-10-28,Haifa,motor,he,4,Y,2.3,2.7,2.7,9.3,agent sent documents in three separate emails
+TS066,2026-10-29,Jerusalem,home,he,6,N,1.9,3.5,0.0,5.2,searched the shared mailbox for the attachments
+TS067,2026-10-08,Haifa,motor,en,5,Y,4.3,2.7,4.1,0.4,
+TS068,2026-10-18,Haifa,home,he,7,N,3.8,11.0,0.0,1.7,
+TS069,2026-10-05,Ramat Gan,home,he,5,N,5.6,8.0,0.0,1.3,
+TS070,2026-10-20,Jerusalem,home,he,5,N,2.1,5.9,0.0,3.2,searched the shared mailbox for the attachments
+TS071,2026-10-13,Ramat Gan,motor,he,4,Y,3.1,3.6,1.8,1.3,
+TS072,2026-10-20,Beer Sheva,home,he,2,N,1.6,5.8,0.0,2.4,
+TS073,2026-10-07,Beer Sheva,motor,he,4,N,3.1,4.0,0.0,9.0,"photos unreadable, asked for new ones"
+TS074,2026-10-28,Ramat Gan,motor,he,7,Y,2.5,4.8,2.9,23.8,"missing garage estimate, phoned the claimant"
+TS075,2026-10-12,Ramat Gan,motor,ru,5,Y,3.3,3.9,2.1,8.8,"photos unreadable, asked for new ones"
+TS076,2026-10-11,Beer Sheva,motor,ar,5,N,4.8,8.4,0.0,8.0,"missing garage estimate, phoned the claimant"
+TS077,2026-10-19,Ramat Gan,health,he,6,N,4.9,7.3,0.0,15.8,searched the shared mailbox for the attachments
+TS078,2026-10-27,Ramat Gan,travel,he,5,N,3.6,5.9,0.0,0.6,
+TS079,2026-10-11,Ramat Gan,motor,he,7,Y,2.1,3.1,2.2,0.9,
+TS080,2026-10-20,Beer Sheva,motor,he,4,N,3.1,4.0,0.0,1.1,
+TS081,2026-10-07,Ramat Gan,home,he,7,N,3.8,10.3,0.0,18.7,"missing garage estimate, phoned the claimant"
+TS082,2026-10-27,Haifa,home,he,3,N,3.8,5.5,0.0,1.0,
+TS083,2026-10-27,Haifa,motor,he,2,Y,6.5,3.2,2.5,1.8,
+TS084,2026-10-11,Haifa,home,he,2,N,3.1,8.4,0.0,0.8,
+TS085,2026-10-12,Ramat Gan,health,he,2,N,3.5,6.2,0.0,1.5,
+TS086,2026-10-07,Ramat Gan,motor,he,2,Y,0.9,5.4,1.9,13.0,"police confirmation not attached, emailed agent"
+TS087,2026-10-04,Haifa,motor,ar,7,Y,5.0,5.7,4.0,0.7,"Smart Intake left amounts blank on the Arabic invoice, keyed by hand"
+TS088,2026-10-26,Jerusalem,motor,he,2,N,2.6,8.0,0.0,6.7,searched the shared mailbox for the attachments
+TS089,2026-10-22,Beer Sheva,motor,ar,7,N,3.4,8.2,0.0,1.4,
+TS090,2026-10-20,Ramat Gan,motor,ru,3,Y,3.6,3.3,3.1,1.0,
+TS091,2026-10-20,Haifa,home,ar,3,N,5.4,6.1,0.0,1.0,
+TS092,2026-10-14,Haifa,motor,ru,3,Y,5.8,9.2,3.4,0.6,
+TS093,2026-10-20,Haifa,motor,ru,2,Y,3.1,1.9,3.7,1.0,
+TS094,2026-10-04,Ramat Gan,motor,he,2,Y,1.5,2.0,2.9,4.3,agent sent documents in three separate emails
+TS095,2026-10-18,Jerusalem,motor,he,2,N,2.0,7.1,0.0,6.8,"police confirmation not attached, emailed agent"
+TS096,2026-10-26,Haifa,motor,he,4,Y,2.4,4.9,2.5,0.4,
+TS097,2026-10-12,Haifa,home,he,3,N,3.0,6.7,0.0,22.9,"police confirmation not attached, emailed agent"
+TS098,2026-10-15,Ramat Gan,travel,ru,4,N,4.0,8.7,0.0,7.5,"police confirmation not attached, emailed agent"
+TS099,2026-10-04,Beer Sheva,motor,he,5,N,3.5,14.3,0.0,0.8,
+TS100,2026-10-12,Beer Sheva,home,am,6,N,5.2,9.0,0.0,15.3,agent sent documents in three separate emails
+TS101,2026-10-04,Ramat Gan,motor,he,7,Y,3.0,4.0,2.8,7.1,"missing garage estimate, phoned the claimant"
+TS102,2026-10-18,Ramat Gan,travel,am,2,N,1.5,4.4,0.0,8.0,"missing garage estimate, phoned the claimant"
+TS103,2026-10-19,Ramat Gan,motor,he,3,Y,2.6,1.4,1.0,4.6,agent sent documents in three separate emails
+TS104,2026-10-12,Haifa,motor,he,3,Y,2.5,1.5,2.1,10.8,"missing garage estimate, phoned the claimant"
+TS105,2026-10-18,Beer Sheva,motor,ar,2,N,2.7,5.2,0.0,16.2,agent sent documents in three separate emails
+TS106,2026-10-29,Ramat Gan,motor,he,3,Y,3.9,1.7,3.5,5.5,agent sent documents in three separate emails
+TS107,2026-10-13,Ramat Gan,travel,he,4,N,3.0,7.4,0.0,1.5,
+TS108,2026-10-21,Ramat Gan,travel,he,2,N,2.9,3.9,0.0,11.4,"photos unreadable, asked for new ones"
+TS109,2026-10-21,Haifa,home,he,2,N,2.3,7.4,0.0,7.3,"missing garage estimate, phoned the claimant"
+TS110,2026-10-28,Beer Sheva,home,he,5,N,2.4,9.4,0.0,0.6,
+TS111,2026-10-11,Jerusalem,motor,he,7,N,5.2,6.7,0.0,1.9,
+TS112,2026-10-19,Ramat Gan,health,he,2,N,3.4,3.9,0.0,3.1,"missing garage estimate, phoned the claimant"
+TS113,2026-10-18,Ramat Gan,travel,he,6,N,3.1,6.3,0.0,9.7,"police confirmation not attached, emailed agent"
+TS114,2026-10-20,Haifa,motor,he,3,Y,3.8,3.2,3.6,1.1,
+TS115,2026-10-13,Haifa,home,he,5,N,3.8,9.7,0.0,8.1,"missing garage estimate, phoned the claimant"
+TS116,2026-10-20,Ramat Gan,motor,he,4,Y,2.7,2.2,2.4,4.2,agent sent documents in three separate emails
+TS117,2026-10-15,Ramat Gan,travel,he,7,N,3.9,11.7,0.0,10.0,searched the shared mailbox for the attachments
+TS118,2026-10-15,Ramat Gan,home,he,5,N,1.8,5.9,0.0,1.6,
+TS119,2026-10-26,Beer Sheva,motor,he,5,N,4.2,6.2,0.0,8.9,"photos unreadable, asked for new ones"
+TS120,2026-10-21,Ramat Gan,home,he,6,N,1.7,6.7,0.0,0.7,

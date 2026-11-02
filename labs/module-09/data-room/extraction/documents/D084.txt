@@ -1,0 +1,15 @@
+[OCR text layer | D084 | email_pdf | received 2026-09-30]
+
+Bangkok Riverside Hospital
+PATIENT INVOICE / STATEMENT
+Invoice no.: INV-360209
+Date of service: 25 Aug 2026
+Statement date: 27 Aug 2026
+Patient: [redacted]
+Diagnosis: lower back pain
+Services:
+  Physician visit: 25,297.12
+  Lab / imaging: 13,798.43
+  Medication: 6,899.22
+TOTAL DUE: THB 45,994.77
+Paid by card: yes

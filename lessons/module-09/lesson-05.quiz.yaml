@@ -1,0 +1,74 @@
+- id: q1
+  question: >-
+    On the 200 test documents a regex script scores 86.7% of fields right and the vendor's AI module
+    82.1%. Your LLM pilot is not run yet. What does this change in how you report the pilot?
+  options:
+    - >-
+      Nothing: the rules script is not AI, so it is outside the scope of the AI pilot's eval.
+    - >-
+      The pilot must beat the rules line to earn its place, and the report says so in its first lines.
+    - >-
+      Replace the vendor with the rules script now, since it is cheaper and already more accurate.
+    - >-
+      Drop the vendor comparison, since a weak baseline will make any pilot result look inflated.
+  correct: 1
+  explanation: >-
+    A no-AI baseline tells you what a model must add. Here it also shows the vendor's module is worse
+    than rules, which the committee needs to know. The rules script still fails three negative tests,
+    so it is not a ready replacement either.
+
+- id: q2
+  question: >-
+    The vendor's module scores 62.2% on Arabic documents and 88.6% on Hebrew. Most Arabic documents
+    arrive through the old Haifa scanner. What do you do before you write "it works worse for Arabic"?
+  options:
+    - >-
+      Nothing more: the ratio of 0.68 is far below any screen, so the finding stands as it is.
+    - >-
+      Remove Haifa documents from the test set, since the scanner is about to be replaced anyway.
+    - >-
+      Stratify by capture channel and open the Arabic errors to find the cause and whether it is fixable.
+    - >-
+      Ask the vendor to re-run on Arabic documents typed in Hebrew digits, to isolate the language.
+  correct: 2
+  explanation: >-
+    A gap needs a cause before it needs a label. Stratifying shows Arabic is still 69.2% on clean email
+    PDFs, and the errors show Eastern Arabic digits left blank: a fixable cause, not something to hide
+    by removing documents or rewriting them.
+
+- id: q3
+  question: >-
+    Which of these is a legitimate attribute to use in the pilot's fairness check, and why?
+  options:
+    - >-
+      The claimant's language of correspondence, recorded for service, used to test and never as an input.
+    - >-
+      Ethnicity inferred from postal area, because the area list already reflects where groups live.
+    - >-
+      Gender inferred from the claimant's first name, since gender is a protected ground worth testing.
+    - >-
+      Religion inferred from the clinic's name on health receipts, to cover a protected ground directly.
+  correct: 0
+  explanation: >-
+    Test with attributes the organization records for a legitimate reason, and never feed them to the
+    system. Inferring protected traits creates sensitive data and errors; when an attribute is missing,
+    say so in the report instead of guessing it.
+
+- id: q4
+  question: >-
+    Your pilot passes all five gates offline, including 93.3% on Arabic documents. It is 14 January;
+    the storm season runs to the end of February. What is the verdict?
+  options:
+    - >-
+      Ship to production for all languages now, since every gate was passed on the test set.
+    - >-
+      Ship with conditions to production for Hebrew only, and keep testing the other languages.
+    - >-
+      Wait until next winter, so the pilot can be evaluated under peak conditions first.
+    - >-
+      Shadow mode after the peak; Arabic not pre-filled until it passes on real documents.
+  correct: 3
+  explanation: >-
+    Offline results justify a shadow run, not production. Starting after the peak protects the floor;
+    Arabic, the group the vendor failed worst, must pass on real volume
+    before it pre-fills anything. Waiting a year throws away evidence that is good enough to test.

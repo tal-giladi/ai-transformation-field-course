@@ -1,0 +1,15 @@
+[OCR text layer | D129 | app_photo | received 2026-09-21]
+
+Harbor Medical Group, New York NY
+PATIENT INVOICE / STATEMENT
+Invoice no.: INV-687449
+Date of service: 08/23/2026
+Statement date: 08/28/2026
+Patient: [redacted]
+Diagnosis: lower back pain
+Services:
+  Physician visit: 509.83
+  Lab / imaging: 278.09
+  Medication: 139.05
+TOTAL DUE: USD 926.97
+Paid by card: yes

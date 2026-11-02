@@ -1,0 +1,77 @@
+- id: q1
+  question: >-
+    Day four at Meridian. The COO's proposal says handling time is 10.5 days and will fall to 7.3.
+    The dashboard defines handling time as "file complete" to "decision", SIU claims excluded. How do
+    you record the 10.5 in your first-day read?
+  options:
+    - >-
+      As verified, because BI built the dashboard from the claims system and it is the official number.
+    - >-
+      As reported, with its definition, and add "first notice to payment" to the list of what is missing.
+    - >-
+      As wrong, and replace it in the charter with your own estimate of the claimant's wait.
+    - >-
+      As a claim, because it appears in the sponsor's proposal and sponsors overstate results.
+  correct: 1
+  explanation: >-
+    The number is real but means something narrower than the proposal implies. Label it reported,
+    keep its definition beside it, and note that the measure the objective needs (the claimant's wait)
+    is missing. You do not have your own number yet, so you cannot replace it.
+
+- id: q2
+  question: >-
+    Reading the June risk-committee minutes, you see the statement "no AI system makes or materially
+    supports decisions on claims", and the register shows Fraud Insight scores on every motor claim
+    since 6 September. It is your first meeting with the COO. What do you do?
+  options:
+    - >-
+      Tell her the company is in breach of its AI policy and must report it to the committee this week.
+    - >-
+      Leave it out of the charter until you have interviewed everyone, so the relationship starts well.
+    - >-
+      Put both modules in scope as live systems needing a committee decision, and ask how they were switched on.
+    - >-
+      Ask the vendor to switch both modules off until the committee meets on 15 December.
+  correct: 2
+  explanation: >-
+    The charter must cover what is already live, because the committee will ask about it first. Asking
+    how the modules were switched on is a question, not an accusation; it gets the facts you need.
+    Switching things off before you know what they do, or declaring a breach on day four, is premature.
+
+- id: q3
+  question: >-
+    Which line best states the objective for the charter, after the COO said she wants "claims
+    faster, intake automated and fraud caught"?
+  options:
+    - >-
+      Deliver the winter pilot of Smart Intake and Fraud Insight from 1 December to 28 February.
+    - >-
+      Cut the dashboard's handling time by 30% and identify ₪20M of fraud a year.
+    - >-
+      Assess all AI in claims against the AI policy before anything else is decided.
+    - >-
+      Claimants paid sooner with fewer chasing calls at no more cost, and fraud caught that is confirmed.
+  correct: 3
+  explanation: >-
+    An objective describes the outcome in the sponsor's terms and leaves the route open. The pilot is
+    one route; the dashboard number and the ₪20M are unverified; a pure assessment drops what the
+    sponsor actually wants.
+
+- id: q4
+  question: >-
+    You are an internal head of AI, not a consultant. Which arrangement matters most to put in the
+    charter because of that?
+  options:
+    - >-
+      A dotted line to the CRO on AI risk, so the committee hears from someone who is not only the owner.
+    - >-
+      Exit points after each phase, so you can leave if the sponsor ignores your findings.
+    - >-
+      A fixed fee per deliverable, so finance can track the cost of the engagement against the budget.
+    - >-
+      A non-disclosure agreement with Meridian, so you can see claims data on day one.
+  correct: 0
+  explanation: >-
+    An internal lead owns the work for years and reports to the person whose proposal is being judged;
+    independence has to be designed in. Exit points and fees belong to consultants, and an employee
+    gets data access through the DPO's rules, not an NDA.

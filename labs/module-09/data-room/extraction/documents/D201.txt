@@ -1,0 +1,15 @@
+[OCR text layer | D201 | app_photo | received 2026-09-17]
+
+Harbor Medical Group, New York NY
+PATIENT INVOICE / STATEMENT
+Invoice no.: ST-227502
+Date of service: 09/03/2026
+Statement date: 09/04/2026
+Patient: [redacted]
+Diagnosis: lower back pain
+Services:
+  Physician visit: 243.54
+  Lab / imaging: 132.84
+  Medication: 66.42
+TOTAL DUE: USD 442.80
+Paid by card: yes

@@ -1,0 +1,15 @@
+[OCR text layer | D164 | app_photo | received 2026-09-23]
+
+Mercy Urgent Care, Orlando FL
+PATIENTINVOICE / STATEMENT
+Invoice no.: ST-327967
+Date of service: 08/14/2026
+Statement date: 08/17/2026
+Patient: [redacted]
+Diagnosis: otitis media
+Services:
+  Physician visit: 621.63
+  Lab / imaging: 339.07
+  Medication: 169.54
+TOTAL DUE: USD 1,130.24
+Paid by card: yes

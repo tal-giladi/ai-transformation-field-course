@@ -1,0 +1,15 @@
+[OCR text layer | D042 | app_photo | received 2026-10-22]
+
+Bangkok Riverside Hospital
+PATIENT INVOICE / STATEMENT
+Invoice no.: ST-309870
+Date of service: 2 Oct 2026
+Statement date: 4 Oct 2026
+Patient: [redacted]
+Diagnosis: lower back pain
+Services:
+  Physician visit: 12,432.99
+  Lab / imaging:6,781.63
+  Medication: 3,390.82
+TOTAL DUE: THB 22,605.44
+Paid by card: yes

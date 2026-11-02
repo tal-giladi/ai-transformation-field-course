@@ -1,0 +1,15 @@
+[OCR text layer | D217 | app_photo | received 2026-10-27]
+
+Bangkok Riverside Hospital
+PATIENT INVOICE / STATEMENT
+Invoice no.: ST-578667
+Date of service: 19/10/2026
+Statement date: 21/10/2026
+Patient: [redacted]
+Diagnosis: sprained ankle, X-ray negative
+Services:
+  Physician visit: 3,362.61
+  Lab / imaging: 1,834.15
+  Medication: 917.08
+TOTAL DUE: THB 6,113.84
+Paid by card: yes

@@ -1,0 +1,75 @@
+- id: q1
+  question: >-
+    Three weeks after the day-one documents list went live, second rounds on new claims fell from 45%
+    to 38%. The weeks were storm weeks and there was no holdout. How does the number appear in the pack?
+  options:
+    - >-
+      As the headline result, since it is the first measured effect of the programme on claimants.
+    - >-
+      Not at all, since any number from the peak season is unreliable and could be challenged.
+    - >-
+      As a measured result, provided the sample size and the dates are stated beside it.
+    - >-
+      As directional, with the peak weeks and the missing holdout stated, and not as a reason to decide.
+  correct: 3
+  explanation: >-
+    Early, uncontrolled good news is exactly what the integration check exists to catch. It is worth
+    showing because it points the right way, but labelled so nobody decides on it; the May gate
+    measures it properly.
+
+- id: q2
+  question: >-
+    The hardest finding implicates the sponsor: she left the vendor's modules on without the minuted
+    assessment and told the CEO about ₪20M. What is the best preparation for the readout?
+  options:
+    - >-
+      Leave her name out of the pack and describe it as a process gap, so the meeting stays constructive.
+    - >-
+      Rehearse it with her, answer first and true, and offer her the chance to tell the CEO herself first.
+    - >-
+      Raise it first in the meeting, so the committee sees you are independent of your manager.
+    - >-
+      Ask the CRO to present that part, so the finding does not damage your working relationship.
+  correct: 1
+  explanation: >-
+    Bad news upward is delivered answer first and accurately, to the person first, with a way forward.
+    Blurring it makes the paper untrue; ambushing her destroys the sponsorship the next phase needs;
+    handing it to someone else avoids the job.
+
+- id: q3
+  question: >-
+    The committee approves shadow mode; the COO still thinks Smart Intake should have gone to home
+    claims in January. What does the decision record do with her view?
+  options:
+    - >-
+      Records it by name as dissent, with the reason the committee did not follow it.
+    - >-
+      Leaves it out, because the decision is final and dissent would weaken the sponsor's authority.
+    - >-
+      Records it as a condition, so Smart Intake is reconsidered for home claims at the May gate.
+    - >-
+      Mentions it in the minutes only, since a decision record contains decisions, not opinions.
+  correct: 0
+  explanation: >-
+    A decision record keeps the dissent so the next reader can see what was weighed and why. Turning it
+    into a condition would commit the committee to something it did not decide; hiding it removes the
+    reasoning an auditor or a new owner needs.
+
+- id: q4
+  question: >-
+    In the debrief, your eval report's LLM accuracy is 89%, the expert's illustrative figure is 95.4%,
+    and your gates and fairness check have the same structure as the expert's. How do you score it?
+  options:
+    - >-
+      As weak, because the pilot's accuracy is below the expert's on the same documents.
+    - >-
+      As strong only if you re-run your pilot until it reaches the expert's figure.
+    - >-
+      On the method and honesty of the report against the rubric, since the expert's figure is illustrative.
+    - >-
+      As not comparable, because a different model was used, so the deliverable cannot be scored.
+  correct: 2
+  explanation: >-
+    The expert's LLM numbers are labelled as an illustrative worked example. The rubric grades what you
+    control: gates written first, baselines beside the result, groups and intervals, labels, and a
+    verdict that follows from the evidence. A lower honest number with a sound verdict scores well.

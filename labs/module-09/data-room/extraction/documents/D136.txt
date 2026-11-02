@@ -1,0 +1,15 @@
+[OCR text layer | D136 | email_pdf | received 2026-10-26]
+
+Harbor Medical Group, New York NY
+PATIENT INVOICE / STATEMENT
+Invoice no.: ST-511241
+Date of service: 09/20/2026
+Statement date: 09/23/2026
+Patient: [redacted]
+Diagnosis: otitis media
+Services:
+  Physician visit: 250.67
+  Lab / imaging: 136.73
+  Medication: 68.37
+TOTAL DUE: USD 455.77
+Paid by card: yes

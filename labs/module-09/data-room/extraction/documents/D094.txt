@@ -1,0 +1,15 @@
+[OCR text layer | D094 | email_pdf | received 2026-09-02]
+
+Mercy Urgent Care, Orlando FL
+PATIENT INVOICE / STATEMENT
+Invoice no.: ST-156590
+Date of service: 07/26/2026
+Statement date: 07/29/2026
+Patient: [redacted]
+Diagnosis: sprained ankle, X-ray negative
+Services:
+  Physician visit: 503.20
+  Lab / imaging: 274.47
+  Medication: 137.24
+TOTAL DUE: USD 914.91
+Paid by card: yes

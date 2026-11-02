@@ -1,0 +1,5 @@
+ai_id,system,vendor,business_owner,purpose,data_touched,customer_facing,decision_impact,status,risk_tier,entered_on,notes
+AI-01,Website FAQ chatbot,Botly Ltd.,Customer Service,Answers general questions on the website; hands over to an agent,No personal data requested; free text may contain it,Yes,None (information only),Production,Medium,2026-06-10,Discloses that it is a bot
+AI-02,Contact-centre call transcription and summaries,Contact-centre platform vendor,Customer Service,Transcribes calls and drafts a summary note into the CRM,Call audio; personal data; sometimes health information,No,Low (notes checked by agent),Production,Medium,2026-06-10,DPO review 2025
+AI-03,Microsoft 365 Copilot pilot,Microsoft,CIO,Drafting and summarising internal documents,Internal documents; restricted from claims folders,No,None,Pilot (40 users),Low,2026-06-11,Approved tools list
+AI-04,Marketing copy assistant,Copy tool vendor,Marketing,Drafts campaign texts,No customer data,No,None,Production,Low,2026-06-11,

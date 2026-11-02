@@ -1,0 +1,15 @@
+[OCR text layer | D055 | app_photo | received 2026-09-30]
+
+Mercy Urgent Care, Orlando FL
+PATIENT INVOICE / STATEMENT
+Invoice no.: ST-866282
+Date of service: 09/03/2026
+Statement date: 09/06/2026
+Patient: [redacted]
+Diagnosis: acute gastroenteritis
+Services:
+  Physician visit: 1,205.23
+  Lab / imaging: 657.4O
+  Medication: 328.70
+TOTAL DUE: USD 2,l91.33
+Paid by card: yes

@@ -1,0 +1,15 @@
+[OCR text layer | D204 | app_photo | received 2026-09-01]
+
+St. Mary's Walk-in Centre, London
+PATIENT INVOICE / STATEMENT
+Invoiceno.: ST-563333
+Date of service: 02/08/2026
+Statement date: 03/08/2026
+Patient: [redacted]
+Diagnosis: sprained ankle, X-ray negative
+Services:
+  Physician visit: 513.11
+ Lab / imaging: 279.88
+  Medication: 139.94
+TOTAL DUE: GBP 932.92
+Paid by card: yes

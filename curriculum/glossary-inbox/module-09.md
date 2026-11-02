@@ -1,0 +1,10 @@
+- **Claimant's wait** — The time from the day a claim is reported to the last payment to the claimant or their garage, the cycle time a claimant actually experiences (lesson 09.3).
+- **Document round** — One request letter for documents on a claim; a second or third round means something was asked for late, and each round adds weeks to the claimant's wait (lesson 09.3).
+- **Regulatory clock** — A cycle time defined by a regulator's deadline (here, from a complete file to the decision notice), worth reporting for compliance but not a measure of the customer's experience (lesson 09.3).
+- **Outcome test** — A comparison of what happened to comparable cases in different groups (for example referral rates by language), which finds disparities without needing to know how the system works (lesson 09.4).
+- **Proxy factor** — An input that looks neutral but stands in for a protected ground, such as "interpreter required" for national origin or a postal-area list for place of residence (lesson 09.4).
+- **Classify by impact** — Deciding which governance a system needs from what it does to people (holds a payment, refers to investigation) rather than from whether it is technically AI (lesson 09.4).
+- **Correction to the record** — A dated statement at the top of a committee paper that something management told the committee earlier is no longer true, with the date it stopped being true (lesson 09.4).
+- **Confident wrong value** — An extracted value that is wrong but carries a high confidence score, so the reviewer is not prompted to check it; worse than a blank (lesson 09.5).
+- **Stratified fairness check** — A fairness check that splits a group gap by an explanatory variable (such as scanner or capture channel) to find its cause before calling it a group effect (lesson 09.5).
+- **Operating control** — A human check shown to happen in practice by evidence such as confirmation timers and samples, as opposed to one that exists only as a procedure (lesson 09.5).

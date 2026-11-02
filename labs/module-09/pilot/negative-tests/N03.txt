@@ -1,0 +1,12 @@
+[OCR text layer | N03 | email_pdf | received 2026-10-22]
+
+City Medical Clinic
+PATIENT INVOICE
+Invoice no.: INV-208831
+Date of service: 04/09/2026
+Patient: [redacted]
+Diagnosis: [redacted]
+Services:
+  Consultation: 180.00
+  X-ray: 95.00
+TOTAL DUE: $275.00

@@ -18,3 +18,4 @@ Open (no rush):
 - Lesson 03.7: the ₪113k cash case rests on not hiring two seasonal temps; today's numbers cover only one, so the lesson flags it as the weakest assumption and a gate condition (with one temp the NPV turns negative). Kept as a teaching point; say if you'd rather the case use one temp.
 - Check after import that the mermaid Gantt chart in 03.8 renders.
 - Module 5's LLM eval results are a labelled illustrative example because no API key was available while writing. If you want real numbers, set an API key and I'll run the pilot scripts once (a few dollars).
+- Engagement 9 (Meridian Mutual, insurer): the core finding is a fraud score that discriminates by proxy against Arabic-speaking claimants, and one 'future' mentions a fictional class action. It is the course's fairness case; skim 09.4–09.6 if you want to review the tone.

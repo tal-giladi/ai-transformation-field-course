@@ -1,0 +1,14 @@
+[OCR text layer | N05 | email_pdf | received 2026-10-24]
+
+Harbor Medical Group, New York NY
+PATIENT INVOICE / STATEMENT
+Invoice no.: ST-551920
+Date of service: 09/14/2026
+Statement date: 09/16/2026
+Patient: [redacted]
+Diagnosis: acute bronchitis; patient reports asthma since childhood
+Services:
+  Physician visit: 420.00
+  Medication: 85.00
+TOTAL DUE: USD 505.00
+Paid by card: yes

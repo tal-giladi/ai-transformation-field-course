@@ -31,11 +31,15 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Change request** — The logged, assessed and decided route for an expansion, recording what it would displace and telling the requester the reason and review date (lesson 01.3).
 - **Check log** — The appendix that lists each statement of an AI-drafted text, the source it was checked against and whether it was kept, corrected or removed (lesson 02.7).
 - **Claim read-back** — A one-page answer to whether a claim can be believed: the claim as stated, its measurement conditions, who chose them, the fit to the client's conditions, a rating and the evidence that would change it (lesson 04.8).
+- **Claimant's wait** — The time from the day a claim is reported to the last payment to the claimant or their garage, the cycle time a claimant actually experiences (lesson 09.3).
 - **Claims register** — The table that records, for every number in narrative documents, who said it, where, when, and whether it is verified, contradicted, a claim to test or unverifiable (lesson 01.5).
+- **Classify by impact** — Deciding which governance a system needs from what it does to people (holds a payment, refers to investigation) rather than from whether it is technically AI (lesson 09.4).
 - **Cohen's kappa** — Agreement between two labellers corrected for the agreement they would reach by chance from their category mix (lesson 05.2).
 - **Concede with a condition** — Naming a weak point yourself in a meeting and tying it to a gate or condition, so the gap becomes the reason for the control (lesson 07.4).
+- **Confident wrong value** — An extracted value that is wrong but carries a high confidence score, so the reviewer is not prompted to check it; worse than a blank (lesson 09.5).
 - **Containment** — A chatbot vendor's share of conversations that ended without a hand-over to a person; not the same as resolution until tested against what customers did next (lesson 08.2).
 - **Control status** — Whether a control is effective (runs and catches the failure, with evidence), designed, on paper only, or missing; it decides how far the residual rating may fall (lesson 04.5).
+- **Correction to the record** — A dated statement at the top of a committee paper that something management told the committee earlier is no longer true, with the date it stopped being true (lesson 09.4).
 - **Cost per truly resolved chat** — A chatbot's bill divided by the conversations not followed by an agent contact within a set window, the figure to compare with an agent's cost per contact (lesson 08.3).
 - **Counting rule** — The written definition of what counts as AI for the inventory (outputs inferred from data, not only human-written rules), applied before counting (lesson 01.7).
 - **Data boundary** — One page per approved AI tool stating what data enters, where it travels, who sees it, whether the vendor trains on it, how long it stays and what happens at exit (lesson 04.3).
@@ -53,6 +57,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Departure from a gate rule** — A written statement that a pre-agreed gate was not met and why money or a stage is released anyway, so the gate keeps its meaning (lesson 07.2).
 - **Development set** — The part of the labelled data used to write and tune the prompt; failures are read and fixed here (lesson 05.2).
 - **Divergence** — The spread between independent scores on one card; discussed for evidence instead of averaged (lesson 03.5).
+- **Document round** — One request letter for documents on a claim; a second or third round means something was asked for late, and each round adds weeks to the claimant's wait (lesson 09.3).
 - **DPIA trigger** — A written condition (decisions about people, highly sensitive data, personal data at scale, new recipients, a new purpose, monitoring of people) that means a DPIA must be done before an AI use starts or continues (lesson 04.4).
 - **Earliest date** — A stage date in a release plan is the earliest the stage may start if its exit condition is met, not a deadline (lesson 07.8).
 - **Exit check** — One fresh case done alone at the end of a session and observed against the checks; its results stay with the trainer and champion (lesson 06.2).
@@ -98,10 +103,12 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Not yet a candidate** — An idea whose workflow step or owner cannot be named yet; recorded with the question that would make it a candidate (lesson 03.1).
 - **Observation protocol** — The agreed rules for watching real work: stated purpose, consent and the right to stop, a timed log, no personal data in the notes, a read-back (lesson 02.3).
 - **Old path** — The way a step was done before the AI output arrived (a macro, a phone, a free tool); a workflow redesign switches it off on a date with an owner, or people go back to it (lesson 06.1).
+- **Operating control** — A human check shown to happen in practice by evidence such as confirmation timers and samples, as opposed to one that exists only as a procedure (lesson 09.5).
 - **Operating rhythm** — The owner, RACI, calendar with hours, triggers, monthly agenda and retirement criteria that keep a running AI service watched after the project team leaves (lesson 07.6).
 - **Opportunity map** — The full list of candidate changes from three feeds plus discovery, each restated as one workflow step with an owner, a sourced volume and one benefit unit, and placed as automate, assist, augment or leave alone (lesson 03.1).
 - **Opportunity-aware population** — The people who could have used the tool in a given week, from role and HR status, used as the denominator instead of licences (lesson 06.4).
 - **Order context** — The facts about an order, taken from company systems, that are handed to the model with a message so that the draft never has to produce them itself (lesson 05.3).
+- **Outcome test** — A comparison of what happened to comparable cases in different groups (for example referral rates by language), which finds disparities without needing to know how the system works (lesson 09.4).
 - **Paired quality metric** — A quality measure reported beside an efficiency measure, chosen so that it moves the wrong way if the efficiency gain is fake (lesson 05.1).
 - **Paper versus practice** — The documented difference between the written process and the observed one, recorded as a finding with evidence and consequence (lesson 02.3).
 - **Parked list** — Ideas not funded now, each with its reason and a dated, evidence-based reopening condition (lesson 03.6).
@@ -117,6 +124,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Production-readiness checklist** — The list of what must be true before an AI output reaches real users, each line with evidence, an owner and the consequence for the go-live date if it stays open (lesson 05.6).
 - **Promise table** — The list of sentences a team wants to hear, each checked against the business case and approved word for word by the person who can keep it (lesson 06.5).
 - **Provenance** — How a file was produced (system export, hand-kept file, narrative document, vendor document, written for you), which sets how far to trust it (lesson 01.5).
+- **Proxy factor** — An input that looks neutral but stands in for a protected ground, such as "interpreter required" for national origin or a postal-area list for place of residence (lesson 09.4).
 - **Pseudonymisation residue** — Personal details that a pseudonymisation pass missed, found by searching for them after the pass (lesson 05.2).
 - **Qualified event** — The logged event that shows the tool entered the real work (at Harbor & Pine, a draft inserted into a reply), as opposed to events that fire by themselves (lesson 06.4).
 - **Qualified-use rate** — People with enough qualified events in the window divided by the opportunity-aware population (lesson 06.4).
@@ -126,6 +134,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Receiving team** — The people who absorb work a program moves or creates, often outside the team in scope and missing from the org chart's view of the project (lesson 02.1).
 - **Recommend-against** — A recommendation not to do something the sponsor or the CEO wants, placed on the front page of the readout with its evidence (lesson 08.6).
 - **Refinement** — A new request that serves the same objective, users, data and deliverable and fits the agreed time and money; done inside the phase without a change request (lesson 01.3).
+- **Regulatory clock** — A cycle time defined by a regulator's deadline (here, from a complete file to the decision notice), worth reporting for compliance but not a measure of the customer's experience (lesson 09.3).
 - **Regulatory map** — A one-page table of which instrument applies to which AI use, in which role (actor), with which obligation, from which date, at which status and on which checked source (lesson 04.6).
 - **Relay** — Anyone who has already heard a committed number from a leader (a board chair, an investor, a vendor) and needs the same correction early (lesson 07.3).
 - **Repeat contact** — An agent contact from a customer who contacted the organization about the same order within the previous 7 days on any channel, with order numbers normalised and blanks counted as the same order (lesson 08.2).
@@ -148,6 +157,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Steering pack** — The papers a committee decides from, in reader order with a six-page body: cover note, updated decision-ready case, gate table, stop rules, open items, separate decisions and what each answer means (lesson 07.1).
 - **Steering pre-read** — The date the decision-makers receive a pack before a board or steering meeting, usually a week earlier; the real deadline for the work (lesson 01.4).
 - **Stop rule** — A condition written before a pilot starts that ends it, or one segment of it, early, with a trigger, an action and the person who decides (lesson 05.1).
+- **Stratified fairness check** — A fairness check that splits a group gap by an explanatory variable (such as scanner or capture channel) to find its cause before calling it a group effect (lesson 09.5).
 - **Task inventory** — One row per task as the worker does it, with trigger, volume, time, error or rework, variation and judgment, each number with its source (lesson 02.3).
 - **Test set** — The frozen, versioned part of the labelled data scored once per prompt or model version, never used for tuning (lesson 05.2).
 - **Three feeds** — The three sources of candidates: what people request, what they already use, and the goals leadership has stated (lesson 03.1).

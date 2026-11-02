@@ -1,0 +1,17 @@
+rule_id,name,description,weight_or_value,enabled,source_template,effective_from
+F01,Late notification,Loss notified more than 30 days after the loss date,15,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+F02,New or increased cover,Policy inception or increase in cover less than 60 days before the loss,20,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+F03,Claim frequency,Two or more prior claims on the policy in 24 months,15,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+F04,High amount for segment,Claimed amount above 1.5x the segment median,10,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+F05,Non-network garage,Repairs at a garage outside Meridian's network,10,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+F06,Night loss without police,Loss between 22:00 and 05:00 with no police report,10,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+F07,Third-party representative,Public adjuster or lawyer involved at first notice,15,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+F08,Interpreter required,Claimant correspondence flagged as requiring interpreter services,10,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+F09,Risk area,Claimant postal area on the risk-area list (risk_areas_v3),15,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+F10,Document anomaly,Document resubmitted or file metadata edited after first upload,20,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+F11,Shared contact details,Phone number linked to three or more claimants in 12 months,25,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+F12,"Total loss, older vehicle",Total-loss claim on a vehicle older than 12 years,10,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+F13,Young claimant,Claimant age band 18-24,5,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+F14,Premium paid on loss date,Outstanding premium paid on the day of the loss,15,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+THRESHOLD_REVIEW,Review band,Score at or above which the claim shows an amber 'review' badge,35,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
+THRESHOLD_REFER,Auto-referral,Score at or above which the claim is routed to the SIU queue and payment approval is held,50,Y,IL_MARKET_TEMPLATE_2026.2,2026-09-06
