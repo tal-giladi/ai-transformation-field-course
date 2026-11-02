@@ -163,13 +163,18 @@ Two kinds:
 
 ## 5. Two tracks for building
 
-Every build lab has:
+- **Track A — no-code:** in every lab. LLM chat (projects / custom GPT / Claude project) +
+  spreadsheet + a workflow tool. Eval done in a spreadsheet with a fixed test set.
+- **Track B — Python:** added wherever Python genuinely helps (Tal, 2026-11-02), not forced into
+  every lab. Expected places: data-room profiling and baselines (02.4, 02.5, every NN.2–NN.3), the
+  ROI model's scenarios and sensitivity (03.5), pilot build and eval harness (M5, every NN.5), usage
+  telemetry joins for the adoption dashboard (06.4), agent negative tests and red-team scripts (M14),
+  portfolio triage of 40 pilots (M15). Python + an LLM API + small shared helpers in `labs/common/`
+  (data loading, eval harness, cost calculator; pinned versions). Each lesson says why Python is worth
+  it there.
 
-- **Track A — no-code:** LLM chat (projects / custom GPT / Claude project) + spreadsheet + a
-  workflow tool. Eval done in a spreadsheet with a fixed test set.
-- **Track B — code:** Python + an LLM API + a small eval harness in `labs/common/` (pinned versions).
-
-Both tracks produce the same artifacts: the pilot, a test set, an eval report with numbers.
+Where both tracks exist they produce the same artifacts: the pilot, a test set, an eval report with
+numbers.
 
 ## 6. Modules and lessons
 
@@ -308,4 +313,4 @@ One brief per engagement (the deliverables list and rubric), plus the capstone b
 1. ~~Read the actual IBM content~~ — done 2026-11-02, see `research/ibm-gap-map.md`.
 2. ~~Free or paid?~~ — paid (Tal, 2026-11-02).
 3. ~~Which jurisdictions?~~ — Israel first, then EU, then US (Tal, 2026-11-02).
-4. Track B (code) in every build lab, or only in some engagements?
+4. ~~Track B in every lab?~~ — wherever Python helps (Tal, 2026-11-02).
