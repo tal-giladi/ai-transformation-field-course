@@ -1,0 +1,9 @@
+# Python track (Track B) for "AI Transformation in the Field". Python 3.12+.
+# Versions checked on PyPI 2026-11-02. Install: python -m pip install -r requirements.txt
+pandas==3.1.0
+tabulate==0.10.0
+matplotlib==3.11.2
+pyyaml==6.0.3
+# LLM providers: you need only the one you use (see fieldkit/llm.py).
+anthropic==2.3.0
+openai==3.42.1
