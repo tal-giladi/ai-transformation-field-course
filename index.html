@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Transformation in the Field</title>
+  <link rel="stylesheet" href="vendor/vue.css">
+</head>
+<body>
+  <div id="app">Loading…</div>
+  <script>
+    window.$docsify = {
+      name: "AI Transformation in the Field",
+      repo: "tal-giladi/ai-transformation-field-course",
+      loadSidebar: "_site_sidebar.md",
+      alias: { ".*/_site_sidebar.md": "/_site_sidebar.md" },
+      subMaxLevel: 2,
+      auto2top: true,
+      relativePath: true,
+      search: { depth: 3, placeholder: "Search" },
+      mermaidConfig: { querySelector: ".mermaid" }
+    };
+  </script>
+  <script src="vendor/docsify.min.js"></script>
+  <script src="vendor/front-matter.min.js"></script>
+  <script src="vendor/search.min.js"></script>
+  <script src="vendor/docsify-plugin-flexible-alerts.min.js"></script>
+  <script src="vendor/mermaid.min.js"></script>
+  <script src="vendor/docsify-mermaid.js"></script>
+  <script>mermaid.initialize({ startOnLoad: false });</script>
+</body>
+</html>
