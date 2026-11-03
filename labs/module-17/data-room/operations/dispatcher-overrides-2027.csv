@@ -1,0 +1,995 @@
+override_id,date,region,depot_code,route_id,dispatcher,reason_code,reason_text,km_tool_plan,km_dispatched
+OVR-00173,2027-01-10,North,KSH,KSH-0110-01,F. Khatib,ROAD_CLOSED,"Road closed, detour via Rt 85",166,212
+OVR-00174,2027-01-10,North,KSH,KSH-0110-02,S. Levi,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,133,170
+OVR-00175,2027-01-10,Centre,MOD,MOD-0110-03,G. Rosen,TRAFFIC,פקק בכניסה לנמל,67,72
+OVR-00176,2027-01-10,Centre,MOD,MOD-0110-04,M. Ohayon,CUSTOMER_WINDOW,Клиент принимает только до 10:00,66,66
+OVR-00177,2027-01-10,Centre,MOD,MOD-0110-05,D. Tsegaye,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",60,57
+OVR-00178,2027-01-10,Centre,MOD,MOD-0110-07,G. Rosen,OTHER,ראה הודעה בקבוצה,63,62
+OVR-00179,2027-01-10,Centre,APL,APL-0110-02,G. Rosen,PLAN_ERROR,تخطيط غير منطقي,88,95
+OVR-00180,2027-01-10,Centre,APL,APL-0110-03,D. Tsegaye,TRAFFIC,פקק בכניסה לנמל,80,83
+OVR-00181,2027-01-10,Centre,APL,APL-0110-04,G. Rosen,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,74,75
+OVR-00182,2027-01-10,Centre,APL,APL-0110-05,D. Tsegaye,,ראה הודעה בקבוצה,77,82
+OVR-00183,2027-01-10,Centre,APL,APL-0110-06,M. Ohayon,TRAFFIC,עומס בצומת גולני,83,87
+OVR-00184,2027-01-10,Centre,PTK,PTK-0110-01,D. Tsegaye,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,59,60
+OVR-00185,2027-01-10,Centre,PTK,PTK-0110-02,G. Rosen,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,61,65
+OVR-00186,2027-01-10,Centre,PTK,PTK-0110-06,G. Rosen,TRAFFIC,Traffic at port gate 3,51,55
+OVR-00187,2027-01-10,South,ASH,ASH-0110-01,A. Elbaz,ROAD_CLOSED,"Дорога закрыта, объезд через 90",69,82
+OVR-00188,2027-01-10,South,ASH,ASH-0110-02,V. Petrov,ROAD_CLOSED,"Road closed, detour via Rt 85",55,72
+OVR-00189,2027-01-10,South,ASH,ASH-0110-03,V. Petrov,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",71,75
+OVR-00190,2027-01-10,South,ASH,ASH-0110-05,V. Petrov,PLAN_ERROR,Plan sends truck back and forth,66,65
+OVR-00191,2027-01-10,South,BSV,BSV-0110-02,R. Haj-Yahia,CUSTOMER_WINDOW,Клиент принимает только до 10:00,130,140
+OVR-00192,2027-01-10,South,BSV,BSV-0110-06,A. Elbaz,SECURITY_RESTRICTION,Маршрут через закрытую зону,124,139
+OVR-00193,2027-01-10,South,BSV,BSV-0110-07,V. Petrov,DRIVER_REFUSED,נהג סירב לנסוע במסלול,104,109
+OVR-00194,2027-01-10,South,NTV,NTV-0110-01,R. Haj-Yahia,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,110,137
+OVR-00195,2027-01-10,South,NTV,NTV-0110-04,R. Haj-Yahia,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",118,121
+OVR-00196,2027-01-11,North,KSH,KSH-0111-02,Y. Nassar,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,117,153
+OVR-00197,2027-01-11,North,KSH,KSH-0111-04,S. Levi,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,158,195
+OVR-00198,2027-01-11,Centre,MOD,MOD-0111-04,M. Ohayon,CUSTOMER_WINDOW,Клиент принимает только до 10:00,71,71
+OVR-00199,2027-01-11,Centre,PTK,PTK-0111-01,M. Ohayon,TRAFFIC,Traffic at port gate 3,63,64
+OVR-00200,2027-01-11,Centre,PTK,PTK-0111-02,G. Rosen,DRIVER_HOURS,Plan exceeds driver hours,65,65
+OVR-00201,2027-01-11,South,ASH,ASH-0111-01,R. Haj-Yahia,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,63,81
+OVR-00202,2027-01-11,South,ASH,ASH-0111-04,V. Petrov,ROAD_CLOSED,מסלול דרך כביש 232 סגור,73,93
+OVR-00203,2027-01-11,South,ASH,ASH-0111-05,A. Elbaz,,n/a,53,54
+OVR-00204,2027-01-11,South,ASH,ASH-0111-11,A. Elbaz,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,63,69
+OVR-00205,2027-01-11,South,BSV,BSV-0111-02,V. Petrov,ROAD_CLOSED,"Road closed, detour via Rt 85",103,137
+OVR-00206,2027-01-11,South,BSV,BSV-0111-08,R. Haj-Yahia,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",127,126
+OVR-00207,2027-01-11,South,NTV,NTV-0111-02,V. Petrov,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,113,146
+OVR-00208,2027-01-11,South,NTV,NTV-0111-03,V. Petrov,PLAN_ERROR,تخطيط غير منطقي,119,115
+OVR-00209,2027-01-11,South,NTV,NTV-0111-04,V. Petrov,CUSTOMER_WINDOW,Клиент принимает только до 10:00,140,145
+OVR-00210,2027-01-12,North,HFA,HFA-0112-02,S. Levi,,n/a,57,55
+OVR-00211,2027-01-12,North,KRM,KRM-0112-01,S. Levi,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,82,85
+OVR-00212,2027-01-12,North,KSH,KSH-0112-02,S. Levi,SECURITY_RESTRICTION,Маршрут через закрытую зону,132,144
+OVR-00213,2027-01-12,Centre,MOD,MOD-0112-11,M. Ohayon,TRAFFIC,עומס בצומת גולני,72,80
+OVR-00214,2027-01-12,Centre,APL,APL-0112-05,D. Tsegaye,OTHER,,79,81
+OVR-00215,2027-01-12,Centre,PTK,PTK-0112-03,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",68,70
+OVR-00216,2027-01-12,South,ASH,ASH-0112-01,R. Haj-Yahia,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",63,78
+OVR-00217,2027-01-12,South,ASH,ASH-0112-02,R. Haj-Yahia,PLAN_ERROR,Plan sends truck back and forth,56,55
+OVR-00218,2027-01-12,South,ASH,ASH-0112-03,A. Elbaz,ROAD_CLOSED,"Road closed, detour via Rt 85",60,80
+OVR-00219,2027-01-12,South,ASH,ASH-0112-07,V. Petrov,,,67,73
+OVR-00220,2027-01-12,South,BSV,BSV-0112-02,A. Elbaz,OTHER,,100,104
+OVR-00221,2027-01-12,South,BSV,BSV-0112-03,A. Elbaz,ROAD_CLOSED,"Дорога закрыта, объезд через 90",95,123
+OVR-00222,2027-01-12,South,BSV,BSV-0112-04,A. Elbaz,PLAN_ERROR,تخطيط غير منطقي,129,142
+OVR-00223,2027-01-12,South,NTV,NTV-0112-02,A. Elbaz,SECURITY_RESTRICTION,"Military zone, no entry for trucks",139,181
+OVR-00224,2027-01-13,North,KRM,KRM-0113-01,S. Levi,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,104,111
+OVR-00225,2027-01-13,North,KSH,KSH-0113-03,Y. Nassar,ROAD_CLOSED,מסלול דרך כביש 232 סגור,122,153
+OVR-00226,2027-01-13,Centre,MOD,MOD-0113-02,G. Rosen,TRAFFIC,Traffic at port gate 3,78,79
+OVR-00227,2027-01-13,Centre,MOD,MOD-0113-05,M. Ohayon,OTHER,,57,57
+OVR-00228,2027-01-13,Centre,APL,APL-0113-01,M. Ohayon,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,68,73
+OVR-00229,2027-01-13,South,ASH,ASH-0113-03,R. Haj-Yahia,OTHER,ראה הודעה בקבוצה,56,57
+OVR-00230,2027-01-13,South,BSV,BSV-0113-01,A. Elbaz,PLAN_ERROR,تخطيط غير منطقي,101,111
+OVR-00231,2027-01-13,South,NTV,NTV-0113-04,A. Elbaz,DRIVER_REFUSED,נהג סירב לנסוע במסלול,107,108
+OVR-00232,2027-01-14,North,HFA,HFA-0114-01,F. Khatib,TRAFFIC,פקק בכניסה לנמל,63,61
+OVR-00233,2027-01-14,North,HFA,HFA-0114-04,S. Levi,TRAFFIC,עומס בצומת גולני,55,58
+OVR-00234,2027-01-14,North,KRM,KRM-0114-01,S. Levi,,n/a,107,111
+OVR-00235,2027-01-14,North,KRM,KRM-0114-02,S. Levi,CUSTOMER_WINDOW,Клиент принимает только до 10:00,108,105
+OVR-00236,2027-01-14,North,KSH,KSH-0114-03,F. Khatib,OTHER,n/a,143,144
+OVR-00237,2027-01-14,North,KSH,KSH-0114-05,Y. Nassar,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,147,180
+OVR-00238,2027-01-14,Centre,MOD,MOD-0114-02,M. Ohayon,CUSTOMER_WINDOW,Клиент принимает только до 10:00,76,84
+OVR-00239,2027-01-14,Centre,MOD,MOD-0114-03,M. Ohayon,OTHER,,77,81
+OVR-00240,2027-01-14,Centre,MOD,MOD-0114-06,D. Tsegaye,PLAN_ERROR,Plan sends truck back and forth,75,76
+OVR-00241,2027-01-14,Centre,MOD,MOD-0114-07,M. Ohayon,OTHER,n/a,77,79
+OVR-00242,2027-01-14,Centre,MOD,MOD-0114-08,G. Rosen,PLAN_ERROR,Plan sends truck back and forth,70,77
+OVR-00243,2027-01-14,Centre,APL,APL-0114-01,G. Rosen,TRAFFIC,Traffic at port gate 3,91,87
+OVR-00244,2027-01-14,Centre,APL,APL-0114-02,D. Tsegaye,TRAFFIC,עומס בצומת גולני,68,65
+OVR-00245,2027-01-14,Centre,APL,APL-0114-03,M. Ohayon,OTHER,ראה הודעה בקבוצה,83,86
+OVR-00246,2027-01-14,Centre,APL,APL-0114-05,D. Tsegaye,PLAN_ERROR,تخطيط غير منطقي,80,88
+OVR-00247,2027-01-14,Centre,APL,APL-0114-07,G. Rosen,CUSTOMER_WINDOW,Customer receives until 10:00 only,78,87
+OVR-00248,2027-01-14,Centre,PTK,PTK-0114-01,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",62,61
+OVR-00249,2027-01-14,Centre,PTK,PTK-0114-02,G. Rosen,OTHER,n/a,50,49
+OVR-00250,2027-01-14,Centre,PTK,PTK-0114-04,D. Tsegaye,CUSTOMER_WINDOW,Customer receives until 10:00 only,66,66
+OVR-00251,2027-01-14,South,ASH,ASH-0114-01,R. Haj-Yahia,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",59,56
+OVR-00252,2027-01-14,South,ASH,ASH-0114-02,V. Petrov,SECURITY_RESTRICTION,Маршрут через закрытую зону,72,81
+OVR-00253,2027-01-14,South,ASH,ASH-0114-03,R. Haj-Yahia,PLAN_ERROR,Plan sends truck back and forth,56,54
+OVR-00254,2027-01-14,South,ASH,ASH-0114-04,A. Elbaz,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,74,97
+OVR-00255,2027-01-14,South,BSV,BSV-0114-03,V. Petrov,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",120,145
+OVR-00256,2027-01-17,North,KRM,KRM-0117-01,Y. Nassar,CUSTOMER_WINDOW,Клиент принимает только до 10:00,84,85
+OVR-00257,2027-01-17,North,KSH,KSH-0117-01,Y. Nassar,CUSTOMER_WINDOW,Клиент принимает только до 10:00,164,166
+OVR-00258,2027-01-17,North,KSH,KSH-0117-03,S. Levi,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,140,155
+OVR-00259,2027-01-17,North,KSH,KSH-0117-04,Y. Nassar,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,165,178
+OVR-00260,2027-01-17,North,KSH,KSH-0117-06,F. Khatib,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,128,172
+OVR-00261,2027-01-17,Centre,MOD,MOD-0117-02,G. Rosen,CUSTOMER_WINDOW,Customer receives until 10:00 only,71,70
+OVR-00262,2027-01-17,Centre,APL,APL-0117-03,G. Rosen,TRAFFIC,Traffic at port gate 3,91,94
+OVR-00263,2027-01-17,Centre,PTK,PTK-0117-02,D. Tsegaye,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,66,74
+OVR-00264,2027-01-17,Centre,PTK,PTK-0117-04,M. Ohayon,TRAFFIC,עומס בצומת גולני,64,63
+OVR-00265,2027-01-17,South,ASH,ASH-0117-03,A. Elbaz,DRIVER_REFUSED,السائق رفض المسار,54,54
+OVR-00266,2027-01-17,South,ASH,ASH-0117-07,V. Petrov,PLAN_ERROR,تخطيط غير منطقي,68,71
+OVR-00267,2027-01-17,South,BSV,BSV-0117-01,R. Haj-Yahia,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,122,153
+OVR-00268,2027-01-17,South,BSV,BSV-0117-02,V. Petrov,ROAD_CLOSED,መንገዱ ተዘግቷል,97,117
+OVR-00269,2027-01-17,South,BSV,BSV-0117-04,A. Elbaz,ROAD_CLOSED,መንገዱ ተዘግቷል,106,127
+OVR-00270,2027-01-17,South,BSV,BSV-0117-05,V. Petrov,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,128,140
+OVR-00271,2027-01-17,South,BSV,BSV-0117-06,A. Elbaz,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,97,109
+OVR-00272,2027-01-17,South,NTV,NTV-0117-02,V. Petrov,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",117,111
+OVR-00273,2027-01-17,South,NTV,NTV-0117-03,R. Haj-Yahia,DRIVER_REFUSED,נהג סירב לנסוע במסלול,137,137
+OVR-00274,2027-01-18,North,HFA,HFA-0118-01,F. Khatib,TRAFFIC,עומס בצומת גולני,62,61
+OVR-00275,2027-01-18,North,KRM,KRM-0118-02,S. Levi,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,99,105
+OVR-00276,2027-01-18,North,KSH,KSH-0118-02,S. Levi,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,146,167
+OVR-00277,2027-01-18,North,KSH,KSH-0118-03,Y. Nassar,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,151,178
+OVR-00278,2027-01-18,Centre,MOD,MOD-0118-02,G. Rosen,DRIVER_HOURS,Превышение часов водителя,63,63
+OVR-00279,2027-01-18,Centre,MOD,MOD-0118-06,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",68,70
+OVR-00280,2027-01-18,Centre,MOD,MOD-0118-08,G. Rosen,DRIVER_HOURS,Plan exceeds driver hours,73,75
+OVR-00281,2027-01-18,Centre,APL,APL-0118-02,D. Tsegaye,TRAFFIC,Traffic at port gate 3,82,80
+OVR-00282,2027-01-18,Centre,APL,APL-0118-06,D. Tsegaye,CUSTOMER_WINDOW,Customer receives until 10:00 only,91,98
+OVR-00283,2027-01-18,Centre,PTK,PTK-0118-01,M. Ohayon,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,70,69
+OVR-00284,2027-01-18,Centre,PTK,PTK-0118-02,D. Tsegaye,OTHER,ראה הודעה בקבוצה,62,66
+OVR-00285,2027-01-18,South,ASH,ASH-0118-02,A. Elbaz,OTHER,n/a,73,76
+OVR-00286,2027-01-18,South,ASH,ASH-0118-03,V. Petrov,ROAD_CLOSED,መንገዱ ተዘግቷል,69,75
+OVR-00287,2027-01-18,South,ASH,ASH-0118-04,R. Haj-Yahia,DRIVER_REFUSED,נהג סירב לנסוע במסלול,68,71
+OVR-00288,2027-01-18,South,BSV,BSV-0118-01,A. Elbaz,PLAN_ERROR,تخطيط غير منطقي,123,128
+OVR-00289,2027-01-18,South,BSV,BSV-0118-02,R. Haj-Yahia,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,93,103
+OVR-00290,2027-01-18,South,BSV,BSV-0118-03,A. Elbaz,SECURITY_RESTRICTION,Маршрут через закрытую зону,130,149
+OVR-00291,2027-01-18,South,BSV,BSV-0118-04,A. Elbaz,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,97,108
+OVR-00292,2027-01-18,South,BSV,BSV-0118-05,R. Haj-Yahia,ROAD_CLOSED,መንገዱ ተዘግቷል,109,135
+OVR-00293,2027-01-19,North,HFA,HFA-0119-01,F. Khatib,CUSTOMER_WINDOW,Customer receives until 10:00 only,54,51
+OVR-00294,2027-01-19,North,HFA,HFA-0119-03,S. Levi,TRAFFIC,Traffic at port gate 3,61,66
+OVR-00295,2027-01-19,North,HFA,HFA-0119-05,Y. Nassar,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,52,51
+OVR-00296,2027-01-19,North,KSH,KSH-0119-02,S. Levi,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,123,143
+OVR-00297,2027-01-19,North,KSH,KSH-0119-06,F. Khatib,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,134,146
+OVR-00298,2027-01-19,Centre,MOD,MOD-0119-01,G. Rosen,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,57,57
+OVR-00299,2027-01-19,Centre,MOD,MOD-0119-02,M. Ohayon,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,70,67
+OVR-00300,2027-01-19,Centre,MOD,MOD-0119-03,G. Rosen,CUSTOMER_WINDOW,Клиент принимает только до 10:00,78,86
+OVR-00301,2027-01-19,Centre,MOD,MOD-0119-05,G. Rosen,TRAFFIC,Traffic at port gate 3,67,65
+OVR-00302,2027-01-19,Centre,MOD,MOD-0119-06,D. Tsegaye,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",59,57
+OVR-00303,2027-01-19,Centre,MOD,MOD-0119-08,G. Rosen,PLAN_ERROR,Plan sends truck back and forth,61,64
+OVR-00304,2027-01-19,Centre,MOD,MOD-0119-09,M. Ohayon,CUSTOMER_WINDOW,Customer receives until 10:00 only,58,63
+OVR-00305,2027-01-19,Centre,MOD,MOD-0119-10,M. Ohayon,CUSTOMER_WINDOW,Клиент принимает только до 10:00,66,72
+OVR-00306,2027-01-19,Centre,APL,APL-0119-02,G. Rosen,CUSTOMER_WINDOW,Клиент принимает только до 10:00,86,92
+OVR-00307,2027-01-19,Centre,PTK,PTK-0119-03,D. Tsegaye,PLAN_ERROR,Plan sends truck back and forth,55,56
+OVR-00308,2027-01-19,Centre,PTK,PTK-0119-04,M. Ohayon,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",65,65
+OVR-00309,2027-01-19,South,ASH,ASH-0119-01,V. Petrov,DRIVER_REFUSED,السائق رفض المسار,65,69
+OVR-00310,2027-01-19,South,ASH,ASH-0119-02,V. Petrov,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,55,66
+OVR-00311,2027-01-19,South,ASH,ASH-0119-03,R. Haj-Yahia,DRIVER_REFUSED,السائق رفض المسار,70,71
+OVR-00312,2027-01-19,South,BSV,BSV-0119-03,A. Elbaz,ROAD_CLOSED,መንገዱ ተዘግቷል,120,157
+OVR-00313,2027-01-19,South,BSV,BSV-0119-07,A. Elbaz,PLAN_ERROR,تخطيط غير منطقي,111,112
+OVR-00314,2027-01-19,South,NTV,NTV-0119-01,A. Elbaz,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,143,159
+OVR-00315,2027-01-19,South,NTV,NTV-0119-02,V. Petrov,SECURITY_RESTRICTION,Маршрут через закрытую зону,138,185
+OVR-00316,2027-01-20,North,KRM,KRM-0120-02,F. Khatib,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,81,88
+OVR-00317,2027-01-20,North,KRM,KRM-0120-03,S. Levi,CUSTOMER_WINDOW,Customer receives until 10:00 only,91,99
+OVR-00318,2027-01-20,North,KRM,KRM-0120-04,F. Khatib,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,92,92
+OVR-00319,2027-01-20,Centre,MOD,MOD-0120-02,G. Rosen,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,67,73
+OVR-00320,2027-01-20,Centre,MOD,MOD-0120-04,D. Tsegaye,CUSTOMER_WINDOW,Customer receives until 10:00 only,75,82
+OVR-00321,2027-01-20,Centre,APL,APL-0120-02,G. Rosen,CUSTOMER_WINDOW,Клиент принимает только до 10:00,91,90
+OVR-00322,2027-01-20,Centre,APL,APL-0120-03,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",84,82
+OVR-00323,2027-01-20,South,BSV,BSV-0120-01,V. Petrov,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,119,136
+OVR-00324,2027-01-20,South,BSV,BSV-0120-03,A. Elbaz,ROAD_CLOSED,מסלול דרך כביש 232 סגור,109,123
+OVR-00325,2027-01-20,South,NTV,NTV-0120-05,V. Petrov,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,125,165
+OVR-00326,2027-01-20,South,NTV,NTV-0120-06,R. Haj-Yahia,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,116,131
+OVR-00327,2027-01-21,North,HFA,HFA-0121-02,S. Levi,,ראה הודעה בקבוצה,67,65
+OVR-00328,2027-01-21,North,KRM,KRM-0121-01,F. Khatib,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,86,94
+OVR-00329,2027-01-21,North,KRM,KRM-0121-02,F. Khatib,DRIVER_HOURS,Превышение часов водителя,105,114
+OVR-00330,2027-01-21,North,KSH,KSH-0121-03,Y. Nassar,SECURITY_RESTRICTION,Маршрут через закрытую зону,162,214
+OVR-00331,2027-01-21,Centre,MOD,MOD-0121-03,D. Tsegaye,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,59,58
+OVR-00332,2027-01-21,Centre,MOD,MOD-0121-07,D. Tsegaye,DRIVER_HOURS,Превышение часов водителя,71,75
+OVR-00333,2027-01-21,Centre,MOD,MOD-0121-08,D. Tsegaye,PLAN_ERROR,تخطيط غير منطقي,65,72
+OVR-00334,2027-01-21,Centre,APL,APL-0121-02,D. Tsegaye,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,76,75
+OVR-00335,2027-01-21,Centre,APL,APL-0121-03,D. Tsegaye,OTHER,,67,66
+OVR-00336,2027-01-21,Centre,PTK,PTK-0121-03,G. Rosen,,ראה הודעה בקבוצה,59,66
+OVR-00337,2027-01-21,South,ASH,ASH-0121-02,A. Elbaz,OTHER,n/a,73,69
+OVR-00338,2027-01-21,South,ASH,ASH-0121-07,R. Haj-Yahia,OTHER,ראה הודעה בקבוצה,57,63
+OVR-00339,2027-01-21,South,BSV,BSV-0121-01,R. Haj-Yahia,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",109,119
+OVR-00340,2027-01-21,South,BSV,BSV-0121-03,R. Haj-Yahia,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,109,129
+OVR-00341,2027-01-21,South,BSV,BSV-0121-05,R. Haj-Yahia,ROAD_CLOSED,"Road closed, detour via Rt 85",122,146
+OVR-00342,2027-01-21,South,NTV,NTV-0121-02,R. Haj-Yahia,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",142,187
+OVR-00343,2027-01-21,South,NTV,NTV-0121-04,V. Petrov,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,109,128
+OVR-00344,2027-01-24,North,HFA,HFA-0124-01,Y. Nassar,CUSTOMER_WINDOW,Customer receives until 10:00 only,69,71
+OVR-00345,2027-01-24,North,KRM,KRM-0124-01,Y. Nassar,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,80,82
+OVR-00346,2027-01-24,North,KRM,KRM-0124-03,F. Khatib,TRAFFIC,פקק בכניסה לנמל,82,84
+OVR-00347,2027-01-24,North,KSH,KSH-0124-04,S. Levi,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,164,206
+OVR-00348,2027-01-24,Centre,MOD,MOD-0124-01,G. Rosen,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,78,83
+OVR-00349,2027-01-24,Centre,MOD,MOD-0124-03,D. Tsegaye,OTHER,ראה הודעה בקבוצה,60,67
+OVR-00350,2027-01-24,Centre,MOD,MOD-0124-05,G. Rosen,OTHER,ראה הודעה בקבוצה,79,82
+OVR-00351,2027-01-24,Centre,MOD,MOD-0124-08,G. Rosen,DRIVER_HOURS,Plan exceeds driver hours,57,57
+OVR-00352,2027-01-24,Centre,APL,APL-0124-01,G. Rosen,TRAFFIC,Traffic at port gate 3,90,88
+OVR-00353,2027-01-24,Centre,APL,APL-0124-02,M. Ohayon,TRAFFIC,Traffic at port gate 3,69,75
+OVR-00354,2027-01-24,Centre,PTK,PTK-0124-01,G. Rosen,TRAFFIC,Traffic at port gate 3,52,50
+OVR-00355,2027-01-24,South,ASH,ASH-0124-02,R. Haj-Yahia,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,72,81
+OVR-00356,2027-01-24,South,ASH,ASH-0124-08,V. Petrov,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,64,73
+OVR-00357,2027-01-24,South,ASH,ASH-0124-09,A. Elbaz,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,66,77
+OVR-00358,2027-01-24,South,BSV,BSV-0124-03,V. Petrov,DRIVER_REFUSED,נהג סירב לנסוע במסלול,114,114
+OVR-00359,2027-01-24,South,BSV,BSV-0124-05,A. Elbaz,ROAD_CLOSED,מסלול דרך כביש 232 סגור,96,112
+OVR-00360,2027-01-24,South,BSV,BSV-0124-06,R. Haj-Yahia,ROAD_CLOSED,"Дорога закрыта, объезд через 90",101,128
+OVR-00361,2027-01-24,South,NTV,NTV-0124-03,R. Haj-Yahia,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",114,127
+OVR-00362,2027-01-25,North,KRM,KRM-0125-02,Y. Nassar,ROAD_CLOSED,"Дорога закрыта, объезд через 90",84,106
+OVR-00363,2027-01-25,North,KRM,KRM-0125-04,S. Levi,TRAFFIC,Traffic at port gate 3,86,89
+OVR-00364,2027-01-25,North,KRM,KRM-0125-05,F. Khatib,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,78,81
+OVR-00365,2027-01-25,North,KSH,KSH-0125-01,S. Levi,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,122,134
+OVR-00366,2027-01-25,Centre,MOD,MOD-0125-01,M. Ohayon,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",75,80
+OVR-00367,2027-01-25,Centre,APL,APL-0125-05,M. Ohayon,,,91,101
+OVR-00368,2027-01-25,Centre,PTK,PTK-0125-02,M. Ohayon,TRAFFIC,Traffic at port gate 3,54,55
+OVR-00369,2027-01-25,Centre,PTK,PTK-0125-03,M. Ohayon,,,54,57
+OVR-00370,2027-01-25,South,ASH,ASH-0125-01,A. Elbaz,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,70,80
+OVR-00371,2027-01-25,South,ASH,ASH-0125-04,V. Petrov,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",61,59
+OVR-00372,2027-01-25,South,ASH,ASH-0125-05,V. Petrov,ROAD_CLOSED,መንገዱ ተዘግቷል,59,76
+OVR-00373,2027-01-25,South,BSV,BSV-0125-01,V. Petrov,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,106,132
+OVR-00374,2027-01-25,South,NTV,NTV-0125-02,R. Haj-Yahia,SECURITY_RESTRICTION,"Military zone, no entry for trucks",109,120
+OVR-00375,2027-01-26,North,KSH,KSH-0126-01,S. Levi,ROAD_CLOSED,"Road closed, detour via Rt 85",147,187
+OVR-00376,2027-01-26,North,KSH,KSH-0126-02,F. Khatib,OTHER,,145,140
+OVR-00377,2027-01-26,Centre,MOD,MOD-0126-01,D. Tsegaye,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",67,69
+OVR-00378,2027-01-26,Centre,MOD,MOD-0126-02,M. Ohayon,TRAFFIC,Traffic at port gate 3,70,73
+OVR-00379,2027-01-26,Centre,MOD,MOD-0126-03,D. Tsegaye,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,69,70
+OVR-00380,2027-01-26,Centre,MOD,MOD-0126-04,D. Tsegaye,OTHER,n/a,75,71
+OVR-00381,2027-01-26,Centre,MOD,MOD-0126-05,D. Tsegaye,DRIVER_HOURS,Превышение часов водителя,72,76
+OVR-00382,2027-01-26,Centre,MOD,MOD-0126-06,D. Tsegaye,TRAFFIC,Traffic at port gate 3,57,55
+OVR-00383,2027-01-26,Centre,MOD,MOD-0126-10,G. Rosen,PLAN_ERROR,تخطيط غير منطقي,77,73
+OVR-00384,2027-01-26,Centre,MOD,MOD-0126-11,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",67,69
+OVR-00385,2027-01-26,Centre,APL,APL-0126-01,D. Tsegaye,TRAFFIC,Traffic at port gate 3,93,91
+OVR-00386,2027-01-26,Centre,APL,APL-0126-04,G. Rosen,CUSTOMER_WINDOW,Customer receives until 10:00 only,89,89
+OVR-00387,2027-01-26,Centre,APL,APL-0126-05,D. Tsegaye,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",92,100
+OVR-00388,2027-01-26,Centre,APL,APL-0126-08,M. Ohayon,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",66,69
+OVR-00389,2027-01-26,Centre,PTK,PTK-0126-03,G. Rosen,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,55,54
+OVR-00390,2027-01-26,South,ASH,ASH-0126-01,A. Elbaz,ROAD_CLOSED,"Дорога закрыта, объезд через 90",75,86
+OVR-00391,2027-01-26,South,ASH,ASH-0126-02,V. Petrov,SECURITY_RESTRICTION,Маршрут через закрытую зону,59,79
+OVR-00392,2027-01-26,South,ASH,ASH-0126-05,A. Elbaz,SECURITY_RESTRICTION,Маршрут через закрытую зону,64,72
+OVR-00393,2027-01-26,South,ASH,ASH-0126-06,V. Petrov,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,76,83
+OVR-00394,2027-01-26,South,ASH,ASH-0126-07,A. Elbaz,DRIVER_REFUSED,נהג סירב לנסוע במסלול,69,72
+OVR-00395,2027-01-26,South,ASH,ASH-0126-08,A. Elbaz,ROAD_CLOSED,מסלול דרך כביש 232 סגור,61,71
+OVR-00396,2027-01-26,South,ASH,ASH-0126-09,R. Haj-Yahia,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,70,76
+OVR-00397,2027-01-26,South,BSV,BSV-0126-02,V. Petrov,DRIVER_REFUSED,السائق رفض المسار,114,114
+OVR-00398,2027-01-26,South,BSV,BSV-0126-03,V. Petrov,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,108,138
+OVR-00399,2027-01-26,South,BSV,BSV-0126-05,R. Haj-Yahia,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",121,126
+OVR-00400,2027-01-26,South,BSV,BSV-0126-06,R. Haj-Yahia,OTHER,ראה הודעה בקבוצה,96,97
+OVR-00401,2027-01-26,South,NTV,NTV-0126-01,R. Haj-Yahia,OTHER,ראה הודעה בקבוצה,128,127
+OVR-00402,2027-01-26,South,NTV,NTV-0126-02,R. Haj-Yahia,SECURITY_RESTRICTION,Маршрут через закрытую зону,152,170
+OVR-00403,2027-01-26,South,NTV,NTV-0126-05,V. Petrov,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",149,185
+OVR-00404,2027-01-26,South,NTV,NTV-0126-07,A. Elbaz,DRIVER_REFUSED,נהג סירב לנסוע במסלול,134,132
+OVR-00405,2027-01-27,North,HFA,HFA-0127-02,F. Khatib,ROAD_CLOSED,"Дорога закрыта, объезд через 90",62,70
+OVR-00406,2027-01-27,North,KRM,KRM-0127-01,Y. Nassar,CUSTOMER_WINDOW,Клиент принимает только до 10:00,101,113
+OVR-00407,2027-01-27,North,KRM,KRM-0127-02,Y. Nassar,TRAFFIC,Traffic at port gate 3,91,94
+OVR-00408,2027-01-27,North,KRM,KRM-0127-03,Y. Nassar,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,78,105
+OVR-00409,2027-01-27,North,KSH,KSH-0127-02,S. Levi,ROAD_CLOSED,מסלול דרך כביש 232 סגור,143,163
+OVR-00410,2027-01-27,North,KSH,KSH-0127-03,Y. Nassar,ROAD_CLOSED,መንገዱ ተዘግቷል,154,202
+OVR-00411,2027-01-27,North,KSH,KSH-0127-04,F. Khatib,ROAD_CLOSED,መንገዱ ተዘግቷል,125,143
+OVR-00412,2027-01-27,Centre,MOD,MOD-0127-03,M. Ohayon,DRIVER_HOURS,Превышение часов водителя,78,86
+OVR-00413,2027-01-27,Centre,MOD,MOD-0127-04,G. Rosen,PLAN_ERROR,تخطيط غير منطقي,75,75
+OVR-00414,2027-01-27,Centre,APL,APL-0127-01,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",89,89
+OVR-00415,2027-01-27,Centre,PTK,PTK-0127-01,D. Tsegaye,PLAN_ERROR,تخطيط غير منطقي,53,57
+OVR-00416,2027-01-27,Centre,PTK,PTK-0127-02,M. Ohayon,PLAN_ERROR,تخطيط غير منطقي,54,54
+OVR-00417,2027-01-27,South,ASH,ASH-0127-03,R. Haj-Yahia,OTHER,n/a,59,63
+OVR-00418,2027-01-27,South,ASH,ASH-0127-05,R. Haj-Yahia,DRIVER_REFUSED,السائق رفض المسار,70,67
+OVR-00419,2027-01-27,South,ASH,ASH-0127-06,V. Petrov,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",55,65
+OVR-00420,2027-01-27,South,ASH,ASH-0127-09,A. Elbaz,ROAD_CLOSED,መንገዱ ተዘግቷል,71,90
+OVR-00421,2027-01-27,South,BSV,BSV-0127-04,V. Petrov,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",96,99
+OVR-00422,2027-01-27,South,BSV,BSV-0127-05,V. Petrov,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,106,120
+OVR-00423,2027-01-27,South,NTV,NTV-0127-01,A. Elbaz,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,108,131
+OVR-00424,2027-01-27,South,NTV,NTV-0127-03,A. Elbaz,DRIVER_REFUSED,السائق رفض المسار,145,151
+OVR-00425,2027-01-28,North,HFA,HFA-0128-01,F. Khatib,TRAFFIC,Traffic at port gate 3,57,54
+OVR-00426,2027-01-28,North,HFA,HFA-0128-02,S. Levi,TRAFFIC,פקק בכניסה לנמל,64,72
+OVR-00427,2027-01-28,Centre,MOD,MOD-0128-04,M. Ohayon,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,66,72
+OVR-00428,2027-01-28,Centre,MOD,MOD-0128-05,G. Rosen,CUSTOMER_WINDOW,Customer receives until 10:00 only,72,74
+OVR-00429,2027-01-28,Centre,MOD,MOD-0128-06,G. Rosen,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,80,83
+OVR-00430,2027-01-28,Centre,MOD,MOD-0128-08,D. Tsegaye,TRAFFIC,פקק בכניסה לנמל,74,76
+OVR-00431,2027-01-28,Centre,APL,APL-0128-02,M. Ohayon,TRAFFIC,פקק בכניסה לנמל,88,88
+OVR-00432,2027-01-28,Centre,APL,APL-0128-03,G. Rosen,TRAFFIC,פקק בכניסה לנמל,85,85
+OVR-00433,2027-01-28,Centre,APL,APL-0128-04,G. Rosen,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,84,94
+OVR-00434,2027-01-28,Centre,APL,APL-0128-05,G. Rosen,TRAFFIC,פקק בכניסה לנמל,69,71
+OVR-00435,2027-01-28,Centre,PTK,PTK-0128-02,M. Ohayon,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,54,60
+OVR-00436,2027-01-28,South,ASH,ASH-0128-01,V. Petrov,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,54,61
+OVR-00437,2027-01-28,South,ASH,ASH-0128-07,V. Petrov,ROAD_CLOSED,"Дорога закрыта, объезд через 90",56,73
+OVR-00438,2027-01-28,South,ASH,ASH-0128-08,V. Petrov,OTHER,ראה הודעה בקבוצה,68,71
+OVR-00439,2027-01-28,South,BSV,BSV-0128-01,A. Elbaz,PLAN_ERROR,تخطيط غير منطقي,120,126
+OVR-00440,2027-01-28,South,BSV,BSV-0128-02,V. Petrov,DRIVER_REFUSED,נהג סירב לנסוע במסלול,124,137
+OVR-00441,2027-01-28,South,NTV,NTV-0128-02,R. Haj-Yahia,ROAD_CLOSED,מסלול דרך כביש 232 סגור,110,125
+OVR-00442,2027-01-28,South,NTV,NTV-0128-03,A. Elbaz,PLAN_ERROR,تخطيط غير منطقي,126,133
+OVR-00443,2027-01-28,South,NTV,NTV-0128-05,A. Elbaz,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,129,165
+OVR-00444,2027-01-31,North,HFA,HFA-0131-02,F. Khatib,DRIVER_HOURS,Plan exceeds driver hours,61,65
+OVR-00445,2027-01-31,North,HFA,HFA-0131-05,Y. Nassar,DRIVER_HOURS,Plan exceeds driver hours,62,64
+OVR-00446,2027-01-31,North,KSH,KSH-0131-01,S. Levi,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,160,200
+OVR-00447,2027-01-31,North,KSH,KSH-0131-04,Y. Nassar,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,159,194
+OVR-00448,2027-01-31,Centre,APL,APL-0131-01,M. Ohayon,PLAN_ERROR,تخطيط غير منطقي,90,96
+OVR-00449,2027-01-31,Centre,APL,APL-0131-02,D. Tsegaye,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,94,102
+OVR-00450,2027-01-31,Centre,APL,APL-0131-03,M. Ohayon,OTHER,ראה הודעה בקבוצה,68,71
+OVR-00451,2027-01-31,Centre,APL,APL-0131-04,D. Tsegaye,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,69,66
+OVR-00452,2027-01-31,Centre,APL,APL-0131-05,G. Rosen,PLAN_ERROR,تخطيط غير منطقي,90,92
+OVR-00453,2027-01-31,South,ASH,ASH-0131-01,R. Haj-Yahia,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,75,88
+OVR-00454,2027-01-31,South,ASH,ASH-0131-03,V. Petrov,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",74,80
+OVR-00455,2027-01-31,South,ASH,ASH-0131-04,V. Petrov,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,61,77
+OVR-00456,2027-01-31,South,ASH,ASH-0131-05,R. Haj-Yahia,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",65,69
+OVR-00457,2027-01-31,South,ASH,ASH-0131-06,R. Haj-Yahia,SECURITY_RESTRICTION,Маршрут через закрытую зону,74,99
+OVR-00458,2027-01-31,South,BSV,BSV-0131-01,A. Elbaz,,,126,125
+OVR-00459,2027-01-31,South,BSV,BSV-0131-05,V. Petrov,,,94,96
+OVR-00460,2027-01-31,South,BSV,BSV-0131-07,R. Haj-Yahia,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,108,144
+OVR-00461,2027-01-31,South,NTV,NTV-0131-01,R. Haj-Yahia,ROAD_CLOSED,መንገዱ ተዘግቷል,107,143
+OVR-00462,2027-01-31,South,NTV,NTV-0131-03,V. Petrov,ROAD_CLOSED,מסלול דרך כביש 232 סגור,121,142
+OVR-00463,2027-02-01,North,HFA,HFA-0201-01,S. Levi,TRAFFIC,פקק בכניסה לנמל,50,55
+OVR-00464,2027-02-01,North,HFA,HFA-0201-04,Y. Nassar,TRAFFIC,Traffic at port gate 3,50,54
+OVR-00465,2027-02-01,North,KRM,KRM-0201-02,Y. Nassar,ROAD_CLOSED,መንገዱ ተዘግቷል,107,142
+OVR-00466,2027-02-01,North,KRM,KRM-0201-06,Y. Nassar,DRIVER_HOURS,Превышение часов водителя,106,103
+OVR-00467,2027-02-01,Centre,MOD,MOD-0201-01,M. Ohayon,CUSTOMER_WINDOW,Customer receives until 10:00 only,69,77
+OVR-00468,2027-02-01,Centre,MOD,MOD-0201-03,G. Rosen,CUSTOMER_WINDOW,Customer receives until 10:00 only,74,73
+OVR-00469,2027-02-01,Centre,MOD,MOD-0201-05,M. Ohayon,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,78,77
+OVR-00470,2027-02-01,Centre,APL,APL-0201-02,M. Ohayon,PLAN_ERROR,تخطيط غير منطقي,92,91
+OVR-00471,2027-02-01,Centre,APL,APL-0201-03,M. Ohayon,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,79,76
+OVR-00472,2027-02-01,Centre,PTK,PTK-0201-02,G. Rosen,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,55,57
+OVR-00473,2027-02-01,South,ASH,ASH-0201-02,A. Elbaz,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",76,81
+OVR-00474,2027-02-01,South,ASH,ASH-0201-03,A. Elbaz,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,75,95
+OVR-00475,2027-02-01,South,ASH,ASH-0201-06,A. Elbaz,ROAD_CLOSED,מסלול דרך כביש 232 סגור,55,72
+OVR-00476,2027-02-01,South,ASH,ASH-0201-09,R. Haj-Yahia,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,68,87
+OVR-00477,2027-02-01,South,ASH,ASH-0201-12,V. Petrov,ROAD_CLOSED,"Дорога закрыта, объезд через 90",72,91
+OVR-00478,2027-02-01,South,ASH,ASH-0201-14,V. Petrov,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,60,69
+OVR-00479,2027-02-01,South,NTV,NTV-0201-01,V. Petrov,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,127,148
+OVR-00480,2027-02-01,South,NTV,NTV-0201-08,R. Haj-Yahia,ROAD_CLOSED,מסלול דרך כביש 232 סגור,133,179
+OVR-00481,2027-02-02,North,HFA,HFA-0202-02,F. Khatib,DRIVER_HOURS,Превышение часов водителя,51,49
+OVR-00482,2027-02-02,North,HFA,HFA-0202-04,S. Levi,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,57,59
+OVR-00483,2027-02-02,North,HFA,HFA-0202-07,S. Levi,ROAD_CLOSED,"Дорога закрыта, объезд через 90",50,61
+OVR-00484,2027-02-02,North,KRM,KRM-0202-02,F. Khatib,ROAD_CLOSED,מסלול דרך כביש 232 סגור,83,108
+OVR-00485,2027-02-02,North,KRM,KRM-0202-04,S. Levi,TRAFFIC,פקק בכניסה לנמל,95,105
+OVR-00486,2027-02-02,North,KRM,KRM-0202-05,F. Khatib,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,102,113
+OVR-00487,2027-02-02,North,KSH,KSH-0202-02,Y. Nassar,SECURITY_RESTRICTION,Маршрут через закрытую зону,152,192
+OVR-00488,2027-02-02,Centre,MOD,MOD-0202-01,M. Ohayon,TRAFFIC,עומס בצומת גולני,72,71
+OVR-00489,2027-02-02,Centre,MOD,MOD-0202-02,M. Ohayon,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,75,74
+OVR-00490,2027-02-02,Centre,MOD,MOD-0202-03,M. Ohayon,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,70,68
+OVR-00491,2027-02-02,Centre,APL,APL-0202-02,M. Ohayon,PLAN_ERROR,تخطيط غير منطقي,84,87
+OVR-00492,2027-02-02,Centre,APL,APL-0202-06,M. Ohayon,CUSTOMER_WINDOW,Клиент принимает только до 10:00,75,77
+OVR-00493,2027-02-02,Centre,PTK,PTK-0202-01,D. Tsegaye,PLAN_ERROR,تخطيط غير منطقي,56,58
+OVR-00494,2027-02-02,Centre,PTK,PTK-0202-03,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",57,60
+OVR-00495,2027-02-02,South,ASH,ASH-0202-01,A. Elbaz,ROAD_CLOSED,መንገዱ ተዘግቷል,65,75
+OVR-00496,2027-02-02,South,BSV,BSV-0202-02,A. Elbaz,CUSTOMER_WINDOW,Customer receives until 10:00 only,117,129
+OVR-00497,2027-02-02,South,BSV,BSV-0202-03,A. Elbaz,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,116,128
+OVR-00498,2027-02-02,South,BSV,BSV-0202-04,A. Elbaz,ROAD_CLOSED,מסלול דרך כביש 232 סגור,104,118
+OVR-00499,2027-02-02,South,BSV,BSV-0202-05,R. Haj-Yahia,DRIVER_REFUSED,السائق رفض المسار,101,113
+OVR-00500,2027-02-02,South,BSV,BSV-0202-06,A. Elbaz,ROAD_CLOSED,"Road closed, detour via Rt 85",112,123
+OVR-00501,2027-02-02,South,NTV,NTV-0202-02,R. Haj-Yahia,PLAN_ERROR,تخطيط غير منطقي,126,140
+OVR-00502,2027-02-02,South,NTV,NTV-0202-04,A. Elbaz,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,128,163
+OVR-00503,2027-02-03,North,HFA,HFA-0203-01,Y. Nassar,ROAD_CLOSED,"Road closed, detour via Rt 85",58,63
+OVR-00504,2027-02-03,North,HFA,HFA-0203-04,Y. Nassar,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,50,54
+OVR-00505,2027-02-03,North,KRM,KRM-0203-03,Y. Nassar,,n/a,92,90
+OVR-00506,2027-02-03,North,KRM,KRM-0203-04,F. Khatib,DRIVER_HOURS,Plan exceeds driver hours,87,85
+OVR-00507,2027-02-03,North,KSH,KSH-0203-03,S. Levi,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,122,138
+OVR-00508,2027-02-03,North,KSH,KSH-0203-04,F. Khatib,SECURITY_RESTRICTION,Маршрут через закрытую зону,120,150
+OVR-00509,2027-02-03,Centre,MOD,MOD-0203-03,D. Tsegaye,CUSTOMER_WINDOW,Customer receives until 10:00 only,76,73
+OVR-00510,2027-02-03,Centre,APL,APL-0203-01,G. Rosen,,ראה הודעה בקבוצה,91,89
+OVR-00511,2027-02-03,Centre,APL,APL-0203-02,G. Rosen,TRAFFIC,Traffic at port gate 3,78,77
+OVR-00512,2027-02-03,Centre,APL,APL-0203-03,G. Rosen,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,70,77
+OVR-00513,2027-02-03,Centre,PTK,PTK-0203-01,M. Ohayon,DRIVER_HOURS,Plan exceeds driver hours,61,65
+OVR-00514,2027-02-03,Centre,PTK,PTK-0203-02,D. Tsegaye,PLAN_ERROR,Plan sends truck back and forth,61,63
+OVR-00515,2027-02-03,Centre,PTK,PTK-0203-03,M. Ohayon,TRAFFIC,עומס בצומת גולני,54,52
+OVR-00516,2027-02-03,Centre,PTK,PTK-0203-04,D. Tsegaye,DRIVER_HOURS,Превышение часов водителя,50,52
+OVR-00517,2027-02-03,Centre,PTK,PTK-0203-05,M. Ohayon,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,57,63
+OVR-00518,2027-02-03,Centre,PTK,PTK-0203-06,D. Tsegaye,OTHER,,50,52
+OVR-00519,2027-02-03,South,ASH,ASH-0203-01,A. Elbaz,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,66,78
+OVR-00520,2027-02-03,South,ASH,ASH-0203-03,A. Elbaz,DRIVER_REFUSED,נהג סירב לנסוע במסלול,72,73
+OVR-00521,2027-02-03,South,ASH,ASH-0203-05,V. Petrov,DRIVER_REFUSED,السائق رفض المسار,59,66
+OVR-00522,2027-02-03,South,ASH,ASH-0203-06,R. Haj-Yahia,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,55,60
+OVR-00523,2027-02-03,South,BSV,BSV-0203-02,A. Elbaz,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",98,97
+OVR-00524,2027-02-03,South,BSV,BSV-0203-03,R. Haj-Yahia,SECURITY_RESTRICTION,Маршрут через закрытую зону,119,140
+OVR-00525,2027-02-03,South,NTV,NTV-0203-02,A. Elbaz,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",152,153
+OVR-00526,2027-02-03,South,NTV,NTV-0203-03,V. Petrov,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,134,146
+OVR-00527,2027-02-03,South,NTV,NTV-0203-04,V. Petrov,DRIVER_REFUSED,السائق رفض المسار,130,140
+OVR-00528,2027-02-03,South,NTV,NTV-0203-05,R. Haj-Yahia,ROAD_CLOSED,"Дорога закрыта, объезд через 90",144,176
+OVR-00529,2027-02-04,Centre,MOD,MOD-0204-02,M. Ohayon,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,79,83
+OVR-00530,2027-02-04,Centre,APL,APL-0204-01,D. Tsegaye,TRAFFIC,עומס בצומת גולני,67,72
+OVR-00531,2027-02-04,Centre,APL,APL-0204-02,G. Rosen,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,84,84
+OVR-00532,2027-02-04,Centre,APL,APL-0204-06,D. Tsegaye,TRAFFIC,פקק בכניסה לנמל,93,99
+OVR-00533,2027-02-04,Centre,PTK,PTK-0204-03,M. Ohayon,CUSTOMER_WINDOW,Клиент принимает только до 10:00,69,66
+OVR-00534,2027-02-04,South,ASH,ASH-0204-03,R. Haj-Yahia,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,62,68
+OVR-00535,2027-02-04,South,ASH,ASH-0204-04,A. Elbaz,ROAD_CLOSED,"Дорога закрыта, объезд через 90",74,95
+OVR-00536,2027-02-04,South,ASH,ASH-0204-06,R. Haj-Yahia,DRIVER_REFUSED,נהג סירב לנסוע במסלול,61,61
+OVR-00537,2027-02-04,South,ASH,ASH-0204-07,A. Elbaz,SECURITY_RESTRICTION,"Military zone, no entry for trucks",72,95
+OVR-00538,2027-02-04,South,ASH,ASH-0204-08,V. Petrov,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,54,59
+OVR-00539,2027-02-04,South,ASH,ASH-0204-10,R. Haj-Yahia,SECURITY_RESTRICTION,Маршрут через закрытую зону,58,74
+OVR-00540,2027-02-04,South,BSV,BSV-0204-01,R. Haj-Yahia,OTHER,,118,118
+OVR-00541,2027-02-04,South,BSV,BSV-0204-02,A. Elbaz,ROAD_CLOSED,"Road closed, detour via Rt 85",91,117
+OVR-00542,2027-02-04,South,BSV,BSV-0204-04,A. Elbaz,DRIVER_REFUSED,נהג סירב לנסוע במסלול,114,127
+OVR-00543,2027-02-04,South,NTV,NTV-0204-05,V. Petrov,DRIVER_REFUSED,נהג סירב לנסוע במסלול,119,131
+OVR-00544,2027-02-04,South,NTV,NTV-0204-08,A. Elbaz,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",138,140
+OVR-00545,2027-02-07,North,HFA,HFA-0207-02,F. Khatib,OTHER,,64,62
+OVR-00546,2027-02-07,Centre,MOD,MOD-0207-01,M. Ohayon,OTHER,ראה הודעה בקבוצה,72,72
+OVR-00547,2027-02-07,Centre,APL,APL-0207-01,G. Rosen,CUSTOMER_WINDOW,Клиент принимает только до 10:00,95,100
+OVR-00548,2027-02-07,Centre,APL,APL-0207-02,D. Tsegaye,CUSTOMER_WINDOW,Клиент принимает только до 10:00,77,85
+OVR-00549,2027-02-07,Centre,APL,APL-0207-05,D. Tsegaye,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",89,87
+OVR-00550,2027-02-07,Centre,APL,APL-0207-06,M. Ohayon,DRIVER_HOURS,Plan exceeds driver hours,72,70
+OVR-00551,2027-02-07,Centre,PTK,PTK-0207-01,D. Tsegaye,CUSTOMER_WINDOW,Клиент принимает только до 10:00,49,55
+OVR-00552,2027-02-07,Centre,PTK,PTK-0207-03,M. Ohayon,TRAFFIC,פקק בכניסה לנמל,51,51
+OVR-00553,2027-02-07,South,ASH,ASH-0207-01,V. Petrov,PLAN_ERROR,Plan sends truck back and forth,63,70
+OVR-00554,2027-02-07,South,ASH,ASH-0207-02,R. Haj-Yahia,PLAN_ERROR,Plan sends truck back and forth,76,74
+OVR-00555,2027-02-07,South,ASH,ASH-0207-05,A. Elbaz,OTHER,ראה הודעה בקבוצה,68,71
+OVR-00556,2027-02-07,South,BSV,BSV-0207-01,R. Haj-Yahia,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,128,151
+OVR-00557,2027-02-07,South,BSV,BSV-0207-04,R. Haj-Yahia,SECURITY_RESTRICTION,Маршрут через закрытую зону,101,120
+OVR-00558,2027-02-07,South,BSV,BSV-0207-07,A. Elbaz,ROAD_CLOSED,מסלול דרך כביש 232 סגור,100,124
+OVR-00559,2027-02-08,North,KRM,KRM-0208-01,Y. Nassar,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,100,112
+OVR-00560,2027-02-08,North,KRM,KRM-0208-02,S. Levi,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,81,86
+OVR-00561,2027-02-08,North,KSH,KSH-0208-04,F. Khatib,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,144,178
+OVR-00562,2027-02-08,Centre,MOD,MOD-0208-02,M. Ohayon,TRAFFIC,פקק בכניסה לנמל,65,63
+OVR-00563,2027-02-08,Centre,MOD,MOD-0208-03,G. Rosen,,ראה הודעה בקבוצה,56,60
+OVR-00564,2027-02-08,Centre,APL,APL-0208-02,D. Tsegaye,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",83,88
+OVR-00565,2027-02-08,Centre,APL,APL-0208-03,M. Ohayon,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,82,78
+OVR-00566,2027-02-08,Centre,APL,APL-0208-05,D. Tsegaye,CUSTOMER_WINDOW,Customer receives until 10:00 only,68,66
+OVR-00567,2027-02-08,Centre,PTK,PTK-0208-03,M. Ohayon,CUSTOMER_WINDOW,Customer receives until 10:00 only,54,60
+OVR-00568,2027-02-08,South,ASH,ASH-0208-02,A. Elbaz,DRIVER_REFUSED,נהג סירב לנסוע במסלול,71,71
+OVR-00569,2027-02-08,South,ASH,ASH-0208-07,A. Elbaz,DRIVER_REFUSED,السائق رفض المسار,59,64
+OVR-00570,2027-02-08,South,ASH,ASH-0208-08,A. Elbaz,SECURITY_RESTRICTION,"Military zone, no entry for trucks",74,89
+OVR-00571,2027-02-08,South,ASH,ASH-0208-09,A. Elbaz,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,62,76
+OVR-00572,2027-02-08,South,BSV,BSV-0208-02,R. Haj-Yahia,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,103,100
+OVR-00573,2027-02-08,South,BSV,BSV-0208-08,V. Petrov,PLAN_ERROR,Plan sends truck back and forth,126,136
+OVR-00574,2027-02-08,South,NTV,NTV-0208-02,A. Elbaz,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,144,175
+OVR-00575,2027-02-08,South,NTV,NTV-0208-05,R. Haj-Yahia,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,149,157
+OVR-00576,2027-02-09,North,HFA,HFA-0209-02,S. Levi,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,60,63
+OVR-00577,2027-02-09,North,HFA,HFA-0209-03,S. Levi,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,59,75
+OVR-00578,2027-02-09,North,KRM,KRM-0209-02,F. Khatib,CUSTOMER_WINDOW,Клиент принимает только до 10:00,101,107
+OVR-00579,2027-02-09,North,KRM,KRM-0209-05,S. Levi,TRAFFIC,עומס בצומת גולני,85,88
+OVR-00580,2027-02-09,North,KSH,KSH-0209-03,S. Levi,ROAD_CLOSED,"Road closed, detour via Rt 85",130,147
+OVR-00581,2027-02-09,North,KSH,KSH-0209-04,S. Levi,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,135,162
+OVR-00582,2027-02-09,Centre,MOD,MOD-0209-02,G. Rosen,DRIVER_HOURS,Превышение часов водителя,65,69
+OVR-00583,2027-02-09,Centre,MOD,MOD-0209-03,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",64,70
+OVR-00584,2027-02-09,Centre,MOD,MOD-0209-04,D. Tsegaye,TRAFFIC,פקק בכניסה לנמל,76,78
+OVR-00585,2027-02-09,Centre,APL,APL-0209-04,D. Tsegaye,CUSTOMER_WINDOW,Клиент принимает только до 10:00,85,90
+OVR-00586,2027-02-09,Centre,APL,APL-0209-06,G. Rosen,DRIVER_HOURS,Превышение часов водителя,84,91
+OVR-00587,2027-02-09,South,ASH,ASH-0209-04,R. Haj-Yahia,SECURITY_RESTRICTION,"Military zone, no entry for trucks",68,88
+OVR-00588,2027-02-09,South,ASH,ASH-0209-05,R. Haj-Yahia,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",55,54
+OVR-00589,2027-02-09,South,ASH,ASH-0209-07,V. Petrov,PLAN_ERROR,تخطيط غير منطقي,63,64
+OVR-00590,2027-02-09,South,ASH,ASH-0209-08,V. Petrov,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",71,89
+OVR-00591,2027-02-09,South,BSV,BSV-0209-02,V. Petrov,ROAD_CLOSED,מסלול דרך כביש 232 סגור,129,150
+OVR-00592,2027-02-09,South,BSV,BSV-0209-07,V. Petrov,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",111,113
+OVR-00593,2027-02-09,South,NTV,NTV-0209-04,V. Petrov,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,127,150
+OVR-00594,2027-02-09,South,NTV,NTV-0209-06,A. Elbaz,CUSTOMER_WINDOW,Customer receives until 10:00 only,125,125
+OVR-00595,2027-02-10,North,HFA,HFA-0210-02,F. Khatib,ROAD_CLOSED,מסלול דרך כביש 232 סגור,62,73
+OVR-00596,2027-02-10,North,KRM,KRM-0210-02,Y. Nassar,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,104,103
+OVR-00597,2027-02-10,North,KRM,KRM-0210-04,S. Levi,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,89,102
+OVR-00598,2027-02-10,North,KRM,KRM-0210-06,S. Levi,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",85,92
+OVR-00599,2027-02-10,North,KSH,KSH-0210-01,F. Khatib,,n/a,140,140
+OVR-00600,2027-02-10,North,KSH,KSH-0210-04,F. Khatib,OTHER,,123,124
+OVR-00601,2027-02-10,North,KSH,KSH-0210-06,F. Khatib,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",142,184
+OVR-00602,2027-02-10,Centre,MOD,MOD-0210-03,G. Rosen,OTHER,n/a,71,78
+OVR-00603,2027-02-10,Centre,MOD,MOD-0210-07,M. Ohayon,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,71,74
+OVR-00604,2027-02-10,Centre,MOD,MOD-0210-08,G. Rosen,,,73,72
+OVR-00605,2027-02-10,Centre,APL,APL-0210-03,D. Tsegaye,DRIVER_HOURS,Превышение часов водителя,89,96
+OVR-00606,2027-02-10,Centre,PTK,PTK-0210-03,D. Tsegaye,CUSTOMER_WINDOW,Клиент принимает только до 10:00,52,57
+OVR-00607,2027-02-10,South,ASH,ASH-0210-02,R. Haj-Yahia,OTHER,,54,52
+OVR-00608,2027-02-10,South,ASH,ASH-0210-03,V. Petrov,ROAD_CLOSED,מסלול דרך כביש 232 סגור,54,68
+OVR-00609,2027-02-10,South,ASH,ASH-0210-06,R. Haj-Yahia,OTHER,,62,69
+OVR-00610,2027-02-10,South,ASH,ASH-0210-07,A. Elbaz,,n/a,70,71
+OVR-00611,2027-02-10,South,ASH,ASH-0210-08,R. Haj-Yahia,DRIVER_REFUSED,נהג סירב לנסוע במסלול,72,77
+OVR-00612,2027-02-10,South,ASH,ASH-0210-10,V. Petrov,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,57,63
+OVR-00613,2027-02-10,South,BSV,BSV-0210-01,V. Petrov,DRIVER_REFUSED,السائق رفض المسار,94,93
+OVR-00614,2027-02-10,South,BSV,BSV-0210-04,A. Elbaz,SECURITY_RESTRICTION,Маршрут через закрытую зону,127,150
+OVR-00615,2027-02-10,South,BSV,BSV-0210-05,R. Haj-Yahia,CUSTOMER_WINDOW,Клиент принимает только до 10:00,123,128
+OVR-00616,2027-02-10,South,BSV,BSV-0210-07,V. Petrov,,ראה הודעה בקבוצה,124,121
+OVR-00617,2027-02-10,South,BSV,BSV-0210-08,A. Elbaz,PLAN_ERROR,تخطيط غير منطقي,126,139
+OVR-00618,2027-02-10,South,NTV,NTV-0210-01,A. Elbaz,SECURITY_RESTRICTION,Маршрут через закрытую зону,121,141
+OVR-00619,2027-02-10,South,NTV,NTV-0210-02,R. Haj-Yahia,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,120,152
+OVR-00620,2027-02-10,South,NTV,NTV-0210-03,A. Elbaz,CUSTOMER_WINDOW,Customer receives until 10:00 only,140,134
+OVR-00621,2027-02-10,South,NTV,NTV-0210-05,A. Elbaz,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,127,153
+OVR-00622,2027-02-11,North,KRM,KRM-0211-04,Y. Nassar,ROAD_CLOSED,"Road closed, detour via Rt 85",76,89
+OVR-00623,2027-02-11,North,KSH,KSH-0211-01,F. Khatib,ROAD_CLOSED,መንገዱ ተዘግቷል,160,196
+OVR-00624,2027-02-11,Centre,MOD,MOD-0211-01,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",57,59
+OVR-00625,2027-02-11,Centre,MOD,MOD-0211-04,G. Rosen,CUSTOMER_WINDOW,Customer receives until 10:00 only,66,64
+OVR-00626,2027-02-11,Centre,APL,APL-0211-05,G. Rosen,,ראה הודעה בקבוצה,68,70
+OVR-00627,2027-02-11,Centre,PTK,PTK-0211-01,M. Ohayon,PLAN_ERROR,Plan sends truck back and forth,54,60
+OVR-00628,2027-02-11,Centre,PTK,PTK-0211-03,M. Ohayon,TRAFFIC,פקק בכניסה לנמל,63,64
+OVR-00629,2027-02-11,South,ASH,ASH-0211-04,V. Petrov,DRIVER_REFUSED,נהג סירב לנסוע במסלול,62,68
+OVR-00630,2027-02-11,South,ASH,ASH-0211-05,A. Elbaz,DRIVER_REFUSED,נהג סירב לנסוע במסלול,70,77
+OVR-00631,2027-02-11,South,ASH,ASH-0211-07,R. Haj-Yahia,OTHER,,65,70
+OVR-00632,2027-02-11,South,ASH,ASH-0211-09,V. Petrov,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,56,74
+OVR-00633,2027-02-11,South,ASH,ASH-0211-11,R. Haj-Yahia,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,59,64
+OVR-00634,2027-02-11,South,BSV,BSV-0211-01,A. Elbaz,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",98,101
+OVR-00635,2027-02-11,South,NTV,NTV-0211-02,A. Elbaz,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,128,157
+OVR-00636,2027-02-11,South,NTV,NTV-0211-04,R. Haj-Yahia,PLAN_ERROR,تخطيط غير منطقي,113,118
+OVR-00637,2027-02-14,North,HFA,HFA-0214-02,F. Khatib,ROAD_CLOSED,"Road closed, detour via Rt 85",49,57
+OVR-00638,2027-02-14,North,HFA,HFA-0214-03,Y. Nassar,DRIVER_HOURS,Plan exceeds driver hours,61,59
+OVR-00639,2027-02-14,North,KSH,KSH-0214-04,S. Levi,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,129,144
+OVR-00640,2027-02-14,Centre,MOD,MOD-0214-03,M. Ohayon,CUSTOMER_WINDOW,Клиент принимает только до 10:00,57,55
+OVR-00641,2027-02-14,Centre,APL,APL-0214-01,G. Rosen,CUSTOMER_WINDOW,Customer receives until 10:00 only,71,68
+OVR-00642,2027-02-14,Centre,APL,APL-0214-02,G. Rosen,TRAFFIC,פקק בכניסה לנמל,92,96
+OVR-00643,2027-02-14,Centre,APL,APL-0214-03,D. Tsegaye,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,84,83
+OVR-00644,2027-02-14,Centre,APL,APL-0214-04,M. Ohayon,TRAFFIC,פקק בכניסה לנמל,95,99
+OVR-00645,2027-02-14,Centre,PTK,PTK-0214-01,G. Rosen,PLAN_ERROR,تخطيط غير منطقي,66,71
+OVR-00646,2027-02-14,Centre,PTK,PTK-0214-02,M. Ohayon,OTHER,,56,61
+OVR-00647,2027-02-14,Centre,PTK,PTK-0214-03,G. Rosen,TRAFFIC,עומס בצומת גולני,50,54
+OVR-00648,2027-02-14,South,ASH,ASH-0214-04,V. Petrov,ROAD_CLOSED,መንገዱ ተዘግቷል,56,66
+OVR-00649,2027-02-14,South,ASH,ASH-0214-07,R. Haj-Yahia,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,57,56
+OVR-00650,2027-02-14,South,BSV,BSV-0214-01,A. Elbaz,DRIVER_REFUSED,נהג סירב לנסוע במסלול,104,108
+OVR-00651,2027-02-14,South,BSV,BSV-0214-02,A. Elbaz,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,127,137
+OVR-00652,2027-02-14,South,BSV,BSV-0214-03,V. Petrov,DRIVER_REFUSED,السائق رفض المسار,99,102
+OVR-00653,2027-02-14,South,NTV,NTV-0214-01,A. Elbaz,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",123,129
+OVR-00654,2027-02-14,South,NTV,NTV-0214-03,A. Elbaz,ROAD_CLOSED,መንገዱ ተዘግቷል,139,174
+OVR-00655,2027-02-14,South,NTV,NTV-0214-04,A. Elbaz,CUSTOMER_WINDOW,Customer receives until 10:00 only,114,109
+OVR-00656,2027-02-15,North,HFA,HFA-0215-01,S. Levi,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,60,71
+OVR-00657,2027-02-15,North,KRM,KRM-0215-03,S. Levi,ROAD_CLOSED,מסלול דרך כביש 232 סגור,104,113
+OVR-00658,2027-02-15,North,KSH,KSH-0215-02,Y. Nassar,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,128,124
+OVR-00659,2027-02-15,North,KSH,KSH-0215-05,Y. Nassar,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,162,187
+OVR-00660,2027-02-15,Centre,MOD,MOD-0215-02,M. Ohayon,CUSTOMER_WINDOW,Клиент принимает только до 10:00,72,69
+OVR-00661,2027-02-15,Centre,MOD,MOD-0215-04,G. Rosen,CUSTOMER_WINDOW,Клиент принимает только до 10:00,63,64
+OVR-00662,2027-02-15,Centre,MOD,MOD-0215-09,M. Ohayon,TRAFFIC,עומס בצומת גולני,80,76
+OVR-00663,2027-02-15,Centre,APL,APL-0215-03,D. Tsegaye,DRIVER_HOURS,Превышение часов водителя,70,73
+OVR-00664,2027-02-15,Centre,APL,APL-0215-04,D. Tsegaye,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",86,84
+OVR-00665,2027-02-15,Centre,PTK,PTK-0215-01,D. Tsegaye,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,58,59
+OVR-00666,2027-02-15,Centre,PTK,PTK-0215-02,D. Tsegaye,CUSTOMER_WINDOW,Customer receives until 10:00 only,62,62
+OVR-00667,2027-02-15,Centre,PTK,PTK-0215-03,G. Rosen,,ראה הודעה בקבוצה,56,60
+OVR-00668,2027-02-15,South,ASH,ASH-0215-01,A. Elbaz,PLAN_ERROR,Plan sends truck back and forth,76,84
+OVR-00669,2027-02-15,South,ASH,ASH-0215-02,A. Elbaz,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,70,89
+OVR-00670,2027-02-15,South,ASH,ASH-0215-05,V. Petrov,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,60,75
+OVR-00671,2027-02-15,South,ASH,ASH-0215-06,R. Haj-Yahia,ROAD_CLOSED,"Дорога закрыта, объезд через 90",67,87
+OVR-00672,2027-02-15,South,BSV,BSV-0215-01,R. Haj-Yahia,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,109,139
+OVR-00673,2027-02-15,South,BSV,BSV-0215-02,V. Petrov,PLAN_ERROR,Plan sends truck back and forth,119,120
+OVR-00674,2027-02-15,South,NTV,NTV-0215-01,A. Elbaz,SECURITY_RESTRICTION,Маршрут через закрытую зону,145,177
+OVR-00675,2027-02-16,North,HFA,HFA-0216-01,F. Khatib,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,53,50
+OVR-00676,2027-02-16,North,KSH,KSH-0216-01,S. Levi,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,160,184
+OVR-00677,2027-02-16,North,KSH,KSH-0216-05,F. Khatib,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",166,204
+OVR-00678,2027-02-16,Centre,MOD,MOD-0216-01,G. Rosen,TRAFFIC,פקק בכניסה לנמל,69,67
+OVR-00679,2027-02-16,Centre,MOD,MOD-0216-02,M. Ohayon,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,75,71
+OVR-00680,2027-02-16,Centre,MOD,MOD-0216-05,G. Rosen,OTHER,ראה הודעה בקבוצה,65,68
+OVR-00681,2027-02-16,Centre,MOD,MOD-0216-08,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",69,68
+OVR-00682,2027-02-16,Centre,APL,APL-0216-02,G. Rosen,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,90,92
+OVR-00683,2027-02-16,Centre,APL,APL-0216-03,M. Ohayon,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,95,93
+OVR-00684,2027-02-16,Centre,PTK,PTK-0216-02,M. Ohayon,TRAFFIC,פקק בכניסה לנמל,63,62
+OVR-00685,2027-02-16,South,ASH,ASH-0216-07,A. Elbaz,ROAD_CLOSED,"Дорога закрыта, объезд через 90",56,66
+OVR-00686,2027-02-16,South,ASH,ASH-0216-08,A. Elbaz,ROAD_CLOSED,"Road closed, detour via Rt 85",67,87
+OVR-00687,2027-02-16,South,BSV,BSV-0216-02,R. Haj-Yahia,CUSTOMER_WINDOW,Customer receives until 10:00 only,97,102
+OVR-00688,2027-02-16,South,BSV,BSV-0216-04,A. Elbaz,DRIVER_REFUSED,נהג סירב לנסוע במסלול,104,112
+OVR-00689,2027-02-16,South,NTV,NTV-0216-01,R. Haj-Yahia,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",125,124
+OVR-00690,2027-02-17,North,HFA,HFA-0217-01,Y. Nassar,CUSTOMER_WINDOW,Клиент принимает только до 10:00,52,51
+OVR-00691,2027-02-17,North,KSH,KSH-0217-02,F. Khatib,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,164,209
+OVR-00692,2027-02-17,North,KSH,KSH-0217-03,F. Khatib,ROAD_CLOSED,"Road closed, detour via Rt 85",138,173
+OVR-00693,2027-02-17,North,KSH,KSH-0217-05,S. Levi,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,124,142
+OVR-00694,2027-02-17,Centre,MOD,MOD-0217-04,M. Ohayon,TRAFFIC,Traffic at port gate 3,77,83
+OVR-00695,2027-02-17,Centre,MOD,MOD-0217-05,D. Tsegaye,TRAFFIC,Traffic at port gate 3,74,76
+OVR-00696,2027-02-17,Centre,MOD,MOD-0217-07,M. Ohayon,PLAN_ERROR,تخطيط غير منطقي,60,57
+OVR-00697,2027-02-17,Centre,MOD,MOD-0217-09,G. Rosen,CUSTOMER_WINDOW,Customer receives until 10:00 only,59,65
+OVR-00698,2027-02-17,Centre,APL,APL-0217-03,M. Ohayon,OTHER,n/a,76,72
+OVR-00699,2027-02-17,Centre,PTK,PTK-0217-02,M. Ohayon,,n/a,67,65
+OVR-00700,2027-02-17,South,ASH,ASH-0217-02,R. Haj-Yahia,ROAD_CLOSED,"Дорога закрыта, объезд через 90",61,80
+OVR-00701,2027-02-17,South,ASH,ASH-0217-04,V. Petrov,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,59,78
+OVR-00702,2027-02-17,South,BSV,BSV-0217-01,A. Elbaz,DRIVER_REFUSED,السائق رفض المسار,103,99
+OVR-00703,2027-02-17,South,BSV,BSV-0217-03,V. Petrov,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,119,150
+OVR-00704,2027-02-17,South,NTV,NTV-0217-05,V. Petrov,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,131,176
+OVR-00705,2027-02-18,North,HFA,HFA-0218-01,S. Levi,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",65,75
+OVR-00706,2027-02-18,North,HFA,HFA-0218-04,F. Khatib,TRAFFIC,פקק בכניסה לנמל,51,56
+OVR-00707,2027-02-18,North,KRM,KRM-0218-01,F. Khatib,ROAD_CLOSED,מסלול דרך כביש 232 סגור,103,113
+OVR-00708,2027-02-18,North,KSH,KSH-0218-01,Y. Nassar,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,147,183
+OVR-00709,2027-02-18,North,KSH,KSH-0218-02,F. Khatib,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",129,166
+OVR-00710,2027-02-18,Centre,MOD,MOD-0218-01,D. Tsegaye,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,57,56
+OVR-00711,2027-02-18,Centre,MOD,MOD-0218-02,G. Rosen,TRAFFIC,Traffic at port gate 3,61,58
+OVR-00712,2027-02-18,Centre,MOD,MOD-0218-03,M. Ohayon,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,70,74
+OVR-00713,2027-02-18,Centre,MOD,MOD-0218-05,M. Ohayon,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,63,63
+OVR-00714,2027-02-18,Centre,MOD,MOD-0218-08,M. Ohayon,TRAFFIC,Traffic at port gate 3,65,69
+OVR-00715,2027-02-18,Centre,APL,APL-0218-06,G. Rosen,DRIVER_HOURS,Plan exceeds driver hours,81,77
+OVR-00716,2027-02-18,South,ASH,ASH-0218-03,R. Haj-Yahia,DRIVER_REFUSED,נהג סירב לנסוע במסלול,58,58
+OVR-00717,2027-02-18,South,ASH,ASH-0218-04,A. Elbaz,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,58,70
+OVR-00718,2027-02-18,South,ASH,ASH-0218-05,R. Haj-Yahia,PLAN_ERROR,Plan sends truck back and forth,68,74
+OVR-00719,2027-02-18,South,ASH,ASH-0218-07,A. Elbaz,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,66,64
+OVR-00720,2027-02-18,South,ASH,ASH-0218-09,V. Petrov,,ראה הודעה בקבוצה,56,60
+OVR-00721,2027-02-18,South,BSV,BSV-0218-01,R. Haj-Yahia,DRIVER_REFUSED,السائق رفض المسار,98,99
+OVR-00722,2027-02-18,South,BSV,BSV-0218-03,A. Elbaz,DRIVER_REFUSED,נהג סירב לנסוע במסלול,110,108
+OVR-00723,2027-02-18,South,BSV,BSV-0218-04,R. Haj-Yahia,DRIVER_REFUSED,السائق رفض المسار,130,145
+OVR-00724,2027-02-18,South,NTV,NTV-0218-01,R. Haj-Yahia,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",117,129
+OVR-00725,2027-02-21,North,HFA,HFA-0221-01,S. Levi,DRIVER_HOURS,Превышение часов водителя,55,54
+OVR-00726,2027-02-21,North,KSH,KSH-0221-01,Y. Nassar,,,164,170
+OVR-00727,2027-02-21,North,KSH,KSH-0221-02,F. Khatib,ROAD_CLOSED,"Road closed, detour via Rt 85",124,146
+OVR-00728,2027-02-21,North,KSH,KSH-0221-03,F. Khatib,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,161,206
+OVR-00729,2027-02-21,North,KSH,KSH-0221-04,F. Khatib,ROAD_CLOSED,"Road closed, detour via Rt 85",148,182
+OVR-00730,2027-02-21,Centre,MOD,MOD-0221-04,G. Rosen,TRAFFIC,עומס בצומת גולני,80,88
+OVR-00731,2027-02-21,Centre,MOD,MOD-0221-05,G. Rosen,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,61,62
+OVR-00732,2027-02-21,Centre,MOD,MOD-0221-06,D. Tsegaye,TRAFFIC,פקק בכניסה לנמל,79,77
+OVR-00733,2027-02-21,Centre,MOD,MOD-0221-08,M. Ohayon,TRAFFIC,עומס בצומת גולני,57,61
+OVR-00734,2027-02-21,Centre,APL,APL-0221-03,M. Ohayon,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,93,89
+OVR-00735,2027-02-21,Centre,PTK,PTK-0221-03,G. Rosen,TRAFFIC,פקק בכניסה לנמל,53,51
+OVR-00736,2027-02-21,South,ASH,ASH-0221-04,R. Haj-Yahia,,,55,59
+OVR-00737,2027-02-21,South,BSV,BSV-0221-01,R. Haj-Yahia,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,131,146
+OVR-00738,2027-02-21,South,BSV,BSV-0221-02,A. Elbaz,DRIVER_REFUSED,נהג סירב לנסוע במסלול,128,143
+OVR-00739,2027-02-21,South,NTV,NTV-0221-03,R. Haj-Yahia,CUSTOMER_WINDOW,Клиент принимает только до 10:00,148,151
+OVR-00740,2027-02-22,North,KRM,KRM-0222-02,S. Levi,ROAD_CLOSED,מסלול דרך כביש 232 סגור,84,96
+OVR-00741,2027-02-22,North,KRM,KRM-0222-04,S. Levi,CUSTOMER_WINDOW,Customer receives until 10:00 only,98,98
+OVR-00742,2027-02-22,North,KRM,KRM-0222-05,F. Khatib,TRAFFIC,עומס בצומת גולני,98,103
+OVR-00743,2027-02-22,North,KRM,KRM-0222-06,S. Levi,TRAFFIC,עומס בצומת גולני,108,117
+OVR-00744,2027-02-22,North,KSH,KSH-0222-01,Y. Nassar,CUSTOMER_WINDOW,Клиент принимает только до 10:00,136,133
+OVR-00745,2027-02-22,North,KSH,KSH-0222-02,F. Khatib,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,136,151
+OVR-00746,2027-02-22,Centre,MOD,MOD-0222-02,M. Ohayon,,ראה הודעה בקבוצה,67,70
+OVR-00747,2027-02-22,Centre,MOD,MOD-0222-03,G. Rosen,TRAFFIC,פקק בכניסה לנמל,68,67
+OVR-00748,2027-02-22,Centre,MOD,MOD-0222-06,G. Rosen,,ראה הודעה בקבוצה,70,71
+OVR-00749,2027-02-22,Centre,APL,APL-0222-03,G. Rosen,CUSTOMER_WINDOW,Customer receives until 10:00 only,79,88
+OVR-00750,2027-02-22,Centre,APL,APL-0222-06,M. Ohayon,TRAFFIC,פקק בכניסה לנמל,82,90
+OVR-00751,2027-02-22,Centre,PTK,PTK-0222-02,D. Tsegaye,PLAN_ERROR,تخطيط غير منطقي,66,69
+OVR-00752,2027-02-22,Centre,PTK,PTK-0222-03,D. Tsegaye,OTHER,,56,58
+OVR-00753,2027-02-22,South,ASH,ASH-0222-01,R. Haj-Yahia,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",53,56
+OVR-00754,2027-02-22,South,ASH,ASH-0222-03,R. Haj-Yahia,SECURITY_RESTRICTION,"Military zone, no entry for trucks",53,58
+OVR-00755,2027-02-22,South,ASH,ASH-0222-04,R. Haj-Yahia,ROAD_CLOSED,መንገዱ ተዘግቷል,61,66
+OVR-00756,2027-02-22,South,ASH,ASH-0222-08,A. Elbaz,DRIVER_REFUSED,נהג סירב לנסוע במסלול,65,72
+OVR-00757,2027-02-22,South,ASH,ASH-0222-09,R. Haj-Yahia,ROAD_CLOSED,"Road closed, detour via Rt 85",67,72
+OVR-00758,2027-02-22,South,BSV,BSV-0222-01,R. Haj-Yahia,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,125,162
+OVR-00759,2027-02-22,South,BSV,BSV-0222-04,V. Petrov,DRIVER_REFUSED,נהג סירב לנסוע במסלול,94,100
+OVR-00760,2027-02-22,South,BSV,BSV-0222-05,R. Haj-Yahia,SECURITY_RESTRICTION,"Military zone, no entry for trucks",102,131
+OVR-00761,2027-02-22,South,NTV,NTV-0222-02,R. Haj-Yahia,ROAD_CLOSED,"Дорога закрыта, объезд через 90",123,149
+OVR-00762,2027-02-23,North,HFA,HFA-0223-02,F. Khatib,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,56,55
+OVR-00763,2027-02-23,North,HFA,HFA-0223-03,F. Khatib,CUSTOMER_WINDOW,Customer receives until 10:00 only,62,68
+OVR-00764,2027-02-23,North,HFA,HFA-0223-04,S. Levi,CUSTOMER_WINDOW,Клиент принимает только до 10:00,51,51
+OVR-00765,2027-02-23,Centre,MOD,MOD-0223-01,M. Ohayon,TRAFFIC,פקק בכניסה לנמל,73,81
+OVR-00766,2027-02-23,Centre,MOD,MOD-0223-04,G. Rosen,OTHER,,64,62
+OVR-00767,2027-02-23,Centre,MOD,MOD-0223-05,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",57,55
+OVR-00768,2027-02-23,Centre,MOD,MOD-0223-06,G. Rosen,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,81,90
+OVR-00769,2027-02-23,Centre,MOD,MOD-0223-08,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",67,72
+OVR-00770,2027-02-23,South,ASH,ASH-0223-02,R. Haj-Yahia,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,72,86
+OVR-00771,2027-02-23,South,ASH,ASH-0223-04,R. Haj-Yahia,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",72,73
+OVR-00772,2027-02-23,South,ASH,ASH-0223-05,V. Petrov,DRIVER_REFUSED,נהג סירב לנסוע במסלול,72,73
+OVR-00773,2027-02-23,South,ASH,ASH-0223-07,A. Elbaz,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",54,60
+OVR-00774,2027-02-23,South,BSV,BSV-0223-01,A. Elbaz,DRIVER_REFUSED,נהג סירב לנסוע במסלול,126,136
+OVR-00775,2027-02-23,South,NTV,NTV-0223-02,R. Haj-Yahia,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,149,191
+OVR-00776,2027-02-24,North,HFA,HFA-0224-02,Y. Nassar,ROAD_CLOSED,መንገዱ ተዘግቷል,63,70
+OVR-00777,2027-02-24,North,HFA,HFA-0224-03,F. Khatib,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",51,57
+OVR-00778,2027-02-24,Centre,MOD,MOD-0224-01,M. Ohayon,CUSTOMER_WINDOW,Клиент принимает только до 10:00,69,72
+OVR-00779,2027-02-24,Centre,APL,APL-0224-01,G. Rosen,CUSTOMER_WINDOW,Customer receives until 10:00 only,78,83
+OVR-00780,2027-02-24,Centre,APL,APL-0224-05,D. Tsegaye,DRIVER_HOURS,Plan exceeds driver hours,89,95
+OVR-00781,2027-02-24,Centre,PTK,PTK-0224-01,D. Tsegaye,DRIVER_HOURS,Plan exceeds driver hours,57,61
+OVR-00782,2027-02-24,Centre,PTK,PTK-0224-02,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",68,68
+OVR-00783,2027-02-24,Centre,PTK,PTK-0224-03,M. Ohayon,TRAFFIC,פקק בכניסה לנמל,53,55
+OVR-00784,2027-02-24,Centre,PTK,PTK-0224-05,G. Rosen,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,61,68
+OVR-00785,2027-02-24,South,ASH,ASH-0224-01,R. Haj-Yahia,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,55,60
+OVR-00786,2027-02-24,South,ASH,ASH-0224-02,A. Elbaz,DRIVER_REFUSED,السائق رفض المسار,72,73
+OVR-00787,2027-02-24,South,ASH,ASH-0224-03,A. Elbaz,ROAD_CLOSED,"Road closed, detour via Rt 85",61,74
+OVR-00788,2027-02-24,South,ASH,ASH-0224-04,V. Petrov,SECURITY_RESTRICTION,"Military zone, no entry for trucks",70,94
+OVR-00789,2027-02-24,South,ASH,ASH-0224-05,A. Elbaz,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,75,98
+OVR-00790,2027-02-24,South,ASH,ASH-0224-06,A. Elbaz,PLAN_ERROR,Plan sends truck back and forth,67,69
+OVR-00791,2027-02-24,South,NTV,NTV-0224-02,V. Petrov,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,137,180
+OVR-00792,2027-02-24,South,NTV,NTV-0224-03,R. Haj-Yahia,OTHER,ראה הודעה בקבוצה,146,155
+OVR-00793,2027-02-25,North,KSH,KSH-0225-01,F. Khatib,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,142,175
+OVR-00794,2027-02-25,Centre,MOD,MOD-0225-02,M. Ohayon,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,57,59
+OVR-00795,2027-02-25,Centre,MOD,MOD-0225-03,G. Rosen,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,62,68
+OVR-00796,2027-02-25,Centre,MOD,MOD-0225-04,G. Rosen,PLAN_ERROR,تخطيط غير منطقي,71,69
+OVR-00797,2027-02-25,Centre,APL,APL-0225-01,M. Ohayon,TRAFFIC,פקק בכניסה לנמל,90,95
+OVR-00798,2027-02-25,Centre,PTK,PTK-0225-01,G. Rosen,TRAFFIC,פקק בכניסה לנמל,64,68
+OVR-00799,2027-02-28,North,KRM,KRM-0228-02,Y. Nassar,CUSTOMER_WINDOW,Клиент принимает только до 10:00,89,87
+OVR-00800,2027-02-28,Centre,MOD,MOD-0228-03,M. Ohayon,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",77,83
+OVR-00801,2027-02-28,Centre,APL,APL-0228-02,G. Rosen,,,76,72
+OVR-00802,2027-02-28,Centre,APL,APL-0228-03,M. Ohayon,PLAN_ERROR,تخطيط غير منطقي,73,70
+OVR-00803,2027-02-28,Centre,PTK,PTK-0228-04,G. Rosen,TRAFFIC,עומס בצומת גולני,67,68
+OVR-00804,2027-03-01,Centre,MOD,MOD-0301-01,G. Rosen,,n/a,67,69
+OVR-00805,2027-03-01,Centre,MOD,MOD-0301-03,M. Ohayon,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,78,87
+OVR-00806,2027-03-01,Centre,MOD,MOD-0301-05,G. Rosen,PLAN_ERROR,Plan sends truck back and forth,64,62
+OVR-00807,2027-03-01,Centre,APL,APL-0301-01,M. Ohayon,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,84,87
+OVR-00808,2027-03-01,Centre,APL,APL-0301-03,D. Tsegaye,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,85,82
+OVR-00809,2027-03-01,Centre,APL,APL-0301-06,M. Ohayon,TRAFFIC,פקק בכניסה לנמל,94,91
+OVR-00810,2027-03-01,Centre,PTK,PTK-0301-02,G. Rosen,CUSTOMER_WINDOW,Клиент принимает только до 10:00,50,55
+OVR-00811,2027-03-02,North,HFA,HFA-0302-02,S. Levi,OTHER,n/a,59,66
+OVR-00812,2027-03-02,North,KRM,KRM-0302-02,Y. Nassar,ROAD_CLOSED,מסלול דרך כביש 232 סגור,86,115
+OVR-00813,2027-03-02,North,KRM,KRM-0302-04,F. Khatib,TRAFFIC,עומס בצומת גולני,83,86
+OVR-00814,2027-03-02,North,KSH,KSH-0302-03,S. Levi,ROAD_CLOSED,מסלול דרך כביש 232 סגור,126,170
+OVR-00815,2027-03-02,Centre,MOD,MOD-0302-05,D. Tsegaye,OTHER,,65,70
+OVR-00816,2027-03-02,Centre,MOD,MOD-0302-09,G. Rosen,OTHER,,68,68
+OVR-00817,2027-03-02,Centre,MOD,MOD-0302-10,G. Rosen,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,59,63
+OVR-00818,2027-03-02,Centre,APL,APL-0302-03,M. Ohayon,DRIVER_HOURS,Превышение часов водителя,67,65
+OVR-00819,2027-03-02,Centre,PTK,PTK-0302-01,D. Tsegaye,PLAN_ERROR,Plan sends truck back and forth,53,52
+OVR-00820,2027-03-02,Centre,PTK,PTK-0302-02,D. Tsegaye,CUSTOMER_WINDOW,Клиент принимает только до 10:00,63,65
+OVR-00821,2027-03-03,North,HFA,HFA-0303-02,S. Levi,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,54,64
+OVR-00822,2027-03-03,North,HFA,HFA-0303-03,Y. Nassar,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",52,65
+OVR-00823,2027-03-03,North,KRM,KRM-0303-02,Y. Nassar,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,104,100
+OVR-00824,2027-03-03,North,KRM,KRM-0303-04,S. Levi,ROAD_CLOSED,מסלול דרך כביש 232 סגור,99,107
+OVR-00825,2027-03-03,North,KSH,KSH-0303-01,S. Levi,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,146,159
+OVR-00826,2027-03-03,North,KSH,KSH-0303-02,S. Levi,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",165,217
+OVR-00827,2027-03-03,Centre,MOD,MOD-0303-03,D. Tsegaye,TRAFFIC,Traffic at port gate 3,70,69
+OVR-00828,2027-03-03,Centre,MOD,MOD-0303-05,D. Tsegaye,,ראה הודעה בקבוצה,71,76
+OVR-00829,2027-03-03,Centre,APL,APL-0303-02,D. Tsegaye,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,77,74
+OVR-00830,2027-03-03,Centre,APL,APL-0303-03,D. Tsegaye,DRIVER_HOURS,Превышение часов водителя,94,90
+OVR-00831,2027-03-03,Centre,PTK,PTK-0303-04,M. Ohayon,PLAN_ERROR,Plan sends truck back and forth,57,58
+OVR-00832,2027-03-04,North,HFA,HFA-0304-03,Y. Nassar,CUSTOMER_WINDOW,Клиент принимает только до 10:00,66,71
+OVR-00833,2027-03-04,North,HFA,HFA-0304-04,Y. Nassar,CUSTOMER_WINDOW,Customer receives until 10:00 only,54,55
+OVR-00834,2027-03-04,North,HFA,HFA-0304-06,S. Levi,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,62,64
+OVR-00835,2027-03-04,North,HFA,HFA-0304-07,S. Levi,DRIVER_HOURS,Превышение часов водителя,61,61
+OVR-00836,2027-03-04,North,KRM,KRM-0304-01,F. Khatib,TRAFFIC,עומס בצומת גולני,85,83
+OVR-00837,2027-03-04,North,KRM,KRM-0304-04,F. Khatib,TRAFFIC,Traffic at port gate 3,100,105
+OVR-00838,2027-03-04,North,KSH,KSH-0304-02,F. Khatib,CUSTOMER_WINDOW,Customer receives until 10:00 only,163,156
+OVR-00839,2027-03-04,North,KSH,KSH-0304-03,Y. Nassar,ROAD_CLOSED,"Дорога закрыта, объезд через 90",140,182
+OVR-00840,2027-03-04,Centre,MOD,MOD-0304-03,M. Ohayon,PLAN_ERROR,Plan sends truck back and forth,78,82
+OVR-00841,2027-03-04,Centre,MOD,MOD-0304-04,D. Tsegaye,CUSTOMER_WINDOW,Customer receives until 10:00 only,61,67
+OVR-00842,2027-03-04,Centre,MOD,MOD-0304-05,D. Tsegaye,OTHER,ראה הודעה בקבוצה,61,67
+OVR-00843,2027-03-04,Centre,MOD,MOD-0304-06,G. Rosen,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,78,76
+OVR-00844,2027-03-04,Centre,PTK,PTK-0304-02,M. Ohayon,TRAFFIC,עומס בצומת גולני,65,65
+OVR-00845,2027-03-04,Centre,PTK,PTK-0304-03,G. Rosen,TRAFFIC,פקק בכניסה לנמל,65,72
+OVR-00846,2027-03-07,North,HFA,HFA-0307-01,Y. Nassar,TRAFFIC,Traffic at port gate 3,61,59
+OVR-00847,2027-03-07,North,KRM,KRM-0307-01,F. Khatib,CUSTOMER_WINDOW,Клиент принимает только до 10:00,96,103
+OVR-00848,2027-03-07,North,KSH,KSH-0307-04,F. Khatib,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,142,184
+OVR-00849,2027-03-07,Centre,MOD,MOD-0307-02,D. Tsegaye,CUSTOMER_WINDOW,Customer receives until 10:00 only,66,64
+OVR-00850,2027-03-07,Centre,MOD,MOD-0307-04,M. Ohayon,TRAFFIC,Traffic at port gate 3,77,84
+OVR-00851,2027-03-07,Centre,MOD,MOD-0307-05,M. Ohayon,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,77,85
+OVR-00852,2027-03-07,Centre,MOD,MOD-0307-06,D. Tsegaye,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",57,55
+OVR-00853,2027-03-07,Centre,PTK,PTK-0307-01,G. Rosen,TRAFFIC,עומס בצומת גולני,51,55
+OVR-00854,2027-03-07,Centre,PTK,PTK-0307-03,D. Tsegaye,DRIVER_HOURS,Plan exceeds driver hours,60,65
+OVR-00855,2027-03-07,Centre,PTK,PTK-0307-04,D. Tsegaye,CUSTOMER_WINDOW,Клиент принимает только до 10:00,61,68
+OVR-00856,2027-03-07,Centre,PTK,PTK-0307-05,M. Ohayon,,n/a,58,64
+OVR-00857,2027-03-07,Centre,PTK,PTK-0307-06,M. Ohayon,DRIVER_HOURS,Превышение часов водителя,50,56
+OVR-00858,2027-03-08,North,HFA,HFA-0308-02,Y. Nassar,OTHER,,64,71
+OVR-00859,2027-03-08,North,HFA,HFA-0308-03,Y. Nassar,DRIVER_HOURS,Превышение часов водителя,65,67
+OVR-00860,2027-03-08,North,KRM,KRM-0308-01,Y. Nassar,ROAD_CLOSED,"Road closed, detour via Rt 85",91,102
+OVR-00861,2027-03-08,North,KSH,KSH-0308-02,S. Levi,CUSTOMER_WINDOW,Customer receives until 10:00 only,139,139
+OVR-00862,2027-03-08,North,KSH,KSH-0308-04,Y. Nassar,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,137,162
+OVR-00863,2027-03-08,Centre,MOD,MOD-0308-02,G. Rosen,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,80,81
+OVR-00864,2027-03-08,Centre,MOD,MOD-0308-03,G. Rosen,PLAN_ERROR,تخطيط غير منطقي,67,72
+OVR-00865,2027-03-08,Centre,MOD,MOD-0308-06,G. Rosen,,n/a,77,78
+OVR-00866,2027-03-08,Centre,APL,APL-0308-01,M. Ohayon,PLAN_ERROR,Plan sends truck back and forth,70,76
+OVR-00867,2027-03-08,Centre,APL,APL-0308-06,G. Rosen,CUSTOMER_WINDOW,Клиент принимает только до 10:00,69,67
+OVR-00868,2027-03-08,Centre,APL,APL-0308-07,M. Ohayon,PLAN_ERROR,Plan sends truck back and forth,88,84
+OVR-00869,2027-03-08,Centre,APL,APL-0308-08,G. Rosen,TRAFFIC,עומס בצומת גולני,71,79
+OVR-00870,2027-03-08,Centre,PTK,PTK-0308-01,M. Ohayon,PLAN_ERROR,تخطيط غير منطقي,57,57
+OVR-00871,2027-03-08,Centre,PTK,PTK-0308-03,M. Ohayon,TRAFFIC,עומס בצומת גולני,49,50
+OVR-00872,2027-03-09,North,KSH,KSH-0309-03,S. Levi,SECURITY_RESTRICTION,"Military zone, no entry for trucks",140,177
+OVR-00873,2027-03-09,Centre,APL,APL-0309-01,M. Ohayon,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,81,89
+OVR-00874,2027-03-09,Centre,PTK,PTK-0309-01,G. Rosen,TRAFFIC,פקק בכניסה לנמל,70,72
+OVR-00875,2027-03-09,Centre,PTK,PTK-0309-02,G. Rosen,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,59,60
+OVR-00876,2027-03-09,Centre,PTK,PTK-0309-04,D. Tsegaye,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,60,59
+OVR-00877,2027-03-10,North,KRM,KRM-0310-02,Y. Nassar,CUSTOMER_WINDOW,Customer receives until 10:00 only,103,106
+OVR-00878,2027-03-10,North,KRM,KRM-0310-06,Y. Nassar,CUSTOMER_WINDOW,Клиент принимает только до 10:00,92,96
+OVR-00879,2027-03-10,North,KSH,KSH-0310-01,Y. Nassar,ROAD_CLOSED,"Дорога закрыта, объезд через 90",117,153
+OVR-00880,2027-03-10,North,KSH,KSH-0310-02,F. Khatib,ROAD_CLOSED,"Road closed, detour via Rt 85",142,175
+OVR-00881,2027-03-10,North,KSH,KSH-0310-03,Y. Nassar,ROAD_CLOSED,"Road closed, detour via Rt 85",128,151
+OVR-00882,2027-03-10,Centre,MOD,MOD-0310-03,D. Tsegaye,CUSTOMER_WINDOW,Клиент принимает только до 10:00,74,82
+OVR-00883,2027-03-10,Centre,APL,APL-0310-01,G. Rosen,OTHER,ראה הודעה בקבוצה,74,71
+OVR-00884,2027-03-10,Centre,APL,APL-0310-05,G. Rosen,TRAFFIC,פקק בכניסה לנמל,83,87
+OVR-00885,2027-03-10,Centre,APL,APL-0310-07,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",76,82
+OVR-00886,2027-03-10,Centre,PTK,PTK-0310-02,G. Rosen,OTHER,,62,61
+OVR-00887,2027-03-10,Centre,PTK,PTK-0310-04,M. Ohayon,PLAN_ERROR,تخطيط غير منطقي,58,62
+OVR-00888,2027-03-11,North,KSH,KSH-0311-02,Y. Nassar,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,139,163
+OVR-00889,2027-03-11,Centre,MOD,MOD-0311-01,G. Rosen,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,74,80
+OVR-00890,2027-03-11,Centre,MOD,MOD-0311-02,G. Rosen,CUSTOMER_WINDOW,Клиент принимает только до 10:00,78,79
+OVR-00891,2027-03-11,Centre,MOD,MOD-0311-04,G. Rosen,PLAN_ERROR,"המסלול לא הגיוני, תחנה כפולה",72,70
+OVR-00892,2027-03-11,Centre,MOD,MOD-0311-05,D. Tsegaye,TRAFFIC,פקק בכניסה לנמל,75,73
+OVR-00893,2027-03-11,Centre,MOD,MOD-0311-06,M. Ohayon,TRAFFIC,Traffic at port gate 3,79,80
+OVR-00894,2027-03-11,Centre,APL,APL-0311-02,G. Rosen,DRIVER_HOURS,Превышение часов водителя,77,81
+OVR-00895,2027-03-11,Centre,APL,APL-0311-04,M. Ohayon,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,76,82
+OVR-00896,2027-03-11,Centre,APL,APL-0311-06,D. Tsegaye,OTHER,n/a,66,63
+OVR-00897,2027-03-11,Centre,APL,APL-0311-07,G. Rosen,CUSTOMER_WINDOW,Клиент принимает только до 10:00,67,65
+OVR-00898,2027-03-14,North,KRM,KRM-0314-01,Y. Nassar,TRAFFIC,Traffic at port gate 3,105,108
+OVR-00899,2027-03-14,North,KRM,KRM-0314-02,S. Levi,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,88,89
+OVR-00900,2027-03-14,North,KSH,KSH-0314-01,F. Khatib,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,135,174
+OVR-00901,2027-03-14,North,KSH,KSH-0314-05,S. Levi,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,156,205
+OVR-00902,2027-03-15,North,KRM,KRM-0315-01,F. Khatib,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",83,103
+OVR-00903,2027-03-15,North,KRM,KRM-0315-02,Y. Nassar,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,104,127
+OVR-00904,2027-03-15,North,KSH,KSH-0315-03,S. Levi,,n/a,155,159
+OVR-00905,2027-03-16,North,HFA,HFA-0316-01,F. Khatib,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,48,59
+OVR-00906,2027-03-16,North,KRM,KRM-0316-01,F. Khatib,CUSTOMER_WINDOW,Customer receives until 10:00 only,105,114
+OVR-00907,2027-03-16,North,KSH,KSH-0316-01,Y. Nassar,ROAD_CLOSED,መንገዱ ተዘግቷል,124,160
+OVR-00908,2027-03-16,North,KSH,KSH-0316-03,F. Khatib,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,123,156
+OVR-00909,2027-03-17,North,HFA,HFA-0317-01,S. Levi,TRAFFIC,Traffic at port gate 3,66,73
+OVR-00910,2027-03-17,North,HFA,HFA-0317-03,F. Khatib,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,69,77
+OVR-00911,2027-03-17,North,KRM,KRM-0317-03,F. Khatib,TRAFFIC,פקק בכניסה לנמל,91,93
+OVR-00912,2027-03-17,North,KSH,KSH-0317-04,F. Khatib,ROAD_CLOSED,מסלול דרך כביש 232 סגור,136,151
+OVR-00913,2027-03-18,North,KSH,KSH-0318-01,Y. Nassar,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",128,157
+OVR-00914,2027-03-18,North,KSH,KSH-0318-02,Y. Nassar,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,160,171
+OVR-00915,2027-03-18,North,KSH,KSH-0318-03,S. Levi,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,136,181
+OVR-00916,2027-03-21,North,KRM,KRM-0321-01,Y. Nassar,,n/a,90,91
+OVR-00917,2027-03-21,North,KSH,KSH-0321-02,S. Levi,CUSTOMER_WINDOW,Клиент принимает только до 10:00,150,162
+OVR-00918,2027-03-22,North,HFA,HFA-0322-01,F. Khatib,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,49,56
+OVR-00919,2027-03-22,North,HFA,HFA-0322-03,S. Levi,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,65,84
+OVR-00920,2027-03-22,North,KRM,KRM-0322-01,F. Khatib,TRAFFIC,עומס בצומת גולני,87,93
+OVR-00921,2027-03-22,North,KRM,KRM-0322-02,F. Khatib,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,104,116
+OVR-00922,2027-03-22,North,KSH,KSH-0322-02,S. Levi,ROAD_CLOSED,"Road closed, detour via Rt 85",123,157
+OVR-00923,2027-03-22,North,KSH,KSH-0322-04,Y. Nassar,ROAD_CLOSED,"Дорога закрыта, объезд через 90",147,191
+OVR-00924,2027-03-23,North,HFA,HFA-0323-01,S. Levi,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,68,69
+OVR-00925,2027-03-23,North,KRM,KRM-0323-01,S. Levi,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,103,103
+OVR-00926,2027-03-23,North,KRM,KRM-0323-05,S. Levi,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,106,106
+OVR-00927,2027-03-23,North,KRM,KRM-0323-06,Y. Nassar,OTHER,,101,105
+OVR-00928,2027-03-23,North,KSH,KSH-0323-01,Y. Nassar,ROAD_CLOSED,"Дорога закрыта, объезд через 90",147,193
+OVR-00929,2027-03-24,North,HFA,HFA-0324-01,F. Khatib,TRAFFIC,פקק בכניסה לנמל,63,69
+OVR-00930,2027-03-24,North,KSH,KSH-0324-02,S. Levi,SECURITY_RESTRICTION,Маршрут через закрытую зону,123,154
+OVR-00931,2027-03-25,North,HFA,HFA-0325-03,Y. Nassar,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,66,72
+OVR-00932,2027-03-25,North,HFA,HFA-0325-04,F. Khatib,CUSTOMER_WINDOW,Customer receives until 10:00 only,55,59
+OVR-00933,2027-03-25,North,KRM,KRM-0325-02,Y. Nassar,CUSTOMER_WINDOW,Клиент принимает только до 10:00,107,116
+OVR-00934,2027-03-25,North,KRM,KRM-0325-03,S. Levi,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,103,108
+OVR-00935,2027-03-25,North,KRM,KRM-0325-04,Y. Nassar,TRAFFIC,Traffic at port gate 3,96,102
+OVR-00936,2027-03-25,North,KRM,KRM-0325-06,S. Levi,TRAFFIC,Traffic at port gate 3,95,98
+OVR-00937,2027-03-25,North,KSH,KSH-0325-01,S. Levi,OTHER,,124,127
+OVR-00938,2027-03-25,North,KSH,KSH-0325-02,F. Khatib,SECURITY_RESTRICTION,Маршрут через закрытую зону,148,196
+OVR-00939,2027-03-25,North,KSH,KSH-0325-04,S. Levi,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,132,170
+OVR-00940,2027-03-25,North,KSH,KSH-0325-05,S. Levi,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",146,190
+OVR-00941,2027-03-28,North,KRM,KRM-0328-03,S. Levi,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,102,125
+OVR-00942,2027-03-28,North,KSH,KSH-0328-03,Y. Nassar,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,146,141
+OVR-00943,2027-03-29,North,HFA,HFA-0329-01,F. Khatib,,ראה הודעה בקבוצה,49,51
+OVR-00944,2027-03-29,North,HFA,HFA-0329-02,F. Khatib,DRIVER_HOURS,Plan exceeds driver hours,63,61
+OVR-00945,2027-03-29,North,HFA,HFA-0329-03,Y. Nassar,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",50,67
+OVR-00946,2027-03-29,North,KRM,KRM-0329-03,F. Khatib,ROAD_CLOSED,መንገዱ ተዘግቷል,105,123
+OVR-00947,2027-03-29,North,KRM,KRM-0329-05,F. Khatib,CUSTOMER_WINDOW,Customer receives until 10:00 only,85,92
+OVR-00948,2027-03-29,North,KSH,KSH-0329-04,F. Khatib,,,162,157
+OVR-00949,2027-03-30,North,HFA,HFA-0330-01,Y. Nassar,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,66,80
+OVR-00950,2027-03-30,North,KRM,KRM-0330-01,Y. Nassar,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",87,106
+OVR-00951,2027-03-30,North,KRM,KRM-0330-02,Y. Nassar,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,109,113
+OVR-00952,2027-03-30,North,KRM,KRM-0330-03,Y. Nassar,TRAFFIC,עומס בצומת גולני,89,100
+OVR-00953,2027-03-30,North,KSH,KSH-0330-01,F. Khatib,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,132,145
+OVR-00954,2027-03-30,North,KSH,KSH-0330-06,S. Levi,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,151,170
+OVR-00955,2027-03-31,North,HFA,HFA-0331-01,F. Khatib,ROAD_CLOSED,מסלול דרך כביש 232 סגור,63,73
+OVR-00956,2027-03-31,North,HFA,HFA-0331-02,S. Levi,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,60,63
+OVR-00957,2027-03-31,North,KSH,KSH-0331-01,S. Levi,ROAD_CLOSED,"Дорога закрыта, объезд через 90",137,169
+OVR-00958,2027-03-31,North,KSH,KSH-0331-03,Y. Nassar,CUSTOMER_WINDOW,Клиент принимает только до 10:00,134,149
+OVR-00959,2027-03-31,North,KSH,KSH-0331-05,Y. Nassar,ROAD_CLOSED,"Дорога закрыта, объезд через 90",138,163
+OVR-00960,2027-03-31,North,KSH,KSH-0331-07,F. Khatib,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",119,129
+OVR-00961,2027-04-01,North,KRM,KRM-0401-02,F. Khatib,ROAD_CLOSED,מסלול דרך כביש 232 סגור,83,101
+OVR-00962,2027-04-01,North,KRM,KRM-0401-03,S. Levi,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,80,86
+OVR-00963,2027-04-04,North,HFA,HFA-0404-02,F. Khatib,CUSTOMER_WINDOW,Клиент принимает только до 10:00,64,66
+OVR-00964,2027-04-04,North,KRM,KRM-0404-02,Y. Nassar,TRAFFIC,עומס בצומת גולני,92,91
+OVR-00965,2027-04-04,North,KSH,KSH-0404-02,S. Levi,SECURITY_RESTRICTION,"Military zone, no entry for trucks",127,165
+OVR-00966,2027-04-04,North,KSH,KSH-0404-04,Y. Nassar,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,138,177
+OVR-00967,2027-04-05,North,HFA,HFA-0405-01,S. Levi,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,66,80
+OVR-00968,2027-04-05,North,HFA,HFA-0405-02,S. Levi,OTHER,,53,53
+OVR-00969,2027-04-05,North,KRM,KRM-0405-02,Y. Nassar,CUSTOMER_WINDOW,Customer receives until 10:00 only,81,87
+OVR-00970,2027-04-06,North,HFA,HFA-0406-03,Y. Nassar,TRAFFIC,עומס בצומת גולני,63,67
+OVR-00971,2027-04-06,North,KRM,KRM-0406-01,S. Levi,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,78,102
+OVR-00972,2027-04-06,North,KRM,KRM-0406-02,Y. Nassar,DRIVER_HOURS,Plan exceeds driver hours,78,75
+OVR-00973,2027-04-06,North,KRM,KRM-0406-04,Y. Nassar,TRAFFIC,Traffic at port gate 3,92,90
+OVR-00974,2027-04-06,North,KRM,KRM-0406-05,Y. Nassar,CUSTOMER_WINDOW,Customer receives until 10:00 only,88,93
+OVR-00975,2027-04-07,North,HFA,HFA-0407-01,Y. Nassar,CUSTOMER_WINDOW,Customer receives until 10:00 only,59,59
+OVR-00976,2027-04-07,North,KRM,KRM-0407-01,F. Khatib,ROAD_CLOSED,"Дорога закрыта, объезд через 90",82,95
+OVR-00977,2027-04-07,North,KRM,KRM-0407-03,F. Khatib,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,98,97
+OVR-00978,2027-04-07,North,KSH,KSH-0407-01,S. Levi,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,143,157
+OVR-00979,2027-04-07,North,KSH,KSH-0407-03,Y. Nassar,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,143,161
+OVR-00980,2027-04-08,North,HFA,HFA-0408-04,S. Levi,OTHER,n/a,65,65
+OVR-00981,2027-04-08,North,KRM,KRM-0408-01,Y. Nassar,TRAFFIC,עומס בצומת גולני,101,109
+OVR-00982,2027-04-08,North,KRM,KRM-0408-03,S. Levi,OTHER,ראה הודעה בקבוצה,107,106
+OVR-00983,2027-04-08,North,KSH,KSH-0408-03,Y. Nassar,OTHER,n/a,167,163
+OVR-00984,2027-04-08,North,KSH,KSH-0408-04,S. Levi,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,131,172
+OVR-00985,2027-04-11,North,HFA,HFA-0411-01,S. Levi,CUSTOMER_WINDOW,Клиент принимает только до 10:00,63,60
+OVR-00986,2027-04-11,North,HFA,HFA-0411-03,S. Levi,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,55,67
+OVR-00987,2027-04-11,North,KSH,KSH-0411-02,Y. Nassar,ROAD_CLOSED,מסלול דרך כביש 232 סגור,149,166
+OVR-00988,2027-04-12,North,HFA,HFA-0412-02,F. Khatib,TRAFFIC,Traffic at port gate 3,51,53
+OVR-00989,2027-04-12,North,HFA,HFA-0412-05,S. Levi,TRAFFIC,פקק בכניסה לנמל,64,64
+OVR-00990,2027-04-12,North,KRM,KRM-0412-01,Y. Nassar,TRAFFIC,פקק בכניסה לנמל,84,84
+OVR-00991,2027-04-12,North,KSH,KSH-0412-01,F. Khatib,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,132,165
+OVR-00992,2027-04-12,North,KSH,KSH-0412-03,S. Levi,CUSTOMER_WINDOW,Клиент принимает только до 10:00,163,170
+OVR-00993,2027-04-13,North,KRM,KRM-0413-01,S. Levi,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",86,94
+OVR-00994,2027-04-13,North,KSH,KSH-0413-02,Y. Nassar,ROAD_CLOSED,"Дорога закрыта, объезд через 90",130,172
+OVR-00995,2027-04-14,North,HFA,HFA-0414-01,Y. Nassar,TRAFFIC,פקק בכניסה לנמל,58,58
+OVR-00996,2027-04-14,North,HFA,HFA-0414-03,Y. Nassar,CUSTOMER_WINDOW,Клиент принимает только до 10:00,57,54
+OVR-00997,2027-04-14,North,KRM,KRM-0414-03,S. Levi,TRAFFIC,עומס בצומת גולני,93,93
+OVR-00998,2027-04-14,North,KRM,KRM-0414-04,F. Khatib,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,87,113
+OVR-00999,2027-04-14,North,KSH,KSH-0414-01,Y. Nassar,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,146,169
+OVR-01000,2027-04-14,North,KSH,KSH-0414-03,S. Levi,SECURITY_RESTRICTION,"Military zone, no entry for trucks",163,207
+OVR-01001,2027-04-15,North,HFA,HFA-0415-04,S. Levi,,ראה הודעה בקבוצה,59,59
+OVR-01002,2027-04-15,North,HFA,HFA-0415-05,S. Levi,DRIVER_HOURS,Превышение часов водителя,52,51
+OVR-01003,2027-04-15,North,KRM,KRM-0415-01,Y. Nassar,TRAFFIC,עומס בצומת גולני,106,111
+OVR-01004,2027-04-15,North,KRM,KRM-0415-02,F. Khatib,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,91,99
+OVR-01005,2027-04-15,North,KSH,KSH-0415-02,S. Levi,SECURITY_RESTRICTION,"Military zone, no entry for trucks",120,162
+OVR-01006,2027-04-18,North,KRM,KRM-0418-02,F. Khatib,CUSTOMER_WINDOW,Customer receives until 10:00 only,102,98
+OVR-01007,2027-04-18,North,KSH,KSH-0418-04,Y. Nassar,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",151,174
+OVR-01008,2027-04-19,North,HFA,HFA-0419-01,S. Levi,CUSTOMER_WINDOW,Customer receives until 10:00 only,65,67
+OVR-01009,2027-04-19,North,KRM,KRM-0419-01,S. Levi,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,85,89
+OVR-01010,2027-04-19,North,KRM,KRM-0419-04,F. Khatib,TRAFFIC,Traffic at port gate 3,109,117
+OVR-01011,2027-04-19,North,KRM,KRM-0419-06,F. Khatib,TRAFFIC,Traffic at port gate 3,104,113
+OVR-01012,2027-04-20,North,HFA,HFA-0420-01,S. Levi,,ראה הודעה בקבוצה,61,68
+OVR-01013,2027-04-20,North,KRM,KRM-0420-03,Y. Nassar,DRIVER_HOURS,Plan exceeds driver hours,95,90
+OVR-01014,2027-04-20,North,KRM,KRM-0420-04,Y. Nassar,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,101,123
+OVR-01015,2027-04-20,North,KRM,KRM-0420-05,S. Levi,ROAD_CLOSED,መንገዱ ተዘግቷል,83,108
+OVR-01016,2027-04-20,North,KRM,KRM-0420-06,F. Khatib,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,85,89
+OVR-01017,2027-04-20,North,KSH,KSH-0420-01,Y. Nassar,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,156,184
+OVR-01018,2027-04-20,North,KSH,KSH-0420-02,S. Levi,CUSTOMER_WINDOW,Клиент принимает только до 10:00,145,143
+OVR-01019,2027-04-21,North,KRM,KRM-0421-05,S. Levi,DRIVER_HOURS,Plan exceeds driver hours,83,90
+OVR-01020,2027-04-21,North,KSH,KSH-0421-03,Y. Nassar,SECURITY_RESTRICTION,Маршрут через закрытую зону,150,177
+OVR-01021,2027-04-22,North,HFA,HFA-0422-01,S. Levi,CUSTOMER_WINDOW,Customer receives until 10:00 only,64,62
+OVR-01022,2027-04-22,North,HFA,HFA-0422-03,S. Levi,TRAFFIC,עומס בצומת גולני,54,53
+OVR-01023,2027-04-22,North,HFA,HFA-0422-05,F. Khatib,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",69,86
+OVR-01024,2027-04-22,North,KRM,KRM-0422-01,F. Khatib,OTHER,n/a,82,86
+OVR-01025,2027-04-22,North,KSH,KSH-0422-04,Y. Nassar,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",153,184
+OVR-01026,2027-04-25,North,HFA,HFA-0425-01,S. Levi,ROAD_CLOSED,מסלול דרך כביש 232 סגור,66,73
+OVR-01027,2027-04-25,North,HFA,HFA-0425-02,S. Levi,TRAFFIC,פקק בכניסה לנמל,51,49
+OVR-01028,2027-04-25,North,KRM,KRM-0425-04,Y. Nassar,TRAFFIC,Traffic at port gate 3,78,85
+OVR-01029,2027-04-25,North,KSH,KSH-0425-01,Y. Nassar,SECURITY_RESTRICTION,Маршрут через закрытую зону,152,205
+OVR-01030,2027-04-25,North,KSH,KSH-0425-02,Y. Nassar,ROAD_CLOSED,"Дорога закрыта, объезд через 90",119,159
+OVR-01031,2027-04-25,North,KSH,KSH-0425-03,F. Khatib,ROAD_CLOSED,"Road closed, detour via Rt 85",122,151
+OVR-01032,2027-04-26,North,HFA,HFA-0426-02,F. Khatib,ROAD_CLOSED,መንገዱ ተዘግቷል,62,80
+OVR-01033,2027-04-26,North,KRM,KRM-0426-01,Y. Nassar,CUSTOMER_WINDOW,Клиент принимает только до 10:00,101,108
+OVR-01034,2027-04-26,North,KRM,KRM-0426-03,Y. Nassar,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,77,85
+OVR-01035,2027-04-26,North,KRM,KRM-0426-04,F. Khatib,DRIVER_HOURS,Превышение часов водителя,105,107
+OVR-01036,2027-04-26,North,KSH,KSH-0426-01,F. Khatib,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,128,170
+OVR-01037,2027-04-26,North,KSH,KSH-0426-02,F. Khatib,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,145,162
+OVR-01038,2027-04-27,North,HFA,HFA-0427-01,Y. Nassar,TRAFFIC,עומס בצומת גולני,51,52
+OVR-01039,2027-04-27,North,KSH,KSH-0427-02,F. Khatib,OTHER,,119,127
+OVR-01040,2027-04-28,North,HFA,HFA-0428-01,S. Levi,TRAFFIC,Traffic at port gate 3,63,60
+OVR-01041,2027-04-28,North,KSH,KSH-0428-03,S. Levi,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,124,139
+OVR-01042,2027-04-28,North,KSH,KSH-0428-05,S. Levi,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,129,158
+OVR-01043,2027-04-29,North,HFA,HFA-0429-01,Y. Nassar,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",52,66
+OVR-01044,2027-04-29,North,KRM,KRM-0429-01,Y. Nassar,TRAFFIC,עומס בצומת גולני,91,99
+OVR-01045,2027-04-29,North,KRM,KRM-0429-02,F. Khatib,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",87,104
+OVR-01046,2027-04-29,North,KRM,KRM-0429-03,F. Khatib,TRAFFIC,עומס בצומת גולני,94,104
+OVR-01047,2027-04-29,North,KRM,KRM-0429-04,F. Khatib,DRIVER_HOURS,Plan exceeds driver hours,91,88
+OVR-01048,2027-04-29,North,KRM,KRM-0429-05,Y. Nassar,ROAD_CLOSED,"Road closed, detour via Rt 85",96,108
+OVR-01049,2027-04-29,North,KRM,KRM-0429-06,F. Khatib,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,98,103
+OVR-01050,2027-04-29,North,KRM,KRM-0429-07,S. Levi,DRIVER_HOURS,Превышение часов водителя,76,75
+OVR-01051,2027-04-29,North,KSH,KSH-0429-01,F. Khatib,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,157,168
+OVR-01052,2027-05-02,North,HFA,HFA-0502-01,F. Khatib,CUSTOMER_WINDOW,Клиент принимает только до 10:00,63,66
+OVR-01053,2027-05-02,North,HFA,HFA-0502-02,Y. Nassar,CUSTOMER_WINDOW,Customer receives until 10:00 only,58,57
+OVR-01054,2027-05-02,North,HFA,HFA-0502-04,F. Khatib,,ראה הודעה בקבוצה,52,58
+OVR-01055,2027-05-02,North,KRM,KRM-0502-01,Y. Nassar,DRIVER_HOURS,Plan exceeds driver hours,101,97
+OVR-01056,2027-05-02,North,KRM,KRM-0502-03,S. Levi,OTHER,,106,114
+OVR-01057,2027-05-02,North,KSH,KSH-0502-01,S. Levi,SECURITY_RESTRICTION,Маршрут через закрытую зону,156,178
+OVR-01058,2027-05-02,North,KSH,KSH-0502-02,S. Levi,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,122,128
+OVR-01059,2027-05-02,North,KSH,KSH-0502-03,F. Khatib,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,124,141
+OVR-01060,2027-05-02,North,KSH,KSH-0502-04,S. Levi,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,130,163
+OVR-01061,2027-05-03,North,HFA,HFA-0503-01,S. Levi,,n/a,56,55
+OVR-01062,2027-05-03,North,HFA,HFA-0503-02,F. Khatib,ROAD_CLOSED,מסלול דרך כביש 232 סגור,68,79
+OVR-01063,2027-05-03,North,HFA,HFA-0503-05,S. Levi,CUSTOMER_WINDOW,Клиент принимает только до 10:00,64,66
+OVR-01064,2027-05-03,North,HFA,HFA-0503-07,Y. Nassar,DRIVER_HOURS,Plan exceeds driver hours,52,56
+OVR-01065,2027-05-03,North,KRM,KRM-0503-01,F. Khatib,OTHER,ראה הודעה בקבוצה,79,77
+OVR-01066,2027-05-03,North,KRM,KRM-0503-03,F. Khatib,TRAFFIC,פקק בכניסה לנמל,78,86
+OVR-01067,2027-05-03,North,KRM,KRM-0503-04,Y. Nassar,CUSTOMER_WINDOW,Customer receives until 10:00 only,76,81
+OVR-01068,2027-05-03,North,KRM,KRM-0503-05,F. Khatib,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,89,93
+OVR-01069,2027-05-03,North,KRM,KRM-0503-07,F. Khatib,TRAFFIC,פקק בכניסה לנמל,83,82
+OVR-01070,2027-05-03,North,KRM,KRM-0503-08,S. Levi,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,107,130
+OVR-01071,2027-05-03,North,KSH,KSH-0503-01,F. Khatib,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,136,176
+OVR-01072,2027-05-04,North,HFA,HFA-0504-02,F. Khatib,TRAFFIC,פקק בכניסה לנמל,54,56
+OVR-01073,2027-05-04,North,KRM,KRM-0504-02,Y. Nassar,ROAD_CLOSED,መንገዱ ተዘግቷል,97,112
+OVR-01074,2027-05-04,North,KSH,KSH-0504-01,S. Levi,OTHER,n/a,139,152
+OVR-01075,2027-05-04,North,KSH,KSH-0504-02,S. Levi,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,162,155
+OVR-01076,2027-05-04,North,KSH,KSH-0504-06,Y. Nassar,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,161,211
+OVR-01077,2027-05-05,North,HFA,HFA-0505-01,Y. Nassar,TRAFFIC,Traffic at port gate 3,60,63
+OVR-01078,2027-05-05,North,HFA,HFA-0505-02,S. Levi,TRAFFIC,פקק בכניסה לנמל,61,60
+OVR-01079,2027-05-05,North,HFA,HFA-0505-04,F. Khatib,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,51,50
+OVR-01080,2027-05-05,North,HFA,HFA-0505-05,F. Khatib,TRAFFIC,פקק בכניסה לנמל,64,65
+OVR-01081,2027-05-05,North,KRM,KRM-0505-03,S. Levi,DRIVER_HOURS,נהג חורג משעות נהיגה לפי התכנון,82,78
+OVR-01082,2027-05-06,North,HFA,HFA-0506-01,Y. Nassar,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,53,54
+OVR-01083,2027-05-06,North,KRM,KRM-0506-02,S. Levi,TRAFFIC,Traffic at port gate 3,93,100
+OVR-01084,2027-05-06,North,KSH,KSH-0506-01,F. Khatib,ROAD_CLOSED,מסלול דרך כביש 232 סגור,167,205
+OVR-01085,2027-05-06,North,KSH,KSH-0506-02,S. Levi,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",133,169
+OVR-01086,2027-05-06,North,KSH,KSH-0506-03,Y. Nassar,ROAD_CLOSED,מסלול דרך כביש 232 סגור,145,160
+OVR-01087,2027-05-06,North,KSH,KSH-0506-04,F. Khatib,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,117,128
+OVR-01088,2027-05-09,North,HFA,HFA-0509-02,F. Khatib,,ראה הודעה בקבוצה,63,68
+OVR-01089,2027-05-09,North,HFA,HFA-0509-03,Y. Nassar,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,61,61
+OVR-01090,2027-05-09,North,KRM,KRM-0509-02,F. Khatib,CUSTOMER_WINDOW,Customer receives until 10:00 only,84,91
+OVR-01091,2027-05-09,North,KSH,KSH-0509-02,S. Levi,SECURITY_RESTRICTION,"Military zone, no entry for trucks",165,198
+OVR-01092,2027-05-10,North,HFA,HFA-0510-01,Y. Nassar,TRAFFIC,עומס בצומת גולני,65,65
+OVR-01093,2027-05-10,North,KSH,KSH-0510-01,F. Khatib,OTHER,n/a,124,136
+OVR-01094,2027-05-10,North,KSH,KSH-0510-02,S. Levi,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,143,165
+OVR-01095,2027-05-11,North,KRM,KRM-0511-02,F. Khatib,CUSTOMER_WINDOW,Customer receives until 10:00 only,100,103
+OVR-01096,2027-05-11,North,KRM,KRM-0511-04,F. Khatib,CUSTOMER_WINDOW,Customer receives until 10:00 only,76,84
+OVR-01097,2027-05-11,North,KRM,KRM-0511-05,Y. Nassar,TRAFFIC,עומס בצומת גולני,93,103
+OVR-01098,2027-05-11,North,KRM,KRM-0511-06,F. Khatib,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,90,90
+OVR-01099,2027-05-11,North,KSH,KSH-0511-01,Y. Nassar,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,152,201
+OVR-01100,2027-05-12,North,HFA,HFA-0512-05,S. Levi,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,64,75
+OVR-01101,2027-05-12,North,KRM,KRM-0512-02,S. Levi,ROAD_CLOSED,"Дорога закрыта, объезд через 90",101,124
+OVR-01102,2027-05-12,North,KSH,KSH-0512-03,S. Levi,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,124,139
+OVR-01103,2027-05-13,North,HFA,HFA-0513-01,S. Levi,OTHER,ראה הודעה בקבוצה,60,61
+OVR-01104,2027-05-13,North,KSH,KSH-0513-02,S. Levi,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,118,141
+OVR-01105,2027-05-13,North,KSH,KSH-0513-03,S. Levi,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,153,202
+OVR-01106,2027-05-16,North,KRM,KRM-0516-01,S. Levi,CUSTOMER_WINDOW,Customer receives until 10:00 only,103,115
+OVR-01107,2027-05-16,North,KRM,KRM-0516-04,F. Khatib,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,94,94
+OVR-01108,2027-05-16,North,KSH,KSH-0516-02,S. Levi,ROAD_CLOSED,"Дорога закрыта, объезд через 90",139,187
+OVR-01109,2027-05-17,North,KSH,KSH-0517-04,S. Levi,ROAD_CLOSED,מסלול דרך כביש 232 סגור,141,157
+OVR-01110,2027-05-18,North,HFA,HFA-0518-02,S. Levi,CUSTOMER_WINDOW,Customer receives until 10:00 only,61,60
+OVR-01111,2027-05-18,North,KSH,KSH-0518-01,Y. Nassar,ROAD_CLOSED,"Road closed, detour via Rt 85",132,160
+OVR-01112,2027-05-18,North,KSH,KSH-0518-03,F. Khatib,OTHER,,150,147
+OVR-01113,2027-05-19,North,HFA,HFA-0519-01,S. Levi,TRAFFIC,עומס בצומת גולני,67,66
+OVR-01114,2027-05-19,North,KRM,KRM-0519-01,S. Levi,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,79,86
+OVR-01115,2027-05-19,North,KRM,KRM-0519-02,Y. Nassar,CUSTOMER_WINDOW,Клиент принимает только до 10:00,101,109
+OVR-01116,2027-05-19,North,KSH,KSH-0519-03,Y. Nassar,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,155,184
+OVR-01117,2027-05-19,North,KSH,KSH-0519-05,Y. Nassar,SECURITY_RESTRICTION,"Military zone, no entry for trucks",122,140
+OVR-01118,2027-05-20,North,HFA,HFA-0520-02,Y. Nassar,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,65,66
+OVR-01119,2027-05-20,North,HFA,HFA-0520-03,S. Levi,CUSTOMER_WINDOW,Customer receives until 10:00 only,68,74
+OVR-01120,2027-05-20,North,KRM,KRM-0520-01,F. Khatib,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,88,85
+OVR-01121,2027-05-20,North,KRM,KRM-0520-02,F. Khatib,TRAFFIC,פקק בכניסה לנמל,100,100
+OVR-01122,2027-05-23,North,HFA,HFA-0523-01,S. Levi,DRIVER_HOURS,Превышение часов водителя,59,58
+OVR-01123,2027-05-23,North,HFA,HFA-0523-03,S. Levi,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,53,69
+OVR-01124,2027-05-23,North,KRM,KRM-0523-01,Y. Nassar,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,107,118
+OVR-01125,2027-05-23,North,KRM,KRM-0523-02,Y. Nassar,ROAD_CLOSED,"Road closed, detour via Rt 85",84,101
+OVR-01126,2027-05-23,North,KSH,KSH-0523-01,Y. Nassar,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,149,178
+OVR-01127,2027-05-23,North,KSH,KSH-0523-03,S. Levi,SECURITY_RESTRICTION,אזור צבאי סגור לפי הנחיה,154,188
+OVR-01128,2027-05-24,North,HFA,HFA-0524-03,S. Levi,ROAD_CLOSED,"Дорога закрыта, объезд через 90",62,83
+OVR-01129,2027-05-24,North,KRM,KRM-0524-01,Y. Nassar,TRAFFIC,Traffic at port gate 3,91,92
+OVR-01130,2027-05-24,North,KSH,KSH-0524-02,Y. Nassar,SECURITY_RESTRICTION,منطقة عسكرية مغلقة,131,162
+OVR-01131,2027-05-25,North,KRM,KRM-0525-02,Y. Nassar,CUSTOMER_WINDOW,Клиент принимает только до 10:00,86,88
+OVR-01132,2027-05-25,North,KRM,KRM-0525-03,S. Levi,TRAFFIC,פקק בכניסה לנמל,86,95
+OVR-01133,2027-05-25,North,KSH,KSH-0525-01,F. Khatib,SECURITY_RESTRICTION,הגבלת תנועה – לא לנסוע אחרי חשכה,130,154
+OVR-01134,2027-05-25,North,KSH,KSH-0525-03,F. Khatib,SECURITY_RESTRICTION,Маршрут через закрытую зону,136,180
+OVR-01135,2027-05-26,North,HFA,HFA-0526-01,S. Levi,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,58,75
+OVR-01136,2027-05-26,North,KRM,KRM-0526-03,Y. Nassar,CUSTOMER_WINDOW,Customer receives until 10:00 only,109,105
+OVR-01137,2027-05-26,North,KRM,KRM-0526-04,F. Khatib,CUSTOMER_WINDOW,Клиент принимает только до 10:00,108,108
+OVR-01138,2027-05-26,North,KSH,KSH-0526-05,Y. Nassar,ROAD_CLOSED,"Дорога закрыта, объезд через 90",162,204
+OVR-01139,2027-05-27,North,HFA,HFA-0527-02,F. Khatib,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,51,50
+OVR-01140,2027-05-27,North,KRM,KRM-0527-01,S. Levi,TRAFFIC,עומס בצומת גולני,108,104
+OVR-01141,2027-05-27,North,KRM,KRM-0527-04,Y. Nassar,DRIVER_HOURS,Plan exceeds driver hours,94,102
+OVR-01142,2027-05-27,North,KRM,KRM-0527-07,F. Khatib,CUSTOMER_WINDOW,Customer receives until 10:00 only,83,83
+OVR-01143,2027-05-30,North,KRM,KRM-0530-02,F. Khatib,ROAD_CLOSED,כביש סגור ליד הגבול – עקיפה,85,104
+OVR-01144,2027-05-30,North,KRM,KRM-0530-03,S. Levi,CUSTOMER_WINDOW,חלון אספקה של הלקוח 07:00-09:00,100,106
+OVR-01145,2027-05-30,North,KSH,KSH-0530-02,S. Levi,,n/a,163,181
+OVR-01146,2027-05-30,North,KSH,KSH-0530-03,S. Levi,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,123,164
+OVR-01147,2027-05-30,North,KSH,KSH-0530-04,F. Khatib,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",138,165
+OVR-01148,2027-05-30,North,KSH,KSH-0530-05,S. Levi,ROAD_CLOSED,"כביש 899 סגור, נסענו דרך 90",133,172
+OVR-01149,2027-05-31,North,HFA,HFA-0531-01,Y. Nassar,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,61,65
+OVR-01150,2027-05-31,North,HFA,HFA-0531-02,F. Khatib,TRAFFIC,Traffic at port gate 3,59,58
+OVR-01151,2027-05-31,North,KRM,KRM-0531-02,F. Khatib,,ראה הודעה בקבוצה,87,96
+OVR-01152,2027-05-31,North,KSH,KSH-0531-01,F. Khatib,CUSTOMER_WINDOW,Клиент принимает только до 10:00,147,144
+OVR-01153,2027-05-31,North,KSH,KSH-0531-02,F. Khatib,OTHER,ראה הודעה בקבוצה,148,150
+OVR-01154,2027-05-31,North,KSH,KSH-0531-04,F. Khatib,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,159,184
+OVR-01155,2027-06-01,North,KSH,KSH-0601-01,S. Levi,ROAD_CLOSED,الطريق مغلق، تحويلة عبر 85,147,165
+OVR-01156,2027-06-01,North,KSH,KSH-0601-02,Y. Nassar,SECURITY_RESTRICTION,Маршрут через закрытую зону,159,200
+OVR-01157,2027-06-01,North,KSH,KSH-0601-03,F. Khatib,ROAD_CLOSED,መንገዱ ተዘግቷል,155,188
+OVR-01158,2027-06-01,North,KSH,KSH-0601-04,S. Levi,ROAD_CLOSED,המערכת שלחה דרך כביש סגור,149,169
+OVR-01159,2027-06-02,North,KRM,KRM-0602-01,S. Levi,TRAFFIC,עומס בצומת גולני,99,98
+OVR-01160,2027-06-02,North,KSH,KSH-0602-01,S. Levi,ROAD_CLOSED,"Road closed, detour via Rt 85",164,197
+OVR-01161,2027-06-02,North,KSH,KSH-0602-02,S. Levi,CUSTOMER_WINDOW,الزبون يستلم فقط في الصباح,157,161
+OVR-01162,2027-06-03,North,KRM,KRM-0603-03,S. Levi,TRAFFIC,פקק בכניסה לנמל,85,95
+OVR-01163,2027-06-03,North,KRM,KRM-0603-06,F. Khatib,DRIVER_HOURS,Plan exceeds driver hours,104,114
+OVR-01164,2027-06-03,North,KSH,KSH-0603-02,Y. Nassar,ROAD_CLOSED,"Дорога закрыта, объезд через 90",119,151
+OVR-01165,2027-06-03,North,KSH,KSH-0603-04,S. Levi,ROAD_CLOSED,"Road closed, detour via Rt 85",129,141
+OVR-01166,2027-06-03,North,KSH,KSH-0603-05,F. Khatib,SECURITY_RESTRICTION,"Military zone, no entry for trucks",144,193

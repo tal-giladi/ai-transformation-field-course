@@ -1,0 +1,127 @@
+week_start,department,host,category,action,requests,upload_kb
+2027-04-04,Customer Service,api.promptway.ai,uncategorised,allowed,2040,19873
+2027-04-04,Customer Service,app.kotev.ai,Sanctioned - AI assistant,allowed,658,3078
+2027-04-04,Customs - Haifa,translate.freedocs.net,Translation,allowed,510,39041
+2027-04-04,Customs - Ashdod,translate.freedocs.net,Translation,allowed,612,42125
+2027-04-04,Customs - Haifa,app.kotev.ai,Sanctioned - AI assistant,allowed,53,321
+2027-04-04,Operations - Centre,chat.promptway.ai,Generative AI - public,blocked,161,0
+2027-04-04,Operations - South,chat.promptway.ai,Generative AI - public,blocked,92,0
+2027-04-04,Sales,app.kotev.ai,Sanctioned - AI assistant,allowed,464,2122
+2027-04-04,Sales,chat.promptway.ai,Generative AI - public,blocked,65,0
+2027-04-04,Finance,app.kotev.ai,Sanctioned - AI assistant,allowed,416,2587
+2027-04-04,HQ,app.kotev.ai,Sanctioned - AI assistant,allowed,553,2994
+2027-04-04,Operations - North,route.tzir.ai,Sanctioned - business application,allowed,2545,956
+2027-04-04,Customs - Ashdod,docs.tzir.ai,Sanctioned - business application,allowed,3548,212827
+2027-04-04,Customs - Haifa,docs.tzir.ai,Sanctioned - business application,allowed,2785,204911
+2027-04-11,Customer Service,api.promptway.ai,uncategorised,allowed,1861,20802
+2027-04-11,Customer Service,app.kotev.ai,Sanctioned - AI assistant,allowed,616,2856
+2027-04-11,Customs - Haifa,translate.freedocs.net,Translation,allowed,522,45382
+2027-04-11,Customs - Ashdod,translate.freedocs.net,Translation,allowed,699,48757
+2027-04-11,Customs - Haifa,app.kotev.ai,Sanctioned - AI assistant,allowed,51,284
+2027-04-11,Operations - Centre,chat.promptway.ai,Generative AI - public,blocked,157,0
+2027-04-11,Operations - South,chat.promptway.ai,Generative AI - public,blocked,83,0
+2027-04-11,Sales,app.kotev.ai,Sanctioned - AI assistant,allowed,466,2146
+2027-04-11,Sales,chat.promptway.ai,Generative AI - public,blocked,79,0
+2027-04-11,Finance,app.kotev.ai,Sanctioned - AI assistant,allowed,340,2686
+2027-04-11,HQ,app.kotev.ai,Sanctioned - AI assistant,allowed,478,3017
+2027-04-11,Operations - North,route.tzir.ai,Sanctioned - business application,allowed,2704,807
+2027-04-11,Customs - Ashdod,docs.tzir.ai,Sanctioned - business application,allowed,3056,235674
+2027-04-11,Customs - Haifa,docs.tzir.ai,Sanctioned - business application,allowed,2763,207652
+2027-04-18,Customer Service,api.promptway.ai,uncategorised,allowed,2032,26810
+2027-04-18,Customer Service,app.kotev.ai,Sanctioned - AI assistant,allowed,660,3407
+2027-04-18,Customs - Haifa,translate.freedocs.net,Translation,allowed,597,45003
+2027-04-18,Customs - Ashdod,translate.freedocs.net,Translation,allowed,563,50702
+2027-04-18,Customs - Haifa,app.kotev.ai,Sanctioned - AI assistant,allowed,52,269
+2027-04-18,Operations - Centre,chat.promptway.ai,Generative AI - public,blocked,153,0
+2027-04-18,Operations - South,chat.promptway.ai,Generative AI - public,blocked,81,0
+2027-04-18,Sales,app.kotev.ai,Sanctioned - AI assistant,allowed,407,1971
+2027-04-18,Sales,chat.promptway.ai,Generative AI - public,blocked,68,0
+2027-04-18,Finance,app.kotev.ai,Sanctioned - AI assistant,allowed,385,2355
+2027-04-18,HQ,app.kotev.ai,Sanctioned - AI assistant,allowed,483,2858
+2027-04-18,Operations - North,route.tzir.ai,Sanctioned - business application,allowed,2598,812
+2027-04-18,Customs - Ashdod,docs.tzir.ai,Sanctioned - business application,allowed,3185,184510
+2027-04-18,Customs - Haifa,docs.tzir.ai,Sanctioned - business application,allowed,3513,217128
+2027-04-25,Customer Service,api.promptway.ai,uncategorised,allowed,2204,27301
+2027-04-25,Customer Service,app.kotev.ai,Sanctioned - AI assistant,allowed,613,3250
+2027-04-25,Customs - Haifa,translate.freedocs.net,Translation,allowed,549,36666
+2027-04-25,Customs - Ashdod,translate.freedocs.net,Translation,allowed,529,52695
+2027-04-25,Customs - Haifa,app.kotev.ai,Sanctioned - AI assistant,allowed,53,260
+2027-04-25,Operations - Centre,chat.promptway.ai,Generative AI - public,blocked,146,0
+2027-04-25,Operations - South,chat.promptway.ai,Generative AI - public,blocked,93,0
+2027-04-25,Sales,app.kotev.ai,Sanctioned - AI assistant,allowed,406,1984
+2027-04-25,Sales,chat.promptway.ai,Generative AI - public,blocked,68,0
+2027-04-25,Finance,app.kotev.ai,Sanctioned - AI assistant,allowed,368,2577
+2027-04-25,HQ,app.kotev.ai,Sanctioned - AI assistant,allowed,586,2997
+2027-04-25,Operations - North,route.tzir.ai,Sanctioned - business application,allowed,2475,997
+2027-04-25,Customs - Ashdod,docs.tzir.ai,Sanctioned - business application,allowed,2943,219593
+2027-04-25,Customs - Haifa,docs.tzir.ai,Sanctioned - business application,allowed,3480,200967
+2027-05-02,Customer Service,api.promptway.ai,uncategorised,allowed,2331,23003
+2027-05-02,Customer Service,app.kotev.ai,Sanctioned - AI assistant,allowed,731,3063
+2027-05-02,Customs - Haifa,translate.freedocs.net,Translation,allowed,588,46853
+2027-05-02,Customs - Ashdod,translate.freedocs.net,Translation,allowed,619,44671
+2027-05-02,Customs - Haifa,app.kotev.ai,Sanctioned - AI assistant,allowed,63,274
+2027-05-02,Operations - Centre,chat.promptway.ai,Generative AI - public,blocked,121,0
+2027-05-02,Operations - South,chat.promptway.ai,Generative AI - public,blocked,87,0
+2027-05-02,Sales,app.kotev.ai,Sanctioned - AI assistant,allowed,422,2106
+2027-05-02,Sales,chat.promptway.ai,Generative AI - public,blocked,69,0
+2027-05-02,Finance,app.kotev.ai,Sanctioned - AI assistant,allowed,379,2724
+2027-05-02,HQ,app.kotev.ai,Sanctioned - AI assistant,allowed,596,3294
+2027-05-02,Operations - North,route.tzir.ai,Sanctioned - business application,allowed,2565,923
+2027-05-02,Customs - Ashdod,docs.tzir.ai,Sanctioned - business application,allowed,3673,196522
+2027-05-02,Customs - Haifa,docs.tzir.ai,Sanctioned - business application,allowed,2962,218088
+2027-05-09,Customer Service,api.promptway.ai,uncategorised,allowed,2234,27265
+2027-05-09,Customer Service,app.kotev.ai,Sanctioned - AI assistant,allowed,566,3158
+2027-05-09,Customs - Haifa,translate.freedocs.net,Translation,allowed,533,35077
+2027-05-09,Customs - Ashdod,translate.freedocs.net,Translation,allowed,565,44176
+2027-05-09,Customs - Haifa,app.kotev.ai,Sanctioned - AI assistant,allowed,65,323
+2027-05-09,Operations - Centre,chat.promptway.ai,Generative AI - public,blocked,145,0
+2027-05-09,Operations - South,chat.promptway.ai,Generative AI - public,blocked,107,0
+2027-05-09,Sales,app.kotev.ai,Sanctioned - AI assistant,allowed,371,1801
+2027-05-09,Sales,chat.promptway.ai,Generative AI - public,blocked,65,0
+2027-05-09,Finance,app.kotev.ai,Sanctioned - AI assistant,allowed,353,2781
+2027-05-09,HQ,app.kotev.ai,Sanctioned - AI assistant,allowed,463,2512
+2027-05-09,Operations - North,route.tzir.ai,Sanctioned - business application,allowed,2315,800
+2027-05-09,Customs - Ashdod,docs.tzir.ai,Sanctioned - business application,allowed,3039,233761
+2027-05-09,Customs - Haifa,docs.tzir.ai,Sanctioned - business application,allowed,3223,208943
+2027-05-16,Customer Service,api.promptway.ai,uncategorised,allowed,2603,32225
+2027-05-16,Customer Service,app.kotev.ai,Sanctioned - AI assistant,allowed,557,3024
+2027-05-16,Customs - Haifa,translate.freedocs.net,Translation,allowed,574,44888
+2027-05-16,Customs - Ashdod,translate.freedocs.net,Translation,allowed,628,53494
+2027-05-16,Customs - Haifa,app.kotev.ai,Sanctioned - AI assistant,allowed,61,262
+2027-05-16,Operations - Centre,chat.promptway.ai,Generative AI - public,blocked,120,0
+2027-05-16,Operations - South,chat.promptway.ai,Generative AI - public,blocked,82,0
+2027-05-16,Sales,app.kotev.ai,Sanctioned - AI assistant,allowed,465,1617
+2027-05-16,Sales,chat.promptway.ai,Generative AI - public,blocked,60,0
+2027-05-16,Finance,app.kotev.ai,Sanctioned - AI assistant,allowed,338,2768
+2027-05-16,HQ,app.kotev.ai,Sanctioned - AI assistant,allowed,542,2758
+2027-05-16,Operations - North,route.tzir.ai,Sanctioned - business application,allowed,2485,917
+2027-05-16,Customs - Ashdod,docs.tzir.ai,Sanctioned - business application,allowed,3040,213245
+2027-05-16,Customs - Haifa,docs.tzir.ai,Sanctioned - business application,allowed,2686,180832
+2027-05-23,Customer Service,api.promptway.ai,uncategorised,allowed,2482,26713
+2027-05-23,Customer Service,app.kotev.ai,Sanctioned - AI assistant,allowed,687,2821
+2027-05-23,Customs - Haifa,translate.freedocs.net,Translation,allowed,559,37964
+2027-05-23,Customs - Ashdod,translate.freedocs.net,Translation,allowed,688,54855
+2027-05-23,Customs - Haifa,app.kotev.ai,Sanctioned - AI assistant,allowed,57,263
+2027-05-23,Operations - Centre,chat.promptway.ai,Generative AI - public,blocked,138,0
+2027-05-23,Operations - South,chat.promptway.ai,Generative AI - public,blocked,82,0
+2027-05-23,Sales,app.kotev.ai,Sanctioned - AI assistant,allowed,359,2004
+2027-05-23,Sales,chat.promptway.ai,Generative AI - public,blocked,79,0
+2027-05-23,Finance,app.kotev.ai,Sanctioned - AI assistant,allowed,330,2438
+2027-05-23,HQ,app.kotev.ai,Sanctioned - AI assistant,allowed,446,2972
+2027-05-23,Operations - North,route.tzir.ai,Sanctioned - business application,allowed,2405,778
+2027-05-23,Customs - Ashdod,docs.tzir.ai,Sanctioned - business application,allowed,3503,183080
+2027-05-23,Customs - Haifa,docs.tzir.ai,Sanctioned - business application,allowed,3489,197103
+2027-05-30,Customer Service,api.promptway.ai,uncategorised,allowed,2287,26876
+2027-05-30,Customer Service,app.kotev.ai,Sanctioned - AI assistant,allowed,562,3341
+2027-05-30,Customs - Haifa,translate.freedocs.net,Translation,allowed,447,46190
+2027-05-30,Customs - Ashdod,translate.freedocs.net,Translation,allowed,634,49166
+2027-05-30,Customs - Haifa,app.kotev.ai,Sanctioned - AI assistant,allowed,65,258
+2027-05-30,Operations - Centre,chat.promptway.ai,Generative AI - public,blocked,158,0
+2027-05-30,Operations - South,chat.promptway.ai,Generative AI - public,blocked,90,0
+2027-05-30,Sales,app.kotev.ai,Sanctioned - AI assistant,allowed,368,1644
+2027-05-30,Sales,chat.promptway.ai,Generative AI - public,blocked,77,0
+2027-05-30,Finance,app.kotev.ai,Sanctioned - AI assistant,allowed,353,2526
+2027-05-30,HQ,app.kotev.ai,Sanctioned - AI assistant,allowed,560,3206
+2027-05-30,Operations - North,route.tzir.ai,Sanctioned - business application,allowed,2458,888
+2027-05-30,Customs - Ashdod,docs.tzir.ai,Sanctioned - business application,allowed,2857,231933
+2027-05-30,Customs - Haifa,docs.tzir.ai,Sanctioned - business application,allowed,3285,204984

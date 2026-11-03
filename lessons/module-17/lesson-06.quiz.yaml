@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    The board asked five questions on 3 June. How do you build the brief's front page?
+  options:
+    - >-
+      Your own recommendation first, then the evidence that supports it.
+    - >-
+      A timeline of the programme from the contract to the incident.
+    - >-
+      The five questions in the board's order, each answered and labelled.
+    - >-
+      The incident first, since it is the most urgent item for the board.
+  correct: 2
+  explanation: >-
+    Answering the board's own questions in its order shows you heard the mandate and lets directors
+    test each answer; the recommendation follows. A timeline or an incident-first page answers a
+    question nobody asked first.
+
+- id: q2
+  question: >-
+    The CEO was warned in April and replied "Not before the Q2 numbers." How does this appear in the
+    pre-read for the audit committee?
+  options:
+    - >-
+      The note's date, its content, the reply and its source, with no conclusion.
+    - >-
+      A finding that the CEO ignored a warning that would have prevented the incident.
+    - >-
+      Nothing; it belongs in a private conversation between the chair and the CEO.
+    - >-
+      A softened line saying concerns were raised and are now being addressed.
+  correct: 0
+  explanation: >-
+    Under the protocol, possible governance questions go to the chair as facts with sources; what they
+    mean is the committee's judgement. A conclusion oversteps your role, silence keeps a fact from the
+    body that must assess it, and softening is the error 07.3 warns about.
+
+- id: q3
+  question: >-
+    On 1 July four of the incident's six closure criteria are met. What does the board hear?
+  options:
+    - >-
+      Closed, since the harm has stopped and the remaining items are paperwork.
+    - >-
+      Open, with no detail, until counsel has finished its work.
+    - >-
+      Closed on 1 July, subject to counsel's confirmation afterwards.
+    - >-
+      Contained, not closed: which criteria are met and the dates for the rest.
+  correct: 3
+  explanation: >-
+    The board was told "contained" once before on someone's word. Saying exactly what is met and what
+    remains, with dates, is the honest status; calling it closed repeats the error, and "open" with no
+    detail gives the board nothing to follow.
+
+- id: q4
+  question: >-
+    In the private rehearsal on Sunday, the CEO hears the April warning and says the vendor's release
+    caused the incident. What do you change before Monday?
+  options:
+    - >-
+      The finding, by adding that the release was the direct cause.
+    - >-
+      The delivery: start from his goal, dates in order, his own sentence.
+    - >-
+      Nothing; the rehearsal showed that he will contest it anyway.
+    - >-
+      The audience, by presenting the warning to the chair alone.
+  correct: 1
+  explanation: >-
+    You change the delivery, never the finding. Starting from his own goal and walking the dates in
+    order lets him hear facts rather than blame, and giving him a sentence he can say lets him own the
+    result in the room.
+
+- id: q5
+  question: >-
+    Your engagement ends on Tuesday, the day after the board. Which handover line is acceptable?
+  options:
+    - >-
+      Register and contract owners: the interim lead until a permanent head of AI starts.
+    - >-
+      Measures: to be defined by the next head of AI when they arrive.
+    - >-
+      Register and contract owners: the CFO until the head of AI starts; analyst maintains it.
+    - >-
+      Incident closure: tracked by the board at each meeting until it is resolved.
+  correct: 2
+  explanation: >-
+    Every line needs an owner who stays after you leave and a way to keep it running. You cannot own
+    anything after Tuesday, measures left undefined will be redefined, and the board tracks outcomes but
+    cannot run an incident.

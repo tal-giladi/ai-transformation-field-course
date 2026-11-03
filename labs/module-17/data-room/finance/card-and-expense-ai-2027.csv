@@ -1,0 +1,26 @@
+posted,cardholder_or_claimant,department,merchant,description,amount_original,currency,amount_ils,gl_account,approved_by
+2027-01-02,M. Levitan,Customer Service,PROMPTWAY *API USAGE,API usage,188.4,USD,599.11,6420 software & online services,Customer Service manager (own card)
+2027-01-15,A. Golan,Operations - North,MAP TILES SVC,maps for planners,25.92,USD,82.43,6420 software & online services,line manager
+2027-01-19,O. Dror,Sales,PRESENTATION TEMPLATES,templates,116.84,ILS,116.84,6420 software & online services,line manager
+2027-01-20,R. Saliba,HQ,VIDEO MEETING PRO,meetings,59.13,ILS,59.13,6420 software & online services,line manager
+2027-01-26,Y. Klein,IT,SSL CERT STORE,certificate,93.61,USD,297.68,6420 software & online services,line manager
+2027-02-02,M. Levitan,Customer Service,PROMPTWAY *API USAGE,API usage,296.15,USD,938.8,6420 software & online services,Customer Service manager (own card)
+2027-02-09,Y. Klein,Operations - North,MAP TILES SVC,maps for planners,25.65,USD,81.31,6420 software & online services,line manager
+2027-02-10,Y. Klein,Sales,PRESENTATION TEMPLATES,templates,111.38,ILS,111.38,6420 software & online services,line manager
+2027-02-13,R. Saliba,HQ,VIDEO MEETING PRO,meetings,56.12,ILS,56.12,6420 software & online services,line manager
+2027-02-16,O. Dror,IT,SSL CERT STORE,certificate,87.36,USD,276.93,6420 software & online services,line manager
+2027-03-05,M. Levitan,Customer Service,PROMPTWAY *API USAGE,API usage,402.7,USD,1268.5,6420 software & online services,Customer Service manager (own card)
+2027-03-10,O. Dror,Marketing,STOCK PHOTO CO,images,72.88,ILS,72.88,6420 software & online services,line manager
+2027-03-20,R. Saliba,Customs - Haifa,TARIFF DATA SUBSCR,tariff database,453.06,ILS,453.06,6420 software & online services,line manager
+2027-03-22,A. Golan,Finance,ONLINE SVC 4471*,PDF conversion tool,38.53,USD,121.37,6420 software & online services,line manager
+2027-03-26,R. Saliba,Operations - North,MAP TILES SVC,maps for planners,22.71,USD,71.54,6420 software & online services,line manager
+2027-04-06,M. Levitan,Customer Service,PROMPTWAY *API USAGE,API usage,518.9,USD,1629.35,6420 software & online services,Customer Service manager (own card)
+2027-04-13,O. Dror,Marketing,STOCK PHOTO CO,images,74.89,ILS,74.89,6420 software & online services,line manager
+2027-04-21,R. Saliba,HQ,VIDEO MEETING PRO,meetings,58.1,ILS,58.1,6420 software & online services,line manager
+2027-04-22,A. Golan,Operations - North,MAP TILES SVC,maps for planners,23.19,USD,72.82,6420 software & online services,line manager
+2027-04-25,A. Golan,IT,SSL CERT STORE,certificate,80.54,USD,252.9,6420 software & online services,line manager
+2027-05-02,M. Levitan,Customer Service,PROMPTWAY *API USAGE,API usage,604.35,USD,1897.66,6420 software & online services,Customer Service manager (own card)
+2027-05-08,O. Dror,Marketing,STOCK PHOTO CO,images,82.85,ILS,82.85,6420 software & online services,line manager
+2027-05-18,Y. Klein,Customs - Haifa,TARIFF DATA SUBSCR,tariff database,445.82,ILS,445.82,6420 software & online services,line manager
+2027-05-22,O. Dror,Operations - North,MAP TILES SVC,maps for planners,22.53,USD,70.74,6420 software & online services,line manager
+2027-05-26,T. Mekonen,Sales,PRESENTATION TEMPLATES,templates,108.63,ILS,108.63,6420 software & online services,line manager

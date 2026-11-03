@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    The customer-portal feature that showed other customers' documents was switched off on 19 May. On
+    what basis do you write "contained" in the closure record?
+  options:
+    - >-
+      The feature is off and the vendor confirms the fix has been deployed.
+    - >-
+      The incident lead set the ticket to contained after the vendor's report.
+    - >-
+      The access log shows no cross-customer opens after the containment date.
+    - >-
+      No customer has complained about another importer's documents since May.
+  correct: 2
+  explanation: >-
+    Containment is proven from the logs, after the measures are applied: here the ordinary portal page
+    was a second door, so switching off one feature did not close it. A vendor's word, a ticket status
+    or silence from customers are all assumptions.
+
+- id: q2
+  question: >-
+    The scope shows 2,462 records of private individuals opened by other customers. What goes into your
+    closure record about reporting?
+  options:
+    - >-
+      The facts given to counsel, who decides each reporting question, and when.
+    - >-
+      The legal deadline for reporting to the regulator, so the board can track it.
+    - >-
+      A recommendation not to report, since the documents were opened by businesses.
+    - >-
+      A draft notice to the affected individuals, ready for the CEO to send.
+  correct: 0
+  explanation: >-
+    Whether, when and to whom to report is counsel's and the privacy officer's decision; your record
+    shows they had the facts and what they decided. Stating a deadline, recommending against reporting
+    or drafting notices puts your legal judgement in place of theirs.
+
+- id: q3
+  question: >-
+    A week before the region-reduction notice date the vendor offers a free 12-month extension of all
+    four regions plus service credits if Vantage waives the notice this year. What do you recommend?
+  options:
+    - >-
+      Accept: it costs nothing this year and keeps the vendor cooperative.
+    - >-
+      Accept the credits and ask the board to decide on the regions on 5 July.
+    - >-
+      Ask the vendor to extend the notice date, then decide after the board.
+    - >-
+      Give notice: the offer carries unused seats past the only date to remove them.
+  correct: 3
+  explanation: >-
+    The offer is about the date: it keeps three unused regions on the contract for another year, and
+    the credits are owed under the agreement anyway. Seats can be added later; removed seats can't be
+    un-paid. Waiting for the board misses the notice, and an extension is a favour you'd have to buy.
+
+- id: q4
+  question: >-
+    The vendor's root-cause analysis says the cause was duplicate supplier invoice numbers and
+    recommends that agents review every declaration. How do you rewrite it?
+  options:
+    - >-
+      Keep it, adding a line that the agents did not review carefully enough.
+    - >-
+      As contributing causes, each with a fix: silent release, no consignee check, paper review.
+    - >-
+      Replace it with the conclusion that the vendor alone is fully responsible.
+    - >-
+      Keep it and ask all the suppliers to issue unique invoice numbers from now on.
+  correct: 1
+  explanation: >-
+    Duplicate numbers are the trigger; the causes are the conditions that let it cause harm, each with
+    a system fix. Blaming agents ignores a 19-second review under a raised KPI, and blaming the vendor
+    alone ignores Vantage's own missing controls.
+
+- id: q5
+  question: >-
+    Customs pre-fill has a 7% material error rate, but stopping it would put every declaration back to
+    manual work during the incident. How do you write "keep with conditions" honestly?
+  options:
+    - >-
+      Conditions that can be checked, a QA sample and a stop rule above 5%.
+    - >-
+      Keep it as it is, with a promise to review it at the end of the year.
+    - >-
+      Keep it, provided the vendor guarantees an accuracy above 99%.
+    - >-
+      Keep it for low-risk declarations only, with automatic submission.
+  correct: 0
+  explanation: >-
+    A condition is only real if anyone can see it met or missed: a measured sample, visible review time
+    and a stop rule. A year-end review or a vendor guarantee repeats the claims that failed, and
+    auto-submit removes the only control.

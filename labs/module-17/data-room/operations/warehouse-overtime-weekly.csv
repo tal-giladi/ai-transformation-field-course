@@ -1,0 +1,97 @@
+week_start,dc,pallets_handled,headcount,regular_hours,overtime_hours,agency_hours,overtime_cost_ils,agency_cost_ils,labour_plan_source
+2026-07-05,Modi'in DC,6070,118,4956,737,409,57486,26176,spreadsheet (supervisor)
+2026-07-05,Ashdod DC,5264,96,4032,535,332,41730,21248,spreadsheet (supervisor)
+2026-07-12,Modi'in DC,6310,118,4956,623,418,48594,26752,spreadsheet (supervisor)
+2026-07-12,Ashdod DC,5235,96,4032,602,352,46956,22528,spreadsheet (supervisor)
+2026-07-19,Modi'in DC,6355,118,4956,657,417,51246,26688,spreadsheet (supervisor)
+2026-07-19,Ashdod DC,4746,96,4032,614,330,47892,21120,spreadsheet (supervisor)
+2026-07-26,Modi'in DC,6045,118,4956,635,449,49530,28736,spreadsheet (supervisor)
+2026-07-26,Ashdod DC,5058,96,4032,511,353,39858,22592,spreadsheet (supervisor)
+2026-08-02,Modi'in DC,6035,118,4956,749,446,58422,28544,spreadsheet (supervisor)
+2026-08-02,Ashdod DC,5128,96,4032,567,338,44226,21632,spreadsheet (supervisor)
+2026-08-09,Modi'in DC,5852,118,4956,655,438,51090,28032,spreadsheet (supervisor)
+2026-08-09,Ashdod DC,5023,96,4032,549,300,42822,19200,spreadsheet (supervisor)
+2026-08-16,Modi'in DC,5840,118,4956,755,430,58890,27520,spreadsheet (supervisor)
+2026-08-16,Ashdod DC,5081,96,4032,521,346,40638,22144,spreadsheet (supervisor)
+2026-08-23,Modi'in DC,6307,118,4956,744,384,58032,24576,spreadsheet (supervisor)
+2026-08-23,Ashdod DC,4817,96,4032,511,333,39858,21312,spreadsheet (supervisor)
+2026-08-30,Modi'in DC,6237,118,4956,662,446,51636,28544,spreadsheet (supervisor)
+2026-08-30,Ashdod DC,4982,96,4032,574,356,44772,22784,spreadsheet (supervisor)
+2026-09-06,Modi'in DC,6865,118,4956,705,467,54990,29888,spreadsheet (supervisor)
+2026-09-06,Ashdod DC,5477,96,4032,671,356,52338,22784,spreadsheet (supervisor)
+2026-09-13,Modi'in DC,6833,118,4956,798,435,62244,27840,spreadsheet (supervisor)
+2026-09-13,Ashdod DC,5762,96,4032,637,367,49686,23488,spreadsheet (supervisor)
+2026-09-20,Modi'in DC,7191,118,4956,726,434,56628,27776,spreadsheet (supervisor)
+2026-09-20,Ashdod DC,5263,96,4032,633,342,49374,21888,spreadsheet (supervisor)
+2026-09-27,Modi'in DC,6722,118,4956,822,424,64116,27136,spreadsheet (supervisor)
+2026-09-27,Ashdod DC,5428,96,4032,678,360,52884,23040,spreadsheet (supervisor)
+2026-10-04,Modi'in DC,7065,118,4956,715,483,55770,30912,spreadsheet (supervisor)
+2026-10-04,Ashdod DC,5542,96,4032,690,402,53820,25728,spreadsheet (supervisor)
+2026-10-11,Modi'in DC,6924,118,4956,828,489,64584,31296,spreadsheet (supervisor)
+2026-10-11,Ashdod DC,5774,96,4032,594,380,46332,24320,spreadsheet (supervisor)
+2026-10-18,Modi'in DC,6753,118,4956,794,441,61932,28224,spreadsheet (supervisor)
+2026-10-18,Ashdod DC,5893,96,4032,598,368,46644,23552,spreadsheet (supervisor)
+2026-10-25,Modi'in DC,6873,118,4956,744,492,58032,31488,spreadsheet (supervisor)
+2026-10-25,Ashdod DC,5846,96,4032,571,403,44538,25792,spreadsheet (supervisor)
+2026-11-01,Modi'in DC,6319,118,4956,711,425,55458,27200,spreadsheet (supervisor)
+2026-11-01,Ashdod DC,4744,96,4032,525,347,40950,22208,spreadsheet (supervisor)
+2026-11-08,Modi'in DC,6423,118,4956,749,375,58422,24000,spreadsheet (supervisor)
+2026-11-08,Ashdod DC,5165,96,4032,555,312,43290,19968,spreadsheet (supervisor)
+2026-11-15,Modi'in DC,6425,118,4956,727,384,56706,24576,spreadsheet (supervisor)
+2026-11-15,Ashdod DC,5052,96,4032,571,356,44538,22784,spreadsheet (supervisor)
+2026-11-22,Modi'in DC,5794,118,4956,705,396,54990,25344,spreadsheet (supervisor)
+2026-11-22,Ashdod DC,4956,96,4032,586,328,45708,20992,spreadsheet (supervisor)
+2026-11-29,Modi'in DC,5973,118,4956,666,445,51948,28480,spreadsheet (supervisor)
+2026-11-29,Ashdod DC,4878,96,4032,549,317,42822,20288,spreadsheet (supervisor)
+2026-12-06,Modi'in DC,6248,118,4956,689,387,53742,24768,spreadsheet (supervisor)
+2026-12-06,Ashdod DC,5075,96,4032,596,313,46488,20032,spreadsheet (supervisor)
+2026-12-13,Modi'in DC,6139,118,4956,626,443,48828,28352,spreadsheet (supervisor)
+2026-12-13,Ashdod DC,5081,96,4032,544,332,42432,21248,spreadsheet (supervisor)
+2026-12-20,Modi'in DC,6299,118,4956,666,439,51948,28096,spreadsheet (supervisor)
+2026-12-20,Ashdod DC,4951,96,4032,575,324,44850,20736,spreadsheet (supervisor)
+2026-12-27,Modi'in DC,5827,118,4956,645,383,50310,24512,spreadsheet (supervisor)
+2026-12-27,Ashdod DC,4742,96,4032,538,311,41964,19904,spreadsheet (supervisor)
+2027-01-03,Modi'in DC,5980,118,4956,545,354,42510,22656,forecast model v1
+2027-01-03,Ashdod DC,4709,96,4032,517,333,40326,21312,spreadsheet (supervisor)
+2027-01-10,Modi'in DC,5944,118,4956,604,345,47112,22080,forecast model v1
+2027-01-10,Ashdod DC,5190,96,4032,525,312,40950,19968,spreadsheet (supervisor)
+2027-01-17,Modi'in DC,6213,118,4956,601,409,46878,26176,forecast model v1
+2027-01-17,Ashdod DC,5089,96,4032,579,360,45162,23040,spreadsheet (supervisor)
+2027-01-24,Modi'in DC,6185,118,4956,604,351,47112,22464,forecast model v1
+2027-01-24,Ashdod DC,5171,96,4032,612,354,47736,22656,spreadsheet (supervisor)
+2027-01-31,Modi'in DC,5959,118,4956,584,344,45552,22016,forecast model v1
+2027-01-31,Ashdod DC,4699,96,4032,614,324,47892,20736,spreadsheet (supervisor)
+2027-02-07,Modi'in DC,6482,118,4956,537,360,41886,23040,forecast model v1
+2027-02-07,Ashdod DC,5255,96,4032,552,351,43056,22464,spreadsheet (supervisor)
+2027-02-14,Modi'in DC,6071,118,4956,572,345,44616,22080,forecast model v1
+2027-02-14,Ashdod DC,5211,96,4032,576,310,44928,19840,spreadsheet (supervisor)
+2027-02-21,Modi'in DC,6298,118,4956,537,353,41886,22592,forecast model v1
+2027-02-21,Ashdod DC,4765,96,4032,575,357,44850,22848,spreadsheet (supervisor)
+2027-02-28,Modi'in DC,6370,118,4956,601,353,46878,22592,forecast model v1
+2027-02-28,Ashdod DC,4982,96,4032,504,339,39312,21696,spreadsheet (supervisor)
+2027-03-07,Modi'in DC,7217,118,4956,627,434,48906,27776,forecast model v1
+2027-03-07,Ashdod DC,5601,96,4032,607,397,47346,25408,spreadsheet (supervisor)
+2027-03-14,Modi'in DC,6750,118,4956,702,392,54756,25088,forecast model v1
+2027-03-14,Ashdod DC,5339,96,4032,647,404,50466,25856,spreadsheet (supervisor)
+2027-03-21,Modi'in DC,6894,118,4956,615,394,47970,25216,forecast model v1
+2027-03-21,Ashdod DC,5866,96,4032,654,388,51012,24832,spreadsheet (supervisor)
+2027-03-28,Modi'in DC,6953,118,4956,680,449,53040,28736,forecast model v1
+2027-03-28,Ashdod DC,5340,96,4032,605,373,47190,23872,spreadsheet (supervisor)
+2027-04-04,Modi'in DC,7000,118,4956,697,399,54366,25536,forecast model v1
+2027-04-04,Ashdod DC,5655,96,4032,620,361,48360,23104,spreadsheet (supervisor)
+2027-04-11,Modi'in DC,6807,118,4956,679,457,52962,29248,forecast model v1
+2027-04-11,Ashdod DC,5570,96,4032,630,389,49140,24896,spreadsheet (supervisor)
+2027-04-18,Modi'in DC,7269,118,4956,675,419,52650,26816,forecast model v1
+2027-04-18,Ashdod DC,5642,96,4032,621,342,48438,21888,spreadsheet (supervisor)
+2027-04-25,Modi'in DC,6926,118,4956,681,389,53118,24896,forecast model v1
+2027-04-25,Ashdod DC,5284,96,4032,622,345,48516,22080,spreadsheet (supervisor)
+2027-05-02,Modi'in DC,5999,118,4956,544,382,42432,24448,forecast model v1
+2027-05-02,Ashdod DC,4818,96,4032,586,339,45708,21696,spreadsheet (supervisor)
+2027-05-09,Modi'in DC,6418,118,4956,565,351,44070,22464,forecast model v1
+2027-05-09,Ashdod DC,5263,96,4032,561,340,43758,21760,spreadsheet (supervisor)
+2027-05-16,Modi'in DC,6121,118,4956,635,390,49530,24960,forecast model v1
+2027-05-16,Ashdod DC,4781,96,4032,522,342,40716,21888,spreadsheet (supervisor)
+2027-05-23,Modi'in DC,6136,118,4956,535,367,41730,23488,forecast model v1
+2027-05-23,Ashdod DC,5189,96,4032,544,348,42432,22272,spreadsheet (supervisor)
+2027-05-30,Modi'in DC,5939,118,4956,575,345,44850,22080,forecast model v1
+2027-05-30,Ashdod DC,4840,96,4032,573,328,44694,20992,spreadsheet (supervisor)

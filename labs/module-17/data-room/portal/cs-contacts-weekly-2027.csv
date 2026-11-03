@@ -1,0 +1,67 @@
+week_start,channel,contacts,handled_by_team,avg_handle_minutes
+2027-01-03,phone,993,Customer Service (PTK),6.7
+2027-01-03,email,714,Customer Service (PTK),9.5
+2027-01-03,portal form,222,Customer Service (PTK),7.9
+2027-01-10,phone,1061,Customer Service (PTK),7.1
+2027-01-10,email,721,Customer Service (PTK),9.1
+2027-01-10,portal form,226,Customer Service (PTK),7.8
+2027-01-17,phone,1018,Customer Service (PTK),7.1
+2027-01-17,email,650,Customer Service (PTK),9.2
+2027-01-17,portal form,225,Customer Service (PTK),7.6
+2027-01-24,phone,1051,Customer Service (PTK),6.9
+2027-01-24,email,714,Customer Service (PTK),9.4
+2027-01-24,portal form,203,Customer Service (PTK),7.6
+2027-01-31,phone,1061,Customer Service (PTK),6.5
+2027-01-31,email,700,Customer Service (PTK),9.3
+2027-01-31,portal form,216,Customer Service (PTK),8.1
+2027-02-07,phone,1102,Customer Service (PTK),6.5
+2027-02-07,email,727,Customer Service (PTK),9.1
+2027-02-07,portal form,221,Customer Service (PTK),7.8
+2027-02-14,phone,1107,Customer Service (PTK),6.6
+2027-02-14,email,736,Customer Service (PTK),9.1
+2027-02-14,portal form,207,Customer Service (PTK),7.7
+2027-02-21,phone,1057,Customer Service (PTK),6.5
+2027-02-21,email,726,Customer Service (PTK),9.0
+2027-02-21,portal form,221,Customer Service (PTK),7.9
+2027-02-28,phone,1003,Customer Service (PTK),6.8
+2027-02-28,email,732,Customer Service (PTK),9.4
+2027-02-28,portal form,212,Customer Service (PTK),8.2
+2027-03-07,phone,1007,Customer Service (PTK),7.0
+2027-03-07,email,652,Customer Service (PTK),9.4
+2027-03-07,portal form,213,Customer Service (PTK),7.6
+2027-03-14,phone,976,Customer Service (PTK),7.0
+2027-03-14,email,726,Customer Service (PTK),9.5
+2027-03-14,portal form,222,Customer Service (PTK),7.7
+2027-03-21,phone,1120,Customer Service (PTK),7.1
+2027-03-21,email,712,Customer Service (PTK),9.9
+2027-03-21,portal form,213,Customer Service (PTK),7.7
+2027-03-28,phone,1119,Customer Service (PTK),6.9
+2027-03-28,email,738,Customer Service (PTK),9.3
+2027-03-28,portal form,203,Customer Service (PTK),8.1
+2027-04-04,phone,1120,Customer Service (PTK),7.1
+2027-04-04,email,735,Customer Service (PTK),9.2
+2027-04-04,portal form,196,Customer Service (PTK),7.6
+2027-04-11,phone,989,Customer Service (PTK),6.5
+2027-04-11,email,654,Customer Service (PTK),8.9
+2027-04-11,portal form,207,Customer Service (PTK),7.7
+2027-04-18,phone,1121,Customer Service (PTK),7.0
+2027-04-18,email,647,Customer Service (PTK),9.5
+2027-04-18,portal form,214,Customer Service (PTK),7.9
+2027-04-25,phone,1003,Customer Service (PTK),7.0
+2027-04-25,email,676,Customer Service (PTK),9.1
+2027-04-25,portal form,217,Customer Service (PTK),7.7
+2027-05-02,phone,988,Customer Service (PTK),6.7
+2027-05-02,email,644,Customer Service (PTK),9.8
+2027-05-02,portal form,212,Customer Service (PTK),7.8
+2027-05-09,phone,1112,Customer Service (PTK),6.5
+2027-05-09,email,739,Customer Service (PTK),9.2
+2027-05-09,portal form,196,Customer Service (PTK),8.1
+2027-05-16,phone,1148,Customer Service (PTK),6.7
+2027-05-16,email,762,Customer Service (PTK),9.2
+2027-05-16,portal form,242,Customer Service (PTK),8.3
+2027-05-23,phone,1030,Customer Service (PTK),7.1
+2027-05-23,email,783,Customer Service (PTK),9.2
+2027-05-23,portal form,252,Customer Service (PTK),7.6
+2027-05-30,phone,1085,Customer Service (PTK),6.6
+2027-05-30,email,681,Customer Service (PTK),9.2
+2027-05-30,portal form,256,Customer Service (PTK),8.1

@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    The CEO wants the platform kept; two directors want all AI switched off. You have not yet finished
+    the inventory. What do you send both principals first?
+  options:
+    - >-
+      Your recommendation for the platform, so the debate can start early.
+    - >-
+      A list of the systems, so each of them can say what they would keep.
+    - >-
+      Nothing until the inventory is complete, to avoid partial conclusions.
+    - >-
+      The dated audit rules, applied per system and region, before the list.
+  correct: 3
+  explanation: >-
+    Rules fixed before anyone sees the list make each later decision follow evidence, not a side. A
+    recommendation or a show of preferences first invites a debate about the platform as a whole,
+    which is the question the rules are designed to avoid.
+
+- id: q2
+  question: >-
+    The inherited deck's "Next" slide plans the driver score and in-cab cameras for the Rotterdam
+    drivers in Q3. Nobody has cancelled it. How does it go into your pressure-test log?
+  options:
+    - >-
+      As a wrong assumption: remove it, with the EU questions routed to EU counsel.
+    - >-
+      As a fragile dependency: keep it, triggered on the works committee's agreement.
+    - >-
+      Not at all: it is in the future and the audit covers what runs today.
+    - >-
+      As a risk to accept, since Europe has no works committee under the Israeli agreement.
+  correct: 0
+  explanation: >-
+    Monitoring workers with AI is on the EU AI Act's high-risk list and raises GDPR and the same
+    grievance, so the plan is wrong today, not merely fragile. An uncancelled plan is still somebody's
+    plan; remove it in writing and let EU counsel give the legal reading.
+
+- id: q3
+  question: >-
+    The South's route seats can only be removed at the 1 October anniversary. How does your audit write
+    that "stop"?
+  options:
+    - >-
+      Stop from July, with the saving shown in the July cost line.
+    - >-
+      Keep until October, since stopping now saves nothing.
+    - >-
+      Stop: notice by 1 July, saving from 1 October.
+    - >-
+      Stop, and ask the vendor to waive fees until October.
+  correct: 2
+  explanation: >-
+    Each action carries the contract step and the date it takes effect, so the board does not expect
+    savings that start three months later. Keeping the seats in use is wrong when nobody uses them, and
+    a waiver is a negotiation, not something to book.
+
+- id: q4
+  question: >-
+    The works committee's March letter is still unanswered. What is the first step of your trust-repair
+    plan with the committee?
+  options:
+    - >-
+      A meeting to present the new route-planning vision to all of them.
+    - >-
+      Switch off the score everywhere; answer the letter in writing.
+    - >-
+      A survey of drivers on what they think of the route app.
+    - >-
+      A message explaining that the cameras were only a pilot.
+  correct: 1
+  explanation: >-
+    Trust comes back when the audience sees one promise kept before it is asked for anything; the
+    committee's first demand was to stop the score and get a written answer. A vision, a survey or an
+    explanation asks for something first and confirms the letter.
+
+- id: q5
+  question: >-
+    The register says "licensed agent reviews every declaration". How do you record that control in the
+    control test?
+  options:
+    - >-
+      Effective, because the review step is in the documented procedure.
+    - >-
+      Effective, because agents caught 23 of the 70 mismatches.
+    - >-
+      Not tested, because only customs staff can judge customs work.
+    - >-
+      Paper only: a 19-second median review and 7% errors on re-check.
+  correct: 3
+  explanation: >-
+    A control is earned by evidence that it works, not by a written procedure. Catching a third of the
+    mismatches shows some review happens but leaves 47 submitted; the timing and the re-checked sample
+    show the step does not do what the register claims.

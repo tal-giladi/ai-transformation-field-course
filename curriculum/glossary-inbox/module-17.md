@@ -1,0 +1,9 @@
+- **Reporting protocol** — A short written agreement, signed by every principal before any finding exists, on who hears which findings first, what goes to an audit committee as facts without conclusions, and what goes to counsel (lesson 17.1).
+- **Day-one triage** — Sorting what the first-day read shows into now, this week and in discovery, each with the person who decides, because in a rescue some things get worse while you discover (lesson 17.1).
+- **Naive baseline** — A comparison a vendor constructs (for example a shortest-path sequence of the same stops) instead of what the organization actually did before; savings measured against it are claims, not results (lesson 17.3).
+- **Difference in differences** — The change at the site that adopted a tool divided by the change at a comparable site that did not, over the same weeks, which removes movements both sites share (lesson 17.3).
+- **Paper-only control** — A control that exists in a procedure or register but does not operate in practice, shown by evidence such as review time or a re-checked sample (lesson 17.4).
+- **Kept promise first** — The trust-repair rule that each audience sees one concrete promise kept before it is asked for anything (lesson 17.4).
+- **Stop/keep audit** — A decision on every AI system, by region or feature, from rules fixed before the list was opened, each with an owner, the contract step it needs and the date its saving starts (lesson 17.5).
+- **Contained vs closed** — An incident is contained when the harm has stopped, proven from the logs; it is closed only when written closure criteria (people informed, counsel's decisions recorded, corrections made, controls running) are met (lesson 17.5).
+- **Contributing cause** — A condition that let a trigger cause harm, written without blame and paired with a system fix, as opposed to the single trigger a vendor's root-cause analysis names (lesson 17.5).

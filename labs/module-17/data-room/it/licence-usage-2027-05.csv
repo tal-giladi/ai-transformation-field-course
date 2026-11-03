@@ -1,0 +1,21 @@
+system,region_or_department,seat_type,seats_billed,seats_assigned,active_30d,source,as_of
+Tzir Route,North,driver app,104,104,96,Tzir admin console,2027-05-31
+Tzir Route,North,planner console,6,6,6,Tzir admin console,2027-05-31
+Tzir Route,Centre,driver app,70,70,0,Tzir admin console,2027-05-31
+Tzir Route,Centre,planner console,8,8,5,Tzir admin console,2027-05-31
+Tzir Route,South,driver app,92,92,0,Tzir admin console,2027-05-31
+Tzir Route,South,planner console,6,6,0,Tzir admin console,2027-05-31
+Tzir Route,Europe,driver app,44,0,0,Tzir admin console,2027-05-31
+Tzir Route,Europe,planner console,4,2,0,Tzir admin console,2027-05-31
+Kotev Assist,Customer Service,user,60,60,31,Kotev admin export,2027-05-31
+Kotev Assist,Finance,user,40,40,18,Kotev admin export,2027-05-31
+Kotev Assist,Sales,user,55,55,22,Kotev admin export,2027-05-31
+Kotev Assist,HQ,user,95,95,25,Kotev admin export,2027-05-31
+Kotev Assist,Customs,user,80,80,9,Kotev admin export,2027-05-31
+Kotev Assist,Operations,user,120,120,7,Kotev admin export,2027-05-31
+Ayin Drive,South,cab unit,60,60,0,Ayin portal (no events since 2027-03-08),2027-05-31
+Nezek Vision,Centre,user,25,25,0,vendor e-mail,2027-05-31
+Quote add-in,Sales,user,30,30,0,Taarif admin,2027-05-31
+Tzir Assist,customers,portal user enabled,1840,1840,612,Tzir admin console,2027-05-31
+Meches Pro HS Suggest,Customs,feature flag,,31,31,release 9.3 default: on,2027-05-31
+Mishkal Smart Match,Finance,module,,6,6,ERP admin,2027-05-31

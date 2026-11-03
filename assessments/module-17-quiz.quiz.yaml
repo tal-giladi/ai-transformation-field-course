@@ -1,0 +1,192 @@
+- id: q1
+  question: >-
+    A board engages you for 30 days after its head of AI resigned, reporting to the audit committee
+    chair and to the CEO. Before discovery starts, the CEO asks you to "bring anything sensitive to me
+    first". What do you agree?
+  options:
+    - >-
+      Everything goes to the CEO first, since he runs the company day to day.
+    - >-
+      Findings about management go to the CEO first and to the chair the same day.
+    - >-
+      Everything goes to the chair first, since the board engaged you.
+    - >-
+      Each finding goes to whichever principal it concerns less.
+  correct: 1
+  explanation: >-
+    The CEO first protects him from an ambush; the chair the same day, in the same words, protects her
+    from a filtered account. Either principal alone breaks the other's trust, and sorting by who is
+    concerned is impossible to apply fairly.
+
+- id: q2
+  question: >-
+    The incident record says "contained" and "personal data: none (per vendor)". The access log shows
+    customers opening other customers' parcel manifests after the fix. It is Tuesday of week one. What
+    happens today?
+  options:
+    - >-
+      You add it to next week's findings memo with the full context.
+    - >-
+      You ask the vendor to confirm before raising it inside the company.
+    - >-
+      You tell the affected individuals, since their data is involved.
+    - >-
+      A status note to both principals, and the facts to the general counsel.
+  correct: 3
+  explanation: >-
+    Possible ongoing harm and reporting questions cannot wait for a memo or a vendor. Both principals
+    hear it under the protocol and counsel gets the facts; telling individuals is counsel's decision,
+    not yours.
+
+- id: q3
+  question: >-
+    A vendor dashboard reports ₪2.56M a year of route savings, computed against a naive stop sequence
+    and scaled to all licensed regions. Only one region uses the tool. What goes into the board brief?
+  options:
+    - >-
+      The change in telematics km per stop in that region against a year earlier, labelled.
+    - >-
+      The dashboard's figure scaled to the one region, labelled as the vendor's estimate.
+    - >-
+      The dashboard's figure as reported, since the contract makes it the agreed measure.
+    - >-
+      No figure, since the vendor's method cannot be audited from outside.
+  correct: 0
+  explanation: >-
+    Kilometres actually driven, compared with the same months a year earlier, is Vantage's own measure;
+    label it directional without a control region. Scaling the dashboard keeps its wrong baseline, and
+    leaving the line empty hides real value.
+
+- id: q4
+  question: >-
+    Customs agents spend a median 19 seconds approving pre-filled declarations after their daily target
+    was raised from 9 to 12; a re-checked sample shows 7% material errors. How do you describe the
+    review in the findings?
+  options:
+    - >-
+      A training issue: agents need to be reminded to check each declaration.
+    - >-
+      Effective, since the vendor reports 99.2% of fields accepted.
+    - >-
+      A step that exists on paper, made impossible by the target.
+    - >-
+      Adequate, since agents still returned a third of the mismatches.
+  correct: 2
+  explanation: >-
+    The timing and the sample show the control does not work, and the raised target explains why: a
+    design, not carelessness. Fields accepted is the reviewer's behaviour, and catching a third still
+    let most mismatches through.
+
+- id: q5
+  question: >-
+    The CEO wants the platform kept; two directors want all AI switched off. What do you do before
+    opening the list of systems?
+  options:
+    - >-
+      Ask each director which systems they would keep and count the votes.
+    - >-
+      Fix dated audit rules, per system and region, and send them to both.
+    - >-
+      Recommend keeping the platform, since replacing it would cost a year.
+    - >-
+      Recommend a pause of all AI until the audit is finished.
+  correct: 1
+  explanation: >-
+    Rules fixed before anyone sees the list make each decision follow evidence, and applying them per
+    system and region lets you keep what works and stop what doesn't in the same paper. Votes and
+    blanket recommendations answer the wrong question.
+
+- id: q6
+  question: >-
+    The inherited programme's "Next" slide still plans driver scores and in-cab cameras for the EU
+    trucking unit. How do you treat it?
+  options:
+    - >-
+      Leave it, since it is a future plan outside a stop/keep audit of what runs today.
+    - >-
+      Keep it on the plan, conditional on the Israeli works committee's agreement.
+    - >-
+      Approve it for the EU only, where the Israeli collective agreement does not apply.
+    - >-
+      Remove it in writing and route the EU questions to EU counsel.
+  correct: 3
+  explanation: >-
+    Monitoring workers with AI is on the EU AI Act's high-risk list and raises GDPR and the same
+    grievance; an uncancelled plan is still somebody's plan. Remove it and let EU counsel give the
+    legal reading.
+
+- id: q7
+  question: >-
+    Unused route seats in three regions can only be removed on 90 days' notice before the 1 October
+    anniversary; the board meets on 5 July. A week before the date, the vendor offers a free 12-month
+    extension of all regions if you waive the notice. What do you recommend?
+  options:
+    - >-
+      Give notice: seats can be added back, removed seats can't be un-paid.
+    - >-
+      Accept, since a free extension costs nothing this year.
+    - >-
+      Leave it to the board on 5 July, since it is a contract decision.
+    - >-
+      Ask the vendor for a later notice date and decide after the board.
+  correct: 0
+  explanation: >-
+    The offer keeps unused seats on the contract past the only date to remove them. Waiting for the
+    board misses the notice; the CEO signs under his authority with the chair informed, as the protocol
+    says.
+
+- id: q8
+  question: >-
+    The vendor's root-cause analysis blames suppliers' duplicate invoice numbers and asks your agents to
+    review more carefully. What does your closure record say?
+  options:
+    - >-
+      The vendor's cause, with a reminder to agents about careful review.
+    - >-
+      Contributing causes with system fixes, without blaming a person.
+    - >-
+      The vendor is fully responsible, so the agreement can be terminated.
+    - >-
+      Suppliers must issue unique numbers before the module resumes.
+  correct: 1
+  explanation: >-
+    Duplicate numbers are the trigger. The causes are the conditions — an unannounced release, matching
+    without the consignee, a review on paper, no privacy branch — each with a fix. Blaming agents or the
+    vendor alone leaves Vantage's own gaps open.
+
+- id: q9
+  question: >-
+    You meet the customer whose shipments were held and whose invoices other importers saw. It has been
+    a month without a written answer. How do you open?
+  options:
+    - >-
+      Explain that a vendor's software change caused it and no personal data was involved.
+    - >-
+      Apologise repeatedly before giving any facts, to show you understand.
+    - >-
+      One specific apology, then the facts with numbers, what is unknown and when.
+    - >-
+      Offer a discount first, then explain the incident once she is calmer.
+  correct: 2
+  explanation: >-
+    Facts with dates are what she asked for; one specific apology acknowledges the delay. Blaming the
+    vendor and a blanket "no personal data" repeat the errors that broke trust; a discount first looks
+    like buying silence.
+
+- id: q10
+  question: >-
+    Your 30-day engagement ends the day after the board. What makes the handover acceptable?
+  options:
+    - >-
+      You stay available by phone to answer questions for the next quarter.
+    - >-
+      Every line has an owner who stays, and the measures run on fixed rules.
+    - >-
+      The board receives the full set of documents to decide who owns what.
+    - >-
+      The new head of AI, once hired, takes over everything at once.
+  correct: 1
+  explanation: >-
+    Nothing may depend on you after day 30: named owners who stay, and measures re-run monthly with the
+    same rules. Leaving ownership to the board, a future hire or your phone leaves the same gap that
+    caused the failure.

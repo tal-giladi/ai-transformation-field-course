@@ -1,0 +1,93 @@
+- id: q1
+  question: >-
+    The vendor's dashboard reports ₪2.56M a year of route savings: kilometres of a naive stop sequence
+    minus the plan's kilometres, times ₪4.10, scaled to all licensed regions. What do you put in the
+    case instead?
+  options:
+    - >-
+      The dashboard's figure scaled down to the one region that uses the tool.
+    - >-
+      The dashboard's figure, labelled as claimed, with a note on its method.
+    - >-
+      The change in telematics km per stop against the same months a year earlier.
+    - >-
+      The kilometres in the vendor's plans compared with the dispatched plans.
+  correct: 2
+  explanation: >-
+    The naive sequence is not what trucks ever drove, so scaling the dashboard keeps the wrong
+    baseline. Telematics compared with a year earlier uses kilometres actually driven; label it
+    directional, since no region served as a control.
+
+- id: q2
+  question: >-
+    The budget books ₪1.6M of customs savings as "8 FTE freed". The payroll still has 31 agents and
+    output per agent did not change. How do you restate the line?
+  options:
+    - >-
+      No cash; at most capacity that kept two posts frozen.
+    - >-
+      ₪1.6M of capacity, to be turned into cash in 2028.
+    - >-
+      Half the claim, since the target was raised by a third.
+    - >-
+      The full claim, since the tool makes the work faster.
+  correct: 0
+  explanation: >-
+    Nobody moved and output stayed the same, so no cash was saved. The raised target took time from
+    the review rather than freeing it; at most it explains two frozen posts, which is capacity, not a
+    saving.
+
+- id: q3
+  question: >-
+    Which comparison makes the warehouse forecast's effect on overtime a measured number?
+  options:
+    - >-
+      Modi'in's overtime this year against the forecast's own back-test error.
+    - >-
+      Modi'in's overtime against the target in the 2027 budget.
+    - >-
+      The supervisor's estimate of how much overtime the forecast avoided.
+    - >-
+      Modi'in against Ashdod, which kept planning by spreadsheet, before and after.
+  correct: 3
+  explanation: >-
+    A difference in differences against a site that kept the old method removes the seasonal and
+    volume movements both sites share. A budget target, a back-test error or an estimate are not a
+    counterfactual for overtime.
+
+- id: q4
+  question: >-
+    The CEO asks you to show "what the North could do across all regions" in the case. What do you
+    answer?
+  options:
+    - >-
+      Show it as an upside scenario, clearly labelled as an assumption.
+    - >-
+      Fix the feed and roads, re-measure the North in September, then decide.
+    - >-
+      Decline, since the other regions have already rejected the tool.
+    - >-
+      Ask the vendor to model the other regions on its own data.
+  correct: 1
+  explanation: >-
+    Three regions don't use the tool, so annualising the North is a claim about a scope that doesn't
+    exist. A dated re-measurement after the fixes gives the CEO a real path and a number the board can
+    test; a vendor model would repeat the dashboard's mistake.
+
+- id: q5
+  question: >-
+    You must name the binding constraint for the board. Which is best supported by Vantage's evidence?
+  options:
+    - >-
+      The vendor's platform, because the incident came from its release.
+    - >-
+      The budget, because the programme ran 44% over.
+    - >-
+      No system had an owner who measured it, so claims stood in for results.
+    - >-
+      The operations teams, because three regions stopped using the tool.
+  correct: 2
+  explanation: >-
+    Every failure traces to a claim nobody owned or checked: savings computed by the vendor, a review
+    assumed, regions reported from licences, a feed nobody watched. Replacing the vendor or cutting
+    money leaves that gap; the regions stopped for reasons the data supports.

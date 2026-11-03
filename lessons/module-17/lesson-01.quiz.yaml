@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    The board engaged you for 30 days, reporting to the audit committee chair and to the CEO. It is your
+    first morning and you have found nothing yet. What do you put in writing first?
+  options:
+    - >-
+      The list of documents you need, so discovery can start before lunch.
+    - >-
+      A note to the board that you will report to the chair alone, to stay independent.
+    - >-
+      How findings travel: about management to the CEO first, to the chair the same day.
+    - >-
+      A promise to the CEO that nothing reaches the board without his approval.
+  correct: 2
+  explanation: >-
+    With two principals, the first finding about the CEO decides whether you are a fixer or an
+    investigator. A protocol agreed before any finding exists protects the CEO from an ambush and the
+    chair from a filtered account; reporting to one side only, or giving the CEO a veto, breaks it.
+
+- id: q2
+  question: >-
+    The CEO says his goal for the 30 days is "a plan to get the ₪6.2M of savings back on track". How do
+    you record it in the mandate?
+  options:
+    - >-
+      As a claim the work tests, next to the March deck's other headlines.
+    - >-
+      As the objective, since he is one of your two principals.
+    - >-
+      As out of scope, because savings belong to the finance team.
+    - >-
+      As a stretch target, with a lower number agreed as the floor.
+  correct: 0
+  explanation: >-
+    Written as a goal, an unmeasured number becomes your target before you know whether it ever
+    existed. Recording it as a claim keeps it in scope and lets the evidence decide; dropping it or
+    negotiating a floor both skip the question of how it was computed.
+
+- id: q3
+  question: >-
+    The incident record says "contained" and "personal data: none (per vendor)", and "Legal: n/a". What
+    belongs in your first week?
+  options:
+    - >-
+      Accept the record and focus on the programme, since the vendor fixed it.
+    - >-
+      Draft the privacy report yourself so legal has a head start.
+    - >-
+      Wait for the vendor's full logs before speaking to anyone about it.
+    - >-
+      Check the logs with IT and brief the general counsel with what is known.
+  correct: 3
+  explanation: >-
+    Both statements came from the vendor and nobody independent has checked them. Look at the logs
+    early and give counsel the facts the same week; whether and what to report is counsel's decision,
+    so you neither draft it nor wait for the vendor to set the pace.
+
+- id: q4
+  question: >-
+    The vendor agreement lets Vantage reduce regions at each anniversary on 90 days' notice. The
+    anniversary is 1 October and the board meets on 5 July. Where does this go on day one?
+  options:
+    - >-
+      In discovery, to be looked at once the whole audit is finished.
+    - >-
+      In the plan as a date, with a decision ready for the CEO.
+    - >-
+      In the board brief, so that the board itself can decide on 5 July.
+    - >-
+      Nowhere yet: notices are procurement's business, not the AI lead's.
+  correct: 1
+  explanation: >-
+    Ninety days before 1 October falls on 3 July, before the board meets, so waiting for the board means
+    paying for unused regions for another year. You don't sign the notice, but you make sure the person
+    who signs has a decision record in time.
+
+- id: q5
+  question: >-
+    The former lead's handover note mentions "my 14/4 note to Ofer on Docs review". The former lead
+    offers to send you his personal copy. What do you do?
+  options:
+    - >-
+      Accept it, because it is the fastest way to see what the CEO was told.
+    - >-
+      Ignore the line, since it concerns the CEO and is outside your mandate.
+    - >-
+      Ask the board secretary to retrieve it from the company's own mail system.
+    - >-
+      Ask the CEO to confirm in writing that the note does not exist.
+  correct: 2
+  explanation: >-
+    Anything the board may rely on must come from the company's own records, not from a departed
+    employee's copy. The note is relevant to the questions the board asked, so it is in scope; asking
+    the CEO to deny it presumes an answer.

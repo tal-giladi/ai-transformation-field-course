@@ -1,0 +1,2136 @@
+session_id,started_at,customer_code,user_ref,language,intent,answer_source,docs_shown,handed_to_human,csat
+AS-00001,2027-03-15 08:18,C1073,U861-073,he,rates,general model,0,Y,2
+AS-00002,2027-03-15 09:55,C1095,U911-095,he,shipment status,TMS status,0,N,
+AS-00003,2027-03-15 10:38,C1237,U872-237,he,ETA,TMS status,0,Y,4
+AS-00004,2027-03-15 16:31,C1081,U954-081,he,customs status,TMS status,0,N,
+AS-00005,2027-03-15 07:52,C1081,U464-081,ar,shipment status,TMS status,0,N,
+AS-00006,2027-03-15 12:49,C1007,U389-007,he,ETA,TMS status,0,Y,1
+AS-00007,2027-03-15 11:31,C1117,U643-117,he,shipment status,TMS status,0,Y,
+AS-00008,2027-03-15 07:20,C1136,U762-136,he,customs status,TMS status,0,Y,
+AS-00009,2027-03-15 07:07,C1031,U705-031,he,customs status,TMS status,0,Y,3
+AS-00010,2027-03-15 10:12,C1136,U324-136,ru,complaint,general model,0,Y,
+AS-00011,2027-03-15 08:42,C1022,U919-022,en,customs status,TMS status,0,N,4
+AS-00012,2027-03-15 15:00,C1068,U522-068,he,other,general model,0,Y,
+AS-00013,2027-03-15 08:26,C1117,U992-117,ru,shipment status,TMS status,0,N,
+AS-00014,2027-03-15 13:59,C1068,U773-068,en,shipment status,TMS status,0,Y,
+AS-00015,2027-03-15 16:35,C1158,U107-158,he,shipment status,TMS status,0,Y,4
+AS-00016,2027-03-15 09:34,C1044,U421-044,he,ETA,TMS status,0,N,3
+AS-00017,2027-03-15 15:03,C1073,U132-073,he,shipment status,TMS status,0,N,
+AS-00018,2027-03-15 14:31,C1172,U558-172,he,ETA,TMS status,0,N,
+AS-00019,2027-03-15 07:28,C1007,U158-007,he,shipment status,TMS status,0,N,1
+AS-00020,2027-03-15 11:54,C1204,U819-204,en,shipment status,TMS status,0,N,
+AS-00021,2027-03-15 13:52,C1136,U922-136,he,invoice copy,general model,0,Y,
+AS-00022,2027-03-15 14:55,C1237,U689-237,en,invoice copy,general model,0,N,
+AS-00023,2027-03-15 14:36,C1102,U693-102,en,shipment status,TMS status,0,N,
+AS-00024,2027-03-15 14:21,C1204,U112-204,he,complaint,general model,0,Y,
+AS-00025,2027-03-15 15:44,C1204,U917-204,he,ETA,TMS status,0,N,
+AS-00026,2027-03-15 12:26,C1095,U368-095,he,ETA,TMS status,0,Y,
+AS-00027,2027-03-15 14:54,C1218,U496-218,he,shipment status,TMS status,0,Y,
+AS-00028,2027-03-15 08:54,C1052,U598-052,he,other,general model,0,Y,
+AS-00029,2027-03-15 17:19,C1164,U590-164,he,ETA,TMS status,0,N,
+AS-00030,2027-03-15 14:19,C1218,U168-218,he,customs status,TMS status,0,Y,
+AS-00031,2027-03-15 11:06,C1164,U337-164,he,shipment status,TMS status,0,N,4
+AS-00032,2027-03-15 11:56,C1164,U930-164,ru,ETA,TMS status,0,Y,
+AS-00033,2027-03-15 14:33,C1123,U230-123,he,customs status,TMS status,0,Y,5
+AS-00034,2027-03-15 07:29,C1102,U130-102,en,shipment status,TMS status,0,N,2
+AS-00035,2027-03-15 07:49,C1172,U553-172,he,customs status,TMS status,0,Y,
+AS-00036,2027-03-16 07:15,C1141,U126-141,ar,shipment status,TMS status,0,N,4
+AS-00037,2027-03-16 16:37,C1031,U974-031,he,shipment status,TMS status,0,N,5
+AS-00038,2027-03-16 10:03,C1225,U775-225,he,ETA,TMS status,0,Y,
+AS-00039,2027-03-16 14:41,C1073,U943-073,he,shipment status,TMS status,0,N,5
+AS-00040,2027-03-16 16:39,C1031,U493-031,en,complaint,general model,0,Y,4
+AS-00041,2027-03-16 14:06,C1172,U552-172,en,rates,general model,0,Y,
+AS-00042,2027-03-16 09:46,C1123,U979-123,en,shipment status,TMS status,0,Y,1
+AS-00043,2027-03-16 15:26,C1141,U525-141,he,invoice copy,general model,0,N,
+AS-00044,2027-03-16 17:31,C1095,U538-095,he,shipment status,TMS status,0,Y,
+AS-00045,2027-03-16 08:49,C1225,U932-225,en,ETA,TMS status,0,N,
+AS-00046,2027-03-16 10:23,C1060,U787-060,ru,shipment status,TMS status,0,N,
+AS-00047,2027-03-16 16:23,C1095,U638-095,ar,ETA,TMS status,0,N,
+AS-00048,2027-03-16 12:07,C1123,U803-123,he,ETA,TMS status,0,N,5
+AS-00049,2027-03-16 17:29,C1218,U280-218,he,shipment status,TMS status,0,N,
+AS-00050,2027-03-16 10:36,C1136,U782-136,he,other,general model,0,N,
+AS-00051,2027-03-16 15:27,C1007,U648-007,en,ETA,TMS status,0,N,
+AS-00052,2027-03-16 14:52,C1102,U412-102,ru,shipment status,TMS status,0,N,2
+AS-00053,2027-03-16 12:23,C1095,U546-095,he,ETA,TMS status,0,Y,
+AS-00054,2027-03-16 12:03,C1031,U618-031,he,invoice copy,general model,0,N,3
+AS-00055,2027-03-16 13:38,C1141,U297-141,en,shipment status,TMS status,0,N,
+AS-00056,2027-03-16 11:37,C1117,U380-117,en,complaint,general model,0,Y,
+AS-00057,2027-03-16 17:12,C1031,U760-031,en,shipment status,TMS status,0,N,
+AS-00058,2027-03-16 16:51,C1081,U909-081,en,ETA,TMS status,0,N,
+AS-00059,2027-03-16 09:30,C1237,U185-237,he,shipment status,TMS status,0,Y,2
+AS-00060,2027-03-16 08:47,C1193,U171-193,he,other,general model,0,N,2
+AS-00061,2027-03-16 14:17,C1141,U864-141,he,ETA,TMS status,0,N,
+AS-00062,2027-03-16 09:18,C1052,U548-052,he,invoice copy,general model,0,Y,4
+AS-00063,2027-03-16 08:27,C1204,U605-204,he,complaint,general model,0,Y,
+AS-00064,2027-03-16 13:41,C1031,U313-031,he,invoice copy,general model,0,Y,
+AS-00065,2027-03-16 15:52,C1052,U119-052,en,shipment status,TMS status,0,Y,
+AS-00066,2027-03-16 09:23,C1237,U841-237,en,ETA,TMS status,0,N,
+AS-00067,2027-03-16 16:25,C1204,U328-204,en,other,general model,0,N,
+AS-00068,2027-03-17 11:43,C1081,U483-081,he,customs status,TMS status,0,N,
+AS-00069,2027-03-17 12:22,C1060,U484-060,en,shipment status,TMS status,0,N,
+AS-00070,2027-03-17 07:03,C1189,U243-189,ar,rates,general model,0,Y,
+AS-00071,2027-03-17 15:10,C1031,U260-031,ar,complaint,general model,0,Y,
+AS-00072,2027-03-17 15:59,C1073,U652-073,he,shipment status,TMS status,0,N,4
+AS-00073,2027-03-17 17:33,C1189,U264-189,en,rates,general model,0,Y,
+AS-00074,2027-03-17 15:27,C1225,U355-225,en,ETA,TMS status,0,Y,
+AS-00075,2027-03-17 07:40,C1068,U689-068,he,customs status,TMS status,0,N,
+AS-00076,2027-03-17 15:39,C1225,U480-225,he,customs status,TMS status,0,Y,
+AS-00077,2027-03-17 13:40,C1044,U815-044,ru,invoice copy,general model,0,Y,3
+AS-00078,2027-03-17 09:24,C1172,U938-172,he,shipment status,TMS status,0,N,
+AS-00079,2027-03-17 09:51,C1117,U316-117,he,shipment status,TMS status,0,N,
+AS-00080,2027-03-17 07:59,C1123,U748-123,he,shipment status,TMS status,0,N,
+AS-00081,2027-03-17 14:36,C1158,U303-158,ru,shipment status,TMS status,0,N,4
+AS-00082,2027-03-17 13:00,C1158,U682-158,ar,rates,general model,0,Y,3
+AS-00083,2027-03-17 10:06,C1136,U273-136,he,other,general model,0,N,
+AS-00084,2027-03-17 17:43,C1164,U340-164,ru,shipment status,TMS status,0,N,5
+AS-00085,2027-03-17 12:16,C1102,U903-102,he,customs status,TMS status,0,N,
+AS-00086,2027-03-17 09:32,C1068,U928-068,he,complaint,general model,0,Y,
+AS-00087,2027-03-17 09:54,C1172,U522-172,he,ETA,TMS status,0,N,
+AS-00088,2027-03-17 11:22,C1141,U192-141,he,customs status,TMS status,0,Y,
+AS-00089,2027-03-17 13:37,C1189,U169-189,en,ETA,TMS status,0,N,
+AS-00090,2027-03-17 13:26,C1073,U243-073,en,shipment status,TMS status,0,N,
+AS-00091,2027-03-17 14:44,C1172,U711-172,he,other,general model,0,Y,
+AS-00092,2027-03-17 16:55,C1052,U279-052,en,shipment status,TMS status,0,N,
+AS-00093,2027-03-17 08:20,C1095,U381-095,ru,invoice copy,general model,0,Y,
+AS-00094,2027-03-17 15:07,C1007,U795-007,he,shipment status,TMS status,0,N,
+AS-00095,2027-03-17 09:04,C1031,U440-031,he,invoice copy,general model,0,Y,4
+AS-00096,2027-03-17 09:39,C1081,U767-081,he,ETA,TMS status,0,N,
+AS-00097,2027-03-17 09:22,C1141,U390-141,he,customs status,TMS status,0,Y,4
+AS-00098,2027-03-17 08:42,C1022,U465-022,he,customs status,TMS status,0,N,
+AS-00099,2027-03-17 07:34,C1237,U546-237,he,shipment status,TMS status,0,N,4
+AS-00100,2027-03-17 12:37,C1158,U209-158,he,customs status,TMS status,0,Y,
+AS-00101,2027-03-17 07:11,C1164,U592-164,he,shipment status,TMS status,0,N,
+AS-00102,2027-03-17 10:56,C1225,U137-225,he,complaint,general model,0,Y,
+AS-00103,2027-03-18 12:51,C1095,U482-095,ar,invoice copy,general model,0,N,3
+AS-00104,2027-03-18 07:10,C1172,U927-172,he,shipment status,TMS status,0,N,
+AS-00105,2027-03-18 16:39,C1189,U467-189,ru,shipment status,TMS status,0,N,
+AS-00106,2027-03-18 11:03,C1193,U112-193,he,rates,general model,0,Y,
+AS-00107,2027-03-18 10:37,C1193,U164-193,he,ETA,TMS status,0,Y,5
+AS-00108,2027-03-18 12:30,C1052,U308-052,he,rates,general model,0,Y,3
+AS-00109,2027-03-18 11:31,C1123,U284-123,he,customs status,TMS status,0,N,
+AS-00110,2027-03-18 10:37,C1237,U678-237,ru,ETA,TMS status,0,N,
+AS-00111,2027-03-18 13:03,C1141,U291-141,ru,shipment status,TMS status,0,Y,
+AS-00112,2027-03-18 13:24,C1073,U173-073,he,shipment status,TMS status,0,N,
+AS-00113,2027-03-18 15:39,C1158,U241-158,ar,ETA,TMS status,0,Y,
+AS-00114,2027-03-18 16:40,C1237,U376-237,en,customs status,TMS status,0,N,
+AS-00115,2027-03-18 09:44,C1073,U173-073,ar,invoice copy,general model,0,Y,
+AS-00116,2027-03-18 13:46,C1189,U154-189,ru,customs status,TMS status,0,Y,
+AS-00117,2027-03-18 07:49,C1189,U408-189,he,shipment status,TMS status,0,Y,
+AS-00118,2027-03-18 07:53,C1073,U400-073,he,rates,general model,0,Y,
+AS-00119,2027-03-18 10:18,C1158,U259-158,ar,shipment status,TMS status,0,Y,
+AS-00120,2027-03-18 13:15,C1102,U679-102,he,ETA,TMS status,0,Y,
+AS-00121,2027-03-18 12:55,C1123,U985-123,en,other,general model,0,Y,
+AS-00122,2027-03-18 10:19,C1102,U354-102,en,other,general model,0,Y,
+AS-00123,2027-03-18 07:45,C1022,U672-022,he,customs status,TMS status,0,N,
+AS-00124,2027-03-18 07:48,C1136,U476-136,ru,shipment status,TMS status,0,N,1
+AS-00125,2027-03-18 09:44,C1117,U553-117,ar,shipment status,TMS status,0,Y,
+AS-00126,2027-03-18 16:30,C1081,U151-081,he,shipment status,TMS status,0,N,
+AS-00127,2027-03-18 09:26,C1068,U961-068,he,customs status,TMS status,0,N,
+AS-00128,2027-03-18 09:25,C1022,U946-022,he,customs status,TMS status,0,Y,
+AS-00129,2027-03-18 14:41,C1204,U367-204,he,shipment status,TMS status,0,Y,4
+AS-00130,2027-03-18 16:32,C1158,U872-158,he,customs status,TMS status,0,N,
+AS-00131,2027-03-18 11:33,C1225,U470-225,en,invoice copy,general model,0,N,
+AS-00132,2027-03-18 08:42,C1095,U424-095,en,customs status,TMS status,0,N,
+AS-00133,2027-03-18 10:48,C1225,U687-225,ar,shipment status,TMS status,0,N,
+AS-00134,2027-03-18 12:10,C1193,U982-193,he,invoice copy,general model,0,Y,
+AS-00135,2027-03-18 17:36,C1204,U756-204,he,customs status,TMS status,0,N,
+AS-00136,2027-03-18 17:34,C1068,U780-068,ru,shipment status,TMS status,0,Y,
+AS-00137,2027-03-18 11:19,C1136,U560-136,en,ETA,TMS status,0,N,4
+AS-00138,2027-03-18 13:58,C1225,U797-225,he,shipment status,TMS status,0,N,
+AS-00139,2027-03-21 17:50,C1218,U305-218,he,shipment status,TMS status,0,N,
+AS-00140,2027-03-21 08:37,C1218,U148-218,en,customs status,TMS status,0,Y,
+AS-00141,2027-03-21 17:14,C1172,U438-172,he,customs status,TMS status,0,N,4
+AS-00142,2027-03-21 14:05,C1060,U563-060,he,shipment status,TMS status,0,N,
+AS-00143,2027-03-21 11:08,C1102,U816-102,ar,shipment status,TMS status,0,N,4
+AS-00144,2027-03-21 12:40,C1225,U297-225,he,customs status,TMS status,0,Y,
+AS-00145,2027-03-21 11:28,C1218,U420-218,en,ETA,TMS status,0,N,4
+AS-00146,2027-03-21 11:39,C1117,U652-117,he,shipment status,TMS status,0,N,
+AS-00147,2027-03-21 13:11,C1095,U515-095,he,ETA,TMS status,0,N,4
+AS-00148,2027-03-21 14:11,C1095,U438-095,he,customs status,TMS status,0,N,3
+AS-00149,2027-03-21 08:03,C1081,U167-081,he,shipment status,TMS status,0,N,1
+AS-00150,2027-03-21 10:25,C1022,U778-022,he,shipment status,TMS status,0,N,
+AS-00151,2027-03-21 10:29,C1164,U148-164,he,ETA,TMS status,0,N,
+AS-00152,2027-03-21 10:21,C1052,U658-052,he,customs status,TMS status,0,Y,3
+AS-00153,2027-03-21 13:44,C1007,U102-007,he,shipment status,TMS status,0,N,2
+AS-00154,2027-03-21 07:16,C1060,U357-060,he,customs status,TMS status,0,Y,
+AS-00155,2027-03-21 10:19,C1193,U981-193,en,invoice copy,general model,0,Y,
+AS-00156,2027-03-21 14:56,C1081,U556-081,he,shipment status,TMS status,0,N,
+AS-00157,2027-03-21 08:49,C1204,U135-204,ru,shipment status,TMS status,0,Y,3
+AS-00158,2027-03-21 12:38,C1164,U717-164,he,shipment status,TMS status,0,N,
+AS-00159,2027-03-21 12:56,C1225,U821-225,he,shipment status,TMS status,0,N,
+AS-00160,2027-03-21 07:30,C1158,U567-158,he,complaint,general model,0,Y,
+AS-00161,2027-03-21 15:25,C1123,U634-123,he,customs status,TMS status,0,Y,
+AS-00162,2027-03-21 09:37,C1136,U151-136,he,complaint,general model,0,Y,
+AS-00163,2027-03-21 17:36,C1022,U792-022,he,customs status,TMS status,0,N,
+AS-00164,2027-03-21 12:32,C1031,U246-031,he,shipment status,TMS status,0,N,
+AS-00165,2027-03-21 12:23,C1158,U549-158,en,complaint,general model,0,Y,5
+AS-00166,2027-03-21 10:53,C1081,U319-081,en,shipment status,TMS status,0,Y,5
+AS-00167,2027-03-21 07:24,C1141,U747-141,he,shipment status,TMS status,0,N,
+AS-00168,2027-03-21 07:51,C1141,U416-141,he,invoice copy,general model,0,Y,
+AS-00169,2027-03-21 08:03,C1068,U838-068,he,ETA,TMS status,0,N,
+AS-00170,2027-03-21 07:12,C1158,U155-158,he,shipment status,TMS status,0,N,5
+AS-00171,2027-03-21 15:26,C1225,U671-225,en,shipment status,TMS status,0,Y,
+AS-00172,2027-03-21 17:00,C1102,U267-102,he,ETA,TMS status,0,N,2
+AS-00173,2027-03-21 11:27,C1158,U737-158,he,ETA,TMS status,0,Y,4
+AS-00174,2027-03-21 16:03,C1237,U365-237,en,complaint,general model,0,Y,
+AS-00175,2027-03-21 11:18,C1204,U589-204,he,shipment status,TMS status,0,N,
+AS-00176,2027-03-21 12:58,C1237,U190-237,ru,complaint,general model,0,Y,
+AS-00177,2027-03-21 08:22,C1095,U489-095,he,invoice copy,general model,0,Y,
+AS-00178,2027-03-21 16:58,C1158,U135-158,ru,shipment status,TMS status,0,N,3
+AS-00179,2027-03-21 14:38,C1022,U631-022,he,invoice copy,general model,0,Y,
+AS-00180,2027-03-22 08:46,C1172,U494-172,ru,shipment status,TMS status,0,N,
+AS-00181,2027-03-22 11:56,C1022,U644-022,he,shipment status,TMS status,0,Y,4
+AS-00182,2027-03-22 07:08,C1044,U227-044,he,customs status,TMS status,0,Y,
+AS-00183,2027-03-22 11:16,C1123,U212-123,he,other,general model,0,Y,
+AS-00184,2027-03-22 07:03,C1164,U942-164,en,ETA,TMS status,0,Y,5
+AS-00185,2027-03-22 11:09,C1237,U847-237,he,ETA,TMS status,0,N,
+AS-00186,2027-03-22 17:40,C1007,U975-007,en,rates,general model,0,Y,
+AS-00187,2027-03-22 10:22,C1007,U280-007,he,rates,general model,0,Y,
+AS-00188,2027-03-22 07:20,C1141,U131-141,he,customs status,TMS status,0,Y,
+AS-00189,2027-03-22 12:02,C1172,U565-172,en,ETA,TMS status,0,N,
+AS-00190,2027-03-22 16:36,C1204,U838-204,ar,shipment status,TMS status,0,N,
+AS-00191,2027-03-22 10:38,C1068,U553-068,he,ETA,TMS status,0,Y,
+AS-00192,2027-03-22 13:55,C1237,U889-237,he,complaint,general model,0,Y,
+AS-00193,2027-03-22 07:30,C1204,U685-204,he,customs status,TMS status,0,N,
+AS-00194,2027-03-22 14:09,C1123,U364-123,he,customs status,TMS status,0,Y,
+AS-00195,2027-03-22 07:40,C1073,U825-073,ar,ETA,TMS status,0,N,4
+AS-00196,2027-03-22 08:29,C1237,U763-237,he,shipment status,TMS status,0,N,
+AS-00197,2027-03-22 15:57,C1052,U698-052,en,other,general model,0,Y,
+AS-00198,2027-03-22 12:48,C1044,U185-044,he,shipment status,TMS status,0,N,
+AS-00199,2027-03-22 10:28,C1172,U106-172,he,customs status,TMS status,0,Y,
+AS-00200,2027-03-22 17:31,C1164,U240-164,he,other,general model,0,Y,
+AS-00201,2027-03-22 13:40,C1081,U544-081,he,shipment status,TMS status,0,N,4
+AS-00202,2027-03-22 16:47,C1164,U137-164,he,complaint,general model,0,Y,1
+AS-00203,2027-03-22 07:27,C1204,U568-204,he,ETA,TMS status,0,Y,
+AS-00204,2027-03-22 10:07,C1044,U334-044,he,customs status,TMS status,0,Y,
+AS-00205,2027-03-22 11:36,C1172,U668-172,en,customs status,TMS status,0,N,
+AS-00206,2027-03-22 13:07,C1068,U703-068,he,customs status,TMS status,0,N,
+AS-00207,2027-03-22 09:54,C1237,U519-237,he,shipment status,TMS status,0,N,
+AS-00208,2027-03-22 14:56,C1225,U532-225,he,ETA,TMS status,0,Y,
+AS-00209,2027-03-22 17:18,C1218,U991-218,ar,customs status,TMS status,0,N,4
+AS-00210,2027-03-22 15:38,C1136,U307-136,he,shipment status,TMS status,0,N,
+AS-00211,2027-03-22 13:58,C1225,U801-225,en,other,general model,0,N,5
+AS-00212,2027-03-22 11:39,C1237,U609-237,he,ETA,TMS status,0,N,2
+AS-00213,2027-03-22 07:38,C1237,U485-237,he,other,general model,0,Y,2
+AS-00214,2027-03-22 08:29,C1204,U569-204,he,shipment status,TMS status,0,N,2
+AS-00215,2027-03-22 08:31,C1136,U293-136,en,shipment status,TMS status,0,Y,
+AS-00216,2027-03-22 09:37,C1204,U113-204,en,shipment status,TMS status,0,N,
+AS-00217,2027-03-22 13:56,C1237,U341-237,he,other,general model,0,Y,
+AS-00218,2027-03-23 10:55,C1123,U169-123,he,ETA,TMS status,0,N,5
+AS-00219,2027-03-23 14:19,C1136,U158-136,he,shipment status,TMS status,0,Y,5
+AS-00220,2027-03-23 17:59,C1237,U237-237,he,invoice copy,general model,0,Y,
+AS-00221,2027-03-23 08:06,C1022,U465-022,he,ETA,TMS status,0,Y,1
+AS-00222,2027-03-23 07:46,C1031,U798-031,ru,customs status,TMS status,0,Y,
+AS-00223,2027-03-23 08:03,C1123,U565-123,he,complaint,general model,0,N,
+AS-00224,2027-03-23 09:50,C1031,U559-031,en,customs status,TMS status,0,Y,2
+AS-00225,2027-03-23 15:16,C1189,U277-189,he,shipment status,TMS status,0,Y,
+AS-00226,2027-03-23 15:38,C1204,U679-204,he,customs status,TMS status,0,N,
+AS-00227,2027-03-23 11:58,C1193,U314-193,ru,customs status,TMS status,0,Y,
+AS-00228,2027-03-23 10:59,C1158,U530-158,he,customs status,TMS status,0,Y,
+AS-00229,2027-03-23 16:28,C1031,U717-031,en,complaint,general model,0,Y,
+AS-00230,2027-03-23 14:08,C1123,U253-123,en,customs status,TMS status,0,N,1
+AS-00231,2027-03-23 10:44,C1073,U613-073,en,customs status,TMS status,0,N,
+AS-00232,2027-03-23 14:03,C1158,U799-158,he,customs status,TMS status,0,N,
+AS-00233,2027-03-23 16:25,C1102,U178-102,he,ETA,TMS status,0,Y,
+AS-00234,2027-03-23 12:48,C1007,U228-007,he,shipment status,TMS status,0,N,
+AS-00235,2027-03-23 14:05,C1052,U426-052,en,other,general model,0,Y,
+AS-00236,2027-03-23 16:06,C1117,U820-117,he,customs status,TMS status,0,N,
+AS-00237,2027-03-23 18:00,C1225,U894-225,en,ETA,TMS status,0,N,
+AS-00238,2027-03-23 09:50,C1044,U166-044,ru,rates,general model,0,Y,
+AS-00239,2027-03-23 12:48,C1172,U224-172,ru,invoice copy,general model,0,Y,1
+AS-00240,2027-03-23 17:30,C1123,U111-123,he,invoice copy,general model,0,Y,
+AS-00241,2027-03-23 08:01,C1068,U390-068,ar,customs status,TMS status,0,Y,
+AS-00242,2027-03-23 16:36,C1193,U628-193,he,shipment status,TMS status,0,Y,5
+AS-00243,2027-03-23 16:01,C1102,U250-102,he,shipment status,TMS status,0,N,
+AS-00244,2027-03-23 16:27,C1204,U833-204,he,ETA,TMS status,0,N,
+AS-00245,2027-03-23 08:11,C1141,U896-141,he,shipment status,TMS status,0,N,
+AS-00246,2027-03-23 10:51,C1141,U553-141,he,ETA,TMS status,0,Y,
+AS-00247,2027-03-23 08:16,C1193,U830-193,he,shipment status,TMS status,0,N,2
+AS-00248,2027-03-23 07:49,C1141,U538-141,he,ETA,TMS status,0,N,
+AS-00249,2027-03-23 08:57,C1136,U884-136,ar,customs status,TMS status,0,N,1
+AS-00250,2027-03-23 08:20,C1007,U303-007,he,other,general model,0,N,
+AS-00251,2027-03-23 12:33,C1237,U707-237,he,other,general model,0,Y,
+AS-00252,2027-03-23 15:02,C1136,U131-136,he,shipment status,TMS status,0,N,3
+AS-00253,2027-03-23 09:26,C1052,U177-052,en,shipment status,TMS status,0,N,
+AS-00254,2027-03-23 12:49,C1193,U103-193,he,shipment status,TMS status,0,N,
+AS-00255,2027-03-24 08:19,C1052,U408-052,he,customs status,TMS status,0,N,
+AS-00256,2027-03-24 09:44,C1068,U891-068,en,ETA,TMS status,0,N,
+AS-00257,2027-03-24 09:24,C1158,U905-158,en,ETA,TMS status,0,Y,
+AS-00258,2027-03-24 14:37,C1073,U940-073,ru,ETA,TMS status,0,Y,3
+AS-00259,2027-03-24 14:36,C1136,U769-136,he,shipment status,TMS status,0,N,
+AS-00260,2027-03-24 15:21,C1102,U407-102,he,shipment status,TMS status,0,Y,5
+AS-00261,2027-03-24 17:52,C1123,U372-123,en,shipment status,TMS status,0,N,
+AS-00262,2027-03-24 13:17,C1073,U688-073,he,invoice copy,general model,0,N,
+AS-00263,2027-03-24 16:11,C1095,U666-095,ru,shipment status,TMS status,0,N,2
+AS-00264,2027-03-24 12:24,C1068,U495-068,ar,shipment status,TMS status,0,Y,
+AS-00265,2027-03-24 14:59,C1204,U990-204,ru,shipment status,TMS status,0,N,1
+AS-00266,2027-03-24 10:37,C1218,U808-218,en,customs status,TMS status,0,N,
+AS-00267,2027-03-24 11:20,C1172,U573-172,en,invoice copy,general model,0,Y,2
+AS-00268,2027-03-24 16:29,C1172,U733-172,ru,customs status,TMS status,0,Y,
+AS-00269,2027-03-24 12:13,C1218,U849-218,he,customs status,TMS status,0,Y,
+AS-00270,2027-03-24 16:21,C1052,U826-052,en,shipment status,TMS status,0,N,5
+AS-00271,2027-03-24 12:25,C1237,U755-237,he,ETA,TMS status,0,Y,
+AS-00272,2027-03-24 11:22,C1044,U178-044,he,shipment status,TMS status,0,N,4
+AS-00273,2027-03-24 16:53,C1237,U408-237,he,ETA,TMS status,0,N,
+AS-00274,2027-03-24 10:53,C1158,U507-158,he,rates,general model,0,Y,
+AS-00275,2027-03-24 13:21,C1172,U454-172,ar,invoice copy,general model,0,Y,
+AS-00276,2027-03-24 17:05,C1204,U604-204,ar,customs status,TMS status,0,Y,5
+AS-00277,2027-03-24 10:19,C1193,U352-193,he,ETA,TMS status,0,N,
+AS-00278,2027-03-24 16:44,C1218,U768-218,he,ETA,TMS status,0,N,3
+AS-00279,2027-03-24 13:19,C1068,U231-068,ar,ETA,TMS status,0,N,
+AS-00280,2027-03-24 13:10,C1117,U972-117,he,rates,general model,0,Y,5
+AS-00281,2027-03-24 10:12,C1060,U541-060,he,shipment status,TMS status,0,N,
+AS-00282,2027-03-24 15:34,C1044,U417-044,he,complaint,general model,0,Y,
+AS-00283,2027-03-24 11:24,C1141,U830-141,he,ETA,TMS status,0,N,4
+AS-00284,2027-03-24 17:25,C1044,U123-044,ru,complaint,general model,0,N,
+AS-00285,2027-03-24 09:47,C1031,U374-031,en,shipment status,TMS status,0,Y,
+AS-00286,2027-03-24 12:05,C1136,U100-136,he,customs status,TMS status,0,Y,1
+AS-00287,2027-03-24 08:13,C1060,U339-060,en,ETA,TMS status,0,N,
+AS-00288,2027-03-24 09:12,C1068,U904-068,ru,customs status,TMS status,0,Y,
+AS-00289,2027-03-24 10:51,C1031,U141-031,ar,shipment status,TMS status,0,Y,4
+AS-00290,2027-03-24 11:07,C1164,U672-164,en,shipment status,TMS status,0,N,4
+AS-00291,2027-03-24 17:55,C1044,U884-044,he,rates,general model,0,Y,
+AS-00292,2027-03-24 17:53,C1218,U988-218,en,customs status,TMS status,0,N,
+AS-00293,2027-03-24 16:25,C1123,U237-123,he,customs status,TMS status,0,Y,
+AS-00294,2027-03-24 15:24,C1007,U627-007,en,shipment status,TMS status,0,N,
+AS-00295,2027-03-25 10:09,C1225,U114-225,he,other,general model,0,N,4
+AS-00296,2027-03-25 10:18,C1081,U717-081,en,ETA,TMS status,0,Y,
+AS-00297,2027-03-25 13:48,C1237,U317-237,ru,rates,general model,0,Y,
+AS-00298,2027-03-25 13:18,C1081,U333-081,ru,ETA,TMS status,0,N,5
+AS-00299,2027-03-25 17:17,C1095,U303-095,he,invoice copy,general model,0,Y,
+AS-00300,2027-03-25 15:32,C1172,U575-172,ru,other,general model,0,Y,
+AS-00301,2027-03-25 14:57,C1031,U268-031,he,customs status,TMS status,0,Y,
+AS-00302,2027-03-25 15:54,C1225,U290-225,en,ETA,TMS status,0,N,
+AS-00303,2027-03-25 08:01,C1189,U229-189,he,complaint,general model,0,Y,
+AS-00304,2027-03-25 12:15,C1189,U740-189,he,customs status,TMS status,0,Y,2
+AS-00305,2027-03-25 11:10,C1164,U358-164,en,shipment status,TMS status,0,N,3
+AS-00306,2027-03-25 12:18,C1031,U456-031,en,customs status,TMS status,0,Y,
+AS-00307,2027-03-25 10:54,C1073,U871-073,he,rates,general model,0,N,1
+AS-00308,2027-03-25 08:07,C1189,U396-189,en,ETA,TMS status,0,N,
+AS-00309,2027-03-25 14:44,C1204,U722-204,en,invoice copy,general model,0,N,
+AS-00310,2027-03-25 16:29,C1081,U539-081,en,customs status,TMS status,0,N,
+AS-00311,2027-03-25 12:44,C1225,U482-225,ru,invoice copy,general model,0,Y,
+AS-00312,2027-03-25 17:47,C1158,U720-158,he,shipment status,TMS status,0,N,
+AS-00313,2027-03-25 13:04,C1007,U365-007,he,invoice copy,general model,0,N,
+AS-00314,2027-03-25 13:15,C1141,U329-141,he,shipment status,TMS status,0,N,
+AS-00315,2027-03-25 08:48,C1102,U982-102,ru,other,general model,0,Y,
+AS-00316,2027-03-25 11:18,C1095,U848-095,ru,shipment status,TMS status,0,Y,
+AS-00317,2027-03-25 08:05,C1158,U830-158,he,shipment status,TMS status,0,N,
+AS-00318,2027-03-25 17:50,C1123,U426-123,he,ETA,TMS status,0,N,
+AS-00319,2027-03-25 11:57,C1158,U392-158,en,invoice copy,general model,0,Y,
+AS-00320,2027-03-25 09:55,C1164,U195-164,he,other,general model,0,Y,
+AS-00321,2027-03-25 13:59,C1044,U894-044,he,ETA,TMS status,0,N,
+AS-00322,2027-03-25 08:04,C1095,U161-095,he,shipment status,TMS status,0,Y,
+AS-00323,2027-03-25 11:01,C1044,U925-044,he,customs status,TMS status,0,N,
+AS-00324,2027-03-25 15:04,C1095,U131-095,he,shipment status,TMS status,0,N,
+AS-00325,2027-03-25 09:10,C1172,U968-172,he,ETA,TMS status,0,N,
+AS-00326,2027-03-25 17:29,C1193,U915-193,en,invoice copy,general model,0,N,
+AS-00327,2027-03-25 16:58,C1081,U266-081,ar,customs status,TMS status,0,Y,4
+AS-00328,2027-03-25 09:24,C1136,U447-136,he,customs status,TMS status,0,N,1
+AS-00329,2027-03-25 10:43,C1218,U727-218,he,shipment status,TMS status,0,N,
+AS-00330,2027-03-25 16:27,C1073,U565-073,en,customs status,TMS status,0,N,
+AS-00331,2027-03-25 14:21,C1123,U473-123,en,shipment status,TMS status,0,N,
+AS-00332,2027-03-28 14:55,C1123,U499-123,he,customs status,TMS status,0,Y,
+AS-00333,2027-03-28 13:52,C1204,U188-204,ru,shipment status,TMS status,0,Y,
+AS-00334,2027-03-28 17:30,C1060,U544-060,he,ETA,TMS status,0,N,
+AS-00335,2027-03-28 11:06,C1060,U162-060,he,shipment status,TMS status,0,Y,
+AS-00336,2027-03-28 09:20,C1123,U310-123,en,ETA,TMS status,0,Y,
+AS-00337,2027-03-28 13:02,C1172,U322-172,he,ETA,TMS status,0,N,
+AS-00338,2027-03-28 09:44,C1204,U232-204,he,complaint,general model,0,Y,
+AS-00339,2027-03-28 11:23,C1052,U992-052,en,invoice copy,general model,0,N,
+AS-00340,2027-03-28 09:44,C1007,U607-007,he,shipment status,TMS status,0,Y,4
+AS-00341,2027-03-28 16:40,C1102,U360-102,en,invoice copy,general model,0,Y,
+AS-00342,2027-03-28 12:46,C1117,U160-117,he,ETA,TMS status,0,N,
+AS-00343,2027-03-28 16:38,C1141,U276-141,he,rates,general model,0,Y,
+AS-00344,2027-03-28 07:11,C1022,U301-022,he,shipment status,TMS status,0,N,
+AS-00345,2027-03-28 14:19,C1141,U913-141,he,shipment status,TMS status,0,Y,
+AS-00346,2027-03-28 17:15,C1095,U794-095,he,ETA,TMS status,0,N,
+AS-00347,2027-03-28 16:45,C1068,U233-068,he,ETA,TMS status,0,Y,
+AS-00348,2027-03-28 14:47,C1164,U497-164,en,ETA,TMS status,0,N,4
+AS-00349,2027-03-28 13:49,C1164,U442-164,he,customs status,TMS status,0,N,
+AS-00350,2027-03-28 14:57,C1225,U610-225,ar,complaint,general model,0,Y,2
+AS-00351,2027-03-28 15:21,C1218,U646-218,he,ETA,TMS status,0,Y,
+AS-00352,2027-03-28 09:22,C1204,U300-204,he,shipment status,TMS status,0,N,
+AS-00353,2027-03-28 15:15,C1052,U194-052,he,ETA,TMS status,0,Y,
+AS-00354,2027-03-28 07:41,C1044,U744-044,en,customs status,TMS status,0,N,
+AS-00355,2027-03-28 09:14,C1068,U551-068,he,other,general model,0,Y,3
+AS-00356,2027-03-28 12:47,C1225,U985-225,he,shipment status,TMS status,0,N,4
+AS-00357,2027-03-28 15:43,C1102,U623-102,he,shipment status,TMS status,0,N,
+AS-00358,2027-03-28 16:07,C1007,U938-007,en,customs status,TMS status,0,Y,
+AS-00359,2027-03-28 12:41,C1141,U895-141,he,invoice copy,general model,0,N,
+AS-00360,2027-03-28 14:32,C1031,U371-031,he,shipment status,TMS status,0,N,
+AS-00361,2027-03-28 17:33,C1117,U275-117,he,customs status,TMS status,0,Y,
+AS-00362,2027-03-28 13:20,C1007,U799-007,he,customs status,TMS status,0,Y,5
+AS-00363,2027-03-28 16:22,C1141,U753-141,ar,rates,general model,0,Y,
+AS-00364,2027-03-28 15:39,C1218,U141-218,he,ETA,TMS status,0,Y,
+AS-00365,2027-03-28 12:54,C1225,U646-225,en,ETA,TMS status,0,Y,4
+AS-00366,2027-03-28 12:58,C1022,U744-022,ru,customs status,TMS status,0,Y,3
+AS-00367,2027-03-28 13:45,C1052,U488-052,en,customs status,TMS status,0,N,
+AS-00368,2027-03-28 17:52,C1204,U629-204,he,shipment status,TMS status,0,N,
+AS-00369,2027-03-28 10:03,C1136,U503-136,en,customs status,TMS status,0,Y,
+AS-00370,2027-03-28 16:56,C1044,U242-044,he,shipment status,TMS status,0,N,
+AS-00371,2027-03-28 14:18,C1052,U268-052,he,rates,general model,0,Y,5
+AS-00372,2027-03-28 15:45,C1136,U684-136,en,customs status,TMS status,0,N,
+AS-00373,2027-03-29 08:46,C1189,U872-189,he,rates,general model,0,N,5
+AS-00374,2027-03-29 08:03,C1068,U836-068,he,shipment status,TMS status,0,Y,
+AS-00375,2027-03-29 14:10,C1123,U945-123,ar,shipment status,TMS status,0,Y,
+AS-00376,2027-03-29 13:51,C1081,U306-081,en,ETA,TMS status,0,N,
+AS-00377,2027-03-29 07:12,C1117,U545-117,he,shipment status,TMS status,0,N,4
+AS-00378,2027-03-29 17:00,C1095,U177-095,he,invoice copy,general model,0,Y,
+AS-00379,2027-03-29 10:04,C1193,U555-193,he,shipment status,TMS status,0,Y,
+AS-00380,2027-03-29 13:08,C1031,U199-031,he,shipment status,TMS status,0,N,5
+AS-00381,2027-03-29 07:42,C1060,U706-060,he,customs status,TMS status,0,N,
+AS-00382,2027-03-29 17:59,C1007,U357-007,he,shipment status,TMS status,0,Y,
+AS-00383,2027-03-29 12:37,C1022,U299-022,he,customs status,TMS status,0,Y,
+AS-00384,2027-03-29 17:55,C1095,U158-095,he,complaint,general model,0,N,
+AS-00385,2027-03-29 08:54,C1022,U520-022,he,ETA,TMS status,0,Y,
+AS-00386,2027-03-29 08:52,C1237,U844-237,he,other,general model,0,N,
+AS-00387,2027-03-29 13:08,C1218,U501-218,ar,rates,general model,0,Y,1
+AS-00388,2027-03-29 11:36,C1117,U675-117,he,shipment status,TMS status,0,N,3
+AS-00389,2027-03-29 11:26,C1060,U806-060,he,shipment status,TMS status,0,Y,
+AS-00390,2027-03-29 15:30,C1068,U856-068,he,complaint,general model,0,Y,1
+AS-00391,2027-03-29 16:42,C1060,U344-060,he,shipment status,TMS status,0,N,3
+AS-00392,2027-03-29 16:45,C1189,U144-189,ru,customs status,TMS status,0,Y,
+AS-00393,2027-03-29 10:04,C1073,U991-073,he,shipment status,TMS status,0,N,
+AS-00394,2027-03-29 14:48,C1225,U316-225,he,shipment status,TMS status,0,Y,
+AS-00395,2027-03-29 17:13,C1164,U928-164,he,shipment status,TMS status,0,N,3
+AS-00396,2027-03-29 15:57,C1193,U690-193,he,shipment status,TMS status,0,N,
+AS-00397,2027-03-29 17:59,C1117,U122-117,ru,shipment status,TMS status,0,N,
+AS-00398,2027-03-29 11:53,C1007,U513-007,he,rates,general model,0,Y,4
+AS-00399,2027-03-29 13:01,C1158,U106-158,he,customs status,TMS status,0,Y,
+AS-00400,2027-03-29 10:09,C1060,U251-060,he,complaint,general model,0,N,4
+AS-00401,2027-03-29 07:22,C1189,U425-189,en,invoice copy,general model,0,N,3
+AS-00402,2027-03-29 09:53,C1068,U781-068,en,complaint,general model,0,Y,
+AS-00403,2027-03-29 11:59,C1237,U144-237,he,shipment status,TMS status,0,Y,
+AS-00404,2027-03-29 11:28,C1007,U869-007,ru,rates,general model,0,Y,3
+AS-00405,2027-03-30 14:47,C1225,U538-225,en,customs status,TMS status,0,Y,
+AS-00406,2027-03-30 14:08,C1123,U983-123,ru,shipment status,TMS status,0,Y,
+AS-00407,2027-03-30 08:31,C1158,U672-158,he,shipment status,TMS status,0,Y,
+AS-00408,2027-03-30 12:16,C1052,U673-052,he,customs status,TMS status,0,N,
+AS-00409,2027-03-30 16:41,C1189,U356-189,ru,other,general model,0,Y,1
+AS-00410,2027-03-30 07:51,C1189,U136-189,ar,shipment status,TMS status,0,Y,
+AS-00411,2027-03-30 09:15,C1136,U752-136,en,shipment status,TMS status,0,N,
+AS-00412,2027-03-30 16:44,C1073,U827-073,he,ETA,TMS status,0,N,2
+AS-00413,2027-03-30 16:04,C1172,U729-172,en,rates,general model,0,N,
+AS-00414,2027-03-30 07:27,C1007,U449-007,he,rates,general model,0,N,
+AS-00415,2027-03-30 15:00,C1068,U468-068,he,customs status,TMS status,0,N,5
+AS-00416,2027-03-30 10:43,C1102,U763-102,he,shipment status,TMS status,0,Y,
+AS-00417,2027-03-30 10:39,C1068,U708-068,he,invoice copy,general model,0,Y,
+AS-00418,2027-03-30 07:27,C1102,U681-102,he,shipment status,TMS status,0,N,
+AS-00419,2027-03-30 15:07,C1095,U821-095,he,ETA,TMS status,0,Y,
+AS-00420,2027-03-30 10:16,C1068,U143-068,he,ETA,TMS status,0,N,1
+AS-00421,2027-03-30 13:46,C1204,U138-204,he,shipment status,TMS status,0,N,5
+AS-00422,2027-03-30 09:36,C1225,U800-225,he,shipment status,TMS status,0,N,
+AS-00423,2027-03-30 16:48,C1102,U921-102,he,complaint,general model,0,Y,
+AS-00424,2027-03-30 07:13,C1237,U615-237,he,shipment status,TMS status,0,Y,
+AS-00425,2027-03-30 10:13,C1158,U638-158,ru,shipment status,TMS status,0,Y,
+AS-00426,2027-03-30 15:24,C1060,U961-060,he,complaint,general model,0,Y,
+AS-00427,2027-03-30 09:21,C1044,U994-044,he,invoice copy,general model,0,N,2
+AS-00428,2027-03-30 13:20,C1081,U886-081,en,invoice copy,general model,0,Y,
+AS-00429,2027-03-30 09:49,C1123,U944-123,he,customs status,TMS status,0,N,4
+AS-00430,2027-03-30 07:12,C1007,U377-007,he,customs status,TMS status,0,N,
+AS-00431,2027-03-30 15:35,C1172,U731-172,he,customs status,TMS status,0,N,
+AS-00432,2027-03-30 12:38,C1204,U421-204,he,other,general model,0,Y,3
+AS-00433,2027-03-30 07:01,C1081,U493-081,en,ETA,TMS status,0,N,
+AS-00434,2027-03-30 17:30,C1052,U921-052,ar,rates,general model,0,Y,3
+AS-00435,2027-03-30 14:34,C1136,U514-136,he,complaint,general model,0,Y,1
+AS-00436,2027-03-30 14:34,C1172,U299-172,he,customs status,TMS status,0,Y,
+AS-00437,2027-03-31 09:43,C1189,U484-189,he,ETA,TMS status,0,N,
+AS-00438,2027-03-31 10:23,C1225,U817-225,he,complaint,general model,0,Y,
+AS-00439,2027-03-31 16:16,C1136,U824-136,he,rates,general model,0,Y,
+AS-00440,2027-03-31 13:13,C1052,U550-052,en,shipment status,TMS status,0,N,
+AS-00441,2027-03-31 07:38,C1158,U678-158,en,customs status,TMS status,0,N,
+AS-00442,2027-03-31 16:46,C1052,U191-052,en,customs status,TMS status,0,N,
+AS-00443,2027-03-31 16:11,C1123,U338-123,ar,complaint,general model,0,Y,
+AS-00444,2027-03-31 11:21,C1189,U324-189,ru,other,general model,0,N,
+AS-00445,2027-03-31 13:19,C1158,U881-158,he,complaint,general model,0,Y,
+AS-00446,2027-03-31 14:42,C1218,U642-218,he,shipment status,TMS status,0,N,1
+AS-00447,2027-03-31 11:02,C1068,U470-068,en,rates,general model,0,Y,
+AS-00448,2027-03-31 17:34,C1068,U174-068,he,ETA,TMS status,0,Y,
+AS-00449,2027-03-31 11:10,C1060,U557-060,en,shipment status,TMS status,0,N,
+AS-00450,2027-03-31 07:53,C1081,U503-081,he,shipment status,TMS status,0,N,
+AS-00451,2027-03-31 14:33,C1052,U873-052,en,shipment status,TMS status,0,N,5
+AS-00452,2027-03-31 07:47,C1136,U960-136,en,complaint,general model,0,Y,
+AS-00453,2027-03-31 09:33,C1172,U800-172,ru,invoice copy,general model,0,Y,2
+AS-00454,2027-03-31 10:44,C1172,U348-172,he,shipment status,TMS status,0,Y,
+AS-00455,2027-03-31 15:33,C1225,U473-225,he,other,general model,0,N,
+AS-00456,2027-03-31 07:56,C1044,U392-044,he,shipment status,TMS status,0,Y,
+AS-00457,2027-03-31 09:42,C1031,U209-031,ru,shipment status,TMS status,0,N,
+AS-00458,2027-03-31 12:54,C1193,U681-193,he,customs status,TMS status,0,N,
+AS-00459,2027-03-31 07:22,C1031,U888-031,he,customs status,TMS status,0,Y,
+AS-00460,2027-03-31 08:51,C1189,U130-189,he,other,general model,0,N,
+AS-00461,2027-03-31 08:43,C1022,U161-022,he,invoice copy,general model,0,N,
+AS-00462,2027-03-31 10:49,C1193,U622-193,en,customs status,TMS status,0,N,5
+AS-00463,2027-03-31 16:24,C1044,U211-044,he,shipment status,TMS status,0,N,
+AS-00464,2027-03-31 07:57,C1022,U494-022,en,shipment status,TMS status,0,N,
+AS-00465,2027-03-31 08:26,C1044,U493-044,he,shipment status,TMS status,0,N,2
+AS-00466,2027-03-31 14:19,C1237,U885-237,he,customs status,TMS status,0,N,
+AS-00467,2027-03-31 08:58,C1123,U493-123,ru,shipment status,TMS status,0,N,
+AS-00468,2027-03-31 14:54,C1141,U395-141,he,shipment status,TMS status,0,N,3
+AS-00469,2027-03-31 13:01,C1123,U341-123,he,ETA,TMS status,0,Y,
+AS-00470,2027-03-31 12:51,C1193,U421-193,he,other,general model,0,Y,
+AS-00471,2027-03-31 10:05,C1158,U910-158,he,shipment status,TMS status,0,N,3
+AS-00472,2027-03-31 15:07,C1164,U648-164,he,shipment status,TMS status,0,N,3
+AS-00473,2027-03-31 15:27,C1102,U986-102,he,other,general model,0,N,1
+AS-00474,2027-03-31 07:36,C1189,U107-189,ru,shipment status,TMS status,0,Y,
+AS-00475,2027-03-31 14:12,C1068,U735-068,he,customs status,TMS status,0,N,5
+AS-00476,2027-03-31 08:54,C1237,U930-237,en,shipment status,TMS status,0,N,
+AS-00477,2027-04-01 16:49,C1073,U884-073,he,customs status,TMS status,0,Y,
+AS-00478,2027-04-01 10:10,C1193,U291-193,he,complaint,general model,0,Y,1
+AS-00479,2027-04-01 11:22,C1007,U284-007,ar,ETA,TMS status,0,Y,
+AS-00480,2027-04-01 17:40,C1172,U593-172,en,invoice copy,general model,0,N,5
+AS-00481,2027-04-01 17:47,C1123,U971-123,he,customs status,TMS status,0,N,
+AS-00482,2027-04-01 11:39,C1136,U890-136,he,shipment status,TMS status,0,N,
+AS-00483,2027-04-01 13:13,C1073,U582-073,he,shipment status,TMS status,0,Y,
+AS-00484,2027-04-01 07:58,C1189,U411-189,ru,shipment status,TMS status,0,N,
+AS-00485,2027-04-01 14:36,C1044,U781-044,he,shipment status,TMS status,0,Y,
+AS-00486,2027-04-01 08:05,C1073,U842-073,en,invoice copy,general model,0,N,5
+AS-00487,2027-04-01 07:34,C1007,U334-007,en,ETA,TMS status,0,Y,
+AS-00488,2027-04-01 10:39,C1117,U511-117,he,shipment status,TMS status,0,N,
+AS-00489,2027-04-01 14:35,C1031,U429-031,he,invoice copy,general model,0,N,
+AS-00490,2027-04-01 12:11,C1204,U496-204,en,customs status,TMS status,0,Y,
+AS-00491,2027-04-01 17:33,C1204,U351-204,en,complaint,general model,0,Y,5
+AS-00492,2027-04-01 16:03,C1044,U646-044,ru,customs status,TMS status,0,Y,5
+AS-00493,2027-04-01 13:13,C1123,U148-123,he,rates,general model,0,Y,
+AS-00494,2027-04-01 10:42,C1068,U195-068,he,customs status,TMS status,0,Y,3
+AS-00495,2027-04-01 13:49,C1204,U265-204,en,customs status,TMS status,0,Y,1
+AS-00496,2027-04-01 08:44,C1123,U353-123,he,shipment status,TMS status,0,N,
+AS-00497,2027-04-01 07:18,C1081,U532-081,he,shipment status,TMS status,0,N,
+AS-00498,2027-04-01 08:12,C1136,U578-136,en,shipment status,TMS status,0,N,
+AS-00499,2027-04-01 15:04,C1123,U435-123,he,ETA,TMS status,0,N,
+AS-00500,2027-04-01 08:55,C1081,U314-081,he,shipment status,TMS status,0,N,
+AS-00501,2027-04-01 10:38,C1007,U675-007,he,rates,general model,0,Y,
+AS-00502,2027-04-01 07:16,C1123,U111-123,en,shipment status,TMS status,0,N,
+AS-00503,2027-04-01 07:57,C1141,U797-141,he,ETA,TMS status,0,Y,2
+AS-00504,2027-04-01 15:58,C1164,U768-164,ru,ETA,TMS status,0,Y,
+AS-00505,2027-04-01 10:56,C1102,U868-102,he,customs status,TMS status,0,N,
+AS-00506,2027-04-01 17:22,C1237,U271-237,he,shipment status,TMS status,0,N,
+AS-00507,2027-04-01 11:43,C1189,U543-189,he,shipment status,TMS status,0,Y,
+AS-00508,2027-04-01 16:32,C1031,U845-031,he,shipment status,TMS status,0,N,
+AS-00509,2027-04-01 17:10,C1189,U477-189,ar,customs status,TMS status,0,N,
+AS-00510,2027-04-01 13:33,C1225,U653-225,en,shipment status,TMS status,0,N,
+AS-00511,2027-04-01 08:28,C1073,U845-073,he,customs status,TMS status,0,N,
+AS-00512,2027-04-01 07:53,C1204,U523-204,en,shipment status,TMS status,0,N,
+AS-00513,2027-04-01 13:28,C1136,U462-136,he,invoice copy,general model,0,Y,
+AS-00514,2027-04-04 13:18,C1172,U711-172,he,shipment status,TMS status,0,N,
+AS-00515,2027-04-04 08:12,C1141,U920-141,ru,shipment status,TMS status,0,N,1
+AS-00516,2027-04-04 16:34,C1007,U561-007,he,complaint,general model,0,Y,5
+AS-00517,2027-04-04 14:43,C1073,U568-073,he,shipment status,TMS status,0,N,5
+AS-00518,2027-04-04 15:09,C1044,U662-044,ru,complaint,general model,0,Y,5
+AS-00519,2027-04-04 07:30,C1060,U231-060,he,shipment status,TMS status,0,N,
+AS-00520,2027-04-04 14:44,C1218,U173-218,he,shipment status,TMS status,0,Y,3
+AS-00521,2027-04-04 08:03,C1237,U626-237,he,shipment status,TMS status,0,N,
+AS-00522,2027-04-04 16:42,C1141,U388-141,en,invoice copy,general model,0,Y,
+AS-00523,2027-04-04 08:26,C1225,U696-225,he,shipment status,TMS status,0,N,
+AS-00524,2027-04-04 12:37,C1052,U468-052,he,shipment status,TMS status,0,N,5
+AS-00525,2027-04-04 07:55,C1060,U341-060,he,complaint,general model,0,Y,
+AS-00526,2027-04-04 10:33,C1073,U300-073,ru,shipment status,TMS status,0,Y,4
+AS-00527,2027-04-04 11:40,C1081,U266-081,ar,customs status,TMS status,0,Y,
+AS-00528,2027-04-04 10:29,C1204,U376-204,he,shipment status,TMS status,0,N,2
+AS-00529,2027-04-04 14:57,C1007,U210-007,he,complaint,general model,0,Y,
+AS-00530,2027-04-04 12:01,C1068,U328-068,he,customs status,TMS status,0,Y,
+AS-00531,2027-04-04 14:35,C1068,U550-068,en,invoice copy,general model,0,N,
+AS-00532,2027-04-04 07:13,C1193,U843-193,ru,shipment status,TMS status,0,Y,
+AS-00533,2027-04-04 09:30,C1123,U411-123,he,rates,general model,0,Y,4
+AS-00534,2027-04-04 10:51,C1193,U919-193,he,invoice copy,general model,0,Y,
+AS-00535,2027-04-04 08:54,C1225,U571-225,en,ETA,TMS status,0,N,
+AS-00536,2027-04-04 15:38,C1204,U334-204,en,customs status,TMS status,0,Y,3
+AS-00537,2027-04-04 13:25,C1044,U489-044,he,shipment status,TMS status,0,N,
+AS-00538,2027-04-04 12:45,C1044,U479-044,en,ETA,TMS status,0,N,
+AS-00539,2027-04-04 16:57,C1117,U320-117,he,invoice copy,general model,0,N,3
+AS-00540,2027-04-04 17:05,C1060,U415-060,he,customs status,TMS status,0,Y,
+AS-00541,2027-04-04 10:28,C1204,U348-204,he,customs status,TMS status,0,Y,
+AS-00542,2027-04-04 13:08,C1022,U180-022,he,customs status,TMS status,0,Y,
+AS-00543,2027-04-04 07:47,C1172,U867-172,he,invoice copy,general model,0,N,5
+AS-00544,2027-04-04 10:15,C1081,U915-081,he,customs status,TMS status,0,Y,5
+AS-00545,2027-04-04 16:10,C1189,U319-189,he,shipment status,TMS status,0,N,
+AS-00546,2027-04-04 08:17,C1081,U406-081,he,complaint,general model,0,Y,
+AS-00547,2027-04-04 07:28,C1068,U339-068,he,shipment status,TMS status,0,N,4
+AS-00548,2027-04-04 12:41,C1073,U891-073,he,invoice copy,general model,0,Y,
+AS-00549,2027-04-05 16:58,C1225,U430-225,ar,shipment status,TMS status,0,N,
+AS-00550,2027-04-05 12:51,C1123,U360-123,he,shipment status,TMS status,0,Y,5
+AS-00551,2027-04-05 08:51,C1218,U926-218,en,invoice copy,general model,0,Y,4
+AS-00552,2027-04-05 13:46,C1136,U304-136,en,shipment status,TMS status,0,Y,3
+AS-00553,2027-04-05 16:30,C1158,U569-158,he,other,general model,0,Y,
+AS-00554,2027-04-05 17:56,C1081,U270-081,he,complaint,general model,0,Y,
+AS-00555,2027-04-05 09:30,C1117,U895-117,he,rates,general model,0,Y,
+AS-00556,2027-04-05 09:07,C1095,U393-095,en,shipment status,TMS status,0,N,
+AS-00557,2027-04-05 07:12,C1164,U502-164,en,shipment status,TMS status,0,N,
+AS-00558,2027-04-05 12:48,C1158,U693-158,he,shipment status,TMS status,0,N,
+AS-00559,2027-04-05 17:18,C1068,U246-068,he,invoice copy,general model,0,Y,
+AS-00560,2027-04-05 08:23,C1117,U341-117,he,shipment status,TMS status,0,N,
+AS-00561,2027-04-05 07:52,C1007,U597-007,he,shipment status,TMS status,0,N,4
+AS-00562,2027-04-05 17:45,C1204,U519-204,he,shipment status,TMS status,0,N,5
+AS-00563,2027-04-05 16:10,C1204,U107-204,en,ETA,TMS status,0,N,5
+AS-00564,2027-04-05 17:27,C1022,U837-022,he,shipment status,TMS status,0,N,
+AS-00565,2027-04-05 09:25,C1081,U757-081,ar,rates,general model,0,Y,
+AS-00566,2027-04-05 11:03,C1102,U631-102,en,shipment status,TMS status,0,N,3
+AS-00567,2027-04-05 10:13,C1189,U387-189,he,customs status,TMS status,0,Y,
+AS-00568,2027-04-05 12:46,C1158,U536-158,he,shipment status,TMS status,0,N,5
+AS-00569,2027-04-05 09:30,C1117,U984-117,en,shipment status,TMS status,0,N,3
+AS-00570,2027-04-05 16:48,C1095,U866-095,he,ETA,TMS status,0,N,
+AS-00571,2027-04-05 10:47,C1158,U788-158,he,rates,general model,0,Y,
+AS-00572,2027-04-05 13:47,C1193,U208-193,ar,rates,general model,0,Y,1
+AS-00573,2027-04-05 11:00,C1052,U101-052,ru,ETA,TMS status,0,Y,4
+AS-00574,2027-04-05 10:26,C1172,U318-172,he,shipment status,TMS status,0,Y,5
+AS-00575,2027-04-05 10:01,C1193,U954-193,he,ETA,TMS status,0,Y,1
+AS-00576,2027-04-05 15:15,C1164,U173-164,ru,complaint,general model,0,Y,
+AS-00577,2027-04-05 10:01,C1081,U967-081,en,customs status,TMS status,0,Y,4
+AS-00578,2027-04-05 13:34,C1022,U520-022,he,shipment status,TMS status,0,N,
+AS-00579,2027-04-05 07:34,C1007,U922-007,en,ETA,TMS status,0,N,4
+AS-00580,2027-04-05 08:02,C1007,U155-007,ar,ETA,TMS status,0,Y,5
+AS-00581,2027-04-05 11:00,C1007,U951-007,ru,other,general model,0,Y,
+AS-00582,2027-04-05 14:29,C1141,U369-141,he,customs status,TMS status,0,Y,
+AS-00583,2027-04-05 14:12,C1052,U397-052,he,customs status,TMS status,0,Y,5
+AS-00584,2027-04-05 17:51,C1141,U583-141,he,customs status,TMS status,0,N,2
+AS-00585,2027-04-05 08:57,C1237,U690-237,ru,customs status,TMS status,0,N,5
+AS-00586,2027-04-05 14:27,C1031,U316-031,he,ETA,TMS status,0,N,4
+AS-00587,2027-04-05 12:55,C1123,U547-123,en,shipment status,TMS status,0,N,
+AS-00588,2027-04-05 16:10,C1044,U449-044,en,customs status,TMS status,0,Y,
+AS-00589,2027-04-05 07:54,C1237,U854-237,he,ETA,TMS status,0,N,
+AS-00590,2027-04-06 14:49,C1044,U482-044,ru,other,general model,0,Y,2
+AS-00591,2027-04-06 13:00,C1189,U776-189,he,customs status,TMS status,0,N,
+AS-00592,2027-04-06 13:29,C1068,U118-068,he,customs status,TMS status,0,N,2
+AS-00593,2027-04-06 09:30,C1189,U271-189,en,ETA,TMS status,0,N,
+AS-00594,2027-04-06 17:29,C1022,U425-022,he,invoice copy,general model,0,N,
+AS-00595,2027-04-06 11:59,C1136,U349-136,he,complaint,general model,0,Y,
+AS-00596,2027-04-06 16:47,C1117,U825-117,he,rates,general model,0,N,
+AS-00597,2027-04-06 15:40,C1081,U305-081,he,shipment status,TMS status,0,N,
+AS-00598,2027-04-06 12:29,C1068,U944-068,he,shipment status,TMS status,0,N,
+AS-00599,2027-04-06 16:39,C1044,U446-044,ar,invoice copy,general model,0,N,
+AS-00600,2027-04-06 15:49,C1193,U802-193,he,complaint,general model,0,Y,
+AS-00601,2027-04-06 13:52,C1117,U542-117,en,shipment status,TMS status,0,N,
+AS-00602,2027-04-06 08:15,C1172,U817-172,he,customs status,TMS status,0,Y,1
+AS-00603,2027-04-06 14:25,C1158,U879-158,he,customs status,TMS status,0,N,3
+AS-00604,2027-04-06 09:54,C1095,U649-095,he,other,general model,0,Y,
+AS-00605,2027-04-06 12:52,C1052,U170-052,he,customs status,TMS status,0,N,
+AS-00606,2027-04-06 14:54,C1117,U459-117,ru,shipment status,TMS status,0,N,
+AS-00607,2027-04-06 14:11,C1172,U785-172,he,rates,general model,0,Y,
+AS-00608,2027-04-06 07:59,C1073,U130-073,he,ETA,TMS status,0,N,
+AS-00609,2027-04-06 16:27,C1007,U472-007,en,complaint,general model,0,Y,1
+AS-00610,2027-04-06 14:48,C1068,U174-068,he,complaint,general model,0,Y,
+AS-00611,2027-04-06 10:15,C1218,U656-218,en,complaint,general model,0,Y,2
+AS-00612,2027-04-06 13:40,C1095,U654-095,en,other,general model,0,Y,
+AS-00613,2027-04-06 08:55,C1189,U634-189,ru,ETA,TMS status,0,Y,2
+AS-00614,2027-04-06 13:05,C1172,U114-172,he,invoice copy,general model,0,N,1
+AS-00615,2027-04-06 17:54,C1193,U764-193,ar,shipment status,TMS status,0,Y,
+AS-00616,2027-04-06 13:20,C1031,U539-031,he,shipment status,TMS status,0,N,1
+AS-00617,2027-04-06 09:44,C1172,U621-172,he,shipment status,TMS status,0,N,
+AS-00618,2027-04-06 11:40,C1117,U589-117,he,ETA,TMS status,0,N,
+AS-00619,2027-04-06 07:54,C1031,U828-031,ar,shipment status,TMS status,0,Y,
+AS-00620,2027-04-06 17:51,C1060,U704-060,ar,shipment status,TMS status,0,N,
+AS-00621,2027-04-06 11:57,C1237,U887-237,en,customs status,TMS status,0,Y,
+AS-00622,2027-04-06 08:21,C1136,U637-136,en,shipment status,TMS status,0,N,
+AS-00623,2027-04-07 10:06,C1073,U639-073,en,ETA,TMS status,0,N,
+AS-00624,2027-04-07 12:36,C1052,U653-052,en,shipment status,TMS status,0,N,4
+AS-00625,2027-04-07 15:11,C1189,U513-189,he,shipment status,TMS status,0,N,
+AS-00626,2027-04-07 17:46,C1060,U571-060,he,invoice copy,general model,0,Y,
+AS-00627,2027-04-07 08:59,C1044,U462-044,he,customs status,TMS status,0,Y,4
+AS-00628,2027-04-07 14:53,C1068,U517-068,he,complaint,general model,0,Y,
+AS-00629,2027-04-07 09:39,C1073,U556-073,he,shipment status,TMS status,0,N,5
+AS-00630,2027-04-07 14:08,C1189,U256-189,he,shipment status,TMS status,0,N,
+AS-00631,2027-04-07 08:04,C1136,U723-136,he,shipment status,TMS status,0,N,3
+AS-00632,2027-04-07 15:40,C1123,U836-123,en,shipment status,TMS status,0,N,5
+AS-00633,2027-04-07 10:59,C1141,U117-141,he,other,general model,0,Y,1
+AS-00634,2027-04-07 17:44,C1218,U290-218,ar,ETA,TMS status,0,Y,
+AS-00635,2027-04-07 07:14,C1052,U928-052,he,ETA,TMS status,0,N,
+AS-00636,2027-04-07 11:10,C1225,U819-225,ar,shipment status,TMS status,0,Y,
+AS-00637,2027-04-07 08:18,C1225,U669-225,en,invoice copy,general model,0,N,3
+AS-00638,2027-04-07 13:35,C1158,U374-158,he,shipment status,TMS status,0,N,
+AS-00639,2027-04-07 12:58,C1204,U179-204,ru,customs status,TMS status,0,Y,3
+AS-00640,2027-04-07 13:44,C1136,U951-136,he,shipment status,TMS status,0,N,
+AS-00641,2027-04-07 07:43,C1136,U555-136,he,customs status,TMS status,0,Y,
+AS-00642,2027-04-07 13:13,C1073,U124-073,he,ETA,TMS status,0,N,
+AS-00643,2027-04-07 17:16,C1204,U256-204,ru,invoice copy,general model,0,Y,
+AS-00644,2027-04-07 15:05,C1204,U531-204,he,shipment status,TMS status,0,Y,5
+AS-00645,2027-04-07 16:14,C1172,U114-172,he,rates,general model,0,Y,
+AS-00646,2027-04-07 07:58,C1225,U455-225,he,complaint,general model,0,Y,
+AS-00647,2027-04-07 13:23,C1117,U544-117,en,customs status,TMS status,0,N,
+AS-00648,2027-04-07 10:58,C1081,U829-081,ar,ETA,TMS status,0,N,4
+AS-00649,2027-04-07 12:16,C1095,U925-095,he,ETA,TMS status,0,N,2
+AS-00650,2027-04-07 07:18,C1141,U334-141,ar,shipment status,TMS status,0,N,3
+AS-00651,2027-04-07 15:45,C1102,U628-102,he,invoice copy,general model,0,N,
+AS-00652,2027-04-07 15:00,C1136,U948-136,he,customs status,TMS status,0,N,
+AS-00653,2027-04-07 07:41,C1141,U201-141,he,shipment status,TMS status,0,N,4
+AS-00654,2027-04-07 16:20,C1117,U738-117,ru,other,general model,0,Y,4
+AS-00655,2027-04-07 17:25,C1123,U956-123,he,customs status,TMS status,0,Y,
+AS-00656,2027-04-07 15:33,C1044,U432-044,he,rates,general model,0,Y,4
+AS-00657,2027-04-07 16:16,C1172,U206-172,en,other,general model,0,Y,
+AS-00658,2027-04-07 07:15,C1136,U181-136,he,shipment status,TMS status,0,N,5
+AS-00659,2027-04-08 10:35,C1117,U750-117,he,customs status,TMS status,0,Y,
+AS-00660,2027-04-08 12:30,C1073,U541-073,he,customs status,TMS status,0,Y,
+AS-00661,2027-04-08 10:25,C1073,U638-073,he,other,general model,0,Y,
+AS-00662,2027-04-08 17:18,C1237,U469-237,ar,rates,general model,0,Y,3
+AS-00663,2027-04-08 17:26,C1095,U372-095,he,ETA,TMS status,0,Y,5
+AS-00664,2027-04-08 08:36,C1136,U965-136,he,shipment status,TMS status,0,N,4
+AS-00665,2027-04-08 14:18,C1068,U465-068,he,rates,general model,0,N,4
+AS-00666,2027-04-08 15:29,C1117,U639-117,he,shipment status,TMS status,0,N,5
+AS-00667,2027-04-08 12:39,C1031,U998-031,he,ETA,TMS status,0,N,
+AS-00668,2027-04-08 14:46,C1052,U878-052,he,shipment status,TMS status,0,N,
+AS-00669,2027-04-08 10:03,C1225,U831-225,he,customs status,TMS status,0,N,
+AS-00670,2027-04-08 15:42,C1218,U590-218,he,customs status,TMS status,0,Y,1
+AS-00671,2027-04-08 10:15,C1031,U608-031,he,rates,general model,0,Y,5
+AS-00672,2027-04-08 07:53,C1158,U608-158,he,shipment status,TMS status,0,N,
+AS-00673,2027-04-08 09:36,C1073,U601-073,he,other,general model,0,N,
+AS-00674,2027-04-08 16:37,C1081,U759-081,he,invoice copy,general model,0,Y,
+AS-00675,2027-04-08 10:50,C1031,U542-031,ar,ETA,TMS status,0,Y,
+AS-00676,2027-04-08 10:37,C1081,U465-081,ar,ETA,TMS status,0,Y,
+AS-00677,2027-04-08 08:26,C1102,U340-102,he,shipment status,TMS status,0,N,
+AS-00678,2027-04-08 16:14,C1044,U651-044,he,shipment status,TMS status,0,Y,
+AS-00679,2027-04-08 16:58,C1172,U537-172,he,shipment status,TMS status,0,N,
+AS-00680,2027-04-08 11:18,C1081,U328-081,he,shipment status,TMS status,0,Y,
+AS-00681,2027-04-08 13:26,C1164,U895-164,he,customs status,TMS status,0,Y,5
+AS-00682,2027-04-08 09:19,C1164,U990-164,he,customs status,TMS status,0,Y,
+AS-00683,2027-04-08 15:54,C1052,U415-052,en,other,general model,0,Y,
+AS-00684,2027-04-08 07:21,C1073,U664-073,he,ETA,TMS status,0,N,
+AS-00685,2027-04-08 16:27,C1052,U545-052,ru,shipment status,TMS status,0,N,
+AS-00686,2027-04-08 07:10,C1193,U420-193,en,complaint,general model,0,Y,
+AS-00687,2027-04-08 14:24,C1095,U828-095,he,other,general model,0,Y,
+AS-00688,2027-04-08 13:35,C1095,U242-095,en,customs status,TMS status,0,N,
+AS-00689,2027-04-08 11:20,C1237,U906-237,en,shipment status,TMS status,0,N,3
+AS-00690,2027-04-08 13:33,C1031,U581-031,he,customs status,TMS status,0,Y,
+AS-00691,2027-04-08 10:50,C1225,U600-225,he,ETA,TMS status,0,Y,
+AS-00692,2027-04-11 15:43,C1007,U422-007,he,shipment status,TMS status,0,N,5
+AS-00693,2027-04-11 14:16,C1164,U662-164,he,shipment status,TMS status,0,N,
+AS-00694,2027-04-11 13:26,C1141,U757-141,en,customs status,TMS status,0,N,
+AS-00695,2027-04-11 17:37,C1123,U914-123,he,customs status,TMS status,0,Y,
+AS-00696,2027-04-11 12:21,C1073,U589-073,he,shipment status,TMS status,0,N,
+AS-00697,2027-04-11 10:11,C1068,U171-068,he,customs status,TMS status,0,N,
+AS-00698,2027-04-11 16:01,C1031,U860-031,he,complaint,general model,0,Y,
+AS-00699,2027-04-11 12:33,C1022,U921-022,he,shipment status,TMS status,0,N,
+AS-00700,2027-04-11 09:25,C1068,U557-068,he,shipment status,TMS status,0,N,5
+AS-00701,2027-04-11 17:27,C1007,U365-007,en,shipment status,TMS status,0,N,
+AS-00702,2027-04-11 13:27,C1193,U965-193,he,other,general model,0,Y,
+AS-00703,2027-04-11 12:36,C1204,U780-204,en,shipment status,TMS status,0,N,
+AS-00704,2027-04-11 15:21,C1141,U223-141,he,shipment status,TMS status,0,N,3
+AS-00705,2027-04-11 07:15,C1141,U614-141,ru,ETA,TMS status,0,Y,4
+AS-00706,2027-04-11 15:23,C1141,U133-141,he,customs status,TMS status,0,N,
+AS-00707,2027-04-11 10:56,C1158,U441-158,he,shipment status,TMS status,0,N,
+AS-00708,2027-04-11 09:59,C1141,U481-141,he,shipment status,TMS status,0,N,
+AS-00709,2027-04-11 14:26,C1189,U569-189,he,rates,general model,0,Y,
+AS-00710,2027-04-11 13:02,C1158,U716-158,ar,shipment status,TMS status,0,N,
+AS-00711,2027-04-11 15:32,C1141,U264-141,he,invoice copy,general model,0,N,
+AS-00712,2027-04-11 11:31,C1052,U424-052,en,invoice copy,general model,0,Y,2
+AS-00713,2027-04-11 16:40,C1081,U826-081,en,customs status,TMS status,0,Y,
+AS-00714,2027-04-11 12:30,C1081,U874-081,he,rates,general model,0,Y,
+AS-00715,2027-04-11 08:16,C1225,U751-225,he,invoice copy,general model,0,N,
+AS-00716,2027-04-11 09:17,C1158,U424-158,en,shipment status,TMS status,0,Y,
+AS-00717,2027-04-11 16:44,C1095,U199-095,he,invoice copy,general model,0,Y,
+AS-00718,2027-04-11 17:45,C1225,U145-225,ru,other,general model,0,Y,3
+AS-00719,2027-04-11 10:29,C1136,U135-136,en,shipment status,TMS status,0,N,
+AS-00720,2027-04-11 16:31,C1060,U434-060,he,shipment status,TMS status,0,N,5
+AS-00721,2027-04-11 08:08,C1007,U503-007,ru,shipment status,TMS status,0,Y,
+AS-00722,2027-04-11 10:49,C1189,U529-189,he,complaint,general model,0,Y,1
+AS-00723,2027-04-11 09:57,C1007,U728-007,he,shipment status,TMS status,0,N,
+AS-00724,2027-04-11 16:18,C1073,U196-073,en,complaint,general model,0,Y,
+AS-00725,2027-04-11 13:43,C1189,U409-189,ru,rates,general model,0,Y,
+AS-00726,2027-04-11 09:12,C1237,U596-237,he,shipment status,TMS status,0,N,
+AS-00727,2027-04-11 07:28,C1068,U519-068,ru,rates,general model,0,Y,
+AS-00728,2027-04-11 12:00,C1172,U178-172,he,shipment status,TMS status,0,N,3
+AS-00729,2027-04-11 15:52,C1022,U257-022,he,shipment status,TMS status,0,Y,
+AS-00730,2027-04-11 14:19,C1102,U461-102,he,shipment status,TMS status,0,N,
+AS-00731,2027-04-12 11:57,C1044,U479-044,he,shipment status,TMS status,0,N,
+AS-00732,2027-04-12 08:53,C1193,U974-193,he,customs status,TMS status,0,N,
+AS-00733,2027-04-12 15:31,C1044,U328-044,en,rates,general model,0,Y,
+AS-00734,2027-04-12 12:05,C1189,U988-189,he,ETA,TMS status,0,Y,
+AS-00735,2027-04-12 15:35,C1158,U829-158,he,ETA,TMS status,0,N,4
+AS-00736,2027-04-12 09:54,C1141,U322-141,he,customs status,TMS status,0,N,
+AS-00737,2027-04-12 09:12,C1141,U910-141,he,shipment status,TMS status,0,Y,
+AS-00738,2027-04-12 11:43,C1007,U167-007,he,shipment status,TMS status,0,N,
+AS-00739,2027-04-12 11:57,C1172,U521-172,en,other,general model,0,Y,1
+AS-00740,2027-04-12 16:36,C1193,U492-193,he,rates,general model,0,Y,
+AS-00741,2027-04-12 07:59,C1136,U196-136,he,customs status,TMS status,0,N,
+AS-00742,2027-04-12 11:05,C1031,U205-031,ru,rates,general model,0,Y,3
+AS-00743,2027-04-12 13:04,C1102,U308-102,en,ETA,TMS status,0,N,
+AS-00744,2027-04-12 13:29,C1007,U689-007,en,shipment status,TMS status,0,N,
+AS-00745,2027-04-12 12:12,C1102,U414-102,he,customs status,TMS status,0,Y,4
+AS-00746,2027-04-12 13:32,C1123,U887-123,en,shipment status,TMS status,0,N,
+AS-00747,2027-04-12 17:25,C1225,U852-225,he,ETA,TMS status,0,N,
+AS-00748,2027-04-12 16:20,C1052,U284-052,en,ETA,TMS status,0,N,
+AS-00749,2027-04-12 09:36,C1141,U331-141,ru,shipment status,TMS status,0,N,1
+AS-00750,2027-04-12 11:55,C1117,U879-117,he,customs status,TMS status,0,N,
+AS-00751,2027-04-12 08:21,C1060,U729-060,he,shipment status,TMS status,0,N,
+AS-00752,2027-04-12 14:15,C1044,U344-044,he,ETA,TMS status,0,N,4
+AS-00753,2027-04-12 14:39,C1158,U658-158,he,ETA,TMS status,0,N,2
+AS-00754,2027-04-12 16:25,C1164,U404-164,ru,customs status,TMS status,0,N,
+AS-00755,2027-04-12 11:53,C1068,U223-068,en,shipment status,TMS status,0,N,4
+AS-00756,2027-04-12 13:47,C1189,U330-189,he,shipment status,TMS status,0,N,
+AS-00757,2027-04-12 17:17,C1193,U647-193,ar,invoice copy,general model,0,Y,4
+AS-00758,2027-04-12 11:31,C1218,U228-218,he,shipment status,TMS status,0,Y,
+AS-00759,2027-04-12 09:39,C1073,U461-073,he,ETA,TMS status,0,Y,4
+AS-00760,2027-04-12 13:20,C1052,U191-052,ru,shipment status,TMS status,0,Y,5
+AS-00761,2027-04-12 16:12,C1081,U920-081,ru,shipment status,TMS status,0,Y,
+AS-00762,2027-04-12 07:11,C1081,U139-081,ru,ETA,TMS status,0,N,3
+AS-00763,2027-04-12 11:35,C1044,U503-044,he,shipment status,TMS status,0,N,
+AS-00764,2027-04-12 16:55,C1081,U721-081,he,invoice copy,general model,0,Y,
+AS-00765,2027-04-12 12:46,C1172,U399-172,ru,invoice copy,general model,0,N,2
+AS-00766,2027-04-13 12:35,C1136,U128-136,he,ETA,TMS status,0,N,
+AS-00767,2027-04-13 07:56,C1102,U601-102,en,shipment status,TMS status,0,N,
+AS-00768,2027-04-13 09:29,C1060,U131-060,he,shipment status,TMS status,0,N,4
+AS-00769,2027-04-13 15:13,C1073,U701-073,he,customs status,TMS status,0,Y,
+AS-00770,2027-04-13 14:38,C1022,U270-022,he,ETA,TMS status,0,Y,
+AS-00771,2027-04-13 11:57,C1141,U537-141,ru,complaint,general model,0,Y,
+AS-00772,2027-04-13 15:04,C1164,U364-164,en,other,general model,0,N,
+AS-00773,2027-04-13 08:59,C1022,U852-022,en,shipment status,TMS status,0,N,
+AS-00774,2027-04-13 08:26,C1060,U513-060,en,customs status,TMS status,0,Y,5
+AS-00775,2027-04-13 07:53,C1117,U119-117,he,customs status,TMS status,0,Y,
+AS-00776,2027-04-13 07:54,C1123,U480-123,he,shipment status,TMS status,0,N,
+AS-00777,2027-04-13 17:37,C1102,U727-102,en,complaint,general model,0,Y,3
+AS-00778,2027-04-13 13:24,C1095,U120-095,he,ETA,TMS status,0,N,1
+AS-00779,2027-04-13 15:18,C1031,U368-031,he,complaint,general model,0,Y,
+AS-00780,2027-04-13 17:34,C1031,U615-031,en,other,general model,0,Y,
+AS-00781,2027-04-13 14:33,C1123,U690-123,ar,shipment status,TMS status,0,N,
+AS-00782,2027-04-13 09:59,C1060,U607-060,he,rates,general model,0,N,
+AS-00783,2027-04-13 11:51,C1204,U379-204,he,customs status,TMS status,0,Y,
+AS-00784,2027-04-13 16:20,C1068,U676-068,he,shipment status,TMS status,0,N,
+AS-00785,2027-04-13 15:32,C1218,U512-218,ar,shipment status,TMS status,0,N,
+AS-00786,2027-04-13 12:38,C1189,U125-189,he,shipment status,TMS status,0,N,
+AS-00787,2027-04-13 11:38,C1068,U617-068,ar,ETA,TMS status,0,Y,
+AS-00788,2027-04-13 08:47,C1044,U743-044,he,shipment status,TMS status,0,N,
+AS-00789,2027-04-13 11:08,C1204,U979-204,he,shipment status,TMS status,0,Y,
+AS-00790,2027-04-13 10:42,C1095,U633-095,he,complaint,general model,0,Y,5
+AS-00791,2027-04-13 08:10,C1068,U699-068,he,rates,general model,0,N,
+AS-00792,2027-04-13 13:58,C1164,U201-164,he,shipment status,TMS status,0,N,
+AS-00793,2027-04-13 09:26,C1123,U865-123,he,other,general model,0,Y,2
+AS-00794,2027-04-13 08:53,C1007,U494-007,ru,customs status,TMS status,0,Y,4
+AS-00795,2027-04-13 09:32,C1068,U754-068,en,ETA,TMS status,0,N,2
+AS-00796,2027-04-13 12:20,C1158,U154-158,he,shipment status,TMS status,0,Y,
+AS-00797,2027-04-14 14:31,C1060,U916-060,en,shipment status,TMS status,0,N,3
+AS-00798,2027-04-14 13:19,C1060,U912-060,en,shipment status,TMS status,0,N,
+AS-00799,2027-04-14 13:58,C1081,U863-081,ru,invoice copy,general model,0,Y,1
+AS-00800,2027-04-14 16:49,C1102,U789-102,he,shipment status,TMS status,0,Y,
+AS-00801,2027-04-14 11:38,C1081,U533-081,en,customs status,TMS status,0,Y,
+AS-00802,2027-04-14 08:00,C1189,U181-189,en,customs status,TMS status,0,N,2
+AS-00803,2027-04-14 07:18,C1117,U196-117,en,complaint,general model,0,Y,
+AS-00804,2027-04-14 11:46,C1193,U921-193,en,rates,general model,0,Y,2
+AS-00805,2027-04-14 11:21,C1193,U224-193,ar,shipment status,TMS status,0,N,
+AS-00806,2027-04-14 13:22,C1007,U581-007,he,shipment status,TMS status,0,N,2
+AS-00807,2027-04-14 11:53,C1073,U655-073,he,rates,general model,0,Y,
+AS-00808,2027-04-14 17:50,C1117,U923-117,he,customs status,TMS status,0,N,
+AS-00809,2027-04-14 16:23,C1031,U744-031,en,complaint,general model,0,Y,
+AS-00810,2027-04-14 15:40,C1204,U919-204,he,ETA,TMS status,0,N,4
+AS-00811,2027-04-14 11:06,C1158,U952-158,he,ETA,TMS status,0,N,
+AS-00812,2027-04-14 16:57,C1102,U494-102,en,invoice copy,general model,0,N,
+AS-00813,2027-04-14 08:50,C1237,U807-237,en,ETA,TMS status,0,Y,
+AS-00814,2027-04-14 09:55,C1095,U479-095,he,shipment status,TMS status,0,N,1
+AS-00815,2027-04-14 16:57,C1164,U523-164,he,invoice copy,general model,0,Y,
+AS-00816,2027-04-14 07:33,C1189,U957-189,he,invoice copy,general model,0,N,5
+AS-00817,2027-04-14 15:49,C1164,U727-164,en,customs status,TMS status,0,Y,
+AS-00818,2027-04-14 11:32,C1164,U848-164,en,customs status,TMS status,0,Y,
+AS-00819,2027-04-14 09:25,C1007,U683-007,ru,ETA,TMS status,0,N,
+AS-00820,2027-04-14 17:52,C1068,U103-068,ar,customs status,TMS status,0,N,1
+AS-00821,2027-04-14 17:18,C1073,U303-073,ru,shipment status,TMS status,0,N,4
+AS-00822,2027-04-14 07:26,C1204,U399-204,he,shipment status,TMS status,0,N,
+AS-00823,2027-04-14 10:38,C1172,U950-172,en,customs status,TMS status,0,Y,
+AS-00824,2027-04-14 13:43,C1237,U852-237,he,shipment status,TMS status,0,Y,
+AS-00825,2027-04-14 17:02,C1117,U557-117,en,customs status,TMS status,0,N,
+AS-00826,2027-04-14 08:50,C1136,U787-136,ru,ETA,TMS status,0,Y,
+AS-00827,2027-04-14 11:52,C1237,U248-237,en,shipment status,TMS status,0,N,
+AS-00828,2027-04-14 10:06,C1031,U882-031,he,customs status,TMS status,0,Y,
+AS-00829,2027-04-14 16:57,C1204,U594-204,he,shipment status,TMS status,0,Y,1
+AS-00830,2027-04-14 08:50,C1095,U549-095,ru,shipment status,TMS status,0,Y,4
+AS-00831,2027-04-14 16:02,C1237,U613-237,he,shipment status,TMS status,0,N,4
+AS-00832,2027-04-14 16:44,C1117,U705-117,he,shipment status,TMS status,0,N,
+AS-00833,2027-04-14 13:57,C1189,U808-189,he,shipment status,TMS status,0,N,
+AS-00834,2027-04-14 12:47,C1068,U939-068,ru,invoice copy,general model,0,Y,
+AS-00835,2027-04-14 08:11,C1052,U257-052,he,shipment status,TMS status,0,N,
+AS-00836,2027-04-15 07:52,C1007,U742-007,ru,customs status,TMS status,0,Y,
+AS-00837,2027-04-15 07:06,C1031,U855-031,en,shipment status,TMS status,0,N,
+AS-00838,2027-04-15 13:49,C1189,U602-189,he,invoice copy,general model,0,Y,1
+AS-00839,2027-04-15 13:36,C1164,U634-164,he,shipment status,TMS status,0,N,
+AS-00840,2027-04-15 12:16,C1172,U457-172,ru,ETA,TMS status,0,N,5
+AS-00841,2027-04-15 08:45,C1189,U674-189,he,customs status,TMS status,0,N,3
+AS-00842,2027-04-15 13:44,C1052,U623-052,ru,invoice copy,general model,0,N,3
+AS-00843,2027-04-15 08:27,C1164,U832-164,he,shipment status,TMS status,0,N,1
+AS-00844,2027-04-15 07:27,C1081,U476-081,ru,complaint,general model,0,Y,
+AS-00845,2027-04-15 13:46,C1117,U605-117,he,shipment status,TMS status,0,Y,3
+AS-00846,2027-04-15 10:00,C1102,U477-102,he,rates,general model,0,N,5
+AS-00847,2027-04-15 17:22,C1172,U570-172,ar,shipment status,TMS status,0,N,
+AS-00848,2027-04-15 17:22,C1136,U303-136,he,other,general model,0,Y,
+AS-00849,2027-04-15 09:16,C1031,U989-031,ru,other,general model,0,Y,1
+AS-00850,2027-04-15 12:35,C1136,U355-136,he,complaint,general model,0,Y,5
+AS-00851,2027-04-15 12:21,C1052,U930-052,en,other,general model,0,Y,
+AS-00852,2027-04-15 09:10,C1158,U766-158,he,customs status,TMS status,0,N,
+AS-00853,2027-04-15 17:24,C1164,U915-164,he,invoice copy,general model,0,Y,
+AS-00854,2027-04-15 08:26,C1204,U564-204,he,customs status,TMS status,0,N,
+AS-00855,2027-04-15 10:42,C1073,U651-073,he,customs status,TMS status,0,N,
+AS-00856,2027-04-15 16:21,C1052,U261-052,en,customs status,TMS status,0,Y,5
+AS-00857,2027-04-15 07:31,C1172,U531-172,ru,customs status,TMS status,0,Y,3
+AS-00858,2027-04-15 13:11,C1081,U955-081,en,invoice copy,general model,0,Y,5
+AS-00859,2027-04-15 11:21,C1193,U871-193,he,shipment status,TMS status,0,Y,5
+AS-00860,2027-04-15 15:11,C1060,U227-060,en,shipment status,TMS status,0,N,
+AS-00861,2027-04-15 10:11,C1095,U144-095,ar,complaint,general model,0,Y,
+AS-00862,2027-04-15 09:44,C1193,U426-193,ar,rates,general model,0,Y,
+AS-00863,2027-04-15 08:33,C1164,U123-164,en,ETA,TMS status,0,N,
+AS-00864,2027-04-15 14:08,C1123,U846-123,he,shipment status,TMS status,0,N,
+AS-00865,2027-04-15 09:10,C1068,U703-068,he,invoice copy,general model,0,Y,
+AS-00866,2027-04-15 07:38,C1031,U276-031,he,customs status,TMS status,0,N,
+AS-00867,2027-04-15 07:49,C1102,U276-102,en,shipment status,TMS status,0,N,
+AS-00868,2027-04-15 17:58,C1022,U132-022,en,other,general model,0,Y,2
+AS-00869,2027-04-15 13:06,C1052,U847-052,he,rates,general model,0,Y,
+AS-00870,2027-04-15 15:47,C1204,U358-204,en,shipment status,TMS status,0,N,
+AS-00871,2027-04-15 11:03,C1225,U773-225,ar,shipment status,TMS status,0,N,
+AS-00872,2027-04-15 08:14,C1007,U998-007,ru,customs status,TMS status,0,Y,4
+AS-00873,2027-04-15 16:05,C1022,U344-022,en,invoice copy,general model,0,Y,
+AS-00874,2027-04-15 12:57,C1031,U306-031,en,customs status,TMS status,0,N,
+AS-00875,2027-04-18 07:34,C1136,U759-136,en,customs status,TMS status,0,N,
+AS-00876,2027-04-18 13:28,C1007,U304-007,he,invoice copy,general model,0,N,
+AS-00877,2027-04-18 14:21,C1117,U897-117,he,shipment status,TMS status,0,N,
+AS-00878,2027-04-18 07:15,C1060,U760-060,he,other,general model,0,Y,3
+AS-00879,2027-04-18 07:52,C1060,U534-060,he,ETA,TMS status,0,N,
+AS-00880,2027-04-18 07:59,C1158,U329-158,en,shipment status,TMS status,0,N,3
+AS-00881,2027-04-18 10:41,C1068,U155-068,he,ETA,TMS status,0,N,
+AS-00882,2027-04-18 14:49,C1073,U819-073,he,customs status,TMS status,0,Y,2
+AS-00883,2027-04-18 17:02,C1044,U966-044,en,complaint,general model,0,Y,2
+AS-00884,2027-04-18 14:20,C1044,U641-044,he,customs status,TMS status,0,N,
+AS-00885,2027-04-18 12:53,C1102,U980-102,he,invoice copy,general model,0,Y,
+AS-00886,2027-04-18 15:30,C1193,U711-193,he,shipment status,TMS status,0,N,5
+AS-00887,2027-04-18 11:37,C1141,U116-141,he,other,general model,0,Y,3
+AS-00888,2027-04-18 10:31,C1123,U993-123,he,ETA,TMS status,0,Y,
+AS-00889,2027-04-18 11:32,C1022,U201-022,ar,ETA,TMS status,0,N,
+AS-00890,2027-04-18 17:18,C1060,U590-060,ar,customs status,TMS status,0,N,
+AS-00891,2027-04-18 14:52,C1218,U697-218,en,shipment status,TMS status,0,N,3
+AS-00892,2027-04-18 10:30,C1204,U913-204,he,shipment status,TMS status,0,N,
+AS-00893,2027-04-18 08:49,C1102,U232-102,he,complaint,general model,0,Y,5
+AS-00894,2027-04-18 13:13,C1136,U207-136,ru,ETA,TMS status,0,N,5
+AS-00895,2027-04-18 10:37,C1052,U693-052,he,ETA,TMS status,0,Y,
+AS-00896,2027-04-18 09:46,C1052,U533-052,he,invoice copy,general model,0,Y,
+AS-00897,2027-04-18 11:43,C1095,U271-095,en,ETA,TMS status,0,Y,5
+AS-00898,2027-04-18 10:40,C1073,U191-073,he,ETA,TMS status,0,Y,
+AS-00899,2027-04-18 13:48,C1193,U155-193,he,shipment status,TMS status,0,N,
+AS-00900,2027-04-18 15:18,C1164,U914-164,ar,other,general model,0,Y,
+AS-00901,2027-04-18 14:45,C1068,U330-068,he,ETA,TMS status,0,N,
+AS-00902,2027-04-18 16:38,C1068,U745-068,en,ETA,TMS status,0,N,
+AS-00903,2027-04-18 08:38,C1102,U883-102,he,shipment status,TMS status,0,Y,
+AS-00904,2027-04-18 14:26,C1225,U924-225,en,shipment status,TMS status,0,Y,
+AS-00905,2027-04-18 15:11,C1164,U598-164,ru,shipment status,TMS status,0,N,
+AS-00906,2027-04-18 09:06,C1117,U357-117,he,customs status,TMS status,0,Y,4
+AS-00907,2027-04-18 12:40,C1073,U360-073,he,invoice copy,general model,0,Y,
+AS-00908,2027-04-18 10:38,C1158,U432-158,he,shipment status,TMS status,0,N,
+AS-00909,2027-04-18 13:00,C1218,U433-218,ar,other,general model,0,Y,
+AS-00910,2027-04-18 15:13,C1237,U756-237,en,complaint,general model,0,Y,
+AS-00911,2027-04-18 09:45,C1060,U311-060,he,shipment status,TMS status,0,N,
+AS-00912,2027-04-18 12:03,C1068,U926-068,en,complaint,general model,0,Y,
+AS-00913,2027-04-18 14:11,C1164,U220-164,en,invoice copy,general model,0,N,1
+AS-00914,2027-04-19 14:48,C1007,U717-007,he,shipment status,TMS status,0,N,5
+AS-00915,2027-04-19 09:51,C1136,U775-136,he,invoice copy,general model,0,N,
+AS-00916,2027-04-19 17:31,C1172,U348-172,he,complaint,general model,0,Y,
+AS-00917,2027-04-19 15:24,C1060,U609-060,he,complaint,general model,0,Y,3
+AS-00918,2027-04-19 17:45,C1081,U525-081,en,shipment status,TMS status,0,N,
+AS-00919,2027-04-19 07:52,C1164,U157-164,he,shipment status,TMS status,0,N,2
+AS-00920,2027-04-19 09:11,C1164,U960-164,he,rates,general model,0,Y,
+AS-00921,2027-04-19 15:19,C1189,U222-189,he,customs status,TMS status,0,N,
+AS-00922,2027-04-19 16:36,C1204,U522-204,he,customs status,TMS status,0,Y,
+AS-00923,2027-04-19 12:38,C1218,U379-218,he,shipment status,TMS status,0,Y,4
+AS-00924,2027-04-19 15:29,C1123,U491-123,he,invoice copy,general model,0,N,3
+AS-00925,2027-04-19 08:44,C1193,U754-193,he,invoice copy,general model,0,Y,
+AS-00926,2027-04-19 17:10,C1095,U596-095,ar,invoice copy,general model,0,Y,
+AS-00927,2027-04-19 11:15,C1237,U489-237,he,shipment status,TMS status,0,Y,3
+AS-00928,2027-04-19 12:53,C1052,U952-052,he,ETA,TMS status,0,N,
+AS-00929,2027-04-19 16:43,C1022,U136-022,en,customs status,TMS status,0,N,
+AS-00930,2027-04-19 07:52,C1189,U203-189,en,customs status,TMS status,0,N,
+AS-00931,2027-04-19 15:55,C1189,U483-189,ar,invoice copy,general model,0,Y,1
+AS-00932,2027-04-19 13:24,C1007,U938-007,he,customs status,TMS status,0,Y,
+AS-00933,2027-04-19 13:56,C1060,U356-060,ar,shipment status,TMS status,0,N,
+AS-00934,2027-04-19 07:11,C1068,U677-068,he,complaint,general model,0,Y,
+AS-00935,2027-04-19 07:54,C1237,U206-237,he,shipment status,TMS status,0,N,
+AS-00936,2027-04-19 08:10,C1189,U589-189,he,shipment status,TMS status,0,N,
+AS-00937,2027-04-19 14:50,C1007,U494-007,en,ETA,TMS status,0,Y,
+AS-00938,2027-04-19 17:04,C1081,U411-081,ru,shipment status,TMS status,0,Y,
+AS-00939,2027-04-19 14:22,C1117,U212-117,he,shipment status,TMS status,0,N,
+AS-00940,2027-04-19 10:23,C1031,U931-031,he,shipment status,TMS status,0,Y,1
+AS-00941,2027-04-19 07:54,C1068,U836-068,en,ETA,TMS status,0,Y,4
+AS-00942,2027-04-19 16:22,C1172,U531-172,he,complaint,general model,0,Y,
+AS-00943,2027-04-19 17:53,C1102,U876-102,en,invoice copy,general model,0,Y,
+AS-00944,2027-04-19 08:25,C1117,U100-117,ru,complaint,general model,0,Y,
+AS-00945,2027-04-19 07:08,C1136,U700-136,he,ETA,TMS status,0,Y,
+AS-00946,2027-04-19 10:59,C1022,U751-022,en,shipment status,TMS status,0,N,
+AS-00947,2027-04-20 13:52,C1031,U465-031,he,shipment status,TMS status,0,N,5
+AS-00948,2027-04-20 09:15,C1022,U377-022,he,ETA,TMS status,0,Y,
+AS-00949,2027-04-20 08:38,C1022,U448-022,ru,customs status,TMS status,0,N,
+AS-00950,2027-04-20 08:54,C1158,U652-158,ru,my documents,file documents,1,N,1
+AS-00951,2027-04-20 10:35,C1044,U478-044,en,my documents,file documents,1,N,
+AS-00952,2027-04-20 15:33,C1117,U755-117,he,ETA,TMS status,0,Y,
+AS-00953,2027-04-20 14:55,C1081,U247-081,he,ETA,TMS status,0,N,
+AS-00954,2027-04-20 12:56,C1123,U799-123,he,customs status,TMS status,0,N,4
+AS-00955,2027-04-20 11:01,C1189,U251-189,en,my documents,file documents,1,N,
+AS-00956,2027-04-20 15:49,C1068,U886-068,ru,shipment status,TMS status,0,N,
+AS-00957,2027-04-20 15:54,C1123,U638-123,he,other,general model,0,Y,4
+AS-00958,2027-04-20 12:58,C1193,U308-193,en,complaint,general model,0,Y,
+AS-00959,2027-04-20 08:47,C1141,U381-141,he,my documents,file documents,3,N,
+AS-00960,2027-04-20 17:39,C1189,U475-189,ar,shipment status,TMS status,0,N,
+AS-00961,2027-04-20 12:01,C1225,U290-225,en,my documents,file documents,2,Y,
+AS-00962,2027-04-20 14:54,C1095,U750-095,he,my documents,file documents,2,N,
+AS-00963,2027-04-20 11:29,C1102,U325-102,he,ETA,TMS status,0,N,
+AS-00964,2027-04-20 10:08,C1031,U679-031,ar,customs status,TMS status,0,Y,
+AS-00965,2027-04-20 08:06,C1193,U700-193,ru,shipment status,TMS status,0,N,
+AS-00966,2027-04-20 13:47,C1172,U967-172,he,invoice copy,general model,0,Y,
+AS-00967,2027-04-20 07:02,C1218,U741-218,ru,other,general model,0,Y,
+AS-00968,2027-04-20 13:08,C1102,U824-102,he,shipment status,TMS status,0,N,
+AS-00969,2027-04-20 09:36,C1218,U569-218,he,rates,general model,0,Y,
+AS-00970,2027-04-20 13:50,C1044,U580-044,he,complaint,general model,0,Y,
+AS-00971,2027-04-20 10:10,C1068,U487-068,en,shipment status,TMS status,0,N,
+AS-00972,2027-04-20 11:52,C1204,U230-204,he,ETA,TMS status,0,N,
+AS-00973,2027-04-20 08:35,C1007,U818-007,he,invoice copy,general model,0,Y,1
+AS-00974,2027-04-20 08:27,C1164,U549-164,he,shipment status,TMS status,0,N,
+AS-00975,2027-04-20 14:17,C1158,U673-158,ru,ETA,TMS status,0,Y,
+AS-00976,2027-04-20 09:52,C1102,U595-102,he,customs status,TMS status,0,N,
+AS-00977,2027-04-20 17:16,C1052,U611-052,he,shipment status,TMS status,0,Y,
+AS-00978,2027-04-20 17:05,C1225,U956-225,he,shipment status,TMS status,0,N,2
+AS-00979,2027-04-20 17:31,C1095,U984-095,he,customs status,TMS status,0,N,
+AS-00980,2027-04-20 11:23,C1068,U288-068,ar,ETA,TMS status,0,Y,
+AS-00981,2027-04-20 15:18,C1193,U626-193,he,other,general model,0,Y,
+AS-00982,2027-04-20 09:50,C1102,U327-102,en,customs status,TMS status,0,Y,
+AS-00983,2027-04-20 08:23,C1189,U639-189,ru,shipment status,TMS status,0,N,
+AS-00984,2027-04-20 13:43,C1060,U585-060,he,complaint,general model,0,Y,
+AS-00985,2027-04-20 16:59,C1117,U225-117,he,rates,general model,0,Y,
+AS-00986,2027-04-20 14:22,C1237,U877-237,he,my documents,file documents,1,N,
+AS-00987,2027-04-20 17:19,C1022,U161-022,he,ETA,TMS status,0,Y,
+AS-00988,2027-04-21 07:09,C1123,U325-123,he,customs status,TMS status,0,N,4
+AS-00989,2027-04-21 08:28,C1123,U933-123,he,ETA,TMS status,0,Y,
+AS-00990,2027-04-21 13:07,C1189,U641-189,ar,invoice copy,general model,0,Y,
+AS-00991,2027-04-21 08:02,C1073,U564-073,he,shipment status,TMS status,0,N,2
+AS-00992,2027-04-21 17:43,C1172,U408-172,he,rates,general model,0,Y,
+AS-00993,2027-04-21 14:07,C1204,U344-204,he,shipment status,TMS status,0,N,
+AS-00994,2027-04-21 13:34,C1052,U100-052,he,customs status,TMS status,0,Y,
+AS-00995,2027-04-21 11:11,C1218,U742-218,en,my documents,file documents,1,N,
+AS-00996,2027-04-21 15:44,C1068,U336-068,en,customs status,TMS status,0,Y,
+AS-00997,2027-04-21 11:46,C1073,U366-073,he,my documents,file documents,1,N,
+AS-00998,2027-04-21 14:31,C1022,U239-022,ar,customs status,TMS status,0,Y,
+AS-00999,2027-04-21 12:36,C1204,U956-204,he,complaint,general model,0,Y,3
+AS-01000,2027-04-21 11:56,C1081,U595-081,he,shipment status,TMS status,0,N,
+AS-01001,2027-04-21 16:10,C1007,U706-007,en,invoice copy,general model,0,N,
+AS-01002,2027-04-21 12:26,C1158,U618-158,en,customs status,TMS status,0,Y,
+AS-01003,2027-04-21 11:24,C1068,U973-068,he,complaint,general model,0,Y,
+AS-01004,2027-04-21 13:50,C1225,U424-225,he,ETA,TMS status,0,Y,
+AS-01005,2027-04-21 16:41,C1123,U684-123,en,invoice copy,general model,0,N,5
+AS-01006,2027-04-21 14:09,C1193,U141-193,he,shipment status,TMS status,0,N,
+AS-01007,2027-04-21 17:34,C1141,U702-141,he,ETA,TMS status,0,Y,
+AS-01008,2027-04-21 11:13,C1073,U460-073,he,ETA,TMS status,0,N,3
+AS-01009,2027-04-21 08:59,C1141,U792-141,he,my documents,file documents,3,N,
+AS-01010,2027-04-21 08:27,C1060,U203-060,ar,ETA,TMS status,0,N,5
+AS-01011,2027-04-21 09:53,C1117,U239-117,he,shipment status,TMS status,0,N,
+AS-01012,2027-04-21 12:46,C1158,U762-158,he,other,general model,0,Y,3
+AS-01013,2027-04-21 12:59,C1102,U868-102,he,my documents,file documents,3,N,5
+AS-01014,2027-04-21 12:38,C1102,U205-102,en,customs status,TMS status,0,Y,
+AS-01015,2027-04-21 07:34,C1218,U913-218,he,customs status,TMS status,0,Y,
+AS-01016,2027-04-21 16:41,C1193,U524-193,he,invoice copy,general model,0,N,
+AS-01017,2027-04-21 08:21,C1081,U203-081,he,shipment status,TMS status,0,N,5
+AS-01018,2027-04-21 16:30,C1031,U472-031,ar,customs status,TMS status,0,Y,
+AS-01019,2027-04-21 08:13,C1141,U315-141,he,customs status,TMS status,0,N,5
+AS-01020,2027-04-21 13:41,C1007,U990-007,he,customs status,TMS status,0,N,4
+AS-01021,2027-04-21 14:42,C1044,U636-044,he,invoice copy,general model,0,Y,
+AS-01022,2027-04-22 09:09,C1225,U222-225,he,invoice copy,general model,0,N,3
+AS-01023,2027-04-22 08:57,C1141,U278-141,he,rates,general model,0,Y,
+AS-01024,2027-04-22 12:54,C1204,U453-204,he,customs status,TMS status,0,Y,
+AS-01025,2027-04-22 09:44,C1102,U390-102,ar,customs status,TMS status,0,Y,
+AS-01026,2027-04-22 15:21,C1095,U878-095,en,customs status,TMS status,0,N,3
+AS-01027,2027-04-22 08:44,C1172,U829-172,en,customs status,TMS status,0,N,1
+AS-01028,2027-04-22 09:56,C1081,U361-081,ru,shipment status,TMS status,0,N,
+AS-01029,2027-04-22 17:18,C1204,U161-204,en,rates,general model,0,N,
+AS-01030,2027-04-22 14:08,C1022,U623-022,he,shipment status,TMS status,0,N,2
+AS-01031,2027-04-22 14:12,C1123,U132-123,he,shipment status,TMS status,0,N,5
+AS-01032,2027-04-22 17:35,C1225,U229-225,en,other,general model,0,Y,
+AS-01033,2027-04-22 07:59,C1022,U505-022,he,customs status,TMS status,0,Y,4
+AS-01034,2027-04-22 07:05,C1052,U158-052,he,my documents,file documents,1,N,3
+AS-01035,2027-04-22 10:47,C1164,U633-164,he,other,general model,0,Y,1
+AS-01036,2027-04-22 10:10,C1189,U968-189,en,invoice copy,general model,0,Y,
+AS-01037,2027-04-22 12:44,C1044,U829-044,he,customs status,TMS status,0,N,
+AS-01038,2027-04-22 10:23,C1141,U420-141,he,complaint,general model,0,Y,1
+AS-01039,2027-04-22 17:56,C1031,U727-031,he,customs status,TMS status,0,Y,
+AS-01040,2027-04-22 14:35,C1189,U226-189,he,ETA,TMS status,0,N,4
+AS-01041,2027-04-22 07:52,C1081,U233-081,en,other,general model,0,Y,4
+AS-01042,2027-04-22 10:26,C1068,U279-068,he,ETA,TMS status,0,Y,
+AS-01043,2027-04-22 10:48,C1095,U429-095,en,rates,general model,0,Y,
+AS-01044,2027-04-22 11:12,C1123,U183-123,he,complaint,general model,0,Y,
+AS-01045,2027-04-22 10:51,C1060,U158-060,ar,rates,general model,0,Y,
+AS-01046,2027-04-22 10:13,C1193,U303-193,he,shipment status,TMS status,0,Y,
+AS-01047,2027-04-22 14:40,C1141,U344-141,he,shipment status,TMS status,0,Y,
+AS-01048,2027-04-22 07:06,C1044,U610-044,en,other,general model,0,Y,
+AS-01049,2027-04-22 11:26,C1102,U112-102,he,shipment status,TMS status,0,N,5
+AS-01050,2027-04-22 09:52,C1193,U287-193,he,customs status,TMS status,0,N,
+AS-01051,2027-04-22 12:22,C1136,U708-136,he,shipment status,TMS status,0,N,5
+AS-01052,2027-04-22 15:55,C1204,U677-204,he,ETA,TMS status,0,N,5
+AS-01053,2027-04-22 07:07,C1022,U515-022,he,shipment status,TMS status,0,N,
+AS-01054,2027-04-22 16:53,C1136,U240-136,ru,ETA,TMS status,0,N,
+AS-01055,2027-04-22 12:56,C1095,U559-095,ru,other,general model,0,N,
+AS-01056,2027-04-22 14:00,C1081,U804-081,ru,customs status,TMS status,0,Y,
+AS-01057,2027-04-22 15:22,C1060,U446-060,he,my documents,file documents,3,N,
+AS-01058,2027-04-22 13:51,C1007,U293-007,en,customs status,TMS status,0,Y,3
+AS-01059,2027-04-22 17:58,C1031,U594-031,he,shipment status,TMS status,0,N,5
+AS-01060,2027-04-22 16:11,C1052,U768-052,ru,customs status,TMS status,0,Y,
+AS-01061,2027-04-25 12:15,C1031,U670-031,he,customs status,TMS status,0,N,1
+AS-01062,2027-04-25 09:14,C1172,U428-172,en,shipment status,TMS status,0,N,
+AS-01063,2027-04-25 17:21,C1164,U512-164,en,shipment status,TMS status,0,N,2
+AS-01064,2027-04-25 16:58,C1225,U454-225,he,my documents,file documents,4,N,4
+AS-01065,2027-04-25 10:50,C1172,U452-172,ru,ETA,TMS status,0,Y,
+AS-01066,2027-04-25 13:58,C1172,U877-172,he,invoice copy,general model,0,Y,
+AS-01067,2027-04-25 08:53,C1164,U638-164,he,customs status,TMS status,0,Y,
+AS-01068,2027-04-25 08:46,C1073,U631-073,ru,customs status,TMS status,0,N,5
+AS-01069,2027-04-25 16:07,C1141,U247-141,en,ETA,TMS status,0,Y,
+AS-01070,2027-04-25 08:15,C1218,U612-218,he,shipment status,TMS status,0,N,5
+AS-01071,2027-04-25 16:28,C1095,U282-095,he,complaint,general model,0,N,
+AS-01072,2027-04-25 16:34,C1237,U615-237,he,my documents,file documents,1,N,4
+AS-01073,2027-04-25 11:01,C1189,U186-189,he,shipment status,TMS status,0,N,2
+AS-01074,2027-04-25 17:45,C1193,U998-193,en,shipment status,TMS status,0,N,3
+AS-01075,2027-04-25 13:26,C1237,U157-237,ru,other,general model,0,Y,
+AS-01076,2027-04-25 17:06,C1218,U328-218,en,other,general model,0,N,
+AS-01077,2027-04-25 09:10,C1218,U802-218,en,other,general model,0,Y,
+AS-01078,2027-04-25 08:24,C1172,U839-172,en,customs status,TMS status,0,Y,3
+AS-01079,2027-04-25 07:47,C1218,U390-218,en,ETA,TMS status,0,Y,2
+AS-01080,2027-04-25 14:02,C1052,U111-052,he,ETA,TMS status,0,Y,
+AS-01081,2027-04-25 07:29,C1204,U948-204,ru,my documents,file documents,4,Y,
+AS-01082,2027-04-25 12:17,C1044,U979-044,en,my documents,file documents,2,Y,
+AS-01083,2027-04-25 10:27,C1031,U385-031,he,complaint,general model,0,Y,
+AS-01084,2027-04-25 13:20,C1052,U408-052,he,ETA,TMS status,0,Y,5
+AS-01085,2027-04-25 15:49,C1095,U435-095,he,invoice copy,general model,0,Y,
+AS-01086,2027-04-25 08:18,C1237,U201-237,he,shipment status,TMS status,0,N,
+AS-01087,2027-04-25 10:37,C1237,U951-237,he,my documents,file documents,2,N,
+AS-01088,2027-04-25 09:37,C1073,U463-073,he,customs status,TMS status,0,Y,
+AS-01089,2027-04-25 12:11,C1189,U149-189,en,rates,general model,0,N,
+AS-01090,2027-04-25 13:41,C1136,U303-136,he,customs status,TMS status,0,Y,
+AS-01091,2027-04-25 07:44,C1117,U651-117,he,ETA,TMS status,0,N,3
+AS-01092,2027-04-25 15:19,C1022,U667-022,he,invoice copy,general model,0,N,
+AS-01093,2027-04-25 16:56,C1172,U442-172,he,ETA,TMS status,0,N,
+AS-01094,2027-04-25 09:10,C1225,U867-225,ru,complaint,general model,0,Y,
+AS-01095,2027-04-25 16:35,C1007,U647-007,he,shipment status,TMS status,0,Y,
+AS-01096,2027-04-25 08:12,C1225,U857-225,ru,customs status,TMS status,0,Y,
+AS-01097,2027-04-26 14:14,C1123,U655-123,ru,my documents,file documents,3,Y,
+AS-01098,2027-04-26 14:39,C1117,U157-117,he,customs status,TMS status,0,N,
+AS-01099,2027-04-26 14:56,C1073,U821-073,he,customs status,TMS status,0,N,
+AS-01100,2027-04-26 14:47,C1022,U450-022,he,other,general model,0,N,
+AS-01101,2027-04-26 16:20,C1158,U348-158,he,shipment status,TMS status,0,N,
+AS-01102,2027-04-26 14:09,C1189,U555-189,en,shipment status,TMS status,0,Y,2
+AS-01103,2027-04-26 17:47,C1164,U271-164,en,complaint,general model,0,Y,
+AS-01104,2027-04-26 14:32,C1007,U754-007,ru,invoice copy,general model,0,Y,
+AS-01105,2027-04-26 07:30,C1102,U923-102,he,ETA,TMS status,0,N,
+AS-01106,2027-04-26 16:42,C1052,U460-052,he,customs status,TMS status,0,N,
+AS-01107,2027-04-26 10:06,C1204,U474-204,en,shipment status,TMS status,0,N,3
+AS-01108,2027-04-26 10:42,C1007,U317-007,he,shipment status,TMS status,0,N,
+AS-01109,2027-04-26 12:47,C1172,U340-172,he,other,general model,0,Y,
+AS-01110,2027-04-26 11:10,C1158,U587-158,he,complaint,general model,0,Y,
+AS-01111,2027-04-26 12:01,C1102,U405-102,he,my documents,file documents,4,N,
+AS-01112,2027-04-26 12:38,C1158,U559-158,en,shipment status,TMS status,0,Y,
+AS-01113,2027-04-26 07:35,C1007,U702-007,he,my documents,file documents,4,Y,
+AS-01114,2027-04-26 15:03,C1123,U826-123,ru,ETA,TMS status,0,Y,
+AS-01115,2027-04-26 09:20,C1117,U701-117,he,rates,general model,0,Y,3
+AS-01116,2027-04-26 10:43,C1102,U684-102,he,my documents,file documents,2,N,
+AS-01117,2027-04-26 14:43,C1073,U855-073,he,shipment status,TMS status,0,N,
+AS-01118,2027-04-26 17:46,C1164,U132-164,he,my documents,file documents,4,N,5
+AS-01119,2027-04-26 10:47,C1136,U515-136,he,invoice copy,general model,0,N,
+AS-01120,2027-04-26 16:04,C1052,U558-052,he,invoice copy,general model,0,Y,4
+AS-01121,2027-04-26 10:25,C1102,U123-102,he,other,general model,0,Y,
+AS-01122,2027-04-26 13:08,C1136,U267-136,he,shipment status,TMS status,0,N,
+AS-01123,2027-04-26 10:30,C1081,U383-081,he,customs status,TMS status,0,Y,
+AS-01124,2027-04-26 11:23,C1044,U869-044,en,complaint,general model,0,Y,
+AS-01125,2027-04-26 08:35,C1081,U523-081,he,ETA,TMS status,0,N,
+AS-01126,2027-04-26 09:24,C1141,U637-141,he,invoice copy,general model,0,Y,1
+AS-01127,2027-04-26 16:19,C1225,U625-225,he,shipment status,TMS status,0,N,
+AS-01128,2027-04-26 11:28,C1081,U417-081,he,customs status,TMS status,0,Y,
+AS-01129,2027-04-26 11:20,C1044,U704-044,he,my documents,file documents,4,Y,
+AS-01130,2027-04-26 14:02,C1158,U777-158,en,shipment status,TMS status,0,N,
+AS-01131,2027-04-26 12:43,C1117,U133-117,he,my documents,file documents,4,N,
+AS-01132,2027-04-26 16:55,C1123,U880-123,en,shipment status,TMS status,0,N,
+AS-01133,2027-04-26 12:35,C1052,U563-052,he,customs status,TMS status,0,Y,
+AS-01134,2027-04-26 11:52,C1172,U210-172,ru,customs status,TMS status,0,Y,
+AS-01135,2027-04-26 13:34,C1123,U955-123,he,other,general model,0,Y,5
+AS-01136,2027-04-27 13:12,C1117,U150-117,en,my documents,file documents,4,Y,
+AS-01137,2027-04-27 10:12,C1095,U502-095,he,shipment status,TMS status,0,N,
+AS-01138,2027-04-27 16:07,C1031,U900-031,he,ETA,TMS status,0,N,
+AS-01139,2027-04-27 09:45,C1193,U814-193,he,shipment status,TMS status,0,N,
+AS-01140,2027-04-27 07:15,C1158,U752-158,he,my documents,file documents,1,N,
+AS-01141,2027-04-27 14:25,C1068,U460-068,ru,shipment status,TMS status,0,N,3
+AS-01142,2027-04-27 13:44,C1044,U863-044,en,shipment status,TMS status,0,Y,
+AS-01143,2027-04-27 14:18,C1225,U513-225,he,shipment status,TMS status,0,N,2
+AS-01144,2027-04-27 14:34,C1060,U542-060,ar,shipment status,TMS status,0,N,4
+AS-01145,2027-04-27 12:47,C1237,U796-237,ru,my documents,file documents,4,N,
+AS-01146,2027-04-27 13:20,C1237,U276-237,ar,shipment status,TMS status,0,Y,
+AS-01147,2027-04-27 14:07,C1052,U204-052,en,shipment status,TMS status,0,N,5
+AS-01148,2027-04-27 16:43,C1136,U856-136,he,shipment status,TMS status,0,N,4
+AS-01149,2027-04-27 10:17,C1141,U461-141,he,complaint,general model,0,Y,
+AS-01150,2027-04-27 13:58,C1164,U270-164,ru,complaint,general model,0,Y,3
+AS-01151,2027-04-27 15:17,C1164,U793-164,en,invoice copy,general model,0,Y,4
+AS-01152,2027-04-27 12:33,C1193,U306-193,he,shipment status,TMS status,0,N,
+AS-01153,2027-04-27 09:19,C1123,U586-123,he,shipment status,TMS status,0,Y,
+AS-01154,2027-04-27 09:33,C1189,U568-189,ar,ETA,TMS status,0,Y,
+AS-01155,2027-04-27 10:25,C1022,U864-022,en,shipment status,TMS status,0,N,
+AS-01156,2027-04-27 12:11,C1102,U306-102,he,shipment status,TMS status,0,Y,
+AS-01157,2027-04-27 08:18,C1141,U592-141,he,shipment status,TMS status,0,Y,
+AS-01158,2027-04-27 15:37,C1204,U499-204,he,shipment status,TMS status,0,Y,
+AS-01159,2027-04-27 11:36,C1158,U890-158,he,rates,general model,0,Y,5
+AS-01160,2027-04-27 11:46,C1218,U304-218,en,customs status,TMS status,0,N,
+AS-01161,2027-04-27 14:45,C1102,U827-102,en,shipment status,TMS status,0,N,
+AS-01162,2027-04-27 14:53,C1060,U495-060,he,ETA,TMS status,0,N,
+AS-01163,2027-04-27 13:25,C1022,U428-022,he,customs status,TMS status,0,Y,
+AS-01164,2027-04-27 17:33,C1164,U161-164,he,ETA,TMS status,0,N,
+AS-01165,2027-04-27 12:28,C1193,U101-193,he,customs status,TMS status,0,Y,4
+AS-01166,2027-04-27 13:38,C1158,U333-158,he,invoice copy,general model,0,Y,2
+AS-01167,2027-04-28 08:27,C1044,U289-044,he,customs status,TMS status,0,N,
+AS-01168,2027-04-28 11:29,C1081,U921-081,en,complaint,general model,0,Y,
+AS-01169,2027-04-28 14:00,C1068,U426-068,he,complaint,general model,0,Y,3
+AS-01170,2027-04-28 15:01,C1123,U742-123,en,ETA,TMS status,0,Y,
+AS-01171,2027-04-28 08:45,C1081,U784-081,he,ETA,TMS status,0,N,
+AS-01172,2027-04-28 07:51,C1044,U823-044,en,my documents,file documents,4,Y,
+AS-01173,2027-04-28 15:17,C1073,U613-073,he,shipment status,TMS status,0,N,4
+AS-01174,2027-04-28 09:00,C1164,U586-164,en,invoice copy,general model,0,N,
+AS-01175,2027-04-28 08:27,C1068,U763-068,en,shipment status,TMS status,0,Y,3
+AS-01176,2027-04-28 09:58,C1218,U976-218,he,shipment status,TMS status,0,Y,5
+AS-01177,2027-04-28 16:01,C1225,U827-225,he,ETA,TMS status,0,Y,
+AS-01178,2027-04-28 07:36,C1073,U913-073,en,ETA,TMS status,0,Y,
+AS-01179,2027-04-28 11:56,C1141,U177-141,he,shipment status,TMS status,0,N,
+AS-01180,2027-04-28 13:50,C1218,U794-218,en,my documents,file documents,1,N,
+AS-01181,2027-04-28 12:55,C1158,U639-158,ar,customs status,TMS status,0,Y,
+AS-01182,2027-04-28 14:52,C1052,U795-052,en,other,general model,0,N,3
+AS-01183,2027-04-28 12:24,C1117,U927-117,he,ETA,TMS status,0,Y,
+AS-01184,2027-04-28 10:37,C1164,U571-164,he,other,general model,0,N,
+AS-01185,2027-04-28 10:07,C1172,U961-172,ar,shipment status,TMS status,0,Y,
+AS-01186,2027-04-28 10:19,C1225,U357-225,en,invoice copy,general model,0,Y,
+AS-01187,2027-04-28 08:58,C1172,U650-172,he,shipment status,TMS status,0,Y,
+AS-01188,2027-04-28 08:45,C1081,U962-081,he,other,general model,0,Y,5
+AS-01189,2027-04-28 17:54,C1117,U859-117,he,my documents,file documents,2,N,
+AS-01190,2027-04-28 15:51,C1068,U467-068,en,shipment status,TMS status,0,Y,
+AS-01191,2027-04-28 15:23,C1095,U839-095,he,shipment status,TMS status,0,N,
+AS-01192,2027-04-28 14:15,C1158,U904-158,he,shipment status,TMS status,0,N,
+AS-01193,2027-04-28 07:40,C1073,U404-073,he,shipment status,TMS status,0,Y,3
+AS-01194,2027-04-28 11:15,C1172,U268-172,en,other,general model,0,Y,
+AS-01195,2027-04-28 08:35,C1204,U816-204,he,my documents,file documents,2,N,2
+AS-01196,2027-04-28 12:37,C1044,U176-044,he,shipment status,TMS status,0,N,
+AS-01197,2027-04-28 17:58,C1218,U129-218,he,customs status,TMS status,0,Y,4
+AS-01198,2027-04-29 11:48,C1141,U916-141,he,rates,general model,0,N,3
+AS-01199,2027-04-29 08:57,C1193,U486-193,he,complaint,general model,0,Y,
+AS-01200,2027-04-29 10:14,C1052,U616-052,he,customs status,TMS status,0,N,2
+AS-01201,2027-04-29 16:13,C1141,U638-141,he,ETA,TMS status,0,Y,
+AS-01202,2027-04-29 14:48,C1189,U399-189,he,shipment status,TMS status,0,N,4
+AS-01203,2027-04-29 11:22,C1031,U179-031,he,other,general model,0,Y,4
+AS-01204,2027-04-29 09:17,C1237,U863-237,he,my documents,file documents,1,N,
+AS-01205,2027-04-29 11:40,C1044,U153-044,he,rates,general model,0,Y,
+AS-01206,2027-04-29 09:24,C1044,U531-044,he,ETA,TMS status,0,N,1
+AS-01207,2027-04-29 13:15,C1073,U486-073,en,shipment status,TMS status,0,Y,
+AS-01208,2027-04-29 16:36,C1141,U167-141,en,shipment status,TMS status,0,N,
+AS-01209,2027-04-29 15:28,C1204,U231-204,en,complaint,general model,0,Y,
+AS-01210,2027-04-29 08:33,C1117,U102-117,he,shipment status,TMS status,0,N,4
+AS-01211,2027-04-29 16:24,C1073,U169-073,he,shipment status,TMS status,0,Y,
+AS-01212,2027-04-29 07:59,C1022,U347-022,en,complaint,general model,0,Y,
+AS-01213,2027-04-29 09:14,C1189,U776-189,he,other,general model,0,N,
+AS-01214,2027-04-29 15:13,C1123,U375-123,en,ETA,TMS status,0,N,
+AS-01215,2027-04-29 12:23,C1204,U535-204,he,ETA,TMS status,0,N,
+AS-01216,2027-04-29 10:40,C1052,U121-052,he,shipment status,TMS status,0,N,
+AS-01217,2027-04-29 11:41,C1123,U254-123,he,shipment status,TMS status,0,N,3
+AS-01218,2027-04-29 08:28,C1007,U802-007,en,invoice copy,general model,0,N,
+AS-01219,2027-04-29 10:09,C1102,U943-102,he,ETA,TMS status,0,N,
+AS-01220,2027-04-29 10:03,C1225,U508-225,ar,ETA,TMS status,0,N,
+AS-01221,2027-04-29 08:48,C1123,U220-123,ru,my documents,file documents,3,N,
+AS-01222,2027-04-29 10:48,C1095,U175-095,en,my documents,file documents,4,Y,
+AS-01223,2027-04-29 08:07,C1073,U976-073,he,invoice copy,general model,0,Y,
+AS-01224,2027-04-29 09:27,C1189,U659-189,en,rates,general model,0,Y,
+AS-01225,2027-04-29 17:37,C1158,U563-158,ar,shipment status,TMS status,0,N,
+AS-01226,2027-04-29 16:14,C1052,U213-052,he,invoice copy,general model,0,Y,
+AS-01227,2027-04-29 15:40,C1102,U260-102,ru,rates,general model,0,Y,
+AS-01228,2027-04-29 08:08,C1073,U183-073,en,shipment status,TMS status,0,N,
+AS-01229,2027-04-29 16:48,C1081,U578-081,ru,my documents,file documents,4,Y,
+AS-01230,2027-04-29 08:54,C1225,U673-225,en,my documents,file documents,4,N,5
+AS-01231,2027-04-29 16:02,C1204,U965-204,he,my documents,file documents,1,N,
+AS-01232,2027-04-29 11:47,C1095,U677-095,he,invoice copy,general model,0,N,
+AS-01233,2027-04-29 16:23,C1081,U690-081,he,ETA,TMS status,0,N,
+AS-01234,2027-04-29 07:20,C1218,U203-218,ar,ETA,TMS status,0,Y,
+AS-01235,2027-04-29 09:54,C1136,U639-136,he,ETA,TMS status,0,N,
+AS-01236,2027-05-02 08:55,C1081,U406-081,he,customs status,TMS status,0,Y,
+AS-01237,2027-05-02 10:55,C1141,U451-141,he,my documents,file documents,1,N,3
+AS-01238,2027-05-02 08:32,C1123,U931-123,he,ETA,TMS status,0,Y,
+AS-01239,2027-05-02 11:08,C1204,U390-204,ar,shipment status,TMS status,0,Y,
+AS-01240,2027-05-02 12:54,C1044,U620-044,ar,shipment status,TMS status,0,Y,
+AS-01241,2027-05-02 15:51,C1007,U569-007,he,customs status,TMS status,0,Y,3
+AS-01242,2027-05-02 14:06,C1068,U245-068,ar,ETA,TMS status,0,N,5
+AS-01243,2027-05-02 17:11,C1158,U405-158,ru,my documents,file documents,1,N,3
+AS-01244,2027-05-02 12:23,C1102,U414-102,ar,ETA,TMS status,0,Y,
+AS-01245,2027-05-02 17:57,C1095,U475-095,he,other,general model,0,Y,
+AS-01246,2027-05-02 15:55,C1193,U622-193,he,rates,general model,0,Y,3
+AS-01247,2027-05-02 15:13,C1172,U488-172,he,shipment status,TMS status,0,Y,
+AS-01248,2027-05-02 17:19,C1095,U416-095,he,complaint,general model,0,Y,1
+AS-01249,2027-05-02 07:16,C1141,U945-141,ru,ETA,TMS status,0,Y,
+AS-01250,2027-05-02 16:36,C1158,U507-158,ru,shipment status,TMS status,0,N,
+AS-01251,2027-05-02 12:22,C1044,U533-044,ru,customs status,TMS status,0,Y,4
+AS-01252,2027-05-02 13:17,C1060,U711-060,he,invoice copy,general model,0,Y,5
+AS-01253,2027-05-02 08:57,C1073,U728-073,he,customs status,TMS status,0,Y,
+AS-01254,2027-05-02 08:43,C1044,U883-044,he,customs status,TMS status,0,N,5
+AS-01255,2027-05-02 13:34,C1141,U500-141,en,shipment status,TMS status,0,N,
+AS-01256,2027-05-02 12:11,C1117,U161-117,en,customs status,TMS status,0,N,1
+AS-01257,2027-05-02 11:38,C1193,U467-193,he,shipment status,TMS status,0,Y,
+AS-01258,2027-05-02 14:51,C1073,U901-073,he,complaint,general model,0,Y,
+AS-01259,2027-05-02 09:56,C1136,U874-136,he,invoice copy,general model,0,Y,
+AS-01260,2027-05-02 12:52,C1081,U147-081,he,customs status,TMS status,0,N,5
+AS-01261,2027-05-02 10:12,C1044,U789-044,he,shipment status,TMS status,0,N,5
+AS-01262,2027-05-02 07:24,C1022,U824-022,en,my documents,file documents,3,Y,
+AS-01263,2027-05-02 12:04,C1081,U836-081,he,ETA,TMS status,0,N,
+AS-01264,2027-05-02 15:05,C1068,U686-068,he,invoice copy,general model,0,Y,
+AS-01265,2027-05-02 09:23,C1123,U443-123,he,my documents,file documents,1,N,
+AS-01266,2027-05-02 12:01,C1193,U360-193,en,my documents,file documents,3,N,
+AS-01267,2027-05-02 10:10,C1189,U647-189,en,customs status,TMS status,0,N,3
+AS-01268,2027-05-02 14:15,C1237,U667-237,en,my documents,file documents,4,Y,2
+AS-01269,2027-05-02 11:04,C1172,U294-172,he,customs status,TMS status,0,N,
+AS-01270,2027-05-02 12:15,C1007,U973-007,en,my documents,file documents,4,Y,4
+AS-01271,2027-05-02 11:44,C1218,U709-218,en,shipment status,TMS status,0,N,
+AS-01272,2027-05-02 07:21,C1117,U941-117,en,invoice copy,general model,0,N,
+AS-01273,2027-05-02 16:02,C1136,U253-136,he,shipment status,TMS status,0,N,2
+AS-01274,2027-05-02 13:29,C1044,U357-044,he,shipment status,TMS status,0,N,
+AS-01275,2027-05-02 08:52,C1172,U644-172,he,shipment status,TMS status,0,N,
+AS-01276,2027-05-03 09:38,C1164,U133-164,en,shipment status,TMS status,0,N,
+AS-01277,2027-05-03 13:01,C1073,U218-073,he,shipment status,TMS status,0,Y,
+AS-01278,2027-05-03 14:36,C1193,U400-193,en,shipment status,TMS status,0,N,
+AS-01279,2027-05-03 17:51,C1117,U218-117,he,customs status,TMS status,0,N,
+AS-01280,2027-05-03 13:24,C1007,U272-007,he,invoice copy,general model,0,N,5
+AS-01281,2027-05-03 15:28,C1136,U387-136,ar,other,general model,0,Y,
+AS-01282,2027-05-03 10:34,C1189,U866-189,he,my documents,file documents,1,N,
+AS-01283,2027-05-03 17:36,C1237,U355-237,he,customs status,TMS status,0,Y,
+AS-01284,2027-05-03 14:37,C1073,U387-073,ru,invoice copy,general model,0,Y,
+AS-01285,2027-05-03 10:12,C1164,U270-164,en,invoice copy,general model,0,Y,
+AS-01286,2027-05-03 17:13,C1237,U797-237,he,ETA,TMS status,0,Y,3
+AS-01287,2027-05-03 11:48,C1225,U986-225,he,ETA,TMS status,0,Y,
+AS-01288,2027-05-03 15:33,C1060,U817-060,en,invoice copy,general model,0,Y,
+AS-01289,2027-05-03 09:23,C1117,U691-117,he,other,general model,0,Y,
+AS-01290,2027-05-03 11:42,C1044,U745-044,ru,complaint,general model,0,Y,
+AS-01291,2027-05-03 08:02,C1073,U411-073,he,shipment status,TMS status,0,N,5
+AS-01292,2027-05-03 17:19,C1073,U283-073,en,my documents,file documents,4,N,
+AS-01293,2027-05-03 08:23,C1031,U221-031,he,shipment status,TMS status,0,N,
+AS-01294,2027-05-03 10:19,C1102,U981-102,he,invoice copy,general model,0,Y,
+AS-01295,2027-05-03 09:51,C1172,U252-172,he,complaint,general model,0,Y,3
+AS-01296,2027-05-03 12:25,C1164,U805-164,he,customs status,TMS status,0,N,
+AS-01297,2027-05-03 10:22,C1158,U778-158,he,rates,general model,0,Y,1
+AS-01298,2027-05-03 08:34,C1204,U421-204,en,shipment status,TMS status,0,N,
+AS-01299,2027-05-03 11:08,C1117,U187-117,en,invoice copy,general model,0,N,5
+AS-01300,2027-05-03 08:36,C1189,U164-189,he,my documents,file documents,3,N,
+AS-01301,2027-05-03 15:15,C1204,U937-204,he,shipment status,TMS status,0,N,
+AS-01302,2027-05-03 16:33,C1007,U981-007,he,my documents,file documents,3,N,1
+AS-01303,2027-05-03 07:20,C1158,U890-158,he,invoice copy,general model,0,N,5
+AS-01304,2027-05-03 12:20,C1031,U443-031,he,shipment status,TMS status,0,N,
+AS-01305,2027-05-03 14:58,C1204,U553-204,he,my documents,file documents,1,Y,
+AS-01306,2027-05-03 12:08,C1204,U431-204,he,shipment status,TMS status,0,N,5
+AS-01307,2027-05-03 10:17,C1102,U288-102,he,my documents,file documents,3,N,
+AS-01308,2027-05-04 10:39,C1031,U543-031,he,shipment status,TMS status,0,N,
+AS-01309,2027-05-04 15:09,C1044,U610-044,en,ETA,TMS status,0,Y,1
+AS-01310,2027-05-04 13:10,C1189,U386-189,he,shipment status,TMS status,0,N,
+AS-01311,2027-05-04 14:17,C1204,U698-204,en,shipment status,TMS status,0,N,
+AS-01312,2027-05-04 11:20,C1068,U419-068,ru,shipment status,TMS status,0,Y,
+AS-01313,2027-05-04 15:40,C1007,U261-007,he,customs status,TMS status,0,N,
+AS-01314,2027-05-04 08:50,C1141,U293-141,he,ETA,TMS status,0,Y,
+AS-01315,2027-05-04 07:50,C1022,U852-022,he,ETA,TMS status,0,N,3
+AS-01316,2027-05-04 16:40,C1117,U670-117,he,my documents,file documents,3,Y,
+AS-01317,2027-05-04 16:05,C1193,U224-193,he,customs status,TMS status,0,Y,
+AS-01318,2027-05-04 14:12,C1031,U668-031,he,my documents,file documents,3,N,
+AS-01319,2027-05-04 09:51,C1123,U537-123,he,shipment status,TMS status,0,Y,
+AS-01320,2027-05-04 16:03,C1031,U668-031,he,complaint,general model,0,Y,
+AS-01321,2027-05-04 17:15,C1141,U375-141,en,customs status,TMS status,0,N,
+AS-01322,2027-05-04 12:10,C1095,U734-095,he,other,general model,0,N,3
+AS-01323,2027-05-04 07:59,C1044,U266-044,en,my documents,file documents,3,Y,
+AS-01324,2027-05-04 09:27,C1141,U123-141,en,shipment status,TMS status,0,N,
+AS-01325,2027-05-04 10:43,C1060,U173-060,he,customs status,TMS status,0,N,
+AS-01326,2027-05-04 07:12,C1141,U866-141,he,ETA,TMS status,0,N,
+AS-01327,2027-05-04 10:26,C1068,U110-068,he,shipment status,TMS status,0,Y,3
+AS-01328,2027-05-04 07:36,C1117,U184-117,he,customs status,TMS status,0,Y,
+AS-01329,2027-05-04 15:28,C1193,U153-193,he,shipment status,TMS status,0,Y,1
+AS-01330,2027-05-04 16:15,C1073,U151-073,he,complaint,general model,0,Y,
+AS-01331,2027-05-04 07:53,C1123,U919-123,ru,shipment status,TMS status,0,N,2
+AS-01332,2027-05-04 12:50,C1136,U789-136,he,shipment status,TMS status,0,N,
+AS-01333,2027-05-04 11:07,C1095,U639-095,he,ETA,TMS status,0,Y,
+AS-01334,2027-05-04 15:01,C1022,U755-022,he,shipment status,TMS status,0,N,
+AS-01335,2027-05-04 08:07,C1158,U904-158,he,ETA,TMS status,0,N,
+AS-01336,2027-05-04 11:58,C1218,U114-218,he,shipment status,TMS status,0,N,
+AS-01337,2027-05-04 09:56,C1204,U124-204,he,invoice copy,general model,0,Y,
+AS-01338,2027-05-04 14:12,C1193,U199-193,he,customs status,TMS status,0,Y,
+AS-01339,2027-05-04 09:00,C1007,U318-007,he,shipment status,TMS status,0,N,
+AS-01340,2027-05-04 08:45,C1068,U530-068,he,rates,general model,0,Y,1
+AS-01341,2027-05-04 17:50,C1022,U786-022,he,my documents,file documents,2,Y,1
+AS-01342,2027-05-05 10:03,C1117,U997-117,he,shipment status,TMS status,0,N,
+AS-01343,2027-05-05 12:36,C1204,U350-204,he,other,general model,0,N,
+AS-01344,2027-05-05 12:08,C1204,U270-204,he,other,general model,0,Y,3
+AS-01345,2027-05-05 07:43,C1068,U755-068,he,my documents,file documents,1,Y,5
+AS-01346,2027-05-05 12:17,C1060,U689-060,en,my documents,file documents,4,N,
+AS-01347,2027-05-05 16:33,C1225,U753-225,he,shipment status,TMS status,0,N,4
+AS-01348,2027-05-05 17:09,C1141,U611-141,ru,rates,general model,0,Y,
+AS-01349,2027-05-05 09:00,C1158,U456-158,he,ETA,TMS status,0,N,
+AS-01350,2027-05-05 07:44,C1022,U899-022,he,my documents,file documents,3,Y,
+AS-01351,2027-05-05 13:07,C1204,U265-204,he,shipment status,TMS status,0,N,
+AS-01352,2027-05-05 14:04,C1031,U869-031,he,ETA,TMS status,0,N,2
+AS-01353,2027-05-05 16:29,C1193,U732-193,en,other,general model,0,N,5
+AS-01354,2027-05-05 17:44,C1164,U837-164,he,shipment status,TMS status,0,N,1
+AS-01355,2027-05-05 12:55,C1102,U164-102,ar,shipment status,TMS status,0,N,4
+AS-01356,2027-05-05 16:08,C1022,U781-022,he,other,general model,0,Y,
+AS-01357,2027-05-05 11:28,C1060,U351-060,he,shipment status,TMS status,0,N,
+AS-01358,2027-05-05 08:27,C1193,U995-193,en,my documents,file documents,4,Y,
+AS-01359,2027-05-05 16:33,C1172,U917-172,en,my documents,file documents,1,N,
+AS-01360,2027-05-05 10:19,C1117,U829-117,he,shipment status,TMS status,0,Y,
+AS-01361,2027-05-05 13:29,C1141,U516-141,he,shipment status,TMS status,0,N,1
+AS-01362,2027-05-05 07:24,C1068,U493-068,en,my documents,file documents,4,N,
+AS-01363,2027-05-05 08:31,C1022,U947-022,en,shipment status,TMS status,0,N,
+AS-01364,2027-05-05 07:18,C1136,U785-136,ar,invoice copy,general model,0,N,4
+AS-01365,2027-05-05 17:53,C1172,U581-172,en,shipment status,TMS status,0,N,3
+AS-01366,2027-05-05 07:32,C1225,U686-225,he,other,general model,0,Y,
+AS-01367,2027-05-05 12:49,C1189,U379-189,ar,customs status,TMS status,0,Y,5
+AS-01368,2027-05-05 12:40,C1081,U473-081,he,invoice copy,general model,0,N,
+AS-01369,2027-05-05 17:40,C1102,U455-102,he,complaint,general model,0,Y,2
+AS-01370,2027-05-05 08:58,C1060,U890-060,he,shipment status,TMS status,0,N,
+AS-01371,2027-05-05 13:59,C1031,U106-031,he,shipment status,TMS status,0,N,4
+AS-01372,2027-05-05 11:57,C1068,U367-068,he,shipment status,TMS status,0,N,5
+AS-01373,2027-05-05 09:09,C1022,U415-022,he,customs status,TMS status,0,N,
+AS-01374,2027-05-05 16:09,C1164,U764-164,ru,my documents,file documents,4,Y,
+AS-01375,2027-05-05 12:45,C1164,U724-164,he,shipment status,TMS status,0,N,
+AS-01376,2027-05-05 15:02,C1060,U552-060,en,invoice copy,general model,0,Y,
+AS-01377,2027-05-05 07:23,C1193,U529-193,he,shipment status,TMS status,0,Y,5
+AS-01378,2027-05-06 11:55,C1060,U205-060,he,shipment status,TMS status,0,N,
+AS-01379,2027-05-06 13:50,C1141,U297-141,ru,my documents,file documents,1,N,
+AS-01380,2027-05-06 16:46,C1081,U464-081,he,customs status,TMS status,0,N,5
+AS-01381,2027-05-06 12:21,C1007,U482-007,he,shipment status,TMS status,0,N,5
+AS-01382,2027-05-06 16:37,C1136,U639-136,en,shipment status,TMS status,0,N,
+AS-01383,2027-05-06 15:09,C1204,U839-204,he,shipment status,TMS status,0,Y,
+AS-01384,2027-05-06 09:54,C1237,U979-237,ru,other,general model,0,Y,
+AS-01385,2027-05-06 12:14,C1060,U272-060,he,customs status,TMS status,0,Y,
+AS-01386,2027-05-06 15:04,C1022,U709-022,en,invoice copy,general model,0,N,
+AS-01387,2027-05-06 17:21,C1052,U150-052,he,shipment status,TMS status,0,N,
+AS-01388,2027-05-06 13:25,C1204,U833-204,en,customs status,TMS status,0,Y,
+AS-01389,2027-05-06 07:30,C1237,U473-237,he,shipment status,TMS status,0,N,
+AS-01390,2027-05-06 09:16,C1141,U477-141,ru,invoice copy,general model,0,Y,
+AS-01391,2027-05-06 08:50,C1117,U663-117,he,ETA,TMS status,0,Y,1
+AS-01392,2027-05-06 17:30,C1204,U242-204,en,shipment status,TMS status,0,N,
+AS-01393,2027-05-06 13:44,C1022,U382-022,he,other,general model,0,Y,
+AS-01394,2027-05-06 11:06,C1141,U618-141,he,invoice copy,general model,0,Y,2
+AS-01395,2027-05-06 12:21,C1136,U134-136,ar,customs status,TMS status,0,Y,
+AS-01396,2027-05-06 15:37,C1193,U410-193,en,shipment status,TMS status,0,N,5
+AS-01397,2027-05-06 07:05,C1123,U278-123,ru,shipment status,TMS status,0,Y,
+AS-01398,2027-05-06 16:31,C1189,U980-189,ru,customs status,TMS status,0,Y,
+AS-01399,2027-05-06 07:53,C1225,U740-225,he,ETA,TMS status,0,Y,
+AS-01400,2027-05-06 14:04,C1117,U935-117,he,shipment status,TMS status,0,N,
+AS-01401,2027-05-06 10:45,C1117,U270-117,he,my documents,file documents,1,N,
+AS-01402,2027-05-06 10:05,C1204,U767-204,en,my documents,file documents,2,N,2
+AS-01403,2027-05-06 12:38,C1068,U399-068,he,customs status,TMS status,0,Y,5
+AS-01404,2027-05-06 17:46,C1095,U746-095,en,customs status,TMS status,0,Y,
+AS-01405,2027-05-06 11:17,C1136,U652-136,en,ETA,TMS status,0,N,1
+AS-01406,2027-05-06 14:23,C1073,U906-073,he,shipment status,TMS status,0,Y,
+AS-01407,2027-05-06 16:56,C1189,U590-189,en,shipment status,TMS status,0,N,
+AS-01408,2027-05-06 16:13,C1022,U801-022,he,other,general model,0,N,
+AS-01409,2027-05-06 10:00,C1172,U304-172,en,my documents,file documents,1,N,
+AS-01410,2027-05-06 16:26,C1218,U165-218,he,customs status,TMS status,0,N,5
+AS-01411,2027-05-06 12:54,C1189,U175-189,ar,shipment status,TMS status,0,N,
+AS-01412,2027-05-09 15:55,C1068,U301-068,he,shipment status,TMS status,0,Y,
+AS-01413,2027-05-09 16:15,C1102,U296-102,en,customs status,TMS status,0,N,
+AS-01414,2027-05-09 13:08,C1102,U289-102,he,customs status,TMS status,0,N,
+AS-01415,2027-05-09 11:39,C1189,U509-189,en,my documents,file documents,1,N,
+AS-01416,2027-05-09 12:14,C1007,U837-007,he,other,general model,0,Y,
+AS-01417,2027-05-09 17:38,C1136,U460-136,he,ETA,TMS status,0,Y,
+AS-01418,2027-05-09 16:18,C1225,U626-225,he,customs status,TMS status,0,N,2
+AS-01419,2027-05-09 16:54,C1007,U526-007,en,shipment status,TMS status,0,N,
+AS-01420,2027-05-09 15:40,C1117,U228-117,en,customs status,TMS status,0,Y,
+AS-01421,2027-05-09 13:53,C1172,U799-172,en,shipment status,TMS status,0,Y,1
+AS-01422,2027-05-09 17:38,C1044,U425-044,en,my documents,file documents,2,N,
+AS-01423,2027-05-09 07:41,C1141,U367-141,ru,rates,general model,0,Y,
+AS-01424,2027-05-09 07:44,C1068,U730-068,ar,other,general model,0,Y,
+AS-01425,2027-05-09 15:17,C1204,U495-204,he,shipment status,TMS status,0,N,
+AS-01426,2027-05-09 08:55,C1081,U846-081,he,shipment status,TMS status,0,N,
+AS-01427,2027-05-09 14:57,C1204,U201-204,he,other,general model,0,Y,
+AS-01428,2027-05-09 17:25,C1136,U498-136,en,customs status,TMS status,0,Y,2
+AS-01429,2027-05-09 16:08,C1060,U179-060,he,shipment status,TMS status,0,N,
+AS-01430,2027-05-09 08:54,C1237,U939-237,he,customs status,TMS status,0,N,
+AS-01431,2027-05-09 13:02,C1204,U486-204,he,my documents,file documents,2,N,
+AS-01432,2027-05-09 07:10,C1007,U218-007,he,customs status,TMS status,0,Y,
+AS-01433,2027-05-09 10:48,C1172,U980-172,he,rates,general model,0,Y,3
+AS-01434,2027-05-09 16:27,C1218,U176-218,ar,customs status,TMS status,0,N,
+AS-01435,2027-05-09 09:07,C1022,U205-022,he,shipment status,TMS status,0,N,5
+AS-01436,2027-05-09 12:05,C1193,U456-193,he,my documents,file documents,2,N,1
+AS-01437,2027-05-09 14:13,C1095,U133-095,he,customs status,TMS status,0,N,
+AS-01438,2027-05-09 16:31,C1052,U888-052,he,invoice copy,general model,0,N,
+AS-01439,2027-05-09 12:45,C1068,U949-068,he,shipment status,TMS status,0,N,2
+AS-01440,2027-05-09 16:18,C1060,U647-060,en,ETA,TMS status,0,N,1
+AS-01441,2027-05-09 16:41,C1081,U709-081,he,shipment status,TMS status,0,N,
+AS-01442,2027-05-09 12:49,C1081,U348-081,he,complaint,general model,0,Y,5
+AS-01443,2027-05-09 08:50,C1095,U977-095,en,shipment status,TMS status,0,Y,2
+AS-01444,2027-05-09 07:42,C1123,U811-123,he,complaint,general model,0,Y,
+AS-01445,2027-05-10 07:49,C1095,U406-095,he,rates,general model,0,N,
+AS-01446,2027-05-10 15:16,C1022,U209-022,he,customs status,TMS status,0,N,
+AS-01447,2027-05-10 10:25,C1237,U464-237,he,invoice copy,general model,0,Y,4
+AS-01448,2027-05-10 15:55,C1158,U722-158,he,my documents,file documents,4,N,
+AS-01449,2027-05-10 17:29,C1204,U301-204,he,ETA,TMS status,0,N,
+AS-01450,2027-05-10 15:36,C1123,U461-123,he,rates,general model,0,Y,
+AS-01451,2027-05-10 14:30,C1022,U842-022,he,ETA,TMS status,0,N,
+AS-01452,2027-05-10 16:51,C1044,U657-044,en,customs status,TMS status,0,Y,
+AS-01453,2027-05-10 16:29,C1031,U574-031,he,shipment status,TMS status,0,N,
+AS-01454,2027-05-10 11:59,C1052,U296-052,he,shipment status,TMS status,0,Y,1
+AS-01455,2027-05-10 12:52,C1172,U965-172,ar,ETA,TMS status,0,N,
+AS-01456,2027-05-10 13:48,C1225,U743-225,he,customs status,TMS status,0,N,
+AS-01457,2027-05-10 11:15,C1117,U866-117,he,invoice copy,general model,0,Y,
+AS-01458,2027-05-10 08:32,C1164,U309-164,ar,complaint,general model,0,Y,
+AS-01459,2027-05-10 07:56,C1117,U123-117,he,invoice copy,general model,0,Y,
+AS-01460,2027-05-10 11:24,C1164,U419-164,he,customs status,TMS status,0,Y,
+AS-01461,2027-05-10 17:34,C1022,U788-022,en,customs status,TMS status,0,N,
+AS-01462,2027-05-10 14:22,C1136,U724-136,he,customs status,TMS status,0,Y,
+AS-01463,2027-05-10 16:56,C1081,U968-081,ar,shipment status,TMS status,0,N,
+AS-01464,2027-05-10 16:58,C1044,U573-044,he,shipment status,TMS status,0,N,5
+AS-01465,2027-05-10 17:22,C1237,U423-237,he,customs status,TMS status,0,Y,
+AS-01466,2027-05-10 14:32,C1158,U952-158,he,ETA,TMS status,0,N,
+AS-01467,2027-05-10 17:05,C1007,U778-007,he,customs status,TMS status,0,N,
+AS-01468,2027-05-10 16:41,C1073,U261-073,he,my documents,file documents,4,N,
+AS-01469,2027-05-10 15:13,C1123,U651-123,he,complaint,general model,0,Y,
+AS-01470,2027-05-10 08:57,C1007,U201-007,ar,my documents,file documents,2,N,
+AS-01471,2027-05-10 10:25,C1117,U378-117,he,customs status,TMS status,0,Y,
+AS-01472,2027-05-10 15:12,C1218,U777-218,ar,shipment status,TMS status,0,N,
+AS-01473,2027-05-10 07:40,C1225,U108-225,he,customs status,TMS status,0,Y,
+AS-01474,2027-05-10 15:08,C1031,U428-031,ru,other,general model,0,Y,
+AS-01475,2027-05-10 17:14,C1031,U362-031,he,shipment status,TMS status,0,N,5
+AS-01476,2027-05-10 10:01,C1193,U577-193,he,ETA,TMS status,0,Y,3
+AS-01477,2027-05-10 15:38,C1022,U488-022,he,customs status,TMS status,0,Y,4
+AS-01478,2027-05-10 10:04,C1044,U527-044,en,shipment status,TMS status,0,N,
+AS-01479,2027-05-10 08:27,C1068,U252-068,he,invoice copy,general model,0,Y,
+AS-01480,2027-05-10 15:11,C1060,U915-060,en,other,general model,0,Y,
+AS-01481,2027-05-10 10:06,C1172,U384-172,he,shipment status,TMS status,0,N,
+AS-01482,2027-05-10 16:59,C1117,U716-117,ru,shipment status,TMS status,0,N,
+AS-01483,2027-05-10 10:41,C1136,U546-136,ru,shipment status,TMS status,0,N,1
+AS-01484,2027-05-10 12:56,C1204,U608-204,he,ETA,TMS status,0,N,4
+AS-01485,2027-05-11 12:22,C1218,U354-218,he,shipment status,TMS status,0,Y,
+AS-01486,2027-05-11 11:33,C1218,U777-218,he,customs status,TMS status,0,Y,3
+AS-01487,2027-05-11 16:05,C1158,U903-158,he,invoice copy,general model,0,N,
+AS-01488,2027-05-11 07:46,C1052,U603-052,he,my documents,file documents,2,N,
+AS-01489,2027-05-11 13:44,C1218,U420-218,he,shipment status,TMS status,0,N,
+AS-01490,2027-05-11 17:40,C1164,U389-164,he,my documents,file documents,4,N,
+AS-01491,2027-05-11 16:31,C1095,U829-095,en,ETA,TMS status,0,N,
+AS-01492,2027-05-11 10:33,C1117,U665-117,en,shipment status,TMS status,0,N,
+AS-01493,2027-05-11 14:12,C1081,U635-081,ru,shipment status,TMS status,0,N,
+AS-01494,2027-05-11 13:20,C1117,U761-117,he,ETA,TMS status,0,N,2
+AS-01495,2027-05-11 11:37,C1052,U404-052,he,shipment status,TMS status,0,N,
+AS-01496,2027-05-11 09:31,C1073,U341-073,he,invoice copy,general model,0,Y,
+AS-01497,2027-05-11 12:23,C1141,U478-141,he,ETA,TMS status,0,N,2
+AS-01498,2027-05-11 12:52,C1044,U640-044,he,other,general model,0,Y,4
+AS-01499,2027-05-11 12:19,C1136,U906-136,en,customs status,TMS status,0,Y,2
+AS-01500,2027-05-11 09:29,C1081,U347-081,he,rates,general model,0,N,
+AS-01501,2027-05-11 09:37,C1095,U971-095,ru,customs status,TMS status,0,Y,1
+AS-01502,2027-05-11 13:01,C1158,U608-158,he,my documents,file documents,2,N,
+AS-01503,2027-05-11 10:06,C1007,U206-007,en,invoice copy,general model,0,Y,4
+AS-01504,2027-05-11 17:39,C1031,U574-031,en,ETA,TMS status,0,N,
+AS-01505,2027-05-11 15:49,C1081,U491-081,en,other,general model,0,Y,
+AS-01506,2027-05-11 10:36,C1136,U472-136,ar,my documents,file documents,3,Y,
+AS-01507,2027-05-11 16:49,C1237,U242-237,en,ETA,TMS status,0,N,
+AS-01508,2027-05-11 08:25,C1158,U521-158,he,customs status,TMS status,0,Y,5
+AS-01509,2027-05-11 17:34,C1225,U694-225,ru,other,general model,0,Y,
+AS-01510,2027-05-11 12:22,C1225,U444-225,he,shipment status,TMS status,0,N,1
+AS-01511,2027-05-11 13:39,C1123,U912-123,en,customs status,TMS status,0,N,
+AS-01512,2027-05-11 17:05,C1031,U957-031,en,shipment status,TMS status,0,N,
+AS-01513,2027-05-11 17:01,C1237,U780-237,ru,customs status,TMS status,0,N,5
+AS-01514,2027-05-11 13:35,C1172,U162-172,he,ETA,TMS status,0,N,
+AS-01515,2027-05-11 07:42,C1225,U632-225,he,my documents,file documents,4,N,
+AS-01516,2027-05-11 15:16,C1136,U606-136,he,other,general model,0,N,
+AS-01517,2027-05-11 16:22,C1172,U929-172,ru,customs status,TMS status,0,Y,
+AS-01518,2027-05-11 13:44,C1117,U573-117,en,shipment status,TMS status,0,N,3
+AS-01519,2027-05-11 16:51,C1068,U437-068,en,other,general model,0,Y,
+AS-01520,2027-05-11 10:34,C1193,U203-193,ru,shipment status,TMS status,0,Y,
+AS-01521,2027-05-11 14:31,C1141,U242-141,he,customs status,TMS status,0,Y,
+AS-01522,2027-05-12 12:07,C1073,U325-073,he,invoice copy,general model,0,N,1
+AS-01523,2027-05-12 11:04,C1158,U354-158,he,shipment status,TMS status,0,N,
+AS-01524,2027-05-12 07:52,C1218,U131-218,he,ETA,TMS status,0,N,
+AS-01525,2027-05-12 10:55,C1172,U266-172,en,complaint,general model,0,Y,
+AS-01526,2027-05-12 17:40,C1218,U517-218,ru,ETA,TMS status,0,N,
+AS-01527,2027-05-12 08:50,C1068,U288-068,he,invoice copy,general model,0,Y,
+AS-01528,2027-05-12 17:40,C1060,U755-060,ru,other,general model,0,Y,
+AS-01529,2027-05-12 12:43,C1095,U381-095,he,customs status,TMS status,0,N,
+AS-01530,2027-05-12 16:10,C1022,U955-022,ar,customs status,TMS status,0,Y,2
+AS-01531,2027-05-12 17:52,C1218,U468-218,he,complaint,general model,0,Y,4
+AS-01532,2027-05-12 08:04,C1073,U667-073,he,shipment status,TMS status,0,N,
+AS-01533,2027-05-12 12:31,C1158,U391-158,en,shipment status,TMS status,0,N,
+AS-01534,2027-05-12 11:51,C1123,U695-123,he,my documents,file documents,3,Y,
+AS-01535,2027-05-12 09:52,C1136,U738-136,he,complaint,general model,0,Y,
+AS-01536,2027-05-12 14:01,C1225,U217-225,he,ETA,TMS status,0,Y,
+AS-01537,2027-05-12 17:53,C1073,U186-073,he,rates,general model,0,Y,3
+AS-01538,2027-05-12 13:15,C1102,U580-102,he,my documents,file documents,2,N,
+AS-01539,2027-05-12 15:45,C1102,U689-102,ar,ETA,TMS status,0,Y,
+AS-01540,2027-05-12 10:42,C1073,U729-073,en,customs status,TMS status,0,Y,
+AS-01541,2027-05-12 07:07,C1007,U958-007,he,my documents,file documents,4,N,5
+AS-01542,2027-05-12 13:01,C1095,U146-095,he,customs status,TMS status,0,Y,
+AS-01543,2027-05-12 07:26,C1044,U472-044,he,customs status,TMS status,0,Y,
+AS-01544,2027-05-12 12:55,C1007,U794-007,he,customs status,TMS status,0,Y,3
+AS-01545,2027-05-12 13:07,C1073,U585-073,en,my documents,file documents,1,Y,
+AS-01546,2027-05-12 10:40,C1060,U382-060,en,rates,general model,0,N,5
+AS-01547,2027-05-12 14:43,C1218,U680-218,he,shipment status,TMS status,0,N,
+AS-01548,2027-05-12 13:14,C1007,U726-007,ru,shipment status,TMS status,0,N,
+AS-01549,2027-05-12 11:14,C1218,U585-218,en,ETA,TMS status,0,N,
+AS-01550,2027-05-12 14:09,C1172,U439-172,he,shipment status,TMS status,0,N,
+AS-01551,2027-05-12 10:42,C1193,U563-193,he,shipment status,TMS status,0,Y,5
+AS-01552,2027-05-12 10:50,C1060,U918-060,he,customs status,TMS status,0,N,3
+AS-01553,2027-05-12 09:24,C1237,U465-237,ru,shipment status,TMS status,0,N,
+AS-01554,2027-05-12 14:58,C1172,U245-172,ar,ETA,TMS status,0,N,
+AS-01555,2027-05-12 09:44,C1225,U944-225,he,other,general model,0,Y,3
+AS-01556,2027-05-12 08:57,C1095,U264-095,he,my documents,file documents,4,N,1
+AS-01557,2027-05-12 08:45,C1022,U582-022,he,customs status,TMS status,0,N,
+AS-01558,2027-05-12 14:20,C1081,U544-081,en,my documents,file documents,1,Y,3
+AS-01559,2027-05-12 14:47,C1237,U218-237,he,shipment status,TMS status,0,Y,
+AS-01560,2027-05-12 08:40,C1141,U614-141,he,my documents,file documents,2,N,
+AS-01561,2027-05-13 09:46,C1204,U563-204,ru,my documents,file documents,4,N,
+AS-01562,2027-05-13 17:39,C1052,U994-052,ru,invoice copy,general model,0,Y,4
+AS-01563,2027-05-13 09:48,C1189,U366-189,he,rates,general model,0,Y,
+AS-01564,2027-05-13 16:17,C1141,U459-141,he,customs status,TMS status,0,Y,
+AS-01565,2027-05-13 11:00,C1193,U164-193,ar,shipment status,TMS status,0,Y,
+AS-01566,2027-05-13 08:52,C1193,U690-193,en,other,general model,0,Y,
+AS-01567,2027-05-13 13:02,C1204,U617-204,ar,my documents,file documents,3,Y,
+AS-01568,2027-05-13 11:29,C1022,U678-022,he,ETA,TMS status,0,Y,
+AS-01569,2027-05-13 11:28,C1172,U351-172,en,shipment status,TMS status,0,N,
+AS-01570,2027-05-13 15:14,C1189,U374-189,he,shipment status,TMS status,0,N,
+AS-01571,2027-05-13 10:13,C1189,U939-189,he,shipment status,TMS status,0,Y,
+AS-01572,2027-05-13 09:17,C1044,U389-044,ru,customs status,TMS status,0,Y,1
+AS-01573,2027-05-13 14:37,C1237,U411-237,he,shipment status,TMS status,0,Y,5
+AS-01574,2027-05-13 08:30,C1022,U729-022,he,other,general model,0,Y,5
+AS-01575,2027-05-13 16:58,C1123,U416-123,he,my documents,file documents,1,N,
+AS-01576,2027-05-13 16:51,C1068,U200-068,en,complaint,general model,0,Y,
+AS-01577,2027-05-13 13:10,C1189,U526-189,ru,other,general model,0,Y,
+AS-01578,2027-05-13 09:48,C1158,U165-158,he,ETA,TMS status,0,Y,
+AS-01579,2027-05-13 08:46,C1189,U319-189,he,shipment status,TMS status,0,N,
+AS-01580,2027-05-13 07:20,C1189,U837-189,en,customs status,TMS status,0,Y,
+AS-01581,2027-05-13 10:56,C1189,U482-189,he,complaint,general model,0,Y,
+AS-01582,2027-05-13 16:10,C1117,U144-117,he,customs status,TMS status,0,Y,
+AS-01583,2027-05-13 07:59,C1117,U439-117,he,shipment status,TMS status,0,N,4
+AS-01584,2027-05-13 17:14,C1193,U322-193,he,customs status,TMS status,0,Y,
+AS-01585,2027-05-13 15:25,C1007,U322-007,en,ETA,TMS status,0,N,
+AS-01586,2027-05-13 11:28,C1095,U513-095,he,customs status,TMS status,0,N,
+AS-01587,2027-05-13 14:10,C1172,U283-172,he,invoice copy,general model,0,Y,
+AS-01588,2027-05-13 12:10,C1095,U523-095,ar,complaint,general model,0,Y,
+AS-01589,2027-05-13 16:01,C1204,U170-204,en,complaint,general model,0,Y,
+AS-01590,2027-05-13 17:45,C1158,U478-158,ru,shipment status,TMS status,0,N,3
+AS-01591,2027-05-13 09:06,C1237,U564-237,en,my documents,file documents,2,N,
+AS-01592,2027-05-16 14:14,C1117,U146-117,he,ETA,TMS status,0,N,
+AS-01593,2027-05-16 09:07,C1068,U309-068,he,shipment status,TMS status,0,Y,
+AS-01594,2027-05-16 07:41,C1189,U644-189,he,shipment status,TMS status,0,N,
+AS-01595,2027-05-16 14:20,C1068,U972-068,he,shipment status,TMS status,0,N,
+AS-01596,2027-05-16 12:15,C1044,U742-044,en,ETA,TMS status,0,N,5
+AS-01597,2027-05-16 14:56,C1081,U543-081,en,customs status,TMS status,0,N,
+AS-01598,2027-05-16 15:14,C1225,U392-225,ar,rates,general model,0,Y,4
+AS-01599,2027-05-16 13:07,C1095,U452-095,en,my documents,file documents,2,N,
+AS-01600,2027-05-16 15:11,C1095,U687-095,ru,shipment status,TMS status,0,Y,
+AS-01601,2027-05-16 09:34,C1068,U532-068,he,my documents,file documents,1,N,4
+AS-01602,2027-05-16 15:49,C1073,U887-073,he,my documents,file documents,3,N,
+AS-01603,2027-05-16 13:34,C1218,U151-218,he,customs status,TMS status,0,N,
+AS-01604,2027-05-16 12:56,C1081,U807-081,he,customs status,TMS status,0,N,
+AS-01605,2027-05-16 14:01,C1204,U870-204,en,my documents,file documents,2,Y,
+AS-01606,2027-05-16 12:18,C1007,U887-007,he,shipment status,TMS status,0,Y,2
+AS-01607,2027-05-16 13:19,C1218,U889-218,he,complaint,general model,0,Y,5
+AS-01608,2027-05-16 09:23,C1007,U209-007,en,customs status,TMS status,0,N,2
+AS-01609,2027-05-16 10:19,C1172,U848-172,he,customs status,TMS status,0,N,
+AS-01610,2027-05-16 11:29,C1189,U167-189,he,shipment status,TMS status,0,N,
+AS-01611,2027-05-16 11:05,C1136,U566-136,he,complaint,general model,0,Y,
+AS-01612,2027-05-16 16:42,C1073,U542-073,he,ETA,TMS status,0,Y,
+AS-01613,2027-05-16 09:51,C1052,U666-052,ru,shipment status,TMS status,0,N,
+AS-01614,2027-05-16 09:31,C1158,U651-158,he,my documents,file documents,2,N,
+AS-01615,2027-05-16 13:24,C1225,U404-225,en,complaint,general model,0,Y,
+AS-01616,2027-05-16 14:57,C1060,U379-060,he,shipment status,TMS status,0,N,5
+AS-01617,2027-05-16 13:48,C1073,U835-073,he,my documents,file documents,3,N,
+AS-01618,2027-05-16 17:32,C1022,U154-022,he,customs status,TMS status,0,Y,
+AS-01619,2027-05-16 08:16,C1081,U102-081,he,other,general model,0,Y,1
+AS-01620,2027-05-16 07:06,C1068,U782-068,he,complaint,general model,0,Y,5
+AS-01621,2027-05-16 11:05,C1022,U641-022,he,customs status,TMS status,0,Y,
+AS-01622,2027-05-16 12:22,C1044,U398-044,en,my documents,file documents,2,N,
+AS-01623,2027-05-16 15:11,C1237,U725-237,he,ETA,TMS status,0,N,3
+AS-01624,2027-05-16 11:07,C1102,U342-102,he,shipment status,TMS status,0,Y,1
+AS-01625,2027-05-16 10:38,C1123,U854-123,he,ETA,TMS status,0,N,3
+AS-01626,2027-05-16 08:34,C1136,U147-136,ru,shipment status,TMS status,0,Y,
+AS-01627,2027-05-16 10:12,C1095,U319-095,he,shipment status,TMS status,0,N,
+AS-01628,2027-05-16 09:59,C1117,U936-117,he,shipment status,TMS status,0,N,1
+AS-01629,2027-05-16 10:28,C1044,U142-044,he,ETA,TMS status,0,N,
+AS-01630,2027-05-16 13:00,C1225,U314-225,ru,customs status,TMS status,0,N,
+AS-01631,2027-05-17 07:10,C1123,U291-123,en,shipment status,TMS status,0,N,
+AS-01632,2027-05-17 10:47,C1073,U507-073,he,ETA,TMS status,0,Y,4
+AS-01633,2027-05-17 14:40,C1117,U889-117,he,shipment status,TMS status,0,Y,
+AS-01634,2027-05-17 09:24,C1189,U266-189,he,shipment status,TMS status,0,N,5
+AS-01635,2027-05-17 10:27,C1189,U577-189,ru,ETA,TMS status,0,Y,4
+AS-01636,2027-05-17 08:11,C1237,U665-237,he,shipment status,TMS status,0,N,
+AS-01637,2027-05-17 09:38,C1237,U190-237,en,customs status,TMS status,0,Y,
+AS-01638,2027-05-17 11:33,C1158,U931-158,he,customs status,TMS status,0,Y,
+AS-01639,2027-05-17 11:12,C1022,U940-022,he,customs status,TMS status,0,Y,
+AS-01640,2027-05-17 10:51,C1225,U462-225,en,rates,general model,0,Y,
+AS-01641,2027-05-17 15:26,C1022,U707-022,he,my documents,file documents,2,Y,3
+AS-01642,2027-05-17 11:02,C1031,U793-031,he,ETA,TMS status,0,N,
+AS-01643,2027-05-17 07:09,C1117,U799-117,he,shipment status,TMS status,0,Y,
+AS-01644,2027-05-17 17:09,C1204,U449-204,he,complaint,general model,0,Y,
+AS-01645,2027-05-17 09:59,C1218,U317-218,he,shipment status,TMS status,0,Y,
+AS-01646,2027-05-17 13:21,C1193,U552-193,en,customs status,TMS status,0,N,
+AS-01647,2027-05-17 13:04,C1081,U649-081,he,invoice copy,general model,0,Y,4
+AS-01648,2027-05-17 13:25,C1068,U493-068,he,shipment status,TMS status,0,N,3
+AS-01649,2027-05-17 08:32,C1081,U630-081,he,rates,general model,0,Y,
+AS-01650,2027-05-17 12:05,C1073,U278-073,he,shipment status,TMS status,0,N,1
+AS-01651,2027-05-17 08:30,C1158,U946-158,he,other,general model,0,Y,
+AS-01652,2027-05-17 15:21,C1193,U787-193,ar,shipment status,TMS status,0,N,
+AS-01653,2027-05-17 17:20,C1189,U494-189,he,ETA,TMS status,0,N,
+AS-01654,2027-05-17 16:54,C1081,U696-081,he,customs status,TMS status,0,Y,
+AS-01655,2027-05-17 11:09,C1044,U253-044,he,ETA,TMS status,0,N,
+AS-01656,2027-05-17 10:02,C1068,U419-068,he,rates,general model,0,Y,
+AS-01657,2027-05-17 10:30,C1123,U887-123,en,rates,general model,0,Y,
+AS-01658,2027-05-17 15:38,C1123,U623-123,he,invoice copy,general model,0,N,
+AS-01659,2027-05-17 12:13,C1022,U444-022,ar,customs status,TMS status,0,Y,
+AS-01660,2027-05-17 15:45,C1081,U536-081,en,my documents,file documents,1,N,
+AS-01661,2027-05-17 08:47,C1060,U866-060,en,ETA,TMS status,0,Y,4
+AS-01662,2027-05-17 11:23,C1022,U445-022,en,shipment status,TMS status,0,N,
+AS-01663,2027-05-17 07:12,C1237,U353-237,ar,rates,general model,0,Y,
+AS-01664,2027-05-17 15:33,C1164,U500-164,he,complaint,general model,0,Y,
+AS-01665,2027-05-17 08:49,C1007,U640-007,he,invoice copy,general model,0,Y,
+AS-01666,2027-05-17 07:45,C1189,U512-189,he,ETA,TMS status,0,Y,
+AS-01667,2027-05-18 16:25,C1218,U431-218,ru,my documents,file documents,4,Y,
+AS-01668,2027-05-18 08:39,C1117,U604-117,he,my documents,file documents,2,N,
+AS-01669,2027-05-18 12:13,C1158,U910-158,en,ETA,TMS status,0,Y,
+AS-01670,2027-05-18 07:33,C1204,U224-204,he,customs status,TMS status,0,N,5
+AS-01671,2027-05-18 11:09,C1081,U928-081,he,invoice copy,general model,0,Y,
+AS-01672,2027-05-18 16:26,C1007,U807-007,he,complaint,general model,0,Y,4
+AS-01673,2027-05-18 16:20,C1189,U607-189,he,shipment status,TMS status,0,Y,
+AS-01674,2027-05-18 12:30,C1218,U638-218,he,shipment status,TMS status,0,N,
+AS-01675,2027-05-18 14:15,C1204,U608-204,he,customs status,TMS status,0,Y,
+AS-01676,2027-05-18 10:53,C1225,U800-225,he,ETA,TMS status,0,Y,4
+AS-01677,2027-05-18 14:17,C1164,U104-164,en,other,general model,0,Y,
+AS-01678,2027-05-18 16:54,C1141,U185-141,en,complaint,general model,0,Y,
+AS-01679,2027-05-18 15:02,C1204,U544-204,he,shipment status,TMS status,0,Y,3
+AS-01680,2027-05-18 07:44,C1164,U677-164,he,shipment status,TMS status,0,N,1
+AS-01681,2027-05-18 17:02,C1022,U706-022,he,shipment status,TMS status,0,N,
+AS-01682,2027-05-18 10:14,C1060,U322-060,he,shipment status,TMS status,0,N,
+AS-01683,2027-05-18 07:20,C1218,U930-218,he,shipment status,TMS status,0,Y,
+AS-01684,2027-05-18 13:19,C1102,U655-102,he,shipment status,TMS status,0,N,3
+AS-01685,2027-05-18 15:25,C1172,U807-172,he,rates,general model,0,Y,4
+AS-01686,2027-05-18 09:58,C1117,U786-117,ar,shipment status,TMS status,0,N,
+AS-01687,2027-05-18 11:43,C1060,U334-060,en,shipment status,TMS status,0,N,
+AS-01688,2027-05-18 14:57,C1052,U887-052,ar,shipment status,TMS status,0,Y,1
+AS-01689,2027-05-18 13:10,C1095,U150-095,en,customs status,TMS status,0,N,
+AS-01690,2027-05-18 14:49,C1172,U862-172,he,my documents,file documents,1,N,
+AS-01691,2027-05-18 08:05,C1123,U418-123,en,ETA,TMS status,0,Y,
+AS-01692,2027-05-18 07:11,C1225,U251-225,he,shipment status,TMS status,0,N,
+AS-01693,2027-05-18 07:27,C1136,U800-136,he,shipment status,TMS status,0,N,
+AS-01694,2027-05-18 07:55,C1237,U978-237,ar,my documents,file documents,2,Y,1
+AS-01695,2027-05-18 12:45,C1172,U434-172,en,customs status,TMS status,0,Y,3
+AS-01696,2027-05-18 13:19,C1225,U361-225,ru,my documents,file documents,1,Y,3
+AS-01697,2027-05-18 07:28,C1095,U401-095,ar,my documents,file documents,4,Y,
+AS-01698,2027-05-18 17:12,C1007,U913-007,he,shipment status,TMS status,0,N,2
+AS-01699,2027-05-18 09:25,C1218,U496-218,he,customs status,TMS status,0,N,
+AS-01700,2027-05-18 14:39,C1204,U879-204,he,complaint,general model,0,Y,1
+AS-01701,2027-05-18 09:30,C1218,U914-218,en,customs status,TMS status,0,N,
+AS-01702,2027-05-18 13:45,C1031,U237-031,en,customs status,TMS status,0,N,
+AS-01703,2027-05-18 10:19,C1172,U578-172,ru,other,general model,0,Y,1
+AS-01704,2027-05-18 07:37,C1068,U109-068,ar,ETA,TMS status,0,N,
+AS-01705,2027-05-18 12:03,C1022,U570-022,he,my documents,file documents,4,N,5
+AS-01706,2027-05-18 07:19,C1068,U961-068,en,rates,general model,0,Y,
+AS-01707,2027-05-18 10:27,C1031,U548-031,he,ETA,TMS status,0,N,
+AS-01708,2027-05-19 16:13,C1102,U676-102,he,complaint,general model,0,N,2
+AS-01709,2027-05-19 15:21,C1225,U267-225,he,customs status,TMS status,0,Y,
+AS-01710,2027-05-19 14:35,C1007,U449-007,he,ETA,TMS status,0,Y,4
+AS-01711,2027-05-19 16:56,C1218,U479-218,he,other,general model,0,Y,
+AS-01712,2027-05-19 15:05,C1068,U763-068,he,shipment status,TMS status,0,N,3
+AS-01713,2027-05-19 16:56,C1218,U992-218,he,other,general model,0,Y,3
+AS-01714,2027-05-19 12:32,C1136,U165-136,he,other,general model,0,Y,
+AS-01715,2027-05-19 11:25,C1123,U527-123,ru,ETA,TMS status,0,N,1
+AS-01716,2027-05-19 07:49,C1218,U156-218,en,ETA,TMS status,0,Y,5
+AS-01717,2027-05-19 12:08,C1123,U897-123,en,other,general model,0,N,
+AS-01718,2027-05-19 10:38,C1225,U797-225,he,ETA,TMS status,0,Y,
+AS-01719,2027-05-19 15:31,C1189,U583-189,he,shipment status,TMS status,0,N,
+AS-01720,2027-05-19 16:03,C1052,U139-052,ru,other,general model,0,Y,2
+AS-01721,2027-05-19 12:25,C1123,U511-123,he,customs status,TMS status,0,Y,
+AS-01722,2027-05-19 16:32,C1081,U203-081,ru,shipment status,TMS status,0,N,
+AS-01723,2027-05-19 12:47,C1095,U709-095,he,other,general model,0,Y,1
+AS-01724,2027-05-19 09:52,C1007,U634-007,he,shipment status,TMS status,0,N,
+AS-01725,2027-05-19 14:18,C1095,U555-095,en,ETA,TMS status,0,Y,
+AS-01726,2027-05-19 12:13,C1060,U389-060,he,other,general model,0,Y,
+AS-01727,2027-05-19 16:15,C1068,U526-068,he,customs status,TMS status,0,Y,2
+AS-01728,2027-05-19 17:58,C1102,U236-102,he,ETA,TMS status,0,N,
+AS-01729,2027-05-19 08:18,C1052,U987-052,ar,complaint,general model,0,Y,3
+AS-01730,2027-05-19 15:24,C1044,U643-044,he,other,general model,0,Y,
+AS-01731,2027-05-19 09:56,C1044,U550-044,he,invoice copy,general model,0,Y,4
+AS-01732,2027-05-19 07:40,C1117,U569-117,ar,invoice copy,general model,0,Y,
+AS-01733,2027-05-19 11:23,C1172,U976-172,he,shipment status,TMS status,0,Y,2
+AS-01734,2027-05-19 11:00,C1218,U918-218,he,customs status,TMS status,0,N,4
+AS-01735,2027-05-19 15:34,C1073,U660-073,en,shipment status,TMS status,0,N,
+AS-01736,2027-05-19 16:47,C1022,U341-022,ru,shipment status,TMS status,0,N,
+AS-01737,2027-05-19 12:40,C1158,U302-158,he,complaint,general model,0,Y,2
+AS-01738,2027-05-19 10:09,C1073,U572-073,he,shipment status,TMS status,0,N,1
+AS-01739,2027-05-19 17:25,C1081,U486-081,he,shipment status,TMS status,0,N,
+AS-01740,2027-05-19 11:40,C1022,U722-022,he,ETA,TMS status,0,N,
+AS-01741,2027-05-19 12:36,C1095,U943-095,he,invoice copy,general model,0,Y,
+AS-01742,2027-05-19 08:50,C1102,U417-102,he,other,general model,0,Y,
+AS-01743,2027-05-19 09:18,C1164,U266-164,ar,customs status,TMS status,0,Y,
+AS-01744,2027-05-19 17:53,C1189,U590-189,he,shipment status,TMS status,0,N,
+AS-01745,2027-05-19 07:23,C1081,U309-081,he,rates,general model,0,Y,
+AS-01746,2027-05-19 13:54,C1136,U297-136,he,other,general model,0,Y,
+AS-01747,2027-05-19 08:49,C1068,U462-068,he,shipment status,TMS status,0,N,
+AS-01748,2027-05-19 08:09,C1073,U194-073,he,ETA,TMS status,0,N,
+AS-01749,2027-05-20 12:38,C1172,U897-172,en,shipment status,TMS status,0,N,
+AS-01750,2027-05-20 09:01,C1136,U463-136,ru,ETA,TMS status,0,Y,1
+AS-01751,2027-05-20 16:33,C1123,U505-123,he,ETA,TMS status,0,Y,1
+AS-01752,2027-05-20 12:49,C1007,U472-007,he,rates,general model,0,Y,
+AS-01753,2027-05-20 14:24,C1081,U709-081,he,complaint,general model,0,Y,4
+AS-01754,2027-05-20 08:30,C1044,U133-044,he,complaint,general model,0,Y,
+AS-01755,2027-05-20 10:08,C1158,U583-158,en,rates,general model,0,Y,
+AS-01756,2027-05-20 14:05,C1164,U868-164,he,rates,general model,0,Y,
+AS-01757,2027-05-20 14:50,C1044,U718-044,he,invoice copy,general model,0,Y,5
+AS-01758,2027-05-20 11:08,C1022,U605-022,he,customs status,TMS status,0,Y,1
+AS-01759,2027-05-20 13:13,C1136,U385-136,en,invoice copy,general model,0,N,
+AS-01760,2027-05-20 17:33,C1052,U473-052,he,customs status,TMS status,0,N,
+AS-01761,2027-05-20 14:49,C1204,U519-204,ru,shipment status,TMS status,0,N,
+AS-01762,2027-05-20 16:24,C1081,U283-081,en,ETA,TMS status,0,N,2
+AS-01763,2027-05-20 14:46,C1052,U423-052,en,invoice copy,general model,0,Y,
+AS-01764,2027-05-20 11:20,C1204,U943-204,he,shipment status,TMS status,0,N,
+AS-01765,2027-05-20 15:21,C1141,U875-141,he,ETA,TMS status,0,N,4
+AS-01766,2027-05-20 16:29,C1052,U646-052,he,ETA,TMS status,0,N,
+AS-01767,2027-05-20 14:58,C1102,U548-102,he,invoice copy,general model,0,N,
+AS-01768,2027-05-20 15:32,C1044,U168-044,en,shipment status,TMS status,0,N,
+AS-01769,2027-05-20 12:00,C1007,U344-007,he,invoice copy,general model,0,Y,5
+AS-01770,2027-05-20 11:10,C1095,U102-095,he,ETA,TMS status,0,N,
+AS-01771,2027-05-20 16:56,C1068,U979-068,en,customs status,TMS status,0,N,5
+AS-01772,2027-05-20 17:00,C1225,U241-225,he,other,general model,0,Y,2
+AS-01773,2027-05-20 09:30,C1117,U490-117,he,other,general model,0,N,
+AS-01774,2027-05-20 09:05,C1060,U567-060,he,shipment status,TMS status,0,N,
+AS-01775,2027-05-20 09:48,C1218,U177-218,en,customs status,TMS status,0,Y,
+AS-01776,2027-05-20 11:46,C1102,U476-102,he,ETA,TMS status,0,N,
+AS-01777,2027-05-20 14:31,C1081,U667-081,en,customs status,TMS status,0,Y,
+AS-01778,2027-05-20 10:00,C1044,U535-044,he,complaint,general model,0,Y,
+AS-01779,2027-05-20 15:13,C1052,U780-052,he,complaint,general model,0,Y,
+AS-01780,2027-05-23 14:32,C1189,U510-189,en,shipment status,TMS status,0,N,
+AS-01781,2027-05-23 08:41,C1164,U789-164,en,shipment status,TMS status,0,Y,
+AS-01782,2027-05-23 08:42,C1081,U847-081,en,shipment status,TMS status,0,Y,1
+AS-01783,2027-05-23 11:34,C1068,U278-068,he,shipment status,TMS status,0,N,2
+AS-01784,2027-05-23 08:55,C1044,U310-044,he,shipment status,TMS status,0,N,4
+AS-01785,2027-05-23 13:22,C1189,U614-189,he,rates,general model,0,Y,
+AS-01786,2027-05-23 09:19,C1141,U464-141,ar,ETA,TMS status,0,N,2
+AS-01787,2027-05-23 15:29,C1060,U151-060,he,invoice copy,general model,0,Y,
+AS-01788,2027-05-23 17:05,C1052,U247-052,he,ETA,TMS status,0,N,2
+AS-01789,2027-05-23 16:38,C1068,U396-068,he,customs status,TMS status,0,Y,5
+AS-01790,2027-05-23 16:06,C1225,U775-225,he,invoice copy,general model,0,Y,
+AS-01791,2027-05-23 12:21,C1204,U895-204,he,shipment status,TMS status,0,N,3
+AS-01792,2027-05-23 09:51,C1095,U105-095,en,shipment status,TMS status,0,N,
+AS-01793,2027-05-23 09:04,C1068,U727-068,he,customs status,TMS status,0,N,
+AS-01794,2027-05-23 09:07,C1204,U580-204,ar,ETA,TMS status,0,N,
+AS-01795,2027-05-23 14:35,C1068,U740-068,en,ETA,TMS status,0,Y,
+AS-01796,2027-05-23 12:10,C1204,U800-204,ru,shipment status,TMS status,0,N,
+AS-01797,2027-05-23 11:10,C1095,U264-095,en,shipment status,TMS status,0,N,
+AS-01798,2027-05-23 08:47,C1031,U664-031,he,ETA,TMS status,0,N,
+AS-01799,2027-05-23 12:26,C1073,U947-073,he,customs status,TMS status,0,Y,
+AS-01800,2027-05-23 13:53,C1007,U141-007,he,other,general model,0,Y,
+AS-01801,2027-05-23 17:26,C1136,U922-136,he,ETA,TMS status,0,N,2
+AS-01802,2027-05-23 08:31,C1123,U496-123,he,shipment status,TMS status,0,Y,2
+AS-01803,2027-05-23 15:22,C1044,U314-044,ru,invoice copy,general model,0,Y,5
+AS-01804,2027-05-23 15:22,C1095,U329-095,ru,other,general model,0,Y,3
+AS-01805,2027-05-23 15:51,C1060,U167-060,he,ETA,TMS status,0,N,
+AS-01806,2027-05-23 07:50,C1218,U492-218,he,customs status,TMS status,0,Y,
+AS-01807,2027-05-23 14:44,C1158,U632-158,he,shipment status,TMS status,0,N,
+AS-01808,2027-05-23 15:52,C1225,U898-225,en,customs status,TMS status,0,Y,
+AS-01809,2027-05-23 17:33,C1052,U949-052,he,shipment status,TMS status,0,Y,
+AS-01810,2027-05-23 12:02,C1193,U158-193,he,invoice copy,general model,0,N,
+AS-01811,2027-05-23 10:41,C1068,U476-068,he,shipment status,TMS status,0,N,5
+AS-01812,2027-05-23 11:48,C1060,U908-060,he,customs status,TMS status,0,Y,
+AS-01813,2027-05-23 13:46,C1189,U259-189,he,customs status,TMS status,0,Y,1
+AS-01814,2027-05-23 15:39,C1102,U665-102,he,customs status,TMS status,0,Y,
+AS-01815,2027-05-23 16:06,C1237,U293-237,he,ETA,TMS status,0,Y,
+AS-01816,2027-05-23 10:35,C1007,U346-007,he,rates,general model,0,Y,2
+AS-01817,2027-05-23 09:16,C1172,U644-172,ar,ETA,TMS status,0,Y,
+AS-01818,2027-05-24 08:08,C1164,U238-164,he,shipment status,TMS status,0,N,5
+AS-01819,2027-05-24 13:31,C1225,U603-225,he,other,general model,0,Y,
+AS-01820,2027-05-24 17:13,C1218,U784-218,he,other,general model,0,Y,3
+AS-01821,2027-05-24 09:40,C1007,U497-007,he,customs status,TMS status,0,Y,
+AS-01822,2027-05-24 10:31,C1081,U351-081,ru,other,general model,0,Y,
+AS-01823,2027-05-24 17:33,C1044,U971-044,en,other,general model,0,N,4
+AS-01824,2027-05-24 14:33,C1073,U210-073,en,customs status,TMS status,0,Y,
+AS-01825,2027-05-24 15:47,C1073,U650-073,ar,invoice copy,general model,0,N,4
+AS-01826,2027-05-24 10:44,C1073,U959-073,en,shipment status,TMS status,0,N,
+AS-01827,2027-05-24 08:38,C1193,U611-193,ar,shipment status,TMS status,0,N,2
+AS-01828,2027-05-24 16:05,C1081,U619-081,he,other,general model,0,Y,
+AS-01829,2027-05-24 13:23,C1225,U573-225,he,shipment status,TMS status,0,N,
+AS-01830,2027-05-24 16:34,C1068,U559-068,he,invoice copy,general model,0,Y,4
+AS-01831,2027-05-24 09:08,C1218,U628-218,he,shipment status,TMS status,0,N,
+AS-01832,2027-05-24 12:00,C1123,U461-123,he,shipment status,TMS status,0,Y,
+AS-01833,2027-05-24 11:13,C1164,U635-164,he,rates,general model,0,Y,2
+AS-01834,2027-05-24 11:35,C1218,U951-218,he,shipment status,TMS status,0,N,5
+AS-01835,2027-05-24 13:26,C1172,U559-172,ru,customs status,TMS status,0,Y,3
+AS-01836,2027-05-24 09:46,C1225,U346-225,ru,shipment status,TMS status,0,N,
+AS-01837,2027-05-24 11:40,C1164,U197-164,he,shipment status,TMS status,0,N,3
+AS-01838,2027-05-24 14:48,C1164,U182-164,he,other,general model,0,N,
+AS-01839,2027-05-24 08:44,C1007,U521-007,he,shipment status,TMS status,0,N,
+AS-01840,2027-05-24 08:22,C1052,U359-052,he,shipment status,TMS status,0,N,
+AS-01841,2027-05-24 13:38,C1068,U194-068,he,invoice copy,general model,0,Y,
+AS-01842,2027-05-24 08:07,C1060,U835-060,he,shipment status,TMS status,0,N,
+AS-01843,2027-05-24 13:28,C1022,U461-022,en,ETA,TMS status,0,N,
+AS-01844,2027-05-24 07:49,C1141,U353-141,he,other,general model,0,N,
+AS-01845,2027-05-24 12:00,C1164,U191-164,he,customs status,TMS status,0,N,5
+AS-01846,2027-05-24 16:51,C1172,U559-172,he,ETA,TMS status,0,N,1
+AS-01847,2027-05-24 15:23,C1189,U879-189,he,invoice copy,general model,0,Y,
+AS-01848,2027-05-24 13:38,C1158,U606-158,he,invoice copy,general model,0,Y,
+AS-01849,2027-05-24 10:01,C1158,U542-158,en,shipment status,TMS status,0,N,2
+AS-01850,2027-05-24 14:39,C1102,U278-102,he,ETA,TMS status,0,N,
+AS-01851,2027-05-24 07:32,C1218,U516-218,he,ETA,TMS status,0,N,5
+AS-01852,2027-05-24 16:47,C1158,U715-158,he,shipment status,TMS status,0,N,
+AS-01853,2027-05-24 14:13,C1095,U187-095,ru,rates,general model,0,Y,
+AS-01854,2027-05-24 11:22,C1225,U779-225,en,shipment status,TMS status,0,N,
+AS-01855,2027-05-24 10:20,C1158,U556-158,he,shipment status,TMS status,0,N,
+AS-01856,2027-05-25 09:46,C1060,U596-060,he,invoice copy,general model,0,Y,
+AS-01857,2027-05-25 13:02,C1123,U954-123,he,customs status,TMS status,0,Y,
+AS-01858,2027-05-25 10:26,C1044,U862-044,ar,shipment status,TMS status,0,N,
+AS-01859,2027-05-25 07:29,C1102,U529-102,ar,shipment status,TMS status,0,N,4
+AS-01860,2027-05-25 12:53,C1158,U214-158,ru,invoice copy,general model,0,Y,2
+AS-01861,2027-05-25 07:18,C1095,U131-095,ru,shipment status,TMS status,0,N,
+AS-01862,2027-05-25 12:30,C1095,U703-095,ru,customs status,TMS status,0,Y,
+AS-01863,2027-05-25 17:56,C1117,U549-117,he,ETA,TMS status,0,N,
+AS-01864,2027-05-25 17:49,C1164,U644-164,he,shipment status,TMS status,0,N,3
+AS-01865,2027-05-25 16:46,C1060,U709-060,he,customs status,TMS status,0,Y,
+AS-01866,2027-05-25 11:25,C1031,U136-031,he,shipment status,TMS status,0,Y,
+AS-01867,2027-05-25 12:00,C1052,U625-052,ru,complaint,general model,0,Y,
+AS-01868,2027-05-25 09:44,C1102,U357-102,he,shipment status,TMS status,0,N,4
+AS-01869,2027-05-25 15:12,C1081,U871-081,he,complaint,general model,0,Y,
+AS-01870,2027-05-25 12:10,C1095,U503-095,ru,ETA,TMS status,0,Y,
+AS-01871,2027-05-25 17:57,C1136,U458-136,he,ETA,TMS status,0,N,
+AS-01872,2027-05-25 14:26,C1193,U859-193,he,complaint,general model,0,Y,
+AS-01873,2027-05-25 17:10,C1164,U918-164,he,customs status,TMS status,0,N,
+AS-01874,2027-05-25 07:14,C1189,U174-189,he,invoice copy,general model,0,Y,
+AS-01875,2027-05-25 07:56,C1189,U859-189,en,ETA,TMS status,0,N,
+AS-01876,2027-05-25 14:01,C1117,U880-117,he,complaint,general model,0,Y,
+AS-01877,2027-05-25 13:48,C1052,U777-052,he,complaint,general model,0,N,1
+AS-01878,2027-05-25 09:58,C1060,U696-060,he,shipment status,TMS status,0,N,
+AS-01879,2027-05-25 08:52,C1225,U221-225,ru,customs status,TMS status,0,N,
+AS-01880,2027-05-25 09:20,C1218,U784-218,he,invoice copy,general model,0,N,
+AS-01881,2027-05-25 17:03,C1117,U435-117,he,customs status,TMS status,0,Y,
+AS-01882,2027-05-25 13:08,C1060,U681-060,he,complaint,general model,0,Y,5
+AS-01883,2027-05-25 08:15,C1218,U766-218,en,invoice copy,general model,0,Y,
+AS-01884,2027-05-25 08:35,C1172,U310-172,ru,ETA,TMS status,0,Y,5
+AS-01885,2027-05-25 09:29,C1102,U490-102,he,invoice copy,general model,0,N,
+AS-01886,2027-05-25 10:19,C1237,U469-237,en,rates,general model,0,Y,
+AS-01887,2027-05-25 07:20,C1225,U533-225,he,shipment status,TMS status,0,N,3
+AS-01888,2027-05-26 08:18,C1081,U113-081,en,customs status,TMS status,0,Y,4
+AS-01889,2027-05-26 13:29,C1073,U671-073,en,shipment status,TMS status,0,N,2
+AS-01890,2027-05-26 16:19,C1073,U181-073,en,shipment status,TMS status,0,N,
+AS-01891,2027-05-26 16:48,C1022,U773-022,he,rates,general model,0,Y,
+AS-01892,2027-05-26 07:12,C1007,U780-007,he,complaint,general model,0,Y,
+AS-01893,2027-05-26 10:47,C1081,U801-081,ar,customs status,TMS status,0,N,
+AS-01894,2027-05-26 16:31,C1068,U515-068,he,rates,general model,0,Y,
+AS-01895,2027-05-26 14:45,C1136,U144-136,he,customs status,TMS status,0,Y,
+AS-01896,2027-05-26 16:04,C1095,U906-095,he,complaint,general model,0,Y,
+AS-01897,2027-05-26 11:07,C1060,U489-060,he,shipment status,TMS status,0,N,
+AS-01898,2027-05-26 14:01,C1237,U405-237,he,shipment status,TMS status,0,N,
+AS-01899,2027-05-26 15:46,C1102,U668-102,he,other,general model,0,Y,
+AS-01900,2027-05-26 11:20,C1189,U642-189,he,shipment status,TMS status,0,N,
+AS-01901,2027-05-26 10:51,C1044,U646-044,ar,customs status,TMS status,0,Y,
+AS-01902,2027-05-26 15:15,C1237,U462-237,he,shipment status,TMS status,0,N,
+AS-01903,2027-05-26 18:00,C1189,U842-189,he,shipment status,TMS status,0,Y,3
+AS-01904,2027-05-26 10:45,C1081,U762-081,ru,ETA,TMS status,0,Y,4
+AS-01905,2027-05-26 12:57,C1052,U299-052,he,ETA,TMS status,0,Y,1
+AS-01906,2027-05-26 08:20,C1095,U783-095,he,ETA,TMS status,0,N,
+AS-01907,2027-05-26 11:59,C1031,U418-031,en,shipment status,TMS status,0,Y,
+AS-01908,2027-05-26 17:49,C1022,U338-022,he,customs status,TMS status,0,Y,
+AS-01909,2027-05-26 17:19,C1052,U541-052,he,invoice copy,general model,0,Y,
+AS-01910,2027-05-26 11:49,C1218,U350-218,en,ETA,TMS status,0,N,
+AS-01911,2027-05-26 16:48,C1225,U492-225,en,customs status,TMS status,0,Y,
+AS-01912,2027-05-26 07:28,C1081,U758-081,he,rates,general model,0,Y,
+AS-01913,2027-05-26 10:06,C1095,U460-095,ru,shipment status,TMS status,0,Y,
+AS-01914,2027-05-26 14:10,C1141,U832-141,en,ETA,TMS status,0,N,
+AS-01915,2027-05-26 12:51,C1172,U974-172,he,rates,general model,0,Y,4
+AS-01916,2027-05-26 16:55,C1237,U109-237,he,complaint,general model,0,Y,
+AS-01917,2027-05-26 08:43,C1237,U509-237,he,customs status,TMS status,0,Y,
+AS-01918,2027-05-26 11:23,C1172,U327-172,ar,rates,general model,0,Y,
+AS-01919,2027-05-26 13:58,C1141,U819-141,he,shipment status,TMS status,0,N,
+AS-01920,2027-05-26 09:55,C1189,U175-189,en,invoice copy,general model,0,Y,3
+AS-01921,2027-05-26 15:56,C1095,U993-095,en,customs status,TMS status,0,Y,
+AS-01922,2027-05-26 10:37,C1044,U376-044,he,ETA,TMS status,0,Y,
+AS-01923,2027-05-26 09:27,C1164,U414-164,he,customs status,TMS status,0,Y,
+AS-01924,2027-05-26 15:34,C1172,U780-172,he,rates,general model,0,Y,5
+AS-01925,2027-05-26 13:26,C1123,U190-123,he,shipment status,TMS status,0,Y,
+AS-01926,2027-05-27 13:23,C1068,U972-068,he,complaint,general model,0,Y,
+AS-01927,2027-05-27 17:58,C1204,U568-204,en,ETA,TMS status,0,N,
+AS-01928,2027-05-27 07:15,C1237,U951-237,he,shipment status,TMS status,0,Y,4
+AS-01929,2027-05-27 10:12,C1189,U681-189,en,complaint,general model,0,Y,
+AS-01930,2027-05-27 08:27,C1102,U192-102,he,shipment status,TMS status,0,N,5
+AS-01931,2027-05-27 17:02,C1117,U124-117,ru,shipment status,TMS status,0,N,4
+AS-01932,2027-05-27 10:18,C1225,U184-225,he,invoice copy,general model,0,Y,
+AS-01933,2027-05-27 15:38,C1123,U110-123,ru,ETA,TMS status,0,Y,3
+AS-01934,2027-05-27 14:12,C1102,U304-102,he,shipment status,TMS status,0,N,
+AS-01935,2027-05-27 17:38,C1225,U176-225,he,other,general model,0,Y,
+AS-01936,2027-05-27 09:18,C1068,U682-068,en,shipment status,TMS status,0,Y,
+AS-01937,2027-05-27 12:53,C1102,U358-102,he,shipment status,TMS status,0,Y,1
+AS-01938,2027-05-27 14:48,C1237,U752-237,he,shipment status,TMS status,0,N,3
+AS-01939,2027-05-27 11:52,C1102,U420-102,he,ETA,TMS status,0,N,
+AS-01940,2027-05-27 08:56,C1007,U939-007,he,customs status,TMS status,0,Y,
+AS-01941,2027-05-27 14:55,C1022,U517-022,he,customs status,TMS status,0,N,
+AS-01942,2027-05-27 11:02,C1044,U244-044,ar,customs status,TMS status,0,N,
+AS-01943,2027-05-27 10:40,C1193,U581-193,he,ETA,TMS status,0,N,4
+AS-01944,2027-05-27 08:37,C1164,U900-164,he,shipment status,TMS status,0,Y,4
+AS-01945,2027-05-27 08:35,C1193,U315-193,he,ETA,TMS status,0,N,
+AS-01946,2027-05-27 14:59,C1123,U247-123,he,ETA,TMS status,0,N,
+AS-01947,2027-05-27 12:37,C1007,U661-007,en,other,general model,0,N,5
+AS-01948,2027-05-27 12:04,C1218,U657-218,he,shipment status,TMS status,0,N,
+AS-01949,2027-05-27 10:19,C1044,U912-044,he,shipment status,TMS status,0,N,
+AS-01950,2027-05-27 15:04,C1022,U271-022,he,shipment status,TMS status,0,N,1
+AS-01951,2027-05-27 16:34,C1068,U182-068,he,customs status,TMS status,0,N,4
+AS-01952,2027-05-27 13:07,C1060,U502-060,en,shipment status,TMS status,0,Y,
+AS-01953,2027-05-27 07:04,C1044,U816-044,he,shipment status,TMS status,0,Y,
+AS-01954,2027-05-27 08:52,C1060,U178-060,ru,customs status,TMS status,0,Y,4
+AS-01955,2027-05-27 12:52,C1052,U968-052,he,customs status,TMS status,0,Y,
+AS-01956,2027-05-27 14:42,C1081,U927-081,en,ETA,TMS status,0,N,
+AS-01957,2027-05-27 08:14,C1068,U945-068,ar,shipment status,TMS status,0,N,
+AS-01958,2027-05-27 15:15,C1172,U614-172,he,shipment status,TMS status,0,Y,
+AS-01959,2027-05-27 16:24,C1172,U752-172,he,complaint,general model,0,N,3
+AS-01960,2027-05-27 08:15,C1218,U705-218,he,complaint,general model,0,Y,
+AS-01961,2027-05-30 15:14,C1204,U293-204,he,shipment status,TMS status,0,N,
+AS-01962,2027-05-30 08:47,C1102,U728-102,ru,ETA,TMS status,0,Y,4
+AS-01963,2027-05-30 15:20,C1060,U668-060,he,shipment status,TMS status,0,N,2
+AS-01964,2027-05-30 09:32,C1237,U814-237,he,shipment status,TMS status,0,Y,
+AS-01965,2027-05-30 09:07,C1189,U286-189,en,ETA,TMS status,0,Y,4
+AS-01966,2027-05-30 11:52,C1044,U875-044,ru,complaint,general model,0,Y,
+AS-01967,2027-05-30 08:52,C1044,U205-044,he,shipment status,TMS status,0,N,
+AS-01968,2027-05-30 09:14,C1095,U584-095,he,shipment status,TMS status,0,N,2
+AS-01969,2027-05-30 10:33,C1218,U265-218,he,shipment status,TMS status,0,Y,3
+AS-01970,2027-05-30 15:56,C1237,U812-237,he,shipment status,TMS status,0,N,
+AS-01971,2027-05-30 14:37,C1073,U474-073,he,ETA,TMS status,0,N,4
+AS-01972,2027-05-30 14:54,C1022,U199-022,he,ETA,TMS status,0,Y,
+AS-01973,2027-05-30 14:48,C1189,U498-189,ru,rates,general model,0,Y,
+AS-01974,2027-05-30 16:01,C1189,U846-189,he,customs status,TMS status,0,Y,
+AS-01975,2027-05-30 16:32,C1123,U291-123,ru,other,general model,0,Y,2
+AS-01976,2027-05-30 09:41,C1073,U793-073,ar,customs status,TMS status,0,N,4
+AS-01977,2027-05-30 10:33,C1193,U133-193,he,shipment status,TMS status,0,N,
+AS-01978,2027-05-30 08:28,C1172,U109-172,he,shipment status,TMS status,0,Y,
+AS-01979,2027-05-30 15:15,C1136,U998-136,he,customs status,TMS status,0,Y,
+AS-01980,2027-05-30 09:27,C1164,U714-164,he,other,general model,0,Y,
+AS-01981,2027-05-30 14:22,C1007,U462-007,he,complaint,general model,0,Y,
+AS-01982,2027-05-30 10:37,C1022,U324-022,en,customs status,TMS status,0,N,
+AS-01983,2027-05-30 08:03,C1081,U101-081,he,ETA,TMS status,0,N,
+AS-01984,2027-05-30 13:13,C1164,U587-164,ru,complaint,general model,0,Y,2
+AS-01985,2027-05-30 13:28,C1117,U107-117,ru,shipment status,TMS status,0,N,2
+AS-01986,2027-05-30 10:34,C1204,U743-204,ar,ETA,TMS status,0,Y,1
+AS-01987,2027-05-30 08:12,C1095,U687-095,en,ETA,TMS status,0,Y,
+AS-01988,2027-05-30 12:03,C1189,U338-189,he,shipment status,TMS status,0,Y,4
+AS-01989,2027-05-30 11:11,C1052,U552-052,he,customs status,TMS status,0,N,
+AS-01990,2027-05-30 11:01,C1052,U144-052,en,shipment status,TMS status,0,Y,
+AS-01991,2027-05-30 15:41,C1237,U390-237,he,shipment status,TMS status,0,N,5
+AS-01992,2027-05-30 16:01,C1189,U532-189,he,customs status,TMS status,0,N,
+AS-01993,2027-05-30 16:54,C1158,U292-158,en,rates,general model,0,Y,
+AS-01994,2027-05-30 17:36,C1141,U212-141,en,shipment status,TMS status,0,N,
+AS-01995,2027-05-31 15:26,C1218,U766-218,en,shipment status,TMS status,0,N,
+AS-01996,2027-05-31 08:10,C1225,U358-225,he,other,general model,0,Y,
+AS-01997,2027-05-31 13:38,C1031,U634-031,he,customs status,TMS status,0,Y,
+AS-01998,2027-05-31 08:23,C1117,U634-117,ru,invoice copy,general model,0,Y,
+AS-01999,2027-05-31 18:00,C1044,U986-044,he,customs status,TMS status,0,Y,4
+AS-02000,2027-05-31 15:03,C1044,U464-044,he,invoice copy,general model,0,N,2
+AS-02001,2027-05-31 13:01,C1044,U789-044,ar,complaint,general model,0,Y,1
+AS-02002,2027-05-31 15:24,C1158,U262-158,he,complaint,general model,0,Y,
+AS-02003,2027-05-31 13:20,C1117,U236-117,he,customs status,TMS status,0,Y,4
+AS-02004,2027-05-31 15:26,C1172,U143-172,he,complaint,general model,0,Y,3
+AS-02005,2027-05-31 12:41,C1141,U689-141,en,customs status,TMS status,0,N,
+AS-02006,2027-05-31 07:25,C1022,U363-022,he,other,general model,0,Y,
+AS-02007,2027-05-31 17:24,C1060,U340-060,he,shipment status,TMS status,0,N,
+AS-02008,2027-05-31 17:24,C1136,U241-136,ru,shipment status,TMS status,0,N,
+AS-02009,2027-05-31 07:16,C1193,U402-193,en,other,general model,0,Y,
+AS-02010,2027-05-31 14:41,C1073,U465-073,en,other,general model,0,Y,
+AS-02011,2027-05-31 09:39,C1073,U577-073,ar,shipment status,TMS status,0,N,4
+AS-02012,2027-05-31 17:39,C1193,U394-193,ru,ETA,TMS status,0,Y,4
+AS-02013,2027-05-31 07:44,C1189,U452-189,ru,other,general model,0,N,4
+AS-02014,2027-05-31 07:40,C1123,U700-123,ar,shipment status,TMS status,0,N,
+AS-02015,2027-05-31 07:25,C1237,U163-237,he,other,general model,0,Y,
+AS-02016,2027-05-31 10:17,C1068,U757-068,he,customs status,TMS status,0,N,
+AS-02017,2027-05-31 15:41,C1068,U250-068,en,customs status,TMS status,0,Y,
+AS-02018,2027-05-31 07:29,C1095,U667-095,en,customs status,TMS status,0,Y,
+AS-02019,2027-05-31 15:48,C1141,U394-141,he,rates,general model,0,Y,5
+AS-02020,2027-05-31 10:47,C1068,U284-068,he,shipment status,TMS status,0,Y,4
+AS-02021,2027-05-31 11:38,C1136,U453-136,he,shipment status,TMS status,0,N,
+AS-02022,2027-05-31 14:20,C1141,U539-141,en,shipment status,TMS status,0,N,
+AS-02023,2027-05-31 16:55,C1117,U266-117,ar,ETA,TMS status,0,Y,
+AS-02024,2027-05-31 09:47,C1031,U261-031,he,shipment status,TMS status,0,Y,5
+AS-02025,2027-05-31 11:27,C1081,U539-081,he,customs status,TMS status,0,Y,
+AS-02026,2027-05-31 13:48,C1204,U180-204,he,shipment status,TMS status,0,N,
+AS-02027,2027-05-31 17:50,C1081,U421-081,en,customs status,TMS status,0,N,
+AS-02028,2027-05-31 10:52,C1073,U601-073,he,other,general model,0,Y,3
+AS-02029,2027-05-31 09:43,C1007,U299-007,he,ETA,TMS status,0,N,
+AS-02030,2027-05-31 13:08,C1117,U658-117,he,customs status,TMS status,0,Y,
+AS-02031,2027-06-01 09:17,C1022,U637-022,he,shipment status,TMS status,0,N,
+AS-02032,2027-06-01 07:53,C1117,U736-117,en,other,general model,0,Y,
+AS-02033,2027-06-01 17:34,C1237,U185-237,he,other,general model,0,N,
+AS-02034,2027-06-01 12:27,C1007,U119-007,he,shipment status,TMS status,0,N,
+AS-02035,2027-06-01 08:24,C1237,U209-237,en,customs status,TMS status,0,N,
+AS-02036,2027-06-01 13:14,C1237,U420-237,he,customs status,TMS status,0,Y,
+AS-02037,2027-06-01 13:09,C1007,U731-007,ru,shipment status,TMS status,0,N,
+AS-02038,2027-06-01 11:54,C1218,U720-218,en,ETA,TMS status,0,N,5
+AS-02039,2027-06-01 16:45,C1193,U941-193,he,shipment status,TMS status,0,N,
+AS-02040,2027-06-01 16:14,C1193,U395-193,ar,other,general model,0,Y,
+AS-02041,2027-06-01 08:29,C1073,U387-073,he,ETA,TMS status,0,Y,
+AS-02042,2027-06-01 17:28,C1022,U678-022,he,invoice copy,general model,0,N,4
+AS-02043,2027-06-01 07:21,C1031,U865-031,ar,shipment status,TMS status,0,N,3
+AS-02044,2027-06-01 09:36,C1102,U855-102,en,customs status,TMS status,0,Y,5
+AS-02045,2027-06-01 11:41,C1141,U221-141,he,ETA,TMS status,0,N,
+AS-02046,2027-06-01 10:41,C1022,U887-022,he,customs status,TMS status,0,Y,
+AS-02047,2027-06-01 11:01,C1136,U251-136,en,rates,general model,0,Y,
+AS-02048,2027-06-01 17:45,C1193,U148-193,he,ETA,TMS status,0,N,
+AS-02049,2027-06-01 11:14,C1136,U703-136,en,shipment status,TMS status,0,N,
+AS-02050,2027-06-01 12:18,C1031,U986-031,he,ETA,TMS status,0,N,
+AS-02051,2027-06-01 15:49,C1031,U836-031,he,shipment status,TMS status,0,N,4
+AS-02052,2027-06-01 14:14,C1052,U766-052,he,shipment status,TMS status,0,N,
+AS-02053,2027-06-01 17:11,C1073,U343-073,he,customs status,TMS status,0,Y,
+AS-02054,2027-06-01 13:22,C1068,U406-068,he,shipment status,TMS status,0,N,
+AS-02055,2027-06-01 09:33,C1136,U542-136,he,ETA,TMS status,0,N,
+AS-02056,2027-06-01 07:48,C1060,U125-060,he,ETA,TMS status,0,N,
+AS-02057,2027-06-01 15:32,C1095,U981-095,ru,customs status,TMS status,0,Y,
+AS-02058,2027-06-01 13:39,C1031,U291-031,ru,shipment status,TMS status,0,N,4
+AS-02059,2027-06-01 07:12,C1117,U612-117,he,ETA,TMS status,0,N,
+AS-02060,2027-06-01 13:32,C1136,U286-136,ar,shipment status,TMS status,0,Y,
+AS-02061,2027-06-01 09:43,C1052,U828-052,he,shipment status,TMS status,0,N,2
+AS-02062,2027-06-01 10:11,C1237,U940-237,ru,rates,general model,0,Y,
+AS-02063,2027-06-01 09:56,C1102,U526-102,he,rates,general model,0,Y,1
+AS-02064,2027-06-01 08:25,C1189,U281-189,he,shipment status,TMS status,0,N,
+AS-02065,2027-06-01 15:13,C1123,U438-123,he,invoice copy,general model,0,N,
+AS-02066,2027-06-01 14:48,C1073,U800-073,he,shipment status,TMS status,0,N,4
+AS-02067,2027-06-01 10:30,C1141,U752-141,he,ETA,TMS status,0,N,
+AS-02068,2027-06-01 13:33,C1193,U956-193,he,customs status,TMS status,0,Y,1
+AS-02069,2027-06-02 10:16,C1102,U888-102,en,customs status,TMS status,0,Y,4
+AS-02070,2027-06-02 07:58,C1068,U242-068,he,shipment status,TMS status,0,N,
+AS-02071,2027-06-02 07:57,C1237,U738-237,he,invoice copy,general model,0,Y,
+AS-02072,2027-06-02 07:39,C1225,U378-225,he,complaint,general model,0,N,
+AS-02073,2027-06-02 11:44,C1102,U808-102,he,other,general model,0,Y,
+AS-02074,2027-06-02 07:50,C1117,U685-117,he,ETA,TMS status,0,Y,
+AS-02075,2027-06-02 15:31,C1060,U844-060,ru,invoice copy,general model,0,Y,
+AS-02076,2027-06-02 11:31,C1031,U141-031,ar,shipment status,TMS status,0,N,3
+AS-02077,2027-06-02 12:11,C1172,U341-172,he,invoice copy,general model,0,Y,
+AS-02078,2027-06-02 10:22,C1095,U193-095,he,invoice copy,general model,0,Y,5
+AS-02079,2027-06-02 17:39,C1164,U462-164,he,shipment status,TMS status,0,N,5
+AS-02080,2027-06-02 14:18,C1225,U729-225,ar,customs status,TMS status,0,N,
+AS-02081,2027-06-02 16:40,C1204,U149-204,ru,shipment status,TMS status,0,Y,
+AS-02082,2027-06-02 16:04,C1237,U458-237,he,shipment status,TMS status,0,N,
+AS-02083,2027-06-02 14:45,C1225,U890-225,he,customs status,TMS status,0,N,
+AS-02084,2027-06-02 07:01,C1141,U682-141,he,shipment status,TMS status,0,Y,
+AS-02085,2027-06-02 11:28,C1136,U751-136,ar,rates,general model,0,Y,4
+AS-02086,2027-06-02 12:10,C1193,U117-193,en,rates,general model,0,Y,2
+AS-02087,2027-06-02 10:28,C1095,U809-095,he,shipment status,TMS status,0,N,
+AS-02088,2027-06-02 07:16,C1031,U116-031,he,shipment status,TMS status,0,N,2
+AS-02089,2027-06-02 08:59,C1081,U235-081,he,shipment status,TMS status,0,N,
+AS-02090,2027-06-02 08:50,C1123,U688-123,he,invoice copy,general model,0,Y,
+AS-02091,2027-06-02 14:50,C1044,U866-044,he,customs status,TMS status,0,N,
+AS-02092,2027-06-02 09:48,C1218,U897-218,he,other,general model,0,Y,
+AS-02093,2027-06-02 15:09,C1044,U468-044,ar,shipment status,TMS status,0,N,
+AS-02094,2027-06-02 17:17,C1225,U157-225,en,other,general model,0,N,1
+AS-02095,2027-06-02 18:00,C1117,U404-117,en,shipment status,TMS status,0,N,
+AS-02096,2027-06-02 17:58,C1095,U587-095,he,customs status,TMS status,0,Y,4
+AS-02097,2027-06-02 10:24,C1117,U762-117,he,ETA,TMS status,0,N,
+AS-02098,2027-06-02 09:13,C1136,U388-136,he,shipment status,TMS status,0,Y,
+AS-02099,2027-06-02 07:47,C1052,U408-052,he,shipment status,TMS status,0,N,
+AS-02100,2027-06-02 14:35,C1060,U474-060,en,customs status,TMS status,0,Y,
+AS-02101,2027-06-02 11:32,C1225,U225-225,he,complaint,general model,0,Y,
+AS-02102,2027-06-02 11:35,C1158,U908-158,he,complaint,general model,0,Y,5
+AS-02103,2027-06-03 14:49,C1218,U651-218,en,ETA,TMS status,0,N,
+AS-02104,2027-06-03 17:12,C1052,U907-052,he,rates,general model,0,Y,
+AS-02105,2027-06-03 10:20,C1022,U210-022,he,shipment status,TMS status,0,Y,
+AS-02106,2027-06-03 11:10,C1193,U469-193,en,customs status,TMS status,0,Y,3
+AS-02107,2027-06-03 17:15,C1237,U109-237,he,shipment status,TMS status,0,N,1
+AS-02108,2027-06-03 14:43,C1044,U204-044,he,customs status,TMS status,0,Y,
+AS-02109,2027-06-03 13:04,C1081,U860-081,he,rates,general model,0,Y,
+AS-02110,2027-06-03 10:30,C1189,U786-189,ar,customs status,TMS status,0,N,4
+AS-02111,2027-06-03 08:24,C1117,U283-117,en,shipment status,TMS status,0,Y,
+AS-02112,2027-06-03 17:03,C1172,U474-172,ar,ETA,TMS status,0,N,
+AS-02113,2027-06-03 08:07,C1095,U738-095,en,shipment status,TMS status,0,Y,
+AS-02114,2027-06-03 11:13,C1136,U266-136,he,rates,general model,0,Y,4
+AS-02115,2027-06-03 12:02,C1141,U477-141,he,shipment status,TMS status,0,Y,5
+AS-02116,2027-06-03 07:44,C1189,U723-189,he,ETA,TMS status,0,Y,
+AS-02117,2027-06-03 17:23,C1218,U432-218,he,ETA,TMS status,0,N,
+AS-02118,2027-06-03 11:14,C1158,U570-158,he,ETA,TMS status,0,Y,
+AS-02119,2027-06-03 10:03,C1123,U990-123,he,customs status,TMS status,0,N,4
+AS-02120,2027-06-03 08:45,C1164,U835-164,he,complaint,general model,0,Y,
+AS-02121,2027-06-03 17:14,C1060,U431-060,he,customs status,TMS status,0,N,
+AS-02122,2027-06-03 09:06,C1204,U255-204,en,shipment status,TMS status,0,N,
+AS-02123,2027-06-03 08:05,C1204,U596-204,he,shipment status,TMS status,0,N,
+AS-02124,2027-06-03 09:00,C1022,U466-022,he,shipment status,TMS status,0,N,
+AS-02125,2027-06-03 10:00,C1052,U237-052,ru,shipment status,TMS status,0,N,
+AS-02126,2027-06-03 07:47,C1158,U225-158,he,shipment status,TMS status,0,N,1
+AS-02127,2027-06-03 13:23,C1193,U832-193,en,shipment status,TMS status,0,N,
+AS-02128,2027-06-03 09:44,C1060,U206-060,en,other,general model,0,N,
+AS-02129,2027-06-03 17:46,C1031,U935-031,en,invoice copy,general model,0,Y,2
+AS-02130,2027-06-03 10:47,C1164,U298-164,he,shipment status,TMS status,0,N,
+AS-02131,2027-06-03 10:16,C1193,U451-193,he,customs status,TMS status,0,N,
+AS-02132,2027-06-03 07:16,C1081,U332-081,he,shipment status,TMS status,0,N,
+AS-02133,2027-06-03 16:22,C1123,U462-123,he,ETA,TMS status,0,N,
+AS-02134,2027-06-03 12:28,C1136,U774-136,he,customs status,TMS status,0,Y,
+AS-02135,2027-06-03 13:38,C1225,U134-225,he,shipment status,TMS status,0,Y,4

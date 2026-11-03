@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    On Tuesday of week one the logs show seven mismatched declarations after the vendor's fix and
+    customers opening other customers' documents after the portal feature was switched off. Your
+    findings memo is due next Thursday. What do you do today?
+  options:
+    - >-
+      Add it to the memo so the principals see it with full context next week.
+    - >-
+      Send both principals a status note and give the general counsel the facts.
+    - >-
+      Reopen the incident yourself and tell the affected customers directly.
+    - >-
+      Ask the vendor to confirm the numbers before telling anyone at Vantage.
+  correct: 1
+  explanation: >-
+    Harm may still be happening and reporting questions are counsel's, so the facts go to both
+    principals and counsel the same week. You recommend reopening and customer contact; the incident
+    lead, the CEO and counsel decide, and the vendor's confirmation is not a reason to wait.
+
+- id: q2
+  question: >-
+    The vendor reports 99.2% accuracy for customs pre-fills. Agents spend a median 19 seconds on the
+    approval screen. Which number should the findings memo use for the error rate?
+  options:
+    - >-
+      99.2%, labelled as the vendor's figure, because it is the only one reported.
+    - >-
+      The share of declarations with a field edited, from the approval log.
+    - >-
+      The number of customs queries divided by declarations submitted.
+    - >-
+      The share of declarations with a material error in the team's re-checked sample.
+  correct: 3
+  explanation: >-
+    Fields nobody edited, in a 19-second review, measures the reviewer, not the model; edit rates share
+    the same flaw. Customs queries catch only what customs notices. A sample re-checked against the
+    documents, with its interval, is the error rate.
+
+- id: q3
+  question: >-
+    The register lists eight AI systems. Which of these belongs in the inventory as an AI system in its
+    own right?
+  options:
+    - >-
+      A tariff-suggestion feature switched on by default in a customs-software release.
+    - >-
+      The vendor's value dashboard that reports the route tool's savings.
+    - >-
+      The telematics system that records kilometres and fuel for every truck.
+    - >-
+      The spreadsheet supervisors use to plan warehouse shifts.
+  correct: 0
+  explanation: >-
+    AI that arrives inside a vendor release is still AI in use and needs an owner. The dashboard is a
+    report computed by the vendor, telematics is a data source, and the spreadsheet is not AI; listing
+    them as AI systems inflates the inventory and hides what matters.
+
+- id: q4
+  question: >-
+    The South's manager pulled the route tool back in February. Head office calls it a failure to
+    adopt. What does the data you should check first tell you?
+  options:
+    - >-
+      Whether the South's drivers completed the vendor's training before go-live.
+    - >-
+      How many seats the South still has assigned in the vendor console.
+    - >-
+      Late stops before, during and after the tool, and why dispatchers overrode it.
+    - >-
+      How the South's fuel cost compares with the North's in the same months.
+  correct: 2
+  explanation: >-
+    Late stops doubled with the tool and recovered without it, and overrides cite closed roads: the
+    pull-back protected customers. Training records and assigned seats describe adoption effort, not
+    outcome, and a fuel comparison across regions with different routes says little.
+
+- id: q5
+  question: >-
+    You get one phone call with the former head of AI. Which question is the best use of it?
+  options:
+    - >-
+      Why he decided to resign nine days after the incident.
+    - >-
+      What he warned about before the incident, to whom, and on what date.
+    - >-
+      Whether he thinks the vendor platform was the right choice.
+    - >-
+      Which of his former colleagues you should trust the most.
+  correct: 1
+  explanation: >-
+    A dated, person-specific question gets a fact you can then retrieve from the company's records. His
+    reasons for leaving and his opinions of the vendor or of colleagues are the questions he will
+    deflect, and they leave the warning hidden.

@@ -145,3 +145,11 @@
   - [106 · Build: two workflows and the policy on one page](/lessons/module-16/lesson-05.md)
   - [107 · Readout and debrief](/lessons/module-16/lesson-06.md)
   - [Module 16 quiz](/assessments/module-16-quiz.md)
+- **Module 17 — Vantage Logistics: Rescuing a Failing Program**
+  - [108 · The call](/lessons/module-17/lesson-01.md)
+  - [109 · Discovery](/lessons/module-17/lesson-02.md)
+  - [110 · Diagnosis](/lessons/module-17/lesson-03.md)
+  - [111 · The hard part: a turnaround](/lessons/module-17/lesson-04.md)
+  - [112 · Decide: the stop/keep audit and the incident closed](/lessons/module-17/lesson-05.md)
+  - [113 · Readout and debrief](/lessons/module-17/lesson-06.md)
+  - [Module 17 quiz](/assessments/module-17-quiz.md)

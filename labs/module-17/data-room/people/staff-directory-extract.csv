@@ -1,0 +1,23 @@
+name,role,department,region,reports_to,status,note
+Ofer Lavi,CEO,Executive,HQ,Board,active,
+Svetlana Morozov,CFO,Finance,HQ,CEO,active,
+Moti Azulay,COO,Operations,HQ,CEO,active,
+Adv. Yael Sharabi,General counsel; privacy protection officer,Legal,HQ,CEO,active,appointed privacy protection officer January 2026
+Dmitri Volkov,Head of IT & information security,IT,HQ,CEO,active,incident lead INC-27-0518-01
+Itai Barkan,Head of AI & innovation,AI,HQ,CEO,left 2027-05-27,business owner of 8 AI contracts
+Lior Gabay,Data scientist,AI,Centre,Head of AI (vacant),active,built and runs the warehouse forecast model; only person with access
+Noa Peretz,Analyst,AI,HQ,Head of AI (vacant),active,maintains the AI register
+Shlomo Peretz,Head of customs brokerage (licensed customs agent),Customs,North,COO,active,
+Fadi Khatib,"Operations manager, North",Operations,North,COO,active,
+Gal Rosen,"Operations manager, Centre",Operations,Centre,COO,active,
+Rania Haj-Yahia,"Operations manager, South",Operations,South,COO,active,
+Amir Elbaz,"Deputy operations manager, South",Operations,South,R. Haj-Yahia,active,
+Pieter van Dijk,"Managing director, Vantage Europe B.V.",Europe,Europe,COO,active,
+Hanna Desta,Head of warehousing,Warehousing,Centre,COO,active,
+Eitan Mor,Transport safety officer,Operations,HQ,COO,active,
+Ronit Cohen-Elbaz,VP Customers,Customers,HQ,CEO,active,
+Marina Levitan,Customer service manager,Customer Service,Centre,R. Cohen-Elbaz,active,
+Anat Gold,VP HR,HR,HQ,CEO,active,
+Avi Ohana,Warehouse team lead; works committee chair,Warehousing,Centre,H. Desta,active,
+Tesfaye Worku,Driver; works committee (drivers),Operations,South,R. Haj-Yahia,active,
+"R. Adler, CPA",Internal auditor (outsourced),Internal audit,—,Audit committee,active,

@@ -1,0 +1,9 @@
+system_id,system,vendor,business_owner,scope,status,risk_rating,human_oversight,value_evidence,last_review
+AI-01,Tzir Route,Tzir AI,I. Barkan,North; Centre; South; Europe,Live,Medium,Dispatcher approves every plan,Fuel and km -18% (Tzir dashboard),2027-03-01
+AI-02,Tzir Docs,Tzir AI,I. Barkan,Haifa; Ashdod; airport,Live,Medium,Licensed agent reviews every declaration,99.2% accuracy; 8 FTE freed,2027-03-01
+AI-03,Tzir Assist,Tzir AI,I. Barkan,All customers,Live,Low,Hand-over to an agent on request,35% deflection (target),2027-03-15
+AI-04,Kotev Assist,Kotev,I. Barkan,All office staff,Live,Low,Users check outputs,Productivity,2026-12-01
+AI-05,Ayin Drive,Ayin Drive,M. Azulay,South (60 cabs),Pilot,Low,Safety officer reviews alerts,Fewer accidents (target),2027-01-15
+AI-06,Nezek Vision,Nezek Vision,I. Barkan,Modi'in DC,POC complete - scaling Q3,Low,Supervisor confirms damage,Claims handling -40% (vendor),2027-02-28
+AI-07,Quote assistant,Taarif,I. Barkan,Sales,Live,Low,Sales manager approves quote,Faster quotes,2026-10-15
+AI-08,Warehouse demand and labour forecast,in-house,L. Gabay,Modi'in DC,Live,Low,Supervisor adjusts plan,Overtime -14% (Modi'in vs Ashdod),2027-04-20

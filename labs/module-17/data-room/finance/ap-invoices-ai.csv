@@ -1,0 +1,122 @@
+invoice_no,vendor,contract_id,period,line,region,quantity,unit_price_ils,amount_ils,approved_by,status
+INV-MA-7701,Mabat Fleet Ltd.,MB-2019-03,2026-10,"telematics, 310 units",all,310,196.77,61000,I. Barkan,paid
+INV-TA-7701,Taarif Software Ltd.,TQ-2026-09,2026-10,quote add-in seat,Sales,30,316.67,9500,I. Barkan,paid
+INV-TZ-7701,Tzir AI Ltd.,TZ-OF-101,2026-10,driver app seat,Centre,70,290,20300,I. Barkan,paid
+INV-TZ-7701,Tzir AI Ltd.,TZ-OF-101,2026-10,driver app seat,North,104,290,30160,I. Barkan,paid
+INV-TZ-7701,Tzir AI Ltd.,TZ-OF-101,2026-10,driver app seat,South,92,290,26680,I. Barkan,paid
+INV-TZ-7701,Tzir AI Ltd.,TZ-OF-101,2026-10,driver app seat,Europe,44,290,12760,I. Barkan,paid
+INV-TZ-7701,Tzir AI Ltd.,TZ-OF-101,2026-10,planner console seat,Europe,4,1100,4400,I. Barkan,paid
+INV-TZ-7701,Tzir AI Ltd.,TZ-OF-101,2026-10,planner console seat,North,6,1100,6600,I. Barkan,paid
+INV-TZ-7701,Tzir AI Ltd.,TZ-OF-101,2026-10,planner console seat,South,6,1100,6600,I. Barkan,paid
+INV-TZ-7701,Tzir AI Ltd.,TZ-OF-101,2026-10,planner console seat,Centre,8,1100,8800,I. Barkan,paid
+INV-TZ-7701,Tzir AI Ltd.,TZ-OF-101,2026-10,platform fee,all,1,18700,18700,I. Barkan,paid
+INV-MA-7702,Mabat Fleet Ltd.,MB-2019-03,2026-11,"telematics, 310 units",all,310,196.77,61000,I. Barkan,paid
+INV-NE-7702,Nezek Vision Ltd.,NV-2026-11,2026-11,POC licence and support,Centre,1,22000,22000,I. Barkan,paid
+INV-TA-7702,Taarif Software Ltd.,TQ-2026-09,2026-11,quote add-in seat,Sales,30,316.67,9500,I. Barkan,paid
+INV-TZ-7702,Tzir AI Ltd.,TZ-OF-101,2026-11,driver app seat,Centre,70,290,20300,I. Barkan,paid
+INV-TZ-7702,Tzir AI Ltd.,TZ-OF-101,2026-11,driver app seat,Europe,44,290,12760,I. Barkan,paid
+INV-TZ-7702,Tzir AI Ltd.,TZ-OF-101,2026-11,driver app seat,North,104,290,30160,I. Barkan,paid
+INV-TZ-7702,Tzir AI Ltd.,TZ-OF-101,2026-11,driver app seat,South,92,290,26680,I. Barkan,paid
+INV-TZ-7702,Tzir AI Ltd.,TZ-OF-102,2026-11,"minimum commitment 9,000 declarations (used: 0)",all,9000,14.4444,130000,I. Barkan,paid
+INV-TZ-7702,Tzir AI Ltd.,TZ-OF-101,2026-11,planner console seat,North,6,1100,6600,I. Barkan,paid
+INV-TZ-7702,Tzir AI Ltd.,TZ-OF-101,2026-11,planner console seat,South,6,1100,6600,I. Barkan,paid
+INV-TZ-7702,Tzir AI Ltd.,TZ-OF-101,2026-11,planner console seat,Centre,8,1100,8800,I. Barkan,paid
+INV-TZ-7702,Tzir AI Ltd.,TZ-OF-101,2026-11,planner console seat,Europe,4,1100,4400,I. Barkan,paid
+INV-TZ-7702,Tzir AI Ltd.,TZ-OF-101,2026-11,platform fee,all,1,18700,18700,I. Barkan,paid
+INV-KO-7703,Kotev Ltd.,KT-2026-04,2026-12,Kotev Assist seat,all,450,95,42750,I. Barkan,paid
+INV-MA-7703,Mabat Fleet Ltd.,MB-2019-03,2026-12,"telematics, 310 units",all,310,196.77,61000,I. Barkan,paid
+INV-NE-7703,Nezek Vision Ltd.,NV-2026-11,2026-12,POC licence and support,Centre,1,22000,22000,I. Barkan,paid
+INV-TA-7703,Taarif Software Ltd.,TQ-2026-09,2026-12,quote add-in seat,Sales,30,316.67,9500,I. Barkan,paid
+INV-TZ-7703,Tzir AI Ltd.,TZ-OF-103,2026-12,Tzir Assist subscription,all,1,95000,95000,I. Barkan,paid
+INV-TZ-7703,Tzir AI Ltd.,TZ-OF-101,2026-12,driver app seat,Europe,44,290,12760,I. Barkan,paid
+INV-TZ-7703,Tzir AI Ltd.,TZ-OF-101,2026-12,driver app seat,Centre,70,290,20300,I. Barkan,paid
+INV-TZ-7703,Tzir AI Ltd.,TZ-OF-101,2026-12,driver app seat,South,92,290,26680,I. Barkan,paid
+INV-TZ-7703,Tzir AI Ltd.,TZ-OF-101,2026-12,driver app seat,North,104,290,30160,I. Barkan,paid
+INV-TZ-7703,Tzir AI Ltd.,TZ-OF-103,2026-12,implementation milestone,all,1,500000,500000,I. Barkan,paid
+INV-TZ-7703,Tzir AI Ltd.,TZ-OF-102,2026-12,"minimum commitment 9,000 declarations (used: 0)",all,9000,14.4444,130000,I. Barkan,paid
+INV-TZ-7703,Tzir AI Ltd.,TZ-OF-101,2026-12,planner console seat,North,6,1100,6600,I. Barkan,paid
+INV-TZ-7703,Tzir AI Ltd.,TZ-OF-101,2026-12,planner console seat,South,6,1100,6600,I. Barkan,paid
+INV-TZ-7703,Tzir AI Ltd.,TZ-OF-101,2026-12,planner console seat,Centre,8,1100,8800,I. Barkan,paid
+INV-TZ-7703,Tzir AI Ltd.,TZ-OF-101,2026-12,planner console seat,Europe,4,1100,4400,I. Barkan,paid
+INV-TZ-7703,Tzir AI Ltd.,TZ-OF-101,2026-12,platform fee,all,1,18700,18700,I. Barkan,paid
+INV-AY-7704,Ayin Drive Ltd.,AD-2027-01,2027-01,cab subscription,South,60,300,18000,M. Azulay,paid
+INV-KO-7704,Kotev Ltd.,KT-2026-04,2027-01,Kotev Assist seat,all,450,95,42750,I. Barkan,paid
+INV-MA-7704,Mabat Fleet Ltd.,MB-2019-03,2027-01,"telematics, 310 units",all,310,196.77,61000,I. Barkan,paid
+INV-NE-7704,Nezek Vision Ltd.,NV-2026-11,2027-01,POC licence and support,Centre,1,22000,22000,I. Barkan,paid
+INV-TA-7704,Taarif Software Ltd.,TQ-2026-09,2027-01,quote add-in seat,Sales,30,316.67,9500,I. Barkan,paid
+INV-TZ-7704,Tzir AI Ltd.,TZ-OF-103,2027-01,Tzir Assist subscription,all,1,95000,95000,I. Barkan,paid
+INV-TZ-7704,Tzir AI Ltd.,TZ-OF-101,2027-01,driver app seat,North,104,290,30160,I. Barkan,paid
+INV-TZ-7704,Tzir AI Ltd.,TZ-OF-101,2027-01,driver app seat,South,92,290,26680,I. Barkan,paid
+INV-TZ-7704,Tzir AI Ltd.,TZ-OF-101,2027-01,driver app seat,Centre,70,290,20300,I. Barkan,paid
+INV-TZ-7704,Tzir AI Ltd.,TZ-OF-101,2027-01,driver app seat,Europe,44,290,12760,I. Barkan,paid
+INV-TZ-7704,Tzir AI Ltd.,TZ-OF-102,2027-01,"minimum commitment 9,000 declarations (used: 0)",all,9000,14.4444,130000,I. Barkan,paid
+INV-TZ-7704,Tzir AI Ltd.,TZ-OF-101,2027-01,planner console seat,Centre,8,1100,8800,I. Barkan,paid
+INV-TZ-7704,Tzir AI Ltd.,TZ-OF-101,2027-01,planner console seat,South,6,1100,6600,I. Barkan,paid
+INV-TZ-7704,Tzir AI Ltd.,TZ-OF-101,2027-01,planner console seat,North,6,1100,6600,I. Barkan,paid
+INV-TZ-7704,Tzir AI Ltd.,TZ-OF-101,2027-01,planner console seat,Europe,4,1100,4400,I. Barkan,paid
+INV-TZ-7704,Tzir AI Ltd.,TZ-OF-101,2027-01,platform fee,all,1,18700,18700,I. Barkan,paid
+INV-AY-7705,Ayin Drive Ltd.,AD-2027-01,2027-02,cab subscription,South,60,300,18000,M. Azulay,paid
+INV-KO-7705,Kotev Ltd.,KT-2026-04,2027-02,Kotev Assist seat,all,450,95,42750,I. Barkan,paid
+INV-MA-7705,Mabat Fleet Ltd.,MB-2019-03,2027-02,"telematics, 310 units",all,310,196.77,61000,I. Barkan,paid
+INV-NE-7705,Nezek Vision Ltd.,NV-2026-11,2027-02,POC licence and support,Centre,1,22000,22000,I. Barkan,paid
+INV-TA-7705,Taarif Software Ltd.,TQ-2026-09,2027-02,quote add-in seat,Sales,30,316.67,9500,I. Barkan,paid
+INV-TZ-7705,Tzir AI Ltd.,TZ-OF-103,2027-02,Tzir Assist subscription,all,1,95000,95000,I. Barkan,paid
+INV-TZ-7705,Tzir AI Ltd.,TZ-OF-101,2027-02,driver app seat,Centre,70,290,20300,I. Barkan,paid
+INV-TZ-7705,Tzir AI Ltd.,TZ-OF-101,2027-02,driver app seat,North,104,290,30160,I. Barkan,paid
+INV-TZ-7705,Tzir AI Ltd.,TZ-OF-101,2027-02,driver app seat,Europe,44,290,12760,I. Barkan,paid
+INV-TZ-7705,Tzir AI Ltd.,TZ-OF-101,2027-02,driver app seat,South,92,290,26680,I. Barkan,paid
+INV-TZ-7705,Tzir AI Ltd.,TZ-OF-102,2027-02,"minimum commitment 9,000 declarations (used: 4,310)",all,9000,14.4444,130000,I. Barkan,paid
+INV-TZ-7705,Tzir AI Ltd.,TZ-OF-101,2027-02,planner console seat,Centre,8,1100,8800,I. Barkan,paid
+INV-TZ-7705,Tzir AI Ltd.,TZ-OF-101,2027-02,planner console seat,South,6,1100,6600,I. Barkan,paid
+INV-TZ-7705,Tzir AI Ltd.,TZ-OF-101,2027-02,planner console seat,North,6,1100,6600,I. Barkan,paid
+INV-TZ-7705,Tzir AI Ltd.,TZ-OF-101,2027-02,planner console seat,Europe,4,1100,4400,I. Barkan,paid
+INV-TZ-7705,Tzir AI Ltd.,TZ-OF-101,2027-02,platform fee,all,1,18700,18700,I. Barkan,paid
+INV-AY-7706,Ayin Drive Ltd.,AD-2027-01,2027-03,cab subscription,South,60,300,18000,M. Azulay,paid
+INV-KO-7706,Kotev Ltd.,KT-2026-04,2027-03,Kotev Assist seat,all,450,95,42750,I. Barkan,paid
+INV-MA-7706,Mabat Fleet Ltd.,MB-2019-03,2027-03,"telematics, 310 units",all,310,196.77,61000,I. Barkan,paid
+INV-NE-7706,Nezek Vision Ltd.,NV-2026-11,2027-03,POC licence and support,Centre,1,22000,22000,I. Barkan,paid
+INV-TA-7706,Taarif Software Ltd.,TQ-2026-09,2027-03,quote add-in seat,Sales,30,316.67,9500,I. Barkan,paid
+INV-TZ-7706,Tzir AI Ltd.,TZ-OF-103,2027-03,Tzir Assist subscription,all,1,95000,95000,I. Barkan,paid
+INV-TZ-7706,Tzir AI Ltd.,TZ-OF-101,2027-03,driver app seat,North,104,290,30160,I. Barkan,paid
+INV-TZ-7706,Tzir AI Ltd.,TZ-OF-101,2027-03,driver app seat,Europe,44,290,12760,I. Barkan,paid
+INV-TZ-7706,Tzir AI Ltd.,TZ-OF-101,2027-03,driver app seat,Centre,70,290,20300,I. Barkan,paid
+INV-TZ-7706,Tzir AI Ltd.,TZ-OF-101,2027-03,driver app seat,South,92,290,26680,I. Barkan,paid
+INV-TZ-7706,Tzir AI Ltd.,TZ-OF-103,2027-03,implementation milestone,all,1,500000,500000,I. Barkan,paid
+INV-TZ-7706,Tzir AI Ltd.,TZ-OF-102,2027-03,"minimum commitment 9,000 declarations (used: 4,522)",all,9000,14.4444,130000,I. Barkan,paid
+INV-TZ-7706,Tzir AI Ltd.,TZ-OF-101,2027-03,planner console seat,Europe,4,1100,4400,I. Barkan,paid
+INV-TZ-7706,Tzir AI Ltd.,TZ-OF-101,2027-03,planner console seat,Centre,8,1100,8800,I. Barkan,paid
+INV-TZ-7706,Tzir AI Ltd.,TZ-OF-101,2027-03,planner console seat,South,6,1100,6600,I. Barkan,paid
+INV-TZ-7706,Tzir AI Ltd.,TZ-OF-101,2027-03,planner console seat,North,6,1100,6600,I. Barkan,paid
+INV-TZ-7706,Tzir AI Ltd.,TZ-OF-101,2027-03,platform fee,all,1,18700,18700,I. Barkan,paid
+INV-AY-7707,Ayin Drive Ltd.,AD-2027-01,2027-04,cab subscription,South,60,300,18000,M. Azulay,paid
+INV-KO-7707,Kotev Ltd.,KT-2026-04,2027-04,Kotev Assist seat,all,450,95,42750,I. Barkan,paid
+INV-MA-7707,Mabat Fleet Ltd.,MB-2019-03,2027-04,"telematics, 310 units",all,310,196.77,61000,I. Barkan,paid
+INV-NE-7707,Nezek Vision Ltd.,NV-2026-11,2027-04,POC licence and support,Centre,1,22000,22000,I. Barkan,paid
+INV-TA-7707,Taarif Software Ltd.,TQ-2026-09,2027-04,quote add-in seat,Sales,30,316.67,9500,I. Barkan,paid
+INV-TZ-7707,Tzir AI Ltd.,TZ-OF-103,2027-04,Tzir Assist subscription,all,1,95000,95000,I. Barkan,paid
+INV-TZ-7707,Tzir AI Ltd.,TZ-OF-101,2027-04,driver app seat,Centre,70,290,20300,I. Barkan,paid
+INV-TZ-7707,Tzir AI Ltd.,TZ-OF-101,2027-04,driver app seat,South,92,290,26680,I. Barkan,paid
+INV-TZ-7707,Tzir AI Ltd.,TZ-OF-101,2027-04,driver app seat,Europe,44,290,12760,I. Barkan,paid
+INV-TZ-7707,Tzir AI Ltd.,TZ-OF-101,2027-04,driver app seat,North,104,290,30160,I. Barkan,paid
+INV-TZ-7707,Tzir AI Ltd.,TZ-OF-102,2027-04,"minimum commitment 9,000 declarations (used: 5,968)",all,9000,14.4444,130000,I. Barkan,paid
+INV-TZ-7707,Tzir AI Ltd.,TZ-OF-101,2027-04,planner console seat,Europe,4,1100,4400,I. Barkan,paid
+INV-TZ-7707,Tzir AI Ltd.,TZ-OF-101,2027-04,planner console seat,North,6,1100,6600,I. Barkan,paid
+INV-TZ-7707,Tzir AI Ltd.,TZ-OF-101,2027-04,planner console seat,South,6,1100,6600,I. Barkan,paid
+INV-TZ-7707,Tzir AI Ltd.,TZ-OF-101,2027-04,planner console seat,Centre,8,1100,8800,I. Barkan,paid
+INV-TZ-7707,Tzir AI Ltd.,TZ-OF-101,2027-04,platform fee,all,1,18700,18700,I. Barkan,paid
+INV-AY-7708,Ayin Drive Ltd.,AD-2027-01,2027-05,cab subscription,South,60,300,18000,pending,open
+INV-KO-7708,Kotev Ltd.,KT-2026-04,2027-05,Kotev Assist seat,all,450,95,42750,pending (owner left),open
+INV-MA-7708,Mabat Fleet Ltd.,MB-2019-03,2027-05,"telematics, 310 units",all,310,196.77,61000,pending (owner left),open
+INV-NE-7708,Nezek Vision Ltd.,NV-2026-11,2027-05,POC licence and support,Centre,1,22000,22000,pending (owner left),open
+INV-TA-7708,Taarif Software Ltd.,TQ-2026-09,2027-05,quote add-in seat,Sales,30,316.67,9500,pending (owner left),open
+INV-TZ-7708,Tzir AI Ltd.,TZ-OF-103,2027-05,Tzir Assist subscription,all,1,95000,95000,pending (owner left),open
+INV-TZ-7708,Tzir AI Ltd.,TZ-OF-101,2027-05,driver app seat,South,92,290,26680,pending (owner left),open
+INV-TZ-7708,Tzir AI Ltd.,TZ-OF-101,2027-05,driver app seat,Europe,44,290,12760,pending (owner left),open
+INV-TZ-7708,Tzir AI Ltd.,TZ-OF-101,2027-05,driver app seat,Centre,70,290,20300,pending (owner left),open
+INV-TZ-7708,Tzir AI Ltd.,TZ-OF-101,2027-05,driver app seat,North,104,290,30160,pending (owner left),open
+INV-TZ-7708,Tzir AI Ltd.,TZ-OF-102,2027-05,"minimum commitment 9,000 declarations (used: 6,204)",all,9000,14.4444,130000,pending (owner left),open
+INV-TZ-7708,Tzir AI Ltd.,TZ-OF-101,2027-05,planner console seat,Centre,8,1100,8800,pending (owner left),open
+INV-TZ-7708,Tzir AI Ltd.,TZ-OF-101,2027-05,planner console seat,Europe,4,1100,4400,pending (owner left),open
+INV-TZ-7708,Tzir AI Ltd.,TZ-OF-101,2027-05,planner console seat,North,6,1100,6600,pending (owner left),open
+INV-TZ-7708,Tzir AI Ltd.,TZ-OF-101,2027-05,planner console seat,South,6,1100,6600,pending (owner left),open
+INV-TZ-7708,Tzir AI Ltd.,TZ-OF-101,2027-05,platform fee,all,1,18700,18700,pending (owner left),open

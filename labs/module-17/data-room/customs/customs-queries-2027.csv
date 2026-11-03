@@ -1,0 +1,36 @@
+query_id,received,customs_house,decl_id,customer_code,query_type,goods_held,response_requested_by,status,handled_by,note
+CQ-27-191,2027-02-04,Ben Gurion Airport,27ASH002748,C1218,value,N,2027-02-14,closed,E. Shalom,
+CQ-27-240,2027-02-11,Haifa Port,27HFA003764,C1073,value,N,2027-02-21,closed,N. Asfour,
+CQ-27-100,2027-02-16,Ashdod Port,27HFA002410,C1073,classification,N,2027-02-26,closed,S. Peretz,
+CQ-27-261,2027-02-28,Ashdod Port,27HFA001646,C1193,classification,N,2027-03-10,closed,N. Asfour,
+CQ-27-135,2027-03-02,Ben Gurion Airport,27ASH003752,C1189,classification,N,2027-03-12,closed,S. Peretz,
+CQ-27-114,2027-03-04,Ben Gurion Airport,27ASH003170,C1141,value,N,2027-03-14,closed,E. Shalom,
+CQ-27-233,2027-03-07,Ben Gurion Airport,27ASH003019,C1237,value,N,2027-03-17,closed,E. Shalom,
+CQ-27-142,2027-03-08,Ashdod Port,27HFA003434,C1218,origin,N,2027-03-18,closed,S. Peretz,
+CQ-27-219,2027-03-17,Ashdod Port,27HFA001691,C1158,classification,N,2027-03-27,closed,S. Peretz,
+CQ-27-212,2027-03-29,Ben Gurion Airport,27ASH002333,C1052,documents,N,2027-04-08,closed,E. Shalom,
+CQ-27-226,2027-04-05,Ashdod Port,27HFA001254,C1141,classification,N,2027-04-15,closed,E. Shalom,
+CQ-27-170,2027-04-11,Ben Gurion Airport,27ASH002352,C1136,origin,N,2027-04-21,closed,N. Asfour,
+CQ-27-177,2027-04-13,Ben Gurion Airport,27HFA002702,C1052,classification,N,2027-04-23,closed,E. Shalom,
+CQ-27-163,2027-04-18,Ben Gurion Airport,27ASH001706,C1095,value,N,2027-04-28,closed,E. Shalom,
+CQ-27-254,2027-04-18,Haifa Port,27HFA002126,C1095,value,N,2027-04-28,closed,E. Shalom,
+CQ-27-247,2027-04-19,Haifa Port,27HFA002959,C1095,value,N,2027-04-29,closed,E. Shalom,
+CQ-27-107,2027-04-22,Haifa Port,27HFA003979,C1218,classification,N,2027-05-02,closed,S. Peretz,
+CQ-27-184,2027-04-25,Ben Gurion Airport,27HFA001906,C1136,documents,N,2027-05-05,closed,S. Peretz,
+CQ-27-128,2027-05-02,Ben Gurion Airport,27HFA002538,C1218,documents,N,2027-05-12,closed,N. Asfour,
+CQ-27-268,2027-05-04,Haifa Port,27HFA002036,C1172,classification,N,2027-05-14,closed,S. Peretz,
+CQ-27-321,2027-05-08,Ashdod Port,27ASH004417,C1123,value,N,2027-05-18,open,S. Peretz,Value and supplier do not match the importer's history
+CQ-27-342,2027-05-09,Ashdod Port,27ASH004557,C1141,value,N,2027-05-19,open,S. Peretz,Value and supplier do not match the importer's history
+CQ-27-328,2027-05-10,Haifa Port,27HFA004392,C1172,value,N,2027-05-20,open,S. Peretz,Value and supplier do not match the importer's history
+CQ-27-356,2027-05-10,Haifa Port,27HFA004575,C1123,value,N,2027-05-20,open,S. Peretz,Value and supplier do not match the importer's history
+CQ-27-335,2027-05-11,Haifa Port,27HFA004404,C1022,value,N,2027-05-21,open,S. Peretz,Value and supplier do not match the importer's history
+CQ-27-149,2027-05-12,Haifa Port,27ASH002560,C1117,origin,N,2027-05-22,closed,S. Peretz,
+CQ-27-121,2027-05-13,Ashdod Port,27ASH001632,C1164,value,N,2027-05-23,closed,N. Asfour,
+CQ-27-349,2027-05-13,Ashdod Port,27ASH004583,C1073,value,N,2027-05-23,open,S. Peretz,Value and supplier do not match the importer's history
+CQ-27-198,2027-05-16,Ashdod Port,27ASH003652,C1073,classification,N,2027-05-26,answered,N. Asfour,
+CQ-27-300,2027-05-18,Haifa Port,27HFA004253,C1007,value,Y,2027-05-28,open,S. Peretz,ערך מוצהר אינו תואם מסמכי הספק
+CQ-27-307,2027-05-18,Haifa Port,27HFA004289,C1007,value,Y,2027-05-28,open,S. Peretz,ערך מוצהר אינו תואם מסמכי הספק
+CQ-27-314,2027-05-19,Haifa Port,27HFA004460,C1007,value,Y,2027-05-29,open,S. Peretz,ערך מוצהר אינו תואם מסמכי הספק
+CQ-27-205,2027-05-23,Haifa Port,27HFA001988,C1052,documents,N,2027-06-02,answered,S. Peretz,
+CQ-27-275,2027-05-24,Haifa Port,27ASH002496,C1052,documents,N,2027-06-03,answered,E. Shalom,
+CQ-27-156,2027-05-25,Haifa Port,27ASH002019,C1068,classification,N,2027-06-04,answered,N. Asfour,

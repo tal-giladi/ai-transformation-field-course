@@ -56,9 +56,11 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Compression (of an engagement)** — Running the whole method in a fraction of the usual time by shrinking documents to tables and single pages while keeping every step that touches people, access and the data boundary at full weight (lesson 16.4).
 - **Concede with a condition** — Naming a weak point yourself in a meeting and tying it to a gate or condition, so the gap becomes the reason for the control (lesson 07.4).
 - **Confident wrong value** — An extracted value that is wrong but carries a high confidence score, so the reviewer is not prompted to check it; worse than a blank (lesson 09.5).
+- **Contained vs closed** — An incident is contained when the harm has stopped, proven from the logs; it is closed only when written closure criteria (people informed, counsel's decisions recorded, corrections made, controls running) are met (lesson 17.5).
 - **Containment** — A chatbot vendor's share of conversations that ended without a hand-over to a person; not the same as resolution until tested against what customers did next (lesson 08.2).
 - **Content library** — The short, approved set of sources a drafting assistant may use — and nothing else — so that every number and story it writes can be traced (lesson 16.5).
 - **Content owner** — The named person in a division who answers for a page or knowledge document being correct, dated and updated within a set time after a rule changes (lesson 11.3).
+- **Contributing cause** — A condition that let a trigger cause harm, written without blame and paired with a system fix, as opposed to the single trigger a vendor's root-cause analysis names (lesson 17.5).
 - **Control status** — Whether a control is effective (runs and catches the failure, with evidence), designed, on paper only, or missing; it decides how far the residual rating may fall (lesson 04.5).
 - **Correction to the record** — A dated statement at the top of a committee paper that something management told the committee earlier is no longer true, with the date it stopped being true (lesson 09.4).
 - **Cost per truly resolved chat** — A chatbot's bill divided by the conversations not followed by an agent contact within a set window, the figure to compare with an agent's cost per contact (lesson 08.3).
@@ -72,6 +74,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Data profile** — A one-page check of whether a dataset can carry a named AI use: completeness, label, duplicates, currency, representativeness, joinability, chain of custody and a verdict (lesson 02.5).
 - **Data-readiness audit** — A repeatable profile of the records an AI use needs, with fixed definitions and a verdict per dataset and use, re-run monthly as the foundation's progress measure (lesson 13.5).
 - **Data-room first read** — The day-one record of every file's provenance, what is missing, and each narrative number's status (lesson 01.5).
+- **Day-one triage** — Sorting what the first-day read shows into now, this week and in discovery, each with the person who decides, because in a rescue some things get worse while you discover (lesson 17.1).
 - **De-identify first** — The workflow rule that a person removes names, places and other identifiers before any text reaches an AI tool, with automatic checks only as a backup (lesson 16.5).
 - **Decision block** — The three lines at the top of every steering document: the decision it supports, who can stop the work, and what a "no" means (lesson 07.1).
 - **Decision point** — A dated decision by a named person, placed in a plan where the evidence for it will exist, instead of a solution chosen in advance (lesson 01.4).
@@ -85,6 +88,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Demo conditions** — The sample, language, setting, speakers, measure and measurer behind a vendor's headline number, which decide whether the number says anything about your organization (lesson 10.4).
 - **Departure from a gate rule** — A written statement that a pre-agreed gate was not met and why money or a stage is released anyway, so the gate keeps its meaning (lesson 07.2).
 - **Development set** — The part of the labelled data used to write and tune the prompt; failures are read and fixed here (lesson 05.2).
+- **Difference in differences** — The change at the site that adopted a tool divided by the change at a comparable site that did not, over the same weeks, which removes movements both sites share (lesson 17.3).
 - **Divergence** — The spread between independent scores on one card; discussed for evidence instead of averaged (lesson 03.5).
 - **Document round** — One request letter for documents on a claim; a second or third round means something was asked for late, and each round adds weeks to the claimant's wait (lesson 09.3).
 - **Double-counted pilot** — One build listed in a register by two units under different names, and often budgeted twice; found by a shared environment and test set (lesson 15.2).
@@ -122,6 +126,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Internal lead with a day job** — An employee picked to lead AI work while keeping their role, with access and credibility but not neutrality, because some of the data under audit is their own (lesson 13.1).
 - **Issues log** — The champions' record of what goes wrong, one row per problem with an example, each with a decision, an owner and the date the team was told (lesson 06.3).
 - **Job aid** — The one-page reference kept beside the screen: the rule, the checks, the marks, the stop conditions and where to get help (lesson 06.2).
+- **Kept promise first** — The trust-repair rule that each audience sees one concrete promise kept before it is asked for anything (lesson 17.4).
 - **Kill switch** — A tested way to stop an agent acting (revoking its identity and draining its tool queue), as opposed to hiding its interface (lesson 14.4).
 - **Knowledge pack** — The approved set of documents an assistant may answer from, each with an owner and an effective date, in every language it serves (lesson 11.5).
 - **Label question** — Whether the outcome an AI use would learn from or be judged against was ever recorded, consistently, by someone who knew; if not, the verdict is "not yet" (lesson 02.5).
@@ -143,6 +148,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Must-have term** — A contract term set before vendors answer whose refusal excludes the vendor whatever its price or score; a gate, not a weight (lesson 10.4).
 - **Must-refuse test** — A negative test that asks an agent to take an action it must refuse or hand off, written so that exactly one control in the permission map stops it (lesson 14.5).
 - **Must-route question** — A question an assistant must hand to a person instead of answering, such as a resident's own decision, exempt building works or legal advice (lesson 11.5).
+- **Naive baseline** — A comparison a vendor constructs (for example a shortest-path sequence of the same stops) instead of what the organization actually did before; savings measured against it are claims, not results (lesson 17.3).
 - **Narrowest switch** — The smallest switch-off that stops the harm (one category, channel or language), tried before wider ones (lesson 07.5).
 - **Negative test** — A hand-written test case for a rare or harmful situation (injury, refund outside policy, another person's data, prompt injection, unsupported language) that the pilot must handle correctly every time (lesson 05.2).
 - **No-AI baseline** — The result of the simplest method without a model (keyword rules, macros) on the same test set, which an AI pilot must beat where it is used (lesson 05.4).
@@ -158,6 +164,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Outcome test** — A comparison of what happened to comparable cases in different groups (for example referral rates by language), which finds disparities without needing to know how the system works (lesson 09.4).
 - **Paired quality metric** — A quality measure reported beside an efficiency measure, chosen so that it moves the wrong way if the efficiency gain is fake (lesson 05.1).
 - **Paper versus practice** — The documented difference between the written process and the observed one, recorded as a finding with evidence and consequence (lesson 02.3).
+- **Paper-only control** — A control that exists in a procedure or register but does not operate in practice, shown by evidence such as review time or a re-checked sample (lesson 17.4).
 - **Parked list** — Ideas not funded now, each with its reason and a dated, evidence-based reopening condition (lesson 03.6).
 - **Paved road** — A shared, owned route that makes the safe way the easy way: the platform, the templates and evaluation kit, and the catalogue (lesson 15.4).
 - **Per-segment verdict** — Scale, fix or stop decided separately for each part of a pilot that behaves differently (channel, language, category), never on the pilot-wide average (lesson 07.2).
@@ -192,6 +199,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Regulatory map** — A one-page table of which instrument applies to which AI use, in which role (actor), with which obligation, from which date, at which status and on which checked source (lesson 04.6).
 - **Relay** — Anyone who has already heard a committed number from a leader (a board chair, an investor, a vendor) and needs the same correction early (lesson 07.3).
 - **Repeat contact** — An agent contact from a customer who contacted the organization about the same order within the previous 7 days on any channel, with order numbers normalised and blanks counted as the same order (lesson 08.2).
+- **Reporting protocol** — A short written agreement, signed by every principal before any finding exists, on who hears which findings first, what goes to an audit committee as facts without conclusions, and what goes to counsel (lesson 17.1).
 - **Residue** — The work people take on so that an automation or AI can run, such as keeping a sheet in a fixed format; it goes on the ledger line with an owner (lesson 03.2).
 - **Restricted use** — An AI use that needs the review group's decision or that nobody may do, recorded with the reason and who may lift it (lesson 04.2).
 - **Retirement criteria** — Checkable conditions, written when a service goes live, under which it will be retired (lesson 07.6).
@@ -223,6 +231,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Steering pack** — The papers a committee decides from, in reader order with a six-page body: cover note, updated decision-ready case, gate table, stop rules, open items, separate decisions and what each answer means (lesson 07.1).
 - **Steering pre-read** — The date the decision-makers receive a pack before a board or steering meeting, usually a week earlier; the real deadline for the work (lesson 01.4).
 - **Stop rule** — A condition written before a pilot starts that ends it, or one segment of it, early, with a trigger, an action and the person who decides (lesson 05.1).
+- **Stop/keep audit** — A decision on every AI system, by region or feature, from rules fixed before the list was opened, each with an owner, the contract step it needs and the date its saving starts (lesson 17.5).
 - **Stratified fairness check** — A fairness check that splits a group gap by an explanatory variable (such as scanner or capture channel) to find its cause before calling it a group effect (lesson 09.5).
 - **Synthetic visit** — A clinical encounter written from a real-shaped scenario and recorded by actors, used to test vendors on an organization's conditions without any real patient's data (lesson 10.4).
 - **Task inventory** — One row per task as the worker does it, with trigger, volume, time, error or rework, variation and judgment, each number with its source (lesson 02.3).
