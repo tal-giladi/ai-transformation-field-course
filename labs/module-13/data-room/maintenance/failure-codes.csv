@@ -1,0 +1,25 @@
+code,description_he,description_en,group
+H01,משאבה הידראולית,Hydraulic pump,Hydraulics
+H02,שסתום,Valve,Hydraulics
+H03,צנרת / דליפה,Hose / leak,Hydraulics
+H04,טמפ' שמן / מחליף חום,Oil temperature / cooler,Hydraulics
+E01,גוף חימום,Heater band,Electrical
+E02,תרמוקפל,Thermocouple,Electrical
+E03,מגען / ממסר,Contactor / relay,Electrical
+E04,דרייבר / סרוו,Drive / servo,Electrical
+E05,בקר / כרטיס IO,PLC / IO card,Electrical
+M01,בורג / צילינדר / טבעת,Screw / barrel / check ring,Mechanical
+M02,טוגל / סגירה,Toggle / clamp,Mechanical
+M03,מפלט מכונה,Machine ejector,Mechanical
+M04,שימון,Lubrication,Mechanical
+S01,דלת מגן / אינטרלוק,Safety gate / interlock,Safety
+S02,עצירת חירום,Emergency stop,Safety
+R01,רובוט,Robot,Automation
+A01,מייבש,Dryer,Auxiliary
+A02,צ'ילר,Chiller,Auxiliary
+A03,בקר טמפ' תבנית,Mould temperature controller,Auxiliary
+P01,פנאומטיקה,Pneumatics,Auxiliary
+90,טעות מפעיל,Operator error,Other
+91,חומר גלם,Material,Other
+92,תבנית - להעביר לכלים,Mould (send to tooling),Other
+99,אחר,Other,Other

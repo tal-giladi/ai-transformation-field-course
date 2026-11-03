@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    Your readout recommends against the owner's vendor this year. What else must its front page carry
+    for the recommend-against to hold in the meeting?
+  options:
+    - >-
+      A full comparison of three other predictive-maintenance vendors.
+    - >-
+      A plan for the customer this quarter, so the owner has something better to say yes to.
+    - >-
+      A statement that the vendor's claims were exaggerated, with the case study attached.
+    - >-
+      The names of the people whose records were incomplete, so follow-up is possible.
+  correct: 1
+  explanation: >-
+    A "no" with nothing to do instead loses to the only plan on the table. Giving the owner what fixes
+    the customer now makes the recommend-against a choice between two plans. Comparing vendors or
+    attacking claims misses the point, and naming people breaks the protocol.
+
+- id: q2
+  question: >-
+    The integration check finds that the case promised recording at the second plant by 30 April, while
+    the protocol says nothing changes before the joint committee meets there on 6 April. What do you do?
+  options:
+    - >-
+      Keep 30 April in the case, since the committee meeting is only a formality.
+    - >-
+      Remove the second plant from the plan to avoid the conflict entirely.
+    - >-
+      Ask the committee to bring its meeting forward to fit the original date.
+    - >-
+      Move the date to 30 June in every document and say why.
+  correct: 3
+  explanation: >-
+    The protocol is the promise the workers rely on; the plan fits around it, consistently everywhere.
+    Treating consultation as a formality is how the 2025 tablets episode happened; dropping a plant or
+    pressing the committee trades a date for trust.
+
+- id: q3
+  question: >-
+    In the first rehearsal you opened with the data-quality table and the owner said he would "just
+    start at the second plant" with the vendor. What changes in the second attempt?
+  options:
+    - >-
+      Open with his goal for the customer, then the night stops, then the vendor in 2028.
+    - >-
+      Add more evidence on data quality so the conclusion becomes impossible to dispute.
+    - >-
+      Soften the finding: agree to a small vendor pilot at the second plant this year.
+    - >-
+      Bring the CFO to the rehearsal so the owner hears the numbers from finance.
+  correct: 0
+  explanation: >-
+    Change the delivery, not the finding. Starting from his own question about the customer and giving
+    the vendor a path to 2028 lets him own the decision. More tables repeat what failed, softening
+    changes the finding, and an audience turns a private rehearsal into a confrontation.
+
+- id: q4
+  question: >-
+    The meeting approves the foundation and declines the vendor "for now". What must the decision record
+    add so that "for now" does not become "never" or "next month"?
+  options:
+    - >-
+      The vendor's price validity date, so the company can still use the discount.
+    - >-
+      A note that the topic may be raised again by any member when data improves.
+    - >-
+      A re-decision date with its criteria, and who writes the proof-of-concept protocol.
+    - >-
+      The list of vendors to be invited to present at the next management meeting.
+  correct: 2
+  explanation: >-
+    A re-decision date with written criteria and an owner for the proof-of-concept protocol turns "not
+    yet" into a scheduled decision. The vendor's price date is its pressure, not your criterion; "any
+    member may raise it" has no date; a vendor parade presumes the answer.
+
+- id: q5
+  question: >-
+    Six months later the assistant is popular, but recording stayed optional and the maintenance manager
+    retired early, taking his notebooks. Which decision made this future likely?
+  options:
+    - >-
+      Choosing a multilingual assistant instead of a Hebrew-only one.
+    - >-
+      Funding only the visible, cheap parts and treating the foundation as optional.
+    - >-
+      Declining the vendor's platform at the meeting in March.
+    - >-
+      Running the assistant in shadow mode before letting technicians rely on it.
+  correct: 1
+  explanation: >-
+    The foundation — register, recording, a named successor for the manager's knowledge — was the
+    deliverable, and it was cut. Languages, shadow mode and declining an unready platform were right;
+    they could not produce the records the re-decision needed.

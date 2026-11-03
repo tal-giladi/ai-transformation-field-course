@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    The vendor presents to management on Monday. When should you write the criteria for "ready for
+    predictive maintenance", and from what?
+  options:
+    - >-
+      After the presentation, so the criteria reflect what the platform can actually do.
+    - >-
+      After the data audit in the next lesson, so the criteria match what the data shows.
+    - >-
+      Before Monday, largely from the vendor's own onboarding prerequisites, and dated.
+    - >-
+      At the management meeting itself, agreed live with the CEO and the vendor present.
+  correct: 2
+  explanation: >-
+    A bar written after the demo or after the audit looks fitted to the answer. Writing it first, from
+    the vendor's own prerequisites where possible, makes the verdict hard to dispute and shows you are not
+    inventing obstacles.
+
+- id: q2
+  question: >-
+    Most criteria are not met: few labels, sensors on 3 of 40 machines, no common register. How do you
+    word the verdict to the owner?
+  options:
+    - >-
+      "No": the company is not a fit for predictive maintenance and should drop the idea.
+    - >-
+      "Not yet": the criteria that decide it, the work that meets them, and the re-decision date.
+    - >-
+      "Proceed with conditions": start the vendor at the second plant while the data is fixed.
+    - >-
+      "Unclear": more analysis is needed before any position can be taken.
+  correct: 1
+  explanation: >-
+    "Not yet" with criteria, funded work and a date is a decision the owner can act on. "No" invites him
+    to go around you; starting the vendor anyway buys a learning period nobody can label; "unclear" after
+    the evidence you have is avoidance.
+
+- id: q3
+  question: >-
+    The vendor's case study shows 94% prediction accuracy. In the read-back you learn it is the share of
+    one wind farm's bearing failures that had an alert 30 days ahead. What is missing?
+  options:
+    - >-
+      The number of turbines, which would let you scale the result to forty machines.
+    - >-
+      The vendor's customer list, to see how many other wind farms use the platform.
+    - >-
+      A discount, since the result came from a different industry.
+    - >-
+      The false-alarm rate, and evidence from your industry on data like yours.
+  correct: 3
+  explanation: >-
+    Recall alone says nothing about how many alerts were wrong, which decides whether technicians will
+    trust it. And a result on six years of coded wind-farm data does not transfer to plastics with
+    uncoded records; ask for a reference in your industry.
+
+- id: q4
+  question: >-
+    You are writing the new failure-mode list for technicians to use at the machine. Which approach fits
+    this workforce?
+  options:
+    - >-
+      About fifteen modes, written with technicians, in their languages, ISO structure as a guide.
+    - >-
+      The full ISO 14224 tables, translated, so the data is comparable with other industries.
+    - >-
+      The existing 2019 list, enforced by making the code field mandatory before closing.
+    - >-
+      Free text only, to be coded later by an LLM so technicians are not burdened.
+  correct: 0
+  explanation: >-
+    A list technicians recognise and can choose in their own language at the machine is what gets used.
+    ISO 14224 helps with the structure (mode versus cause) but is written for oil and gas; forcing the old
+    list produces "99"; free text cannot recover what nobody wrote.
+
+- id: q5
+  question: >-
+    The works committee chair asks for a written promise that the new records will never be used to
+    evaluate individual technicians. What do you do?
+  options:
+    - >-
+      Promise it yourself in the meeting, so the committee supports the project quickly.
+    - >-
+      Explain that the records need technician ids, so no such promise can be given.
+    - >-
+      Propose it as a clause of a protocol signed by management, with HR, before rollout.
+    - >-
+      Defer the question until the recording has run for six months and data exists.
+  correct: 2
+  explanation: >-
+    The commitment is reasonable and matches the local agreement and the monitoring principles, but only
+    management can sign it. Putting it in a protocol with HR before anything changes is the honest route;
+    a personal promise is not yours to give, and refusing or deferring loses the consultation.

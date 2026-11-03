@@ -1,0 +1,13 @@
+qid,behaviour,answer,sources,input_tokens,output_tokens
+N01,answer,"MAN-KX · Kessler KX / KX-e injection moulding machines — operation and maintenance manual (extract) ## Safety gate daily test  Every shift: open the front safety gate during a dry cycle. All movement must stop at once. Record the test in the machine log. If any movement continues, lock out the machine and call maintenance.",MAN-KX,0,0
+N02,answer,"SOP-OIL-05 · נוהל שמן הידראולי ## מרווחי החלפה  החלפת שמן בכל המכונות: כל 4,000 שעות עבודה. פילטר: כל 1,000 שעות.",SOP-OIL-05 rev A,0,0
+N03,answer,"SOP-LOTO-01 · إجراء القفل والوسم (LOTO) لماكينات الحقن ## الخطوات  1. أبلغ رئيس الوردية. 2. أوقف الماكينة إيقافاً عادياً. 3. أطفئ المفتاح الرئيسي، اقفله بقفلك الشخصي وعلّق بطاقة باسمك. 4. أطفئ مضخة الهيدروليك. 5. حرّر ضغط الهواء المضغوط. 6. تجربة التشغيل: اضغط على ""تشغيل"" وتأكد أنه لا توجد أي حركة. 7. الآن يمكن فتح الواقي.",SOP-LOTO-01 rev B,0,0
+N04,answer,"SOP-ESC-07 · נוהל הסלמה במשמרת לילה ## סדר פנייה  1. טכנאי כונן בכיר (לפי לוח הכוננויות על לוח המודעות במשרד האחזקה). 2. מנהל האחזקה: רק אם לא השגת את הכונן תוך 15 דקות, או באירוע בטיחות. 3. אירוע בטיחות: גם ממונה הבטיחות, יעקב דהן.",SOP-ESC-07 rev C,0,0
+N05,answer,,,0,0
+N06,answer,רשימת חלקים: HB-049 גוף חימום צילינדר 13 מיקום D-18-3 כמות 1,"PARTS-LIST (drive, 16 Mar 2025)",0,0
+N07,answer,"SOP-LOTO-01 · נוהל נעילה ותיוג (LOTO) למכונות הזרקה ## הסרת נעילה  רק מי ששם את המנעול מסיר אותו. לפני הסרה: כל הכלים מחוץ למכונה, כל המגנים סגורים, ראש המשמרת עודכן.",SOP-LOTO-01 rev D,0,0
+N08,answer,,,0,0
+N09,answer,רשימת חלקים: TC-HR-013 תרמוקפל הוט ראנר 1 מיקום A-19-1 כמות 8,"PARTS-LIST (drive, 16 Mar 2025)",0,0
+N10,answer,"MAN-KX · Kessler KX / KX-e injection moulding machines — operation and maintenance manual (extract) ## Nozzle tip  Tighten the nozzle tip hot, at processing temperature, to 85 Nm. Never tighten a cold nozzle tip.",MAN-KX,0,0
+N11,answer,,,0,0
+N12,answer,"SOP-LOTO-01 · נוהל נעילה ותיוג (LOTO) למכונות הזרקה ## הסרת נעילה  רק מי ששם את המנעול מסיר אותו. לפני הסרה: כל הכלים מחוץ למכונה, כל המגנים סגורים, ראש המשמרת עודכן.",SOP-LOTO-01 rev D,0,0

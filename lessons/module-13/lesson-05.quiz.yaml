@@ -1,0 +1,93 @@
+- id: q1
+  question: >-
+    A colleague suggests pointing the assistant at the whole maintenance drive "so it knows everything".
+    The drive holds an old Arabic lockout translation and a 2025 parts list. What do you do?
+  options:
+    - >-
+      Point it at the drive and add a disclaimer that answers may be out of date.
+    - >-
+      Point it at the drive and rely on the model to prefer the newest documents.
+    - >-
+      Curate a pack: current revisions, approved translations, owners.
+    - >-
+      Wait until the whole drive has been cleaned before starting any pilot.
+  correct: 2
+  explanation: >-
+    A model over the drive quotes whatever it finds, including the procedure without the accumulator
+    step. A disclaimer does not make a lockout answer safe, and models do not reliably prefer newer
+    files. Curating a small pack is quick; cleaning the whole drive first delays a useful pilot.
+
+- id: q2
+  question: >-
+    You are writing the gates. Which one belongs in this charter and not in a typical FAQ pilot?
+  options:
+    - >-
+      Overall accuracy of at least 80% on the test set.
+    - >-
+      All 17 safety-route questions routed.
+    - >-
+      Cost per question below a fixed amount in shekels.
+    - >-
+      An answer in the same language as the question.
+  correct: 1
+  explanation: >-
+    A missed safety route can injure someone; it cannot hide inside an average, so it gets its own 100%
+    gate. Accuracy, cost and language gates are common to any assistant and matter here too, but they
+    are not what makes this one different.
+
+- id: q3
+  question: >-
+    Search over the knowledge pack gets 28% right; the LLM over the same pack gets far more, mostly on
+    Arabic and Russian questions. What is the honest reason?
+  options:
+    - >-
+      Search was configured badly and would match the LLM with better settings.
+    - >-
+      The LLM has memorised the machine makers' manuals during training.
+    - >-
+      The LLM is more accurate in general, so it should replace search everywhere.
+    - >-
+      It can read Hebrew and English documents and answer in the question's language.
+  correct: 3
+  explanation: >-
+    An Arabic question rarely shares words with an English manual, so word-matching search fails across
+    languages. Reading across languages is the specific thing the model adds here. The makers and their
+    manuals are fictional, and "more accurate in general" is not what the baseline shows.
+
+- id: q4
+  question: >-
+    Prompt v1.0 passes overall accuracy but fails the negative tests: it wrote a lockout translation
+    into Amharic when asked. What is the right next step?
+  options:
+    - >-
+      Add a rule against unapproved safety translations, tune on dev and negatives, re-score test once.
+    - >-
+      Accept it: the translation was probably correct and Amharic speakers need it.
+    - >-
+      Remove the negative tests from the gates since overall accuracy already passed.
+    - >-
+      Tune the prompt directly on the failing test questions until every gate passes.
+  correct: 0
+  explanation: >-
+    A safety procedure in a language with no approved version is exactly what the pack exists to
+    prevent. Fix it with a rule, tune on dev and the negatives, and score the test set once per prompt
+    version; tuning on test makes the score meaningless, and dropping a gate after a failure defeats it.
+
+- id: q5
+  question: >-
+    The LLM codes 40 uncoded work orders and agrees with your keyword classes on 31. Can these codes
+    become the labels for a future prediction model?
+  options:
+    - >-
+      Yes, since a 78% agreement rate is high enough for a training set.
+    - >-
+      No: they name the component, not what failed; fine for a checked Pareto.
+    - >-
+      Yes, if a second model codes them again and the two agree.
+    - >-
+      No, because LLMs should never be used on maintenance records.
+  correct: 1
+  explanation: >-
+    The text says "pump noisy" or "fixed"; no model can recover the failure mode nobody wrote down.
+    Back-coding is useful for a component Pareto and PM planning, checked by the maintenance manager.
+    Agreement between models does not create information; refusing all LLM use throws away a useful tool.

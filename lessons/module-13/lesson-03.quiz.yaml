@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    The vendor's ROI sheet values every hour of downtime at revenue per machine-hour. The CFO says only
+    40% of hours were on fully loaded jobs. How do you value an hour in your case?
+  options:
+    - >-
+      At the vendor's figure, since it is the only number already in writing.
+    - >-
+      At the CFO's lost contribution for loaded hours and the overtime cost for the rest.
+    - >-
+      At zero for all hours that production recovered later in the same week.
+    - >-
+      At the average monthly revenue of the plant divided by its machine hours.
+  correct: 1
+  explanation: >-
+    An hour that was recovered with overtime still cost the overtime; an hour on a loaded job lost
+    contribution. Blending the two with the CFO's figures gives a defensible number. Revenue per hour
+    overstates; zero ignores real overtime spend.
+
+- id: q2
+  question: >-
+    Even at its own best claim, the vendor's platform returns about ₪257k a year against ₪343k a year
+    of cost, from 2028. How do you use that in the case?
+  options:
+    - >-
+      Leave it out, because the CEO will see it as an attack on his idea.
+    - >-
+      Replace the vendor's 50% with your own estimate of 15% to be conservative.
+    - >-
+      Show it plainly: netted at the vendor's own figure it does not pay, and not before 2028.
+    - >-
+      Ask the vendor for a discount large enough to make the numbers work first.
+  correct: 2
+  explanation: >-
+    Netting the vendor at its own best claim removes any argument about your pessimism: if it fails
+    there, the order of work is settled. Hiding it, inventing a lower figure or negotiating price first
+    all weaken the case.
+
+- id: q3
+  question: >-
+    A manual assistant would save technicians some hours and cut machine waiting at night by perhaps 60
+    hours a year. How do these appear in the one-page case?
+  options:
+    - >-
+      As a cash saving at the technicians' hourly cost, since the hours are real.
+    - >-
+      As the main financial justification for the whole ₪730,000 request.
+    - >-
+      Not at all, because they are too small to matter next to the mould hours.
+    - >-
+      As capacity, labelled; the assistant's case rests on safe answers, not money.
+  correct: 3
+  explanation: >-
+    Freed hours are capacity unless a cost line actually falls. The assistant's value is correct, safe
+    answers in the technician's language and less dependence on one person; say that, and label the
+    hours honestly instead of inflating or hiding them.
+
+- id: q4
+  question: >-
+    The CFO controls the budget line and has been burnt by a system project before. Which structure is
+    most likely to get money released?
+  options:
+    - >-
+      Three stages with dated gates, an owner per stage and a stop rule tied to a measure.
+    - >-
+      The whole amount at once, so the project is not slowed by repeated approvals.
+    - >-
+      A multi-year subscription with the vendor, since it spreads the cost evenly.
+    - >-
+      A request for half the line now and the rest after the vendor's learning period.
+  correct: 0
+  explanation: >-
+    Stages, gates and a stop rule let a cautious CFO limit what she can lose. A lump sum asks for trust
+    you have not earned; a multi-year auto-renewing subscription is what she avoids; tying funds to the
+    vendor's learning period presumes the vendor.
+
+- id: q5
+  question: >-
+    Two KPIs change definition this year: repair time on one definition for both plants, and PM counted
+    only with labour recorded. How do you introduce them?
+  options:
+    - >-
+      Switch both in next month's deck without comment, since the new ones are correct.
+    - >-
+      Show old and new side by side for three months, with the reason for the change.
+    - >-
+      Keep the old ones in the deck and track the new ones privately for now.
+    - >-
+      Ask each plant manager to choose which definition their plant will report.
+  correct: 1
+  explanation: >-
+    A silent switch looks like a performance change and costs trust; parallel reporting with the reason
+    lets people see the same reality measured two ways. Private tracking helps nobody, and letting each
+    plant choose recreates the problem.

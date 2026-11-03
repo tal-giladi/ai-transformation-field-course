@@ -113,3 +113,11 @@
   - [82 · Build: precedent search with a citation gate](/lessons/module-12/lesson-05.md)
   - [83 · Readout and debrief](/lessons/module-12/lesson-06.md)
   - [Module 12 quiz](/assessments/module-12-quiz.md)
+- **Module 13 — Kinneret Plastics: When the Data Is Not Ready**
+  - [84 · The call](/lessons/module-13/lesson-01.md)
+  - [85 · Discovery](/lessons/module-13/lesson-02.md)
+  - [86 · Diagnosis](/lessons/module-13/lesson-03.md)
+  - [87 · The hard part: not yet, and fund the foundation](/lessons/module-13/lesson-04.md)
+  - [88 · Build: the readiness audit and a manual assistant](/lessons/module-13/lesson-05.md)
+  - [89 · Readout and debrief](/lessons/module-13/lesson-06.md)
+  - [Module 13 quiz](/assessments/module-13-quiz.md)

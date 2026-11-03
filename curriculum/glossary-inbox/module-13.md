@@ -1,0 +1,10 @@
+- **Internal lead with a day job** — An employee picked to lead AI work while keeping their role, with access and credibility but not neutrality, because some of the data under audit is their own (lesson 13.1).
+- **Failure mode** — What was observed to fail (leaking, no output, abnormal vibration), recorded separately from the component and from the cause; the field a prediction model learns from (lesson 13.2).
+- **Usable label** — A breakdown record that names its failure mode and can be tied to the stop it caused; the count that decides whether prediction is possible (lesson 13.5).
+- **Asset crosswalk** — The table that maps one physical asset to its ids in every system (maintenance, MES, historian, alarms), built on something stable such as the serial number (lesson 13.2).
+- **Back-coding** — Classifying old free-text records into categories after the fact, by rules or an LLM; it recovers what was written (a component), never what was not (the failure mode) (lesson 13.5).
+- **Data foundation** — The funded, owned work that makes a later AI decision possible (register, recording, sensors, a true parts view), with gates and closing evidence; the deliverable behind a "not yet" (lesson 13.4).
+- **Re-decision date** — The dated meeting, with criteria written in advance, at which a "not yet" is decided again (lesson 13.4).
+- **Data-readiness audit** — A repeatable profile of the records an AI use needs, with fixed definitions and a verdict per dataset and use, re-run monthly as the foundation's progress measure (lesson 13.5).
+- **Safety route** — An assistant behaviour that stops, keeps the situation safe and sends the person to a named role or procedure instead of answering; scored as its own 100% gate (lesson 13.5).
+- **Recording protocol** — A signed agreement with workers' representatives on how new work records may and may not be used (no individual performance reports, no discipline, languages, training) before recording starts (lesson 13.4).

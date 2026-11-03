@@ -1,0 +1,232 @@
+mould_id,plant,customer,part,cavities,hot_runner,on_machine,shot_counter,last_service
+TM-1001,K,Arava Home Appliances,part-689,8,N,,,
+TM-1002,K,Arava Home Appliances,part-320,32,Y,,,
+TM-1003,G,Galil Dairies,part-107,1,Y,,,
+TM-1004,K,Galil Dairies,part-957,2,Y,,,
+TM-1005,K,Kinneret own crates,part-407,48,N,,,2026-04-26
+TM-1006,G,Yarden Beverages,part-668,32,Y,,ידני,2026-08-16
+TM-1007,K,Kinneret own crates,part-397,32,N,,761000,
+TM-1008,K,Yarden Beverages,part-917,32,Y,,ידני,2026-01-31
+TM-1009,G,Yarden Beverages,part-421,4,Y,,,
+TM-1010,K,Other,part-758,32,N,,ידני,2025-01-02
+TM-1011,K,Arava Home Appliances,part-119,16,N,,,2025-04-27
+TM-1012,G,Kinneret own crates,part-645,16,Y,,ידני,2026-12-07
+TM-1013,K,Yarden Beverages,part-961,4,Y,,3057000,
+TM-1014,K,Yarden Beverages,part-468,2,Y,,ידני,2025-04-02
+TM-1015,G,Kinneret own crates,part-171,1,N,,ידני,2025-05-21
+TM-1016,K,Kinneret own crates,part-366,2,N,,3347000,
+TM-1017,K,Galil Dairies,part-152,48,Y,,ידני,
+TM-1018,G,Galil Dairies,part-277,32,Y,,2536000,2025-02-27
+TM-1019,K,Kinneret own crates,part-990,16,N,,ידני,2025-05-10
+TM-1020,K,Arava Home Appliances,part-251,2,Y,,,2026-07-16
+TM-1021,G,Arava Home Appliances,part-895,32,N,,3964000,
+TM-1022,K,Yarden Beverages,part-290,48,Y,,,2026-09-16
+TM-1023,K,Kinneret own crates,part-991,1,N,,,
+TM-1024,G,Kinneret own crates,part-880,16,N,,2147000,
+TM-1025,K,Galil Dairies,part-484,8,Y,,,
+TM-1026,K,Yarden Beverages,part-519,48,Y,,,
+TM-1027,G,Yarden Beverages,part-685,2,Y,,,
+TM-1028,K,Galil Dairies,part-400,2,Y,,,
+TM-1029,K,Yarden Beverages,part-321,4,Y,,,2026-04-02
+TM-1030,G,Yarden Beverages,part-987,8,Y,,,2025-04-21
+TM-1031,K,Other,part-791,2,N,,,
+TM-1032,K,Kinneret own crates,part-756,1,N,,,
+TM-1033,G,Other,part-719,4,N,,2114000,
+TM-1034,K,Arava Home Appliances,part-463,1,Y,,ידני,2026-05-09
+TM-1035,K,Yarden Beverages,part-113,32,Y,,ידני,
+TM-1036,G,Yarden Beverages,part-248,1,Y,K07,ידני,
+TM-1037,K,Other,part-647,16,N,,,
+TM-1038,K,Galil Dairies,part-409,4,Y,,,2026-11-05
+TM-1039,G,Arava Home Appliances,part-797,32,N,,,
+TM-1040,K,Arava Home Appliances,part-485,48,N,,,2025-09-26
+TM-1041,K,Arava Home Appliances,part-871,1,N,,,
+TM-1042,G,Yarden Beverages,part-600,8,Y,,2065000,2026-02-21
+TM-1043,K,Arava Home Appliances,part-863,1,Y,K17,,2025-07-07
+TM-1044,K,Yarden Beverages,part-373,1,Y,,3749000,
+TM-1045,G,Yarden Beverages,part-273,1,Y,,,
+TM-1046,K,Other,part-578,32,Y,G07,,2026-10-01
+TM-1047,K,Kinneret own crates,part-763,16,N,,ידני,2026-10-27
+TM-1048,G,Galil Dairies,part-524,1,Y,,3259000,
+TM-1049,K,Yarden Beverages,part-269,8,Y,,,
+TM-1050,K,Other,part-369,2,Y,,ידני,2026-12-14
+TM-1051,G,Other,part-779,4,N,,,2025-10-23
+TM-1052,K,Arava Home Appliances,part-905,4,N,,,
+TM-1053,K,Kinneret own crates,part-936,1,N,,,2026-06-25
+TM-1054,G,Galil Dairies,part-456,1,Y,,281000,
+TM-1055,K,Galil Dairies,part-169,16,Y,K11,ידני,2025-07-30
+TM-1056,K,Arava Home Appliances,part-580,8,N,,ידני,
+TM-1057,G,Arava Home Appliances,part-494,32,Y,G11,,
+TM-1058,K,Arava Home Appliances,part-989,48,N,K05,,
+TM-1059,K,Yarden Beverages,part-983,8,Y,K21,,
+TM-1060,G,Arava Home Appliances,part-438,32,N,K05,,
+TM-1061,K,Yarden Beverages,part-428,1,Y,,,2025-09-27
+TM-1062,K,Arava Home Appliances,part-722,8,Y,,,2025-12-12
+TM-1063,G,Yarden Beverages,part-364,2,Y,,952000,
+TM-1064,K,Arava Home Appliances,part-819,4,Y,,,2026-07-07
+TM-1065,K,Other,part-630,8,Y,,,2025-04-07
+TM-1066,G,Kinneret own crates,part-219,16,N,,,2026-07-29
+TM-1067,K,Other,part-235,48,N,,,2025-11-14
+TM-1068,K,Yarden Beverages,part-410,8,Y,,415000,
+TM-1069,G,Galil Dairies,part-489,8,Y,,,
+TM-1070,K,Arava Home Appliances,part-233,8,N,,1848000,2026-01-19
+TM-1071,K,Kinneret own crates,part-857,4,N,G01,2122000,
+TM-1072,G,Yarden Beverages,part-984,48,Y,,,
+TM-1073,K,Yarden Beverages,part-287,4,Y,,,
+TM-1074,K,Arava Home Appliances,part-775,1,Y,,,2026-05-22
+TM-1075,G,Galil Dairies,part-799,32,Y,,,2026-04-11
+TM-1076,K,Arava Home Appliances,part-933,1,N,,,
+TM-1077,K,Yarden Beverages,part-126,16,Y,,,2026-08-18
+TM-1078,G,Kinneret own crates,part-800,1,N,,,2025-01-24
+TM-1079,K,Kinneret own crates,part-814,1,N,,ידני,2025-08-29
+TM-1080,K,Arava Home Appliances,part-671,32,N,,,
+TM-1081,G,Other,part-829,2,N,,,2026-02-13
+TM-1082,K,Yarden Beverages,part-194,4,Y,,ידני,
+TM-1083,K,Yarden Beverages,part-771,16,Y,,2550000,2025-04-17
+TM-1084,G,Other,part-478,16,Y,,,
+TM-1085,K,Yarden Beverages,part-708,4,Y,,ידני,2026-11-06
+TM-1086,K,Arava Home Appliances,part-194,48,Y,,,
+TM-1087,G,Galil Dairies,part-263,8,Y,,,
+TM-1088,K,Yarden Beverages,part-854,4,Y,,475000,
+TM-1089,K,Galil Dairies,part-594,1,Y,,,2025-10-09
+TM-1090,G,Arava Home Appliances,part-969,16,Y,,,
+TM-1091,K,Yarden Beverages,part-776,48,Y,,,
+TM-1092,K,Arava Home Appliances,part-340,4,Y,,568000,
+TM-1093,G,Yarden Beverages,part-907,2,Y,,,2025-06-28
+TM-1094,K,Galil Dairies,part-317,1,Y,,,2026-11-10
+TM-1095,K,Arava Home Appliances,part-890,16,N,,,2025-06-29
+TM-1096,G,Arava Home Appliances,part-508,2,N,,,
+TM-1097,K,Kinneret own crates,part-140,2,N,K15,,
+TM-1098,K,Arava Home Appliances,part-467,32,N,,2837000,
+TM-1099,G,Kinneret own crates,part-829,8,N,,1053000,
+TM-1100,K,Galil Dairies,part-411,1,Y,G04,,
+TM-1101,K,Yarden Beverages,part-110,4,Y,,,2025-05-08
+TM-1102,G,Yarden Beverages,part-213,48,Y,,,2026-09-07
+TM-1103,K,Other,part-714,2,N,K11,,2025-11-23
+TM-1104,K,Galil Dairies,part-782,32,Y,,,2026-03-20
+TM-1105,G,Galil Dairies,part-609,1,Y,,ידני,2025-01-21
+TM-1106,K,Yarden Beverages,part-423,2,Y,K04,ידני,
+TM-1107,K,Other,part-835,16,N,G05,,2026-04-25
+TM-1108,G,Arava Home Appliances,part-666,2,N,,ידני,
+TM-1109,K,Yarden Beverages,part-469,8,Y,,3073000,
+TM-1110,K,Galil Dairies,part-280,1,Y,,,
+TM-1111,G,Galil Dairies,part-319,8,Y,,962000,2026-03-12
+TM-1112,K,Yarden Beverages,part-913,16,Y,,,
+TM-1113,K,Galil Dairies,part-889,1,Y,K05,,
+TM-1114,G,Galil Dairies,part-672,8,Y,,,
+TM-1115,K,Other,part-425,4,N,,ידני,2025-11-10
+TM-1116,K,Galil Dairies,part-975,8,Y,G11,,
+TM-1117,G,Arava Home Appliances,part-500,16,Y,,ידני,
+TM-1118,K,Yarden Beverages,part-802,2,Y,,,
+TM-1119,K,Kinneret own crates,part-904,4,N,,,2026-11-24
+TM-1120,G,Kinneret own crates,part-178,48,N,,,2025-07-28
+TM-1121,K,Galil Dairies,part-170,8,Y,,ידני,
+TM-1122,K,Galil Dairies,part-534,1,Y,,ידני,
+TM-1123,G,Arava Home Appliances,part-875,8,N,,,
+TM-1124,K,Other,part-289,2,N,,ידני,
+TM-1125,K,Other,part-968,16,Y,,,2026-08-20
+TM-1126,G,Yarden Beverages,part-201,2,Y,,539000,
+TM-1127,K,Arava Home Appliances,part-974,1,Y,,,2026-02-06
+TM-1128,K,Other,part-352,48,N,,,2025-05-25
+TM-1129,G,Galil Dairies,part-718,2,Y,,,2026-12-02
+TM-1130,K,Galil Dairies,part-943,32,Y,,,
+TM-1131,K,Yarden Beverages,part-674,2,Y,,,
+TM-1132,G,Galil Dairies,part-442,16,Y,,,
+TM-1133,K,Yarden Beverages,part-150,1,Y,,,2025-02-18
+TM-1134,K,Arava Home Appliances,part-260,2,N,,,2026-03-05
+TM-1135,G,Yarden Beverages,part-230,8,Y,K07,708000,
+TM-1136,K,Kinneret own crates,part-711,1,Y,,ידני,2025-11-02
+TM-1137,K,Galil Dairies,part-943,2,Y,,,
+TM-1138,G,Arava Home Appliances,part-395,1,Y,,802000,
+TM-1139,K,Yarden Beverages,part-894,16,Y,G14,ידני,2025-03-02
+TM-1140,K,Arava Home Appliances,part-900,48,Y,,,
+TM-1141,G,Arava Home Appliances,part-143,48,N,,,
+TM-1142,K,Arava Home Appliances,part-176,4,N,G07,,
+TM-1143,K,Galil Dairies,part-648,2,Y,,,
+TM-1144,G,Galil Dairies,part-104,8,Y,,ידני,
+TM-1145,K,Arava Home Appliances,part-981,16,Y,,ידני,
+TM-1146,K,Yarden Beverages,part-304,8,Y,,2222000,2026-04-30
+TM-1147,G,Kinneret own crates,part-705,48,N,K21,2248000,
+TM-1148,K,Other,part-699,32,N,,1541000,
+TM-1149,K,Yarden Beverages,part-178,1,Y,,,2025-01-29
+TM-1150,G,Yarden Beverages,part-238,32,Y,K24,,2025-05-01
+TM-1151,K,Arava Home Appliances,part-936,1,N,,1532000,
+TM-1152,K,Galil Dairies,part-440,1,Y,,,2026-04-11
+TM-1153,G,Yarden Beverages,part-342,32,Y,,,
+TM-1154,K,Yarden Beverages,part-806,8,Y,,,
+TM-1155,K,Arava Home Appliances,part-441,2,Y,,2036000,
+TM-1156,G,Arava Home Appliances,part-627,4,N,K04,,2025-11-29
+TM-1157,K,Kinneret own crates,part-350,8,N,K17,942000,
+TM-1158,K,Other,part-207,4,N,,,2025-10-21
+TM-1159,G,Yarden Beverages,part-962,2,Y,K24,,2025-09-12
+TM-1160,K,Kinneret own crates,part-383,1,N,,,2025-01-08
+TM-1161,K,Arava Home Appliances,part-118,4,Y,,ידני,2025-07-10
+TM-1162,G,Yarden Beverages,part-691,2,Y,,ידני,
+TM-1163,K,Galil Dairies,part-229,16,Y,,,
+TM-1164,K,Galil Dairies,part-350,1,Y,,,
+TM-1165,G,Yarden Beverages,part-194,4,Y,,,
+TM-1166,K,Other,part-108,8,N,,,
+TM-1167,K,Kinneret own crates,part-215,16,N,,,
+TM-1168,G,Yarden Beverages,part-521,2,Y,,,
+TM-1169,K,Arava Home Appliances,part-675,16,N,,2169000,
+TM-1170,K,Kinneret own crates,part-618,4,N,K17,2666000,
+TM-1171,G,Arava Home Appliances,part-415,2,Y,,,
+TM-1172,K,Arava Home Appliances,part-890,32,Y,,2259000,
+TM-1173,K,Galil Dairies,part-651,2,Y,,,2026-04-12
+TM-1174,G,Galil Dairies,part-484,32,Y,,ידני,2025-12-11
+TM-1175,K,Yarden Beverages,part-316,4,Y,G07,1450000,
+TM-1176,K,Arava Home Appliances,part-928,8,N,,,
+TM-1177,G,Yarden Beverages,part-832,48,Y,,,
+TM-1178,K,Other,part-542,2,N,,,
+TM-1179,K,Yarden Beverages,part-406,1,Y,,ידני,
+TM-1180,G,Galil Dairies,part-442,4,Y,,3103000,2026-04-12
+TM-1181,K,Arava Home Appliances,part-858,8,N,,,
+TM-1182,K,Arava Home Appliances,part-311,16,N,,,
+TM-1183,G,Kinneret own crates,part-899,8,Y,,,2026-10-08
+TM-1184,K,Arava Home Appliances,part-306,4,Y,,3211000,2026-09-15
+TM-1185,K,Galil Dairies,part-737,8,Y,,2819000,
+TM-1186,G,Arava Home Appliances,part-787,8,N,,,2025-07-24
+TM-1187,K,Arava Home Appliances,part-395,1,N,,,
+TM-1188,K,Arava Home Appliances,part-255,16,Y,,,2025-03-26
+TM-1189,G,Arava Home Appliances,part-130,8,N,,ידני,
+TM-1190,K,Galil Dairies,part-797,2,Y,,3422000,
+TM-1191,K,Galil Dairies,part-210,1,Y,G13,962000,2025-01-13
+TM-1192,G,Other,part-228,2,N,,,
+TM-1193,K,Galil Dairies,part-291,2,Y,K15,ידני,
+TM-1194,K,Other,part-493,1,N,K06,,2025-12-17
+TM-1195,G,Arava Home Appliances,part-174,16,N,,ידני,
+TM-1196,K,Kinneret own crates,part-254,32,N,,1456000,2025-06-06
+TM-1197,K,Yarden Beverages,part-451,1,Y,,,2025-04-27
+TM-1198,G,Yarden Beverages,part-724,8,Y,,,2025-08-09
+TM-1199,K,Galil Dairies,part-632,8,Y,,1427000,2025-05-22
+TM-1200,K,Galil Dairies,part-275,32,Y,,,2026-06-09
+TM-1201,G,Galil Dairies,part-364,4,Y,,,2025-06-18
+TM-1202,K,Arava Home Appliances,part-880,4,Y,,1596000,
+TM-1203,K,Arava Home Appliances,part-414,8,Y,K09,ידני,
+TM-1204,G,Arava Home Appliances,part-505,8,Y,,,
+TM-1205,K,Arava Home Appliances,part-411,4,Y,,,
+TM-1206,K,Kinneret own crates,part-114,4,N,K12,,
+TM-1207,G,Other,part-702,8,Y,,,2025-02-01
+TM-1208,K,Other,part-539,1,N,,,2026-06-04
+TM-1209,K,Arava Home Appliances,part-246,4,Y,,ידני,2025-09-22
+TM-1210,G,Other,part-130,32,Y,,3440000,
+TM-1211,K,Kinneret own crates,part-929,1,N,,,
+TM-1212,K,Arava Home Appliances,part-104,8,N,,,
+TM-1213,G,Arava Home Appliances,part-947,4,N,,,2025-01-05
+TM-1214,K,Kinneret own crates,part-466,8,Y,,ידני,
+TM-1215,K,Kinneret own crates,part-597,8,N,,,
+TM-1216,G,Arava Home Appliances,part-565,48,N,,,
+TM-1217,K,Arava Home Appliances,part-111,16,Y,,,
+TM-1218,K,Galil Dairies,part-341,48,Y,,,
+TM-1219,G,Arava Home Appliances,part-971,1,Y,,,
+TM-1220,K,Other,part-230,32,Y,,ידני,
+TM-1221,K,Galil Dairies,part-873,2,Y,,,2026-09-14
+TM-1222,G,Galil Dairies,part-185,32,Y,,ידני,2025-01-22
+TM-1223,K,Arava Home Appliances,part-503,32,Y,,,
+TM-1224,K,Yarden Beverages,part-599,8,Y,,,2026-08-20
+TM-1225,G,Arava Home Appliances,part-907,4,Y,,960000,2026-05-20
+TM-1226,K,Arava Home Appliances,part-609,1,N,,,
+TM-1227,K,Galil Dairies,part-434,48,Y,,,
+TM-1228,G,Other,part-656,2,Y,,ידני,
+TM-1229,K,Arava Home Appliances,part-827,16,N,G08,,2025-01-10
+TM-1230,K,Yarden Beverages,part-188,2,Y,G04,,2025-11-10
+TM-1231,G,Kinneret own crates,part-454,16,N,,,

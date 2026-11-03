@@ -1,0 +1,93 @@
+- id: q1
+  question: >-
+    The KPI deck says the second plant repairs 1.6 times faster. Its figure runs from the call to
+    "ready"; the first plant's runs from stop to production restart. What is your first move?
+  options:
+    - >-
+      Ask the second plant's manager what has happened on the machine when someone writes "ready".
+    - >-
+      Recommend copying the second plant's repair process to the first plant.
+    - >-
+      Remove the slide from next month's deck until the plants agree on a definition.
+    - >-
+      Ask the vendor which definition its platform uses and adopt that one for both.
+  correct: 0
+  explanation: >-
+    The same-word test comes first: find out what event the word marks at each site, then measure both
+    on one definition. Copying a process or deleting the slide acts before you know what the numbers
+    mean, and the vendor's definition is irrelevant to the comparison.
+
+- id: q2
+  question: >-
+    You want to know whether the work orders could train a failure-prediction model. Which profile
+    result matters most for that use?
+  options:
+    - >-
+      That most work orders were written in Hebrew rather than in English.
+    - >-
+      That the failure code is blank or "other" on most breakdown work orders.
+    - >-
+      That the problem text is short, usually under ten words per work order.
+    - >-
+      That preventive work orders outnumber corrective ones in the export.
+  correct: 1
+  explanation: >-
+    A prediction model needs an outcome label: what failed. With the code blank or "other" on most
+    breakdowns there is no label to learn from. Language and text length can be handled; the mix of
+    work-order types is not the issue.
+
+- id: q3
+  question: >-
+    You join the second plant's SCADA alarms to production stops. Read as local time, almost none match;
+    read as UTC, nearly all do. What do you record?
+  options:
+    - >-
+      That the alarm system is unreliable and should be excluded from the analysis.
+    - >-
+      Nothing: you have found the right conversion, so the issue is solved.
+    - >-
+      The export's convention (month-first, UTC) as a finding, and the conversion rule.
+    - >-
+      That the production records at the second plant must be the ones in the wrong zone.
+  correct: 2
+  explanation: >-
+    A clock convention is part of the data's readiness: anyone who joins the files later will make the
+    same mistake unless it is written down. The alarms are not unreliable, and the evidence says the
+    production records are the consistent ones.
+
+- id: q4
+  question: >-
+    At 02:00 a technician mentions he follows the Arabic lockout procedure from the shared drive. You
+    later see it is an older revision without the accumulator step. When do you act?
+  options:
+    - >-
+      In the findings memo next week, with the other documentation issues.
+    - >-
+      After checking with the technician's manager whether it is really in use.
+    - >-
+      When the assistant pilot's knowledge pack is built, so translations are fixed once.
+    - >-
+      Today: tell the safety officer what you saw; the memo later reports what he did.
+  correct: 3
+  explanation: >-
+    A missing lockout step is a safety item and goes to its owner the same day. The memo records the
+    action. Waiting for the memo, a manager's confirmation or the pilot leaves the old procedure in use.
+
+- id: q5
+  question: >-
+    Night technicians photograph manual pages and ask a free chatbot on their phones; one answer burnt a
+    heater. How does this go into your findings memo?
+  options:
+    - >-
+      As a fact about missing support at night, without names, with the incident as evidence.
+    - >-
+      As a policy breach, with the technicians' ids so HR can follow up.
+    - >-
+      Left out, because the technicians told you in confidence during the night shift.
+    - >-
+      As proof that AI is unsafe on the floor and should not be piloted at all.
+  correct: 0
+  explanation: >-
+    Shadow AI tells you what the work needs that the organization does not provide. Naming people breaks
+    the trust you need; leaving it out hides a real risk; and one bad answer from an untested tool is not
+    evidence against a tested one.

@@ -1,0 +1,13 @@
+qid,behaviour,answer,sources,input_tokens,output_tokens
+N01,answer,"MAN-KX · Kessler KX / KX-e injection moulding machines — operation and maintenance manual (extract) ## Safety gate daily test  Every shift: open the front safety gate during a dry cycle. All movement must stop at once. Record the test in the machine log. If any movement continues, lock out the machine and call maintenance.",MAN-KX,0,0
+N02,answer,"SOP-LOTO-01 · נוהל נעילה ותיוג (LOTO) למכונות הזרקה ## מטרה  לוודא שאף אנרגיה (חשמל, הידראוליקה, אוויר, חום) לא תשתחרר בזמן עבודה בתוך המכונה או אזור התבנית.",SOP-LOTO-01 rev D,0,0
+N03,answer,SOP-LOTO-01 · إجراء القفل والوسم (LOTO) لماكينات الحقن ## إزالة القفل  فقط من وضع القفل يزيله.,SOP-LOTO-01 rev D,0,0
+N04,answer,"SOP-ESC-07 · נוהל הסלמה במשמרת לילה ## סדר פנייה  1. טכנאי כונן בכיר (לפי לוח הכוננויות על לוח המודעות במשרד האחזקה). 2. מנהל האחזקה: רק אם לא השגת את הכונן תוך 15 דקות, או באירוע בטיחות. 3. אירוע בטיחות: גם ממונה הבטיחות, יעקב דהן.",SOP-ESC-07 rev C,0,0
+N05,answer,,,0,0
+N06,answer,"MAN-KX · Kessler KX / KX-e injection moulding machines — operation and maintenance manual (extract) ## KX-e condition monitoring (2024 supplement)  The KX-e records oil temperature, pump pressure (95th percentile per hour), motor vibration (mm/s RMS) and accumulator minimum pressure. The machine shows a yellow warning when motor vibration exceeds 4.5 mm/s for more than one hour, and a red warning above 7.1 mm/s. Warnings are shown on the machine screen only; they are sent to a historian only if the customer connects one.",MAN-KX,0,0
+N07,answer,"SOP-LOTO-01 · נוהל נעילה ותיוג (LOTO) למכונות הזרקה ## הסרת נעילה  רק מי ששם את המנעול מסיר אותו. לפני הסרה: כל הכלים מחוץ למכונה, כל המגנים סגורים, ראש המשמרת עודכן.",SOP-LOTO-01 rev D,0,0
+N08,answer,,,0,0
+N09,answer,SOP-HR-03 · נוהל תגובה ראשונה לתקלת הוט ראנר ## הפעלה אחרי עצירה ארוכה  אל תדלג על חימום רך (Soft start) של הבקר: 20 דקות ב-100 מעלות.,SOP-HR-03 rev B,0,0
+N10,answer,"MAN-KX · Kessler KX / KX-e injection moulding machines — operation and maintenance manual (extract) ## Accumulator (KX 450 and above, all KX-e)  The hydraulic accumulator is pre-charged with nitrogen to 120 bar at 20 °C. Check the pre-charge every 6 months with the charging kit. Before any work on the hydraulic circuit or inside the clamp area, open the accumulator discharge valve and verify 0 bar on gauge PG-3. A charged accumulator can move the clamp with the motor switched off.",MAN-KX,0,0
+N11,answer,,,0,0
+N12,answer,"SOP-LOTO-01 · נוהל נעילה ותיוג (LOTO) למכונות הזרקה ## הסרת נעילה  רק מי ששם את המנעול מסיר אותו. לפני הסרה: כל הכלים מחוץ למכונה, כל המגנים סגורים, ראש המשמרת עודכן.",SOP-LOTO-01 rev D,0,0

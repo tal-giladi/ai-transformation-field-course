@@ -1,0 +1,189 @@
+- id: q1
+  question: >-
+    The owner of a factory names you, his operations-excellence manager, to lead "predictive maintenance
+    with AI". You built the KPI deck he quotes. What goes into your mandate that a consultant's would not need?
+  options:
+    - >-
+      A clause that your own reports are excluded from the audit to avoid a conflict.
+    - >-
+      A request that the owner stop quoting the deck until the project has finished.
+    - >-
+      That your own data is audited like everyone else's, and someone else checks your numbers.
+    - >-
+      A statement that you will report only to the owner, bypassing your usual manager.
+  correct: 2
+  explanation: >-
+    An internal lead is not neutral, and saying so first is what makes later findings credible.
+    Excluding your reports hides a likely problem; silencing the owner or bypassing the sponsor costs
+    the support the work needs.
+
+- id: q2
+  question: >-
+    The deck says "breakdowns are the number one loss — and they can be predicted". The footnote says
+    breakdowns include mould problems. What is the first analysis?
+  options:
+    - >-
+      Split unplanned hours by reason and shift, separating moulds from machine faults.
+    - >-
+      Ask the vendor which share of breakdowns its platform predicted at other customers.
+    - >-
+      Count how many machines have sensors, since prediction depends on them.
+    - >-
+      Survey technicians on which machines they think break most often.
+  correct: 0
+  explanation: >-
+    Split the loss before you explain it. If moulds are half the hours and machine-mounted sensors cannot
+    see them, the claim fails on its own data. Vendor figures, sensor counts and opinions come after you
+    know where the hours go.
+
+- id: q3
+  question: >-
+    Two plants report repair time. One measures to "ready" (technician hands back), the other to
+    production restart. On one definition they are the same. Who hears this first?
+  options:
+    - >-
+      The owner, since he praised the faster plant in the management meeting.
+    - >-
+      The faster plant's manager, before anyone else, with the method shown.
+    - >-
+      The vendor, since it planned to start its pilot at the faster plant.
+    - >-
+      Nobody yet: keep it for the readout so the finding has more impact.
+  correct: 1
+  explanation: >-
+    Show the person whose number changes first, with the method, so he can check it and is not
+    surprised in public. Taking it to the owner or the vendor first, or holding it for effect, turns a
+    definition problem into a blame problem.
+
+- id: q4
+  question: >-
+    Breakdown work orders: failure code blank or "other" on 86%, "fixed" as the only action on 43%,
+    most closed at shift change. The vendor needs 30 failures per mode. What is the verdict?
+  options:
+    - >-
+      Proceed: the vendor's learning period will compensate for the missing codes.
+    - >-
+      No: the company's maintenance culture makes AI impossible here.
+    - >-
+      Proceed at one plant only, where the manager says the data is ready.
+    - >-
+      Not yet: the criteria, the funded work that meets them, and a re-decision date.
+  correct: 3
+  explanation: >-
+    "Not yet" with criteria and a date is a decision; "no" is a veto the owner will go around. The
+    learning period needs someone to label alerts, which nobody can, and the "ready" plant's records
+    were contradicted by the data.
+
+- id: q5
+  question: >-
+    The CFO says an hour of downtime loses ₪310 only on fully loaded jobs, about 40% of hours; the rest
+    is recovered with overtime. The vendor values every hour at revenue. How do you net the vendor?
+  options:
+    - >-
+      At the vendor's own best claim, using the CFO's blended cost of an hour.
+    - >-
+      At your own conservative estimate, so the case is safe from criticism.
+    - >-
+      At the vendor's revenue-per-hour figure, since that is what the owner saw.
+    - >-
+      Not at all: a platform that cannot start until 2028 needs no netting.
+  correct: 0
+  explanation: >-
+    Netting at the vendor's own best figure with finance's cost of an hour removes any argument about
+    your pessimism. Your own estimate invites a fight, the revenue figure overstates, and skipping the
+    netting leaves the owner without the comparison he needs.
+
+- id: q6
+  question: >-
+    The new failure recording puts technician ids on records. The works committee's agreement forbids
+    individual monitoring without agreement. Which design satisfies both the data need and the workers?
+  options:
+    - >-
+      Record without technician ids, so no personal data is created at all.
+    - >-
+      Record with ids, and promise orally that nobody will look at individuals.
+    - >-
+      Record with ids; a signed protocol bars per-person reports and discipline from them.
+    - >-
+      Record with ids and give each technician a monthly report on their own repairs.
+  correct: 2
+  explanation: >-
+    A work order needs to know who did the work, but the purpose can be limited in writing, which is what
+    the agreement and the monitoring principles ask for. Dropping ids breaks the record; an oral promise
+    is not a protocol; personal monthly reports are the monitoring the committee fears.
+
+- id: q7
+  question: >-
+    Night technicians follow an Arabic lockout procedure from the shared drive that lacks a step the
+    current Hebrew one has. You are building a manual assistant. What goes into its knowledge pack?
+  options:
+    - >-
+      Both versions, so technicians can compare them and choose.
+    - >-
+      Only the Hebrew one, with the assistant translating it on the fly.
+    - >-
+      The old Arabic one, since it is the one technicians already know.
+    - >-
+      An approved translation of the current revision, owned by the safety officer.
+  correct: 3
+  explanation: >-
+    Safety instructions must be current and in a language the worker understands; an approved,
+    owned translation of the current revision meets both. Mixing versions invites the old one,
+    on-the-fly translation of a safety procedure is unapproved, and familiarity is not correctness.
+
+- id: q8
+  question: >-
+    Word-matching search over the pack answers 28% right; most failures are Arabic and Russian
+    questions against English manuals and Hebrew procedures. What does that tell you about using an LLM?
+  options:
+    - >-
+      Its value is reading across languages; test it per language.
+    - >-
+      Search is broken and should be fixed before an LLM is even considered.
+    - >-
+      An LLM is not needed: technicians should learn to search in English.
+    - >-
+      The pack is too small; add the whole drive so search finds more matches.
+  correct: 0
+  explanation: >-
+    The baseline shows where an LLM adds something real: answering in the technician's language from
+    documents in other languages. Expecting technicians to search in English ignores the workforce, and
+    adding the whole drive brings back the outdated procedures.
+
+- id: q9
+  question: >-
+    The assistant's first prompt passes overall accuracy but, asked about raising a blocked hot-runner
+    tip to 300 °C, states the limit without telling the technician to stop and call tooling. Now what?
+  options:
+    - >-
+      Accept it, since the answer contained the correct limit from the mould card.
+    - >-
+      Treat it as a failed safety-route gate: fix the rule on dev, re-score test once.
+    - >-
+      Lower the safety-route gate to 95% so one miss does not block the pilot.
+    - >-
+      Remove the question from the test set because it was ambiguous.
+  correct: 1
+  explanation: >-
+    A proposal to exceed a limit must be routed: stop, keep it safe, call the owner. One miss on a
+    safety route fails the gate. Fix the prompt on dev, then score test once; lowering the gate or
+    dropping the question after the result defeats the point of gates.
+
+- id: q10
+  question: >-
+    At the management meeting the owner accepts "not yet" for the vendor. Which decision-record entry
+    best protects the foundation from being cut later?
+  options:
+    - >-
+      "Vendor declined; AI to be reconsidered when the data is ready."
+    - >-
+      "Foundation approved; details to be worked out by maintenance and IT."
+    - >-
+      "Assistant approved; foundation funded if the assistant proves successful."
+    - >-
+      "Foundation staged, owned, with gates; re-decision January 2028 on set criteria."
+  correct: 3
+  explanation: >-
+    Owners, gates, a stop rule and a dated re-decision with criteria make the foundation the deliverable.
+    "When the data is ready" has no date; "details to be worked out" has no owner; tying the foundation
+    to the assistant's success funds the visible half and leaves the records optional.

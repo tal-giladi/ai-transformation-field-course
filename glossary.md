@@ -21,8 +21,10 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Altitude problem** — Adoption looks better the higher you ask, because managers see screens and dashboards rather than the work (lesson 06.4).
 - **Ambient scribe** — A tool that listens to a clinical conversation and drafts the visit note for the clinician to check, edit and sign; the signed note stays the clinician's (lesson 10.1).
 - **Answer first** — Opening a memo with the answer to the sponsor's question, the number that carries it and the recommended decision, in three sentences (lesson 02.7).
+- **Asset crosswalk** — The table that maps one physical asset to its ids in every system (maintenance, MES, historian, alarms), built on something stable such as the serial number (lesson 13.2).
 - **Attribution rule** — The promise, made at the start of an interview and kept, about how what the person says will be reported (for example "the support team said", never their name) (lesson 02.2).
 - **Automate / assist / augment / leave alone** — The four modes of change, decided by who does the work afterwards: no person per item, a person deciding each item, a person gaining a new capability, or no change (lesson 03.1).
+- **Back-coding** — Classifying old free-text records into categories after the fact, by rules or an LLM; it recovers what was written (a component), never what was not (the failure mode) (lesson 13.5).
 - **Billed resolution** — The unit a per-outcome AI vendor charges for, defined in its contract; compare prices only after reading what each vendor counts (lesson 08.4).
 - **Billing type** — How a matter is charged (hourly, capped, fixed fee, retainer); it decides whether time saved by AI becomes lost fees, margin or capacity (lesson 12.3).
 - **Blameless review** — An incident review that looks for contributing causes without indicting anyone and whose actions change controls, with owners and dates (lesson 07.5).
@@ -54,8 +56,10 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Customer's share** — The part of an efficiency gain a client takes back at renewal through lower prices, priced into the business case rather than discovered afterwards (lesson 12.3).
 - **Data boundary** — One page per approved AI tool stating what data enters, where it travels, who sees it, whether the vendor trains on it, how long it stays and what happens at exit (lesson 04.3).
 - **Data class** — One of five labels (public, internal, confidential business, personal, highly sensitive) that decide which AI tools a piece of information may go into; a record takes the highest class of anything in it (lesson 04.2).
+- **Data foundation** — The funded, owned work that makes a later AI decision possible (register, recording, sensors, a true parts view), with gates and closing evidence; the deliverable behind a "not yet" (lesson 13.4).
 - **Data gate** — The pass-or-fail check that a candidate's data is reachable, trusted, lawful for the purpose and, where outcomes matter, labelled (lesson 03.3).
 - **Data profile** — A one-page check of whether a dataset can carry a named AI use: completeness, label, duplicates, currency, representativeness, joinability, chain of custody and a verdict (lesson 02.5).
+- **Data-readiness audit** — A repeatable profile of the records an AI use needs, with fixed definitions and a verdict per dataset and use, re-run monthly as the foundation's progress measure (lesson 13.5).
 - **Data-room first read** — The day-one record of every file's provenance, what is missing, and each narrative number's status (lesson 01.5).
 - **Decision block** — The three lines at the top of every steering document: the decision it supports, who can stop the work, and what a "no" means (lesson 07.1).
 - **Decision point** — A dated decision by a named person, placed in a plan where the evidence for it will exist, instead of a solution chosen in advance (lesson 01.4).
@@ -77,6 +81,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Exitable phase** — A priced part of an engagement with its own deliverables and acceptance criteria, after which the client can stop and keep everything delivered (lesson 01.1).
 - **Expansion** — A new request that fails any of the five refinement questions and therefore goes through a change request (lesson 01.3).
 - **Expected error cost** — Items a month × error rate × cost per error, netted from a candidate's benefit before its value is rated (lesson 03.4).
+- **Failure mode** — What was observed to fail (leaking, no output, abnormal vibration), recorded separately from the component and from the cause; the field a prediction model learns from (lesson 13.2).
 - **Fast screen** — Seven one-sentence questions per candidate, a pass-or-fail data gate and a verdict of go, go with a condition, or stop, run before any scoring (lesson 03.3).
 - **First 72 hours** — The items that make a yes executable within three working days: written decision, money released, team told by its manager, conditions with owners and dates (lesson 07.8).
 - **Four ledgers** — The sponsor's team, the receiving team, control capacity (review labour) and the customer's share; every claimed benefit is netted across them (lesson 03.7).
@@ -97,6 +102,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Integration check** — A side-by-side reading of deliverables that logs every contradiction between them and traces each human control to a cost line and each claim's timing to readiness and the roadmap (lesson 07.1).
 - **Intended purpose** — What a product's maker says it is for, in its labelling and marketing; for software in healthcare it decides whether the product is treated as a medical device (lesson 10.4).
 - **Interim AI rule** — A short rule issued within days of the census, covering the data that may not go into unapproved tools, an approved alternative with a date, and an amnesty for past use (lesson 01.6).
+- **Internal lead with a day job** — An employee picked to lead AI work while keeping their role, with access and credibility but not neutrality, because some of the data under audit is their own (lesson 13.1).
 - **Issues log** — The champions' record of what goes wrong, one row per problem with an example, each with a decision, an owner and the date the team was told (lesson 06.3).
 - **Job aid** — The one-page reference kept beside the screen: the rule, the checks, the marks, the stop conditions and where to get help (lesson 06.2).
 - **Knowledge pack** — The approved set of documents an assistant may answer from, each with an owner and an effective date, in every language it serves (lesson 11.5).
@@ -149,11 +155,13 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Qualified event** — The logged event that shows the tool entered the real work (at Harbor & Pine, a draft inserted into a reply), as opposed to events that fire by themselves (lesson 06.4).
 - **Qualified-use rate** — People with enough qualified events in the window divided by the opportunity-aware population (lesson 06.4).
 - **Quiet non-adoption** — People who used a tool, stopped, and kept working without it, unseen by "active user" counts; read as who, when, where and back to what (lesson 06.4).
+- **Re-decision date** — The dated meeting, with criteria written in advance, at which a "not yet" is decided again (lesson 13.4).
 - **Read-back** — Repeating the sponsor's objective to them in their own words and recording that they confirmed or corrected it (lesson 01.2).
 - **Readiness assessment** — A dated judgment, per use case, of whether the work, data, owners, people, governance, measurement and technology around it are ready, ending in proceed, phase or not yet (lesson 02.6).
 - **Realisation** — Fees billed divided by worked value (hours × standard rates); below 100% means time was written off or a fixed fee was overrun (lesson 12.3).
 - **Receiving team** — The people who absorb work a program moves or creates, often outside the team in scope and missing from the org chart's view of the project (lesson 02.1).
 - **Recommend-against** — A recommendation not to do something the sponsor or the CEO wants, placed on the front page of the readout with its evidence (lesson 08.6).
+- **Recording protocol** — A signed agreement with workers' representatives on how new work records may and may not be used (no individual performance reports, no discipline, languages, training) before recording starts (lesson 13.4).
 - **Refinement** — A new request that serves the same objective, users, data and deliverable and fits the agreed time and money; done inside the phase without a change request (lesson 01.3).
 - **Regulatory clock** — A cycle time defined by a regulator's deadline (here, from a complete file to the decision notice), worth reporting for compliance but not a measure of the customer's experience (lesson 09.3).
 - **Regulatory map** — A one-page table of which instrument applies to which AI use, in which role (actor), with which obligation, from which date, at which status and on which checked source (lesson 04.6).
@@ -163,6 +171,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Restricted use** — An AI use that needs the review group's decision or that nobody may do, recorded with the reason and who may lift it (lesson 04.2).
 - **Retirement criteria** — Checkable conditions, written when a service goes live, under which it will be retired (lesson 07.6).
 - **Run-to-run variation** — Different outputs from a generative tool for the same input, which is why a proof of concept runs each item more than once and a pilot audits real outputs (lesson 10.4).
+- **Safety route** — An assistant behaviour that stops, keeps the situation safe and sends the person to a named role or procedure instead of answering; scored as its own 100% gate (lesson 13.5).
 - **Same-word test** — Asking each role what has happened when a shared word such as "resolved" or "ready" is true and what it excludes, then recording the competing readings and the one the work will use (lesson 02.2).
 - **Scope boundary** — The written list of what a phase includes, excludes and only reads, each line with a reason, acknowledged by the people who can change it (lesson 01.3).
 - **Scope test** — One sentence, derived from the objective, that every inclusion and exclusion in the scope boundary must answer to (lesson 01.3).
@@ -196,6 +205,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Two-reader check** — Giving the front page to a finance reader and a sponsor for one minute each and fixing whatever they cannot find (lesson 03.9).
 - **Two-sentence test** — For each stakeholder, one sentence on what they need to call the program a win and one on what they risk; if you cannot write both from evidence, you write "to learn" (lesson 02.1).
 - **Unsure-marking** — A scribe's flag on a passage it is not confident about, which the clinician must confirm before signing (lesson 10.4).
+- **Usable label** — A breakdown record that names its failure mode and can be tied to the stop it caused; the count that decides whether prediction is possible (lesson 13.5).
 - **Usable reason** — A refusal that names the condition not met, the document that would meet it and the route to object, in the applicant's language (lesson 11.2).
 - **Verified / reported / contradicted** — The three evidence statuses in a readiness assessment: checked against data you hold or seen yourself, said but not checked, or contradicted by data you hold (lesson 02.6).
 - **Walkable on paper** — A process whose steps, owner per step, trigger and volume can all be written down; one that is not is "not yet a candidate" for automation or AI (lesson 02.3).

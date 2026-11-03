@@ -1,0 +1,28 @@
+path,doc_id,language,revision,last_modified,size_kb,copy_in_data_room
+\\kp-fs01\maintenance\manuals\MAN-CHL-en.pdf,MAN-CHL,en,2016,2019-06-03,3289,docs/MAN-CHL-en.md
+\\kp-fs01\maintenance\manuals\MAN-DRY-en.pdf,MAN-DRY,en,2014,2019-06-03,3198,docs/MAN-DRY-en.md
+\\kp-fs01\maintenance\manuals\MAN-HRC-en.pdf,MAN-HRC,en,"Rev. 3, 2020",2019-06-03,4070,docs/MAN-HRC-en.md
+\\kp-fs01\maintenance\manuals\MAN-HW-en.pdf,MAN-HW,en,HW 2006; HW-3 2016,2019-06-03,1929,docs/MAN-HW-en.md
+\\kp-fs01\maintenance\manuals\MAN-KX-en.pdf,MAN-KX,en,Ed. 2019; KX-e supplement 2024,2019-06-03,3818,docs/MAN-KX-en.md
+\\kp-fs01\maintenance\manuals\MAN-MP-en.pdf,MAN-MP,en,Ed. 2008,2019-06-03,3354,docs/MAN-MP-en.md
+\\kp-fs01\maintenance\manuals\haiwei\HW_service_bulletin_2014.pdf,,en,,2014-05-20,210,
+\\kp-fs01\maintenance\manuals\morandi\Manuale_MP_italiano.pdf,,it,,2008-01-15,18400,
+\\kp-fs01\maintenance\parts\old\רשימת חלקים 2022.xlsx,,he,,2022-11-02,380,
+\\kp-fs01\maintenance\parts\רשימת חלקים - מעודכן.xlsx,,he,,2025-03-16,412,parts/parts-list-shared-drive.csv
+\\kp-fs01\maintenance\photos\K07 הידראוליקה 2021\,,,,2021-08-09,52000,
+\\kp-fs01\maintenance\procedures\SOP-DRY-06-he-revA.pdf,SOP-DRY-06,he,A,2021-11-21,3476,docs/SOP-DRY-06-he-revA.md
+\\kp-fs01\maintenance\procedures\SOP-ESC-07-he-revC.pdf,SOP-ESC-07,he,C,2025-03-30,1484,docs/SOP-ESC-07-he-revC.md
+\\kp-fs01\maintenance\procedures\SOP-GATE-08-he-revA.pdf,SOP-GATE-08,he,A,2022-04-03,616,docs/SOP-GATE-08-he-revA.md
+\\kp-fs01\maintenance\procedures\SOP-HR-03-he-revB.pdf,SOP-HR-03,he,B,2024-06-02,766,docs/SOP-HR-03-he-revB.md
+\\kp-fs01\maintenance\procedures\SOP-LOTO-01-ar-revB.pdf,SOP-LOTO-01,ar,B,2019-02-03,910,docs/SOP-LOTO-01-ar-revB.md
+\\kp-fs01\maintenance\procedures\SOP-LOTO-01-he-revD.pdf,SOP-LOTO-01,he,D,2023-05-14,1884,docs/SOP-LOTO-01-he-revD.md
+\\kp-fs01\maintenance\procedures\SOP-LOTO-01-ru-revA.pdf,SOP-LOTO-01,ru,A,2016-09-01,2289,docs/SOP-LOTO-01-ru-revA.md
+\\kp-fs01\maintenance\procedures\SOP-MC-02-he-revC.pdf,SOP-MC-02,he,C,2024-02-11,1527,docs/SOP-MC-02-he-revC.md
+\\kp-fs01\maintenance\procedures\SOP-OIL-05-he-revA.pdf,SOP-OIL-05,he,A,2017-03-12,2123,docs/SOP-OIL-05-he-revA.md
+\\kp-fs01\maintenance\procedures\SOP-OIL-05-he-revB.pdf,SOP-OIL-05,he,B,2024-01-07,2421,docs/SOP-OIL-05-he-revB.md
+\\kp-fs01\maintenance\procedures\SOP-PURGE-04-he-revB.pdf,SOP-PURGE-04,he,B,2022-09-18,2939,docs/SOP-PURGE-04-he-revB.md
+\\kp-fs01\maintenance\procedures\oil\נוהל שמן ישן.pdf,SOP-OIL-05,he,A,2017-03-12,88,docs/SOP-OIL-05-he-revA.md
+\\kp-fs01\maintenance\procedures\translations\LOTO_arabic.pdf,SOP-LOTO-01,ar,B,2019-02-03,96,docs/SOP-LOTO-01-ar-revB.md
+\\kp-fs01\maintenance\procedures\translations\LOTO_russian.doc,SOP-LOTO-01,ru,A,2016-09-01,54,docs/SOP-LOTO-01-ru-revA.md
+\\kp-fs01\maintenance\vladi\לוח כוננויות 2026.xlsx,,he,,2026-12-28,44,
+\\kp-fs01\maintenance\vladi\סיכום תקלות 2015.xls,,he,,2016-01-10,120,

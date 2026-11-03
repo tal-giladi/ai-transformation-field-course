@@ -1,0 +1,93 @@
+- id: q1
+  question: >-
+    The CEO and owner announced "predictive maintenance with AI" at the annual meeting and asks you for
+    a start date with the vendor. It is your first week. What do you send him?
+  options:
+    - >-
+      A rollout plan for the vendor's platform, starting with the plant manager who volunteered.
+    - >-
+      A short note: the problem you are aiming at, the date of your recommendation, nothing signed.
+    - >-
+      A memo explaining that the data is probably not ready for any kind of AI yet.
+    - >-
+      A request to postpone the vendor's presentation until after your discovery work.
+  correct: 1
+  explanation: >-
+    He keeps his idea while you test it, and he knows when he gets an answer. A rollout plan accepts the
+    conclusion; "the data isn't ready" on day one is a verdict you have not earned; asking to cancel the
+    vendor turns it into a fight with the owner.
+
+- id: q2
+  question: >-
+    The December deck that compares repair times across the two plants was built by your own team. What
+    belongs in your mandate about that?
+  options:
+    - >-
+      Nothing: the deck is a standard monthly report and outside the project's scope.
+    - >-
+      A note that earlier reports are excluded so the project starts from clean data.
+    - >-
+      That your own team's data is audited like everyone else's, and someone else checks it.
+    - >-
+      That the plant managers must sign off every number before you use it.
+  correct: 2
+  explanation: >-
+    An internal lead is not neutral. Saying first that your own slide is under audit is what makes the
+    rest of the findings credible. Excluding your reports hides a likely problem; plant-manager sign-off
+    turns discovery into negotiation.
+
+- id: q3
+  question: >-
+    You are scoping the work. The ask says "machines". The tooling department owns 231 moulds that have
+    no id in the maintenance system. What do you do with moulds?
+  options:
+    - >-
+      Keep them in scope, because the scope follows the downtime you are explaining.
+    - >-
+      Leave them out, because the CEO asked about machines and the vendor monitors machines.
+    - >-
+      Leave them out for now and add them in a second phase if the budget allows.
+    - >-
+      Ask the tooling manager to start his own project so the two do not mix.
+  correct: 0
+  explanation: >-
+    Scoping by asset type can scope out the cause. Scope by the loss you are trying to explain: if moulds
+    turn out to be a large share of unplanned downtime, a machines-only scope would have hidden it.
+
+- id: q4
+  question: >-
+    On day three, browsing the safety register, you notice that a crane's statutory examination date has
+    passed. Your mandate says you report on 23 March. What do you do?
+  options:
+    - >-
+      Add it to the findings memo so it reaches management with the rest of the evidence.
+    - >-
+      Email the plant manager and ask whether the date in the register is a typing error.
+    - >-
+      Check the crane yourself and decide whether it is safe to keep using it.
+    - >-
+      Tell the safety officer and the plant manager the same day; report later what was done.
+  correct: 3
+  explanation: >-
+    A safety finding is escalated at once to the people who own it; the readout reports the action. You
+    are not the examiner and cannot judge the crane, and an email question leaves it in use while you
+    wait.
+
+- id: q5
+  question: >-
+    The works committee wrote that workers heard about "an AI that watches machines and people". The
+    vendor wants to visit the floor next week. Who do you meet first?
+  options:
+    - >-
+      The vendor, so you can tell the committee exactly what the system does.
+    - >-
+      The committee chair, before any visit, with HR present so agreements can be written.
+    - >-
+      Nobody: the project is at discovery stage and there is nothing to consult on yet.
+    - >-
+      The CEO, so he can reassure the committee personally at the next town hall.
+  correct: 1
+  explanation: >-
+    The local agreement asks for consultation before new technology that changes work, and the committee
+    has already written. Meeting it early, with HR so commitments can be recorded, avoids repeating the
+    2025 tablets story; a vendor visit first confirms the fear.

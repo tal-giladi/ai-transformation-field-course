@@ -1,0 +1,54 @@
+asset_id,description,class,maker,model,serial,year,tonnage,location,mes_code,condition_monitoring,criticality,status
+KN-IM-01,מכונת הזרקה Haiwei HW-200,IMM,Haiwei,HW-200,HA2000-5111,2000,200,אולם A / 1,K01,,,פעיל
+KN-IM-02,מכונת הזרקה Haiwei HW-240,IMM,Haiwei,HW-240,HA2001-4030,2001,240,אולם A / 2,K02,,,פעיל
+KN-IM-03,מכונת הזרקה Haiwei HW-280,IMM,Haiwei,HW-280,HA2002-2949,2002,280,אולם A / 3,K03,,,פעיל
+KN-IM-04,מכונת הזרקה Haiwei HW-160,IMM,Haiwei,HW-160,HA2003-1868,2003,160,אולם A / 4,,,,פעיל
+KN-IM-05,מכונת הזרקה Haiwei HW-200,IMM,Haiwei,HW-200,HA2004-9787,2004,200,אולם A / 5,,,,פעיל
+KN-IM-06,מכונת הזרקה Haiwei HW-240,IMM,Haiwei,HW-240,HA2005-8706,2005,240,אולם A / 6,,,,פעיל
+KN-IM-07,מכונת הזרקה Haiwei HW-280,IMM,Haiwei,HW-280,HA2006-7625,2006,280,אולם A / 7,,,,פעיל
+KN-IM-08,מכונת הזרקה Haiwei HW-160,IMM,Haiwei,HW-160,HA2007-6544,2007,160,אולם A / 8,,,,פעיל
+KN-IM-09,מכונת הזרקה Kessler KX 650,IMM,Kessler,KX 650,KE2009-5463,2009,650,אולם A / 9,K09,,,פעיל
+KN-IM-10,מכונת הזרקה Kessler KX 250,IMM,Kessler,KX 250,KE2010-4382,2010,250,אולם A / 10,K10,,,פעיל
+KN-IM-11,מכונת הזרקה Kessler KX 350,IMM,Kessler,KX 350,KE2011-3301,2011,350,אולם A / 11,,,,פעיל
+KN-IM-12,מכונת הזרקה Kessler KX 450,IMM,Kessler,KX 450,KE2012-2220,2012,450,אולם A / 12,,,,פעיל
+KN-IM-13,מכונת הזרקה Kessler KX 550,IMM,Kessler,KX 550,KE2013-1139,2013,550,אולם A / 13,,,,פעיל
+KN-IM-14,מכונת הזרקה Kessler KX 650,IMM,Kessler,KX 650,KE2014-9058,2014,650,אולם B / 14,,,,פעיל
+KN-IM-15,מכונת הזרקה Kessler KX 250,IMM,Kessler,KX 250,KE2015-7977,2015,250,אולם B / 15,K15,,,פעיל
+KN-IM-16,מכונת הזרקה Kessler KX 350,IMM,Kessler,KX 350,KE2016-6896,2016,350,אולם B / 16,,,,פעיל
+KN-IM-17,מכונת הזרקה Kessler KX 450,IMM,Kessler,KX 450,KE2017-5815,2017,450,אולם B / 17,,,,פעיל
+KN-IM-18,מכונת הזרקה Kessler KX 550,IMM,Kessler,KX 550,KE2018-4734,2018,550,אולם B / 18,,,,פעיל
+KN-IM-19,מכונת הזרקה Kessler KX 650,IMM,Kessler,KX 650,KE2019-3653,2019,650,אולם B / 19,,,,פעיל
+KN-IM-20,מכונת הזרקה Kessler KX 250,IMM,Kessler,KX 250,KE2020-2572,2020,250,אולם B / 20,,,,פעיל
+KN-IM-21,מכונת הזרקה Kessler KX-e 450,IMM,Kessler,KX-e 450,KE2024-1491,2024,450,אולם B / 21,K21,כן,,פעיל
+KN-IM-22,מכונת הזרקה Kessler KX-e 550,IMM,Kessler,KX-e 550,KE2024-9410,2024,550,אולם B / 22,K22,כן,,פעיל
+KN-IM-23,מכונת הזרקה Kessler KX-e 650,IMM,Kessler,KX-e 650,KE2024-8329,2024,650,אולם B / 23,K23,כן,,פעיל
+KN-IM-24,מכונת הזרקה Haiwei HW-3 220,IMM,Haiwei,HW-3 220,HA2016-7248,2016,220,אולם B / 24,,,,פעיל
+KN-IM-25,מכונת הזרקה Haiwei HW-3 280,IMM,Haiwei,HW-3 280,HA2016-6167,2016,280,אולם B / 25,,,,פעיל
+KN-IM-26,מכונת הזרקה Haiwei HW-3 320,IMM,Haiwei,HW-3 320,HA2016-5086,2016,320,אולם B / 26,,,,פעיל
+KN-DR-01,מייבש DryMax DM-150,DRYER,DryMax,DM-150,,2013,,,,,,פעיל
+KN-DR-02,מייבש DryMax DM-150,DRYER,DryMax,DM-150,,2014,,,,,,פעיל
+KN-DR-03,מייבש DryMax DM-150,DRYER,DryMax,DM-150,,2015,,,,,,פעיל
+KN-DR-04,מייבש DryMax DM-150,DRYER,DryMax,DM-150,,2016,,,,,,פעיל
+KN-DR-05,מייבש DryMax DM-150,DRYER,DryMax,DM-150,,2017,,,,,,פעיל
+KN-DR-06,מייבש DryMax DM-150,DRYER,DryMax,DM-150,,2018,,,,,,פעיל
+KN-CH-01,צ'ילר ArcticFlow AC-40,CHILLER,ArcticFlow,AC-40,,2016,,,,,,פעיל
+KN-CH-02,צ'ילר ArcticFlow AC-40,CHILLER,ArcticFlow,AC-40,,2017,,,,,,פעיל
+KN-CH-03,צ'ילר ArcticFlow AC-40,CHILLER,ArcticFlow,AC-40,,2018,,,,,,פעיל
+KN-CP-01,מדחס + מכל אוויר 2000 ל',COMPRESSOR,AirTec,AT-55,,2016,,,,,,פעיל
+KN-CP-02,מדחס + מכל אוויר 2000 ל',COMPRESSOR,AirTec,AT-55,,2021,,,,,,פעיל
+KN-CR-01,עגורן גשר 10 טון,CRANE,Galil Cranes,GB-10,,2010,,,,,,פעיל
+KN-CR-02,עגורן גשר 10 טון,CRANE,Galil Cranes,GB-10,,2011,,,,,,פעיל
+KN-RB-01,רובוט שליפה,ROBOT,Pickfast,PF-3,,2017,,,,,,פעיל
+KN-RB-02,רובוט שליפה,ROBOT,Pickfast,PF-3,,2018,,,,,,פעיל
+KN-RB-03,רובוט שליפה,ROBOT,Pickfast,PF-3,,2019,,,,,,פעיל
+KN-RB-04,רובוט שליפה,ROBOT,Pickfast,PF-3,,2020,,,,,,פעיל
+KN-RB-05,רובוט שליפה,ROBOT,Pickfast,PF-3,,2021,,,,,,פעיל
+KN-RB-06,רובוט שליפה,ROBOT,Pickfast,PF-3,,2016,,,,,,פעיל
+KN-RB-07,רובוט שליפה,ROBOT,Pickfast,PF-3,,2017,,,,,,פעיל
+KN-RB-08,רובוט שליפה,ROBOT,Pickfast,PF-3,,2018,,,,,,פעיל
+KN-RB-09,רובוט שליפה,ROBOT,Pickfast,PF-3,,2019,,,,,,פעיל
+KN-RB-10,רובוט שליפה,ROBOT,Pickfast,PF-3,,2020,,,,,,פעיל
+KN-RB-11,רובוט שליפה,ROBOT,Pickfast,PF-3,,2021,,,,,,פעיל
+KN-RB-12,רובוט שליפה,ROBOT,Pickfast,PF-3,,2016,,,,,,פעיל
+KN-RB-13,רובוט שליפה,ROBOT,Pickfast,PF-3,,2017,,,,,,פעיל
+KN-RB-14,רובוט שליפה,ROBOT,Pickfast,PF-3,,2018,,,,,,פעיל
