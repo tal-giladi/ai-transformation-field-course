@@ -1,0 +1,17 @@
+date,client_code,practice_group,event,client_asked,reason_given,outcome,change_pct,client_fees_2025_ils
+2025-01-15,C-003,Banking & finance,rate review,rate freeze for 2025,budget pressure,freeze agreed,0.0,6799410
+2025-02-10,C-005,Corporate,rate review,standard 4% increase,firm proposal,accepted,4.0,7340300
+2025-03-02,C-022,Corporate,panel renewal,5% discount on hourly rates,volume,3% discount,-3.0,255870
+2025-04-20,C-011,Real estate,rate review,standard 4% increase,firm proposal,accepted,4.0,749410
+2025-06-12,C-019,Litigation,panel renewal,capped fees for all new claims,predictability,caps on claims under ₪500k,0.0,683920
+2025-09-01,C-026,Employment,retainer review,"retainer cut from ₪30,000 to ₪25,000 a month",fewer queries,"₪27,000 a month",-10.0,1681260
+2025-11-20,C-014,Corporate,annual renewal,fixed price ₪900 per NDA from 2026,turnaround now under one day; templates automated,"₪1,150 per NDA from 1 Jan 2026",,6100010
+2025-12-10,C-041,Employment,retainer review,10% off retainer,your employment templates are automated now,6% off,-6.0,1972010
+2026-01-05,C-007,Litigation,rate review,standard 4% increase,firm proposal,accepted 2%,2.0,2833710
+2026-02-16,C-009,Tech & IP,fixed-fee package review,"seed-round package from ₪38,000 to ₪30,000",faster turnaround seen in 2025; competitor quotes,"₪35,000",-7.9,2433860
+2026-03-30,C-040,Corporate,panel renewal,blended rate cap,budget,"blended cap ₪1,150 per hour",-5.0,435250
+2026-05-18,C-002,Real estate,rate review,standard 4% increase,firm proposal,accepted,4.0,4296230
+2026-06-07,C-012,Banking & finance,rate review,fixed fee per facility agreement,predictability,under discussion,,582820
+2026-07-01,C-022,Corporate,panel renewal,disclose AI use; 5% discount,AI expected to reduce cost,disclosure clause agreed; 2% discount,-2.0,255870
+2026-09-14,C-031,Litigation,panel tender,panel of two firms for 2027-2029,competitor offered fixed fees about 30% lower with AI-assisted document review,lost,-100.0,3816550
+2026-10-29,C-014,All,renewal 2027 (call from GC to managing partner),15% off all hourly rates from 2027,OCG 1 Oct 2026; 'your efficiency should reach us',open,,6100010

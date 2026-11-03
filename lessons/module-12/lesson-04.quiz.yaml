@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    A partner says: "If we buy a closed legal-AI platform, the confidentiality question is solved." Based
+    on the Bar ethics committee's 2026 opinion as reported, what do you put in the decision paper?
+  options:
+    - >-
+      That a closed platform satisfies the opinion, so consent is no longer needed.
+    - >-
+      That only open consumer tools are covered by the opinion, so the point is moot.
+    - >-
+      That the firm should wait for a court ruling before deciding anything.
+    - >-
+      That closed platforms still need consent and a risk review; route it.
+  correct: 3
+  explanation: >-
+    As reported, the opinion says closed platforms still require risk review and limits on who can see
+    the data, and that informed consent is needed where restricted information is used. The reading
+    belongs to the ethics partner; your paper states the fact and the owner.
+
+- id: q2
+  question: >-
+    Which design change does Mata v. Avianca most directly argue for in a research assistant?
+  options:
+    - >-
+      Checking each authority exists and says what is claimed, pre-signature.
+    - >-
+      Using a more expensive model, since cheaper models invent more cases.
+    - >-
+      Banning AI from research and allowing it only for emails.
+    - >-
+      Adding a disclaimer under each answer that it may contain errors.
+  correct: 0
+  explanation: >-
+    The court did not object to using AI; it sanctioned lawyers who filed invented opinions and stood by
+    them. The fix is a verification step before signature, not a model choice, a ban or a disclaimer.
+
+- id: q3
+  question: >-
+    A UK judgment says practical measures must be taken by those with leadership responsibilities,
+    naming managing partners. How do you use it at an Israeli firm?
+  options:
+    - >-
+      As binding guidance, since common-law courts follow each other.
+    - >-
+      Not at all, since a foreign judgment has no place in an Israeli paper.
+    - >-
+      As context for making the gate a rule the managing partner owns.
+    - >-
+      As proof that the firm's partners would be personally liable here.
+  correct: 2
+  explanation: >-
+    It binds no Israeli court, but it shows where responsibility is expected to sit, and Israeli courts
+    have criticised fabricated citations in their own decisions. It supports ownership of the control;
+    it does not establish liability.
+
+- id: q4
+  question: >-
+    The client's GC asks for 15% off all hourly rates. In your interview, what is the most useful
+    question?
+  options:
+    - >-
+      Whether 10% would be acceptable instead of 15%.
+    - >-
+      What her board needs, and which work she would rather buy at fixed prices.
+    - >-
+      Whether she knows that the firm's associates are under their hours target.
+    - >-
+      Whether she would accept the firm keeping hourly rates if quality improves.
+  correct: 1
+  explanation: >-
+    You are not negotiating. Asking what she is trying to achieve turns an opening position into a
+    pricing model she would accept, which is what the firm needs to keep part of the gain.
+
+- id: q5
+  question: >-
+    The vendor says its answers have "zero hallucinations". Its proof of concept on the firm's documents
+    produced no invented citations but 10 stale and 12 misstated ones out of 80. How do you read the
+    claim back?
+  options:
+    - >-
+      True as measured, since nothing was invented; stale citations are a data problem.
+    - >-
+      False, so the vendor should be excluded from any future tender.
+    - >-
+      Irrelevant, since the firm will check every citation anyway.
+    - >-
+      True only for invented citations; stale and misstated ones still reach the reader.
+  correct: 3
+  explanation: >-
+    Grounding stopped invention but not the other failures a lawyer must catch. The read-back states the
+    conditions and what the claim leaves out; excluding the vendor or dismissing the claim skips the
+    evidence.

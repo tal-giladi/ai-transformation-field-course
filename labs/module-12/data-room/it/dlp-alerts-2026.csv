@@ -1,0 +1,15 @@
+alert_date,user_id,channel,destination,rule,file_name,severity,action,closed_by,closure_note
+2026-01-14,S103,email,personal webmail,Outbound to personal address,Fwd: invoice batch Jan.pdf,low,allowed,IT,Personal admin forward; reminded
+2026-02-22,L071,usb,USB storage,Removable media copy,trial_bundle_vol2.pdf,medium,blocked,IT,Approved exception for court bundle
+2026-03-09,L033,web,wetransfer.com,File share to unapproved cloud,valuation_model_v3.xlsx,medium,warned (user proceeded),IT,Sent to client at client's request
+2026-04-27,S106,web,translate.google.com,Client document marker,letter_to_[client].docx,medium,warned (user proceeded),IT,Reminded; no further action
+2026-05-11,L044,email,personal webmail,Outbound to personal address,draft_opinion_he.docx,medium,allowed,L004,Associate working from home; reminded of VPN
+2026-06-02,L063,web,deepl.com,Client document marker,SHA_[client]_RU_EN.docx,medium,warned (user proceeded),IT,User reminded of policy
+2026-06-30,L080,web,dropbox.com,File share to unapproved cloud,lease_comparison.xlsx,low,warned (user proceeded),IT,No client data
+2026-07-21,L029,usb,USB storage,Removable media copy,closing_set_final.zip,medium,blocked,IT,Use secure share instead
+2026-08-12,L077,web,chatgpt.com,Personal data pattern (ID numbers),employee_list.xlsx,high,blocked,IT,Blocked by pattern rule
+2026-09-03,L058,web,chatgpt.com,Client document marker (CLIENT-CONFIDENTIAL footer),SPA_[client]_draft_v7.docx,high,warned (user proceeded),L004,Spoke to associate. Chat history deleted by user. No further action.
+2026-09-24,S109,email,personal webmail,Outbound to personal address,payroll_sep.pdf,high,blocked,IT,Finance clerk; HR informed
+2026-10-06,L048,web,claude.ai,Client document marker,witness_statement_draft.docx,high,warned (user proceeded),,Open
+2026-10-20,L086,web,gemini.google.com,Client document marker,term_sheet_[client].pdf,high,warned (user proceeded),,Open
+2026-10-28,L039,web,perplexity.ai,Client document marker,pleading_v2.docx,medium,warned (user proceeded),,Open

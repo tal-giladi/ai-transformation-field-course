@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    Over the uncurated corpus, every question about a reversed point had the old ruling or a memo
+    built on it in the top three results. What is the right fix to test first?
+  options:
+    - >-
+      A larger model, which will recognise that the old ruling is outdated.
+    - >-
+      Removing the superseded documents from what the tool searches, then re-running.
+    - >-
+      A longer system prompt telling the model to prefer recent documents.
+    - >-
+      Showing more results so the current ruling also appears on screen.
+  correct: 1
+  explanation: >-
+    The stale answers come from the documents, not the model: once the curated corpus excluded
+    superseded documents, none appeared in the top three. Prompts and bigger models may help at the
+    margin, but they search the same stale material.
+
+- id: q2
+  question: >-
+    Your citation rules catch 2 of 14 stale citations with the knowledge bank's status, and 14 of 14
+    with the curated status. What does this tell the partners?
+  options:
+    - >-
+      That the rule for "current" needs a better algorithm before the pilot starts.
+    - >-
+      That stale citations are rare enough to accept in a supervised pilot.
+    - >-
+      That the bank's status field must be fixed by IT before anything else.
+    - >-
+      That the check is only as good as the curation behind it.
+  correct: 3
+  explanation: >-
+    The rule was the same both times; only the status data changed. The citation gate depends on
+    someone owning and reviewing the knowledge, which is why curation sits in the recommendation.
+
+- id: q3
+  question: >-
+    A keyword-overlap "support" check catches 20 of 22 misstated citations but flags 48 of 90 good ones.
+    What do you conclude?
+  options:
+    - >-
+      Support needs a reader; keyword overlap gives an illusion of checking.
+    - >-
+      The check is good enough, because catching misstatements matters most.
+    - >-
+      Lower the threshold until false alarms fall below ten percent.
+    - >-
+      Drop check 5, because rules already catch most bad citations.
+  correct: 0
+  explanation: >-
+    Flagging half the good citations means reviewers will learn to ignore the flag. Whether a paragraph
+    says what a sentence claims is judgement: a person, helped by a model, must do it.
+
+- id: q4
+  question: >-
+    Offline, checking a citation took 1.4 minutes with the gate against 9.5 by hand. How do you use the
+    number in the revised business case?
+  options:
+    - >-
+      As measured savings, converted to shekels at the average associate rate.
+    - >-
+      As directional only, to be timed again in the supervised pilot under real conditions.
+    - >-
+      As the basis for cutting the number of associates in the pilot groups.
+    - >-
+      Not at all, since timing studies are never reliable in law firms.
+  correct: 1
+  explanation: >-
+    A rater at a desk is not an associate before a filing at night. Label it directional, keep the
+    freed time in hours, and measure it again where it matters.
+
+- id: q5
+  question: >-
+    The assistant costs about ₪0.04 per research question in tokens. A partner concludes that AI is
+    "basically free". What is the better reading?
+  options:
+    - >-
+      Correct: token cost is the only variable cost and it is negligible.
+    - >-
+      Wrong: token prices will rise sharply, so the cost will soon be significant.
+    - >-
+      Tokens are cheap; curation, checking and lost hourly fees are not.
+    - >-
+      Wrong: licences for legal platforms always cost more than the tokens.
+  correct: 2
+  explanation: >-
+    The pilot shows the money is not in the model: it is in keeping the knowledge current, in the time
+    a reader needs, and in what faster hourly work does to fees.

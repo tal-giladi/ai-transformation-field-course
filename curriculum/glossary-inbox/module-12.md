@@ -1,0 +1,9 @@
+- **Billing type** — How a matter is charged (hourly, capped, fixed fee, retainer); it decides whether time saved by AI becomes lost fees, margin or capacity (lesson 12.3).
+- **Realisation** — Fees billed divided by worked value (hours × standard rates); below 100% means time was written off or a fixed fee was overrun (lesson 12.3).
+- **Write-off** — Recorded time a partner removes from the bill at billing review; in this course, the place where research time the client never pays for shows up (lesson 12.2).
+- **Customer's share** — The part of an efficiency gain a client takes back at renewal through lower prices, priced into the business case rather than discovered afterwards (lesson 12.3).
+- **Precedent bank** — A firm's internal collection of templates, memos and rulings; a research tool searches it, so its review state is part of the AI decision (lesson 12.2).
+- **Curation** — Reviewing knowledge documents so that each has an owner, a review date and a status (current, needs update, superseded) linked to what replaced it (lesson 12.5).
+- **Citation gate** — Five checks a research answer passes before a lawyer relies on it: the document exists, the paragraph exists, any quote is verbatim, the document is current, and the paragraph says what is claimed (lesson 12.4).
+- **Stale citation** — A citation to a real document that has been reversed, replaced or withdrawn; it passes existence and wording checks and fails the currency check (lesson 12.5).
+- **Advisory boundary (non-lawyer)** — For a consultant in a law firm, the line beyond which confidentiality, privilege, consent and billing questions go to the firm's ethics partner and outside ethics counsel (lesson 12.1).

@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    The firm's survey says 89% of lawyers never put client information into AI tools. The proxy log
+    shows 27 lawyers uploading files to AI sites in two months. How do you report AI use?
+  options:
+    - >-
+      Use the survey, since it covers more lawyers and asks about client data directly.
+    - >-
+      Report both, labelled as reported and measured, and say the proxy count is a floor.
+    - >-
+      Use the proxy log only, since surveys of lawyers are unreliable by nature.
+    - >-
+      Average the two sources into one estimate of client-data exposure.
+  correct: 1
+  explanation: >-
+    The survey is what people chose to say; the log is behaviour, but it misses phones and home
+    networks. Showing both, with labels and limits, is more honest than picking one or averaging two
+    different kinds of evidence.
+
+- id: q2
+  question: >-
+    Research codes cover 6% of associates' hours, but narratives mention research on 25%. What explains
+    the gap best, and how do you confirm it?
+  options:
+    - >-
+      Associates exaggerate in narratives; confirm by sampling partner-approved bills.
+    - >-
+      The code list is outdated; confirm by asking IT when the codes were last changed.
+    - >-
+      Research lines get cut at billing, so it is coded as drafting; check write-offs.
+    - >-
+      Most research is done by partners; confirm by recomputing the share for partners only.
+  correct: 2
+  explanation: >-
+    Research lines are written off far more often than other lines, and associates told you why they
+    code research as drafting. The data and the interview together turn a suspicion into a finding.
+
+- id: q3
+  question: >-
+    An associate tells you, without names, that a memo with an invented case nearly went to a client.
+    A partner asks you who drafted it. What do you do?
+  options:
+    - >-
+      Decline to name anyone, and report it as a failure of the checking step.
+    - >-
+      Give the name privately, since the partner is responsible for quality.
+    - >-
+      Leave the incident out of the memo to protect your source completely.
+    - >-
+      Ask the associate for permission to share the name with that partner.
+  correct: 0
+  explanation: >-
+    The finding is about the system: an unverified citation passed a busy reviewer. Naming the author
+    ends your access to the truth and changes nothing in the system; omitting the incident hides the
+    most important fact you have.
+
+- id: q4
+  question: >-
+    A memo cites FCR-2020-460 ¶3, which exists and says what the memo claims. Why might the citation
+    still fail your check?
+  options:
+    - >-
+      Paragraph 3 is a question, not a holding, so it cannot be cited.
+    - >-
+      A later ruling in the corpus reverses it on this point.
+    - >-
+      Rulings older than five years cannot be cited in a client memo.
+    - >-
+      The citation lacks the court's name, so it is incomplete.
+  correct: 1
+  explanation: >-
+    A citation can exist and be quoted accurately yet be stale: FCR-2022-390 reverses it. Checking
+    existence and wording is not enough; the check must ask whether the source is still current.
+
+- id: q5
+  question: >-
+    The knowledge-bank index marks almost every document "current". What is the right reading?
+  options:
+    - >-
+      The bank is in good shape, since only a few documents are marked superseded.
+    - >-
+      The field is unreliable only for documents uploaded before 2015.
+    - >-
+      The status needs no attention until a tool is bought and indexes it.
+    - >-
+      "Current" is a default on upload, not a review; most documents were never reviewed.
+  correct: 3
+  explanation: >-
+    The field defaults to "current" and 71% of documents have no review date. Treating it as a review
+    result would make any research tool confidently wrong; the finding belongs in this memo, before a
+    tool is chosen.

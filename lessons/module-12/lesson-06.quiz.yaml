@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Twenty-six partners will vote on your paper. How should the recommendation be structured?
+  options:
+    - >-
+      Three options with pros and cons, so the partners can choose freely.
+    - >-
+      One recommendation in parts that can be voted and minuted separately.
+    - >-
+      One yes-or-no question on the platform, with everything else in an annex.
+    - >-
+      A list of principles, leaving the implementation to the management committee.
+  correct: 1
+  explanation: >-
+    A vote needs something decidable. One recommendation, divided into parts with owners and dates,
+    lets parts pass even if one fails; a menu hands the judgement back, and a single platform question
+    hides the rule, the knowledge and the pricing.
+
+- id: q2
+  question: >-
+    The sceptical founding partner approved a memo with an invented citation. When and how do you
+    raise it?
+  options:
+    - >-
+      In the committee, as the strongest evidence that the firm needs a gate.
+    - >-
+      Not at all, since it would embarrass him and harden his opposition.
+    - >-
+      In writing to all partners, without names, a week before the vote.
+    - >-
+      Privately first, from his own words about checking, as facts without names.
+  correct: 3
+  explanation: >-
+    Delivered first in a room, it becomes a fight about the associate and the firm's reputation.
+    Delivered privately, starting from what he already said, it becomes his control. Leaving it out
+    hides the reason the gate must exist.
+
+- id: q3
+  question: >-
+    The integration check finds the eval report's "1.4 minutes per citation" turned into "₪1.1M of time
+    saved" in a draft budget line. What do you do?
+  options:
+    - >-
+      Remove it: directional time, and capacity is not cash.
+    - >-
+      Keep it, with a footnote that it was measured offline.
+    - >-
+      Halve it to be conservative and keep the budget line.
+    - >-
+      Move it to the appendix so the front page stays short.
+  correct: 0
+  explanation: >-
+    A directional offline timing cannot become a cash saving in a budget, and freed hours are not money
+    without a buyer. A footnote, a haircut or an appendix keeps the wrong number alive.
+
+- id: q4
+  question: >-
+    The managing partner has not told the partners about the client's 15% request because he does not
+    want "a grenade in the AI debate". What do you advise?
+  options:
+    - >-
+      Keep it out of the paper; it is a commercial matter, not an AI matter.
+    - >-
+      Mention it only if a partner asks about clients during the meeting.
+    - >-
+      Put the pricing pressure in the paper, next to the tool, with his agreement first.
+    - >-
+      Tell the partners yourself, since your independence is what you were hired for.
+  correct: 2
+  explanation: >-
+    Without the pricing pressure the partners vote on the wrong question. Agreeing it with him first
+    respects his role; announcing it over his head or hiding it both damage the decision.
+
+- id: q5
+  question: >-
+    In the futures, what most separated the good outcome from the other two?
+  options:
+    - >-
+      Which platform the firm finally chose at the June meeting.
+    - >-
+      Whether the near miss was known and pricing was decided.
+    - >-
+      Whether all 90 lawyers had a licence from the first day.
+    - >-
+      How large a discount the vendor finally agreed to give.
+  correct: 1
+  explanation: >-
+    The futures turned on control and price, not on the product: the firm that knew about its near miss
+    and priced repeat work kept part of the gain; the others bought or banned a tool without either.

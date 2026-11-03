@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    A managing partner asks you to "tell the partners whether to buy the legal-AI platform". How do you
+    write this in the charter?
+  options:
+    - >-
+      As the objective, since it is exactly what the client is paying for.
+    - >-
+      As out of scope, because tool selection belongs to IT and procurement.
+    - >-
+      As the question the work answers, under his broader objective read back.
+    - >-
+      As a deliverable due at the first readout, to settle the debate early.
+  correct: 2
+  explanation: >-
+    The purchase is a question the engagement answers; the objective is how the firm should use AI.
+    Written as the objective, the product decision would crowd out what you find about current use,
+    knowledge and pricing. Ruling it out of scope or forcing it early ignores what the client asked.
+
+- id: q2
+  question: >-
+    In your first week you discover what looks like a client document uploaded to a consumer AI site.
+    You are not a lawyer. What do you write in your notes?
+  options:
+    - >-
+      The fact and its source, routed to the ethics partner, with no legal conclusion.
+    - >-
+      That the upload breached privilege, so the partners grasp the seriousness.
+    - >-
+      Nothing yet, since raising it in week 1 would damage trust with associates.
+    - >-
+      A recommendation to notify the client within 48 hours under its guidelines.
+  correct: 0
+  explanation: >-
+    Your advisory boundary sends confidentiality and privilege questions to the firm's ethics partner.
+    Stating a breach or a notification duty is a legal conclusion you are not qualified to give;
+    staying silent hides a fact the owner needs.
+
+- id: q3
+  question: >-
+    The partners' straw poll split 11-9 with 4 abstaining. Which first-week plan best protects the
+    engagement?
+  options:
+    - >-
+      Meet the proposing partner first and the opponent after the data is analysed.
+    - >-
+      Meet only the managing partner and finance until the findings are ready.
+    - >-
+      Send a survey to all partners and skip interviews to stay neutral.
+    - >-
+      Meet both the proposer and the opponent early, one to one, before any paper.
+  correct: 3
+  explanation: >-
+    In a partnership, whom you meet first signals whose side you are on. Early one-to-one time with
+    both camps lets each be heard and prevents either from meeting your findings in a room for the
+    first time. A survey does not replace a conversation.
+
+- id: q4
+  question: >-
+    The vendor's discount expires on 31 December; the vote is on 14 January. What does the charter say
+    about the date?
+  options:
+    - >-
+      That the engagement will finish by 20 December so the discount can be taken.
+    - >-
+      That the 17 December paper advises on it; the date decides nothing.
+    - >-
+      That the managing partner should ask the vendor to extend the discount.
+    - >-
+      Nothing, since vendor pricing is a negotiation matter and out of scope.
+  correct: 1
+  explanation: >-
+    A vendor's deadline is a negotiating position. Naming when you will advise on it keeps it from
+    silently setting the timetable, without compressing the work to fit it or ignoring it.
+
+- id: q5
+  question: >-
+    Which headline number from the first read is "contradicted in form" rather than simply untested?
+  options:
+    - >-
+      Fees of ₪151.1M in 2025, which the matters file adds up to.
+    - >-
+      "Associates use ChatGPT anyway", stated by a partner in the meeting.
+    - >-
+      ₪23.3M of capacity from multiplying saved hours by the billing rate.
+    - >-
+      "Zero hallucinations", shown on the vendor's demo slide.
+  correct: 2
+  explanation: >-
+    Multiplying hours by a billing rate treats capacity as money; with associates under target there is
+    no one to sell the hours to, so the form of the claim is wrong before any number is tested. The
+    fees are verified; the other two are claims to test.

@@ -105,3 +105,11 @@
   - [76 · Build: a permit-FAQ assistant, evaluated](lessons/module-11/lesson-05.md)
   - [77 · Readout and debrief](lessons/module-11/lesson-06.md)
   - [Module 11 quiz](assessments/module-11-quiz.md)
+- **Module 12 — Atlas & Rowe: AI in a Law Firm**
+  - [78 · The call](lessons/module-12/lesson-01.md)
+  - [79 · Discovery](lessons/module-12/lesson-02.md)
+  - [80 · Diagnosis](lessons/module-12/lesson-03.md)
+  - [81 · The hard part](lessons/module-12/lesson-04.md)
+  - [82 · Build: precedent search with a citation gate](lessons/module-12/lesson-05.md)
+  - [83 · Readout and debrief](lessons/module-12/lesson-06.md)
+  - [Module 12 quiz](assessments/module-12-quiz.md)

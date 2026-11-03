@@ -12,6 +12,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Adjudication** — A third person settling every disagreement between two labellers against written category rules, and changing the rules when they cannot settle it (lesson 05.2).
 - **Adoption gate** — The share of real use that must be reached before a pilot's value numbers are read (lesson 05.1).
 - **Advisory boundary** — The line between questions you answer yourself (method, framing, priorities) and those you route to a named specialist such as counsel, the DPO, security, procurement or HR (lesson 01.1).
+- **Advisory boundary (non-lawyer)** — For a consultant in a law firm, the line beyond which confidentiality, privilege, consent and billing questions go to the firm's ethics partner and outside ethics counsel (lesson 12.1).
 - **Agent-assist** — AI that drafts a reply or a decision for a staff member who checks, edits and sends it, as opposed to a bot that answers customers alone (lesson 08.4).
 - **Agentic opportunity frame** — A one-page design of one candidate workflow: today's steps, what simplification removes, what does each step, builder, connections and permissions, checks, upkeep and why it is or is not an agent (lesson 03.2).
 - **AI in a feature update** — An AI capability that arrived in software the organization already used, often enabled by default, without anyone choosing it (lesson 01.7).
@@ -23,6 +24,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Attribution rule** — The promise, made at the start of an interview and kept, about how what the person says will be reported (for example "the support team said", never their name) (lesson 02.2).
 - **Automate / assist / augment / leave alone** — The four modes of change, decided by who does the work afterwards: no person per item, a person deciding each item, a person gaining a new capability, or no change (lesson 03.1).
 - **Billed resolution** — The unit a per-outcome AI vendor charges for, defined in its contract; compare prices only after reading what each vendor counts (lesson 08.4).
+- **Billing type** — How a matter is charged (hourly, capped, fixed fee, retainer); it decides whether time saved by AI becomes lost fees, margin or capacity (lesson 12.3).
 - **Blameless review** — An incident review that looks for contributing causes without indicting anyone and whose actions change controls, with owners and dates (lesson 07.5).
 - **Blind calibration set** — Real human outputs mixed unmarked among AI drafts during rating, to check that raters apply the rubric strictly and to measure today's error rate (lesson 05.4).
 - **Blue track** — The Israel National Digital Agency guide's track for a limited, controlled experiment with set duration, metrics and reporting before full deployment (lesson 11.4).
@@ -34,6 +36,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Change control** — The rules for what counts as a change to an AI system (prompt, model, provider, API version, vendor setting), how it is tested, who approves it and how it is rolled back (lesson 05.7).
 - **Change request** — The logged, assessed and decided route for an expansion, recording what it would displace and telling the requester the reason and review date (lesson 01.3).
 - **Check log** — The appendix that lists each statement of an AI-drafted text, the source it was checked against and whether it was kept, corrected or removed (lesson 02.7).
+- **Citation gate** — Five checks a research answer passes before a lawyer relies on it: the document exists, the paragraph exists, any quote is verbatim, the document is current, and the paragraph says what is claimed (lesson 12.4).
 - **Claim read-back** — A one-page answer to whether a claim can be believed: the claim as stated, its measurement conditions, who chose them, the fit to the client's conditions, a rating and the evidence that would change it (lesson 04.8).
 - **Claimant's wait** — The time from the day a claim is reported to the last payment to the claimant or their garage, the cycle time a claimant actually experiences (lesson 09.3).
 - **Claims register** — The table that records, for every number in narrative documents, who said it, where, when, and whether it is verified, contradicted, a claim to test or unverifiable (lesson 01.5).
@@ -47,6 +50,8 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Correction to the record** — A dated statement at the top of a committee paper that something management told the committee earlier is no longer true, with the date it stopped being true (lesson 09.4).
 - **Cost per truly resolved chat** — A chatbot's bill divided by the conversations not followed by an agent contact within a set window, the figure to compare with an agent's cost per contact (lesson 08.3).
 - **Counting rule** — The written definition of what counts as AI for the inventory (outputs inferred from data, not only human-written rules), applied before counting (lesson 01.7).
+- **Curation** — Reviewing knowledge documents so that each has an owner, a review date and a status (current, needs update, superseded) linked to what replaced it (lesson 12.5).
+- **Customer's share** — The part of an efficiency gain a client takes back at renewal through lower prices, priced into the business case rather than discovered afterwards (lesson 12.3).
 - **Data boundary** — One page per approved AI tool stating what data enters, where it travels, who sees it, whether the vendor trains on it, how long it stays and what happens at exit (lesson 04.3).
 - **Data class** — One of five labels (public, internal, confidential business, personal, highly sensitive) that decide which AI tools a piece of information may go into; a record takes the highest class of anything in it (lesson 04.2).
 - **Data gate** — The pass-or-fail check that a candidate's data is reachable, trusted, lawful for the purpose and, where outcomes matter, labelled (lesson 03.3).
@@ -133,6 +138,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Planted-error exercise** — A training card built from a real case in which the AI output hides one error that one specific check catches (lesson 06.2).
 - **Pre-failure reading** — Testing a plan by assuming it has already failed and tracing each failure story to evidence (lesson 07.7).
 - **Pre-mortem** — A workshop in which participants assume the project has already failed and write down why before any discussion, to surface risks people hesitate to name (lesson 04.5).
+- **Precedent bank** — A firm's internal collection of templates, memos and rulings; a research tool searches it, so its review state is part of the AI decision (lesson 12.2).
 - **Pressure-test log** — One row per finding: what breaks, for whom, when; evidence; wrong or fragile; test or trial; disposition; owner (lesson 07.7).
 - **Proceed / phase / not yet** — The three readiness verdicts, given per use case, each with the findings it turns on and what would change it (lesson 02.6).
 - **Production-readiness checklist** — The list of what must be true before an AI output reaches real users, each line with evidence, an owner and the consequence for the go-live date if it stays open (lesson 05.6).
@@ -145,6 +151,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Quiet non-adoption** — People who used a tool, stopped, and kept working without it, unseen by "active user" counts; read as who, when, where and back to what (lesson 06.4).
 - **Read-back** — Repeating the sponsor's objective to them in their own words and recording that they confirmed or corrected it (lesson 01.2).
 - **Readiness assessment** — A dated judgment, per use case, of whether the work, data, owners, people, governance, measurement and technology around it are ready, ending in proceed, phase or not yet (lesson 02.6).
+- **Realisation** — Fees billed divided by worked value (hours × standard rates); below 100% means time was written off or a fixed fee was overrun (lesson 12.3).
 - **Receiving team** — The people who absorb work a program moves or creates, often outside the team in scope and missing from the org chart's view of the project (lesson 02.1).
 - **Recommend-against** — A recommendation not to do something the sponsor or the CEO wants, placed on the front page of the readout with its evidence (lesson 08.6).
 - **Refinement** — A new request that serves the same objective, users, data and deliverable and fits the agreed time and money; done inside the phase without a change request (lesson 01.3).
@@ -169,6 +176,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Softened paper** — A document whose bad news was edited out one reasonable change at a time on its way up, until readers believe something the evidence does not support (lesson 07.3).
 - **Staged gate** — A yes/no condition, written in advance, that releases the next stage of money (lesson 03.7).
 - **Staged release** — Widening a pilot's use one change at a time (channel, mode, language, autonomy), each stage with a yes/no entry condition and an owner (lesson 05.6).
+- **Stale citation** — A citation to a real document that has been reversed, replaced or withdrawn; it passes existence and wording checks and fails the currency check (lesson 12.5).
 - **Stale copy** — A copy of a dataset read more often than it is refreshed, such as an old catalogue on a shared drive (lesson 02.5).
 - **Stated ask** — What the person who commissioned the work said they want (here, "a chatbot that replaces half of support by Q2"), recorded in the charter as the claim the engagement tests rather than as its objective (lesson 08.1).
 - **Steering pack** — The papers a committee decides from, in reader order with a six-page body: cover note, updated decision-ready case, gate table, stop rules, open items, separate decisions and what each answer means (lesson 07.1).
@@ -191,5 +199,6 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Usable reason** — A refusal that names the condition not met, the document that would meet it and the route to object, in the applicant's language (lesson 11.2).
 - **Verified / reported / contradicted** — The three evidence statuses in a readiness assessment: checked against data you hold or seen yourself, said but not checked, or contradicted by data you hold (lesson 02.6).
 - **Walkable on paper** — A process whose steps, owner per step, trigger and volume can all be written down; one that is not is "not yet a candidate" for automation or AI (lesson 02.3).
+- **Write-off** — Recorded time a partner removes from the bill at billing review; in this course, the place where research time the client never pays for shows up (lesson 12.2).
 - **Wrong vs fragile** — A wrong assumption is false today and must be corrected; a fragile dependency is true today but may change and needs a fallback, a trigger or a re-sequence (lesson 07.7).
 - **Wrong-advice risk** — The risk that a public assistant states a rule incorrectly to someone who acts on it; controlled by owned sources and tested refusals, not by disclaimers (lesson 11.4).

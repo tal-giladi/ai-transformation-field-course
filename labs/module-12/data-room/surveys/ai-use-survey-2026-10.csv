@@ -1,0 +1,48 @@
+response_id,submitted_date,role_band,practice_group,ai_use_frequency,used_for,tools,client_information_in_ai,would_use_firm_tool,comment
+R01,2026-10-12,senior_associate,Banking & finance,weekly,emails;summaries;translation,Claude;DeepL,no,yes,"חוסך לי זמן בתרגום, אבל אני לא מעלה מסמכים."
+R02,2026-10-05,partner,Employment,never,,,no,yes,"משתמשת לפעמים לניסוח ראשוני, בלי פרטי לקוח."
+R03,2026-10-15,junior_associate,Banking & finance,weekly,emails,DeepL,no,maybe,Only for English polishing of emails.
+R04,2026-10-05,junior_associate,Employment,weekly,emails;research,Gemini,no,no,Would use a firm tool if it is safe for client documents.
+R05,2026-10-15,senior_associate,Real estate,never,,,no,yes,לא משתמש. לא סומך על זה.
+R06,2026-10-16,junior_associate,Corporate,weekly,first drafts;research;translation,DeepL,no,yes,"צריך כלי של המשרד, כרגע כל אחד עושה מה שהוא רוצה."
+R07,2026-10-16,junior_associate,Employment,occasionally,emails,ChatGPT;DeepL,no,no,Please don't make this about billable hours. It is about quality.
+R08,2026-10-07,junior_associate,Banking & finance,never,,,no,yes,
+R09,2026-10-14,junior_associate,Employment,occasionally,emails;research;summaries,DeepL;Gemini,no,no,Only for English polishing of emails.
+R10,2026-10-16,junior_associate,Corporate,never,,,no,yes,לא משתמש. לא סומך על זה.
+R11,2026-10-15,junior_associate,Tech & IP,weekly,first drafts,ChatGPT;Gemini,only_anonymised,maybe,"מחקר לוקח לי ערבים שלמים, וחצי ממנו נמחק בחיוב."
+R12,2026-10-14,junior_associate,Corporate,occasionally,first drafts;research,Claude;DeepL,only_anonymised,maybe,"מחקר לוקח לי ערבים שלמים, וחצי ממנו נמחק בחיוב."
+R13,2026-10-12,junior_associate,Real estate,occasionally,translation,DeepL;Gemini,no,no,Only for English polishing of emails.
+R14,2026-10-11,junior_associate,Banking & finance,weekly,emails;first drafts;translation,ChatGPT;Copilot,no,yes,I tried it for research once and the cases looked real but I could not find two of them.
+R15,2026-10-12,partner,Litigation,never,,,no,no,"חוסך לי זמן בתרגום, אבל אני לא מעלה מסמכים."
+R16,2026-10-08,partner,Banking & finance,occasionally,first drafts;research;translation,Claude;Gemini,no,yes,
+R17,2026-10-07,senior_associate,Tech & IP,occasionally,research,ChatGPT;Claude,no,yes,"צריך כלי של המשרד, כרגע כל אחד עושה מה שהוא רוצה."
+R18,2026-10-15,junior_associate,Banking & finance,weekly,first drafts;summaries,Copilot,no,yes,I tried it for research once and the cases looked real but I could not find two of them.
+R19,2026-10-06,senior_associate,Litigation,occasionally,emails;research,ChatGPT;DeepL,no,yes,"השותפים לא רוצים שנשתמש, אז אני לא מדבר על זה."
+R20,2026-10-15,partner,Litigation,never,,,no,yes,"Пользуюсь для перевода, но только общих текстов."
+R21,2026-10-16,senior_associate,Employment,weekly,first drafts;summaries;translation,DeepL,no,yes,أستخدمه أحيانًا لتلخيص قرارات طويلة، بدون أسماء.
+R22,2026-10-07,partner,Corporate,occasionally,emails;first drafts;research,Copilot;Gemini,no,maybe,"מחקר לוקח לי ערבים שלמים, וחצי ממנו נמחק בחיוב."
+R23,2026-10-16,junior_associate,Tech & IP,weekly,emails;summaries,ChatGPT;DeepL,no,yes,Only for English polishing of emails.
+R24,2026-10-16,senior_associate,Tech & IP,occasionally,first drafts,Claude,no,no,
+R25,2026-10-05,senior_associate,Banking & finance,occasionally,emails;translation,ChatGPT;DeepL,no,no,"משתמשת לפעמים לניסוח ראשוני, בלי פרטי לקוח."
+R26,2026-10-08,senior_associate,Employment,occasionally,emails;research;summaries,ChatGPT,no,no,"חוסך לי זמן בתרגום, אבל אני לא מעלה מסמכים."
+R27,2026-10-05,senior_associate,Tech & IP,never,,,no,maybe,
+R28,2026-10-15,junior_associate,Employment,weekly,emails;first drafts;summaries,ChatGPT;Claude,no,no,I tried it for research once and the cases looked real but I could not find two of them.
+R29,2026-10-07,partner,Employment,weekly,first drafts;research;summaries,DeepL,no,yes,"צריך כלי של המשרד, כרגע כל אחד עושה מה שהוא רוצה."
+R30,2026-10-12,partner,Litigation,never,,,no,no,Would use a firm tool if it is safe for client documents.
+R31,2026-10-11,partner,Banking & finance,occasionally,first drafts;translation,ChatGPT;Gemini,no,yes,Would use a firm tool if it is safe for client documents.
+R32,2026-10-12,junior_associate,Real estate,occasionally,emails;summaries;translation,Copilot,only_anonymised,no,I tried it for research once and the cases looked real but I could not find two of them.
+R33,2026-10-16,partner,Employment,never,,,no,no,I tried it for research once and the cases looked real but I could not find two of them.
+R34,2026-10-09,senior_associate,Corporate,occasionally,emails;first drafts;translation,DeepL;Gemini,no,no,
+R35,2026-10-16,junior_associate,Real estate,occasionally,emails,DeepL,no,yes,Would use a firm tool if it is safe for client documents.
+R36,2026-10-07,partner,Employment,occasionally,research,Copilot,no,no,Only for English polishing of emails.
+R37,2026-10-08,partner,Employment,occasionally,first drafts;research;translation,Claude;Copilot,only_anonymised,maybe,"צריך כלי של המשרד, כרגע כל אחד עושה מה שהוא רוצה."
+R38,2026-10-15,senior_associate,Litigation,occasionally,emails;research;summaries,Claude;Copilot,no,maybe,أستخدمه أحيانًا لتلخيص قرارات طويلة، بدون أسماء.
+R39,2026-10-09,partner,Employment,never,,,no,no,"צריך כלי של המשרד, כרגע כל אחד עושה מה שהוא רוצה."
+R40,2026-10-11,junior_associate,Corporate,never,,,no,yes,"השותפים לא רוצים שנשתמש, אז אני לא מדבר על זה."
+R41,2026-10-06,junior_associate,Banking & finance,weekly,emails,ChatGPT;Claude,no,maybe,"משתמשת לפעמים לניסוח ראשוני, בלי פרטי לקוח."
+R42,2026-10-14,junior_associate,Litigation,weekly,emails;summaries,ChatGPT;Claude,no,yes,
+R43,2026-10-10,senior_associate,Litigation,never,,,no,maybe,"מחקר לוקח לי ערבים שלמים, וחצי ממנו נמחק בחיוב."
+R44,2026-10-08,junior_associate,Banking & finance,never,,,no,yes,
+R45,2026-10-05,junior_associate,Litigation,occasionally,emails;research;summaries,ChatGPT;Copilot,only_anonymised,yes,I tried it for research once and the cases looked real but I could not find two of them.
+R46,2026-10-15,senior_associate,Employment,occasionally,translation,ChatGPT;Copilot,no,yes,"מחקר לוקח לי ערבים שלמים, וחצי ממנו נמחק בחיוב."
+R47,2026-10-11,senior_associate,Litigation,never,,,no,yes,أستخدمه أحيانًا لتلخيص قرارات طويلة، بدون أسماء.

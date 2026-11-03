@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    A partner's slide multiplies 6.2 saved hours a week by 90 lawyers and the average billing rate.
+    Associates are at 81% of their hours target. What is the first correction?
+  options:
+    - >-
+      Use the firm's realisation rate instead of the standard billing rate.
+    - >-
+      Replace 6.2 with a figure from a larger and more recent vendor survey.
+    - >-
+      Count only partners' hours, since associates' time is written off anyway.
+    - >-
+      Treat freed hours as capacity, not cash, since there is no backlog to sell them to.
+  correct: 3
+  explanation: >-
+    Hours become money only if someone buys them. With associates under target, freed hours have no
+    buyer, so the slide's form is wrong before any input is improved; a better rate or survey still
+    multiplies hours into money that will not arrive.
+
+- id: q2
+  question: >-
+    On which kind of matter does a research hour saved by AI most directly become a fee the firm will
+    not bill?
+  options:
+    - >-
+      An hourly matter, where the bill follows the hours recorded.
+    - >-
+      A fixed-fee matter, where the price is agreed in advance.
+    - >-
+      A monthly retainer, where the client pays the same each month.
+    - >-
+      A capped matter that has already gone over its cap.
+  correct: 0
+  explanation: >-
+    On hourly work the bill falls with the hours. On fixed fees and retainers the saving is margin or
+    capacity, and hours over a cap were being written off anyway.
+
+- id: q3
+  question: >-
+    After the firm automated a client's NDAs, fees per NDA fell from ₪2,046 to ₪1,150 but fees per hour
+    rose from ₪860 to ₪1,422. What does this history tell the partners?
+  options:
+    - >-
+      That automation was a mistake, because total NDA fees fell by about a third.
+    - >-
+      That clients take a share of faster work, and a fixed price let the firm keep some.
+    - >-
+      That the client overpays now and will soon demand a further discount.
+    - >-
+      That per-hour figures are misleading and should be left out of the case.
+  correct: 1
+  explanation: >-
+    Billed hourly, the whole gain went to the client; at renewal the client set a fixed price that
+    took most of it, and the firm still earned more per hour. It is the customer's share, priced.
+
+- id: q4
+  question: >-
+    Finance asks you to show one number for the platform's year-1 return. What do you give?
+  options:
+    - >-
+      The most likely net figure only, to keep the committee focused.
+    - >-
+      The vendor's figure next to yours, so partners can choose between them.
+    - >-
+      The net figure with labelled inputs and a sensitivity over saving and resale.
+    - >-
+      A range from best to worst case without the inputs behind it.
+  correct: 2
+  explanation: >-
+    Finance will move the assumptions itself. Showing which inputs are measured or assumed, and how
+    the result moves with them, lets the finance director see the conclusion holds; a bare number or
+    a bare range invites a fight about the number.
+
+- id: q5
+  question: >-
+    Your shortlist has a knowledge-bank review and fixed-price packages next to two AI candidates. A
+    partner says the review is "not AI" and should go. What do you answer?
+  options:
+    - >-
+      Agree, and move the review to a separate knowledge-management budget.
+    - >-
+      It is the data gate: without it any research tool is confidently wrong.
+    - >-
+      Agree, and fold the review into the vendor's onboarding instead.
+    - >-
+      The review can wait until a tool is chosen and its needs are known.
+  correct: 1
+  explanation: >-
+    A search tool retrieves what is in the bank, stale documents included. The review is what makes
+    any tool's answers trustworthy, so it belongs on the shortlist even though it uses no AI.

@@ -1,0 +1,179 @@
+- id: q1
+  question: >-
+    A managing partner hires you to "tell the partners what to buy". Half the partners back a platform,
+    half oppose it, and the vote is in eight weeks. What goes into the charter as the objective?
+  options:
+    - >-
+      A recommendation on which legal-AI platform to buy, by the date of the vote.
+    - >-
+      How the firm should use AI in its legal work, with the purchase as one question answered.
+    - >-
+      A neutral comparison of three platforms, leaving the choice to the partners.
+    - >-
+      A training programme so that partners can decide for themselves.
+  correct: 1
+  explanation: >-
+    Writing the purchase as the objective makes every other finding a footnote. The managing partner's
+    broader objective, read back, holds the platform question inside it.
+
+- id: q2
+  question: >-
+    An associate admits, if nothing is attributed, that she used a free chatbot for a memo that nearly
+    went to a client with an invented case. Your findings memo should:
+  options:
+    - >-
+      Report it as a checking failure, unnamed, routed to the ethics partner.
+    - >-
+      Name the associate privately to her supervising partner so it cannot happen again.
+    - >-
+      Leave it out, since a single anecdote is not evidence.
+    - >-
+      Report it as a breach of privilege that the firm must disclose to the client.
+  correct: 0
+  explanation: >-
+    The finding is about a system that let an unchecked citation reach a signature. Naming her ends
+    your access to the truth; calling it a privilege breach is a legal conclusion for the ethics partner.
+
+- id: q3
+  question: >-
+    Time codes say research is 6% of associates' hours. Narratives say 25%, and research lines are
+    written off 40% of the time. Why does this matter for an AI business case?
+  options:
+    - >-
+      Associates mislabel their time, which must be corrected before any tool is bought.
+    - >-
+      The codes stay reliable for billing purposes even if they understate research.
+    - >-
+      Research is too small a share of total time to justify buying any tool.
+    - >-
+      The work a tool would change is far larger than the codes say, and partly unbilled.
+  correct: 3
+  explanation: >-
+    The tool acts on research, which is about four times larger than the codes show, and write-offs
+    reveal who already pays for it. Both change where the value and the loss would fall.
+
+- id: q4
+  question: >-
+    Associates are at 81% of their hours target. A vendor slide turns saved hours into ₪23M. What is
+    the core flaw?
+  options:
+    - >-
+      The billing rate used is too high for most associates.
+    - >-
+      The number of working weeks in a year is overstated.
+    - >-
+      Freed hours have no buyer; on hourly work they cut fees.
+    - >-
+      The vendor counted partners, who rarely do research work.
+  correct: 2
+  explanation: >-
+    Hours become money only if someone buys them, and on hourly work a faster firm bills less. A better
+    rate or week count leaves the form of the claim wrong.
+
+- id: q5
+  question: >-
+    After a template automation, a client moved its NDAs to a fixed price: fees per NDA fell 44%, fees
+    per hour rose 65%. What does it teach about pricing AI-assisted work?
+  options:
+    - >-
+      Fix prices for repeat work before hours fall, to keep part of the gain.
+    - >-
+      Never automate client work, because clients will always demand a discount.
+    - >-
+      Keep hourly billing and record the same hours as before the automation.
+    - >-
+      Wait for clients to ask before changing any price on repeat work.
+  correct: 0
+  explanation: >-
+    The client took most of the gain, but the fixed price let the firm earn more per hour. Recording
+    hours not worked is billing for time not spent; waiting lets the client set the price.
+
+- id: q6
+  question: >-
+    A partner's draft AI policy lets lawyers bill "the time a task would normally take" when AI saved
+    it. You are not a lawyer. What do you do?
+  options:
+    - >-
+      Approve it, since value billing is common practice in modern law firms.
+    - >-
+      Rewrite the clause yourself so that only actual time may be billed.
+    - >-
+      Ignore it, since billing questions are outside an AI engagement.
+    - >-
+      Flag it as billing for time not spent; route it to ethics.
+  correct: 3
+  explanation: >-
+    Whether and how a firm may bill is an ethics question with an owner. Your job is to state the fact
+    plainly and route it; approving, rewriting or ignoring it all overstep or abandon the boundary.
+
+- id: q7
+  question: >-
+    A legal-AI vendor's proof of concept on the firm's documents invented no citations but cited
+    superseded or misstated authority in 22 of 80. Which control does this argue for?
+  options:
+    - >-
+      Accepting the tool, since grounded answers cannot invent any authority.
+    - >-
+      A gate checking currency and support, not just existence.
+    - >-
+      Choosing a different vendor whose demo showed no errors at all.
+    - >-
+      A disclaimer on every answer saying that sources should be checked.
+  correct: 1
+  explanation: >-
+    Grounding stopped invention, not misreading or staleness. The gate must check that the source is
+    current and says what is claimed; a cleaner demo or a disclaimer checks nothing.
+
+- id: q8
+  question: >-
+    Over the uncurated corpus, a stale document appears in the top three for every question on a
+    reversed point; over the curated corpus, never. What do you tell the partners?
+  options:
+    - >-
+      That the search tool is faulty and should be replaced before any pilot.
+    - >-
+      That stale results are acceptable because lawyers check all sources anyway.
+    - >-
+      That curation is part of the control: search only reviewed documents.
+    - >-
+      That a larger model would rank the newer documents higher in the results.
+  correct: 2
+  explanation: >-
+    The tool found what was there. Curation, not a new model or search engine, removed the stale
+    answers, so it belongs in the recommendation and the rule of use.
+
+- id: q9
+  question: >-
+    A keyword "support" check catches nearly all misstated citations but flags more than half of the
+    good ones. How do you design the reader step?
+  options:
+    - >-
+      Keep the keyword check, since catching errors matters more than false alarms.
+    - >-
+      Drop the support check and rely on the rules for existence and paragraph.
+    - >-
+      Raise the threshold until the false alarms disappear, then keep it.
+    - >-
+      Use a person, helped by a model, to judge support, and measure their false alarms.
+  correct: 3
+  explanation: >-
+    Reviewers learn to ignore a flag that is usually wrong. Whether a paragraph says what a sentence
+    claims is judgement; measure the reader's catch rate and false alarms separately from the rules.
+
+- id: q10
+  question: >-
+    The vendor's discount expires before the partners' vote. Your evidence says no platform should be
+    signed before a proof of concept on the firm's own documents. Where does this go?
+  options:
+    - >-
+      On the front page, as a recommend-against with its evidence and what a "no" means.
+    - >-
+      In an annex, so the vote focuses on the parts the partners can approve.
+    - >-
+      Nowhere, since the managing partner can let the discount lapse quietly.
+    - >-
+      In a separate memo to the partner who proposed the platform.
+  correct: 0
+  explanation: >-
+    If the recommend-against is not on the front page, the deadline decides by default. Stating it with
+    its evidence lets the partners decide it openly.

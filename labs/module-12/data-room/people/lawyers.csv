@@ -1,0 +1,91 @@
+lawyer_id,name,role,practice_group,desk,year_admitted,languages,billable_target_h,billable_2025_h,billable_2026_jan_sep_h,standard_rate_ils
+L001,Yoav Dagan,equity_partner,Corporate,,1995,"he,en",700,610,444,2360
+L002,Shmuel Atlas,equity_partner,Litigation,,1984,"he,en",1400,1260,928,2150
+L003,Noa Friedman,equity_partner,Tech & IP,,2007,"he,en",1400,1353,966,2060
+L004,Orit Levinson,equity_partner,Employment,,1998,"he,en,fr",1000,880,630,1940
+L005,David Kessler,equity_partner,Corporate,International,1999,"en,he",1400,1238,914,1940
+L006,Leah Weinberg,equity_partner,Corporate,International,2003,"en,he",1400,1207,896,2190
+L007,Gadi Ohana,equity_partner,Corporate,,2005,"he,en",1400,1218,892,2080
+L008,Rachel Adler,salaried_partner,Corporate,International,2011,"en,he",1600,1373,1043,1490
+L009,Tal Segal,salaried_partner,Corporate,,2012,"he,en",1600,1394,967,1670
+L010,Avi Mor,equity_partner,Litigation,,2000,"he,en",1400,1312,980,2300
+L011,Ronit Bar-Lev,equity_partner,Litigation,,2004,"he,en",1400,1376,999,2120
+L012,Samer Khatib,salaried_partner,Litigation,,2010,"ar,he,en",1600,1471,1084,1590
+L013,Inbal Harel,salaried_partner,Litigation,,2012,"he,en",1600,1569,1109,1710
+L014,Elad Peretz,salaried_partner,Litigation,,2013,"he,en",1600,1559,1150,1500
+L015,Michal Ben-Ami,salaried_partner,Tech & IP,,2012,"he,en",1600,1556,1104,1510
+L016,Jonathan Green,salaried_partner,Tech & IP,,2013,"en,he",1600,1635,1300,1700
+L017,Moshe Azoulay,equity_partner,Real estate,,1997,"he,en,fr",1400,1299,974,2280
+L018,Hani Mansour,equity_partner,Real estate,,2002,"ar,he,en",1400,1490,1059,2170
+L019,Keren Shapira,equity_partner,Real estate,,2006,"he,en",1400,1250,856,1950
+L020,Dmitri Volkov,salaried_partner,Real estate,,2011,"ru,he,en",1600,1384,963,1560
+L021,Elena Sokolova,equity_partner,Banking & finance,,2001,"ru,he,en",1400,1226,874,2310
+L022,Uri Peleg,equity_partner,Banking & finance,,2003,"he,en",1400,1541,1157,2040
+L023,Nizar Hamdan,salaried_partner,Banking & finance,,2012,"ar,he,en",1600,1433,1057,1630
+L024,Fadi Haddad,equity_partner,Employment,,2004,"ar,he,en",1400,1371,1016,2200
+L025,Sharon Levi,equity_partner,Employment,,2006,"he,en",1400,1267,863,1920
+L026,Polina Gurevich,salaried_partner,Employment,,2014,"ru,he,en",1600,1611,1206,1530
+L027,Amit Harel,associate,Banking & finance,,2022,"he,en",1850,1523,1131,930
+L028,Igor Sokolova,associate,Banking & finance,,2018,"ru,he,en",1850,1761,1296,1210
+L029,Rachel Brown,associate,Litigation,,2023,"en,he",1850,1620,1175,860
+L030,Igor Rabinovich,associate,Real estate,,2017,"ru,he,en",1850,1618,1194,1250
+L031,Neta Azoulay,associate,Litigation,,2025,"he,en",1850,1876,1395,720
+L032,Inbal Avraham,associate,Employment,,2020,"he,en",1850,1444,1030,1070
+L033,Wael Zoabi,associate,Banking & finance,,2022,"ar,he,en",1850,1411,975,930
+L034,Marina Sokolova,associate,Litigation,,2019,"ru,he,en",1850,1494,1069,1140
+L035,Mulu Mekonen,associate,Litigation,,2025,"am,he,en",1850,1636,1188,720
+L036,Samer Khoury,associate,Corporate,International,2022,"ar,he,en",1850,1470,1050,930
+L037,Wael Saleh,associate,Real estate,,2017,"ar,he,en",1850,1520,1089,1250
+L038,Reem Haddad,associate,Corporate,International,2025,"ar,he,en",1850,1586,1079,720
+L039,Benjamin Taylor,associate,Banking & finance,,2016,"en,he",1850,1548,1095,1250
+L040,Dana Ben-David,associate,Litigation,,2018,"he,en",1850,1564,1166,1210
+L041,Karim Nassar,associate,Litigation,,2019,"ar,he,en",1850,1688,1258,1140
+L042,Michal Dahan,associate,Banking & finance,,2022,"he,en",1850,1374,1027,930
+L043,Elad Sasson,associate,Corporate,International,2019,"he,en",1850,1383,1002,1140
+L044,Rana Haddad,associate,Corporate,,2022,"ar,he,en",1850,1451,1022,930
+L045,Moran Sasson,associate,Litigation,,2022,"he,en",1850,1470,1010,930
+L046,Maysa Abu-Ras,associate,Corporate,,2022,"ar,he,en",1850,1678,1183,930
+L047,Roni Amar,associate,Real estate,,2025,"he,en",1850,1628,1204,720
+L048,Eitan Ohana,associate,Corporate,International,2022,"he,en",1850,1532,1194,930
+L049,Itai Mizrahi,associate,Corporate,International,2020,"he,en",1850,1344,964,1070
+L050,Rami Khatib,associate,Real estate,,2024,"ar,he,en",1850,1696,1207,790
+L051,Eitan Peretz,associate,Litigation,,2025,"he,en",1850,1517,1079,720
+L052,Samer Haddad,associate,Employment,,2022,"ar,he,en",1850,1751,1286,930
+L053,Omer Peretz,associate,Employment,,2019,"he,en",1850,1506,1086,1140
+L054,Elena Gurevich,associate,Banking & finance,,2020,"ru,he,en",1850,1396,971,1070
+L055,Omer Levi,associate,Employment,,2017,"he,en",1850,1731,1226,1250
+L056,Avraham Mekonen,associate,Corporate,,2019,"am,he,en",1850,1663,1177,1140
+L057,Asaf Cohen,associate,Corporate,,2022,"he,en",1850,1396,1047,930
+L058,Daniel Brown,associate,Corporate,,2021,"en,he",1850,1508,1046,1000
+L059,Nadav Friedman,associate,Employment,,2018,"he,en",1850,1747,1307,1210
+L060,Maysa Mansour,associate,Tech & IP,,2021,"ar,he,en",1850,1566,1155,1000
+L061,Nadav Harel,associate,Real estate,,2020,"he,en",1850,1330,937,1070
+L062,Neta Avraham,associate,Corporate,,2017,"he,en",1850,1329,919,1250
+L063,Yana Petrenko,associate,Corporate,International,2024,"ru,he,en",1850,1609,1227,790
+L064,Anton Volkov,associate,Tech & IP,,2019,"ru,he,en",1850,1626,1133,1140
+L065,Hila Ben-David,associate,Employment,,2020,"he,en",1850,1198,878,1070
+L066,Inbal Azoulay,associate,Banking & finance,,2022,"he,en",1850,1519,1093,930
+L067,Rana Abu-Ras,associate,Corporate,,2025,"ar,he,en",1850,1550,1074,720
+L068,Dana Azoulay,associate,Tech & IP,,2020,"he,en",1850,1424,1060,1070
+L069,Marina Volkov,associate,Banking & finance,,2016,"ru,he,en",1850,1607,1165,1250
+L070,Nadav Tal,associate,Tech & IP,,2021,"he,en",1850,1572,1095,1000
+L071,Leah Brown,associate,Tech & IP,,2020,"en,he",1850,1709,1276,1070
+L072,Ronen Cohen,associate,Corporate,,2020,"he,en",1850,1473,1105,1070
+L073,Shira Harel,associate,Employment,,2016,"he,en",1850,1502,1082,1250
+L074,Omer Segal,associate,Real estate,,2016,"he,en",1850,1575,1081,1250
+L075,Ori Mizrahi,associate,Tech & IP,,2022,"he,en",1850,1773,1206,930
+L076,Noa Peretz,associate,Litigation,,2023,"he,en",1850,1525,1155,860
+L077,Inbal Barak,associate,Real estate,,2022,"he,en",1850,1608,1120,930
+L078,Avital Ben-David,associate,Real estate,,2024,"he,en",1850,1509,1115,790
+L079,Sarah Rowe,associate,Litigation,,2016,"en,he",1850,1643,1168,1250
+L080,Roni Katz,associate,Tech & IP,,2023,"he,en",1850,1578,1085,860
+L081,Michal Cohen,associate,Litigation,,2019,"he,en",1850,1643,1221,1140
+L082,Lina Saleh,associate,Corporate,,2020,"ar,he,en",1850,1718,1235,1070
+L083,Benjamin Rowe,associate,Litigation,,2023,"en,he",1850,1484,1081,860
+L084,Avital Amar,associate,Real estate,,2017,"he,en",1850,1413,1027,1250
+L085,Tamar Ashkenazi,associate,Litigation,,2023,"he,en",1850,1802,1252,860
+L086,Gal Segal,associate,Employment,,2024,"he,en",1850,1386,1002,790
+L087,Michal Avraham,associate,Litigation,,2018,"he,en",1850,1542,1035,1210
+L088,Lior Peretz,associate,Corporate,,2023,"he,en",1850,1547,1151,860
+L089,Itai Peretz,associate,Employment,,2019,"he,en",1850,1452,990,1140
+L090,Sarah Taylor,associate,Litigation,,2021,"en,he",1850,1608,1171,1000

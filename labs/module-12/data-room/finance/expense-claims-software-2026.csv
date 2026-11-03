@@ -1,0 +1,87 @@
+claim_date,employee_id,practice_group,vendor,description,amount_ils,category,approved_by
+2026-01-04,L060,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),71.93,software,L003
+2026-01-04,L064,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),70.47,software,L003
+2026-01-05,L070,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),70.22,software,L003
+2026-01-06,L003,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),72.57,software,L003
+2026-01-14,L004,Employment,Zoom,Video meetings (monthly),58.69,software,finance
+2026-01-20,L067,Corporate,Dropbox Plus,File storage,44.87,software,finance
+2026-01-21,L054,Banking & finance,Zoom,Video meetings (monthly),60.74,software,finance
+2026-02-03,L003,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.47,software,L003
+2026-02-03,L060,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),70.79,software,L003
+2026-02-03,L068,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.33,software,L003
+2026-02-03,L070,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.3,software,L003
+2026-02-04,L064,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.04,software,L003
+2026-02-05,L071,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.57,software,L003
+2026-02-17,L033,Banking & finance,Adobe Acrobat Pro,PDF editing (monthly),87.46,software,finance
+2026-02-17,L061,Real estate,LinkedIn Premium,Business development,136.78,software,finance
+2026-02-23,L089,Employment,Zoom,Video meetings (monthly),55.75,software,finance
+2026-02-24,L017,Real estate,Adobe Acrobat Pro,PDF editing (monthly),90.14,software,finance
+2026-03-02,L060,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),72.28,software,L003
+2026-03-03,L068,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),72.88,software,L003
+2026-03-03,L070,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),74.81,software,L003
+2026-03-04,L003,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),72.33,software,L003
+2026-03-06,L064,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.99,software,L003
+2026-03-06,L071,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),70.28,software,L003
+2026-03-11,L049,Corporate,Adobe Acrobat Pro,PDF editing (monthly),89.02,software,finance
+2026-03-17,L004,Employment,Zoom,Video meetings (monthly),56.89,software,finance
+2026-03-27,L018,Real estate,Zoom,Video meetings (monthly),59.52,software,finance
+2026-04-02,L064,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),74.71,software,L003
+2026-04-02,L068,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),74.56,software,L003
+2026-04-03,L060,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),70.7,software,L003
+2026-04-04,L070,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),75.86,software,L003
+2026-04-04,L071,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),70.5,software,L003
+2026-04-05,L003,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),75.8,software,L003
+2026-04-15,L011,Litigation,Adobe Acrobat Pro,PDF editing (monthly),91.76,software,finance
+2026-04-19,L005,Corporate,Dropbox Plus,File storage,45.01,software,finance
+2026-04-27,L089,Employment,Zoom,Video meetings (monthly),58.99,software,finance
+2026-05-02,L003,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),70.44,software,L003
+2026-05-02,L070,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),70.75,software,L003
+2026-05-05,L064,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.33,software,L003
+2026-05-05,L068,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),72.56,software,L003
+2026-05-06,L060,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),74.25,software,L003
+2026-05-06,L071,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.48,software,L003
+2026-05-15,L018,Real estate,Dropbox Plus,File storage,46.51,software,finance
+2026-05-23,L027,Banking & finance,Adobe Acrobat Pro,PDF editing (monthly),90.48,software,finance
+2026-06-02,L070,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.47,software,L003
+2026-06-02,L071,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),74.25,software,L003
+2026-06-03,L060,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),72.67,software,L003
+2026-06-04,L068,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),70.4,software,L003
+2026-06-05,L064,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.45,software,L003
+2026-06-06,L003,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),72.91,software,L003
+2026-06-21,L067,Corporate,Zoom,Video meetings (monthly),58.25,software,finance
+2026-06-25,L055,Employment,Adobe Acrobat Pro,PDF editing (monthly),91.71,software,finance
+2026-07-02,L064,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),71.46,software,L003
+2026-07-02,L070,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),75.89,software,L003
+2026-07-03,L003,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),74.05,software,L003
+2026-07-03,L060,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),72.45,software,L003
+2026-07-03,L071,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.06,software,L003
+2026-07-04,L068,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),70.41,software,L003
+2026-07-22,L078,Real estate,Zoom,Video meetings (monthly),59.89,software,finance
+2026-07-27,L017,Real estate,Zoom,Video meetings (monthly),60.33,software,finance
+2026-08-04,L001,Corporate,Grammarly Premium,English editing (monthly),45.08,software,finance
+2026-08-04,L070,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),74.21,software,L003
+2026-08-05,L003,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.3,software,L003
+2026-08-05,L060,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.02,software,L003
+2026-08-05,L068,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),72.93,software,L003
+2026-08-06,L064,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),72.1,software,L003
+2026-08-06,L071,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),71.34,software,L003
+2026-08-15,L090,Litigation,Zoom,Video meetings (monthly),57.69,software,finance
+2026-09-04,L060,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),72.75,software,L003
+2026-09-04,L068,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.61,software,L003
+2026-09-05,L064,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.74,software,L003
+2026-09-05,L070,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),74.3,software,L003
+2026-09-05,L071,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),70.39,software,L003
+2026-09-06,L003,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),75.26,software,L003
+2026-09-11,L042,Banking & finance,Grammarly Premium,English editing (monthly),43.26,software,finance
+2026-09-17,L026,Employment,Grammarly Premium,English editing (monthly),45.12,software,finance
+2026-09-21,L028,Banking & finance,Zoom,Video meetings (monthly),57.16,software,finance
+2026-10-02,L060,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),74.83,software,L003
+2026-10-02,L068,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),73.95,software,L003
+2026-10-03,L003,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),70.35,software,L003
+2026-10-03,L064,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),71.61,software,L003
+2026-10-03,L070,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),70.98,software,L003
+2026-10-04,L071,Tech & IP,OpenAI *ChatGPT Plus,Software subscription (monthly),75.38,software,L003
+2026-10-06,L012,Litigation,Zoom,Video meetings (monthly),56.98,software,finance
+2026-10-10,L059,Employment,Zoom,Video meetings (monthly),59.58,software,finance
+2026-10-17,L072,Corporate,LinkedIn Premium,Business development,146.39,software,finance
+2026-10-19,L079,Litigation,Zoom,Video meetings (monthly),58.41,software,finance

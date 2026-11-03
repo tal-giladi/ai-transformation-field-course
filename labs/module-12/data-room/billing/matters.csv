@@ -1,0 +1,563 @@
+matter_id,client_code,practice_group,desk,responsible_partner,billing_type,fee_terms,opened_year,status,worked_value_2025_ils,billed_2025_ils,worked_value_2026_jan_sep_ils,billed_2026_jan_sep_ils
+M-2019-0124,C-020,Corporate,,L009,capped,"capped at ₪159,800",2019,open,191710,152190,417580,349390
+M-2019-0154,C-128,Corporate,,L005,hourly,"hourly, firm rates",2019,open,320040,289940,166150,147290
+M-2019-0200,C-001,Corporate,,L005,fixed,"fixed fee ₪342,000",2019,closed,383660,342000,,
+M-2019-0209,C-002,Corporate,International,L006,hourly,"hourly, firm rates",2019,closed,130880,127800,,
+M-2019-0212,C-009,Corporate,,L005,hourly,"hourly, firm rates",2019,open,353030,329250,288860,250300
+M-2019-0298,C-031,Litigation,,L013,capped,"capped at ₪732,210",2019,open,891030,697340,109860,91600
+M-2019-0366,C-056,Litigation,,L011,hourly,"hourly, firm rates",2019,open,80520,72450,69560,62690
+M-2019-0391,C-016,Real estate,,L018,fixed,"fixed fee ₪451,910",2019,open,505300,451910,575450,549610
+M-2019-0398,C-115,Real estate,,L018,fixed,"fixed fee ₪52,460",2019,closed,57190,52460,,
+M-2019-0423,C-017,Real estate,,L019,capped,"capped at ₪591,180",2019,closed,764610,563030,,
+M-2019-0438,C-073,Real estate,,L020,capped,"capped at ₪530,680",2019,open,697980,505410,958020,761750
+M-2019-0474,C-027,Banking & finance,,L021,hourly,"hourly, firm rates",2019,open,228670,200650,391860,365520
+M-2019-0485,C-015,Banking & finance,,L022,capped,"capped at ₪242,320",2019,closed,285150,230780,,
+M-2019-0528,C-047,Tech & IP,,L015,fixed,"fixed fee ₪115,900",2019,open,154880,115900,1168200,892500
+M-2019-0574,C-047,Tech & IP,,L016,fixed,"fixed fee ₪99,360",2019,open,137800,99360,370790,269730
+M-2019-0612,C-014,Employment,,L026,retainer,monthly retainer,2019,closed,133020,112150,,
+M-2019-0628,C-048,Employment,,L025,hourly,"hourly, firm rates",2019,open,215440,191380,205970,184950
+M-2019-0647,C-054,Employment,,L025,fixed,"fixed fee ₪946,130",2019,open,909730,946130,285510,275050
+M-2019-0650,C-049,Employment,,L004,hourly,"hourly, firm rates",2019,closed,396980,334500,,
+M-2020-0114,C-070,Corporate,,L008,hourly,"hourly, firm rates",2020,open,561420,485730,70410,65820
+M-2020-0175,C-006,Corporate,International,L009,hourly,"hourly, firm rates",2020,open,212890,183610,101450,88880
+M-2020-0186,C-050,Corporate,,L006,hourly,"hourly, firm rates",2020,open,52440,48350,68120,64250
+M-2020-0215,C-057,Corporate,,L007,retainer,monthly retainer,2020,open,607880,497130,86630,76570
+M-2020-0224,C-011,Corporate,,L001,hourly,"hourly, firm rates",2020,closed,227820,204730,,
+M-2020-0241,C-078,Corporate,International,L007,capped,"capped at ₪155,680",2020,closed,198390,148270,,
+M-2020-0243,C-156,Corporate,,L005,hourly,"hourly, firm rates",2020,closed,882320,808080,,
+M-2020-0289,C-125,Litigation,,L010,hourly,"hourly, firm rates",2020,open,84820,72740,135520,124090
+M-2020-0312,C-035,Litigation,,L002,capped,"capped at ₪30,540",2020,closed,36600,29090,,
+M-2020-0319,C-070,Litigation,,L012,hourly,"hourly, firm rates",2020,open,319270,290870,729220,679960
+M-2020-0327,C-041,Litigation,,L014,hourly,"hourly, firm rates",2020,open,1406400,1185280,300810,268930
+M-2020-0338,C-046,Litigation,,L010,hourly,"hourly, firm rates",2020,open,159410,140050,49860,41990
+M-2020-0380,C-025,Litigation,,L002,capped,"capped at ₪530,320",2020,open,649020,505070,373240,308980
+M-2020-0421,C-008,Real estate,,L017,retainer,monthly retainer,2020,closed,421130,348520,,
+M-2020-0457,C-013,Real estate,,L017,capped,"capped at ₪25,290",2020,open,30170,24090,871730,666780
+M-2020-0461,C-048,Banking & finance,,L023,hourly,"hourly, firm rates",2020,closed,963570,896410,,
+M-2020-0493,C-028,Banking & finance,,L023,hourly,"hourly, firm rates",2020,open,260920,248610,115870,103350
+M-2020-0513,C-012,Banking & finance,,L023,hourly,"hourly, firm rates",2020,open,114800,108140,446110,385070
+M-2020-0541,C-105,Tech & IP,,L003,fixed,"fixed fee ₪41,910",2020,open,59680,41910,141780,97750
+M-2020-0560,C-010,Tech & IP,,L003,fixed,"fixed fee ₪465,210",2020,open,643090,465210,380260,288440
+M-2020-0639,C-005,Employment,,L025,hourly,"hourly, firm rates",2020,open,123070,111160,440960,398080
+M-2020-0655,C-010,Employment,,L004,retainer,monthly retainer,2020,open,109880,99060,335180,312600
+M-2021-0110,C-002,Corporate,International,L001,fixed,"fixed fee ₪560,360",2021,open,625460,560360,62090,56820
+M-2021-0127,C-003,Corporate,,L007,hourly,"hourly, firm rates",2021,open,123430,110220,53970,51280
+M-2021-0149,C-003,Corporate,,L005,retainer,monthly retainer,2021,open,1801420,1501220,147540,122670
+M-2021-0152,C-155,Corporate,,L006,retainer,monthly retainer,2021,closed,663930,562850,,
+M-2021-0166,C-003,Corporate,International,L008,hourly,"hourly, firm rates",2021,open,388750,358090,245070,233660
+M-2021-0167,C-091,Corporate,,L008,hourly,"hourly, firm rates",2021,open,268290,233860,527430,441670
+M-2021-0236,C-010,Corporate,,L008,fixed,"fixed fee ₪246,990",2021,open,252820,246990,155460,150870
+M-2021-0250,C-007,Corporate,,L009,hourly,"hourly, firm rates",2021,open,168920,153950,630930,565250
+M-2021-0251,C-001,Litigation,,L012,retainer,monthly retainer,2021,closed,163690,141210,,
+M-2021-0256,C-003,Litigation,,L014,hourly,"hourly, firm rates",2021,closed,13010,10960,,
+M-2021-0263,C-138,Litigation,,L013,capped,"capped at ₪110,800",2021,open,144650,105520,208260,165590
+M-2021-0270,C-105,Litigation,,L012,hourly,"hourly, firm rates",2021,open,49080,45190,418230,377670
+M-2021-0285,C-112,Litigation,,L010,hourly,"hourly, firm rates",2021,closed,46940,41700,,
+M-2021-0299,C-041,Litigation,,L010,retainer,monthly retainer,2021,open,380530,318660,444820,367480
+M-2021-0324,C-050,Litigation,,L010,capped,"capped at ₪67,100",2021,open,79470,63900,108460,87560
+M-2021-0339,C-085,Litigation,,L014,fixed,"fixed fee ₪706,450",2021,open,739560,706450,20180,18630
+M-2021-0346,C-008,Litigation,,L010,hourly,"hourly, firm rates",2021,open,62740,52900,468190,408600
+M-2021-0361,C-130,Litigation,,L010,fixed,"fixed fee ₪74,150",2021,open,73690,74150,40500,39040
+M-2021-0393,C-017,Real estate,,L018,fixed,"fixed fee ₪382,300",2021,open,436420,382300,846910,836270
+M-2021-0399,C-014,Real estate,,L018,capped,"capped at ₪90,480",2021,closed,114470,86170,,
+M-2021-0401,C-118,Real estate,,L020,fixed,"fixed fee ₪288,630",2021,open,297310,288630,76850,70760
+M-2021-0412,C-160,Real estate,,L019,hourly,"hourly, firm rates",2021,open,210770,187680,347940,335390
+M-2021-0418,C-104,Real estate,,L018,hourly,"hourly, firm rates",2021,open,709570,630880,89890,84850
+M-2021-0430,C-001,Real estate,,L019,fixed,"fixed fee ₪137,210",2021,open,151610,137210,179640,178490
+M-2021-0442,C-014,Real estate,,L019,hourly,"hourly, firm rates",2021,open,228990,211970,412330,380900
+M-2021-0451,C-007,Real estate,,L020,fixed,"fixed fee ₪141,660",2021,open,143940,141660,188350,180360
+M-2021-0492,C-003,Banking & finance,,L023,hourly,"hourly, firm rates",2021,open,424210,366840,26380,23700
+M-2021-0532,C-098,Tech & IP,,L016,hourly,"hourly, firm rates",2021,open,38310,37200,78970,70370
+M-2021-0537,C-005,Tech & IP,,L015,hourly,"hourly, firm rates",2021,closed,487720,440120,,
+M-2021-0558,C-009,Tech & IP,,L016,hourly,"hourly, firm rates",2021,open,217360,207390,505370,455890
+M-2021-0579,C-135,Tech & IP,,L003,fixed,"fixed fee ₪144,420",2021,closed,187000,144420,,
+M-2021-0615,C-001,Employment,,L026,retainer,monthly retainer,2021,closed,262690,227320,,
+M-2021-0627,C-007,Employment,,L024,retainer,monthly retainer,2021,open,949410,806960,1378880,1167310
+M-2021-0637,C-001,Employment,,L024,retainer,monthly retainer,2021,open,84950,70630,83460,76310
+M-2022-0108,C-055,Corporate,,L006,fixed,"fixed fee ₪168,800",2022,open,172080,168800,40970,38290
+M-2022-0118,C-020,Corporate,International,L009,hourly,"hourly, firm rates",2022,open,64460,60370,325610,281700
+M-2022-0140,C-008,Corporate,International,L008,capped,"capped at ₪142,260",2022,open,173710,135490,545150,395660
+M-2022-0148,C-001,Corporate,International,L006,hourly,"hourly, firm rates",2022,open,313220,293510,153720,139810
+M-2022-0160,C-047,Corporate,,L009,retainer,monthly retainer,2022,open,280040,271620,1021190,911580
+M-2022-0165,C-014,Corporate,,L007,hourly,"hourly, firm rates",2022,open,1493060,1395890,642990,585980
+M-2022-0189,C-050,Corporate,,L008,capped,"capped at ₪474,720",2022,closed,582090,452110,,
+M-2022-0197,C-011,Corporate,,L001,hourly,"hourly, firm rates",2022,open,357680,321670,124030,112830
+M-2022-0198,C-038,Corporate,,L001,hourly,"hourly, firm rates",2022,open,287700,269850,70410,68540
+M-2022-0214,C-143,Corporate,,L007,hourly,"hourly, firm rates",2022,closed,647970,602800,,
+M-2022-0219,C-001,Corporate,International,L008,hourly,"hourly, firm rates",2022,open,884880,772130,156390,142910
+M-2022-0235,C-108,Corporate,,L007,hourly,"hourly, firm rates",2022,closed,57260,51570,,
+M-2022-0249,C-016,Corporate,International,L001,hourly,"hourly, firm rates",2022,open,57210,51180,575350,532000
+M-2022-0253,C-050,Litigation,,L012,capped,"capped at ₪495,830",2022,closed,634340,472220,,
+M-2022-0262,C-009,Litigation,,L013,hourly,"hourly, firm rates",2022,open,20390,17900,51270,47490
+M-2022-0272,C-081,Litigation,,L002,hourly,"hourly, firm rates",2022,closed,403330,371780,,
+M-2022-0279,C-014,Litigation,,L010,hourly,"hourly, firm rates",2022,closed,99010,90220,,
+M-2022-0295,C-020,Litigation,,L010,hourly,"hourly, firm rates",2022,open,40950,33350,588090,550740
+M-2022-0322,C-005,Litigation,,L014,hourly,"hourly, firm rates",2022,closed,1293010,1182370,,
+M-2022-0328,C-010,Litigation,,L013,hourly,"hourly, firm rates",2022,open,243050,214720,165590,157030
+M-2022-0330,C-043,Litigation,,L011,hourly,"hourly, firm rates",2022,open,932920,814430,333690,289520
+M-2022-0334,C-138,Litigation,,L013,capped,"capped at ₪1,074,180",2022,open,1353150,1023030,537920,427390
+M-2022-0340,C-090,Litigation,,L011,hourly,"hourly, firm rates",2022,open,134420,117130,431910,360420
+M-2022-0351,C-137,Litigation,,L011,hourly,"hourly, firm rates",2022,open,50110,42950,603250,518270
+M-2022-0356,C-025,Litigation,,L002,hourly,"hourly, firm rates",2022,closed,184580,158810,,
+M-2022-0379,C-145,Litigation,,L013,hourly,"hourly, firm rates",2022,open,382010,336620,143220,121160
+M-2022-0402,C-002,Real estate,,L017,fixed,"fixed fee ₪338,930",2022,open,372360,338930,225740,228760
+M-2022-0432,C-136,Real estate,,L018,retainer,monthly retainer,2022,closed,334910,292520,,
+M-2022-0453,C-013,Real estate,,L020,capped,"capped at ₪157,880",2022,open,199490,150360,126200,94740
+M-2022-0458,C-001,Real estate,,L017,fixed,"fixed fee ₪101,740",2022,open,112940,101740,2002140,1963310
+M-2022-0488,C-007,Banking & finance,,L021,capped,"capped at ₪276,140",2022,open,317690,262990,356940,251980
+M-2022-0510,C-130,Banking & finance,,L022,capped,"capped at ₪53,340",2022,closed,69130,50800,,
+M-2022-0526,C-015,Tech & IP,,L016,hourly,"hourly, firm rates",2022,open,545640,509580,127770,118960
+M-2022-0533,C-055,Tech & IP,,L003,fixed,"fixed fee ₪70,220",2022,open,98460,70220,279250,206800
+M-2022-0540,C-001,Tech & IP,,L016,fixed,"fixed fee ₪64,420",2022,open,83820,64420,272710,214630
+M-2022-0542,C-001,Tech & IP,,L016,hourly,"hourly, firm rates",2022,open,47150,44100,135350,134910
+M-2022-0559,C-013,Tech & IP,,L015,fixed,"fixed fee ₪243,350",2022,closed,307990,243350,,
+M-2022-0585,C-005,Tech & IP,,L015,fixed,"fixed fee ₪28,090",2022,open,41680,28090,210920,162820
+M-2022-0599,C-014,Employment,,L024,hourly,"hourly, firm rates",2022,open,1371350,1169920,345400,317380
+M-2022-0609,C-033,Employment,,L024,fixed,"fixed fee ₪311,960",2022,open,330330,311960,516270,507640
+M-2022-0621,C-007,Employment,,L004,hourly,"hourly, firm rates",2022,open,10970,10660,530380,503050
+M-2022-0630,C-148,Employment,,L026,hourly,"hourly, firm rates",2022,closed,376150,344920,,
+M-2022-0633,C-069,Employment,,L025,retainer,monthly retainer,2022,closed,705860,599200,,
+M-2022-0649,C-005,Employment,,L026,capped,"capped at ₪408,070",2022,open,454260,388640,378870,301540
+M-2022-0652,C-017,Employment,,L024,fixed,"fixed fee ₪51,480",2022,closed,55040,51480,,
+M-2023-0117,C-002,Corporate,International,L009,capped,"capped at ₪460,560",2023,open,540990,438630,366790,319480
+M-2023-0121,C-008,Corporate,,L007,hourly,"hourly, firm rates",2023,open,184540,170490,380140,352960
+M-2023-0128,C-058,Corporate,,L005,hourly,"hourly, firm rates",2023,closed,122910,116350,,
+M-2023-0131,C-082,Corporate,,L009,hourly,"hourly, firm rates",2023,open,640480,607790,1156170,1136610
+M-2023-0132,C-060,Corporate,,L005,hourly,"hourly, firm rates",2023,open,452110,423510,37770,35230
+M-2023-0134,C-061,Corporate,,L001,fixed,"fixed fee ₪734,890",2023,open,789050,734890,597680,564480
+M-2023-0136,C-095,Corporate,,L008,capped,"capped at ₪550,010",2023,closed,669520,523820,,
+M-2023-0146,C-013,Corporate,,L009,capped,"capped at ₪632,150",2023,closed,665350,602050,,
+M-2023-0170,C-005,Corporate,,L007,fixed,"fixed fee ₪306,850",2023,open,319700,306850,75050,72130
+M-2023-0171,C-035,Corporate,,L007,hourly,"hourly, firm rates",2023,closed,101350,89740,,
+M-2023-0172,C-024,Corporate,,L006,capped,"capped at ₪232,070",2023,open,266560,221020,561360,433400
+M-2023-0176,C-095,Corporate,,L006,hourly,"hourly, firm rates",2023,closed,633680,584120,,
+M-2023-0178,C-003,Corporate,,L008,hourly,"hourly, firm rates",2023,open,557460,508660,500620,465530
+M-2023-0184,C-020,Corporate,International,L001,hourly,"hourly, firm rates",2023,open,114590,107590,391680,360420
+M-2023-0185,C-013,Corporate,,L001,retainer,monthly retainer,2023,open,316570,288810,149060,130540
+M-2023-0188,C-007,Corporate,,L009,hourly,"hourly, firm rates",2023,open,320190,291260,146310,133660
+M-2023-0191,C-001,Corporate,,L006,hourly,"hourly, firm rates",2023,open,1050700,899470,192640,176590
+M-2023-0204,C-095,Corporate,,L009,capped,"capped at ₪905,370",2023,open,1034240,862260,818010,667640
+M-2023-0205,C-005,Corporate,,L006,retainer,monthly retainer,2023,closed,531890,434640,,
+M-2023-0210,C-001,Corporate,International,L005,fixed,"fixed fee ₪297,630",2023,open,283960,297630,75270,67810
+M-2023-0223,C-009,Corporate,International,L007,capped,"capped at ₪72,500",2023,closed,103420,69050,,
+M-2023-0225,C-001,Corporate,International,L005,capped,"capped at ₪85,690",2023,closed,94080,81610,,
+M-2023-0233,C-003,Corporate,International,L005,hourly,"hourly, firm rates",2023,open,397210,361170,338630,302780
+M-2023-0247,C-017,Corporate,,L007,hourly,"hourly, firm rates",2023,closed,205630,199050,,
+M-2023-0248,C-142,Corporate,International,L001,hourly,"hourly, firm rates",2023,open,283780,257040,367420,354240
+M-2023-0254,C-003,Litigation,,L014,hourly,"hourly, firm rates",2023,open,348360,312810,204660,165710
+M-2023-0260,C-001,Litigation,,L012,hourly,"hourly, firm rates",2023,open,125140,107290,181130,162270
+M-2023-0265,C-008,Litigation,,L014,hourly,"hourly, firm rates",2023,closed,896760,806320,,
+M-2023-0274,C-110,Litigation,,L002,hourly,"hourly, firm rates",2023,open,98360,88690,338210,291940
+M-2023-0275,C-066,Litigation,,L011,hourly,"hourly, firm rates",2023,open,127130,115740,273650,247640
+M-2023-0276,C-031,Litigation,,L012,capped,"capped at ₪1,072,860",2023,open,1280770,1021770,142090,116210
+M-2023-0281,C-016,Litigation,,L014,hourly,"hourly, firm rates",2023,open,416730,351700,528460,456010
+M-2023-0286,C-002,Litigation,,L014,hourly,"hourly, firm rates",2023,closed,204250,172540,,
+M-2023-0290,C-030,Litigation,,L012,hourly,"hourly, firm rates",2023,closed,1404900,1216600,,
+M-2023-0291,C-061,Litigation,,L012,hourly,"hourly, firm rates",2023,open,512910,450170,597360,499910
+M-2023-0293,C-039,Litigation,,L014,hourly,"hourly, firm rates",2023,closed,85590,73620,,
+M-2023-0300,C-075,Litigation,,L012,hourly,"hourly, firm rates",2023,open,1045590,875780,517410,444470
+M-2023-0309,C-007,Litigation,,L011,hourly,"hourly, firm rates",2023,open,44280,38140,522300,448690
+M-2023-0314,C-031,Litigation,,L012,capped,"capped at ₪161,740",2023,open,225120,154040,104480,83090
+M-2023-0318,C-134,Litigation,,L010,hourly,"hourly, firm rates",2023,open,166100,144410,179850,164280
+M-2023-0325,C-149,Litigation,,L012,hourly,"hourly, firm rates",2023,open,121710,104450,561920,528840
+M-2023-0326,C-042,Litigation,,L014,hourly,"hourly, firm rates",2023,open,271860,250480,188040,164970
+M-2023-0332,C-002,Litigation,,L010,hourly,"hourly, firm rates",2023,open,293930,246410,68600,62640
+M-2023-0365,C-004,Litigation,,L013,hourly,"hourly, firm rates",2023,closed,882210,805060,,
+M-2023-0367,C-031,Litigation,,L012,hourly,"hourly, firm rates",2023,open,1309760,1112600,4830,4210
+M-2023-0370,C-003,Litigation,,L013,hourly,"hourly, firm rates",2023,closed,36280,31190,,
+M-2023-0375,C-025,Litigation,,L014,hourly,"hourly, firm rates",2023,open,102710,90340,83960,72370
+M-2023-0376,C-020,Litigation,,L011,fixed,"fixed fee ₪748,960",2023,open,832600,748960,382940,362890
+M-2023-0384,C-046,Real estate,,L018,hourly,"hourly, firm rates",2023,open,374590,345200,76500,68380
+M-2023-0388,C-018,Real estate,,L018,capped,"capped at ₪135,460",2023,closed,163900,129010,,
+M-2023-0392,C-064,Real estate,,L019,retainer,monthly retainer,2023,closed,281250,236910,,
+M-2023-0409,C-096,Real estate,,L020,hourly,"hourly, firm rates",2023,open,137730,129680,253630,222270
+M-2023-0410,C-090,Real estate,,L019,capped,"capped at ₪1,069,060",2023,closed,1296180,1018150,,
+M-2023-0414,C-004,Real estate,,L020,hourly,"hourly, firm rates",2023,open,140130,130650,39120,36500
+M-2023-0420,C-028,Real estate,,L020,hourly,"hourly, firm rates",2023,open,55590,50550,129650,120070
+M-2023-0422,C-016,Real estate,,L018,hourly,"hourly, firm rates",2023,closed,622510,576980,,
+M-2023-0424,C-037,Real estate,,L017,hourly,"hourly, firm rates",2023,open,2362300,2074640,142050,130300
+M-2023-0425,C-001,Real estate,,L018,fixed,"fixed fee ₪1,005,350",2023,open,1173590,1005350,82100,70050
+M-2023-0429,C-050,Real estate,,L019,retainer,monthly retainer,2023,open,174460,148440,610770,527290
+M-2023-0450,C-041,Real estate,,L019,fixed,"fixed fee ₪107,950",2023,closed,107430,107950,,
+M-2023-0460,C-086,Real estate,,L018,hourly,"hourly, firm rates",2023,open,71620,63050,440020,432170
+M-2023-0467,C-010,Banking & finance,,L023,fixed,"fixed fee ₪246,090",2023,open,248370,246090,219380,201950
+M-2023-0468,C-002,Banking & finance,,L022,hourly,"hourly, firm rates",2023,open,135510,124020,129040,116560
+M-2023-0469,C-159,Banking & finance,,L022,hourly,"hourly, firm rates",2023,open,493080,464180,62080,60910
+M-2023-0477,C-021,Banking & finance,,L022,hourly,"hourly, firm rates",2023,open,111810,107600,188480,176140
+M-2023-0478,C-057,Banking & finance,,L022,capped,"capped at ₪173,820",2023,open,208650,165540,427660,306010
+M-2023-0486,C-001,Banking & finance,,L021,fixed,"fixed fee ₪65,430",2023,closed,65340,65430,,
+M-2023-0491,C-020,Banking & finance,,L023,hourly,"hourly, firm rates",2023,closed,379450,380940,,
+M-2023-0505,C-013,Banking & finance,,L022,hourly,"hourly, firm rates",2023,open,1126350,1094730,77740,70940
+M-2023-0507,C-003,Banking & finance,,L022,capped,"capped at ₪833,410",2023,open,990680,793720,448050,359460
+M-2023-0511,C-009,Banking & finance,,L022,retainer,monthly retainer,2023,closed,291780,224440,,
+M-2023-0517,C-042,Banking & finance,,L021,hourly,"hourly, firm rates",2023,open,686490,585130,784480,738960
+M-2023-0520,C-008,Banking & finance,,L021,capped,"capped at ₪588,300",2023,closed,709190,560290,,
+M-2023-0524,C-007,Tech & IP,,L003,hourly,"hourly, firm rates",2023,open,172670,157150,108970,100990
+M-2023-0551,C-001,Tech & IP,,L016,fixed,"fixed fee ₪26,030",2023,open,38590,26030,388860,284970
+M-2023-0569,C-001,Tech & IP,,L003,hourly,"hourly, firm rates",2023,open,169940,163170,46870,42410
+M-2023-0572,C-016,Tech & IP,,L016,fixed,"fixed fee ₪251,140",2023,open,327990,251140,146210,98260
+M-2023-0573,C-054,Tech & IP,,L015,hourly,"hourly, firm rates",2023,closed,225400,208230,,
+M-2023-0578,C-093,Tech & IP,,L015,fixed,"fixed fee ₪179,220",2023,closed,230930,179220,,
+M-2023-0587,C-001,Tech & IP,,L016,fixed,"fixed fee ₪86,870",2023,open,124420,86870,113740,90170
+M-2023-0590,C-043,Tech & IP,,L015,fixed,"fixed fee ₪331,650",2023,closed,500520,331650,,
+M-2023-0592,C-047,Employment,,L024,capped,"capped at ₪210,940",2023,closed,239120,200900,,
+M-2023-0596,C-001,Employment,,L026,retainer,monthly retainer,2023,open,491170,428660,111820,97490
+M-2023-0598,C-005,Employment,,L024,retainer,monthly retainer,2023,closed,394780,352300,,
+M-2023-0602,C-032,Employment,,L026,retainer,monthly retainer,2023,closed,110290,92700,,
+M-2023-0607,C-032,Employment,,L024,retainer,monthly retainer,2023,open,49020,41490,45320,40290
+M-2023-0614,C-012,Employment,,L026,hourly,"hourly, firm rates",2023,open,54560,51280,235690,209220
+M-2023-0624,C-001,Employment,,L026,retainer,monthly retainer,2023,open,542080,443520,443360,367470
+M-2023-0635,C-030,Employment,,L024,capped,"capped at ₪78,320",2023,open,90560,74590,300010,218180
+M-2023-0643,C-026,Employment,,L025,retainer,monthly retainer,2023,open,285640,252950,14250,13180
+M-2023-0653,C-061,Employment,,L004,hourly,"hourly, firm rates",2023,open,458140,428980,103460,93170
+M-2023-0657,C-040,Employment,,L026,retainer,monthly retainer,2023,closed,105020,89200,,
+M-2023-0660,C-001,Employment,,L004,hourly,"hourly, firm rates",2023,closed,808560,724060,,
+M-2024-0091,C-014,Corporate,,L007,hourly,NDA programme 2024-2025 (closed 31 Dec 2025),2024,closed,584740,567210,,
+M-2024-0101,C-024,Corporate,,L005,capped,"capped at ₪688,120",2024,open,855050,655350,310160,226560
+M-2024-0104,C-148,Corporate,,L006,retainer,monthly retainer,2024,closed,330570,282740,,
+M-2024-0105,C-003,Corporate,,L008,fixed,"fixed fee ₪366,440",2024,open,379270,366440,315750,287980
+M-2024-0106,C-088,Corporate,International,L006,capped,"capped at ₪66,490",2024,open,85930,63320,164230,126850
+M-2024-0107,C-001,Corporate,,L008,fixed,"fixed fee ₪1,209,680",2024,open,1273220,1209680,209100,198690
+M-2024-0109,C-053,Corporate,,L008,fixed,"fixed fee ₪297,830",2024,closed,323800,297830,,
+M-2024-0113,C-139,Corporate,,L007,hourly,"hourly, firm rates",2024,closed,272620,252690,,
+M-2024-0120,C-019,Corporate,International,L008,hourly,"hourly, firm rates",2024,open,50530,44000,951030,870550
+M-2024-0129,C-014,Corporate,,L005,hourly,"hourly, firm rates",2024,open,312300,300540,686270,643220
+M-2024-0133,C-040,Corporate,International,L008,retainer,monthly retainer,2024,open,395440,346050,480740,353550
+M-2024-0135,C-003,Corporate,,L005,fixed,"fixed fee ₪518,590",2024,closed,496030,518590,,
+M-2024-0137,C-002,Corporate,,L006,capped,"capped at ₪305,000",2024,open,369320,290480,685140,553560
+M-2024-0144,C-077,Corporate,,L008,hourly,"hourly, firm rates",2024,open,297510,278990,195280,184020
+M-2024-0151,C-010,Corporate,,L008,hourly,"hourly, firm rates",2024,closed,240700,217810,,
+M-2024-0155,C-065,Corporate,,L001,hourly,"hourly, firm rates",2024,open,1028800,953290,788100,682370
+M-2024-0177,C-008,Corporate,International,L007,hourly,"hourly, firm rates",2024,open,428740,385690,255520,241560
+M-2024-0180,C-004,Corporate,,L007,capped,"capped at ₪832,660",2024,open,982750,793010,173260,147260
+M-2024-0181,C-032,Corporate,,L001,hourly,"hourly, firm rates",2024,closed,223600,203280,,
+M-2024-0183,C-060,Corporate,,L001,hourly,"hourly, firm rates",2024,open,233080,215070,179550,171490
+M-2024-0192,C-138,Corporate,,L001,hourly,"hourly, firm rates",2024,open,227690,205340,25330,22200
+M-2024-0193,C-056,Corporate,,L007,hourly,"hourly, firm rates",2024,open,134590,124190,56740,51460
+M-2024-0194,C-010,Corporate,,L001,hourly,"hourly, firm rates",2024,closed,392590,374260,,
+M-2024-0206,C-154,Corporate,,L009,hourly,"hourly, firm rates",2024,closed,243180,238020,,
+M-2024-0208,C-125,Corporate,International,L009,hourly,"hourly, firm rates",2024,open,213170,195290,27540,25330
+M-2024-0213,C-018,Corporate,International,L009,hourly,"hourly, firm rates",2024,open,359870,337180,568910,517200
+M-2024-0218,C-084,Corporate,,L007,fixed,"fixed fee ₪1,051,740",2024,open,1084470,1051740,596030,535460
+M-2024-0222,C-005,Corporate,International,L007,fixed,"fixed fee ₪159,530",2024,open,169050,159530,949530,965710
+M-2024-0226,C-005,Corporate,,L007,hourly,"hourly, firm rates",2024,closed,898390,894280,,
+M-2024-0229,C-050,Corporate,,L007,capped,"capped at ₪164,240",2024,closed,178530,156420,,
+M-2024-0230,C-019,Corporate,International,L001,hourly,"hourly, firm rates",2024,open,256260,237210,112050,97380
+M-2024-0238,C-007,Corporate,,L008,hourly,"hourly, firm rates",2024,open,44870,41670,210310,191720
+M-2024-0246,C-025,Corporate,International,L008,hourly,"hourly, firm rates",2024,open,184030,169710,227900,221520
+M-2024-0252,C-031,Litigation,,L011,hourly,"hourly, firm rates",2024,open,931350,771880,36310,31630
+M-2024-0255,C-076,Litigation,,L011,capped,"capped at ₪429,980",2024,open,509900,409500,591680,460480
+M-2024-0261,C-058,Litigation,,L002,hourly,"hourly, firm rates",2024,open,340150,296360,32500,28910
+M-2024-0264,C-142,Litigation,,L002,hourly,"hourly, firm rates",2024,open,382730,315480,127850,119430
+M-2024-0278,C-095,Litigation,,L010,hourly,"hourly, firm rates",2024,open,340570,289820,61540,53090
+M-2024-0296,C-001,Litigation,,L012,hourly,"hourly, firm rates",2024,open,220600,198310,139620,120860
+M-2024-0301,C-036,Litigation,,L002,hourly,"hourly, firm rates",2024,open,161700,151350,169080,156070
+M-2024-0302,C-075,Litigation,,L013,hourly,"hourly, firm rates",2024,open,18230,16020,162700,147790
+M-2024-0303,C-018,Litigation,,L013,hourly,"hourly, firm rates",2024,open,987330,829450,346090,313500
+M-2024-0306,C-056,Litigation,,L012,hourly,"hourly, firm rates",2024,closed,137680,117980,,
+M-2024-0307,C-021,Litigation,,L013,hourly,"hourly, firm rates",2024,closed,98760,82140,,
+M-2024-0308,C-057,Litigation,,L011,hourly,"hourly, firm rates",2024,open,82650,69230,103820,90070
+M-2024-0313,C-032,Litigation,,L014,hourly,"hourly, firm rates",2024,open,237850,209970,479630,408120
+M-2024-0315,C-001,Litigation,,L014,hourly,"hourly, firm rates",2024,closed,40490,35370,,
+M-2024-0317,C-028,Litigation,,L012,fixed,"fixed fee ₪170,440",2024,open,176990,170440,231170,243510
+M-2024-0331,C-013,Litigation,,L014,hourly,"hourly, firm rates",2024,open,554810,480550,602270,534950
+M-2024-0336,C-003,Litigation,,L013,capped,"capped at ₪235,220",2024,open,285600,224020,217570,169540
+M-2024-0341,C-041,Litigation,,L012,hourly,"hourly, firm rates",2024,closed,417860,360120,,
+M-2024-0344,C-011,Litigation,,L012,capped,"capped at ₪171,740",2024,closed,191310,163560,,
+M-2024-0345,C-087,Litigation,,L014,hourly,"hourly, firm rates",2024,open,873860,741050,287330,272100
+M-2024-0352,C-119,Litigation,,L013,hourly,"hourly, firm rates",2024,open,96070,85920,178380,167330
+M-2024-0354,C-009,Litigation,,L010,hourly,"hourly, firm rates",2024,closed,857010,778540,,
+M-2024-0364,C-016,Litigation,,L011,hourly,"hourly, firm rates",2024,open,260160,228500,165230,144790
+M-2024-0368,C-025,Litigation,,L012,hourly,"hourly, firm rates",2024,closed,151000,138900,,
+M-2024-0369,C-001,Litigation,,L012,hourly,"hourly, firm rates",2024,open,78140,67580,70210,65180
+M-2024-0373,C-001,Litigation,,L010,hourly,"hourly, firm rates",2024,open,877590,814350,234250,215960
+M-2024-0377,C-106,Litigation,,L013,hourly,"hourly, firm rates",2024,closed,68470,63830,,
+M-2024-0381,C-037,Real estate,,L017,retainer,monthly retainer,2024,open,481500,370580,386820,320710
+M-2024-0390,C-049,Real estate,,L020,fixed,"fixed fee ₪226,420",2024,open,250810,226420,6910,6810
+M-2024-0394,C-117,Real estate,,L018,fixed,"fixed fee ₪108,450",2024,closed,121680,108450,,
+M-2024-0395,C-039,Real estate,,L019,fixed,"fixed fee ₪381,960",2024,closed,431370,381960,,
+M-2024-0400,C-029,Real estate,,L020,hourly,"hourly, firm rates",2024,open,127770,109890,180310,156230
+M-2024-0403,C-144,Real estate,,L018,fixed,"fixed fee ₪515,020",2024,closed,598850,515020,,
+M-2024-0405,C-015,Real estate,,L019,hourly,"hourly, firm rates",2024,open,294250,257630,319490,281920
+M-2024-0407,C-006,Real estate,,L020,hourly,"hourly, firm rates",2024,open,207080,203250,331680,314580
+M-2024-0419,C-001,Real estate,,L019,fixed,"fixed fee ₪218,420",2024,open,242840,218420,257820,235060
+M-2024-0426,C-120,Real estate,,L019,hourly,"hourly, firm rates",2024,open,124300,120240,53940,56930
+M-2024-0434,C-068,Real estate,,L018,capped,"capped at ₪469,350",2024,open,590390,447000,293610,252340
+M-2024-0435,C-074,Real estate,,L017,fixed,"fixed fee ₪445,460",2024,closed,493480,445460,,
+M-2024-0436,C-007,Real estate,,L018,hourly,"hourly, firm rates",2024,open,395530,372220,192470,166500
+M-2024-0439,C-056,Real estate,,L019,hourly,"hourly, firm rates",2024,open,243420,232540,261790,238440
+M-2024-0443,C-105,Real estate,,L017,fixed,"fixed fee ₪233,850",2024,open,265470,233850,84350,85020
+M-2024-0444,C-058,Real estate,,L018,fixed,"fixed fee ₪547,790",2024,open,582980,547790,217630,192580
+M-2024-0452,C-003,Real estate,,L020,fixed,"fixed fee ₪439,050",2024,open,485130,439050,439880,411060
+M-2024-0470,C-101,Banking & finance,,L023,retainer,monthly retainer,2024,open,1288980,1068470,217430,178540
+M-2024-0473,C-005,Banking & finance,,L021,hourly,"hourly, firm rates",2024,open,2008000,1874780,263940,228650
+M-2024-0482,C-010,Banking & finance,,L022,fixed,"fixed fee ₪282,780",2024,open,303080,282780,119970,108030
+M-2024-0484,C-009,Banking & finance,,L023,capped,"capped at ₪55,700",2024,closed,64480,53050,,
+M-2024-0490,C-091,Banking & finance,,L021,hourly,"hourly, firm rates",2024,open,662400,623070,698380,597610
+M-2024-0496,C-066,Banking & finance,,L021,fixed,"fixed fee ₪177,680",2024,open,182700,177680,142790,136460
+M-2024-0500,C-055,Banking & finance,,L021,hourly,"hourly, firm rates",2024,closed,134540,129250,,
+M-2024-0501,C-077,Banking & finance,,L023,capped,"capped at ₪238,940",2024,closed,312870,227560,,
+M-2024-0502,C-085,Banking & finance,,L021,capped,"capped at ₪46,710",2024,open,59640,44490,842850,607350
+M-2024-0508,C-074,Banking & finance,,L021,hourly,"hourly, firm rates",2024,open,932930,852580,253550,221550
+M-2024-0519,C-160,Banking & finance,,L023,capped,"capped at ₪279,790",2024,closed,369450,266470,,
+M-2024-0523,C-010,Tech & IP,,L016,capped,"capped at ₪367,970",2024,open,433180,350450,95810,74250
+M-2024-0525,C-008,Tech & IP,,L015,fixed,"fixed fee ₪66,730",2024,closed,88570,66730,,
+M-2024-0527,C-001,Tech & IP,,L003,fixed,"fixed fee ₪445,910",2024,closed,630080,445910,,
+M-2024-0534,C-061,Tech & IP,,L003,hourly,"hourly, firm rates",2024,open,83730,77300,204690,186030
+M-2024-0538,C-008,Tech & IP,,L016,hourly,"hourly, firm rates",2024,open,48130,46230,74420,71400
+M-2024-0539,C-008,Tech & IP,,L016,fixed,"fixed fee ₪184,290",2024,open,258070,184290,559480,373840
+M-2024-0543,C-126,Tech & IP,,L003,fixed,"fixed fee ₪274,250",2024,closed,333560,274250,,
+M-2024-0545,C-069,Tech & IP,,L016,hourly,"hourly, firm rates",2024,open,93370,86590,116410,114080
+M-2024-0549,C-010,Tech & IP,,L003,fixed,"fixed fee ₪69,300",2024,open,91490,69300,72510,54460
+M-2024-0556,C-003,Tech & IP,,L015,fixed,"fixed fee ₪421,770",2024,closed,528910,421770,,
+M-2024-0557,C-009,Tech & IP,,L015,fixed,"fixed fee ₪93,120",2024,open,127970,93120,309580,229570
+M-2024-0562,C-002,Tech & IP,,L016,fixed,"fixed fee ₪852,270",2024,closed,1225630,852270,,
+M-2024-0563,C-029,Tech & IP,,L016,fixed,"fixed fee ₪66,640",2024,closed,81770,66640,,
+M-2024-0566,C-011,Tech & IP,,L015,fixed,"fixed fee ₪59,450",2024,open,94720,59450,110140,83110
+M-2024-0567,C-125,Tech & IP,,L003,fixed,"fixed fee ₪40,170",2024,closed,62020,40170,,
+M-2024-0576,C-032,Tech & IP,,L015,fixed,"fixed fee ₪52,780",2024,closed,63780,52780,,
+M-2024-0589,C-002,Tech & IP,,L003,fixed,"fixed fee ₪221,400",2024,open,298330,221400,287020,210950
+M-2024-0591,C-005,Employment,,L004,retainer,monthly retainer,2024,open,35950,30130,501550,407420
+M-2024-0597,C-061,Employment,,L024,retainer,monthly retainer,2024,open,547280,487840,265540,229810
+M-2024-0604,C-088,Employment,,L025,hourly,"hourly, firm rates",2024,closed,450800,435650,,
+M-2024-0605,C-052,Employment,,L026,retainer,monthly retainer,2024,open,202940,177580,488600,419060
+M-2024-0608,C-081,Employment,,L004,retainer,monthly retainer,2024,open,131110,117060,153340,128990
+M-2024-0610,C-073,Employment,,L004,retainer,monthly retainer,2024,closed,158980,140030,,
+M-2024-0620,C-047,Employment,,L025,hourly,"hourly, firm rates",2024,open,192410,190560,588800,527090
+M-2024-0623,C-001,Employment,,L004,hourly,"hourly, firm rates",2024,open,699060,652300,942730,880050
+M-2024-0625,C-014,Employment,,L004,retainer,monthly retainer,2024,open,217200,185590,92120,77870
+M-2024-0626,C-009,Employment,,L024,retainer,monthly retainer,2024,closed,86900,71650,,
+M-2024-0629,C-019,Employment,,L004,retainer,monthly retainer,2024,open,83180,71290,38000,33500
+M-2024-0631,C-093,Employment,,L026,retainer,monthly retainer,2024,open,325170,290820,443880,395410
+M-2024-0632,C-008,Employment,,L025,hourly,"hourly, firm rates",2024,closed,161210,141070,,
+M-2024-0636,C-008,Employment,,L004,retainer,monthly retainer,2024,open,288670,262360,184780,154830
+M-2024-0638,C-137,Employment,,L004,retainer,monthly retainer,2024,open,154830,138280,97740,93030
+M-2024-0641,C-001,Employment,,L024,retainer,monthly retainer,2024,closed,86830,70310,,
+M-2024-0642,C-065,Employment,,L024,retainer,monthly retainer,2024,open,114900,89640,251380,205250
+M-2024-0644,C-117,Employment,,L025,hourly,"hourly, firm rates",2024,closed,28960,28470,,
+M-2024-0645,C-012,Employment,,L025,retainer,monthly retainer,2024,open,164320,150270,500670,425020
+M-2024-0646,C-148,Employment,,L025,retainer,monthly retainer,2024,open,234800,199890,87810,67950
+M-2024-0651,C-131,Employment,,L026,fixed,"fixed fee ₪530,420",2024,open,565840,530420,600920,597310
+M-2024-0658,C-003,Employment,,L026,retainer,monthly retainer,2024,open,45530,37730,340640,286230
+M-2024-0659,C-003,Employment,,L025,retainer,monthly retainer,2024,open,98340,83090,162590,139190
+M-2025-0103,C-103,Corporate,,L005,capped,"capped at ₪134,680",2025,open,165720,128270,1298910,1029970
+M-2025-0112,C-009,Corporate,International,L009,hourly,"hourly, firm rates",2025,closed,130690,120820,,
+M-2025-0115,C-061,Corporate,International,L007,hourly,"hourly, firm rates",2025,open,744900,704900,690840,656850
+M-2025-0116,C-014,Corporate,International,L009,hourly,"hourly, firm rates",2025,closed,268140,231920,,
+M-2025-0119,C-053,Corporate,,L006,capped,"capped at ₪734,580",2025,open,955580,699600,143910,125060
+M-2025-0123,C-004,Corporate,,L006,hourly,"hourly, firm rates",2025,closed,385020,353150,,
+M-2025-0125,C-014,Corporate,,L009,capped,"capped at ₪872,210",2025,open,1041640,830680,234930,190060
+M-2025-0138,C-056,Corporate,,L001,hourly,"hourly, firm rates",2025,open,159360,150290,114060,103790
+M-2025-0139,C-014,Corporate,,L001,hourly,"hourly, firm rates",2025,open,88960,76200,358250,322410
+M-2025-0141,C-018,Corporate,International,L009,hourly,"hourly, firm rates",2025,open,1045730,1005110,535540,495070
+M-2025-0143,C-008,Corporate,,L007,hourly,"hourly, firm rates",2025,open,559250,508930,608270,565780
+M-2025-0145,C-088,Corporate,International,L006,hourly,"hourly, firm rates",2025,open,226360,211410,90920,79390
+M-2025-0150,C-155,Corporate,International,L001,capped,"capped at ₪67,490",2025,closed,81840,64280,,
+M-2025-0157,C-119,Corporate,International,L001,hourly,"hourly, firm rates",2025,open,175310,166940,179430,167870
+M-2025-0159,C-016,Corporate,,L008,capped,"capped at ₪152,920",2025,closed,184690,145640,,
+M-2025-0162,C-012,Corporate,International,L001,hourly,"hourly, firm rates",2025,open,132780,128990,108260,94580
+M-2025-0163,C-001,Corporate,International,L007,hourly,"hourly, firm rates",2025,open,122270,109990,88920,83750
+M-2025-0164,C-021,Corporate,International,L008,capped,"capped at ₪452,850",2025,open,569020,431290,230660,185330
+M-2025-0168,C-001,Corporate,,L009,capped,"capped at ₪295,900",2025,closed,378990,281810,,
+M-2025-0169,C-027,Corporate,,L008,hourly,"hourly, firm rates",2025,open,337790,309490,162520,153530
+M-2025-0173,C-122,Corporate,,L009,hourly,"hourly, firm rates",2025,open,852010,784510,74220,69170
+M-2025-0174,C-129,Corporate,International,L001,capped,"capped at ₪69,570",2025,open,85770,66260,534910,386340
+M-2025-0179,C-026,Corporate,,L006,capped,"capped at ₪952,440",2025,open,1032090,907090,425940,322270
+M-2025-0182,C-090,Corporate,,L005,hourly,"hourly, firm rates",2025,open,467720,397570,165950,154430
+M-2025-0190,C-014,Corporate,,L001,hourly,"hourly, firm rates",2025,open,311110,281420,126300,110460
+M-2025-0196,C-049,Corporate,,L009,hourly,"hourly, firm rates",2025,closed,100990,92010,,
+M-2025-0201,C-027,Corporate,International,L005,hourly,"hourly, firm rates",2025,open,84740,84520,212580,198930
+M-2025-0202,C-004,Corporate,,L005,hourly,"hourly, firm rates",2025,open,161650,153230,232300,214640
+M-2025-0203,C-030,Corporate,,L006,fixed,"fixed fee ₪140,450",2025,open,143170,140450,697200,664170
+M-2025-0211,C-007,Corporate,International,L009,hourly,"hourly, firm rates",2025,open,504530,469890,172780,156220
+M-2025-0216,C-089,Corporate,,L001,fixed,"fixed fee ₪90,160",2025,closed,97250,90160,,
+M-2025-0217,C-016,Corporate,,L008,hourly,"hourly, firm rates",2025,open,476190,432940,122730,108450
+M-2025-0227,C-026,Corporate,,L006,hourly,"hourly, firm rates",2025,closed,299010,273040,,
+M-2025-0228,C-009,Corporate,International,L005,fixed,"fixed fee ₪408,050",2025,open,407950,408050,478430,420880
+M-2025-0232,C-147,Corporate,,L005,retainer,monthly retainer,2025,open,368730,316880,202730,179610
+M-2025-0237,C-026,Corporate,,L005,hourly,"hourly, firm rates",2025,open,263230,248180,484080,438190
+M-2025-0245,C-115,Corporate,,L009,retainer,monthly retainer,2025,closed,105490,98060,,
+M-2025-0266,C-132,Litigation,,L002,hourly,"hourly, firm rates",2025,closed,78350,65940,,
+M-2025-0268,C-017,Litigation,,L014,capped,"capped at ₪569,980",2025,closed,716400,542840,,
+M-2025-0269,C-010,Litigation,,L012,hourly,"hourly, firm rates",2025,closed,1586710,1231860,,
+M-2025-0280,C-049,Litigation,,L012,hourly,"hourly, firm rates",2025,open,115450,101560,211830,175950
+M-2025-0288,C-157,Litigation,,L010,hourly,"hourly, firm rates",2025,open,87030,80280,46410,43590
+M-2025-0292,C-004,Litigation,,L002,hourly,"hourly, firm rates",2025,open,207710,186670,23680,21490
+M-2025-0294,C-020,Litigation,,L013,hourly,"hourly, firm rates",2025,open,127640,114150,230200,199440
+M-2025-0297,C-133,Litigation,,L014,hourly,"hourly, firm rates",2025,open,205610,174090,63440,61450
+M-2025-0305,C-004,Litigation,,L014,hourly,"hourly, firm rates",2025,closed,555510,446570,,
+M-2025-0310,C-002,Litigation,,L014,hourly,"hourly, firm rates",2025,open,26940,24230,246790,214550
+M-2025-0320,C-093,Litigation,,L002,hourly,"hourly, firm rates",2025,closed,375100,324380,,
+M-2025-0337,C-029,Litigation,,L014,hourly,"hourly, firm rates",2025,closed,138910,127140,,
+M-2025-0342,C-023,Litigation,,L010,hourly,"hourly, firm rates",2025,open,78210,68040,131710,119440
+M-2025-0348,C-037,Litigation,,L011,hourly,"hourly, firm rates",2025,open,917720,772770,265760,228790
+M-2025-0349,C-001,Litigation,,L012,hourly,"hourly, firm rates",2025,closed,78890,73600,,
+M-2025-0353,C-031,Litigation,,L014,hourly,"hourly, firm rates",2025,open,64080,58920,75450,64650
+M-2025-0357,C-062,Litigation,,L013,hourly,"hourly, firm rates",2025,open,37480,33360,249040,222290
+M-2025-0358,C-150,Litigation,,L013,hourly,"hourly, firm rates",2025,closed,324110,276500,,
+M-2025-0359,C-083,Litigation,,L002,capped,"capped at ₪1,079,260",2025,open,1347690,1027870,364410,265040
+M-2025-0360,C-020,Litigation,,L012,hourly,"hourly, firm rates",2025,open,560400,490500,1446020,1282350
+M-2025-0362,C-014,Litigation,,L002,retainer,monthly retainer,2025,open,607490,560130,57920,45480
+M-2025-0371,C-001,Litigation,,L014,capped,"capped at ₪378,250",2025,open,504180,360240,1790580,1482990
+M-2025-0382,C-008,Real estate,,L020,hourly,"hourly, firm rates",2025,open,259630,240380,1061540,922830
+M-2025-0383,C-016,Real estate,,L019,fixed,"fixed fee ₪433,340",2025,open,477430,433340,304110,296890
+M-2025-0385,C-001,Real estate,,L019,hourly,"hourly, firm rates",2025,open,144430,125550,484380,419510
+M-2025-0387,C-118,Real estate,,L017,fixed,"fixed fee ₪91,530",2025,open,93020,91530,129990,123570
+M-2025-0389,C-024,Real estate,,L018,fixed,"fixed fee ₪1,031,240",2025,closed,1042840,1031240,,
+M-2025-0396,C-028,Real estate,,L018,retainer,monthly retainer,2025,open,217590,190870,344220,292480
+M-2025-0397,C-015,Real estate,,L020,fixed,"fixed fee ₪183,940",2025,open,198570,183940,32850,31750
+M-2025-0411,C-013,Real estate,,L017,hourly,"hourly, firm rates",2025,closed,821540,739120,,
+M-2025-0413,C-071,Real estate,,L017,capped,"capped at ₪207,730",2025,open,231930,197840,57090,44400
+M-2025-0415,C-033,Real estate,,L017,retainer,monthly retainer,2025,open,553960,477240,218500,195600
+M-2025-0417,C-092,Real estate,,L020,hourly,"hourly, firm rates",2025,closed,170550,159550,,
+M-2025-0427,C-007,Real estate,,L017,hourly,"hourly, firm rates",2025,open,55580,52470,642920,628880
+M-2025-0433,C-024,Real estate,,L020,hourly,"hourly, firm rates",2025,open,32280,30550,208390,195200
+M-2025-0437,C-008,Real estate,,L020,hourly,"hourly, firm rates",2025,closed,294910,286000,,
+M-2025-0440,C-049,Real estate,,L020,hourly,"hourly, firm rates",2025,open,63620,56520,15420,15010
+M-2025-0441,C-002,Real estate,,L018,capped,"capped at ₪187,910",2025,open,218470,178960,425680,305070
+M-2025-0445,C-005,Real estate,,L017,fixed,"fixed fee ₪81,250",2025,open,87880,81250,154810,154910
+M-2025-0446,C-114,Real estate,,L018,fixed,"fixed fee ₪854,150",2025,open,950420,854150,85980,85900
+M-2025-0448,C-003,Real estate,,L019,hourly,"hourly, firm rates",2025,open,219970,210040,38440,36580
+M-2025-0449,C-003,Real estate,,L017,hourly,"hourly, firm rates",2025,open,59590,54180,331200,308930
+M-2025-0454,C-001,Real estate,,L020,retainer,monthly retainer,2025,open,162810,134930,315770,291930
+M-2025-0459,C-018,Real estate,,L019,hourly,"hourly, firm rates",2025,closed,54310,48600,,
+M-2025-0463,C-005,Banking & finance,,L021,retainer,monthly retainer,2025,open,510820,428420,368300,309520
+M-2025-0464,C-059,Banking & finance,,L021,hourly,"hourly, firm rates",2025,closed,347370,327450,,
+M-2025-0465,C-057,Banking & finance,,L023,hourly,"hourly, firm rates",2025,open,281350,266920,174280,166320
+M-2025-0472,C-044,Banking & finance,,L021,hourly,"hourly, firm rates",2025,open,174420,157450,607750,536930
+M-2025-0476,C-003,Banking & finance,,L021,hourly,"hourly, firm rates",2025,closed,99190,89620,,
+M-2025-0479,C-027,Banking & finance,,L022,hourly,"hourly, firm rates",2025,open,1113580,1056650,316840,286570
+M-2025-0480,C-002,Banking & finance,,L022,capped,"capped at ₪244,460",2025,open,314430,232820,210650,145410
+M-2025-0483,C-051,Banking & finance,,L022,capped,"capped at ₪68,000",2025,open,83190,64760,221060,200200
+M-2025-0487,C-005,Banking & finance,,L022,hourly,"hourly, firm rates",2025,open,191100,174450,280380,270060
+M-2025-0489,C-035,Banking & finance,,L022,retainer,monthly retainer,2025,open,92730,78680,176610,151890
+M-2025-0497,C-150,Banking & finance,,L022,capped,"capped at ₪401,930",2025,open,513400,382790,51510,38030
+M-2025-0498,C-001,Banking & finance,,L023,hourly,"hourly, firm rates",2025,open,114840,110870,71080,65640
+M-2025-0504,C-039,Banking & finance,,L023,hourly,"hourly, firm rates",2025,closed,1147940,1093250,,
+M-2025-0506,C-109,Banking & finance,,L022,capped,"capped at ₪188,000",2025,open,224890,179050,130060,96150
+M-2025-0512,C-001,Banking & finance,,L021,hourly,"hourly, firm rates",2025,open,90060,82990,43800,39790
+M-2025-0515,C-042,Banking & finance,,L023,fixed,"fixed fee ₪128,030",2025,open,133280,128030,222520,228560
+M-2025-0516,C-001,Banking & finance,,L023,hourly,"hourly, firm rates",2025,open,297060,283430,160550,141510
+M-2025-0518,C-054,Banking & finance,,L023,capped,"capped at ₪89,130",2025,open,106840,84890,188640,153690
+M-2025-0521,C-012,Tech & IP,,L016,fixed,"fixed fee ₪144,140",2025,open,222990,144140,162590,131950
+M-2025-0522,C-021,Tech & IP,,L003,hourly,"hourly, firm rates",2025,closed,175680,162490,,
+M-2025-0529,C-004,Tech & IP,,L003,fixed,"fixed fee ₪220,960",2025,open,324000,220960,56520,46150
+M-2025-0530,C-155,Tech & IP,,L016,fixed,"fixed fee ₪323,630",2025,closed,418350,323630,,
+M-2025-0531,C-020,Tech & IP,,L015,capped,"capped at ₪70,070",2025,open,87210,66730,46240,37600
+M-2025-0535,C-097,Tech & IP,,L015,fixed,"fixed fee ₪213,160",2025,closed,303880,213160,,
+M-2025-0536,C-138,Tech & IP,,L003,fixed,"fixed fee ₪225,160",2025,open,316050,225160,552820,423440
+M-2025-0546,C-113,Tech & IP,,L016,fixed,"fixed fee ₪62,600",2025,open,80710,62600,136020,93840
+M-2025-0548,C-145,Tech & IP,,L015,hourly,"hourly, firm rates",2025,open,29620,25530,203050,196590
+M-2025-0550,C-092,Tech & IP,,L003,fixed,"fixed fee ₪753,930",2025,open,1069580,753930,715810,608160
+M-2025-0552,C-127,Tech & IP,,L003,capped,"capped at ₪296,960",2025,open,374540,282820,523920,434150
+M-2025-0553,C-077,Tech & IP,,L003,hourly,"hourly, firm rates",2025,open,113130,101990,612040,544600
+M-2025-0555,C-052,Tech & IP,,L003,fixed,"fixed fee ₪304,150",2025,open,427190,304150,208620,132650
+M-2025-0561,C-015,Tech & IP,,L016,fixed,"fixed fee ₪82,070",2025,open,110670,82070,159490,119000
+M-2025-0564,C-051,Tech & IP,,L016,hourly,"hourly, firm rates",2025,open,212570,201520,85490,80030
+M-2025-0568,C-013,Tech & IP,,L016,fixed,"fixed fee ₪108,640",2025,open,138750,108640,192610,151540
+M-2025-0575,C-091,Tech & IP,,L015,fixed,"fixed fee ₪34,670",2025,open,44370,34670,366560,266530
+M-2025-0577,C-006,Tech & IP,,L003,fixed,"fixed fee ₪67,860",2025,closed,103380,67860,,
+M-2025-0581,C-019,Tech & IP,,L016,hourly,"hourly, firm rates",2025,open,383280,331420,56020,46200
+M-2025-0583,C-121,Tech & IP,,L016,fixed,"fixed fee ₪151,960",2025,open,190490,151960,693510,456810
+M-2025-0586,C-078,Tech & IP,,L015,fixed,"fixed fee ₪22,250",2025,open,29740,22250,215580,156430
+M-2025-0588,C-001,Tech & IP,,L015,fixed,"fixed fee ₪1,528,940",2025,open,2155770,1528940,65820,48260
+M-2025-0593,C-093,Employment,,L004,retainer,monthly retainer,2025,open,60750,52060,58310,48730
+M-2025-0594,C-010,Employment,,L026,hourly,"hourly, firm rates",2025,open,471280,416520,396030,375800
+M-2025-0595,C-037,Employment,,L024,hourly,"hourly, firm rates",2025,closed,124290,108820,,
+M-2025-0603,C-009,Employment,,L024,hourly,"hourly, firm rates",2025,closed,67290,60600,,
+M-2025-0606,C-082,Employment,,L004,hourly,"hourly, firm rates",2025,open,469790,439690,389100,335920
+M-2025-0611,C-005,Employment,,L004,retainer,monthly retainer,2025,open,288920,243400,264750,221280
+M-2025-0613,C-022,Employment,,L025,capped,"capped at ₪268,660",2025,open,384420,255870,218620,170280
+M-2025-0616,C-005,Employment,,L024,retainer,monthly retainer,2025,open,249220,209890,170860,152490
+M-2025-0617,C-007,Employment,,L024,retainer,monthly retainer,2025,open,39280,34690,44100,37800
+M-2025-0618,C-061,Employment,,L026,retainer,monthly retainer,2025,open,1338220,1167620,136170,115330
+M-2025-0619,C-047,Employment,,L024,hourly,"hourly, firm rates",2025,closed,571160,539890,,
+M-2025-0622,C-010,Employment,,L024,hourly,"hourly, firm rates",2025,open,198650,175980,486970,451350
+M-2025-0634,C-114,Employment,,L025,retainer,monthly retainer,2025,open,94450,87320,370730,313840
+M-2025-0640,C-002,Employment,,L026,hourly,"hourly, firm rates",2025,closed,546690,487380,,
+M-2025-0654,C-021,Employment,,L026,hourly,"hourly, firm rates",2025,open,331020,316190,327600,298860
+M-2025-0656,C-062,Employment,,L025,retainer,monthly retainer,2025,open,309030,265360,29500,24900
+M-2026-0007,C-014,Corporate,,L007,fixed,"NDA programme 2026: ₪1,150 per NDA",2026,open,,,309210,474950
+M-2026-0102,C-005,Corporate,,L008,hourly,"hourly, firm rates",2026,open,,,715380,628280
+M-2026-0111,C-138,Corporate,,L005,hourly,"hourly, firm rates",2026,open,,,237160,225940
+M-2026-0122,C-132,Corporate,,L009,hourly,"hourly, firm rates",2026,open,,,747430,656220
+M-2026-0126,C-137,Corporate,International,L009,fixed,"fixed fee ₪390,630",2026,open,,,387890,390630
+M-2026-0130,C-033,Corporate,,L006,hourly,"hourly, firm rates",2026,open,,,186990,167470
+M-2026-0142,C-046,Corporate,,L005,capped,"capped at ₪228,660",2026,open,,,270690,217770
+M-2026-0147,C-009,Corporate,,L008,capped,"capped at ₪781,400",2026,open,,,899450,744190
+M-2026-0153,C-003,Corporate,,L009,hourly,"hourly, firm rates",2026,open,,,95910,89730
+M-2026-0156,C-007,Corporate,International,L001,retainer,monthly retainer,2026,open,,,408720,338750
+M-2026-0158,C-001,Corporate,International,L001,capped,"capped at ₪254,570",2026,open,,,294270,242450
+M-2026-0161,C-006,Corporate,,L009,hourly,"hourly, firm rates",2026,open,,,719280,643410
+M-2026-0187,C-061,Corporate,,L007,hourly,"hourly, firm rates",2026,open,,,321270,295700
+M-2026-0195,C-056,Corporate,,L009,capped,"capped at ₪248,600",2026,open,,,259720,236760
+M-2026-0199,C-045,Corporate,,L007,hourly,"hourly, firm rates",2026,open,,,569610,470040
+M-2026-0207,C-085,Corporate,,L009,hourly,"hourly, firm rates",2026,open,,,135970,130410
+M-2026-0220,C-078,Corporate,,L006,fixed,"fixed fee ₪612,650",2026,open,,,639080,612650
+M-2026-0221,C-041,Corporate,,L006,retainer,monthly retainer,2026,open,,,1308080,1144900
+M-2026-0231,C-001,Corporate,,L007,retainer,monthly retainer,2026,open,,,211570,191820
+M-2026-0234,C-132,Corporate,International,L009,hourly,"hourly, firm rates",2026,open,,,173950,165530
+M-2026-0239,C-159,Corporate,International,L006,hourly,"hourly, firm rates",2026,open,,,105860,90590
+M-2026-0240,C-049,Corporate,,L009,hourly,"hourly, firm rates",2026,open,,,67370,60590
+M-2026-0242,C-016,Corporate,International,L005,fixed,"fixed fee ₪148,430",2026,open,,,160240,148430
+M-2026-0244,C-046,Corporate,,L005,hourly,"hourly, firm rates",2026,open,,,177110,167350
+M-2026-0257,C-008,Litigation,,L014,hourly,"hourly, firm rates",2026,open,,,32550,29480
+M-2026-0258,C-114,Litigation,,L012,retainer,monthly retainer,2026,open,,,110380,95860
+M-2026-0259,C-017,Litigation,,L010,fixed,"fixed fee ₪138,630",2026,open,,,140670,138630
+M-2026-0267,C-009,Litigation,,L012,hourly,"hourly, firm rates",2026,open,,,527460,462080
+M-2026-0271,C-051,Litigation,,L014,hourly,"hourly, firm rates",2026,open,,,214230,182060
+M-2026-0273,C-020,Litigation,,L002,hourly,"hourly, firm rates",2026,open,,,174830,167010
+M-2026-0277,C-003,Litigation,,L002,hourly,"hourly, firm rates",2026,open,,,142570,131600
+M-2026-0282,C-004,Litigation,,L002,capped,"capped at ₪603,050",2026,open,,,673490,574330
+M-2026-0283,C-008,Litigation,,L011,hourly,"hourly, firm rates",2026,open,,,189850,168490
+M-2026-0284,C-005,Litigation,,L002,hourly,"hourly, firm rates",2026,open,,,112360,98550
+M-2026-0287,C-040,Litigation,,L013,hourly,"hourly, firm rates",2026,open,,,271520,240900
+M-2026-0304,C-148,Litigation,,L013,capped,"capped at ₪237,080",2026,open,,,275750,225790
+M-2026-0311,C-006,Litigation,,L011,hourly,"hourly, firm rates",2026,open,,,294650,251920
+M-2026-0316,C-001,Litigation,,L011,hourly,"hourly, firm rates",2026,open,,,286150,245310
+M-2026-0321,C-010,Litigation,,L002,hourly,"hourly, firm rates",2026,open,,,134190,125950
+M-2026-0323,C-119,Litigation,,L014,hourly,"hourly, firm rates",2026,open,,,403920,336620
+M-2026-0329,C-012,Litigation,,L014,fixed,"fixed fee ₪242,480",2026,open,,,260940,242480
+M-2026-0333,C-035,Litigation,,L010,fixed,"fixed fee ₪29,430",2026,open,,,31870,29430
+M-2026-0335,C-021,Litigation,,L011,hourly,"hourly, firm rates",2026,open,,,45810,41150
+M-2026-0343,C-105,Litigation,,L002,hourly,"hourly, firm rates",2026,open,,,337520,301110
+M-2026-0347,C-006,Litigation,,L013,retainer,monthly retainer,2026,open,,,222800,205170
+M-2026-0350,C-131,Litigation,,L014,hourly,"hourly, firm rates",2026,open,,,968060,826740
+M-2026-0355,C-017,Litigation,,L013,fixed,"fixed fee ₪115,390",2026,open,,,140060,115390
+M-2026-0363,C-028,Litigation,,L010,hourly,"hourly, firm rates",2026,open,,,45750,41050
+M-2026-0372,C-001,Litigation,,L012,hourly,"hourly, firm rates",2026,open,,,52160,47770
+M-2026-0374,C-026,Litigation,,L014,capped,"capped at ₪316,470",2026,open,,,388240,301400
+M-2026-0378,C-003,Litigation,,L010,hourly,"hourly, firm rates",2026,open,,,224310,211950
+M-2026-0386,C-010,Real estate,,L018,hourly,"hourly, firm rates",2026,open,,,49600,45770
+M-2026-0404,C-004,Real estate,,L017,fixed,"fixed fee ₪73,710",2026,open,,,77280,73710
+M-2026-0406,C-003,Real estate,,L019,fixed,"fixed fee ₪102,960",2026,open,,,99510,102960
+M-2026-0408,C-001,Real estate,,L018,fixed,"fixed fee ₪219,870",2026,open,,,233550,219870
+M-2026-0416,C-009,Real estate,,L018,hourly,"hourly, firm rates",2026,open,,,61640,57500
+M-2026-0428,C-012,Real estate,,L019,fixed,"fixed fee ₪219,070",2026,open,,,248890,219070
+M-2026-0431,C-034,Real estate,,L020,hourly,"hourly, firm rates",2026,open,,,47470,42350
+M-2026-0447,C-016,Real estate,,L017,fixed,"fixed fee ₪90,550",2026,open,,,96800,90550
+M-2026-0455,C-001,Real estate,,L018,capped,"capped at ₪332,780",2026,open,,,405900,316930
+M-2026-0456,C-035,Real estate,,L018,fixed,"fixed fee ₪104,710",2026,open,,,107310,104710
+M-2026-0462,C-148,Banking & finance,,L022,hourly,"hourly, firm rates",2026,open,,,524720,480100
+M-2026-0466,C-080,Banking & finance,,L021,capped,"capped at ₪436,510",2026,open,,,536900,415720
+M-2026-0471,C-143,Banking & finance,,L021,hourly,"hourly, firm rates",2026,open,,,344930,318240
+M-2026-0475,C-004,Banking & finance,,L023,hourly,"hourly, firm rates",2026,open,,,598920,513790
+M-2026-0481,C-015,Banking & finance,,L022,hourly,"hourly, firm rates",2026,open,,,152070,139590
+M-2026-0494,C-026,Banking & finance,,L021,capped,"capped at ₪132,300",2026,open,,,150810,126000
+M-2026-0495,C-078,Banking & finance,,L023,retainer,monthly retainer,2026,open,,,855660,710050
+M-2026-0499,C-075,Banking & finance,,L022,hourly,"hourly, firm rates",2026,open,,,292230,279810
+M-2026-0503,C-120,Banking & finance,,L021,hourly,"hourly, firm rates",2026,open,,,162550,142700
+M-2026-0509,C-005,Banking & finance,,L022,hourly,"hourly, firm rates",2026,open,,,1599430,1405940
+M-2026-0514,C-059,Banking & finance,,L022,hourly,"hourly, firm rates",2026,open,,,958820,899040
+M-2026-0544,C-015,Tech & IP,,L015,hourly,"hourly, firm rates",2026,open,,,23680,21550
+M-2026-0547,C-077,Tech & IP,,L016,retainer,monthly retainer,2026,open,,,1170920,982800
+M-2026-0554,C-002,Tech & IP,,L016,fixed,"fixed fee ₪52,450",2026,open,,,72370,52450
+M-2026-0565,C-009,Tech & IP,,L015,fixed,"fixed fee ₪54,540",2026,open,,,84150,54540
+M-2026-0570,C-007,Tech & IP,,L015,fixed,"fixed fee ₪117,880",2026,open,,,140730,117880
+M-2026-0571,C-009,Tech & IP,,L003,fixed,"fixed fee ₪351,000",2026,open,,,496780,351000
+M-2026-0580,C-060,Tech & IP,,L016,fixed,"fixed fee ₪61,400",2026,open,,,84810,61400
+M-2026-0582,C-001,Tech & IP,,L003,fixed,"fixed fee ₪277,200",2026,open,,,395590,277200
+M-2026-0584,C-002,Tech & IP,,L015,fixed,"fixed fee ₪99,980",2026,open,,,135320,99980
+M-2026-0600,C-058,Employment,,L025,retainer,monthly retainer,2026,open,,,94180,82060
+M-2026-0601,C-032,Employment,,L025,retainer,monthly retainer,2026,open,,,87500,75380
+M-2026-0648,C-027,Employment,,L004,hourly,"hourly, firm rates",2026,open,,,1077340,945090

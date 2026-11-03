@@ -1,0 +1,161 @@
+draft_id,citation_no,source,language,cited_id,pinpoint,has_quote,label,label_detail,expected_exists,expected_pinpoint_ok,expected_quote_ok,expected_current,expected_supports,expected_verdict
+D-01,1,general_assistant,en,FCR-2022-279,3,n,ok,,y,y,na,y,y,pass
+D-01,2,general_assistant,en,ARP-2021-455,4,n,ok,,y,y,na,y,y,pass
+D-01,3,general_assistant,en,ARP-2023-277,4,n,misstated,a different proposition,y,y,na,y,n,fail
+D-01,4,general_assistant,en,ARM-2021-454,2,n,superseded,,y,y,na,n,y,fail
+D-02,1,general_assistant,he,FCR-2025-049,3,y,bad_quote,quote not in the paragraph,y,y,n,y,y,fail
+D-02,2,general_assistant,he,ARP-2022-345,4,n,ok,,y,y,na,y,y,pass
+D-02,3,general_assistant,he,FCR-2019-123,4,n,nonexistent,,n,na,na,na,na,fail
+D-02,4,general_assistant,he,FCR-2019-247,6,n,nonexistent,,n,na,na,na,na,fail
+D-03,1,general_assistant,en,ARM-2024-270,2,n,ok,,y,y,na,y,y,pass
+D-03,2,general_assistant,en,FCR-2019-214,3,n,superseded,,y,y,na,n,y,fail
+D-03,3,general_assistant,en,FCR-2024-069,3,n,nonexistent,,n,na,na,na,na,fail
+D-03,4,general_assistant,en,ARP-2021-412,7,n,bad_pinpoint,,y,n,na,y,na,fail
+D-04,1,general_assistant,he,ARM-2022-467,7,n,bad_pinpoint,,y,n,na,y,na,fail
+D-04,2,general_assistant,he,FCR-2022-279,3,y,ok,,y,y,y,y,y,pass
+D-04,3,general_assistant,he,FCR-2020-393,3,y,superseded,,y,y,y,n,y,fail
+D-04,4,general_assistant,he,FCR-2018-347,5,n,nonexistent,,n,na,na,na,na,fail
+D-05,1,general_assistant,en,FCR-2025-049,3,y,bad_quote,quote not in the paragraph,y,y,n,y,y,fail
+D-05,2,general_assistant,en,ARM-2025-226,2,n,misstated,a different proposition,y,y,na,y,n,fail
+D-05,3,general_assistant,en,FCR-2021-454,4,n,nonexistent,,n,na,na,na,na,fail
+D-05,4,general_assistant,en,ARP-2026-455,3,n,ok,,y,y,na,y,y,pass
+D-06,1,general_assistant,he,ARP-2022-321,3,n,ok,,y,y,na,y,y,pass
+D-06,2,general_assistant,he,ARM-2025-474,2,n,ok,,y,y,na,y,y,pass
+D-06,3,general_assistant,he,FCR-2025-018,6,n,nonexistent,,n,na,na,na,na,fail
+D-06,4,general_assistant,he,ARM-2025-474,2,n,ok,,y,y,na,y,y,pass
+D-07,1,general_assistant,en,FCR-2024-102,5,n,ok,,y,y,na,y,y,pass
+D-07,2,general_assistant,en,ARM-2023-280,3,n,ok,,y,y,na,y,y,pass
+D-07,3,general_assistant,en,ARP-2025-016,3,n,misstated,opposite of the paragraph,y,y,na,y,n,fail
+D-07,4,general_assistant,en,ARP-2022-321,3,n,ok,,y,y,na,y,y,pass
+D-08,1,general_assistant,he,ARP-2021-412,4,n,ok,,y,y,na,y,y,pass
+D-08,2,general_assistant,he,ARM-2025-071,2,y,ok,,y,y,y,y,y,pass
+D-08,3,general_assistant,he,ARM-2021-057,2,n,misstated,opposite of the paragraph,y,y,na,y,n,fail
+D-08,4,general_assistant,he,FCR-2021-108,6,n,nonexistent,,n,na,na,na,na,fail
+D-09,1,general_assistant,en,ARP-2023-329,4,n,ok,,y,y,na,y,y,pass
+D-09,2,general_assistant,en,FCR-2025-441,3,n,nonexistent,,n,na,na,na,na,fail
+D-09,3,general_assistant,en,ARM-2022-467,3,n,ok,,y,y,na,y,y,pass
+D-09,4,general_assistant,en,FCR-2020-193,5,n,misstated,a different proposition,y,y,na,y,n,fail
+D-10,1,general_assistant,he,ARM-2022-467,2,n,ok,,y,y,na,y,y,pass
+D-10,2,general_assistant,he,ARM-2024-378,3,n,ok,,y,y,na,y,y,pass
+D-10,3,general_assistant,he,ARM-2024-376,2,n,ok,,y,y,na,y,y,pass
+D-10,4,general_assistant,he,FCR-2022-133,6,n,nonexistent,,n,na,na,na,na,fail
+D-11,1,general_assistant,en,ARP-2022-321,3,n,ok,,y,y,na,y,y,pass
+D-11,2,general_assistant,en,FCR-2022-124,3,n,ok,,y,y,na,y,y,pass
+D-11,3,general_assistant,en,FCR-2020-044,3,n,nonexistent,,n,na,na,na,na,fail
+D-11,4,general_assistant,en,ARP-2022-321,4,n,ok,,y,y,na,y,y,pass
+D-12,1,general_assistant,he,ARM-2025-071,2,n,ok,,y,y,na,y,y,pass
+D-12,2,general_assistant,he,FCR-2024-317,5,n,nonexistent,,n,na,na,na,na,fail
+D-12,3,general_assistant,he,FCR-2024-294,5,n,ok,,y,y,na,y,y,pass
+D-12,4,general_assistant,he,FCR-2025-205,5,n,nonexistent,,n,na,na,na,na,fail
+D-13,1,general_assistant,en,ARM-2022-037,2,n,ok,,y,y,na,y,y,pass
+D-13,2,general_assistant,en,ARM-2025-474,2,n,ok,,y,y,na,y,y,pass
+D-13,3,general_assistant,en,ARM-2023-280,2,n,misstated,a different proposition,y,y,na,y,n,fail
+D-13,4,general_assistant,en,FCR-2024-102,3,n,misstated,a different proposition,y,y,na,y,n,fail
+D-14,1,general_assistant,he,ARM-2018-466,3,n,ok,,y,y,na,y,y,pass
+D-14,2,general_assistant,he,FCR-2023-103,5,n,misstated,opposite of the paragraph,y,y,na,y,n,fail
+D-14,3,general_assistant,he,ARM-2024-479,2,y,ok,,y,y,y,y,y,pass
+D-14,4,general_assistant,he,FCR-2024-169,6,n,nonexistent,,n,na,na,na,na,fail
+D-15,1,general_assistant,en,ARP-2022-117,4,n,ok,,y,y,na,y,y,pass
+D-15,2,general_assistant,en,FCR-2021-124,5,y,bad_quote,quote not in the paragraph,y,y,n,y,y,fail
+D-15,3,general_assistant,en,FCR-2025-049,3,y,bad_quote,quote not in the paragraph,y,y,n,y,y,fail
+D-15,4,general_assistant,en,FCR-2021-124,5,y,ok,,y,y,y,y,y,pass
+D-16,1,general_assistant,he,ARP-2024-286,3,n,misstated,opposite of the paragraph,y,y,na,y,n,fail
+D-16,2,general_assistant,he,ARM-2023-366,2,y,misstated,opposite of the paragraph,y,y,y,y,n,fail
+D-16,3,general_assistant,he,FCR-2018-463,5,y,bad_quote,quote not in the paragraph,y,y,n,y,y,fail
+D-16,4,general_assistant,he,FCR-2024-474,5,n,nonexistent,,n,na,na,na,na,fail
+D-17,1,general_assistant,en,FCR-2022-317,3,n,nonexistent,,n,na,na,na,na,fail
+D-17,2,general_assistant,en,FCR-2018-260,3,n,ok,,y,y,na,y,y,pass
+D-17,3,general_assistant,en,ARP-2021-412,4,n,ok,,y,y,na,y,y,pass
+D-17,4,general_assistant,en,ARP-2018-053,3,n,ok,,y,y,na,y,y,pass
+D-18,1,general_assistant,he,FCR-2018-416,5,n,nonexistent,,n,na,na,na,na,fail
+D-18,2,general_assistant,he,ARM-2021-296,2,n,superseded,,y,y,na,n,y,fail
+D-18,3,general_assistant,he,FCR-2022-097,9,n,bad_pinpoint,,y,n,na,y,na,fail
+D-18,4,general_assistant,he,ARM-2023-366,2,n,ok,,y,y,na,y,y,pass
+D-19,1,general_assistant,en,ARM-2024-378,3,y,bad_quote,quote not in the paragraph,y,y,n,y,y,fail
+D-19,2,general_assistant,en,ARP-2021-455,7,n,bad_pinpoint,,y,n,na,y,na,fail
+D-19,3,general_assistant,en,FCR-2023-148,5,n,ok,,y,y,na,y,y,pass
+D-19,4,general_assistant,en,FCR-2022-047,3,n,nonexistent,,n,na,na,na,na,fail
+D-20,1,general_assistant,he,FCR-2020-020,6,n,nonexistent,,n,na,na,na,na,fail
+D-20,2,general_assistant,he,FCR-2020-193,5,y,ok,,y,y,y,y,y,pass
+D-20,3,general_assistant,he,ARP-2023-329,4,n,ok,,y,y,na,y,y,pass
+D-20,4,general_assistant,he,FCR-2020-193,5,y,ok,,y,y,y,y,y,pass
+D-21,1,parshan_poc,en,FCR-2018-260,8,n,bad_pinpoint,,y,n,na,y,na,fail
+D-21,2,parshan_poc,en,ARM-2024-270,2,n,misstated,a different proposition,y,y,na,y,n,fail
+D-21,3,parshan_poc,en,FCR-2024-294,5,n,ok,,y,y,na,y,y,pass
+D-21,4,parshan_poc,en,ARM-2021-057,2,n,ok,,y,y,na,y,y,pass
+D-22,1,parshan_poc,he,ARM-2025-071,3,n,ok,,y,y,na,y,y,pass
+D-22,2,parshan_poc,he,FCR-2018-260,3,y,ok,,y,y,y,y,y,pass
+D-22,3,parshan_poc,he,ARP-2018-053,3,n,ok,,y,y,na,y,y,pass
+D-22,4,parshan_poc,he,ARP-2018-053,4,n,ok,,y,y,na,y,y,pass
+D-23,1,parshan_poc,en,FCR-2018-463,3,n,ok,,y,y,na,y,y,pass
+D-23,2,parshan_poc,en,FCR-2023-103,5,y,ok,,y,y,y,y,y,pass
+D-23,3,parshan_poc,en,ARP-2024-286,3,n,misstated,opposite of the paragraph,y,y,na,y,n,fail
+D-23,4,parshan_poc,en,ARP-2020-359,4,n,ok,,y,y,na,y,y,pass
+D-24,1,parshan_poc,he,ARM-2025-373,3,n,ok,,y,y,na,y,y,pass
+D-24,2,parshan_poc,he,ARP-2022-345,3,n,ok,,y,y,na,y,y,pass
+D-24,3,parshan_poc,he,ARM-2022-267,2,n,ok,,y,y,na,y,y,pass
+D-24,4,parshan_poc,he,ARM-2021-456,2,n,superseded,,y,y,na,n,y,fail
+D-25,1,parshan_poc,en,FCR-2023-077,3,y,bad_quote,quote not in the paragraph,y,y,n,y,y,fail
+D-25,2,parshan_poc,en,FCR-2021-272,5,n,misstated,opposite of the paragraph,y,y,na,y,n,fail
+D-25,3,parshan_poc,en,FCR-2021-272,5,n,ok,,y,y,na,y,y,pass
+D-25,4,parshan_poc,en,ARM-2023-033,2,n,misstated,opposite of the paragraph,y,y,na,y,n,fail
+D-26,1,parshan_poc,he,ARM-2023-300,3,n,ok,,y,y,na,y,y,pass
+D-26,2,parshan_poc,he,ARM-2023-234,2,n,ok,,y,y,na,y,y,pass
+D-26,3,parshan_poc,he,ARM-2023-033,2,n,ok,,y,y,na,y,y,pass
+D-26,4,parshan_poc,he,ARM-2023-234,2,y,ok,,y,y,y,y,y,pass
+D-27,1,parshan_poc,en,ARM-2023-189,2,n,ok,,y,y,na,y,y,pass
+D-27,2,parshan_poc,en,FCR-2019-333,3,y,superseded,,y,y,y,n,y,fail
+D-27,3,parshan_poc,en,ARM-2023-033,2,n,ok,,y,y,na,y,y,pass
+D-27,4,parshan_poc,en,ARP-2022-285,4,n,ok,,y,y,na,y,y,pass
+D-28,1,parshan_poc,he,ARP-2025-016,4,n,misstated,opposite of the paragraph,y,y,na,y,n,fail
+D-28,2,parshan_poc,he,ARM-2025-474,3,n,ok,,y,y,na,y,y,pass
+D-28,3,parshan_poc,he,ARP-2022-321,4,n,misstated,a different proposition,y,y,na,y,n,fail
+D-28,4,parshan_poc,he,ARP-2019-426,3,n,superseded,,y,y,na,n,y,fail
+D-29,1,parshan_poc,en,ARM-2023-381,2,n,ok,,y,y,na,y,y,pass
+D-29,2,parshan_poc,en,ARP-2024-286,3,n,ok,,y,y,na,y,y,pass
+D-29,3,parshan_poc,en,ARM-2021-296,2,n,superseded,,y,y,na,n,y,fail
+D-29,4,parshan_poc,en,ARM-2018-466,3,n,ok,,y,y,na,y,y,pass
+D-30,1,parshan_poc,he,ARM-2023-280,2,n,ok,,y,y,na,y,y,pass
+D-30,2,parshan_poc,he,FCR-2024-102,3,n,ok,,y,y,na,y,y,pass
+D-30,3,parshan_poc,he,FCR-2024-102,5,y,ok,,y,y,y,y,y,pass
+D-30,4,parshan_poc,he,ARM-2024-316,2,n,ok,,y,y,na,y,y,pass
+D-31,1,parshan_poc,en,FCR-2023-103,3,n,ok,,y,y,na,y,y,pass
+D-31,2,parshan_poc,en,FCR-2020-382,3,n,superseded,,y,y,na,n,y,fail
+D-31,3,parshan_poc,en,ARP-2024-286,3,n,ok,,y,y,na,y,y,pass
+D-31,4,parshan_poc,en,ARM-2021-296,2,n,superseded,,y,y,na,n,y,fail
+D-32,1,parshan_poc,he,FCR-2018-260,3,n,ok,,y,y,na,y,y,pass
+D-32,2,parshan_poc,he,ARM-2018-329,2,n,ok,,y,y,na,y,y,pass
+D-32,3,parshan_poc,he,FCR-2024-294,3,y,ok,,y,y,y,y,y,pass
+D-32,4,parshan_poc,he,ARM-2025-010,2,n,ok,,y,y,na,y,y,pass
+D-33,1,parshan_poc,en,FCR-2018-463,5,y,misstated,a different proposition,y,y,y,y,n,fail
+D-33,2,parshan_poc,en,ARP-2023-023,3,n,ok,,y,y,na,y,y,pass
+D-33,3,parshan_poc,en,FCR-2022-097,3,n,ok,,y,y,na,y,y,pass
+D-33,4,parshan_poc,en,ARM-2018-466,3,n,ok,,y,y,na,y,y,pass
+D-34,1,parshan_poc,he,FCR-2023-077,8,n,bad_pinpoint,,y,n,na,y,na,fail
+D-34,2,parshan_poc,he,ARP-2022-083,4,n,ok,,y,y,na,y,y,pass
+D-34,3,parshan_poc,he,ARM-2023-300,3,n,misstated,opposite of the paragraph,y,y,na,y,n,fail
+D-34,4,parshan_poc,he,ARM-2023-300,2,n,ok,,y,y,na,y,y,pass
+D-35,1,parshan_poc,en,ARM-2020-455,2,n,superseded,,y,y,na,n,y,fail
+D-35,2,parshan_poc,en,ARP-2022-285,3,n,misstated,opposite of the paragraph,y,y,na,y,n,fail
+D-35,3,parshan_poc,en,ARP-2022-083,4,n,ok,,y,y,na,y,y,pass
+D-35,4,parshan_poc,en,FCR-2023-077,3,n,ok,,y,y,na,y,y,pass
+D-36,1,parshan_poc,he,FCR-2021-241,3,y,bad_quote,quote not in the paragraph,y,y,n,y,y,fail
+D-36,2,parshan_poc,he,ARM-2022-037,2,n,ok,,y,y,na,y,y,pass
+D-36,3,parshan_poc,he,FCR-2024-102,5,n,misstated,opposite of the paragraph,y,y,na,y,n,fail
+D-36,4,parshan_poc,he,FCR-2024-102,3,n,ok,,y,y,na,y,y,pass
+D-37,1,parshan_poc,en,ARM-2021-454,2,n,superseded,,y,y,na,n,y,fail
+D-37,2,parshan_poc,en,FCR-2020-393,3,y,superseded,,y,y,y,n,y,fail
+D-37,3,parshan_poc,en,ARM-2024-376,2,y,ok,,y,y,y,y,y,pass
+D-37,4,parshan_poc,en,ARP-2023-329,3,n,ok,,y,y,na,y,y,pass
+D-38,1,parshan_poc,he,FCR-2021-272,5,n,misstated,a different proposition,y,y,na,y,n,fail
+D-38,2,parshan_poc,he,FCR-2023-077,5,n,ok,,y,y,na,y,y,pass
+D-38,3,parshan_poc,he,FCR-2023-077,3,y,ok,,y,y,y,y,y,pass
+D-38,4,parshan_poc,he,FCR-2021-272,3,n,misstated,a different proposition,y,y,na,y,n,fail
+D-39,1,parshan_poc,en,ARM-2022-267,5,n,bad_pinpoint,,y,n,na,y,na,fail
+D-39,2,parshan_poc,en,ARP-2022-117,3,n,ok,,y,y,na,y,y,pass
+D-39,3,parshan_poc,en,FCR-2021-124,5,n,ok,,y,y,na,y,y,pass
+D-39,4,parshan_poc,en,FCR-2020-460,3,n,superseded,,y,y,na,n,y,fail
+D-40,1,parshan_poc,he,ARM-2022-267,2,y,ok,,y,y,y,y,y,pass
+D-40,2,parshan_poc,he,ARP-2022-117,4,n,ok,,y,y,na,y,y,pass
+D-40,3,parshan_poc,he,FCR-2025-049,5,y,bad_quote,quote not in the paragraph,y,y,n,y,y,fail
+D-40,4,parshan_poc,he,FCR-2021-124,3,n,ok,,y,y,na,y,y,pass

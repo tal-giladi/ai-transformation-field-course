@@ -1,0 +1,14 @@
+logged_date,from_group,topic,summary,status
+2026-01-19,Real estate,conflict,New buyer client vs existing developer client,closed
+2026-02-03,Corporate,ai-tools,Associate asks if ChatGPT may be used to polish English of a client email; answered: no client details,closed
+2026-03-15,Litigation,privilege,Expert's draft report shared with client's insurer; privilege view,closed
+2026-04-08,Corporate,ai-tools,Associate asks whether a free tool may translate a Russian shareholders' agreement; answered: not without client consent,closed
+2026-05-21,Employment,confidentiality,Former client's HR files requested by new client,closed
+2026-06-02,Corporate,ai-tools,DLP warning: DeepL upload of shareholders' agreement; reminded,closed
+2026-07-12,Tech & IP,fees,Fixed-fee package overrun; can extra hours be billed? Answered: not without agreement,closed
+2026-08-30,Banking & finance,conflict,Lender and borrower group companies,closed
+2026-09-03,Corporate,ai-tools,DLP: draft SPA uploaded to consumer AI tool; client not informed; outside ethics counsel asked whether disclosure is required,open - awaiting outside ethics counsel
+2026-09-17,All,ai-tools,Bar Association ethics committee published expanded AI opinion; firm policy needed,open
+2026-10-02,Corporate,client-terms,Carmel outside-counsel guidelines received: AI disclosure and consent clause; no firm policy to answer it,open
+2026-10-14,All,insurance,PI insurer renewal questionnaire includes AI controls section; due 15 Jan 2027,open
+2026-10-23,Tech & IP,ai-tools,Partner asks whether 'time saved by AI' may be billed as value under fixed fee (draft AI policy),open
