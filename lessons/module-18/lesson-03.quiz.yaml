@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    You have four findings that change the board's decision. How do you choose which one is "the
+    hardest" to rehearse privately?
+  options:
+    - >-
+      The one with the largest shekel figure attached to it in the ROI model.
+    - >-
+      The one you found last, because the executives have not heard it yet.
+    - >-
+      The one that contradicts a public commitment, delivered to whoever made it.
+    - >-
+      The one with the weakest evidence, so you can strengthen it in rehearsal.
+  correct: 2
+  explanation: >-
+    Resistance comes from commitments: a number given to a board, a promise to a vendor. The person
+    who made it has the most to lose in the room, so they hear it first and privately. Size, recency
+    or weak evidence are not what makes a finding hard to accept.
+
+- id: q2
+  question: >-
+    In your second rehearsal the executive reacts much better, but you notice you said "the timeline
+    may be ambitious" instead of "the target you announced cannot be met this year". What happened?
+  options:
+    - >-
+      You softened the finding; restore the original line and change only the delivery.
+    - >-
+      You found a better framing; keep it, since the goal is the executive's agreement.
+    - >-
+      The persona drifted; restart the roleplay and ask the model to be more difficult.
+    - >-
+      Nothing important; the board will see the exact wording in the pre-read anyway.
+  correct: 0
+  explanation: >-
+    Rehearsal changes how you deliver the finding, never what it says. A better reaction to a vaguer
+    finding is not progress; write the line you will not move before you rehearse and check it after.
+
+- id: q3
+  question: >-
+    Which opening minute best meets the "answer first" criterion for a ten-minute board slot?
+  options:
+    - >-
+      "Thank you for having me. Over twelve weeks we interviewed nine people and profiled six datasets."
+    - >-
+      "Let me start with the context: the sector, the competition and why AI matters now."
+    - >-
+      "We looked at three options. I'll walk you through each and you can choose."
+    - >-
+      "We recommend you approve these three changes and decline the vendor for 2027, because…"
+  correct: 3
+  explanation: >-
+    The recommendation, in one sentence, inside the first minute. Method and context spend the
+    board's attention on you, and a menu hands your judgment back to the board.
+
+- id: q4
+  question: >-
+    Your recording scores 13 of 21. The sheet shows the ask had no stop rule and you read two slides
+    aloud. What next?
+  options:
+    - >-
+      Submit it, since the content of the deliverables matters more than delivery.
+    - >-
+      Change the one thing the sheet names, record a second take, and score it again.
+    - >-
+      Edit the video to cut the slides you read and splice in the missing stop rule.
+    - >-
+      Rewrite every slide from scratch before recording again next week.
+  correct: 1
+  explanation: >-
+    Below 15, change one named thing and record again in one take: most improvement comes between
+    the first and second take. Editing hides the delivery you are meant to practise, and rewriting
+    everything loses what already worked.
+
+- id: q5
+  question: >-
+    A director asks a question you cannot answer: "What will the student union say?" What is the best
+    reply?
+  options:
+    - >-
+      "I expect they will support it, since it is good for students."
+    - >-
+      "That is outside my scope; the college should ask the union itself."
+    - >-
+      "The Dean of Students meets the union chair on 20 May and will report by the 25th."
+    - >-
+      "Let me explain the methodology we used to consult stakeholders in detail."
+  correct: 2
+  explanation: >-
+    Say who will answer and by when, in one sentence. Guessing a stakeholder's view, deflecting the
+    question, or answering with method all cost credibility with the board.

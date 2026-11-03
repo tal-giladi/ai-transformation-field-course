@@ -153,3 +153,12 @@
   - [112 · Decide: the stop/keep audit and the incident closed](lessons/module-17/lesson-05.md)
   - [113 · Readout and debrief](lessons/module-17/lesson-06.md)
   - [Module 17 quiz](assessments/module-17-quiz.md)
+
+- Stage 3 — Capstone
+- **Module 18 — Your Engagement**
+  - [114 · The unseen org](lessons/module-18/lesson-01.md)
+  - [115 · The full deliverable set and the integration check](lessons/module-18/lesson-02.md)
+  - [116 · The executive presentation](lessons/module-18/lesson-03.md)
+  - [117 · Optional: a real engagement in your own workplace](lessons/module-18/lesson-04.md)
+  - [118 · Your practice kit and portfolio](lessons/module-18/lesson-05.md)
+  - [Module 18 quiz](assessments/module-18-quiz.md)

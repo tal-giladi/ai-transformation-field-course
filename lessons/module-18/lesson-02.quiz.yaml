@@ -1,0 +1,93 @@
+- id: q1
+  question: >-
+    The pilot charter says "a staff member reads every draft before it is sent". The ROI model counts
+    the time saved by drafting but no review hours. What does the control trace require you to do?
+  options:
+    - >-
+      Nothing: reading a draft is quicker than writing one, so it nets out anyway.
+    - >-
+      Name who reviews, the hours on the busiest day, and the cost line that pays for them.
+    - >-
+      Remove the review step from the charter so the two documents agree.
+    - >-
+      Add a footnote to the ROI model saying review time is excluded for simplicity.
+  correct: 1
+  explanation: >-
+    A control without a person, hours and a cost line is the one skipped under load. The trace makes
+    the review real and nets its cost; deleting the control or footnoting it away hides the problem
+    instead of pricing it.
+
+- id: q2
+  question: >-
+    The case says a process change "returns ₪1.2M in 2027". The roadmap puts the change live in June,
+    and the outcome it affects is measured once a year on 1 October. What goes in the timing trace?
+  options:
+    - >-
+      Keep 2027 in the case, since the change itself goes live during 2027.
+    - >-
+      Move the benefit to 2029 to be safe, whatever the roadmap actually says.
+    - >-
+      Leading evidence in June, the outcome in October, the full year after.
+    - >-
+      Drop the benefit from the case until a full year of results is available.
+  correct: 2
+  explanation: >-
+    Trace the claim to when its cause exists and when the outcome is measured. That gives the board a
+    leading indicator and an honest landing date; keeping 2027 overclaims, and pushing or dropping the
+    benefit arbitrarily throws away evidence you will have.
+
+- id: q3
+  question: >-
+    The integration check finds that the decision-ready case still shows the payback period the
+    sponsor presented to the board in January, while your ROI model now shows twice as long. What do
+    you do?
+  options:
+    - >-
+      Disclose it to the sponsor before the pre-read and put it to the board as its own line.
+    - >-
+      Quietly replace the figure in the case so the documents agree before anyone notices.
+    - >-
+      Keep the sponsor's payback in the case to avoid embarrassing him in front of the board.
+    - >-
+      Put the corrected figure in an appendix and leave the front page as it is.
+  correct: 0
+  explanation: >-
+    A contradiction that changes a decision is disclosed, never fixed quietly: first to the sponsor,
+    privately, then to the forum. Silent edits, keeping the wrong number, or burying the correction in
+    an appendix all cost more trust than the disclosure.
+
+- id: q4
+  question: >-
+    You score your findings memo 3 on "evidence" because you know how every number was computed. The
+    memo itself does not say how. What is the honest score?
+  options:
+    - >-
+      3, because the analysis behind the memo is complete and correct.
+    - >-
+      2, as a compromise between the analysis and what the page says.
+    - >-
+      It cannot be scored until a reviewer has asked you about the method.
+    - >-
+      Lower than 3, since the score is for the document, not your intention.
+  correct: 3
+  explanation: >-
+    Score the document a reader will have. If you cannot quote the line that shows how a number was
+    measured, the evidence point is not earned; add the method and re-score.
+
+- id: q5
+  question: >-
+    Why build a register of every number, date and owner before running the integration check?
+  options:
+    - >-
+      Because boards ask for a complete list of all the figures in every pack.
+    - >-
+      It catches contradictions early and answers "where does this come from?"
+    - >-
+      Because the template requires it before the contradiction log can be started.
+    - >-
+      So that every number can be rounded the same way in every document you write.
+  correct: 1
+  explanation: >-
+    One row per fact, with its label, source and owner, stops two documents drifting apart and gives
+    you a one-line answer in the meeting. It is a working tool for you, not a board requirement or a
+    formatting rule.

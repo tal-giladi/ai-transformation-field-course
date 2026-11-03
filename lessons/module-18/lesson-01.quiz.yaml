@@ -1,0 +1,95 @@
+- id: q1
+  question: >-
+    On day one of an unseen engagement you have twelve weeks, three paid phases with an exit after
+    each, and a board date. What do you produce before reading the data room in depth?
+  options:
+    - >-
+      A full draft of the findings memo, so discovery only has to confirm it.
+    - >-
+      A one-page plan dating each method step, the readiness bar, the pilot and the rehearsal.
+    - >-
+      A detailed project plan for the vendor pilot the sponsor has already proposed.
+    - >-
+      A list of every template in the course, to be filled in at equal depth.
+  correct: 1
+  explanation: >-
+    The calendar paces an unseen engagement. Dating the expensive steps first (the bar before vendor
+    evidence, the pilot's thresholds, the rehearsal) keeps them from being squeezed out; drafting
+    findings or the vendor's plan accepts conclusions you have not earned.
+
+- id: q2
+  question: >-
+    The CEO opens with "So when can the vendor's free pilot start? They want the data by the 25th."
+    The board minuted that any vendor pilot using student data needs the DPO's review first. What do
+    you say?
+  options:
+    - >-
+      Agree to start in parallel, since a free pilot costs the college nothing.
+    - >-
+      Tell him the vendor is unsuitable and the pilot should be cancelled today.
+    - >-
+      Say nothing goes out before the DPO's review, and give him the date of your view.
+    - >-
+      Ask IT to send an anonymised sample so the vendor can begin while you review.
+  correct: 2
+  explanation: >-
+    The board's own decision is the answer, and a date keeps his momentum without conceding the
+    point. "Free" pilots cost data; declaring the vendor unsuitable on day one is a conclusion you
+    have not earned; and an ad-hoc anonymised sample still shares student data before review.
+
+- id: q3
+  question: >-
+    Two files in the data room quote the same headline number, and they agree exactly. How should
+    that change your first-read sort?
+  options:
+    - >-
+      Check whether one was copied from the other before you mark it verified.
+    - >-
+      Mark it verified, because two independent files confirm the same figure.
+    - >-
+      Mark it unverifiable, because agreement between documents proves nothing.
+    - >-
+      Drop it from the sort, since a figure everyone agrees on needs no testing.
+  correct: 0
+  explanation: >-
+    Agreement often means one document copied the other, so it is not independent confirmation. Find
+    where the number was made and how, then sort it; verified means you saw the underlying data or a
+    signed source.
+
+- id: q4
+  question: >-
+    You are writing your hypotheses log before the first interview. Which entry is written the way
+    the lesson asks?
+  options:
+    - >-
+      "Dropout is caused by weak advising; evidence: the CEO says advisers are overloaded."
+    - >-
+      "The vendor's model will work here; evidence: the case study shows 85% recall."
+    - >-
+      "Students leave for many reasons; evidence: to be collected during discovery."
+    - >-
+      "Leaving rose since 2023; disproved if the registry, recomputed, does not show the rise."
+  correct: 3
+  explanation: >-
+    Each hypothesis carries the evidence that would disprove it, written before you look, so new
+    facts are not all read as support. The other entries cite a claim as evidence or are too vague to
+    test.
+
+- id: q5
+  question: >-
+    You are tempted to open the expert folder "only to see how long their findings memo is". What
+    is the right call?
+  options:
+    - >-
+      Open it briefly, since format and length are not really part of the answer.
+    - >-
+      Leave it closed; the templates show the format and the folder is the answer.
+    - >-
+      Open only the README, which lists the files without giving their content.
+    - >-
+      Ask a colleague to read it and tell you only how long the memo is.
+  correct: 1
+  explanation: >-
+    Any glimpse anchors your judgment, and the debrief is only worth something if your deliverables
+    were made without it. The templates and earlier engagements already show the format and a sensible
+    length.

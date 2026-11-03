@@ -1,0 +1,9 @@
+- **Unseen engagement** — An engagement run end to end with no lesson naming the files, people or findings that matter, and the hidden truth withheld until the deliverables are submitted (lesson 18.1).
+- **Hypotheses log** — A short table of working hypotheses, each with the evidence that would disprove it written before looking, updated after every interview and analysis (lesson 18.1).
+- **Register of facts** — One row for every number, date and owner that appears in more than one deliverable, with its label, source and owner, kept from the first phase so documents cannot drift apart (lesson 18.2).
+- **Control trace** — The part of the integration check that traces every human control to a named person, the hours it takes and the cost line that pays for them (lesson 18.2).
+- **Timing trace** — The part of the integration check that traces every claimed benefit to when the case says it lands, when readiness allows it, when the roadmap schedules its cause and when the outcome is measured (lesson 18.2).
+- **Hardest finding** — The finding that contradicts a public commitment, delivered first and privately to the executive who made that commitment (lesson 18.3).
+- **Permission letter** — A one-page, signed statement of what an internal engagement will and will not do, who sees the output, what may be taken out and who can stop it, written before any real data is touched (lesson 18.4).
+- **Practice kit** — Your own master version of each tool, with a header saying when it worked, when it failed and what you now always add (lesson 18.5).
+- **Portfolio piece** — A two-to-four-page account of one engagement that shows the findings that changed the recommendation, the recommend-against and one artifact, labelled honestly as training or anonymised real work (lesson 18.5).

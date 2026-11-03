@@ -1,0 +1,241 @@
+inquiry_id,language,category_selected,text,gold_unit,urgent,portal_first_unit,split
+INQ-2500049,he,exams,"לא שילמתי את התשלום של דצמבר כי פוטרתי מהעבודה. אני רוצה להסדיר, אבל צריך להירשם למבחן בחשבון דיפרנציאלי. מה האפשרויות?",finance - collections,Y,exams office,dev
+INQ-2500119,en,exams,"Hi, the system says I have a financial block and I can't register for the Intro to Psychology exam. My scholarship was approved in November. Registration closes on 11/01. Please help.",finance - collections,Y,exams office,test
+INQ-2500196,ru,exams,"Здравствуйте, у меня долг 6400 шекелей, из-за этого блокировка. Хочу оформить рассрочку. Можно ли записаться на экзамены сейчас?",finance - collections,Y,exams office,test
+INQ-2500245,he,other,"שלום, יש לי חוב של 5300 ש""ח ואני חסום להרשמה למבחנים. אני רוצה לעשות הסדר תשלומים, אפשר לפרוס ל-4 תשלומים?",finance - collections,Y,student administration,test
+INQ-2500329,he,exams,"שוב אני, אף אחד לא חזר אליי. המבחן במבוא למדעי המחשב בעוד שבוע",finance - collections,Y,exams office,test
+INQ-2500371,he,other,"שלום, אני לא מצליח להירשם למבחן בחשבון דיפרנציאלי. כתוב שיש חסימה כספית אבל המלגה שלי אושרה כבר. ההרשמה נסגרת ב-11/01, מה עושים?",finance - collections,Y,student administration,test
+INQ-2500392,ar,other,مرحبا، عندي دين 7900 شيكل وحسابي محظور. أريد ترتيب دفعات، هل يمكن تقسيمها؟ أحتاج التسجيل للامتحانات,finance - collections,Y,student administration,dev
+INQ-2500686,ru,exams,"Здравствуйте, у меня долг 6000 шекелей, из-за этого блокировка. Хочу оформить рассрочку. Можно ли записаться на экзамены сейчас?",finance - collections,Y,exams office,test
+INQ-2500742,he,other,ביקשתי הסדר תשלומים לפני שבוע ועוד לא קיבלתי תשובה. ההרשמה למבחנים נסגרת ב-14/06,finance - collections,Y,student administration,test
+INQ-2500882,he,exams,"למה אני חסום?? אין לי חוב, המלגה מהעירייה אושרה. צריך להירשם לבחינה במבוא למדעי המחשב דחוף",finance - collections,Y,exams office,test
+INQ-2500938,he,exams,"שלום, יש לי חוב של 4100 ש""ח ואני חסום להרשמה למבחנים. אני רוצה לעשות הסדר תשלומים, אפשר לפרוס ל-4 תשלומים?",finance - collections,Y,exams office,test
+INQ-2500959,ru,exams,"Здравствуйте, не могу зарегистрироваться на экзамен по אלגברה לינארית: в системе финансовая блокировка, но стипендия уже утверждена. Регистрация закрывается 11/01. Что делать?",finance - collections,Y,exams office,test
+INQ-2500966,en,exams,"Hello, I owe 3400 NIS and I'm blocked from exam registration. Can I set up a payment arrangement? I can pay part now.",finance - collections,Y,exams office,dev
+INQ-2500973,he,finance,"שלום, יש לי חוב של 2600 ש""ח ואני חסום להרשמה למבחנים. אני רוצה לעשות הסדר תשלומים, אפשר לפרוס ל-4 תשלומים?",finance - collections,Y,finance - collections,test
+INQ-2501113,ru,finance,"Здравствуйте, не могу зарегистрироваться на экзамен по חשבון דיפרנציאלי: в системе финансовая блокировка, но стипендия уже утверждена. Регистрация закрывается 14/06. Что делать?",finance - collections,Y,finance - collections,test
+INQ-2501120,ar,other,مرحبا، عندي دين 6000 شيكل وحسابي محظور. أريد ترتيب دفعات، هل يمكن تقسيمها؟ أحتاج التسجيل للامتحانات,finance - collections,Y,student administration,test
+INQ-2501218,he,exams,"למה אני חסום?? אין לי חוב, המלגה מהעירייה אושרה. צריך להירשם לבחינה במבוא למשפט דחוף",finance - collections,Y,exams office,test
+INQ-2501302,ar,finance,السلام عليكم، حسابي محظور ولا أستطيع التسجيل للامتحانات مع أن منحة البلدية وصلت للكلية. أرجو المساعدة بسرعة,finance - collections,Y,finance - collections,test
+INQ-2501323,he,finance,"שלום, יש לי חוב של 7000 ש""ח ואני חסום להרשמה למבחנים. אני רוצה לעשות הסדר תשלומים, אפשר לפרוס ל-4 תשלומים?",finance - collections,Y,finance - collections,dev
+INQ-2501344,ar,exams,مرحبا، لا أستطيع التسجيل لامتحان חשבון דיפרנציאלי. يظهر في النظام أن هناك حظر مالي لكن المنحة تمت الموافقة عليها. التسجيل يغلق في 14/06، ماذا أفعل؟,finance - collections,Y,exams office,test
+INQ-2501393,en,exams,"Hello, I owe 4000 NIS and I'm blocked from exam registration. Can I set up a payment arrangement? I can pay part now.",finance - collections,Y,exams office,test
+INQ-2501400,en,exams,I wrote last week and I'm still blocked. Registration is closing.,finance - collections,N,exams office,test
+INQ-2501449,en,other,I wrote last week and I'm still blocked. Registration is closing.,finance - collections,N,student administration,test
+INQ-2501512,en,finance,I wrote last week and I'm still blocked. Registration is closing.,finance - collections,N,finance - collections,test
+INQ-2501736,ru,finance,"Здравствуйте, у меня долг 7300 шекелей, из-за этого блокировка. Хочу оформить рассрочку. Можно ли записаться на экзамены сейчас?",finance - collections,Y,finance - collections,dev
+INQ-2501771,he,finance,פניתי כבר לפני כמה ימים ועדיין חסום. ההרשמה נסגרת!!,finance - collections,N,finance - collections,test
+INQ-2502023,ar,exams,لم يرد علي أحد. امتحان אלגברה לינארית بعد أسبوع,finance - collections,N,exams office,test
+INQ-2502051,en,other,"Hello, I owe 3100 NIS and I'm blocked from exam registration. Can I set up a payment arrangement? I can pay part now.",finance - collections,Y,student administration,test
+INQ-2502072,he,finance,"אני לא מצליחה להירשם לבחינות, מופיע 'חסימה - גבייה'. שילמתי הכל בהוראת קבע חוץ מהמלגה שעוד לא נכנסה",finance - collections,Y,finance - collections,test
+INQ-2502163,ru,exams,"Здравствуйте, у меня долг 2900 шекелей, из-за этого блокировка. Хочу оформить рассрочку. Можно ли записаться на экзамены сейчас?",finance - collections,Y,exams office,test
+INQ-2502219,en,other,"Hello, I owe 7200 NIS and I'm blocked from exam registration. Can I set up a payment arrangement? I can pay part now.",finance - collections,Y,student administration,dev
+INQ-2502268,ar,exams,مرحبا، عندي دين 4600 شيكل وحسابي محظور. أريد ترتيب دفعات، هل يمكن تقسيمها؟ أحتاج التسجيل للامتحانات,finance - collections,Y,exams office,test
+INQ-2502373,he,finance,"למה אני חסום?? אין לי חוב, המלגה מהעירייה אושרה. צריך להירשם לבחינה בסטטיסטיקה א דחוף",finance - collections,Y,finance - collections,test
+INQ-2502450,he,finance,"למה אני חסום?? אין לי חוב, המלגה מהעירייה אושרה. צריך להירשם לבחינה בסטטיסטיקה א דחוף",finance - collections,Y,finance - collections,test
+INQ-2502492,ar,exams,مرحبا، عندي دين 4000 شيكل وحسابي محظور. أريد ترتيب دفعات، هل يمكن تقسيمها؟ أحتاج التسجيل للامتحانات,finance - collections,Y,exams office,test
+INQ-2502583,he,other,"שלום, אני לא מצליח להירשם למבחן במבוא למיקרו כלכלה. כתוב שיש חסימה כספית אבל המלגה שלי אושרה כבר. ההרשמה נסגרת ב-14/06, מה עושים?",finance - collections,Y,student administration,test
+INQ-2502758,he,exams,פניתי כבר לפני כמה ימים ועדיין חסום. ההרשמה נסגרת!!,finance - collections,N,exams office,dev
+INQ-2502779,he,finance,"אני לא מצליחה להירשם לבחינות, מופיע 'חסימה - גבייה'. שילמתי הכל בהוראת קבע חוץ מהמלגה שעוד לא נכנסה",finance - collections,Y,finance - collections,test
+INQ-2502863,ar,finance,مرحبا، لا أستطيع التسجيل لامتحان דיני חוזים. يظهر في النظام أن هناك حظر مالي لكن المنحة تمت الموافقة عليها. التسجيل يغلق في 14/06، ماذا أفعل؟,finance - collections,Y,finance - collections,test
+INQ-2502877,ar,other,طلبت ترتيب دفعات قبل أسبوع ولم يرد أحد. التسجيل للامتحانات يغلق في 14/06,finance - collections,Y,student administration,test
+INQ-2502982,ar,exams,طلبت ترتيب دفعات قبل أسبوع ولم يرد أحد. التسجيل للامتحانات يغلق في 11/01,finance - collections,Y,exams office,test
+INQ-2503087,ar,other,مرحبا، عندي دين 1900 شيكل وحسابي محظور. أريد ترتيب دفعات، هل يمكن تقسيمها؟ أحتاج التسجيل للامتحانات,finance - collections,Y,student administration,test
+INQ-2503136,ar,finance,مرحبا، عندي دين 8500 شيكل وحسابي محظور. أريد ترتيب دفعات، هل يمكن تقسيمها؟ أحتاج التسجيل للامتحانات,finance - collections,Y,finance - collections,dev
+INQ-2503269,he,exams,ביקשתי הסדר תשלומים לפני שבוע ועוד לא קיבלתי תשובה. ההרשמה למבחנים נסגרת ב-14/06,finance - collections,Y,exams office,test
+INQ-2503353,ar,finance,السلام عليكم، حسابي محظور ولا أستطيع التسجيل للامتحانات مع أن منحة البلدية وصلت للكلية. أرجو المساعدة بسرعة,finance - collections,Y,finance - collections,test
+INQ-2503486,en,exams,"Hello, I owe 8400 NIS and I'm blocked from exam registration. Can I set up a payment arrangement? I can pay part now.",finance - collections,Y,exams office,test
+INQ-2503500,ar,other,لم يرد علي أحد. امتحان מבוא למדעי המחשב بعد أسبوع,finance - collections,N,student administration,test
+INQ-2503647,he,exams,"אני לא מצליחה להירשם לבחינות, מופיע 'חסימה - גבייה'. שילמתי הכל בהוראת קבע חוץ מהמלגה שעוד לא נכנסה",finance - collections,Y,exams office,test
+INQ-2503850,he,other,"שלום, יש לי חוב של 8300 ש""ח ואני חסום להרשמה למבחנים. אני רוצה לעשות הסדר תשלומים, אפשר לפרוס ל-4 תשלומים?",finance - collections,Y,student administration,dev
+INQ-2503892,he,finance,"שוב אני, אף אחד לא חזר אליי. המבחן במבוא לתקשורת בעוד שבוע",finance - collections,N,finance - collections,test
+INQ-2503941,en,finance,"Hello, I owe 1900 NIS and I'm blocked from exam registration. Can I set up a payment arrangement? I can pay part now.",finance - collections,Y,finance - collections,test
+INQ-2503948,en,other,I wrote last week and I'm still blocked. Registration is closing.,finance - collections,Y,student administration,test
+INQ-2503969,he,finance,"שלום, יש לי חוב של 2900 ש""ח ואני חסום להרשמה למבחנים. אני רוצה לעשות הסדר תשלומים, אפשר לפרוס ל-4 תשלומים?",finance - collections,Y,finance - collections,test
+INQ-2503997,he,finance,"לא שילמתי את התשלום של דצמבר כי פוטרתי מהעבודה. אני רוצה להסדיר, אבל צריך להירשם למבחן באלגברה לינארית. מה האפשרויות?",finance - collections,Y,finance - collections,test
+INQ-2504046,ar,exams,راسلتكم قبل أيام وما زال الحساب محظوراً. التسجيل يغلق!,finance - collections,Y,exams office,dev
+INQ-2504326,he,exams,"שלום, אני לא מצליח להירשם למבחן במבוא למיקרו כלכלה. כתוב שיש חסימה כספית אבל המלגה שלי אושרה כבר. ההרשמה נסגרת ב-11/01, מה עושים?",finance - collections,Y,exams office,test
+INQ-2504487,he,exams,"אני לא מצליחה להירשם לבחינות, מופיע 'חסימה - גבייה'. שילמתי הכל בהוראת קבע חוץ מהמלגה שעוד לא נכנסה",finance - collections,Y,exams office,test
+INQ-2504627,ar,exams,مرحبا، عندي دين 8800 شيكل وحسابي محظور. أريد ترتيب دفعات، هل يمكن تقسيمها؟ أحتاج التسجيل للامتحانات,finance - collections,Y,exams office,test
+INQ-2504690,en,exams,"Hello, I owe 8600 NIS and I'm blocked from exam registration. Can I set up a payment arrangement? I can pay part now.",finance - collections,Y,exams office,test
+INQ-2504823,en,other,"Hello, I owe 1800 NIS and I'm blocked from exam registration. Can I set up a payment arrangement? I can pay part now.",finance - collections,Y,student administration,test
+INQ-2504872,ru,exams,"Добрый день. У меня блокировка, хотя грант за милуим одобрен. Прошу снять блокировку, нужно записаться на экзамены.",finance - collections,Y,exams office,dev
+INQ-2504893,he,finance,"שלום, אני לא מצליח להירשם למבחן באלגברה לינארית. כתוב שיש חסימה כספית אבל המלגה שלי אושרה כבר. ההרשמה נסגרת ב-11/01, מה עושים?",finance - collections,Y,finance - collections,test
+INQ-2505061,he,exams,"היי, יש לי חסימה במערכת ואני לא יכולה להירשם למבחנים. אושר לי מענק מילואים בדצמבר. אפשר לשחרר?",finance - collections,Y,exams office,test
+INQ-2505103,he,exams,"אני לא מצליחה להירשם לבחינות, מופיע 'חסימה - גבייה'. שילמתי הכל בהוראת קבע חוץ מהמלגה שעוד לא נכנסה",finance - collections,Y,exams office,test
+INQ-2505166,he,finance,"שלום, יש לי חוב של 7700 ש""ח ואני חסום להרשמה למבחנים. אני רוצה לעשות הסדר תשלומים, אפשר לפרוס ל-4 תשלומים?",finance - collections,Y,finance - collections,test
+INQ-2505292,he,finance,ביקשתי הסדר תשלומים לפני שבוע ועוד לא קיבלתי תשובה. ההרשמה למבחנים נסגרת ב-14/06,finance - collections,Y,finance - collections,test
+INQ-2505313,ru,exams,"Добрый день. У меня блокировка, хотя грант за милуим одобрен. Прошу снять блокировку, нужно записаться на экзамены.",finance - collections,Y,exams office,dev
+INQ-2505390,he,finance,ביקשתי הסדר תשלומים לפני שבוע ועוד לא קיבלתי תשובה. ההרשמה למבחנים נסגרת ב-14/06,finance - collections,Y,finance - collections,test
+INQ-2505481,he,finance,"לא שילמתי את התשלום של דצמבר כי פוטרתי מהעבודה. אני רוצה להסדיר, אבל צריך להירשם למבחן בסטטיסטיקה א. מה האפשרויות?",finance - collections,Y,finance - collections,test
+INQ-2505628,ar,exams,مساء الخير، مكتوب عندي חסימה ولا يوجد علي دين. المنحة مصادق عليها. كيف أسجل للامتحان؟,finance - collections,Y,exams office,test
+INQ-2505831,ar,finance,مرحبا، عندي دين 8400 شيكل وحسابي محظور. أريد ترتيب دفعات، هل يمكن تقسيمها؟ أحتاج التسجيل للامتحانات,finance - collections,Y,finance - collections,test
+INQ-2505859,ru,finance,"Здравствуйте, не могу зарегистрироваться на экзамен по מבוא לפסיכולוגיה: в системе финансовая блокировка, но стипендия уже утверждена. Регистрация закрывается 11/01. Что делать?",finance - collections,Y,finance - collections,test
+INQ-2505866,en,exams,"Hello, I owe 7100 NIS and I'm blocked from exam registration. Can I set up a payment arrangement? I can pay part now.",finance - collections,Y,exams office,dev
+INQ-2505908,ru,finance,"Добрый день. У меня блокировка, хотя грант за милуим одобрен. Прошу снять блокировку, нужно записаться на экзамены.",finance - collections,Y,finance - collections,test
+INQ-2505929,he,exams,"שלום, אני לא מצליח להירשם למבחן במבוא לתקשורת. כתוב שיש חסימה כספית אבל המלגה שלי אושרה כבר. ההרשמה נסגרת ב-11/01, מה עושים?",finance - collections,Y,exams office,test
+INQ-2505943,ru,exams,"Добрый день. У меня блокировка, хотя грант за милуим одобрен. Прошу снять блокировку, нужно записаться на экзамены.",finance - collections,Y,exams office,test
+INQ-2505985,he,finance,"שלום, יש לי חוב של 2900 ש""ח ואני חסום להרשמה למבחנים. אני רוצה לעשות הסדר תשלומים, אפשר לפרוס ל-4 תשלומים?",finance - collections,Y,finance - collections,test
+INQ-2505999,ar,finance,طلبت ترتيب دفعات قبل أسبوع ولم يرد أحد. التسجيل للامتحانات يغلق في 14/06,finance - collections,Y,finance - collections,test
+INQ-2506153,ar,other,راسلتكم قبل أيام وما زال الحساب محظوراً. التسجيل يغلق!,finance - collections,Y,student administration,dev
+INQ-2506160,ar,exams,السلام عليكم، حسابي محظور ولا أستطيع التسجيل للامتحانات مع أن منحة البلدية وصلت للكلية. أرجو المساعدة بسرعة,finance - collections,Y,exams office,test
+INQ-2506314,ar,exams,مرحبا، عندي دين 8800 شيكل وحسابي محظور. أريد ترتيب دفعات، هل يمكن تقسيمها؟ أحتاج التسجيل للامتحانات,finance - collections,Y,exams office,test
+INQ-2506391,ar,finance,مرحبا، عندي دين 4700 شيكل وحسابي محظور. أريد ترتيب دفعات، هل يمكن تقسيمها؟ أحتاج التسجيل للامتحانات,finance - collections,Y,finance - collections,test
+INQ-2506433,he,finance,"שוב אני, אף אחד לא חזר אליי. המבחן במבוא למדעי המחשב בעוד שבוע",finance - collections,Y,finance - collections,test
+INQ-2506482,he,exams,"שלום, אני לא מצליח להירשם למבחן בחשבון דיפרנציאלי. כתוב שיש חסימה כספית אבל המלגה שלי אושרה כבר. ההרשמה נסגרת ב-11/01, מה עושים?",finance - collections,Y,exams office,test
+INQ-2506552,en,finance,"Hello, I owe 2600 NIS and I'm blocked from exam registration. Can I set up a payment arrangement? I can pay part now.",finance - collections,Y,finance - collections,dev
+INQ-2506629,ar,finance,مرحبا، عندي دين 4100 شيكل وحسابي محظور. أريد ترتيب دفعات، هل يمكن تقسيمها؟ أحتاج التسجيل للامتحانات,finance - collections,Y,finance - collections,test
+INQ-2506664,ru,finance,"Здравствуйте, у меня долг 8700 шекелей, из-за этого блокировка. Хочу оформить рассрочку. Можно ли записаться на экзамены сейчас?",finance - collections,Y,finance - collections,test
+INQ-2506748,ar,other,مساء الخير، مكتوب عندي חסימה ولا يوجد علي دين. المنحة مصادق عليها. كيف أسجل للامتحان؟,finance - collections,Y,student administration,test
+INQ-2506972,ru,other,"Писал(а) несколько дней назад, блокировка всё ещё стоит. Регистрация закрывается!",finance - collections,N,student administration,test
+INQ-2506979,ar,exams,مرحبا، عندي دين 8600 شيكل وحسابي محظور. أريد ترتيب دفعات، هل يمكن تقسيمها؟ أحتاج التسجيل للامتحانات,finance - collections,Y,exams office,test
+INQ-2507042,ru,finance,"Здравствуйте, у меня долг 8000 шекелей, из-за этого блокировка. Хочу оформить рассрочку. Можно ли записаться на экзамены сейчас?",finance - collections,Y,finance - collections,dev
+INQ-2507091,he,finance,ביקשתי הסדר תשלומים לפני שבוע ועוד לא קיבלתי תשובה. ההרשמה למבחנים נסגרת ב-11/01,finance - collections,Y,finance - collections,test
+INQ-2507238,he,other,"שוב אני, אף אחד לא חזר אליי. המבחן באלגברה לינארית בעוד שבוע",finance - collections,Y,student administration,test
+INQ-2507294,ar,finance,مساء الخير، مكتوب عندي חסימה ولا يوجد علي دين. المنحة مصادق عليها. كيف أسجل للامتحان؟,finance - collections,Y,finance - collections,test
+INQ-2507371,en,exams,"Hello, I'm blocked from exam registration but I don't owe anything, my grant just hasn't been credited yet.",finance - collections,Y,exams office,test
+INQ-2507602,ar,finance,طلبت ترتيب دفعات قبل أسبوع ولم يرد أحد. التسجيل للامتحانات يغلق في 14/06,finance - collections,Y,finance - collections,test
+INQ-2507644,ar,exams,مرحبا، عندي دين 2300 شيكل وحسابي محظور. أريد ترتيب دفعات، هل يمكن تقسيمها؟ أحتاج التسجيل للامتحانات,finance - collections,Y,exams office,dev
+INQ-2507742,en,exams,"Hello, I'm blocked from exam registration but I don't owe anything, my grant just hasn't been credited yet.",finance - collections,Y,exams office,test
+INQ-2507812,ru,finance,"Здравствуйте, у меня долг 4700 шекелей, из-за этого блокировка. Хочу оформить рассрочку. Можно ли записаться на экзамены сейчас?",finance - collections,Y,finance - collections,test
+INQ-2507987,ru,finance,"Добрый день. У меня блокировка, хотя грант за милуим одобрен. Прошу снять блокировку, нужно записаться на экзамены.",finance - collections,Y,finance - collections,test
+INQ-2508057,ar,exams,لم يرد علي أحد. امتحان חשבונאות פיננסית بعد أسبوع,finance - collections,N,exams office,test
+INQ-2508134,he,exams,"שוב אני, אף אחד לא חזר אליי. המבחן בחשבון דיפרנציאלי בעוד שבוע",finance - collections,N,exams office,test
+INQ-2508183,ru,exams,"Писал(а) несколько дней назад, блокировка всё ещё стоит. Регистрация закрывается!",finance - collections,N,exams office,dev
+INQ-2508218,ar,finance,مرحبا، عندي دين 6600 شيكل وحسابي محظور. أريد ترتيب دفعات، هل يمكن تقسيمها؟ أحتاج التسجيل للامتحانات,finance - collections,Y,finance - collections,test
+INQ-2508260,ar,exams,لم يرد علي أحد. امتحان מבוא למיקרו כלכלה بعد أسبوع,finance - collections,N,exams office,test
+INQ-2508302,he,exams,"למה אני חסום?? אין לי חוב, המלגה מהעירייה אושרה. צריך להירשם לבחינה במבוא לפסיכולוגיה דחוף",finance - collections,Y,exams office,test
+INQ-2508358,ar,certificates,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,test
+INQ-2508400,he,exams,"אני רוצה לערער על הציון במבחן בחשבונאות פיננסית, איך מגישים ערעור ועד מתי?",exams office,N,exams office,test
+INQ-2508456,he,exams,"אני רוצה לערער על הציון במבחן בסטטיסטיקה א, איך מגישים ערעור ועד מתי?",exams office,N,exams office,dev
+INQ-2508505,en,certificates,I need a confirmation of studies in English for my employer.,student administration,N,student administration,test
+INQ-2508554,he,certificates,אני צריכה אישור לימודים באנגלית למעסיק,student administration,N,student administration,test
+INQ-2508568,he,exams,לא קיבלתי את המחברת לצפייה במבוא למיקרו כלכלה,exams office,N,exams office,test
+INQ-2508582,ru,certificates,"Нужна справка об учёбе для Битуах Леуми, как её получить?",student administration,N,student administration,test
+INQ-2508673,he,other,הספרייה פתוחה בשישי?,student administration,N,student administration,test
+INQ-2508680,ar,other,أحتاج شهادة تعليم باللغة الإنجليزية لصاحب العمل,student administration,N,student administration,dev
+INQ-2508848,ar,certificates,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,test
+INQ-2508869,ar,other,أين أحصل على تصريح موقف السيارات؟,student administration,N,student administration,test
+INQ-2508904,en,finance,How do I switch my tuition payments to a standing order?,finance - collections,N,finance - collections,test
+INQ-2508960,ar,certificates,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,test
+INQ-2509023,ar,exams,أريد الاعتراض على علامة امتحان מבוא למשפט، كيف أقدم الاعتراض؟,exams office,N,exams office,test
+INQ-2509044,ar,academic,أريد الاعتراض على علامة امتحان סטטיסטיקה א، كيف أقدم الاعتراض؟,exams office,N,student administration,dev
+INQ-2509163,ru,academic,Хочу поменять группу практики по סטטיסטיקה א.,student administration,N,student administration,test
+INQ-2509240,he,accommodations,"יש לי אבחון לקות למידה, איך מקבלים הארכת זמן במבחנים?",accessibility unit,N,accessibility unit,test
+INQ-2509338,ru,exams,Хочу подать апелляцию на оценку по סטטיסטיקה א. Какой срок?,exams office,N,exams office,test
+INQ-2509387,en,other,I can't log in to Tavla.,IT helpdesk,N,student administration,test
+INQ-2509443,ar,certificates,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,test
+INQ-2509513,ru,other,Где получить пропуск на парковку?,student administration,N,student administration,dev
+INQ-2509611,ar,accommodations,عندي تشخيص عسر تعلّم، كيف أحصل على وقت إضافي في الامتحانات؟,accessibility unit,N,accessibility unit,test
+INQ-2509751,he,other,איפה מקבלים תו חניה?,student administration,N,student administration,test
+INQ-2509821,ru,academic,Хочу поменять группу практики по מבוא למיקרו כלכלה.,student administration,N,student administration,test
+INQ-2510010,he,accommodations,"יש לי אבחון לקות למידה, איך מקבלים הארכת זמן במבחנים?",accessibility unit,N,accessibility unit,test
+INQ-2510031,he,academic,רוצה להחליף קבוצת תרגול במבוא למיקרו כלכלה,student administration,N,student administration,test
+INQ-2510325,ru,accommodations,"У меня диагноз дислексии, как получить дополнительное время на экзаменах?",accessibility unit,N,accessibility unit,dev
+INQ-2510416,ar,exams,أريد الاعتراض على علامة امتحان חשבונאות פיננסית، كيف أقدم الاعتراض؟,exams office,N,exams office,test
+INQ-2510423,ar,reserve duty,كنت في الاحتياط 38 يوماً، أحتاج موعداً خاصاً لامتحان חשבון דיפרנציאלי. مرفق الأمر,reservist desk,N,reservist desk,test
+INQ-2510521,ru,exams,Хочу подать апелляцию на оценку по מבוא לתקשורת. Какой срок?,exams office,N,exams office,test
+INQ-2510584,he,exams,לא קיבלתי את המחברת לצפייה במבוא לתקשורת,exams office,N,exams office,test
+INQ-2510745,he,finance,איך מקבלים קבלה על שכר הלימוד ששילמתי?,finance - collections,N,finance - collections,test
+INQ-2510752,en,certificates,Can I get a transcript in English?,student administration,N,student administration,dev
+INQ-2510843,ar,certificates,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,test
+INQ-2510920,he,academic,אפשר להירשם לקורס בחירה אחרי שההרשמה נסגרה?,student administration,N,student administration,test
+INQ-2510934,he,exams,לא קיבלתי את המחברת לצפייה בחשבון דיפרנציאלי,exams office,N,exams office,test
+INQ-2511004,ar,academic,أريد تغيير مجموعة التمرين في חשבונאות פיננסית,student administration,N,student administration,test
+INQ-2511067,he,exams,"אני רוצה לערער על הציון במבחן במבוא למיקרו כלכלה, איך מגישים ערעור ועד מתי?",exams office,N,exams office,test
+INQ-2511081,ru,other,Где получить пропуск на парковку?,student administration,N,student administration,dev
+INQ-2511445,ar,exams,عندي تقرير طبي وأحتاج تسهيلات في امتحان מבוא למיקרו כלכלה,accessibility unit,N,exams office,test
+INQ-2511487,he,other,הספרייה פתוחה בשישי?,student administration,N,student administration,test
+INQ-2511536,ru,reserve duty,"Я был на милуиме 56 дней, нужен специальный срок экзамена по סטטיסטיקה א. Приказ прилагаю.",reservist desk,N,reservist desk,test
+INQ-2511613,he,certificates,"צריך אישור לימודים לביטוח לאומי, איך מוציאים?",student administration,N,student administration,test
+INQ-2511816,he,exams,לא קיבלתי את המחברת לצפייה בדיני חוזים,exams office,N,exams office,test
+INQ-2511851,ru,certificates,"Нужна справка об учёбе для Битуах Леуми, как её получить?",student administration,N,student administration,dev
+INQ-2511956,he,reserve duty,"הייתי במילואים 58 ימים, אני צריך מועד מיוחד למבחן באלגברה לינארית. מצרף צו.",reservist desk,N,reservist desk,test
+INQ-2511984,ru,certificates,"Нужна справка об учёбе для Битуах Леуми, как её получить?",student administration,N,student administration,test
+INQ-2512089,ar,other,أين أحصل على تصريح موقف السيارات؟,student administration,N,student administration,test
+INQ-2512138,ru,technical,Не могу войти в Tavla.,IT helpdesk,N,IT helpdesk,test
+INQ-2512180,ar,certificates,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,test
+INQ-2512229,ar,academic,أريد تغيير مجموعة التمرين في דיני חוזים,student administration,N,student administration,dev
+INQ-2512348,ru,exams,Хочу подать апелляцию на оценку по מבוא למיקרו כלכלה. Какой срок?,exams office,N,exams office,test
+INQ-2512544,ar,certificates,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,test
+INQ-2512586,ar,technical,لا أستطيع الدخول إلى Tavla,IT helpdesk,N,IT helpdesk,test
+INQ-2512593,en,certificates,Can I get a transcript in English?,student administration,N,student administration,test
+INQ-2512649,he,accommodations,"יש לי אבחון לקות למידה, איך מקבלים הארכת זמן במבחנים?",accessibility unit,N,accessibility unit,test
+INQ-2512726,ar,other,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,dev
+INQ-2512740,en,reserve duty,"I was called up for reserve duty, I need a special exam date for Statistics A. Order attached.",reservist desk,N,reservist desk,test
+INQ-2512754,ru,exams,Хочу подать апелляцию на оценку по אלגברה לינארית. Какой срок?,exams office,N,exams office,test
+INQ-2512775,ar,academic,أريد تغيير مجموعة التمرين في מבוא לפסיכולוגיה,student administration,N,student administration,test
+INQ-2512796,he,certificates,"צריך אישור לימודים לביטוח לאומי, איך מוציאים?",student administration,N,student administration,test
+INQ-2512810,ru,exams,Хочу подать апелляцию на оценку по סטטיסטיקה א. Какой срок?,exams office,N,exams office,test
+INQ-2512845,en,finance,How do I switch my tuition payments to a standing order?,finance - collections,N,finance - collections,dev
+INQ-2512915,ar,other,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,test
+INQ-2513083,ar,other,أريد تغيير مجموعة التمرين في סטטיסטיקה א,student administration,N,student administration,test
+INQ-2513090,en,certificates,Can I get a transcript in English?,student administration,N,student administration,test
+INQ-2513195,ar,academic,أريد تغيير مجموعة التمرين في מבוא למיקרו כלכלה,student administration,N,student administration,test
+INQ-2513314,he,exams,"הייתי במילואים 46 ימים, אני צריך מועד מיוחד למבחן במבוא לפסיכולוגיה. מצרף צו.",reservist desk,N,exams office,test
+INQ-2513573,ru,accommodations,"У меня диагноз дислексии, как получить дополнительное время на экзаменах?",accessibility unit,N,accessibility unit,dev
+INQ-2513622,he,finance,אפשר לשנות את אמצעי התשלום להוראת קבע?,finance - collections,N,finance - collections,test
+INQ-2513699,ar,certificates,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,test
+INQ-2513741,en,exams,How do I appeal my grade in Calculus? What is the deadline?,exams office,N,exams office,test
+INQ-2513902,he,certificates,"צריך אישור לימודים לביטוח לאומי, איך מוציאים?",student administration,N,student administration,test
+INQ-2513951,en,exams,How do I appeal my grade in Calculus? What is the deadline?,exams office,N,exams office,test
+INQ-2514000,ru,finance,Как перейти на оплату постоянным поручением?,finance - collections,Y,finance - collections,dev
+INQ-2514021,he,accommodations,"יש לי אישור רפואי, אני צריכה התאמות במבחן במבוא למשפט",accessibility unit,N,accessibility unit,test
+INQ-2514077,ru,academic,Хочу поменять группу практики по מבוא למשפט.,student administration,N,student administration,test
+INQ-2514119,ru,certificates,"Нужна справка об учёбе для Битуах Леуми, как её получить?",student administration,N,student administration,test
+INQ-2514175,ar,exams,عندي تشخيص عسر تعلّم، كيف أحصل على وقت إضافي في الامتحانات؟,accessibility unit,N,exams office,test
+INQ-2514189,he,certificates,אפשר אישור לימודים לצבא? יש לי צו,student administration,N,student administration,test
+INQ-2514252,ar,certificates,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,dev
+INQ-2514322,he,exams,"יש לי אבחון לקות למידה, איך מקבלים הארכת זמן במבחנים?",accessibility unit,N,exams office,test
+INQ-2514469,ar,certificates,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,test
+INQ-2514518,ru,finance,Как перейти на оплату постоянным поручением?,finance - collections,N,finance - collections,test
+INQ-2514525,he,other,אני לא מצליח להתחבר ל-Tavla,IT helpdesk,N,student administration,test
+INQ-2514574,he,academic,רוצה להחליף קבוצת תרגול באלגברה לינארית,student administration,N,student administration,test
+INQ-2514665,he,other,אפשר לשנות את אמצעי התשלום להוראת קבע?,finance - collections,N,student administration,dev
+INQ-2514763,ar,academic,أريد تغيير مجموعة التمرين في מבוא למשפט,student administration,N,student administration,test
+INQ-2514861,he,academic,רוצה להחליף קבוצת תרגול בחשבונאות פיננסית,student administration,N,student administration,test
+INQ-2515008,he,reserve duty,"הייתי במילואים 26 ימים, אני צריך מועד מיוחד למבחן בחשבון דיפרנציאלי. מצרף צו.",reservist desk,N,reservist desk,test
+INQ-2515183,ar,finance,أحتاج إيصال على الرسوم التي دفعتها,finance - collections,N,finance - collections,test
+INQ-2515204,ru,academic,Хочу поменять группу практики по מבוא לפסיכולוגיה.,student administration,N,student administration,test
+INQ-2515239,he,certificates,"צריך אישור לימודים לביטוח לאומי, איך מוציאים?",student administration,N,student administration,dev
+INQ-2515358,he,reserve duty,"הייתי במילואים 39 ימים, אני צריך מועד מיוחד למבחן באלגברה לינארית. מצרף צו.",reservist desk,N,reservist desk,test
+INQ-2515365,ar,other,أريد تغيير مجموعة التمرين في מבוא למדעי המחשב,student administration,N,student administration,test
+INQ-2515421,ar,academic,أريد تغيير مجموعة التمرين في סטטיסטיקה א,student administration,N,student administration,test
+INQ-2515519,he,reserve duty,"בן הזוג שלי במילואים כבר חודשיים ואני לבד עם הילדים, יש התאמות?",reservist desk,N,reservist desk,test
+INQ-2515561,ru,accommodations,"У меня диагноз дислексии, как получить дополнительное время на экзаменах?",accessibility unit,N,accessibility unit,test
+INQ-2515568,ar,academic,أريد تغيير مجموعة التمرين في אלגברה לינארית,student administration,N,student administration,dev
+INQ-2515610,ar,certificates,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,test
+INQ-2515617,ar,exams,كنت في الاحتياط 24 يوماً، أحتاج موعداً خاصاً لامتحان סטטיסטיקה א. مرفق الأمر,reservist desk,N,exams office,test
+INQ-2515946,he,reserve duty,"קיבלתי צו 8, איך דוחים הגשת עבודה באלגברה לינארית?",reservist desk,N,reservist desk,test
+INQ-2515967,ar,exams,أريد الاعتراض على علامة امتحان מבוא למשפט، كيف أقدم الاعتراض؟,exams office,N,exams office,test
+INQ-2515988,he,other,"צריך אישור לימודים לביטוח לאומי, איך מוציאים?",student administration,N,student administration,test
+INQ-2516009,ar,exams,أريد الاعتراض على علامة امتحان חשבון דיפרנציאלי، كيف أقدم الاعتراض؟,exams office,N,exams office,dev
+INQ-2516058,he,certificates,אפשר אישור לימודים לצבא? יש לי צו,student administration,N,student administration,test
+INQ-2516086,he,reserve duty,"בן הזוג שלי במילואים כבר חודשיים ואני לבד עם הילדים, יש התאמות?",reservist desk,N,reservist desk,test
+INQ-2516142,ru,academic,Хочу подать апелляцию на оценку по דיני חוזים. Какой срок?,exams office,N,student administration,test
+INQ-2516226,he,certificates,"צריך אישור לימודים לביטוח לאומי, איך מוציאים?",student administration,N,student administration,test
+INQ-2516268,he,exams,לא קיבלתי את המחברת לצפייה בחשבון דיפרנציאלי,exams office,N,exams office,test
+INQ-2516338,he,exams,לא קיבלתי את המחברת לצפייה באלגברה לינארית,exams office,N,exams office,dev
+INQ-2516408,he,academic,אפשר להירשם לקורס בחירה אחרי שההרשמה נסגרה?,student administration,N,student administration,test
+INQ-2516485,ar,other,أريد تغيير مجموعة التمرين في מבוא לתקשורת,student administration,N,student administration,test
+INQ-2516800,he,technical,לא רואה את הקורס מבוא לפסיכולוגיה ב-Tavla,IT helpdesk,N,IT helpdesk,test
+INQ-2516884,ar,finance,أحتاج إيصال على الرسوم التي دفعتها,finance - collections,Y,finance - collections,test
+INQ-2516898,ar,other,أين أحصل على تصريح موقف السيارات؟,student administration,N,student administration,test
+INQ-2516947,ar,certificates,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,dev
+INQ-2517339,ar,certificates,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,test
+INQ-2517367,he,reserve duty,"בן הזוג שלי במילואים כבר חודשיים ואני לבד עם הילדים, יש התאמות?",reservist desk,N,reservist desk,test
+INQ-2517374,en,other,Where can I get a parking permit?,student administration,N,student administration,test
+INQ-2517521,ar,other,أين أحصل على تصريح موقف السيارات؟,student administration,N,student administration,test
+INQ-2517528,he,reserve duty,"בן הזוג שלי במילואים כבר חודשיים ואני לבד עם הילדים, יש התאמות?",reservist desk,N,reservist desk,test
+INQ-2517619,en,certificates,I need a confirmation of studies in English for my employer.,student administration,N,student administration,dev
+INQ-2517654,ar,certificates,أحتاج شهادة تعليم باللغة الإنجليزية لصاحب العمل,student administration,N,student administration,test
+INQ-2517710,he,other,איפה מקבלים תו חניה?,student administration,N,student administration,test
+INQ-2517941,ar,exams,أريد الاعتراض على علامة امتحان מבוא לתקשורת، كيف أقدم الاعتراض؟,exams office,N,exams office,test
+INQ-2518123,he,reserve duty,"בן הזוג שלי במילואים כבר חודשיים ואני לבד עם הילדים, יש התאמות?",reservist desk,N,reservist desk,test
+INQ-2518179,ar,academic,أريد تغيير مجموعة التمرين في חשבון דיפרנציאלי,student administration,N,student administration,test
+INQ-2518508,he,finance,אפשר לשנות את אמצעי התשלום להוראת קבע?,finance - collections,N,finance - collections,dev
+INQ-2518522,ar,exams,أريد الاعتراض على علامة امتحان מבוא לפסיכולוגיה، كيف أقدم الاعتراض؟,exams office,N,exams office,test
+INQ-2518557,he,other,רוצה להחליף קבוצת תרגול במבוא למיקרו כלכלה,student administration,N,student administration,test
+INQ-2518578,en,exams,How do I appeal my grade in Statistics A? What is the deadline?,exams office,N,exams office,test
+INQ-2518627,ar,certificates,أحتاج تصديق تعليم للتأمين الوطني، كيف أحصل عليه؟,student administration,N,student administration,test
+INQ-2518662,he,certificates,אני צריכה אישור לימודים באנגלית למעסיק,student administration,N,student administration,test

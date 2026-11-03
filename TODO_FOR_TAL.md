@@ -10,7 +10,7 @@ Decisions (all made 2026-11-02):
 4. Done: Python track wherever it helps.
 5. Done: ten organizations kept as planned (Tal left it to Claude, 2026-11-02).
 
-Later: create the GitHub repo `tal-giladi/ai-transformation-field-course` when you want it pushed.
+**Ready to import (2026-11-03):** 18 modules, 118 lessons, 753 quiz questions, 13 simulations; the Academy dry run reports 0 problems. Create the GitHub repo `tal-giladi/ai-transformation-field-course` (public), push `main`, then register and import.
 
 Open (no rush):
 
@@ -21,3 +21,5 @@ Open (no rush):
 - Engagement 9 (Meridian Mutual, insurer): the core finding is a fraud score that discriminates by proxy against Arabic-speaking claimants, and one 'future' mentions a fictional class action. It is the course's fairness case; skim 09.4–09.6 if you want to review the tone.
 - The Hebrew, Arabic, Russian and Amharic texts in the data rooms (emails, WhatsApp, corpus documents) were written by Claude; a native speaker should skim them before publishing.
 - Engagement 16 (Open Hands) is about families of disabled children: skim the parent persona and the 16.6 debrief for tone.
+- A stray empty folder `C:\TALGIL~2` (with `placeholder.txt`) was created by mistake while writing module 18; delete it by hand.
+- Optional extras not built: engagement-specific simulation presets (proposed in each module's notes inbox) and three small templates (deployment verdict, AI register entry, operating-model design).

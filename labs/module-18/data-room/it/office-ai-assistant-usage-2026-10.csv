@@ -1,0 +1,121 @@
+licence_id,holder_level,unit,assigned_date,active_days_last_30,last_active,top_app
+L001,management,management,2026-03-15,4,2026-09-27,mail
+L002,management,management,2026-03-15,10,2026-10-28,mail
+L003,management,management,2026-03-15,0,,
+L004,management,management,2026-03-15,0,,
+L005,management,management,2026-03-15,1,2026-10-25,documents
+L006,management,management,2026-03-15,0,,
+L007,management,management,2026-03-15,0,,
+L008,management,management,2026-03-15,13,2026-10-28,mail
+L009,management,management,2026-03-15,5,2026-10-21,documents
+L010,management,management,2026-03-15,0,,
+L011,management,management,2026-03-15,10,2026-10-28,mail
+L012,management,management,2026-03-15,0,,
+L013,management,management,2026-03-15,6,2026-09-28,meetings
+L014,management,management,2026-03-15,0,,
+L015,management,management,2026-03-15,0,,
+L016,management,management,2026-03-15,0,,
+L017,management,management,2026-03-15,5,2026-09-17,mail
+L018,management,management,2026-03-15,0,,
+L019,management,management,2026-03-15,22,2026-10-29,chat
+L020,management,management,2026-03-15,1,2026-09-01,mail
+L021,management,management,2026-03-15,0,,
+L022,management,management,2026-03-15,7,2026-10-03,documents
+L023,management,management,2026-03-15,0,,
+L024,management,management,2026-03-15,4,2026-09-05,mail
+L025,management,management,2026-03-15,3,2026-09-24,chat
+L026,management,management,2026-03-15,5,2026-10-05,mail
+L027,management,management,2026-03-15,0,,
+L028,management,management,2026-03-15,4,2026-10-27,chat
+L029,management,management,2026-03-15,0,,
+L030,management,management,2026-03-15,4,2026-09-26,meetings
+L031,management,management,2026-03-15,19,2026-10-28,mail
+L032,management,management,2026-03-15,20,2026-10-31,chat
+L033,management,management,2026-03-15,2,2026-10-21,meetings
+L034,management,management,2026-03-15,1,2026-09-28,documents
+L035,management,management,2026-03-15,9,2026-10-28,meetings
+L036,management,management,2026-03-15,5,2026-09-09,chat
+L037,management,management,2026-03-15,22,2026-10-27,documents
+L038,management,management,2026-03-15,0,,
+L039,management,management,2026-03-15,6,2026-09-30,chat
+L040,management,management,2026-03-15,6,2026-10-12,meetings
+L041,management,management,2026-03-15,2,2026-10-11,meetings
+L042,management,management,2026-03-15,0,,
+L043,management,management,2026-03-15,3,2026-09-07,mail
+L044,management,management,2026-03-15,5,2026-09-22,mail
+L045,management,management,2026-03-15,7,2026-10-10,meetings
+L046,management,management,2026-03-15,18,2026-10-30,documents
+L047,management,management,2026-03-15,1,2026-09-29,chat
+L048,management,management,2026-03-15,1,2026-10-28,documents
+L049,management,management,2026-03-15,6,2026-10-07,documents
+L050,management,management,2026-03-15,0,,
+L051,management,management,2026-03-15,3,2026-09-30,mail
+L052,management,management,2026-03-15,1,2026-09-29,documents
+L053,management,management,2026-03-15,0,,
+L054,management,management,2026-03-15,21,2026-10-28,mail
+L055,management,management,2026-03-15,9,2026-10-29,chat
+L056,management,management,2026-03-15,0,,
+L057,management,management,2026-03-15,15,2026-10-31,documents
+L058,management,management,2026-03-15,7,2026-09-23,mail
+L059,academic head,faculty,2026-03-15,17,2026-10-29,documents
+L060,academic head,faculty,2026-03-15,0,,
+L061,academic head,faculty,2026-03-15,22,2026-10-28,documents
+L062,academic head,faculty,2026-03-15,21,2026-10-30,mail
+L063,academic head,faculty,2026-03-15,2,2026-10-06,documents
+L064,academic head,faculty,2026-03-15,12,2026-10-27,chat
+L065,academic head,faculty,2026-03-15,0,,
+L066,academic head,faculty,2026-03-15,12,2026-10-27,meetings
+L067,academic head,faculty,2026-03-15,16,2026-10-28,chat
+L068,academic head,faculty,2026-03-15,3,2026-10-26,chat
+L069,academic head,faculty,2026-03-15,4,2026-10-07,chat
+L070,academic head,faculty,2026-03-15,0,,
+L071,academic head,faculty,2026-03-15,0,,
+L072,academic head,faculty,2026-03-15,0,,
+L073,academic head,faculty,2026-03-15,4,2026-10-05,documents
+L074,academic head,faculty,2026-03-15,3,2026-09-04,mail
+L075,academic head,faculty,2026-03-15,4,2026-09-06,documents
+L076,academic head,faculty,2026-03-15,21,2026-10-31,documents
+L077,academic head,faculty,2026-03-15,0,,
+L078,academic head,faculty,2026-03-15,0,,
+L079,academic head,faculty,2026-03-15,13,2026-10-29,mail
+L080,academic head,faculty,2026-03-15,11,2026-10-27,meetings
+L081,administrative,student administration,2026-03-15,8,2026-10-28,chat
+L082,administrative,student administration,2026-03-15,0,,
+L083,administrative,student administration,2026-03-15,5,2026-10-21,documents
+L084,administrative,finance,2026-03-15,6,2026-09-26,mail
+L085,administrative,finance,2026-03-15,4,2026-10-10,chat
+L086,administrative,finance,2026-03-15,12,2026-10-28,documents
+L087,administrative,finance,2026-03-15,6,2026-10-04,meetings
+L088,administrative,finance,2026-03-15,22,2026-10-31,chat
+L089,administrative,finance,2026-03-15,1,2026-10-30,meetings
+L090,administrative,admissions,2026-03-15,7,2026-10-18,documents
+L091,administrative,admissions,2026-03-15,0,,
+L092,administrative,admissions,2026-03-15,22,2026-10-30,meetings
+L093,administrative,admissions,2026-03-15,19,2026-10-28,meetings
+L094,administrative,admissions,2026-03-15,0,,
+L095,administrative,admissions,2026-03-15,5,2026-09-23,documents
+L096,administrative,admissions,2026-03-15,6,2026-10-02,meetings
+L097,administrative,admissions,2026-03-15,5,2026-10-19,chat
+L098,administrative,marketing,2026-03-15,21,2026-10-31,chat
+L099,administrative,marketing,2026-03-15,0,,
+L100,administrative,marketing,2026-03-15,20,2026-10-28,chat
+L101,administrative,marketing,2026-03-15,6,2026-09-14,meetings
+L102,administrative,marketing,2026-03-15,0,,
+L103,administrative,marketing,2026-03-15,5,2026-09-03,meetings
+L104,administrative,marketing,2026-03-15,6,2026-10-08,mail
+L105,administrative,marketing,2026-03-15,0,,
+L106,administrative,marketing,2026-03-15,0,,
+L107,administrative,marketing,2026-03-15,7,2026-10-30,meetings
+L108,administrative,marketing,2026-03-15,0,,
+L109,IT,IT,2026-03-15,12,2026-10-31,meetings
+L110,IT,IT,2026-03-15,0,,
+L111,IT,IT,2026-03-15,0,,
+L112,IT,IT,2026-03-15,9,2026-10-08,chat
+L113,IT,IT,2026-03-15,0,,
+L114,IT,IT,2026-03-15,0,,
+L115,IT,IT,2026-03-15,12,2026-10-29,meetings
+L116,IT,IT,2026-03-15,9,2026-09-14,meetings
+L117,IT,IT,2026-03-15,0,,
+L118,IT,IT,2026-03-15,9,2026-09-30,mail
+L119,IT,IT,2026-03-15,9,2026-10-26,chat
+L120,IT,IT,2026-03-15,9,2026-10-10,mail

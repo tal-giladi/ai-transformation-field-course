@@ -1,0 +1,47 @@
+case_id,opened_date,programme_code,course,evidence,detector_score_pct,student_first_language,outcome,appealed,appeal_result
+AI-2629,2025-12-03,LLB,סטטיסטיקה א,student_admitted,,ar,cleared,N,
+AI-2627,2025-12-11,BA-BEH,מבוא למשפט,similarity_report,,ar,grade_zero,N,
+AI-2615,2025-12-14,BSC-CS,אלגברה לינארית,student_admitted,,he,grade_zero,N,
+AI-2626,2025-12-15,LLB,מבוא למשפט,lecturer_judgement,,he,warning,N,
+AI-2618,2025-12-21,BSC-IEM,דיני חוזים,lecturer_judgement,,he,warning,N,
+AI-2642,2025-12-23,BSC-IEM,דיני חוזים,similarity_report,,he,cleared,N,
+AI-2638,2025-12-24,BA-BEH,חשבונאות פיננסית,lecturer_judgement,,he,suspension,N,
+AI-2611,2025-12-26,BSC-CS,מבוא למיקרו כלכלה,ai_detector_only,65,am,warning,N,
+AI-2607,2025-12-27,LLB,מבוא לפסיכולוגיה,similarity_report,,en,warning,N,
+AI-2612,2026-01-16,BSC-IEM,מבוא לפסיכולוגיה,similarity_report,,he,suspension,Y,upheld
+AI-2603,2026-01-20,BSC-IEM,מבוא למיקרו כלכלה,similarity_report,,he,grade_zero,N,
+AI-2608,2026-01-22,BSC-IEM,מבוא לתקשורת,ai_detector_only,87,he,warning,Y,overturned
+AI-2616,2026-01-25,BA-BUS,מבוא למיקרו כלכלה,ai_detector_only,90,he,warning,N,
+AI-2645,2026-01-26,BA-BUS,מבוא למיקרו כלכלה,proctor_report,,he,warning,N,
+AI-2605,2026-01-30,LLB,אלגברה לינארית,ai_detector_only,66,he,cleared,Y,overturned
+AI-2610,2026-02-06,BSC-IEM,אלגברה לינארית,ai_detector_only,78,ar,warning,N,
+AI-2628,2026-02-09,BA-BEH,חשבון דיפרנציאלי,similarity_report,,ru,suspension,N,
+AI-2600,2026-02-18,BSC-CS,סטטיסטיקה א,proctor_report,,he,suspension,N,
+AI-2624,2026-02-18,BSC-CS,מבוא לפסיכולוגיה,student_admitted,,ru,suspension,N,
+AI-2635,2026-02-18,LLB,מבוא למיקרו כלכלה,ai_detector_only,98,am,grade_zero,Y,overturned
+AI-2641,2026-02-25,BA-COM,חשבון דיפרנציאלי,ai_detector_only,95,ar,cleared,Y,upheld
+AI-2604,2026-02-26,BSC-IEM,מבוא למיקרו כלכלה,student_admitted,,he,cleared,N,
+AI-2625,2026-03-08,BA-COM,חשבונאות פיננסית,student_admitted,,he,grade_zero,N,
+AI-2643,2026-03-13,BSC-IEM,חשבון דיפרנציאלי,similarity_report,,ar,cleared,N,
+AI-2632,2026-03-16,BA-COM,חשבונאות פיננסית,ai_detector_only,94,am,grade_zero,N,
+AI-2613,2026-03-17,BSC-IEM,חשבונאות פיננסית,ai_detector_only,99,he,grade_zero,Y,overturned
+AI-2634,2026-03-20,BSC-CS,מבוא לפסיכולוגיה,ai_detector_only,83,he,grade_zero,Y,overturned
+AI-2619,2026-03-21,BA-BEH,אלגברה לינארית,lecturer_judgement,,ar,cleared,N,
+AI-2637,2026-03-31,BA-BEH,אלגברה לינארית,ai_detector_only,81,ar,grade_zero,N,
+AI-2614,2026-04-01,BSC-CS,חשבון דיפרנציאלי,proctor_report,,he,grade_zero,N,
+AI-2636,2026-04-08,LLB,אלגברה לינארית,similarity_report,,ar,grade_zero,N,
+AI-2620,2026-04-18,BSC-IEM,מבוא למדעי המחשב,student_admitted,,he,warning,N,
+AI-2623,2026-05-01,LLB,מבוא לתקשורת,lecturer_judgement,,he,grade_zero,N,
+AI-2602,2026-05-06,BA-BEH,מבוא למיקרו כלכלה,similarity_report,,he,grade_zero,N,
+AI-2617,2026-05-11,BA-COM,דיני חוזים,ai_detector_only,68,he,cleared,N,
+AI-2640,2026-05-18,BSC-IEM,מבוא לתקשורת,similarity_report,,ru,grade_zero,N,
+AI-2622,2026-05-19,BSC-IEM,דיני חוזים,lecturer_judgement,,he,warning,N,
+AI-2631,2026-05-20,LLB,חשבונאות פיננסית,ai_detector_only,89,he,grade_zero,N,
+AI-2633,2026-05-22,BA-COM,חשבונאות פיננסית,student_admitted,,he,warning,N,
+AI-2606,2026-05-26,LLB,מבוא לתקשורת,ai_detector_only,78,ar,grade_zero,N,
+AI-2621,2026-06-04,LLB,מבוא למיקרו כלכלה,ai_detector_only,94,he,warning,N,
+AI-2639,2026-06-21,BSC-IEM,מבוא למדעי המחשב,ai_detector_only,96,he,cleared,N,
+AI-2609,2026-06-24,BA-COM,חשבונאות פיננסית,ai_detector_only,95,ar,warning,Y,upheld
+AI-2601,2026-06-26,BA-BEH,מבוא למשפט,ai_detector_only,77,he,warning,Y,overturned
+AI-2630,2026-06-27,BA-BUS,אלגברה לינארית,proctor_report,,he,warning,N,
+AI-2644,2026-07-18,BA-BEH,מבוא למדעי המחשב,ai_detector_only,68,ar,grade_zero,N,

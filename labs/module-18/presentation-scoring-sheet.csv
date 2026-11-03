@@ -1,0 +1,8 @@
+criterion,what_3_looks_like,what_1_looks_like,score_0_to_3,evidence_timestamp,one_change_for_next_take
+Answer first,"The recommendation in one sentence inside the first minute, before any background","Background, method or a data tour before the answer; the ask appears after minute 5",,,
+One recommendation,"One recommendation in parts, each with an owner, a date and money; nothing presented as a menu","Options for the board to choose from; parts without owners or dates",,,
+Evidence labelled,"Every number said as measured, directional or assumed, with where it comes from; nothing rounded up","Numbers without source or label; vendor or sponsor figures repeated as facts",,,
+Hardest finding,"Delivered plainly, once, to the person who must own it, starting from their own goal, with something they can win","Softened until it disappears, or delivered as blame in front of others",,,
+Recommend-against,"At least one recommend-against, de-scope or stop on the front page, with its evidence and what to do instead","No against; or an against with nothing to do instead",,,
+The ask,"The decision asked in words the secretary can minute: what, who, when, money, stop rule, re-decision date","""We'd like your support""; no stop rule; no date",,,
+Time and delivery,"Ten minutes or less; slides not read aloud; each question answered in one sentence first","Over time; reading slides; long answers before the point",,,

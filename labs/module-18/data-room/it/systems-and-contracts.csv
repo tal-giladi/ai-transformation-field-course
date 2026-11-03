@@ -1,0 +1,10 @@
+system,what_it_does,vendor_or_owner,hosting,contract_end,ai_features_per_vendor_docs,dpa_signed,owner
+Rishum 2 (SIS),"Student records, registration, exam registration, status codes","In-house (IT), live since Aug 2024",College data centre,,None,n/a,Registrar
+Rishum (old SIS),Student records before Aug 2024 (read-only),In-house,College data centre,,None,n/a,IT
+Finance ERP,"Tuition accounts, payment plans, collections, blocks",Local ERP integrator,Vendor cloud (Israel),2028-12-31,None,Y (2021),VP Finance
+Tavla LMS,"Courses, submissions, grades book, forums, accommodations module",Tavla Learning Ltd.,Vendor cloud (EU region),2027-08-31,Engagement Insights (release 2026.2); AI quiz generator (opt-in),"Y (2022, before release 2026.2)",IT
+Inquiry portal,"Student inquiries, routing to units",In-house (IT),College data centre,,None,n/a,Student administration
+Admissions CRM,"Leads, applicants, interviews",CRM vendor,Vendor cloud (US region),2027-12-31,"Lead scoring ('predictive score'), email drafting assistant",Y (2023),Head of admissions
+Office suite,"Email, documents, meetings",Office suite vendor,Vendor cloud,2027-06-30,AI assistant add-on: 120 licences from March 2026,Y,IT
+Survey tool,"Course evaluations, staff surveys",Survey SaaS,Vendor cloud (US region),2027-03-31,Open-text summaries (on by default since 2025),N,Quality unit
+WhatsApp Business,Admissions and student-administration messages,Messaging platform,Vendor cloud,,None used,N,Admissions

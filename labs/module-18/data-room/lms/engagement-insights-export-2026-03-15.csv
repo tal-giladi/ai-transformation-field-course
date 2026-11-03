@@ -1,0 +1,2232 @@
+student_no,programme_code,score_date,risk_score,band,driver_1,driver_2,driver_3,model_version
+025100207,BSC-CS,2026-03-15,14,green,Low forum participation,,,EI-2026.2
+025100276,BA-BUS,2026-03-15,42,green,Late or missing submissions,,,EI-2026.2
+025100335,BA-BEH,2026-03-15,70,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025100337,BA-BUS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025100572,BA-BUS,2026-03-15,52,amber,Late or missing submissions,,,EI-2026.2
+025100581,BSC-CS,2026-03-15,73,red,Low LMS activity,,,EI-2026.2
+025100667,LLB,2026-03-15,6,green,Low forum participation,,,EI-2026.2
+025101618,BA-COM,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025102385,BA-BUS,2026-03-15,17,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025102420,BA-BUS,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025102466,BA-BEH,2026-03-15,44,green,Late or missing submissions,,,EI-2026.2
+025102569,BA-BUS,2026-03-15,53,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025104311,BSC-IEM,2026-03-15,49,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025105453,BSC-CS,2026-03-15,51,amber,Late or missing submissions,,,EI-2026.2
+025106171,BSC-CS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025106716,BSC-CS,2026-03-15,58,amber,Late or missing submissions,,,EI-2026.2
+025107008,BA-COM,2026-03-15,24,green,Late or missing submissions,,,EI-2026.2
+025107127,BSC-CS,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025107139,BSC-CS,2026-03-15,46,amber,Late or missing submissions,,,EI-2026.2
+025107502,BA-COM,2026-03-15,2,green,Low forum participation,,,EI-2026.2
+025107533,BA-COM,2026-03-15,20,green,Low forum participation,,,EI-2026.2
+025108141,BA-BEH,2026-03-15,82,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025108462,LLB,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025108640,LLB,2026-03-15,68,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025109092,LLB,2026-03-15,41,green,Late or missing submissions,,,EI-2026.2
+025109461,BA-COM,2026-03-15,41,green,Late or missing submissions,,,EI-2026.2
+025109836,BA-BEH,2026-03-15,58,amber,Late or missing submissions,,,EI-2026.2
+025110303,BSC-IEM,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025111287,BA-BUS,2026-03-15,38,green,Late or missing submissions,,,EI-2026.2
+025111291,BA-BUS,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025111431,BA-BUS,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025112140,LLB,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025112520,BSC-IEM,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025112908,BA-BUS,2026-03-15,53,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025113321,BSC-IEM,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025113637,BSC-CS,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025114179,BSC-CS,2026-03-15,59,amber,Low LMS activity,,,EI-2026.2
+025114486,BA-BEH,2026-03-15,84,red,Low LMS activity,,,EI-2026.2
+025115198,BSC-CS,2026-03-15,8,green,Low forum participation,,,EI-2026.2
+025115553,BSC-CS,2026-03-15,47,amber,Late or missing submissions,,,EI-2026.2
+025117752,BA-COM,2026-03-15,15,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025117938,BA-BUS,2026-03-15,58,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025118269,LLB,2026-03-15,51,amber,Low forum participation,,,EI-2026.2
+025118714,BA-BUS,2026-03-15,52,amber,Low forum participation,,,EI-2026.2
+025119143,BSC-CS,2026-03-15,51,amber,Low forum participation,,,EI-2026.2
+025119655,BA-BEH,2026-03-15,65,amber,Low LMS activity,,,EI-2026.2
+025120521,LLB,2026-03-15,58,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025120543,BA-BUS,2026-03-15,35,green,Late or missing submissions,,,EI-2026.2
+025120555,LLB,2026-03-15,83,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025121384,BSC-CS,2026-03-15,93,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025121457,BA-BUS,2026-03-15,81,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025121559,LLB,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025121796,BA-BUS,2026-03-15,12,green,Low forum participation,,,EI-2026.2
+025122639,BA-COM,2026-03-15,83,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025122666,BSC-CS,2026-03-15,77,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025123065,LLB,2026-03-15,35,green,Late or missing submissions,,,EI-2026.2
+025123408,BSC-CS,2026-03-15,74,red,Low LMS activity,,,EI-2026.2
+025123423,BA-BUS,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025123718,BSC-CS,2026-03-15,61,amber,Late or missing submissions,,,EI-2026.2
+025124127,BSC-CS,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025124137,BA-BEH,2026-03-15,14,green,Low forum participation,,,EI-2026.2
+025124326,BA-BUS,2026-03-15,62,amber,Late or missing submissions,,,EI-2026.2
+025124905,BA-BUS,2026-03-15,79,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025125291,BA-BUS,2026-03-15,64,amber,Late or missing submissions,,,EI-2026.2
+025125870,BA-COM,2026-03-15,77,red,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025126067,BSC-CS,2026-03-15,15,green,Late or missing submissions,,,EI-2026.2
+025126753,BA-COM,2026-03-15,17,green,Low forum participation,,,EI-2026.2
+025127019,LLB,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025127837,BA-BUS,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025128835,BSC-CS,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025128927,LLB,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025129315,BA-COM,2026-03-15,0,green,Low forum participation,,,EI-2026.2
+025129537,BSC-IEM,2026-03-15,40,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025129754,BA-BEH,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025130673,BA-COM,2026-03-15,69,amber,Low forum participation,,,EI-2026.2
+025131546,BA-BUS,2026-03-15,54,amber,Low forum participation,,,EI-2026.2
+025132483,BSC-CS,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025132673,BA-BUS,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025133530,BSC-IEM,2026-03-15,75,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025134267,BSC-IEM,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025134305,BA-COM,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025134397,BA-BUS,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025134650,BA-BEH,2026-03-15,29,green,Late or missing submissions,,,EI-2026.2
+025135361,LLB,2026-03-15,29,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025136236,LLB,2026-03-15,72,red,Low LMS activity,,,EI-2026.2
+025136302,BA-BUS,2026-03-15,44,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025136328,BA-BEH,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025136339,BSC-IEM,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025136422,BA-BUS,2026-03-15,74,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025136770,BA-BEH,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025137094,BA-BUS,2026-03-15,22,green,Late or missing submissions,,,EI-2026.2
+025137362,LLB,2026-03-15,58,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025137704,BSC-IEM,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025137957,BSC-CS,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025139056,LLB,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025139824,LLB,2026-03-15,64,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025140278,BA-BEH,2026-03-15,30,green,Late or missing submissions,,,EI-2026.2
+025141019,BA-BUS,2026-03-15,85,red,Low LMS activity,,,EI-2026.2
+025141471,BA-BUS,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025141519,BSC-CS,2026-03-15,60,amber,Low forum participation,,,EI-2026.2
+025142209,BA-BUS,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025142381,LLB,2026-03-15,17,green,Low forum participation,,,EI-2026.2
+025142727,BA-BUS,2026-03-15,76,red,Low LMS activity,,,EI-2026.2
+025142867,BSC-IEM,2026-03-15,12,green,Low forum participation,,,EI-2026.2
+025143150,BSC-CS,2026-03-15,54,amber,Low forum participation,,,EI-2026.2
+025143457,BSC-CS,2026-03-15,3,green,Low forum participation,,,EI-2026.2
+025145519,BA-BEH,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025145705,BA-BUS,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025145984,BA-BUS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025146401,LLB,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025146622,LLB,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025146795,BA-BEH,2026-03-15,71,red,Low LMS activity,,,EI-2026.2
+025146940,BA-COM,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025147224,BA-BEH,2026-03-15,30,green,Late or missing submissions,,,EI-2026.2
+025147659,BA-COM,2026-03-15,41,green,Late or missing submissions,,,EI-2026.2
+025147701,BSC-IEM,2026-03-15,52,amber,Late or missing submissions,,,EI-2026.2
+025147833,BA-BEH,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025148134,BSC-IEM,2026-03-15,60,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025149063,BA-BUS,2026-03-15,34,green,Late or missing submissions,,,EI-2026.2
+025149153,BSC-CS,2026-03-15,66,amber,Low LMS activity,,,EI-2026.2
+025149610,LLB,2026-03-15,74,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025149776,BSC-CS,2026-03-15,59,amber,Low forum participation,,,EI-2026.2
+025150307,BSC-CS,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025151760,BA-COM,2026-03-15,53,amber,Late or missing submissions,,,EI-2026.2
+025151843,BA-BUS,2026-03-15,73,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025152499,BA-BUS,2026-03-15,53,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025152553,BA-BEH,2026-03-15,80,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025153678,LLB,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025154379,BA-BUS,2026-03-15,66,amber,Low LMS activity,,,EI-2026.2
+025156786,BSC-CS,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025156970,BA-BUS,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025157584,BSC-IEM,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025158067,BA-BUS,2026-03-15,29,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025158333,BA-COM,2026-03-15,96,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025158583,BSC-CS,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025158585,BA-BEH,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025158639,BSC-IEM,2026-03-15,65,amber,Low LMS activity,,,EI-2026.2
+025158711,BSC-CS,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025158924,BA-BUS,2026-03-15,93,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025159643,LLB,2026-03-15,64,amber,Low LMS activity,,,EI-2026.2
+025159824,BA-BEH,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025159868,BA-BUS,2026-03-15,54,amber,Low forum participation,,,EI-2026.2
+025160122,BA-COM,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025161477,BA-BUS,2026-03-15,32,green,Late or missing submissions,,,EI-2026.2
+025161660,BA-COM,2026-03-15,60,amber,Late or missing submissions,,,EI-2026.2
+025162044,BA-BEH,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025162101,BA-BUS,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025162202,BA-BUS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025162685,LLB,2026-03-15,54,amber,Low forum participation,,,EI-2026.2
+025163642,LLB,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025163767,BA-COM,2026-03-15,75,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025164041,BSC-CS,2026-03-15,46,amber,Late or missing submissions,,,EI-2026.2
+025164710,BSC-CS,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025165089,BA-BEH,2026-03-15,30,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025165446,BA-COM,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025165898,BA-COM,2026-03-15,59,amber,Low forum participation,,,EI-2026.2
+025166409,BA-BUS,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025166938,BA-BEH,2026-03-15,59,amber,Low forum participation,,,EI-2026.2
+025167351,BA-BUS,2026-03-15,44,green,Late or missing submissions,,,EI-2026.2
+025167426,BSC-IEM,2026-03-15,42,green,Late or missing submissions,,,EI-2026.2
+025167574,BSC-IEM,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025167940,BA-BUS,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025168031,BA-BUS,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025168460,BA-BEH,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025168889,BSC-CS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025169313,BA-BUS,2026-03-15,37,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025169358,BA-BEH,2026-03-15,52,amber,Late or missing submissions,,,EI-2026.2
+025169408,BA-BUS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025169493,BA-BUS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025169527,BA-BEH,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025169671,BA-BUS,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025169936,BA-COM,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025171636,BSC-CS,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025172130,BSC-CS,2026-03-15,76,red,Low LMS activity,,,EI-2026.2
+025172753,BA-BEH,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025173506,LLB,2026-03-15,25,green,Late or missing submissions,,,EI-2026.2
+025174226,BA-BUS,2026-03-15,21,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025175115,BSC-CS,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025175188,BA-BUS,2026-03-15,56,amber,Low forum participation,,,EI-2026.2
+025176228,LLB,2026-03-15,61,amber,Late or missing submissions,,,EI-2026.2
+025176390,BA-BEH,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025176484,LLB,2026-03-15,82,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025177100,BA-COM,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025177194,LLB,2026-03-15,55,amber,Late or missing submissions,,,EI-2026.2
+025177208,BA-BUS,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025177601,BSC-CS,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025177610,LLB,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025177684,BA-BEH,2026-03-15,6,green,Low forum participation,,,EI-2026.2
+025177962,BA-BEH,2026-03-15,77,red,Low LMS activity,,,EI-2026.2
+025178397,LLB,2026-03-15,29,green,Late or missing submissions,,,EI-2026.2
+025178653,LLB,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025178707,BSC-CS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025178839,BSC-CS,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025180922,BA-COM,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025181029,BA-COM,2026-03-15,58,amber,Low forum participation,,,EI-2026.2
+025181259,BA-BEH,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025181918,BA-COM,2026-03-15,61,amber,Low forum participation,,,EI-2026.2
+025182525,LLB,2026-03-15,37,green,Late or missing submissions,,,EI-2026.2
+025183894,BSC-CS,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025184059,BSC-CS,2026-03-15,64,amber,Low LMS activity,,,EI-2026.2
+025184804,BSC-CS,2026-03-15,58,amber,Late or missing submissions,,,EI-2026.2
+025185004,BSC-CS,2026-03-15,85,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025185038,LLB,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025185623,BA-BEH,2026-03-15,62,amber,Low forum participation,,,EI-2026.2
+025186061,BA-BUS,2026-03-15,59,amber,Low LMS activity,,,EI-2026.2
+025186090,BSC-IEM,2026-03-15,59,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025186421,BA-BUS,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025187392,LLB,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025188175,BSC-CS,2026-03-15,42,green,Late or missing submissions,,,EI-2026.2
+025189251,BA-BEH,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025189430,BA-BEH,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025190236,BA-BUS,2026-03-15,59,amber,Low forum participation,,,EI-2026.2
+025190974,BA-BUS,2026-03-15,58,amber,Low LMS activity,,,EI-2026.2
+025191151,BA-BUS,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025192755,BA-BUS,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025193069,BA-COM,2026-03-15,72,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025193624,LLB,2026-03-15,49,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025194033,BSC-CS,2026-03-15,46,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025194221,LLB,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025194368,BA-BEH,2026-03-15,86,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025194495,BA-BUS,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025195138,BSC-CS,2026-03-15,45,amber,Low forum participation,,,EI-2026.2
+025195727,LLB,2026-03-15,38,green,Late or missing submissions,,,EI-2026.2
+025195738,LLB,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025196265,BA-BUS,2026-03-15,70,red,Low LMS activity,,,EI-2026.2
+025196448,BSC-CS,2026-03-15,52,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025196472,BSC-CS,2026-03-15,79,red,Low LMS activity,,,EI-2026.2
+025196971,BA-BEH,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025196989,BA-BUS,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025197944,BA-BEH,2026-03-15,66,amber,Late or missing submissions,,,EI-2026.2
+025198033,BA-BEH,2026-03-15,53,amber,Late or missing submissions,,,EI-2026.2
+025198511,BA-BUS,2026-03-15,65,amber,Late or missing submissions,,,EI-2026.2
+025199587,BSC-IEM,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025199691,BA-BUS,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025199833,BA-BUS,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025200082,BA-BUS,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025201057,BSC-CS,2026-03-15,19,green,Late or missing submissions,,,EI-2026.2
+025201343,BA-BEH,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025201814,BA-COM,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025202093,LLB,2026-03-15,78,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025202138,LLB,2026-03-15,8,green,Low forum participation,,,EI-2026.2
+025202368,BSC-CS,2026-03-15,57,amber,Low forum participation,,,EI-2026.2
+025202515,BA-BUS,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025203023,BA-BEH,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025203047,BA-COM,2026-03-15,45,amber,Low forum participation,,,EI-2026.2
+025203247,LLB,2026-03-15,58,amber,Low LMS activity,,,EI-2026.2
+025203657,BA-BEH,2026-03-15,62,amber,Late or missing submissions,,,EI-2026.2
+025203812,BSC-CS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025203936,BA-BEH,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025204368,LLB,2026-03-15,59,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025205438,BA-COM,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025205668,BA-BUS,2026-03-15,54,amber,Late or missing submissions,,,EI-2026.2
+025206215,BA-BUS,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025206337,BA-BUS,2026-03-15,62,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025206740,BA-COM,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025207131,BA-BEH,2026-03-15,79,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025207173,BA-BUS,2026-03-15,27,green,Late or missing submissions,,,EI-2026.2
+025207261,BA-BUS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025207878,BA-COM,2026-03-15,47,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025208087,BA-BEH,2026-03-15,72,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025208542,BSC-CS,2026-03-15,91,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025210630,BA-COM,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025211217,LLB,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025211671,BSC-CS,2026-03-15,17,green,Low forum participation,,,EI-2026.2
+025211845,BA-BEH,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025212258,LLB,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025212531,BSC-CS,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025212778,BA-COM,2026-03-15,70,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025212861,BA-BUS,2026-03-15,7,green,Low forum participation,,,EI-2026.2
+025212966,BA-COM,2026-03-15,51,amber,Late or missing submissions,,,EI-2026.2
+025214769,BA-BEH,2026-03-15,51,amber,Low forum participation,,,EI-2026.2
+025215011,LLB,2026-03-15,25,green,Late or missing submissions,,,EI-2026.2
+025215764,BSC-CS,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025216424,LLB,2026-03-15,56,amber,Low forum participation,,,EI-2026.2
+025216551,BA-BUS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025216704,BA-BUS,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025217409,BA-COM,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025217646,BSC-IEM,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025217744,BSC-CS,2026-03-15,72,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025217831,BA-BEH,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025218184,BA-BUS,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025218551,LLB,2026-03-15,46,amber,Late or missing submissions,,,EI-2026.2
+025218618,BA-BEH,2026-03-15,60,amber,Late or missing submissions,,,EI-2026.2
+025219823,BA-BUS,2026-03-15,30,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025220035,LLB,2026-03-15,52,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025220068,BA-BUS,2026-03-15,50,amber,Late or missing submissions,,,EI-2026.2
+025220484,LLB,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025220842,BA-COM,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025220896,LLB,2026-03-15,30,green,Late or missing submissions,,,EI-2026.2
+025220956,BSC-CS,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025221163,BA-BUS,2026-03-15,54,amber,Low LMS activity,,,EI-2026.2
+025221235,BSC-IEM,2026-03-15,45,amber,Late or missing submissions,,,EI-2026.2
+025221304,BSC-CS,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025221612,BSC-CS,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025221814,LLB,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025222650,BA-BUS,2026-03-15,62,amber,Late or missing submissions,,,EI-2026.2
+025222835,BA-BUS,2026-03-15,81,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025223899,BA-BUS,2026-03-15,68,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025224406,LLB,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025224817,BA-BUS,2026-03-15,46,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025225077,LLB,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025225393,BA-BEH,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025225567,BSC-CS,2026-03-15,63,amber,Late or missing submissions,,,EI-2026.2
+025226691,LLB,2026-03-15,72,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025227206,BSC-CS,2026-03-15,61,amber,Low LMS activity,,,EI-2026.2
+025227593,LLB,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025228486,BA-BEH,2026-03-15,22,green,Late or missing submissions,,,EI-2026.2
+025228728,BA-BEH,2026-03-15,82,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025229973,BSC-CS,2026-03-15,54,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025230101,LLB,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025230521,BA-BUS,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025230538,BA-BEH,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025232254,BA-COM,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025232547,BA-BEH,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025232672,BSC-CS,2026-03-15,8,green,Low forum participation,,,EI-2026.2
+025232685,BA-COM,2026-03-15,60,amber,Low LMS activity,,,EI-2026.2
+025233252,BSC-IEM,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025233394,BA-BEH,2026-03-15,28,green,Late or missing submissions,,,EI-2026.2
+025234414,BA-COM,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025235101,BA-BEH,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025235158,BA-BUS,2026-03-15,67,amber,Reserve-duty absence (accommodations module),Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025235257,BSC-IEM,2026-03-15,41,green,Late or missing submissions,,,EI-2026.2
+025235604,BA-COM,2026-03-15,45,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025235814,BA-BEH,2026-03-15,60,amber,Low LMS activity,,,EI-2026.2
+025235842,BSC-CS,2026-03-15,34,green,Late or missing submissions,,,EI-2026.2
+025236471,BSC-IEM,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025237052,BA-BUS,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025237141,BA-BUS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025238137,BA-COM,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025238495,LLB,2026-03-15,11,green,Low forum participation,,,EI-2026.2
+025238508,BSC-CS,2026-03-15,61,amber,Low LMS activity,,,EI-2026.2
+025239320,BA-BUS,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025239485,BA-BUS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025239740,BA-BEH,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025239744,BSC-CS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025240376,BSC-IEM,2026-03-15,64,amber,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025240507,BSC-IEM,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025240538,BA-BEH,2026-03-15,93,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025241156,BA-BUS,2026-03-15,41,green,Late or missing submissions,,,EI-2026.2
+025241202,BA-BEH,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025241314,BA-BEH,2026-03-15,94,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025241759,BA-BUS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025242013,BA-BEH,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025242574,BSC-IEM,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025243013,BA-BEH,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025243615,BSC-CS,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025243757,BA-BUS,2026-03-15,9,green,Low forum participation,,,EI-2026.2
+025244956,BSC-IEM,2026-03-15,78,red,Late or missing submissions,Reserve-duty absence (accommodations module),Medical or learning accommodation on file (accommodations module),EI-2026.2
+025244958,BSC-IEM,2026-03-15,59,amber,Low forum participation,,,EI-2026.2
+025244974,BSC-IEM,2026-03-15,56,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025245374,BSC-CS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025245430,BA-BUS,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025245836,BA-BUS,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025245981,BA-BEH,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025246441,LLB,2026-03-15,50,amber,Late or missing submissions,,,EI-2026.2
+025246447,BA-COM,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025246651,BA-BEH,2026-03-15,12,green,Low forum participation,,,EI-2026.2
+025247087,BA-BEH,2026-03-15,23,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025247261,BSC-CS,2026-03-15,57,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025247625,BSC-CS,2026-03-15,47,amber,Late or missing submissions,,,EI-2026.2
+025248514,LLB,2026-03-15,34,green,Late or missing submissions,,,EI-2026.2
+025248707,BA-BUS,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025249472,BA-BUS,2026-03-15,17,green,Low forum participation,,,EI-2026.2
+025249586,BSC-IEM,2026-03-15,52,amber,Low forum participation,,,EI-2026.2
+025249952,BSC-CS,2026-03-15,63,amber,Low LMS activity,,,EI-2026.2
+025250693,BA-BEH,2026-03-15,72,red,Low LMS activity,,,EI-2026.2
+025250773,BA-BUS,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025251216,BSC-CS,2026-03-15,48,amber,Late or missing submissions,,,EI-2026.2
+025251704,BA-BEH,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025251710,BSC-CS,2026-03-15,52,amber,Low forum participation,,,EI-2026.2
+025252221,BA-COM,2026-03-15,42,green,Late or missing submissions,,,EI-2026.2
+025252333,BSC-CS,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025252662,BSC-IEM,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025253687,BA-BEH,2026-03-15,68,amber,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025254139,BA-BUS,2026-03-15,87,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025254324,BSC-CS,2026-03-15,51,amber,Low forum participation,,,EI-2026.2
+025255782,LLB,2026-03-15,45,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025255832,BA-BUS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025256439,BA-BUS,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025256799,BA-BUS,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025258752,BSC-IEM,2026-03-15,54,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025258944,BA-BUS,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025259185,LLB,2026-03-15,21,green,Late or missing submissions,,,EI-2026.2
+025259435,BA-BEH,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025259962,BSC-IEM,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025260277,BA-BUS,2026-03-15,67,amber,Low LMS activity,,,EI-2026.2
+025260939,BA-BUS,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025262182,BA-COM,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025262502,LLB,2026-03-15,79,red,Late or missing submissions,,,EI-2026.2
+025263805,BA-BUS,2026-03-15,79,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025264177,BA-COM,2026-03-15,14,green,Low forum participation,,,EI-2026.2
+025264398,BA-BEH,2026-03-15,20,green,Low forum participation,,,EI-2026.2
+025264638,BSC-IEM,2026-03-15,52,amber,Late or missing submissions,,,EI-2026.2
+025265010,BA-COM,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025265251,BA-BEH,2026-03-15,14,green,Low forum participation,,,EI-2026.2
+025265573,BA-BUS,2026-03-15,49,amber,Late or missing submissions,,,EI-2026.2
+025266597,BSC-IEM,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025266696,BA-COM,2026-03-15,71,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025267435,BA-BUS,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025267774,BA-BUS,2026-03-15,72,red,Low LMS activity,,,EI-2026.2
+025268487,LLB,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025268590,BA-BUS,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025269205,BA-BEH,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025269479,BA-COM,2026-03-15,78,red,Low LMS activity,,,EI-2026.2
+025270048,BA-BEH,2026-03-15,57,amber,Low forum participation,,,EI-2026.2
+025270346,BA-BEH,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025270709,BSC-IEM,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025271209,BA-BUS,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025271569,BSC-CS,2026-03-15,57,amber,Late or missing submissions,,,EI-2026.2
+025272526,BA-BUS,2026-03-15,73,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025273336,BA-BUS,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025273426,BSC-CS,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025273683,BA-BEH,2026-03-15,67,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025273959,LLB,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025274073,LLB,2026-03-15,66,amber,Low LMS activity,,,EI-2026.2
+025274153,LLB,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025275322,BA-BUS,2026-03-15,46,amber,Late or missing submissions,,,EI-2026.2
+025275354,BSC-CS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025275573,BSC-CS,2026-03-15,77,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025275879,BA-BUS,2026-03-15,63,amber,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025275940,BSC-CS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025276085,BSC-CS,2026-03-15,56,amber,Low forum participation,,,EI-2026.2
+025276137,BA-BUS,2026-03-15,87,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025277437,BSC-IEM,2026-03-15,10,green,Low forum participation,,,EI-2026.2
+025278111,BA-COM,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025278251,BA-BEH,2026-03-15,26,green,Late or missing submissions,,,EI-2026.2
+025278416,BA-BUS,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025278685,BSC-IEM,2026-03-15,55,amber,Late or missing submissions,,,EI-2026.2
+025278748,BSC-CS,2026-03-15,78,red,Low LMS activity,,,EI-2026.2
+025279169,LLB,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025279326,BA-BUS,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025279357,BA-COM,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025279736,BA-BEH,2026-03-15,52,amber,Low forum participation,,,EI-2026.2
+025280324,BA-BUS,2026-03-15,53,amber,Low forum participation,,,EI-2026.2
+025280391,BSC-CS,2026-03-15,27,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025280617,BA-BUS,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025280673,BA-COM,2026-03-15,63,amber,Low LMS activity,,,EI-2026.2
+025280780,LLB,2026-03-15,50,amber,Late or missing submissions,,,EI-2026.2
+025280908,BSC-CS,2026-03-15,38,green,Late or missing submissions,,,EI-2026.2
+025281156,BSC-CS,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025281221,LLB,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025283336,BA-BEH,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025283890,LLB,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025284772,LLB,2026-03-15,49,amber,Late or missing submissions,,,EI-2026.2
+025284876,BSC-IEM,2026-03-15,49,amber,Late or missing submissions,,,EI-2026.2
+025284991,BA-BEH,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025285641,LLB,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025285814,BA-BEH,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025285939,LLB,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025285986,LLB,2026-03-15,42,green,Late or missing submissions,,,EI-2026.2
+025286162,BA-BUS,2026-03-15,68,amber,Low LMS activity,,,EI-2026.2
+025286298,BSC-CS,2026-03-15,50,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025286435,BSC-CS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025286450,BA-BEH,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025286583,BA-COM,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025286660,LLB,2026-03-15,66,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025286849,BA-BUS,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025287314,BA-COM,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025287528,BA-BUS,2026-03-15,75,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025287972,BA-COM,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025289021,BA-BUS,2026-03-15,86,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025289058,BSC-IEM,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025289413,BA-BEH,2026-03-15,17,green,Low forum participation,,,EI-2026.2
+025289678,BA-BUS,2026-03-15,17,green,Low forum participation,,,EI-2026.2
+025289937,BA-COM,2026-03-15,7,green,Low forum participation,,,EI-2026.2
+025290112,BA-BUS,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025290947,BSC-CS,2026-03-15,29,green,Late or missing submissions,,,EI-2026.2
+025291187,BA-BUS,2026-03-15,62,amber,Low forum participation,,,EI-2026.2
+025291435,BA-BUS,2026-03-15,30,green,Late or missing submissions,,,EI-2026.2
+025291826,BA-BUS,2026-03-15,72,red,Low LMS activity,,,EI-2026.2
+025292047,BA-COM,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025292283,LLB,2026-03-15,100,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025292850,LLB,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025293964,BA-BEH,2026-03-15,76,red,Low LMS activity,,,EI-2026.2
+025294522,BSC-CS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025294855,BSC-CS,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025294945,LLB,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025295173,BSC-CS,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025295328,BA-BUS,2026-03-15,49,amber,Late or missing submissions,,,EI-2026.2
+025295418,LLB,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025296214,BA-BEH,2026-03-15,21,green,Late or missing submissions,,,EI-2026.2
+025296299,LLB,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025298358,BA-BUS,2026-03-15,38,green,Late or missing submissions,,,EI-2026.2
+025298623,BA-BUS,2026-03-15,27,green,Late or missing submissions,,,EI-2026.2
+025299190,BSC-CS,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025299277,BA-BUS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025302601,BSC-CS,2026-03-15,71,red,Low LMS activity,,,EI-2026.2
+025302692,BA-BEH,2026-03-15,75,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025303234,BA-BUS,2026-03-15,72,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025303933,BA-BEH,2026-03-15,72,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025304547,BA-BEH,2026-03-15,33,green,Late or missing submissions,,,EI-2026.2
+025305557,BA-BEH,2026-03-15,45,amber,Low forum participation,,,EI-2026.2
+025305584,BA-BUS,2026-03-15,47,amber,Low LMS activity,,,EI-2026.2
+025305833,BA-COM,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025305837,BA-BUS,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025305912,BA-BEH,2026-03-15,32,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025306267,LLB,2026-03-15,52,amber,Low LMS activity,,,EI-2026.2
+025306336,BA-BUS,2026-03-15,50,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025306340,BA-BEH,2026-03-15,66,amber,Late or missing submissions,,,EI-2026.2
+025306386,BSC-CS,2026-03-15,73,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025306420,BA-BEH,2026-03-15,53,amber,Late or missing submissions,,,EI-2026.2
+025306661,BSC-CS,2026-03-15,61,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025307567,BSC-CS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025307759,BA-BUS,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025308205,LLB,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025308609,BA-COM,2026-03-15,74,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025308633,BA-BEH,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025308940,BSC-CS,2026-03-15,80,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025309362,BSC-CS,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025309368,BA-BEH,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025310021,BSC-CS,2026-03-15,85,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025310327,BA-BEH,2026-03-15,73,red,Late or missing submissions,,,EI-2026.2
+025310378,LLB,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025310710,BA-BUS,2026-03-15,53,amber,Late or missing submissions,,,EI-2026.2
+025310779,BSC-CS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025311592,BA-COM,2026-03-15,37,green,Late or missing submissions,,,EI-2026.2
+025312063,BSC-CS,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025312292,BA-BUS,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025313227,BSC-IEM,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025313456,LLB,2026-03-15,59,amber,Low forum participation,,,EI-2026.2
+025313649,BSC-CS,2026-03-15,63,amber,Low LMS activity,,,EI-2026.2
+025314331,LLB,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025314379,BA-BUS,2026-03-15,70,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025314569,BSC-CS,2026-03-15,47,amber,Late or missing submissions,,,EI-2026.2
+025314982,LLB,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025315342,LLB,2026-03-15,46,amber,Late or missing submissions,,,EI-2026.2
+025315488,BA-BUS,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025316067,BSC-IEM,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025316245,BSC-IEM,2026-03-15,12,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025316651,BA-COM,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025316919,BA-BEH,2026-03-15,14,green,Late or missing submissions,,,EI-2026.2
+025317820,BA-BUS,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025317846,BA-COM,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025317918,BA-BEH,2026-03-15,68,amber,Reserve-duty absence (accommodations module),Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025317932,LLB,2026-03-15,77,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025318040,BA-BUS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025318876,BA-BUS,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025319004,BSC-IEM,2026-03-15,17,green,Low forum participation,,,EI-2026.2
+025319114,LLB,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025319349,BSC-CS,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025319390,BSC-CS,2026-03-15,68,amber,Late or missing submissions,,,EI-2026.2
+025319470,LLB,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025319513,BSC-IEM,2026-03-15,66,amber,Late or missing submissions,,,EI-2026.2
+025320196,BSC-CS,2026-03-15,72,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025320699,BA-BEH,2026-03-15,57,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025320782,BA-BEH,2026-03-15,37,green,Late or missing submissions,,,EI-2026.2
+025320784,BSC-IEM,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025320922,BA-BUS,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025321036,LLB,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025321270,BA-COM,2026-03-15,48,amber,Late or missing submissions,,,EI-2026.2
+025321341,BSC-CS,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025321539,BA-BUS,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025321587,BA-COM,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025321756,LLB,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025321925,LLB,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025322194,LLB,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025322683,BSC-CS,2026-03-15,69,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025323105,LLB,2026-03-15,31,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025324452,LLB,2026-03-15,71,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025324663,BSC-IEM,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025325269,BA-BUS,2026-03-15,57,amber,Low forum participation,,,EI-2026.2
+025325324,BA-COM,2026-03-15,34,green,Late or missing submissions,,,EI-2026.2
+025325631,BSC-CS,2026-03-15,6,green,Low forum participation,,,EI-2026.2
+025325635,BSC-CS,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025327252,BSC-IEM,2026-03-15,56,amber,Late or missing submissions,,,EI-2026.2
+025327357,LLB,2026-03-15,68,amber,Low LMS activity,,,EI-2026.2
+025327512,BA-BEH,2026-03-15,9,green,Low forum participation,,,EI-2026.2
+025327825,BSC-IEM,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025328156,LLB,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025329145,BSC-IEM,2026-03-15,66,amber,Low LMS activity,,,EI-2026.2
+025329228,BA-BEH,2026-03-15,4,green,Low forum participation,,,EI-2026.2
+025329431,BA-BEH,2026-03-15,68,amber,Low LMS activity,,,EI-2026.2
+025329451,BSC-IEM,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025330016,BA-BEH,2026-03-15,91,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025330498,LLB,2026-03-15,66,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025330683,BA-BUS,2026-03-15,50,amber,Late or missing submissions,,,EI-2026.2
+025331103,LLB,2026-03-15,35,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025331160,BA-BEH,2026-03-15,59,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025331201,BA-BEH,2026-03-15,22,green,Late or missing submissions,,,EI-2026.2
+025331294,BSC-IEM,2026-03-15,46,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025331442,BSC-CS,2026-03-15,10,green,Low forum participation,,,EI-2026.2
+025331564,BA-COM,2026-03-15,53,amber,Late or missing submissions,,,EI-2026.2
+025331567,LLB,2026-03-15,63,amber,Late or missing submissions,,,EI-2026.2
+025331768,BSC-CS,2026-03-15,62,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025332437,BA-BEH,2026-03-15,56,amber,Low LMS activity,,,EI-2026.2
+025332820,BSC-IEM,2026-03-15,28,green,Late or missing submissions,,,EI-2026.2
+025332903,LLB,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025333096,BA-BUS,2026-03-15,73,red,Low LMS activity,,,EI-2026.2
+025333196,BA-BUS,2026-03-15,51,amber,Low forum participation,,,EI-2026.2
+025333445,LLB,2026-03-15,88,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025333733,BA-BUS,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025333809,BSC-CS,2026-03-15,79,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025334124,LLB,2026-03-15,55,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025334947,BA-BUS,2026-03-15,64,amber,Low LMS activity,,,EI-2026.2
+025335874,BSC-CS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025335948,BSC-IEM,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025336002,BA-BEH,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025337515,BA-BEH,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025337830,BSC-CS,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025339956,LLB,2026-03-15,14,green,Low forum participation,,,EI-2026.2
+025340057,BSC-IEM,2026-03-15,45,amber,Low forum participation,,,EI-2026.2
+025340091,BA-BEH,2026-03-15,60,amber,Low LMS activity,,,EI-2026.2
+025340100,BSC-IEM,2026-03-15,45,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025340572,BA-BUS,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025340573,BA-BUS,2026-03-15,38,green,Late or missing submissions,,,EI-2026.2
+025340798,BA-BUS,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025341847,BA-BEH,2026-03-15,65,amber,Late or missing submissions,,,EI-2026.2
+025342077,BA-COM,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025342568,BSC-CS,2026-03-15,68,amber,Low LMS activity,,,EI-2026.2
+025343174,BA-BEH,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025343460,BA-COM,2026-03-15,35,green,Late or missing submissions,,,EI-2026.2
+025344489,LLB,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025345153,BA-COM,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025345233,BA-BUS,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025345430,BSC-CS,2026-03-15,66,amber,Low LMS activity,,,EI-2026.2
+025347383,LLB,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025348380,BA-BEH,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025348574,BA-BUS,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025348819,BA-BEH,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025348882,BA-BUS,2026-03-15,47,amber,Low LMS activity,,,EI-2026.2
+025349029,BA-BUS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025349203,BA-COM,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025349440,BA-BUS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025350788,BSC-IEM,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025351024,BSC-CS,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025351471,BA-BUS,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025352605,BA-BUS,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025352972,LLB,2026-03-15,48,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025352996,BA-BUS,2026-03-15,24,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025353819,BA-BEH,2026-03-15,59,amber,Low LMS activity,,,EI-2026.2
+025355084,BA-BUS,2026-03-15,41,green,Late or missing submissions,,,EI-2026.2
+025355489,BA-BEH,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025355770,BA-BUS,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025355790,BSC-CS,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025355810,BA-BUS,2026-03-15,66,amber,Late or missing submissions,,,EI-2026.2
+025356044,BA-COM,2026-03-15,36,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025356718,BA-BUS,2026-03-15,66,amber,Low forum participation,,,EI-2026.2
+025359498,BSC-IEM,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025359689,BA-BEH,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025359916,BA-BEH,2026-03-15,59,amber,Low LMS activity,,,EI-2026.2
+025360074,BSC-CS,2026-03-15,70,red,Low LMS activity,,,EI-2026.2
+025360491,BA-BUS,2026-03-15,45,amber,Late or missing submissions,,,EI-2026.2
+025360717,BA-BEH,2026-03-15,69,amber,Low forum participation,,,EI-2026.2
+025360749,BSC-CS,2026-03-15,17,green,Low forum participation,,,EI-2026.2
+025360853,BA-BUS,2026-03-15,75,red,Low LMS activity,,,EI-2026.2
+025361069,LLB,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025361352,BA-BEH,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025361365,BA-BEH,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025361618,BA-COM,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025361624,BSC-CS,2026-03-15,92,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025361638,BA-BUS,2026-03-15,72,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025361736,BSC-IEM,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025363472,LLB,2026-03-15,54,amber,Late or missing submissions,,,EI-2026.2
+025364002,BSC-CS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025364159,BA-BEH,2026-03-15,57,amber,Low LMS activity,,,EI-2026.2
+025364323,BSC-IEM,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025364325,BA-BEH,2026-03-15,55,amber,Low LMS activity,,,EI-2026.2
+025364569,BA-BEH,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025365219,BSC-IEM,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025365473,BSC-CS,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025365687,BA-BEH,2026-03-15,53,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025366252,BSC-CS,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025366301,BSC-CS,2026-03-15,39,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025366550,BA-BUS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025366614,BSC-CS,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025367346,BA-COM,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025367941,BA-BUS,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025368488,BA-BUS,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025368994,BA-BUS,2026-03-15,56,amber,Late or missing submissions,,,EI-2026.2
+025369687,BSC-IEM,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025369719,BA-BUS,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025369723,BSC-CS,2026-03-15,37,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025369794,BA-BUS,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025369944,BA-BUS,2026-03-15,49,amber,Late or missing submissions,,,EI-2026.2
+025370275,BSC-CS,2026-03-15,52,amber,Late or missing submissions,,,EI-2026.2
+025370654,BSC-CS,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025370735,BA-BUS,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025370748,BA-COM,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025371198,LLB,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025372239,BA-BUS,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025372710,BA-BEH,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025372736,BSC-CS,2026-03-15,74,red,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025373510,BA-BEH,2026-03-15,18,green,Late or missing submissions,,,EI-2026.2
+025373533,LLB,2026-03-15,58,amber,Low forum participation,,,EI-2026.2
+025373973,BSC-CS,2026-03-15,9,green,Low forum participation,,,EI-2026.2
+025374221,LLB,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025376515,BA-BUS,2026-03-15,8,green,Low forum participation,,,EI-2026.2
+025376584,BA-BUS,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025376864,BA-BEH,2026-03-15,47,amber,Low LMS activity,,,EI-2026.2
+025377302,BA-COM,2026-03-15,54,amber,Low forum participation,,,EI-2026.2
+025377652,BSC-IEM,2026-03-15,11,green,Low forum participation,,,EI-2026.2
+025378247,BA-BUS,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025379372,LLB,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025380538,BA-BUS,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025381240,BSC-IEM,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025381437,BA-BUS,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025381457,LLB,2026-03-15,18,green,Late or missing submissions,,,EI-2026.2
+025381546,LLB,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025381590,BSC-IEM,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025382161,BA-BUS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025383261,BA-COM,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025383821,BA-BUS,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025384766,BSC-CS,2026-03-15,52,amber,Low LMS activity,,,EI-2026.2
+025385037,LLB,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025385135,BA-BUS,2026-03-15,53,amber,Late or missing submissions,,,EI-2026.2
+025385292,BA-BUS,2026-03-15,49,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025385377,BSC-IEM,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025385730,BA-BEH,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025385963,BSC-CS,2026-03-15,53,amber,Late or missing submissions,,,EI-2026.2
+025386067,BSC-IEM,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025386589,BA-BUS,2026-03-15,64,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025386794,BSC-IEM,2026-03-15,70,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025386915,BSC-CS,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025388657,LLB,2026-03-15,14,green,Low forum participation,,,EI-2026.2
+025388897,BA-BUS,2026-03-15,55,amber,Low forum participation,,,EI-2026.2
+025389592,BA-BUS,2026-03-15,12,green,Late or missing submissions,,,EI-2026.2
+025389860,BSC-CS,2026-03-15,86,red,Low LMS activity,,,EI-2026.2
+025390068,BA-BUS,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025390261,BSC-CS,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025390445,BA-BEH,2026-03-15,65,amber,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025391228,BSC-CS,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025391296,BA-BUS,2026-03-15,91,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025391786,BA-COM,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025391880,BA-BUS,2026-03-15,42,green,Late or missing submissions,,,EI-2026.2
+025391953,BA-COM,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025393097,BA-BUS,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025393320,BSC-IEM,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025394033,LLB,2026-03-15,35,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025394313,BSC-CS,2026-03-15,51,amber,Low forum participation,,,EI-2026.2
+025394642,BSC-IEM,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025395340,LLB,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025395510,BA-BUS,2026-03-15,27,green,Late or missing submissions,,,EI-2026.2
+025395539,BSC-CS,2026-03-15,45,amber,Late or missing submissions,,,EI-2026.2
+025396135,BA-BUS,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025396235,BSC-CS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025396405,BSC-CS,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025396778,BSC-CS,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025396860,BA-BUS,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025396998,BSC-IEM,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025397328,BSC-CS,2026-03-15,71,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025397819,LLB,2026-03-15,57,amber,Late or missing submissions,,,EI-2026.2
+025399000,BSC-CS,2026-03-15,41,green,Late or missing submissions,,,EI-2026.2
+025399592,BA-COM,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025399889,BSC-CS,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025400012,BA-BEH,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025400403,LLB,2026-03-15,45,amber,Late or missing submissions,,,EI-2026.2
+025401265,LLB,2026-03-15,25,green,Late or missing submissions,,,EI-2026.2
+025402556,BA-BUS,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025402614,BSC-CS,2026-03-15,11,green,Low forum participation,,,EI-2026.2
+025402997,BA-BUS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025403214,BA-BUS,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025403906,BSC-IEM,2026-03-15,10,green,Late or missing submissions,,,EI-2026.2
+025404672,BA-BUS,2026-03-15,54,amber,Low forum participation,,,EI-2026.2
+025404906,BSC-CS,2026-03-15,51,amber,Late or missing submissions,,,EI-2026.2
+025405160,BA-BUS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025405472,LLB,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025405695,BSC-CS,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025406333,BA-BUS,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025407244,BA-BEH,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025407551,BA-BEH,2026-03-15,54,amber,Late or missing submissions,,,EI-2026.2
+025407859,BA-BEH,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025407950,BA-BUS,2026-03-15,34,green,Late or missing submissions,,,EI-2026.2
+025408036,BSC-CS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025408380,BSC-CS,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025409636,BA-BUS,2026-03-15,58,amber,Low LMS activity,,,EI-2026.2
+025409875,BSC-CS,2026-03-15,66,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025410161,BA-BUS,2026-03-15,30,green,Late or missing submissions,,,EI-2026.2
+025410629,BA-BUS,2026-03-15,68,amber,Low LMS activity,,,EI-2026.2
+025411287,BSC-CS,2026-03-15,49,amber,Late or missing submissions,,,EI-2026.2
+025411532,BA-BUS,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025411880,BSC-CS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025412041,BA-BUS,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025412214,BA-BUS,2026-03-15,88,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025412837,BA-COM,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025413623,BA-BEH,2026-03-15,68,amber,Low LMS activity,,,EI-2026.2
+025414182,BA-COM,2026-03-15,58,amber,Low forum participation,,,EI-2026.2
+025414701,LLB,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025414773,BA-BUS,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025415174,BA-BUS,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025415386,BSC-IEM,2026-03-15,60,amber,Low forum participation,,,EI-2026.2
+025416047,LLB,2026-03-15,55,amber,Low LMS activity,,,EI-2026.2
+025416231,BA-BUS,2026-03-15,87,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025416863,BA-BUS,2026-03-15,68,amber,Late or missing submissions,,,EI-2026.2
+025416973,BSC-CS,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025417660,BSC-CS,2026-03-15,35,green,Late or missing submissions,,,EI-2026.2
+025417756,BA-BUS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025417884,BA-BUS,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025418285,BA-BUS,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025419560,BA-BEH,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025419945,LLB,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025420103,BSC-CS,2026-03-15,50,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025420375,BSC-IEM,2026-03-15,20,green,Low forum participation,,,EI-2026.2
+025421193,BA-BUS,2026-03-15,66,amber,Low LMS activity,,,EI-2026.2
+025421241,BA-BEH,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025421346,BA-BEH,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025421540,BSC-IEM,2026-03-15,49,amber,Late or missing submissions,,,EI-2026.2
+025422262,BA-BUS,2026-03-15,21,green,Late or missing submissions,,,EI-2026.2
+025423391,BA-BUS,2026-03-15,86,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025423440,BA-BUS,2026-03-15,74,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025423475,BSC-CS,2026-03-15,16,green,Low forum participation,,,EI-2026.2
+025424103,BA-BUS,2026-03-15,74,red,Late or missing submissions,,,EI-2026.2
+025424364,BA-COM,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025424832,BA-BUS,2026-03-15,94,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025425127,LLB,2026-03-15,55,amber,Late or missing submissions,,,EI-2026.2
+025425408,BSC-IEM,2026-03-15,41,green,Late or missing submissions,,,EI-2026.2
+025425672,BA-BUS,2026-03-15,20,green,Low forum participation,,,EI-2026.2
+025425745,BSC-CS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025425814,BSC-IEM,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025425994,BA-BEH,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025426212,BSC-IEM,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025426529,BA-BEH,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025426654,BSC-IEM,2026-03-15,41,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025426685,BA-COM,2026-03-15,89,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025426875,BA-COM,2026-03-15,20,green,Low forum participation,,,EI-2026.2
+025427764,BSC-IEM,2026-03-15,41,green,Late or missing submissions,,,EI-2026.2
+025427872,BA-BUS,2026-03-15,27,green,Late or missing submissions,,,EI-2026.2
+025428435,BSC-CS,2026-03-15,59,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025429397,BA-BUS,2026-03-15,53,amber,Late or missing submissions,,,EI-2026.2
+025429432,BA-BUS,2026-03-15,93,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025429449,BA-COM,2026-03-15,42,green,Late or missing submissions,,,EI-2026.2
+025430775,LLB,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025430845,BSC-CS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025430867,BA-BUS,2026-03-15,71,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025430980,BSC-CS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025431081,BSC-CS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025431806,LLB,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025431812,BA-BUS,2026-03-15,29,green,Late or missing submissions,,,EI-2026.2
+025432367,BA-BUS,2026-03-15,61,amber,Low forum participation,,,EI-2026.2
+025432513,BA-BEH,2026-03-15,31,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025432832,BA-COM,2026-03-15,37,green,Late or missing submissions,,,EI-2026.2
+025432983,BA-BUS,2026-03-15,42,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025433174,BSC-IEM,2026-03-15,20,green,Low forum participation,,,EI-2026.2
+025433362,BSC-CS,2026-03-15,64,amber,Low LMS activity,,,EI-2026.2
+025433615,BA-BUS,2026-03-15,56,amber,Late or missing submissions,,,EI-2026.2
+025433879,BA-BEH,2026-03-15,60,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025433890,LLB,2026-03-15,63,amber,Low LMS activity,,,EI-2026.2
+025434169,BSC-IEM,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025435043,BA-BUS,2026-03-15,54,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025435266,BA-BEH,2026-03-15,44,green,Late or missing submissions,,,EI-2026.2
+025436151,BA-COM,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025436443,LLB,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025436868,BA-BUS,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025437712,BA-BUS,2026-03-15,46,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025437789,BA-COM,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025437908,BSC-CS,2026-03-15,64,amber,Low forum participation,,,EI-2026.2
+025437995,BSC-CS,2026-03-15,47,amber,Late or missing submissions,,,EI-2026.2
+025439049,BSC-CS,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025439057,BA-BUS,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025439289,LLB,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025439303,BSC-CS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025439396,BSC-CS,2026-03-15,12,green,Low forum participation,,,EI-2026.2
+025439619,BA-BUS,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025440165,BSC-CS,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025440535,LLB,2026-03-15,9,green,Low forum participation,,,EI-2026.2
+025440924,BA-BEH,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025440971,BA-BEH,2026-03-15,16,green,Low forum participation,,,EI-2026.2
+025441288,BA-BEH,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025441933,BA-BUS,2026-03-15,60,amber,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025442507,BA-BUS,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025442601,BSC-IEM,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025443019,BA-BEH,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025443214,BSC-CS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025443835,LLB,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025444054,BA-BEH,2026-03-15,52,amber,Low LMS activity,,,EI-2026.2
+025444245,BA-BEH,2026-03-15,66,amber,Low LMS activity,,,EI-2026.2
+025444668,BA-BEH,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025444734,LLB,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025445310,BSC-IEM,2026-03-15,93,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025445446,BSC-IEM,2026-03-15,67,amber,Low forum participation,,,EI-2026.2
+025445637,BA-BUS,2026-03-15,12,green,Low forum participation,,,EI-2026.2
+025446573,BA-BUS,2026-03-15,66,amber,Low LMS activity,,,EI-2026.2
+025446630,LLB,2026-03-15,22,green,Late or missing submissions,,,EI-2026.2
+025446660,BA-BUS,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025446854,BA-BUS,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025447140,LLB,2026-03-15,58,amber,Late or missing submissions,,,EI-2026.2
+025448236,BA-BUS,2026-03-15,32,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025448310,BA-BUS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025448684,BA-BUS,2026-03-15,67,amber,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025448754,LLB,2026-03-15,66,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025448855,BA-COM,2026-03-15,53,amber,Low forum participation,,,EI-2026.2
+025448948,BA-BUS,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025449279,LLB,2026-03-15,73,red,Low LMS activity,,,EI-2026.2
+025449974,BA-BUS,2026-03-15,57,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025450174,LLB,2026-03-15,65,amber,Low LMS activity,,,EI-2026.2
+025450615,LLB,2026-03-15,63,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025450670,BSC-CS,2026-03-15,42,green,Late or missing submissions,,,EI-2026.2
+025452291,BA-BEH,2026-03-15,28,green,Late or missing submissions,,,EI-2026.2
+025452906,BA-BUS,2026-03-15,53,amber,Late or missing submissions,,,EI-2026.2
+025453141,BA-COM,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025453815,BA-BUS,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025454045,BA-BUS,2026-03-15,62,amber,Low forum participation,,,EI-2026.2
+025454199,BSC-CS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025454418,BSC-CS,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025455086,BSC-IEM,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025455241,LLB,2026-03-15,71,red,Low LMS activity,,,EI-2026.2
+025455677,BSC-CS,2026-03-15,27,green,Late or missing submissions,,,EI-2026.2
+025455885,BA-COM,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025456320,BA-COM,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025456387,BA-BUS,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025457157,BSC-CS,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025457886,BA-BEH,2026-03-15,67,amber,Low LMS activity,,,EI-2026.2
+025457944,BA-COM,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025458108,BA-BUS,2026-03-15,75,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025458395,BSC-CS,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025459821,BA-BUS,2026-03-15,74,red,Low LMS activity,,,EI-2026.2
+025460580,BA-BEH,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025460711,BA-BUS,2026-03-15,68,amber,Low LMS activity,,,EI-2026.2
+025460777,BSC-IEM,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025461158,BA-BUS,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025461368,BSC-CS,2026-03-15,53,amber,Low forum participation,,,EI-2026.2
+025461538,LLB,2026-03-15,74,red,Late or missing submissions,,,EI-2026.2
+025461550,BA-BUS,2026-03-15,57,amber,Low LMS activity,,,EI-2026.2
+025461785,BSC-IEM,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025462813,LLB,2026-03-15,38,green,Late or missing submissions,,,EI-2026.2
+025463058,BA-BEH,2026-03-15,71,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025463113,BA-COM,2026-03-15,23,green,Late or missing submissions,,,EI-2026.2
+025463142,BA-COM,2026-03-15,57,amber,Late or missing submissions,,,EI-2026.2
+025463921,BSC-CS,2026-03-15,17,green,Low forum participation,,,EI-2026.2
+025464048,LLB,2026-03-15,73,red,Low LMS activity,,,EI-2026.2
+025464077,BA-BUS,2026-03-15,14,green,Low forum participation,,,EI-2026.2
+025464460,BA-BUS,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025464592,BA-BEH,2026-03-15,75,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025466700,BSC-CS,2026-03-15,23,green,Late or missing submissions,,,EI-2026.2
+025466756,BA-COM,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025467145,BA-BUS,2026-03-15,57,amber,Late or missing submissions,,,EI-2026.2
+025467640,BA-BUS,2026-03-15,27,green,Late or missing submissions,,,EI-2026.2
+025467669,BA-BUS,2026-03-15,0,green,Low forum participation,,,EI-2026.2
+025468210,BA-BEH,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025470075,BSC-CS,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025470358,BA-COM,2026-03-15,63,amber,Late or missing submissions,,,EI-2026.2
+025470367,BA-BEH,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025472358,LLB,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025474416,BA-BUS,2026-03-15,61,amber,Late or missing submissions,,,EI-2026.2
+025475008,BSC-CS,2026-03-15,99,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025475676,BSC-IEM,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025475786,BA-BUS,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025475804,BA-BEH,2026-03-15,56,amber,Late or missing submissions,,,EI-2026.2
+025476567,BA-BUS,2026-03-15,10,green,Low forum participation,,,EI-2026.2
+025477105,BA-BUS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025477278,LLB,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025477306,BA-BUS,2026-03-15,71,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025478065,BA-COM,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025478398,BA-COM,2026-03-15,1,green,Low forum participation,,,EI-2026.2
+025478465,BA-BEH,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025479296,BA-COM,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025479583,BSC-CS,2026-03-15,45,amber,Low forum participation,,,EI-2026.2
+025479603,BA-BUS,2026-03-15,37,green,Late or missing submissions,,,EI-2026.2
+025479696,BSC-CS,2026-03-15,60,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025479943,BA-BEH,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025480639,LLB,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025480697,BA-BEH,2026-03-15,55,amber,Low forum participation,,,EI-2026.2
+025482108,BA-BUS,2026-03-15,66,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025483195,BA-BEH,2026-03-15,51,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025483638,BA-BUS,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025483763,BSC-CS,2026-03-15,65,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025483772,BA-BEH,2026-03-15,64,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025483976,BA-BEH,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025483983,LLB,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025485380,BSC-IEM,2026-03-15,32,green,Late or missing submissions,,,EI-2026.2
+025485432,BA-BUS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025486386,LLB,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025486959,BA-BEH,2026-03-15,47,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025487095,BA-BUS,2026-03-15,71,red,Low LMS activity,,,EI-2026.2
+025487249,BSC-IEM,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025487647,BA-COM,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025487699,BA-BEH,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025488002,BA-BUS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025488114,BA-BUS,2026-03-15,62,amber,Low LMS activity,,,EI-2026.2
+025488214,BA-BUS,2026-03-15,35,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025488274,LLB,2026-03-15,20,green,Low forum participation,,,EI-2026.2
+025488491,LLB,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025488716,BSC-CS,2026-03-15,44,green,Low LMS activity,,,EI-2026.2
+025488738,BSC-CS,2026-03-15,4,green,Low forum participation,,,EI-2026.2
+025490305,BA-BEH,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025490450,LLB,2026-03-15,56,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025491113,BA-BEH,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025492376,BA-BEH,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025492494,BA-BEH,2026-03-15,34,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025492978,BA-BUS,2026-03-15,78,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025493336,LLB,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025493511,BA-BUS,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025494849,BA-COM,2026-03-15,51,amber,Late or missing submissions,,,EI-2026.2
+025494960,BA-COM,2026-03-15,43,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025495045,BSC-CS,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025495238,BA-BUS,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025495387,BA-BEH,2026-03-15,41,green,Late or missing submissions,,,EI-2026.2
+025495432,LLB,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025495495,BA-BUS,2026-03-15,79,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025495556,BSC-IEM,2026-03-15,65,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025495910,LLB,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025496284,BA-BUS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025496457,BA-COM,2026-03-15,57,amber,Late or missing submissions,,,EI-2026.2
+025496561,BSC-IEM,2026-03-15,88,red,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025496906,BSC-CS,2026-03-15,77,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025497793,BA-BEH,2026-03-15,42,green,Late or missing submissions,,,EI-2026.2
+025498091,BA-BEH,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025498440,BSC-IEM,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025498480,BSC-CS,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025498622,BA-BUS,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025499626,LLB,2026-03-15,83,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025500305,BA-BEH,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025500597,BA-BUS,2026-03-15,66,amber,Low LMS activity,,,EI-2026.2
+025500753,BSC-CS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025500775,BA-BEH,2026-03-15,72,red,Low LMS activity,,,EI-2026.2
+025500895,BA-BUS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025501282,BSC-CS,2026-03-15,34,green,Late or missing submissions,,,EI-2026.2
+025501533,BA-BUS,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025502368,LLB,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025502793,LLB,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025503179,BA-BEH,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025503189,BA-COM,2026-03-15,54,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025504143,BSC-IEM,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025504164,LLB,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025504775,BA-COM,2026-03-15,66,amber,Late or missing submissions,,,EI-2026.2
+025505727,BSC-CS,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025505898,LLB,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025507417,BA-BUS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025507706,BA-BUS,2026-03-15,88,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025508250,BSC-IEM,2026-03-15,60,amber,Low forum participation,,,EI-2026.2
+025508484,BA-BUS,2026-03-15,56,amber,Low forum participation,,,EI-2026.2
+025508903,LLB,2026-03-15,76,red,Low LMS activity,,,EI-2026.2
+025509676,BA-BUS,2026-03-15,85,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025510348,BSC-CS,2026-03-15,27,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025510609,BA-BUS,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025511206,BSC-CS,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025512553,BA-BUS,2026-03-15,45,amber,Low forum participation,,,EI-2026.2
+025513941,BA-BEH,2026-03-15,65,amber,Low LMS activity,,,EI-2026.2
+025514038,BA-BEH,2026-03-15,37,green,Late or missing submissions,,,EI-2026.2
+025514428,BA-BEH,2026-03-15,73,red,Low LMS activity,,,EI-2026.2
+025515806,LLB,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025515822,BA-BEH,2026-03-15,38,green,Late or missing submissions,,,EI-2026.2
+025515833,BA-BEH,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025516607,BSC-IEM,2026-03-15,11,green,Low forum participation,,,EI-2026.2
+025517888,BSC-CS,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025518089,LLB,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025518130,BA-BUS,2026-03-15,45,amber,Low forum participation,,,EI-2026.2
+025518188,BA-BUS,2026-03-15,77,red,Reserve-duty absence (accommodations module),,,EI-2026.2
+025519530,LLB,2026-03-15,62,amber,Late or missing submissions,,,EI-2026.2
+025519562,BA-BUS,2026-03-15,83,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025519616,BSC-CS,2026-03-15,64,amber,Low LMS activity,,,EI-2026.2
+025519684,BSC-CS,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025519985,BA-COM,2026-03-15,60,amber,Late or missing submissions,,,EI-2026.2
+025521013,BSC-CS,2026-03-15,53,amber,Late or missing submissions,,,EI-2026.2
+025521416,BSC-IEM,2026-03-15,37,green,Late or missing submissions,,,EI-2026.2
+025522438,BA-COM,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025523954,BSC-CS,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025524093,BA-BUS,2026-03-15,86,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025524268,BA-BEH,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025524584,BA-BUS,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025524671,LLB,2026-03-15,57,amber,Late or missing submissions,,,EI-2026.2
+025524688,BSC-CS,2026-03-15,51,amber,Late or missing submissions,,,EI-2026.2
+025524926,BSC-CS,2026-03-15,46,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025525166,BA-BUS,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025525202,LLB,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025525266,BA-BUS,2026-03-15,69,amber,Late or missing submissions,,,EI-2026.2
+025525545,LLB,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025526202,BSC-CS,2026-03-15,87,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025526235,LLB,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025526657,BSC-CS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025526814,BA-BUS,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025527052,BSC-CS,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025527092,BA-BEH,2026-03-15,49,amber,Late or missing submissions,,,EI-2026.2
+025527172,BA-COM,2026-03-15,43,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025527296,BA-BUS,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025527948,BA-BEH,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025528161,LLB,2026-03-15,56,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025528182,BA-BUS,2026-03-15,53,amber,Low forum participation,,,EI-2026.2
+025528190,BSC-CS,2026-03-15,66,amber,Low LMS activity,,,EI-2026.2
+025528766,LLB,2026-03-15,69,amber,Low LMS activity,,,EI-2026.2
+025528909,BSC-CS,2026-03-15,16,green,Low forum participation,,,EI-2026.2
+025529361,BSC-CS,2026-03-15,65,amber,Low LMS activity,,,EI-2026.2
+025529481,BA-BUS,2026-03-15,84,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025529781,LLB,2026-03-15,41,green,Reserve-duty absence (accommodations module),,,EI-2026.2
+025529788,BA-BUS,2026-03-15,57,amber,Low forum participation,,,EI-2026.2
+025530091,BSC-CS,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025530216,BA-BEH,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025530488,BA-BUS,2026-03-15,73,red,Low LMS activity,,,EI-2026.2
+025530552,BSC-IEM,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025531520,BSC-CS,2026-03-15,49,amber,Late or missing submissions,,,EI-2026.2
+025532113,BA-BEH,2026-03-15,45,amber,Late or missing submissions,,,EI-2026.2
+025532726,BA-COM,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025532895,BA-BUS,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025533328,BSC-CS,2026-03-15,52,amber,Late or missing submissions,,,EI-2026.2
+025533571,BA-BEH,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025534873,BA-BUS,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025536575,BSC-CS,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025536678,BA-BEH,2026-03-15,37,green,Late or missing submissions,,,EI-2026.2
+025537089,BA-BUS,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025537273,BSC-CS,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025537275,BSC-IEM,2026-03-15,45,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025537573,BA-COM,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025537974,BSC-CS,2026-03-15,75,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025538819,BA-BUS,2026-03-15,41,green,Late or missing submissions,,,EI-2026.2
+025539175,LLB,2026-03-15,28,green,Late or missing submissions,,,EI-2026.2
+025539793,BSC-CS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025540141,BA-BUS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025540982,BA-COM,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025541123,BSC-CS,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025541335,BA-BUS,2026-03-15,47,amber,Late or missing submissions,,,EI-2026.2
+025541891,BSC-CS,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025541967,BSC-CS,2026-03-15,56,amber,Low LMS activity,,,EI-2026.2
+025542316,BA-BUS,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025542712,BA-BUS,2026-03-15,54,amber,Late or missing submissions,,,EI-2026.2
+025542854,BA-COM,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025543130,BSC-CS,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025543495,BSC-IEM,2026-03-15,67,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025543905,BA-BEH,2026-03-15,75,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025544078,BA-BUS,2026-03-15,33,green,Late or missing submissions,,,EI-2026.2
+025544693,BA-BUS,2026-03-15,54,amber,Low forum participation,,,EI-2026.2
+025544806,BA-BUS,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025544914,LLB,2026-03-15,58,amber,Low forum participation,,,EI-2026.2
+025545246,BA-COM,2026-03-15,25,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025545972,BSC-CS,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025546041,BA-BUS,2026-03-15,43,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025546201,BA-BUS,2026-03-15,1,green,Low forum participation,,,EI-2026.2
+025546730,BA-BUS,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025547415,LLB,2026-03-15,21,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025548465,BA-COM,2026-03-15,65,amber,Late or missing submissions,,,EI-2026.2
+025548600,BSC-IEM,2026-03-15,42,green,Late or missing submissions,,,EI-2026.2
+025548870,BA-BEH,2026-03-15,71,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025549679,BA-BEH,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025549729,BSC-CS,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025549780,BSC-CS,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025550028,BSC-IEM,2026-03-15,52,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025550770,BSC-IEM,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025551179,BA-BEH,2026-03-15,58,amber,Low LMS activity,,,EI-2026.2
+025551549,BA-BUS,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025551571,BA-BEH,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025552178,BA-BUS,2026-03-15,63,amber,Low LMS activity,,,EI-2026.2
+025552459,BA-BUS,2026-03-15,70,red,Low LMS activity,,,EI-2026.2
+025552652,BSC-IEM,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025553196,BA-COM,2026-03-15,73,red,Late or missing submissions,,,EI-2026.2
+025553406,BSC-CS,2026-03-15,82,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025553754,BA-COM,2026-03-15,62,amber,Low forum participation,,,EI-2026.2
+025554119,BA-BEH,2026-03-15,73,red,Low LMS activity,,,EI-2026.2
+025554382,BA-BUS,2026-03-15,71,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025554559,BA-BEH,2026-03-15,57,amber,Late or missing submissions,,,EI-2026.2
+025554655,BA-BUS,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025555411,BA-BUS,2026-03-15,27,green,Late or missing submissions,,,EI-2026.2
+025555485,BA-BUS,2026-03-15,33,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025555983,BA-BEH,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025556632,BSC-CS,2026-03-15,30,green,Late or missing submissions,,,EI-2026.2
+025556791,BA-BUS,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025556942,BA-BUS,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025557079,BSC-CS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025557246,LLB,2026-03-15,18,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025557988,BA-BUS,2026-03-15,53,amber,Low forum participation,,,EI-2026.2
+025558187,BA-COM,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025558550,BA-COM,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025558722,BA-BUS,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025559058,BA-BUS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025559164,LLB,2026-03-15,59,amber,Low LMS activity,,,EI-2026.2
+025559428,BA-BEH,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025560100,BA-BUS,2026-03-15,63,amber,Late or missing submissions,,,EI-2026.2
+025560181,BA-COM,2026-03-15,76,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025560728,BSC-IEM,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025561119,BA-BEH,2026-03-15,72,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025561596,BA-BEH,2026-03-15,76,red,Low LMS activity,,,EI-2026.2
+025561738,BA-COM,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025562753,BA-BEH,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025563579,BSC-CS,2026-03-15,63,amber,Low forum participation,,,EI-2026.2
+025563763,BA-BEH,2026-03-15,83,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025563817,BA-BEH,2026-03-15,56,amber,Low LMS activity,,,EI-2026.2
+025564084,LLB,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025564137,BSC-IEM,2026-03-15,53,amber,Low forum participation,,,EI-2026.2
+025564925,BA-BUS,2026-03-15,46,amber,Late or missing submissions,,,EI-2026.2
+025565460,BA-BUS,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025566000,BA-BUS,2026-03-15,55,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025566249,BSC-CS,2026-03-15,84,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025566299,BSC-IEM,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025566601,BA-COM,2026-03-15,33,green,Late or missing submissions,,,EI-2026.2
+025566815,BSC-IEM,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025566906,BSC-CS,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025566981,BA-BUS,2026-03-15,72,red,Low LMS activity,,,EI-2026.2
+025567317,BA-BUS,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025567894,BA-BEH,2026-03-15,61,amber,Late or missing submissions,,,EI-2026.2
+025568101,BSC-CS,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025568323,BSC-CS,2026-03-15,60,amber,Low forum participation,,,EI-2026.2
+025568646,LLB,2026-03-15,64,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025568948,BA-BEH,2026-03-15,63,amber,Low LMS activity,,,EI-2026.2
+025568965,BA-BEH,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025569071,LLB,2026-03-15,10,green,Low forum participation,,,EI-2026.2
+025569369,BSC-CS,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025569544,BSC-IEM,2026-03-15,47,amber,Late or missing submissions,,,EI-2026.2
+025574013,LLB,2026-03-15,74,red,Low LMS activity,,,EI-2026.2
+025574397,BA-BEH,2026-03-15,37,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025574646,BA-BEH,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025574756,BA-BEH,2026-03-15,62,amber,Low forum participation,,,EI-2026.2
+025575210,BSC-CS,2026-03-15,60,amber,Low LMS activity,,,EI-2026.2
+025575436,BA-BEH,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025576105,BSC-CS,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025576830,BA-BEH,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025577420,BA-BEH,2026-03-15,45,amber,Low forum participation,,,EI-2026.2
+025577935,BA-BEH,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025578610,BSC-IEM,2026-03-15,24,green,Late or missing submissions,,,EI-2026.2
+025578716,BA-BUS,2026-03-15,57,amber,Low LMS activity,,,EI-2026.2
+025578776,BSC-IEM,2026-03-15,12,green,Low forum participation,,,EI-2026.2
+025578891,BA-BEH,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025578926,BSC-IEM,2026-03-15,11,green,Low forum participation,,,EI-2026.2
+025579765,BA-BEH,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025580049,LLB,2026-03-15,56,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025580324,BA-BEH,2026-03-15,54,amber,Late or missing submissions,,,EI-2026.2
+025580353,LLB,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025580817,LLB,2026-03-15,50,amber,Late or missing submissions,,,EI-2026.2
+025581068,BA-BUS,2026-03-15,45,amber,Late or missing submissions,,,EI-2026.2
+025581402,BSC-CS,2026-03-15,63,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025583053,BA-BUS,2026-03-15,55,amber,Late or missing submissions,,,EI-2026.2
+025583641,BA-BEH,2026-03-15,55,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025584699,LLB,2026-03-15,17,green,Low forum participation,,,EI-2026.2
+025584861,BA-BEH,2026-03-15,52,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025585009,BSC-IEM,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025585083,LLB,2026-03-15,9,green,Low forum participation,,,EI-2026.2
+025585240,BA-BEH,2026-03-15,20,green,Low forum participation,,,EI-2026.2
+025585389,BSC-CS,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025585907,BSC-CS,2026-03-15,63,amber,Late or missing submissions,,,EI-2026.2
+025586089,BA-COM,2026-03-15,61,amber,Low forum participation,,,EI-2026.2
+025586564,BA-BUS,2026-03-15,53,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025586652,BA-COM,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025586708,BSC-IEM,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025586859,LLB,2026-03-15,44,green,Late or missing submissions,,,EI-2026.2
+025587170,BSC-CS,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025588000,LLB,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025588049,BA-BUS,2026-03-15,50,amber,Late or missing submissions,,,EI-2026.2
+025588267,BA-BUS,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025589386,BA-COM,2026-03-15,20,green,Low forum participation,,,EI-2026.2
+025589694,BA-BUS,2026-03-15,37,green,Late or missing submissions,,,EI-2026.2
+025590380,LLB,2026-03-15,72,red,Low LMS activity,,,EI-2026.2
+025590495,BSC-CS,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025591190,BA-BEH,2026-03-15,61,amber,Low LMS activity,,,EI-2026.2
+025591251,BSC-CS,2026-03-15,53,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025591361,LLB,2026-03-15,55,amber,Low LMS activity,,,EI-2026.2
+025591383,BA-BEH,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025592184,BA-COM,2026-03-15,21,green,Late or missing submissions,,,EI-2026.2
+025592212,BSC-IEM,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025593601,BA-BUS,2026-03-15,21,green,Late or missing submissions,,,EI-2026.2
+025593815,BSC-CS,2026-03-15,38,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025594022,BSC-IEM,2026-03-15,61,amber,Late or missing submissions,,,EI-2026.2
+025594144,BA-BEH,2026-03-15,63,amber,Late or missing submissions,,,EI-2026.2
+025594440,BA-COM,2026-03-15,11,green,Low forum participation,,,EI-2026.2
+025594938,BA-BUS,2026-03-15,54,amber,Low LMS activity,,,EI-2026.2
+025595269,BA-BEH,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025595373,BSC-IEM,2026-03-15,14,green,Low forum participation,,,EI-2026.2
+025595498,BA-BEH,2026-03-15,45,amber,Late or missing submissions,,,EI-2026.2
+025595531,LLB,2026-03-15,80,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025595665,BA-BEH,2026-03-15,64,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025595866,BSC-IEM,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025596599,BA-BUS,2026-03-15,26,green,Late or missing submissions,,,EI-2026.2
+025597148,BA-BUS,2026-03-15,71,red,Low LMS activity,,,EI-2026.2
+025597509,LLB,2026-03-15,74,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025597966,BA-BUS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025598466,BA-BUS,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025598531,BA-BEH,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025598546,BSC-CS,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025599125,BSC-IEM,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025599139,BA-BUS,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025599386,LLB,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025599432,BSC-IEM,2026-03-15,56,amber,Late or missing submissions,,,EI-2026.2
+025599570,LLB,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025599956,BA-BEH,2026-03-15,81,red,Late or missing submissions,,,EI-2026.2
+025600489,BA-BEH,2026-03-15,100,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025600685,BSC-CS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025600863,BSC-CS,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025601015,BA-BUS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025601529,BSC-CS,2026-03-15,71,red,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025601531,BA-BUS,2026-03-15,53,amber,Late or missing submissions,,,EI-2026.2
+025601814,LLB,2026-03-15,62,amber,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025602405,BA-BUS,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025603015,BA-BUS,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025603986,BA-COM,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025603994,BA-COM,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025605028,BSC-CS,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025605963,BSC-IEM,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025606354,LLB,2026-03-15,52,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025606490,BA-BUS,2026-03-15,61,amber,Late or missing submissions,,,EI-2026.2
+025606700,LLB,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025607912,BA-BEH,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025608971,BA-COM,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025609913,BA-COM,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025609984,BA-COM,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025610163,BA-BEH,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025610623,BA-BEH,2026-03-15,88,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025610809,BA-BEH,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025611222,LLB,2026-03-15,28,green,Late or missing submissions,,,EI-2026.2
+025612032,BA-BUS,2026-03-15,63,amber,Low LMS activity,,,EI-2026.2
+025612508,BA-BUS,2026-03-15,65,amber,Late or missing submissions,,,EI-2026.2
+025612509,BSC-IEM,2026-03-15,76,red,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025612617,BA-BEH,2026-03-15,40,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025612876,BA-BUS,2026-03-15,52,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025613099,BSC-CS,2026-03-15,67,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025613193,BSC-IEM,2026-03-15,75,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025614473,BA-BUS,2026-03-15,61,amber,Low forum participation,,,EI-2026.2
+025615998,BA-BUS,2026-03-15,86,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025616205,BSC-IEM,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025616912,BA-BUS,2026-03-15,67,amber,Late or missing submissions,,,EI-2026.2
+025617308,BA-BUS,2026-03-15,38,green,Late or missing submissions,,,EI-2026.2
+025617467,BA-BUS,2026-03-15,57,amber,Low forum participation,,,EI-2026.2
+025617533,BA-COM,2026-03-15,35,green,Late or missing submissions,,,EI-2026.2
+025617615,BA-BUS,2026-03-15,17,green,Low forum participation,,,EI-2026.2
+025618167,BSC-CS,2026-03-15,55,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025618604,BA-BUS,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025618761,BSC-CS,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025618932,BA-BUS,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025618957,BA-BEH,2026-03-15,57,amber,Low LMS activity,,,EI-2026.2
+025619326,BA-BUS,2026-03-15,63,amber,Late or missing submissions,,,EI-2026.2
+025619816,LLB,2026-03-15,60,amber,Late or missing submissions,,,EI-2026.2
+025619838,BA-BEH,2026-03-15,80,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025620346,BSC-CS,2026-03-15,14,green,Low forum participation,,,EI-2026.2
+025620583,BA-BUS,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Medical or learning accommodation on file (accommodations module),EI-2026.2
+025621067,BA-BUS,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025621548,BA-BUS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025621695,BSC-IEM,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025622028,BA-BEH,2026-03-15,65,amber,Low LMS activity,,,EI-2026.2
+025622168,BSC-CS,2026-03-15,56,amber,Low forum participation,,,EI-2026.2
+025622347,BSC-CS,2026-03-15,64,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025622511,BA-BUS,2026-03-15,79,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025622514,LLB,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025623068,LLB,2026-03-15,34,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025623164,LLB,2026-03-15,93,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025623546,BA-BEH,2026-03-15,64,amber,Late or missing submissions,,,EI-2026.2
+025623958,BSC-IEM,2026-03-15,66,amber,Late or missing submissions,,,EI-2026.2
+025624160,BSC-CS,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025624482,BA-BUS,2026-03-15,41,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025624538,BA-COM,2026-03-15,39,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025624783,LLB,2026-03-15,82,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025625424,LLB,2026-03-15,44,green,Late or missing submissions,,,EI-2026.2
+025626175,BA-BUS,2026-03-15,64,amber,Low LMS activity,,,EI-2026.2
+025626285,BA-BEH,2026-03-15,75,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025626738,BA-BUS,2026-03-15,65,amber,Low forum participation,,,EI-2026.2
+025626750,BSC-IEM,2026-03-15,61,amber,Late or missing submissions,,,EI-2026.2
+025627077,BSC-IEM,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025629042,BSC-CS,2026-03-15,90,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025630190,BA-BUS,2026-03-15,8,green,Low forum participation,,,EI-2026.2
+025630363,BA-BEH,2026-03-15,70,red,Low LMS activity,,,EI-2026.2
+025630584,LLB,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025631077,BA-BUS,2026-03-15,83,red,Low LMS activity,,,EI-2026.2
+025631169,BA-BUS,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025631177,BSC-IEM,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025631865,BA-BEH,2026-03-15,47,amber,Late or missing submissions,,,EI-2026.2
+025632188,LLB,2026-03-15,69,amber,Low LMS activity,,,EI-2026.2
+025632228,BA-BUS,2026-03-15,74,red,Late or missing submissions,,,EI-2026.2
+025632849,BA-COM,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025632895,BA-BEH,2026-03-15,47,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025633372,BSC-CS,2026-03-15,62,amber,Late or missing submissions,,,EI-2026.2
+025633487,BA-COM,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025633557,BA-BUS,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025633619,BSC-CS,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025634153,BA-BUS,2026-03-15,31,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025634542,BA-BUS,2026-03-15,71,red,Low LMS activity,,,EI-2026.2
+025634880,BA-BUS,2026-03-15,68,amber,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025634894,BA-BEH,2026-03-15,62,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025635189,BA-COM,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025635221,BA-COM,2026-03-15,30,green,Late or missing submissions,,,EI-2026.2
+025635230,BSC-CS,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025635459,BSC-IEM,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025635846,BA-BUS,2026-03-15,56,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025635953,BSC-CS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025636139,BA-BEH,2026-03-15,23,green,Late or missing submissions,,,EI-2026.2
+025636550,BA-BEH,2026-03-15,37,green,Late or missing submissions,,,EI-2026.2
+025637010,LLB,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025637225,BA-BUS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025637404,BSC-CS,2026-03-15,60,amber,Low LMS activity,,,EI-2026.2
+025638120,BA-COM,2026-03-15,71,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025638154,BSC-IEM,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025638615,BA-BUS,2026-03-15,53,amber,Late or missing submissions,,,EI-2026.2
+025638939,BA-BUS,2026-03-15,44,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025639314,BSC-CS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025639453,BA-BUS,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025639841,BA-COM,2026-03-15,67,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025640039,BA-BUS,2026-03-15,46,amber,Late or missing submissions,,,EI-2026.2
+025640767,LLB,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025641322,LLB,2026-03-15,49,amber,Late or missing submissions,,,EI-2026.2
+025643235,BA-BEH,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025643557,BA-BEH,2026-03-15,64,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025643871,BA-BEH,2026-03-15,55,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025644345,BA-BUS,2026-03-15,28,green,Late or missing submissions,,,EI-2026.2
+025644536,BA-BEH,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025644654,BA-BUS,2026-03-15,75,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025644975,BSC-CS,2026-03-15,78,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025645177,BA-BEH,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025645642,BA-BUS,2026-03-15,41,green,Late or missing submissions,,,EI-2026.2
+025646113,BSC-CS,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025646114,BSC-CS,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025646763,BA-COM,2026-03-15,17,green,Late or missing submissions,,,EI-2026.2
+025647992,BA-BUS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025648240,LLB,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025649169,BSC-CS,2026-03-15,62,amber,Low LMS activity,,,EI-2026.2
+025649422,BSC-IEM,2026-03-15,11,green,Low forum participation,,,EI-2026.2
+025650165,BSC-CS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025650709,BSC-CS,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025651159,BSC-CS,2026-03-15,58,amber,Late or missing submissions,,,EI-2026.2
+025652472,BSC-IEM,2026-03-15,83,red,Low LMS activity,Reserve-duty absence (accommodations module),Medical or learning accommodation on file (accommodations module),EI-2026.2
+025652879,BA-BEH,2026-03-15,63,amber,Low forum participation,,,EI-2026.2
+025653022,BSC-IEM,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025653284,BA-BEH,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025653409,LLB,2026-03-15,75,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025653985,BSC-CS,2026-03-15,58,amber,Low forum participation,,,EI-2026.2
+025655415,BA-BUS,2026-03-15,35,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025656908,BSC-CS,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025657002,BSC-IEM,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025657109,LLB,2026-03-15,45,amber,Low forum participation,,,EI-2026.2
+025657643,BA-BEH,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025658592,BA-BUS,2026-03-15,41,green,Late or missing submissions,,,EI-2026.2
+025659494,BA-BEH,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025659848,LLB,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025661386,BA-BUS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025661689,BSC-CS,2026-03-15,60,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025661806,BA-BUS,2026-03-15,24,green,Late or missing submissions,,,EI-2026.2
+025661969,BA-BEH,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025663130,BA-BEH,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025663610,BA-BUS,2026-03-15,15,green,Late or missing submissions,,,EI-2026.2
+025663710,BA-COM,2026-03-15,32,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025664052,LLB,2026-03-15,11,green,Low forum participation,,,EI-2026.2
+025664331,BA-BUS,2026-03-15,52,amber,Low forum participation,,,EI-2026.2
+025664859,BA-BUS,2026-03-15,57,amber,Low forum participation,,,EI-2026.2
+025664949,LLB,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025667664,BA-BEH,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025667719,BSC-CS,2026-03-15,51,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025669901,BA-BEH,2026-03-15,46,amber,Low LMS activity,,,EI-2026.2
+025670159,LLB,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025671321,BA-BUS,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025671389,BA-BEH,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025671699,BA-COM,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025671921,BA-BUS,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025673475,BSC-CS,2026-03-15,45,amber,Low forum participation,,,EI-2026.2
+025674088,BSC-CS,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025674482,BA-BUS,2026-03-15,52,amber,Late or missing submissions,,,EI-2026.2
+025675371,LLB,2026-03-15,12,green,Late or missing submissions,,,EI-2026.2
+025675466,LLB,2026-03-15,50,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025675468,LLB,2026-03-15,40,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025676249,BA-BEH,2026-03-15,90,red,Low LMS activity,,,EI-2026.2
+025676689,LLB,2026-03-15,23,green,Late or missing submissions,,,EI-2026.2
+025676718,BA-BUS,2026-03-15,49,amber,Late or missing submissions,,,EI-2026.2
+025677033,BSC-CS,2026-03-15,54,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025677732,LLB,2026-03-15,83,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025678054,BSC-IEM,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025678169,BSC-CS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025678754,BA-BEH,2026-03-15,52,amber,Late or missing submissions,,,EI-2026.2
+025678995,BA-COM,2026-03-15,27,green,Late or missing submissions,,,EI-2026.2
+025681346,LLB,2026-03-15,32,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025681383,BA-BUS,2026-03-15,91,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025681657,LLB,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025681695,BSC-IEM,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025681929,BSC-IEM,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025681989,LLB,2026-03-15,68,amber,Low LMS activity,,,EI-2026.2
+025682420,BA-BEH,2026-03-15,84,red,Low LMS activity,,,EI-2026.2
+025683245,BSC-CS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025683530,BA-BUS,2026-03-15,59,amber,Low LMS activity,,,EI-2026.2
+025683672,BSC-IEM,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025683710,BA-BUS,2026-03-15,25,green,Late or missing submissions,,,EI-2026.2
+025684728,BSC-IEM,2026-03-15,81,red,Late or missing submissions,,,EI-2026.2
+025684995,BA-BEH,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025685065,LLB,2026-03-15,65,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025685376,BA-BUS,2026-03-15,69,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025685433,BSC-IEM,2026-03-15,43,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025686603,BA-BUS,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025687379,BA-BUS,2026-03-15,63,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025687914,BA-BEH,2026-03-15,43,green,Reserve-duty absence (accommodations module),,,EI-2026.2
+025688308,LLB,2026-03-15,78,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025688871,BA-BEH,2026-03-15,62,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025689567,BSC-IEM,2026-03-15,63,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025689898,LLB,2026-03-15,89,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025690128,BA-BUS,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025690203,BA-BUS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025690254,BSC-IEM,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025690397,BA-BUS,2026-03-15,37,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025690656,BA-BEH,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025691242,BSC-CS,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025691269,BA-BEH,2026-03-15,56,amber,Low forum participation,,,EI-2026.2
+025691552,BA-BUS,2026-03-15,17,green,Low forum participation,,,EI-2026.2
+025692678,BA-BEH,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025693108,BSC-CS,2026-03-15,79,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025693351,BSC-IEM,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025693519,BA-COM,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025694985,BA-COM,2026-03-15,41,green,Late or missing submissions,,,EI-2026.2
+025695082,LLB,2026-03-15,66,amber,Low LMS activity,,,EI-2026.2
+025696462,BA-COM,2026-03-15,19,green,Late or missing submissions,,,EI-2026.2
+025696721,LLB,2026-03-15,76,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025696804,BA-BEH,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025698571,BA-COM,2026-03-15,63,amber,Late or missing submissions,,,EI-2026.2
+025698791,BA-BUS,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025699027,BA-BEH,2026-03-15,46,amber,Late or missing submissions,,,EI-2026.2
+025699464,BA-BEH,2026-03-15,52,amber,Low forum participation,,,EI-2026.2
+025700050,BA-COM,2026-03-15,31,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025700097,BSC-IEM,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025700669,BSC-CS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025700861,LLB,2026-03-15,30,green,Late or missing submissions,,,EI-2026.2
+025701247,BA-COM,2026-03-15,48,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025701603,BSC-CS,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025702293,BSC-CS,2026-03-15,55,amber,Late or missing submissions,,,EI-2026.2
+025702643,LLB,2026-03-15,55,amber,Late or missing submissions,,,EI-2026.2
+025703062,BA-BEH,2026-03-15,76,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025703181,BA-BEH,2026-03-15,69,amber,Low forum participation,,,EI-2026.2
+025703252,BSC-CS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025703378,BSC-CS,2026-03-15,62,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025703625,BA-BUS,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025704191,BSC-CS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025704803,BA-BEH,2026-03-15,25,green,Late or missing submissions,,,EI-2026.2
+025705237,BA-BEH,2026-03-15,68,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025705368,BA-BEH,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025705637,BA-BUS,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025706004,BA-COM,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025706242,BA-BEH,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025707767,BA-BUS,2026-03-15,65,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025707791,BA-BEH,2026-03-15,60,amber,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025708031,BA-COM,2026-03-15,58,amber,Late or missing submissions,,,EI-2026.2
+025708307,BA-BEH,2026-03-15,68,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025708780,BSC-CS,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025709494,BSC-IEM,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025709846,BA-BEH,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025709878,BSC-CS,2026-03-15,44,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025710148,BA-BEH,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025710732,BA-BUS,2026-03-15,3,green,Low forum participation,,,EI-2026.2
+025711167,BSC-CS,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025711904,BA-COM,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025712176,BSC-CS,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025712439,BA-BUS,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025712581,BSC-CS,2026-03-15,66,amber,Low LMS activity,,,EI-2026.2
+025713076,BA-BUS,2026-03-15,71,red,Low LMS activity,,,EI-2026.2
+025713856,BA-BEH,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025713930,BA-BUS,2026-03-15,72,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025713999,BSC-CS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025714335,BSC-IEM,2026-03-15,42,green,Late or missing submissions,,,EI-2026.2
+025714753,BA-BUS,2026-03-15,71,red,Low LMS activity,,,EI-2026.2
+025715033,BSC-IEM,2026-03-15,53,amber,Low forum participation,,,EI-2026.2
+025715554,BSC-IEM,2026-03-15,85,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025715680,BSC-CS,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025716305,BA-BUS,2026-03-15,50,amber,Late or missing submissions,,,EI-2026.2
+025716701,BA-BEH,2026-03-15,52,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025716795,BA-COM,2026-03-15,24,green,Late or missing submissions,,,EI-2026.2
+025717317,BSC-IEM,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025718179,LLB,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025718325,BA-COM,2026-03-15,90,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025718492,LLB,2026-03-15,53,amber,Low forum participation,,,EI-2026.2
+025718540,BSC-CS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025718646,BA-BUS,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025719258,BA-BUS,2026-03-15,75,red,Late or missing submissions,,,EI-2026.2
+025719326,BSC-CS,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025719494,BA-COM,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025719967,BA-BUS,2026-03-15,64,amber,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025720147,BA-BUS,2026-03-15,64,amber,Low LMS activity,,,EI-2026.2
+025720176,LLB,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025720563,BA-BUS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025721919,LLB,2026-03-15,52,amber,Late or missing submissions,,,EI-2026.2
+025721989,LLB,2026-03-15,65,amber,Low LMS activity,,,EI-2026.2
+025721993,BSC-IEM,2026-03-15,49,amber,Late or missing submissions,,,EI-2026.2
+025722457,BSC-IEM,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025722754,BA-BEH,2026-03-15,6,green,Low forum participation,,,EI-2026.2
+025722956,LLB,2026-03-15,48,amber,Late or missing submissions,,,EI-2026.2
+025723078,BA-BUS,2026-03-15,32,green,Late or missing submissions,,,EI-2026.2
+025724038,BA-BUS,2026-03-15,11,green,Low forum participation,,,EI-2026.2
+025724118,BA-COM,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025724657,BA-BEH,2026-03-15,38,green,Reserve-duty absence (accommodations module),,,EI-2026.2
+025724687,BA-BUS,2026-03-15,57,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025724979,BA-BEH,2026-03-15,50,amber,Late or missing submissions,,,EI-2026.2
+025725035,BSC-CS,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025725059,BA-BUS,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025726163,BSC-IEM,2026-03-15,67,amber,Late or missing submissions,,,EI-2026.2
+025726415,LLB,2026-03-15,35,green,Late or missing submissions,,,EI-2026.2
+025726442,BSC-CS,2026-03-15,54,amber,Low forum participation,,,EI-2026.2
+025726520,BSC-IEM,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025727150,BA-BUS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025727179,BA-BUS,2026-03-15,69,amber,Low LMS activity,,,EI-2026.2
+025727783,LLB,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025728009,BA-COM,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025728876,BA-BEH,2026-03-15,62,amber,Late or missing submissions,,,EI-2026.2
+025729697,BSC-IEM,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025729959,BA-BUS,2026-03-15,47,amber,Late or missing submissions,,,EI-2026.2
+025730218,BA-BEH,2026-03-15,70,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025731044,BA-BUS,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025731045,BA-BUS,2026-03-15,50,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025732151,BA-BEH,2026-03-15,55,amber,Late or missing submissions,,,EI-2026.2
+025732212,BA-BUS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025732643,BA-BUS,2026-03-15,87,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025732759,LLB,2026-03-15,35,green,Late or missing submissions,,,EI-2026.2
+025733314,BA-COM,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025733477,BA-BUS,2026-03-15,52,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025733560,BSC-CS,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025733729,LLB,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025733819,BA-BEH,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025734061,BA-BUS,2026-03-15,51,amber,Late or missing submissions,,,EI-2026.2
+025735375,BA-COM,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025735852,BA-BEH,2026-03-15,71,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025735858,BSC-CS,2026-03-15,95,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025736524,BSC-CS,2026-03-15,87,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025736647,BA-BUS,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025737268,BSC-CS,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025737417,BA-BUS,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025737933,BSC-IEM,2026-03-15,34,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025738752,BA-BUS,2026-03-15,11,green,Late or missing submissions,,,EI-2026.2
+025738881,BA-BUS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025739032,BA-BUS,2026-03-15,53,amber,Late or missing submissions,,,EI-2026.2
+025739141,BA-BEH,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025739242,BA-BUS,2026-03-15,10,green,Low forum participation,,,EI-2026.2
+025740016,BA-BEH,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025740024,BA-BUS,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025740124,BA-BEH,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025740375,BA-BEH,2026-03-15,16,green,Low forum participation,,,EI-2026.2
+025740666,BA-BEH,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025741165,BA-BUS,2026-03-15,98,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025741638,BSC-CS,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025742031,BA-BUS,2026-03-15,42,green,Late or missing submissions,,,EI-2026.2
+025742197,BA-BEH,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025742245,LLB,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025742400,LLB,2026-03-15,49,amber,Late or missing submissions,,,EI-2026.2
+025743035,BA-BEH,2026-03-15,82,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025743888,BA-BUS,2026-03-15,77,red,Low LMS activity,,,EI-2026.2
+025744295,BSC-CS,2026-03-15,75,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025745382,BA-BUS,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025745464,LLB,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025745967,LLB,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025745968,BA-BUS,2026-03-15,49,amber,Late or missing submissions,,,EI-2026.2
+025746362,BA-COM,2026-03-15,59,amber,Low forum participation,,,EI-2026.2
+025746928,BSC-CS,2026-03-15,97,red,Low LMS activity,Late or missing submissions,Medical or learning accommodation on file (accommodations module),EI-2026.2
+025748143,BSC-CS,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025748537,BSC-IEM,2026-03-15,70,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025748621,LLB,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025748637,BA-BUS,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025748969,LLB,2026-03-15,58,amber,Late or missing submissions,,,EI-2026.2
+025749335,BA-BEH,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025749347,BA-BUS,2026-03-15,55,amber,Low forum participation,,,EI-2026.2
+025749355,BSC-CS,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025749931,BA-BUS,2026-03-15,52,amber,Low forum participation,,,EI-2026.2
+025750840,LLB,2026-03-15,55,amber,Low LMS activity,,,EI-2026.2
+025751019,BSC-CS,2026-03-15,54,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025751289,BA-COM,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025751575,BA-BUS,2026-03-15,55,amber,Late or missing submissions,,,EI-2026.2
+025752240,BSC-IEM,2026-03-15,57,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025752750,BA-BUS,2026-03-15,61,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025752829,BSC-CS,2026-03-15,6,green,Low forum participation,,,EI-2026.2
+025753420,BA-BEH,2026-03-15,53,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025754307,BA-BUS,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025754408,BSC-CS,2026-03-15,10,green,Low forum participation,,,EI-2026.2
+025754783,BSC-CS,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025755549,BSC-CS,2026-03-15,52,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025755610,BSC-CS,2026-03-15,58,amber,Late or missing submissions,,,EI-2026.2
+025756562,BSC-CS,2026-03-15,67,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025757044,BA-BEH,2026-03-15,65,amber,Low LMS activity,,,EI-2026.2
+025757906,LLB,2026-03-15,95,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025757941,BA-BUS,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025758597,BA-BUS,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025758685,BA-BEH,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025758697,BSC-CS,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025759045,BA-BUS,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025759136,BSC-CS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025759618,BSC-CS,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025759736,BA-BUS,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025760126,BA-BUS,2026-03-15,62,amber,Late or missing submissions,,,EI-2026.2
+025760515,BSC-CS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025760537,BA-BUS,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025760951,BSC-IEM,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025760960,BA-BUS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025762793,BA-BEH,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025763088,BA-BUS,2026-03-15,83,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025764172,BA-BUS,2026-03-15,92,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025765156,BA-COM,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025765263,BA-BEH,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025765659,BA-BEH,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025766222,BA-BEH,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025766251,BA-BEH,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025766336,BA-COM,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025766505,BA-BUS,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025766781,BA-BUS,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025767769,BA-BEH,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025768597,BA-BEH,2026-03-15,68,amber,Late or missing submissions,,,EI-2026.2
+025768695,BA-BEH,2026-03-15,29,green,Late or missing submissions,,,EI-2026.2
+025769327,BA-BUS,2026-03-15,61,amber,Low forum participation,,,EI-2026.2
+025769358,BA-BEH,2026-03-15,58,amber,Late or missing submissions,,,EI-2026.2
+025769902,BA-BEH,2026-03-15,61,amber,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025771028,LLB,2026-03-15,68,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025771091,LLB,2026-03-15,35,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025771572,BSC-CS,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025772341,BA-BUS,2026-03-15,47,amber,Late or missing submissions,,,EI-2026.2
+025772413,BA-BEH,2026-03-15,55,amber,Low forum participation,,,EI-2026.2
+025773301,BSC-CS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025773334,BSC-CS,2026-03-15,27,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025773351,BSC-CS,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025773729,LLB,2026-03-15,51,amber,Low forum participation,,,EI-2026.2
+025773960,BA-BUS,2026-03-15,56,amber,Low forum participation,,,EI-2026.2
+025774074,BA-BUS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025774112,BA-BUS,2026-03-15,22,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025775238,LLB,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025775328,BSC-CS,2026-03-15,82,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025775448,BSC-IEM,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025775499,BA-BUS,2026-03-15,71,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025775516,BSC-CS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025776463,BSC-IEM,2026-03-15,11,green,Low forum participation,,,EI-2026.2
+025778292,LLB,2026-03-15,84,red,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025778404,BA-BUS,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025778856,BA-BEH,2026-03-15,42,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025779133,BSC-IEM,2026-03-15,16,green,Low forum participation,,,EI-2026.2
+025779272,BA-BUS,2026-03-15,81,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025779351,BA-COM,2026-03-15,74,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025779536,BA-BUS,2026-03-15,7,green,Low forum participation,,,EI-2026.2
+025780436,BA-BUS,2026-03-15,51,amber,Late or missing submissions,,,EI-2026.2
+025780900,BA-COM,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025780982,BA-BEH,2026-03-15,85,red,Low LMS activity,Late or missing submissions,Medical or learning accommodation on file (accommodations module),EI-2026.2
+025781221,LLB,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025781230,BA-COM,2026-03-15,50,amber,Late or missing submissions,,,EI-2026.2
+025781291,BA-COM,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025782152,BA-BUS,2026-03-15,33,green,Late or missing submissions,,,EI-2026.2
+025782205,BSC-CS,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025782980,BA-BUS,2026-03-15,60,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025783026,BA-BUS,2026-03-15,59,amber,Low forum participation,,,EI-2026.2
+025783899,BA-COM,2026-03-15,56,amber,Low forum participation,,,EI-2026.2
+025784022,BSC-CS,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025784480,BA-BEH,2026-03-15,68,amber,Low LMS activity,,,EI-2026.2
+025784972,BA-BUS,2026-03-15,73,red,Low LMS activity,,,EI-2026.2
+025785414,BA-BUS,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025786427,LLB,2026-03-15,70,red,Low LMS activity,,,EI-2026.2
+025786576,BSC-CS,2026-03-15,57,amber,Late or missing submissions,,,EI-2026.2
+025786595,LLB,2026-03-15,64,amber,Low LMS activity,,,EI-2026.2
+025787932,BA-COM,2026-03-15,60,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025788496,BA-COM,2026-03-15,68,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025788556,BSC-CS,2026-03-15,72,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025788995,BSC-IEM,2026-03-15,46,amber,Late or missing submissions,,,EI-2026.2
+025789072,BA-BUS,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025789743,BA-BUS,2026-03-15,70,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025789905,BA-BUS,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025790113,BA-BEH,2026-03-15,85,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025791120,LLB,2026-03-15,68,amber,Late or missing submissions,,,EI-2026.2
+025791270,BA-BUS,2026-03-15,52,amber,Late or missing submissions,,,EI-2026.2
+025791509,BSC-IEM,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025791595,BA-BUS,2026-03-15,61,amber,Low LMS activity,,,EI-2026.2
+025791786,LLB,2026-03-15,67,amber,Low LMS activity,,,EI-2026.2
+025792108,BSC-CS,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025792309,BA-BUS,2026-03-15,97,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025792734,LLB,2026-03-15,69,amber,Low LMS activity,,,EI-2026.2
+025792813,BSC-IEM,2026-03-15,33,green,Late or missing submissions,,,EI-2026.2
+025793009,LLB,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025793708,BSC-IEM,2026-03-15,63,amber,Late or missing submissions,,,EI-2026.2
+025794126,LLB,2026-03-15,55,amber,Low LMS activity,,,EI-2026.2
+025794369,BA-BUS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025794505,BA-BUS,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025794914,BA-BEH,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025795076,BA-BUS,2026-03-15,12,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025795209,LLB,2026-03-15,13,green,Low forum participation,,,EI-2026.2
+025795679,BA-BUS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025795827,LLB,2026-03-15,67,amber,Low LMS activity,,,EI-2026.2
+025795992,BSC-CS,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025796581,BA-COM,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025797105,BA-BUS,2026-03-15,65,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025797194,LLB,2026-03-15,20,green,Low forum participation,,,EI-2026.2
+025797851,BA-BUS,2026-03-15,52,amber,Late or missing submissions,,,EI-2026.2
+025799300,BA-BEH,2026-03-15,73,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025799545,BA-COM,2026-03-15,37,green,Late or missing submissions,,,EI-2026.2
+025799572,BA-BUS,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025800365,BA-BUS,2026-03-15,58,amber,Late or missing submissions,,,EI-2026.2
+025800531,BA-BUS,2026-03-15,55,amber,Low forum participation,,,EI-2026.2
+025800946,LLB,2026-03-15,65,amber,Low forum participation,,,EI-2026.2
+025801018,LLB,2026-03-15,26,green,Late or missing submissions,,,EI-2026.2
+025801115,BSC-IEM,2026-03-15,80,red,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025801374,BA-COM,2026-03-15,46,amber,Late or missing submissions,,,EI-2026.2
+025801736,BA-BEH,2026-03-15,53,amber,Low forum participation,,,EI-2026.2
+025801927,BSC-IEM,2026-03-15,30,green,Late or missing submissions,,,EI-2026.2
+025802637,BA-COM,2026-03-15,65,amber,Late or missing submissions,,,EI-2026.2
+025804060,BA-BUS,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025804983,LLB,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025804984,BA-BEH,2026-03-15,32,green,Reserve-duty absence (accommodations module),,,EI-2026.2
+025805800,BA-BUS,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025806119,BA-BUS,2026-03-15,57,amber,Late or missing submissions,,,EI-2026.2
+025806811,BA-BUS,2026-03-15,51,amber,Low forum participation,,,EI-2026.2
+025807139,BA-BUS,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025807143,LLB,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025807304,BSC-CS,2026-03-15,51,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025807495,LLB,2026-03-15,52,amber,Low forum participation,,,EI-2026.2
+025807536,BA-BUS,2026-03-15,67,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025807704,BA-BUS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025808290,BA-BEH,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025808582,LLB,2026-03-15,99,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025808695,BSC-IEM,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025808835,BA-BEH,2026-03-15,21,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025808850,BA-COM,2026-03-15,80,red,Late or missing submissions,,,EI-2026.2
+025809208,BA-BUS,2026-03-15,65,amber,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025809851,BA-BUS,2026-03-15,76,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025809995,BA-COM,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025810064,BSC-CS,2026-03-15,25,green,Late or missing submissions,,,EI-2026.2
+025810649,BSC-CS,2026-03-15,22,green,Late or missing submissions,,,EI-2026.2
+025810740,BA-BUS,2026-03-15,32,green,Late or missing submissions,,,EI-2026.2
+025810774,BA-BEH,2026-03-15,89,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025810775,BSC-IEM,2026-03-15,62,amber,Low LMS activity,,,EI-2026.2
+025810807,BA-BEH,2026-03-15,45,amber,Late or missing submissions,,,EI-2026.2
+025811258,BA-BUS,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025811445,BA-BEH,2026-03-15,56,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025811619,BSC-IEM,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025811917,BA-BEH,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025812017,BA-BUS,2026-03-15,44,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025812505,BA-BUS,2026-03-15,30,green,Late or missing submissions,,,EI-2026.2
+025813635,BA-COM,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025813676,BA-BUS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025814593,LLB,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025814880,LLB,2026-03-15,52,amber,Late or missing submissions,,,EI-2026.2
+025815005,LLB,2026-03-15,83,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025815083,BA-BUS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025815085,BA-BUS,2026-03-15,90,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025815257,BA-BEH,2026-03-15,0,green,Low forum participation,,,EI-2026.2
+025815733,BSC-CS,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025816436,BA-BEH,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025817135,BA-BUS,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025817181,BA-BEH,2026-03-15,31,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025818758,LLB,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025819042,LLB,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025819185,LLB,2026-03-15,59,amber,Low forum participation,,,EI-2026.2
+025819196,BA-BUS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025819555,BA-BUS,2026-03-15,68,amber,Low LMS activity,,,EI-2026.2
+025819887,BA-BEH,2026-03-15,85,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025820091,BSC-CS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025821122,BA-BUS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025821426,BSC-IEM,2026-03-15,43,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025821438,BA-COM,2026-03-15,52,amber,Low forum participation,,,EI-2026.2
+025821609,LLB,2026-03-15,74,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025822398,BA-BUS,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025822456,BA-BUS,2026-03-15,54,amber,Low forum participation,,,EI-2026.2
+025823027,BSC-CS,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025823936,BA-BUS,2026-03-15,63,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025824072,LLB,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025824266,BSC-IEM,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025824487,BA-BEH,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025824826,LLB,2026-03-15,60,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025825071,LLB,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025825670,LLB,2026-03-15,86,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025826347,BSC-IEM,2026-03-15,93,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025826591,BSC-CS,2026-03-15,28,green,Low forum participation,,,EI-2026.2
+025826607,BA-COM,2026-03-15,53,amber,Late or missing submissions,,,EI-2026.2
+025827503,BA-BEH,2026-03-15,77,red,Low LMS activity,,,EI-2026.2
+025827739,BA-BUS,2026-03-15,66,amber,Low LMS activity,,,EI-2026.2
+025829511,BSC-CS,2026-03-15,37,green,Late or missing submissions,,,EI-2026.2
+025830122,BA-BUS,2026-03-15,35,green,Late or missing submissions,,,EI-2026.2
+025830329,BSC-CS,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025830426,BSC-CS,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025830648,BA-BEH,2026-03-15,44,green,Late or missing submissions,,,EI-2026.2
+025830974,BSC-CS,2026-03-15,0,green,Low forum participation,,,EI-2026.2
+025831085,LLB,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025832762,BSC-IEM,2026-03-15,44,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025833500,LLB,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025833774,BA-BUS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025833831,BA-BEH,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025834773,BA-BUS,2026-03-15,23,green,Late or missing submissions,,,EI-2026.2
+025834864,BA-COM,2026-03-15,38,green,Late or missing submissions,,,EI-2026.2
+025835154,BA-BUS,2026-03-15,40,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025835484,BA-BUS,2026-03-15,50,amber,Late or missing submissions,,,EI-2026.2
+025835703,BSC-CS,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025835826,BA-BUS,2026-03-15,42,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025836241,BA-BEH,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025836452,BA-BUS,2026-03-15,32,green,Late or missing submissions,,,EI-2026.2
+025837317,BSC-CS,2026-03-15,77,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025837576,BA-BUS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025838016,BA-BUS,2026-03-15,45,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025838188,BSC-CS,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025838276,BA-BEH,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025838632,BA-BEH,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025838835,BA-BUS,2026-03-15,21,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025839154,BA-BUS,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025840928,BA-BUS,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025841780,BA-BUS,2026-03-15,61,amber,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025842444,BA-BUS,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025842785,BSC-IEM,2026-03-15,58,amber,Late or missing submissions,,,EI-2026.2
+025843208,BSC-CS,2026-03-15,55,amber,Low LMS activity,,,EI-2026.2
+025843655,BA-COM,2026-03-15,45,amber,Low forum participation,,,EI-2026.2
+025844444,BA-BEH,2026-03-15,81,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025845593,BA-BUS,2026-03-15,51,amber,Low forum participation,,,EI-2026.2
+025846020,BA-BUS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025846175,BSC-CS,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025846298,BA-BUS,2026-03-15,57,amber,Low forum participation,,,EI-2026.2
+025846553,BSC-IEM,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025847015,BA-BUS,2026-03-15,45,amber,Late or missing submissions,,,EI-2026.2
+025847211,BA-BEH,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025847368,BA-BEH,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025847435,BA-BUS,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025847448,BSC-CS,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025847500,BSC-IEM,2026-03-15,63,amber,Low LMS activity,,,EI-2026.2
+025847872,BA-COM,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025848711,BSC-IEM,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025848857,BSC-CS,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025848888,BA-BUS,2026-03-15,59,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025849421,BA-BUS,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025850233,BSC-CS,2026-03-15,63,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025850543,BSC-IEM,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025850779,BA-BEH,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025850828,BA-COM,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025851206,BA-BUS,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025851405,BSC-IEM,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025851951,BA-BEH,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025852010,BA-BUS,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025852633,BA-BEH,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025852659,LLB,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025852666,BA-COM,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025852908,BA-BEH,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025853403,BA-BUS,2026-03-15,17,green,Low forum participation,,,EI-2026.2
+025853416,BSC-CS,2026-03-15,71,red,Low LMS activity,,,EI-2026.2
+025853499,BSC-CS,2026-03-15,48,amber,Late or missing submissions,,,EI-2026.2
+025853829,BA-BUS,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025853877,LLB,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025854128,BA-COM,2026-03-15,34,green,Late or missing submissions,,,EI-2026.2
+025854370,BA-BUS,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025854528,BA-BEH,2026-03-15,77,red,Low LMS activity,,,EI-2026.2
+025854555,BA-BUS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025854558,BA-BEH,2026-03-15,51,amber,Late or missing submissions,,,EI-2026.2
+025856200,LLB,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025856645,BA-BUS,2026-03-15,16,green,Low forum participation,,,EI-2026.2
+025856944,BSC-IEM,2026-03-15,9,green,Late or missing submissions,,,EI-2026.2
+025858006,BSC-IEM,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025858125,BA-BEH,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025858740,BA-COM,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025859330,BSC-IEM,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025859369,BA-BUS,2026-03-15,71,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025859582,BA-BEH,2026-03-15,55,amber,Late or missing submissions,,,EI-2026.2
+025859602,BA-BUS,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025859743,LLB,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025863039,BA-BEH,2026-03-15,61,amber,Low forum participation,,,EI-2026.2
+025863054,BA-BUS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025863135,BA-BEH,2026-03-15,14,green,Low forum participation,,,EI-2026.2
+025864288,LLB,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025865891,BSC-CS,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025866365,BA-BEH,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025866697,BA-BEH,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025867032,LLB,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025867333,BA-BUS,2026-03-15,62,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025867968,BA-BEH,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025868471,LLB,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025868836,BA-BUS,2026-03-15,74,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025869033,BSC-IEM,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025869083,BA-BUS,2026-03-15,53,amber,Low forum participation,,,EI-2026.2
+025869474,BSC-CS,2026-03-15,6,green,Late or missing submissions,,,EI-2026.2
+025869500,BA-BUS,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025869695,BA-BEH,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025869700,BA-BEH,2026-03-15,91,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025870725,BA-BEH,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025870933,BSC-IEM,2026-03-15,95,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025871886,BA-COM,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025872835,BSC-IEM,2026-03-15,45,amber,Low forum participation,,,EI-2026.2
+025872938,BA-BEH,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025873147,BA-BEH,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025873169,BA-BUS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025873404,BSC-CS,2026-03-15,72,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025873818,BSC-IEM,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025874329,BSC-CS,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025874454,BSC-CS,2026-03-15,16,green,Low forum participation,,,EI-2026.2
+025874666,BA-BUS,2026-03-15,45,amber,Late or missing submissions,,,EI-2026.2
+025874845,BSC-CS,2026-03-15,45,amber,Low forum participation,,,EI-2026.2
+025875158,BA-BEH,2026-03-15,47,amber,Late or missing submissions,,,EI-2026.2
+025875359,BSC-IEM,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025875380,BA-BUS,2026-03-15,64,amber,Low LMS activity,,,EI-2026.2
+025875743,BA-COM,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025876442,LLB,2026-03-15,6,green,Low forum participation,,,EI-2026.2
+025876583,LLB,2026-03-15,57,amber,Low forum participation,,,EI-2026.2
+025876841,LLB,2026-03-15,55,amber,Late or missing submissions,,,EI-2026.2
+025877252,BSC-CS,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025877738,BSC-CS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025877799,BA-BEH,2026-03-15,82,red,Low LMS activity,,,EI-2026.2
+025878002,BA-BUS,2026-03-15,83,red,Low LMS activity,Late or missing submissions,Medical or learning accommodation on file (accommodations module),EI-2026.2
+025879669,BA-BUS,2026-03-15,75,red,Low LMS activity,Late or missing submissions,Medical or learning accommodation on file (accommodations module),EI-2026.2
+025879776,BA-BEH,2026-03-15,5,green,Low forum participation,,,EI-2026.2
+025880188,BA-BEH,2026-03-15,17,green,Low forum participation,,,EI-2026.2
+025880516,BSC-CS,2026-03-15,28,green,Late or missing submissions,,,EI-2026.2
+025880543,LLB,2026-03-15,77,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025881339,BSC-CS,2026-03-15,11,green,Low forum participation,,,EI-2026.2
+025881463,LLB,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025881556,BA-COM,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025881570,BA-COM,2026-03-15,76,red,Late or missing submissions,Reserve-duty absence (accommodations module),Medical or learning accommodation on file (accommodations module),EI-2026.2
+025882533,BA-BUS,2026-03-15,26,green,Late or missing submissions,,,EI-2026.2
+025882588,BA-COM,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025882615,BA-BEH,2026-03-15,75,red,Low LMS activity,,,EI-2026.2
+025883283,BA-BUS,2026-03-15,84,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025885158,LLB,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025885714,BSC-CS,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025887153,BSC-IEM,2026-03-15,23,green,Late or missing submissions,,,EI-2026.2
+025887221,LLB,2026-03-15,51,amber,Low forum participation,,,EI-2026.2
+025887242,BSC-CS,2026-03-15,78,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025888186,LLB,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025888533,BA-BEH,2026-03-15,67,amber,Low LMS activity,,,EI-2026.2
+025889017,BA-BUS,2026-03-15,69,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025889960,LLB,2026-03-15,54,amber,Late or missing submissions,,,EI-2026.2
+025890235,BA-BUS,2026-03-15,77,red,Reserve-duty absence (accommodations module),Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025890605,BA-BUS,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025892654,BA-BUS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025892708,BA-BUS,2026-03-15,37,green,Late or missing submissions,,,EI-2026.2
+025893271,BA-BUS,2026-03-15,55,amber,Low forum participation,,,EI-2026.2
+025893573,BA-BEH,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025893886,BSC-CS,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025894252,BA-COM,2026-03-15,49,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025895883,BSC-CS,2026-03-15,52,amber,Low forum participation,,,EI-2026.2
+025896190,BSC-IEM,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025898028,BA-BUS,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025898143,BA-BUS,2026-03-15,62,amber,Low LMS activity,,,EI-2026.2
+025899139,BSC-IEM,2026-03-15,46,amber,Late or missing submissions,,,EI-2026.2
+025899182,BSC-IEM,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025899860,BA-COM,2026-03-15,16,green,Low forum participation,,,EI-2026.2
+025899910,BSC-CS,2026-03-15,81,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025900226,LLB,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025900545,LLB,2026-03-15,47,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025900906,BA-BEH,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025901650,BA-BEH,2026-03-15,88,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025902315,BA-BEH,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025902966,LLB,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025904107,BA-BUS,2026-03-15,27,green,Late or missing submissions,,,EI-2026.2
+025904129,BA-BUS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025904695,BA-BEH,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025905366,BA-BUS,2026-03-15,63,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025905557,BSC-IEM,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025907358,BA-BUS,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025907641,BA-BEH,2026-03-15,57,amber,Late or missing submissions,,,EI-2026.2
+025907703,BA-BEH,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025908651,LLB,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025909511,BA-BUS,2026-03-15,74,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025909587,BSC-CS,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025909710,BA-BUS,2026-03-15,86,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025910078,LLB,2026-03-15,49,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025910272,BA-BUS,2026-03-15,56,amber,Late or missing submissions,,,EI-2026.2
+025910538,BA-BUS,2026-03-15,59,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025910724,BA-BUS,2026-03-15,50,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025910799,BA-BEH,2026-03-15,64,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025910854,BA-BUS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025911018,BSC-CS,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025911319,BA-COM,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025911521,BA-BEH,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025911564,BA-BEH,2026-03-15,50,amber,Late or missing submissions,,,EI-2026.2
+025912245,BA-BUS,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025912281,BSC-IEM,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025912300,BA-BUS,2026-03-15,53,amber,Low forum participation,,,EI-2026.2
+025912333,BSC-IEM,2026-03-15,71,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025912431,BSC-CS,2026-03-15,62,amber,Low LMS activity,,,EI-2026.2
+025912481,LLB,2026-03-15,67,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025912871,BA-BEH,2026-03-15,77,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025913415,BA-BUS,2026-03-15,69,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025913724,BA-BUS,2026-03-15,50,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025913824,BSC-IEM,2026-03-15,58,amber,Low LMS activity,,,EI-2026.2
+025913935,BA-COM,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025913953,BSC-CS,2026-03-15,70,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025913968,BA-BEH,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025914403,BA-BUS,2026-03-15,36,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025914968,BA-BUS,2026-03-15,65,amber,Low LMS activity,,,EI-2026.2
+025915083,BA-BUS,2026-03-15,87,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025915410,BSC-CS,2026-03-15,83,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025916027,LLB,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025916863,BA-BUS,2026-03-15,46,amber,Late or missing submissions,,,EI-2026.2
+025917560,BA-BUS,2026-03-15,16,green,Late or missing submissions,,,EI-2026.2
+025918002,BA-BEH,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025918454,BA-BEH,2026-03-15,63,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025918601,BSC-CS,2026-03-15,55,amber,Low forum participation,,,EI-2026.2
+025918828,BA-BUS,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025919588,BSC-CS,2026-03-15,63,amber,Late or missing submissions,,,EI-2026.2
+025919889,BSC-CS,2026-03-15,11,green,Late or missing submissions,,,EI-2026.2
+025920028,BA-BEH,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025920183,BA-BUS,2026-03-15,56,amber,Low forum participation,,,EI-2026.2
+025920932,BA-BUS,2026-03-15,31,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025921307,BSC-CS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025921993,BSC-CS,2026-03-15,63,amber,Late or missing submissions,,,EI-2026.2
+025922521,BA-BEH,2026-03-15,25,green,Low forum participation,,,EI-2026.2
+025922948,BA-COM,2026-03-15,26,green,Late or missing submissions,,,EI-2026.2
+025923596,BA-BEH,2026-03-15,9,green,Low forum participation,,,EI-2026.2
+025923683,BA-COM,2026-03-15,46,amber,Low LMS activity,,,EI-2026.2
+025925339,LLB,2026-03-15,39,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025925385,BA-COM,2026-03-15,22,green,Low forum participation,,,EI-2026.2
+025925425,BA-BUS,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025926064,BA-BEH,2026-03-15,3,green,Low forum participation,,,EI-2026.2
+025926331,BSC-CS,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025926915,BSC-CS,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025928153,BA-BEH,2026-03-15,6,green,Low forum participation,,,EI-2026.2
+025928436,BA-BUS,2026-03-15,43,green,Late or missing submissions,,,EI-2026.2
+025928604,BA-BEH,2026-03-15,48,amber,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025930047,BSC-IEM,2026-03-15,41,green,Low forum participation,,,EI-2026.2
+025930357,BA-BEH,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025930765,BSC-CS,2026-03-15,18,green,Low forum participation,,,EI-2026.2
+025930848,BA-BUS,2026-03-15,54,amber,Late or missing submissions,,,EI-2026.2
+025931322,BSC-IEM,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025931485,BSC-CS,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025931577,BA-BEH,2026-03-15,39,green,Late or missing submissions,,,EI-2026.2
+025931593,BSC-CS,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025931739,BA-BEH,2026-03-15,80,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025932014,BSC-CS,2026-03-15,59,amber,Low forum participation,,,EI-2026.2
+025932296,BSC-CS,2026-03-15,78,red,Low LMS activity,,,EI-2026.2
+025933409,LLB,2026-03-15,74,red,Low LMS activity,,,EI-2026.2
+025933604,BA-BEH,2026-03-15,58,amber,Low forum participation,,,EI-2026.2
+025934067,BSC-CS,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025934086,BA-BEH,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025935010,BSC-CS,2026-03-15,31,green,Late or missing submissions,,,EI-2026.2
+025935184,LLB,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025935277,BSC-CS,2026-03-15,52,amber,Low forum participation,,,EI-2026.2
+025935289,BA-BUS,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025936030,BA-BUS,2026-03-15,56,amber,Late or missing submissions,,,EI-2026.2
+025936954,LLB,2026-03-15,65,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025937356,BA-BEH,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025937557,BSC-CS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025937715,BA-COM,2026-03-15,75,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025938227,LLB,2026-03-15,35,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025938774,BA-COM,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025938937,BA-BEH,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025939603,BA-BEH,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025939896,LLB,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025940133,LLB,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025940326,BSC-IEM,2026-03-15,72,red,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025940566,BA-BEH,2026-03-15,20,green,Low forum participation,,,EI-2026.2
+025940726,BSC-IEM,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025941532,LLB,2026-03-15,27,green,Medical or learning accommodation on file (accommodations module),,,EI-2026.2
+025942827,LLB,2026-03-15,25,green,Late or missing submissions,,,EI-2026.2
+025943169,BA-BEH,2026-03-15,58,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025943195,LLB,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025943567,BSC-IEM,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025946007,BA-COM,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025946062,BA-BEH,2026-03-15,38,green,Low forum participation,,,EI-2026.2
+025946791,BA-BEH,2026-03-15,16,green,Low forum participation,,,EI-2026.2
+025947248,BA-BEH,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025947664,BA-BEH,2026-03-15,75,red,Low LMS activity,,,EI-2026.2
+025947831,BA-BUS,2026-03-15,36,green,Late or missing submissions,,,EI-2026.2
+025947932,BA-BEH,2026-03-15,55,amber,Late or missing submissions,,,EI-2026.2
+025948262,BA-BUS,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025948289,LLB,2026-03-15,56,amber,Low forum participation,,,EI-2026.2
+025949005,BA-BEH,2026-03-15,12,green,Low forum participation,,,EI-2026.2
+025949414,BA-BEH,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025951423,BA-BEH,2026-03-15,61,amber,Late or missing submissions,,,EI-2026.2
+025951827,BSC-CS,2026-03-15,63,amber,Low LMS activity,,,EI-2026.2
+025952100,LLB,2026-03-15,77,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025952101,BA-BEH,2026-03-15,60,amber,Low forum participation,,,EI-2026.2
+025952380,BA-BUS,2026-03-15,42,green,Late or missing submissions,,,EI-2026.2
+025952440,BSC-CS,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025953537,LLB,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025953684,BSC-CS,2026-03-15,68,amber,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025954406,BSC-CS,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025954976,BSC-CS,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025956096,BA-BEH,2026-03-15,46,amber,Low forum participation,,,EI-2026.2
+025958146,LLB,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025958620,BSC-CS,2026-03-15,64,amber,Low LMS activity,,,EI-2026.2
+025958765,BSC-CS,2026-03-15,40,green,Low forum participation,,,EI-2026.2
+025959597,BA-BUS,2026-03-15,6,green,Low forum participation,,,EI-2026.2
+025959806,BSC-IEM,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025959808,LLB,2026-03-15,51,amber,Low LMS activity,,,EI-2026.2
+025959911,BA-BUS,2026-03-15,62,amber,Low forum participation,,,EI-2026.2
+025961006,BA-BUS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025961349,BA-BUS,2026-03-15,65,amber,Low LMS activity,,,EI-2026.2
+025961527,BA-BUS,2026-03-15,54,amber,Reserve-duty absence (accommodations module),Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025961604,BA-BUS,2026-03-15,41,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025961605,BSC-IEM,2026-03-15,56,amber,Late or missing submissions,,,EI-2026.2
+025961939,BA-BEH,2026-03-15,21,green,Low forum participation,,,EI-2026.2
+025962019,LLB,2026-03-15,66,amber,Low LMS activity,,,EI-2026.2
+025962197,LLB,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025962498,BSC-CS,2026-03-15,57,amber,Low forum participation,,,EI-2026.2
+025962639,BA-COM,2026-03-15,23,green,Late or missing submissions,,,EI-2026.2
+025963535,BA-COM,2026-03-15,75,red,Late or missing submissions,,,EI-2026.2
+025963563,BA-BUS,2026-03-15,49,amber,Low forum participation,,,EI-2026.2
+025963844,BSC-CS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025964119,BA-BUS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025964872,BA-BEH,2026-03-15,65,amber,Late or missing submissions,,,EI-2026.2
+025964894,BA-BEH,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025965402,BA-COM,2026-03-15,26,green,Low forum participation,,,EI-2026.2
+025965422,LLB,2026-03-15,38,green,Late or missing submissions,,,EI-2026.2
+025965481,BA-BUS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025966420,BA-BEH,2026-03-15,55,amber,Low forum participation,,,EI-2026.2
+025966554,BA-BUS,2026-03-15,80,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025966660,BSC-CS,2026-03-15,48,amber,Low forum participation,,,EI-2026.2
+025966672,BSC-IEM,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025966778,BA-BUS,2026-03-15,52,amber,Late or missing submissions,,,EI-2026.2
+025967711,LLB,2026-03-15,28,green,Late or missing submissions,,,EI-2026.2
+025968106,BA-COM,2026-03-15,39,green,Low forum participation,,,EI-2026.2
+025968224,BA-BUS,2026-03-15,10,green,Low forum participation,,,EI-2026.2
+025968288,BA-BEH,2026-03-15,51,amber,Late or missing submissions,,,EI-2026.2
+025968360,LLB,2026-03-15,81,red,Low LMS activity,Reserve-duty absence (accommodations module),,EI-2026.2
+025968396,BSC-IEM,2026-03-15,15,green,Low forum participation,,,EI-2026.2
+025968555,BSC-CS,2026-03-15,36,green,Low forum participation,,,EI-2026.2
+025968680,BA-BUS,2026-03-15,20,green,Low forum participation,,,EI-2026.2
+025968722,LLB,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025968810,BA-BEH,2026-03-15,60,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025969576,BA-BEH,2026-03-15,56,amber,Low forum participation,,,EI-2026.2
+025969597,LLB,2026-03-15,51,amber,Low forum participation,,,EI-2026.2
+025970138,BSC-IEM,2026-03-15,43,green,Low forum participation,,,EI-2026.2
+025971002,BSC-IEM,2026-03-15,56,amber,Low forum participation,,,EI-2026.2
+025972078,BA-COM,2026-03-15,65,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025973095,LLB,2026-03-15,83,red,Low LMS activity,Late or missing submissions,Medical or learning accommodation on file (accommodations module),EI-2026.2
+025973579,BSC-CS,2026-03-15,30,green,Low forum participation,,,EI-2026.2
+025974033,LLB,2026-03-15,49,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025974554,LLB,2026-03-15,50,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025974777,BA-COM,2026-03-15,33,green,Late or missing submissions,,,EI-2026.2
+025975153,LLB,2026-03-15,29,green,Low forum participation,,,EI-2026.2
+025975618,BSC-CS,2026-03-15,67,amber,Low LMS activity,,,EI-2026.2
+025975921,BSC-CS,2026-03-15,59,amber,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025975971,BSC-CS,2026-03-15,82,red,Low LMS activity,,,EI-2026.2
+025976267,BSC-IEM,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025976994,BA-BUS,2026-03-15,22,green,Late or missing submissions,,,EI-2026.2
+025977248,LLB,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025977945,BA-BUS,2026-03-15,34,green,Low forum participation,,,EI-2026.2
+025979439,BA-BUS,2026-03-15,42,green,Low forum participation,,,EI-2026.2
+025979772,BA-BUS,2026-03-15,50,amber,Low forum participation,,,EI-2026.2
+025980497,BA-BUS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025981381,BA-BUS,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025982072,BA-BEH,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025982523,BSC-IEM,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025982567,BSC-CS,2026-03-15,20,green,Low forum participation,,,EI-2026.2
+025983053,BA-BUS,2026-03-15,26,green,Late or missing submissions,,,EI-2026.2
+025983092,BA-BEH,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025983312,BSC-IEM,2026-03-15,68,amber,Reserve-duty absence (accommodations module),,,EI-2026.2
+025983425,BA-COM,2026-03-15,33,green,Low forum participation,,,EI-2026.2
+025983890,LLB,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025984591,BA-BEH,2026-03-15,59,amber,Late or missing submissions,,,EI-2026.2
+025984760,BSC-CS,2026-03-15,45,amber,Low forum participation,,,EI-2026.2
+025984841,BA-COM,2026-03-15,54,amber,Late or missing submissions,,,EI-2026.2
+025985152,BSC-CS,2026-03-15,64,amber,Low forum participation,,,EI-2026.2
+025985297,BA-BEH,2026-03-15,100,red,Low LMS activity,Late or missing submissions,Reserve-duty absence (accommodations module),EI-2026.2
+025985486,BA-COM,2026-03-15,59,amber,Late or missing submissions,Reserve-duty absence (accommodations module),,EI-2026.2
+025986251,BA-COM,2026-03-15,34,green,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025986886,BA-BEH,2026-03-15,32,green,Low forum participation,,,EI-2026.2
+025987701,BA-BUS,2026-03-15,79,red,Late or missing submissions,,,EI-2026.2
+025987750,BA-COM,2026-03-15,33,green,Late or missing submissions,,,EI-2026.2
+025988621,BA-COM,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025989207,BA-BUS,2026-03-15,24,green,Low forum participation,,,EI-2026.2
+025989334,BA-BUS,2026-03-15,74,red,Low LMS activity,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025989723,BA-BUS,2026-03-15,37,green,Low forum participation,,,EI-2026.2
+025990076,BA-BEH,2026-03-15,12,green,Low forum participation,,,EI-2026.2
+025991265,BA-BUS,2026-03-15,20,green,Late or missing submissions,,,EI-2026.2
+025991717,BA-BUS,2026-03-15,52,amber,Low LMS activity,,,EI-2026.2
+025991958,BA-BEH,2026-03-15,48,amber,Late or missing submissions,,,EI-2026.2
+025991960,BA-BUS,2026-03-15,27,green,Low forum participation,,,EI-2026.2
+025992209,BA-BUS,2026-03-15,35,green,Low forum participation,,,EI-2026.2
+025992230,BA-BUS,2026-03-15,86,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025992409,BA-BUS,2026-03-15,55,amber,Late or missing submissions,,,EI-2026.2
+025992725,BSC-IEM,2026-03-15,54,amber,Low forum participation,,,EI-2026.2
+025992951,BA-BUS,2026-03-15,78,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025993018,BSC-IEM,2026-03-15,44,green,Low forum participation,,,EI-2026.2
+025993096,LLB,2026-03-15,47,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025993857,BA-BEH,2026-03-15,79,red,Low LMS activity,Late or missing submissions,,EI-2026.2
+025994291,LLB,2026-03-15,31,green,Low forum participation,,,EI-2026.2
+025994306,BA-BUS,2026-03-15,23,green,Low forum participation,,,EI-2026.2
+025995896,BSC-IEM,2026-03-15,0,green,Low forum participation,,,EI-2026.2
+025997069,BA-COM,2026-03-15,49,amber,Late or missing submissions,Medical or learning accommodation on file (accommodations module),,EI-2026.2
+025998025,BSC-CS,2026-03-15,56,amber,Low forum participation,,,EI-2026.2
+025998186,BSC-CS,2026-03-15,40,green,Late or missing submissions,,,EI-2026.2
+025998478,BA-BUS,2026-03-15,47,amber,Low forum participation,,,EI-2026.2
+025998579,BA-COM,2026-03-15,19,green,Low forum participation,,,EI-2026.2
+025998619,BA-BUS,2026-03-15,66,amber,Low LMS activity,Late or missing submissions,,EI-2026.2
+025999129,LLB,2026-03-15,61,amber,Low forum participation,,,EI-2026.2
+025999179,BA-BUS,2026-03-15,63,amber,Low LMS activity,,,EI-2026.2
+025999654,BA-BUS,2026-03-15,38,green,Late or missing submissions,,,EI-2026.2
+025999904,BA-BUS,2026-03-15,58,amber,Late or missing submissions,,,EI-2026.2

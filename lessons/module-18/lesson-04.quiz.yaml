@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    You can already open the customer-service ticket system as part of your job. Your manager says
+    "sure, go ahead" in the corridor when you mention a course project. What do you do before using
+    the tickets?
+  options:
+    - >-
+      Start, since you have both system access and your manager's verbal agreement.
+    - >-
+      Export a small sample to your laptop first to see whether the data is worth it.
+    - >-
+      Ask a colleague in IT whether there is any technical reason not to export it.
+    - >-
+      Get a signed letter from someone with authority, and the DPO's written answer on the data.
+  correct: 3
+  explanation: >-
+    Access is not permission, and a corridor "sure" names no conditions. The permission letter sets
+    scope, limits and who can stop it; the DPO answers whether this use of the data is permitted.
+    Exporting a sample first is already using the data.
+
+- id: q2
+  question: >-
+    Your data plan says the ticket export will be "anonymised by removing names and e-mail addresses".
+    The free-text field stays. What is wrong with that?
+  options:
+    - >-
+      Nothing; removing direct identifiers is what anonymisation means.
+    - >-
+      People can be re-identified from what they wrote, so it is not anonymous yet.
+    - >-
+      Only the e-mail addresses needed removing; names are not personal data.
+    - >-
+      Anonymised data is still personal data under every law, so the step is pointless.
+  correct: 1
+  explanation: >-
+    Data is anonymous only where re-identification is not reasonably possible; free text, rare
+    combinations and small groups identify people. Remove or summarise the text, or keep the analysis
+    inside approved systems under the DPO's conditions.
+
+- id: q3
+  question: >-
+    During an interview a colleague tells you, off the record, that her team pastes customers' ID
+    numbers into a personal AI chat account to fill forms faster. What do you do?
+  options:
+    - >-
+      Follow your urgent-finding rule the same day, and protect her as far as you can.
+    - >-
+      Keep it confidential, since you promised non-attribution for the research.
+    - >-
+      Include it in your final findings memo, with her name, so it is credible.
+    - >-
+      Ask her to stop quietly and leave it out of everything you write.
+  correct: 0
+  explanation: >-
+    Non-attribution protects the person, not an ongoing exposure of personal data. Report the practice
+    the same day through the route in your charter, without naming her if you can avoid it; silence
+    or a private word lets the exposure continue.
+
+- id: q4
+  question: >-
+    Which of these may you take out of the organization for your portfolio without further approval?
+  options:
+    - >-
+      Screenshots of the dashboard you built, with the numbers blurred.
+    - >-
+      The vendor's price quote, since the vendor is not your employer.
+    - >-
+      Your own checklists and method notes with nothing organization-specific in them.
+    - >-
+      The prompts you used, which contain only internal procedure text.
+  correct: 2
+  explanation: >-
+    Your own method, free of organization content, is yours. Screenshots, a vendor's quote and
+    prompts with internal text all carry the organization's information; they stay, or leave only with
+    written approval.
+
+- id: q5
+  question: >-
+    The go/no-go shows there is no DPO, no privacy lead and no counsel you can ask. Your manager is
+    keen. What is the right route?
+  options:
+    - >-
+      Proceed carefully and decide the data questions yourself using this lesson.
+    - >-
+      Proceed on synthetic data you generate from memory of the real system.
+    - >-
+      Ask the AI tool you use whether the analysis is lawful, and keep its answer.
+    - >-
+      Do not run it as a real engagement; build the portfolio piece from the capstone.
+  correct: 3
+  explanation: >-
+    Without someone who can answer data-protection questions for the organization, you would be
+    deciding lawfulness yourself. The capstone route gives you a portfolio piece without the risk; a
+    model's opinion or your memory of real data is not a substitute.

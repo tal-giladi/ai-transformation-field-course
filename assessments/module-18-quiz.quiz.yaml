@@ -1,0 +1,191 @@
+- id: q1
+  question: >-
+    A new engagement gives you twelve weeks to a board meeting and a vendor that wants data in three
+    weeks. In week 1 you have a choice of what to put on the calendar first. Which do you date first?
+  options:
+    - >-
+      The vendor's onboarding steps, so the pilot can start as the sponsor wants.
+    - >-
+      The readiness bar, before the vendor's evidence arrives, and the pilot's thresholds.
+    - >-
+      A weekly status meeting with the sponsor, to keep the relationship warm.
+    - >-
+      The final presentation rehearsal, since that is what the board will see.
+  correct: 1
+  explanation: >-
+    The steps that protect your judgment must be dated before pressure arrives: a bar written after
+    the vendor's evidence is fitted to it, and thresholds written after results are fitted to them.
+    The rehearsal matters too, but it can be scheduled later without being compromised.
+
+- id: q2
+  question: >-
+    The sponsor's charter correction reads: "and the AI system starts in March in parallel". The board
+    minuted that vendor pilots with personal data need the DPO's review first. How do you write the
+    charter?
+  options:
+    - >-
+      Accept the correction; the sponsor owns the objective and the timing.
+    - >-
+      Leave the vendor out of the charter entirely to avoid the argument.
+    - >-
+      Record the vendor as the option tested, and no data shared before the DPO's review.
+    - >-
+      Add a clause that the consultant is not responsible for the vendor pilot.
+  correct: 2
+  explanation: >-
+    The stated solution stays in the charter as the claim tested, and the board's own rule sets the
+    data condition. Accepting a parallel start shares data before review; leaving the vendor out or
+    disclaiming responsibility avoids the conversation the charter exists to settle.
+
+- id: q3
+  question: >-
+    Two documents in your set give the same pilot two different start dates: the roadmap says July,
+    the ROI model counts savings from April. The board will rely on the savings. What is the right
+    resolution?
+  options:
+    - >-
+      Use the roadmap's date everywhere; disclose it if it changes the decision.
+    - >-
+      Move the roadmap to April, since the board prefers to see earlier benefits.
+    - >-
+      Average the two dates and use June consistently in both documents.
+    - >-
+      Leave both as they are and mention the difference orally in the meeting.
+  correct: 0
+  explanation: >-
+    A benefit cannot land before its cause exists. Trace it to the roadmap and readiness, correct it
+    everywhere, and disclose it to the sponsor if the change affects the decision. Pulling the
+    roadmap forward to fit a number, splitting the difference or leaving it oral all break trust.
+
+- id: q4
+  question: >-
+    Your pilot charter promises that "a trained reviewer checks every output", and the adoption plan
+    says reviewers are the existing team. The control trace finds no hours for this anywhere. What do
+    you do?
+  options:
+    - >-
+      Nothing: the existing team will absorb a few minutes per item without trouble.
+    - >-
+      Drop the review promise from the charter to make the documents consistent.
+    - >-
+      Count the review time as a benefit in the model, since it improves quality.
+    - >-
+      Name the reviewers, estimate peak-week hours, net them in the ROI model.
+  correct: 3
+  explanation: >-
+    A control without a person and hours is skipped under load, and an ROI model without its cost is
+    overstated. Pricing the control keeps both the control and the case honest.
+
+- id: q5
+  question: >-
+    Three executives will be in the board room. One announced the original target to the board, one
+    owns the process your findings criticise, one controls the budget. Whom do you rehearse the
+    hardest finding with privately?
+  options:
+    - >-
+      The budget owner, because the money decides the outcome of the meeting.
+    - >-
+      The one who made the public commitment your finding contradicts.
+    - >-
+      The process owner, because the finding is about their process.
+    - >-
+      All three together, so nobody feels left out of the rehearsal.
+  correct: 1
+  explanation: >-
+    Resistance follows commitments made in public; that person loses most if they first hear it in
+    the room. Others may need private conversations too, but a joint rehearsal turns a private
+    conversation into a confrontation.
+
+- id: q6
+  question: >-
+    Your recorded presentation spends the first three minutes on how the engagement was run. The
+    content is strong. How does it score on "answer first", and what do you change?
+  options:
+    - >-
+      Full marks, since the method builds the board's trust in the recommendation.
+    - >-
+      Full marks if the method section is well structured and under three minutes.
+    - >-
+      A low score; open with the recommendation in one sentence and move method to questions.
+    - >-
+      A low score; cut the method and add a second recommendation to fill the time.
+  correct: 2
+  explanation: >-
+    The board's attention is highest in the first minute; spend it on the answer. Method can come up
+    in questions. Adding a second recommendation turns one decision into a menu.
+
+- id: q7
+  question: >-
+    For a real engagement at work, the DPO approves your data plan "on condition that free text stays
+    inside the company tenant". A colleague offers to export the text to your laptop so you can work
+    at home. What do you do?
+  options:
+    - >-
+      Decline; the condition is part of the permission and the text stays in the tenant.
+    - >-
+      Accept, if you delete the file as soon as the analysis is done.
+    - >-
+      Accept, if you remove the customers' names from the text first.
+    - >-
+      Ask the colleague to e-mail it to your work address instead of your personal one.
+  correct: 0
+  explanation: >-
+    Conditions on a permission are the permission. Deleting later, stripping names (free text still
+    identifies people) or a different channel all break the condition the DPO set.
+
+- id: q8
+  question: >-
+    Which item from a real engagement in your workplace may go into your portfolio without anyone's
+    approval?
+  options:
+    - >-
+      A blurred screenshot of the dashboard you built for the operations team.
+    - >-
+      The readiness assessment, with the company name replaced by "a client".
+    - >-
+      The interview quotes, since you promised only not to name the speakers.
+    - >-
+      Your own checklist for running the first week, with nothing internal in it.
+  correct: 3
+  explanation: >-
+    Only your own method, free of organization content, is yours to take. Screenshots, renamed
+    documents and quotes all carry the organization's or colleagues' information and need written
+    approval, or a synthetic replacement.
+
+- id: q9
+  question: >-
+    Your portfolio includes a full deliverable set from a course engagement on a fictional company.
+    How should it be presented?
+  options:
+    - >-
+      As client work with the client's name withheld for confidentiality.
+    - >-
+      Clearly labelled as a training engagement on a synthetic organization.
+    - >-
+      As a "case study", without saying whether it was real or fictional.
+    - >-
+      Only the method should be shown, never the deliverables themselves.
+  correct: 1
+  explanation: >-
+    Course work is labelled as training work every time. Implying it was client work is dishonest and
+    easy to discover; showing the deliverables with an honest label demonstrates the judgment a reader
+    wants to see.
+
+- id: q10
+  question: >-
+    After the capstone you score 22 of 36 and the expert set shows two findings you missed. What is the
+    most useful next step for your practice kit?
+  options:
+    - >-
+      Copy the expert's deliverables into your kit as the new master versions.
+    - >-
+      Note your score in each template header so you remember how you did.
+    - >-
+      For each miss, note which file or person showed it and update a master.
+    - >-
+      Re-run the whole capstone immediately, now that you know the answer.
+  correct: 2
+  explanation: >-
+    The kit improves by the "when it failed" lines: what you missed, where the evidence was, and what
+    you will always do now. Copying the expert's documents or re-running a known case teaches far less
+    than changing how you work.

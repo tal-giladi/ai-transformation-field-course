@@ -1,0 +1,181 @@
+month,network_segment,domain,distinct_users,requests
+2026-06,student administration,chatgpt.com,24,2578
+2026-06,student administration,gemini.google.com,5,732
+2026-06,student administration,claude.ai,2,101
+2026-06,student administration,copilot.microsoft.com,1,73
+2026-06,student administration,translate.google.com,7,1036
+2026-06,student administration,deepl.com,2,226
+2026-06,student administration,quillbot.com,2,306
+2026-06,finance,chatgpt.com,9,1334
+2026-06,finance,gemini.google.com,3,241
+2026-06,finance,claude.ai,1,116
+2026-06,finance,copilot.microsoft.com,1,105
+2026-06,finance,translate.google.com,2,91
+2026-06,finance,deepl.com,1,148
+2026-06,finance,quillbot.com,1,88
+2026-06,admissions,chatgpt.com,7,1075
+2026-06,admissions,gemini.google.com,3,301
+2026-06,admissions,claude.ai,1,77
+2026-06,admissions,copilot.microsoft.com,1,116
+2026-06,admissions,translate.google.com,2,90
+2026-06,student success,chatgpt.com,3,140
+2026-06,student success,gemini.google.com,1,153
+2026-06,student success,translate.google.com,1,85
+2026-06,exams office,chatgpt.com,2,227
+2026-06,exams office,translate.google.com,1,109
+2026-06,management,chatgpt.com,3,475
+2026-06,management,gemini.google.com,1,80
+2026-06,management,claude.ai,1,145
+2026-06,management,copilot.microsoft.com,1,140
+2026-06,management,translate.google.com,2,245
+2026-06,marketing,chatgpt.com,3,203
+2026-06,marketing,gemini.google.com,2,126
+2026-06,marketing,copilot.microsoft.com,1,156
+2026-06,marketing,translate.google.com,1,133
+2026-06,IT,chatgpt.com,3,325
+2026-06,IT,gemini.google.com,1,48
+2026-06,IT,copilot.microsoft.com,1,76
+2026-06,IT,translate.google.com,1,151
+2026-06,library,chatgpt.com,1,97
+2026-06,library,gemini.google.com,1,100
+2026-06,library,translate.google.com,1,79
+2026-06,faculty offices (senior staff),chatgpt.com,17,1745
+2026-06,faculty offices (senior staff),gemini.google.com,10,410
+2026-06,faculty offices (senior staff),claude.ai,3,276
+2026-06,faculty offices (senior staff),copilot.microsoft.com,4,206
+2026-06,faculty offices (senior staff),translate.google.com,12,522
+2026-06,faculty offices (senior staff),deepl.com,3,377
+2026-06,faculty offices (senior staff),quillbot.com,2,91
+2026-06,faculty offices (senior staff),"AI writing detectors (category, 3 domains)",1,46
+2026-06,lecturers' Wi-Fi (Staff-Lecturers SSID),chatgpt.com,51,6104
+2026-06,lecturers' Wi-Fi (Staff-Lecturers SSID),gemini.google.com,19,4544
+2026-06,lecturers' Wi-Fi (Staff-Lecturers SSID),claude.ai,7,885
+2026-06,lecturers' Wi-Fi (Staff-Lecturers SSID),copilot.microsoft.com,10,2467
+2026-06,lecturers' Wi-Fi (Staff-Lecturers SSID),translate.google.com,19,2964
+2026-06,lecturers' Wi-Fi (Staff-Lecturers SSID),deepl.com,8,1016
+2026-06,lecturers' Wi-Fi (Staff-Lecturers SSID),quillbot.com,6,711
+2026-06,lecturers' Wi-Fi (Staff-Lecturers SSID),"AI writing detectors (category, 3 domains)",12,818
+2026-07,student administration,chatgpt.com,20,1595
+2026-07,student administration,gemini.google.com,5,440
+2026-07,student administration,claude.ai,2,98
+2026-07,student administration,copilot.microsoft.com,2,84
+2026-07,student administration,translate.google.com,13,2002
+2026-07,student administration,deepl.com,2,178
+2026-07,student administration,quillbot.com,2,274
+2026-07,finance,chatgpt.com,8,1060
+2026-07,finance,gemini.google.com,4,591
+2026-07,finance,claude.ai,1,50
+2026-07,finance,copilot.microsoft.com,1,97
+2026-07,finance,translate.google.com,3,262
+2026-07,finance,deepl.com,1,102
+2026-07,finance,quillbot.com,1,58
+2026-07,admissions,chatgpt.com,6,563
+2026-07,admissions,gemini.google.com,4,184
+2026-07,admissions,claude.ai,1,46
+2026-07,admissions,copilot.microsoft.com,1,97
+2026-07,admissions,translate.google.com,2,199
+2026-07,admissions,deepl.com,1,152
+2026-07,admissions,quillbot.com,1,136
+2026-07,student success,chatgpt.com,4,577
+2026-07,student success,gemini.google.com,1,51
+2026-07,student success,copilot.microsoft.com,1,76
+2026-07,student success,translate.google.com,1,147
+2026-07,exams office,chatgpt.com,3,161
+2026-07,exams office,gemini.google.com,1,55
+2026-07,exams office,translate.google.com,1,79
+2026-07,management,chatgpt.com,4,174
+2026-07,management,gemini.google.com,2,155
+2026-07,management,copilot.microsoft.com,1,150
+2026-07,management,translate.google.com,2,247
+2026-07,management,deepl.com,1,130
+2026-07,marketing,chatgpt.com,4,496
+2026-07,marketing,gemini.google.com,1,60
+2026-07,marketing,copilot.microsoft.com,1,71
+2026-07,marketing,translate.google.com,2,301
+2026-07,IT,chatgpt.com,5,380
+2026-07,IT,gemini.google.com,2,270
+2026-07,IT,translate.google.com,2,121
+2026-07,library,chatgpt.com,2,274
+2026-07,library,gemini.google.com,1,118
+2026-07,library,translate.google.com,1,101
+2026-07,faculty offices (senior staff),chatgpt.com,25,3464
+2026-07,faculty offices (senior staff),gemini.google.com,11,1229
+2026-07,faculty offices (senior staff),claude.ai,5,438
+2026-07,faculty offices (senior staff),copilot.microsoft.com,5,762
+2026-07,faculty offices (senior staff),translate.google.com,13,523
+2026-07,faculty offices (senior staff),deepl.com,3,194
+2026-07,faculty offices (senior staff),quillbot.com,4,533
+2026-07,faculty offices (senior staff),"AI writing detectors (category, 3 domains)",1,79
+2026-07,lecturers' Wi-Fi (Staff-Lecturers SSID),chatgpt.com,71,16360
+2026-07,lecturers' Wi-Fi (Staff-Lecturers SSID),gemini.google.com,23,2629
+2026-07,lecturers' Wi-Fi (Staff-Lecturers SSID),claude.ai,8,1266
+2026-07,lecturers' Wi-Fi (Staff-Lecturers SSID),copilot.microsoft.com,12,2605
+2026-07,lecturers' Wi-Fi (Staff-Lecturers SSID),translate.google.com,23,3122
+2026-07,lecturers' Wi-Fi (Staff-Lecturers SSID),deepl.com,10,1229
+2026-07,lecturers' Wi-Fi (Staff-Lecturers SSID),quillbot.com,9,1888
+2026-07,lecturers' Wi-Fi (Staff-Lecturers SSID),"AI writing detectors (category, 3 domains)",18,1906
+2026-08,student administration,chatgpt.com,7,685
+2026-08,student administration,gemini.google.com,1,81
+2026-08,student administration,translate.google.com,3,292
+2026-08,finance,chatgpt.com,3,191
+2026-08,finance,gemini.google.com,1,127
+2026-08,finance,translate.google.com,1,94
+2026-08,admissions,chatgpt.com,1,158
+2026-08,student success,chatgpt.com,1,157
+2026-08,management,chatgpt.com,1,159
+2026-08,marketing,chatgpt.com,1,139
+2026-08,IT,chatgpt.com,1,149
+2026-08,faculty offices (senior staff),chatgpt.com,9,1089
+2026-08,faculty offices (senior staff),gemini.google.com,3,359
+2026-08,faculty offices (senior staff),copilot.microsoft.com,1,139
+2026-08,faculty offices (senior staff),translate.google.com,4,540
+2026-08,faculty offices (senior staff),deepl.com,1,83
+2026-08,lecturers' Wi-Fi (Staff-Lecturers SSID),chatgpt.com,12,1797
+2026-08,lecturers' Wi-Fi (Staff-Lecturers SSID),gemini.google.com,6,1404
+2026-08,lecturers' Wi-Fi (Staff-Lecturers SSID),claude.ai,3,303
+2026-08,lecturers' Wi-Fi (Staff-Lecturers SSID),copilot.microsoft.com,4,818
+2026-08,lecturers' Wi-Fi (Staff-Lecturers SSID),translate.google.com,7,533
+2026-08,lecturers' Wi-Fi (Staff-Lecturers SSID),deepl.com,3,725
+2026-08,lecturers' Wi-Fi (Staff-Lecturers SSID),quillbot.com,3,277
+2026-08,lecturers' Wi-Fi (Staff-Lecturers SSID),"AI writing detectors (category, 3 domains)",3,284
+2026-09,student administration,chatgpt.com,10,1511
+2026-09,student administration,gemini.google.com,2,126
+2026-09,student administration,claude.ai,1,141
+2026-09,student administration,copilot.microsoft.com,1,43
+2026-09,student administration,translate.google.com,7,1064
+2026-09,student administration,deepl.com,1,89
+2026-09,student administration,quillbot.com,1,42
+2026-09,finance,chatgpt.com,4,263
+2026-09,finance,gemini.google.com,1,157
+2026-09,finance,copilot.microsoft.com,1,104
+2026-09,finance,translate.google.com,2,291
+2026-09,admissions,chatgpt.com,3,150
+2026-09,admissions,gemini.google.com,2,154
+2026-09,admissions,translate.google.com,1,90
+2026-09,student success,chatgpt.com,2,301
+2026-09,student success,translate.google.com,1,67
+2026-09,exams office,chatgpt.com,1,111
+2026-09,management,chatgpt.com,3,305
+2026-09,management,gemini.google.com,1,42
+2026-09,management,translate.google.com,1,129
+2026-09,marketing,chatgpt.com,2,297
+2026-09,marketing,translate.google.com,1,105
+2026-09,IT,chatgpt.com,2,209
+2026-09,IT,gemini.google.com,1,134
+2026-09,IT,translate.google.com,1,47
+2026-09,library,chatgpt.com,1,53
+2026-09,faculty offices (senior staff),chatgpt.com,16,2195
+2026-09,faculty offices (senior staff),gemini.google.com,6,569
+2026-09,faculty offices (senior staff),claude.ai,2,267
+2026-09,faculty offices (senior staff),copilot.microsoft.com,3,181
+2026-09,faculty offices (senior staff),translate.google.com,5,337
+2026-09,faculty offices (senior staff),deepl.com,2,279
+2026-09,faculty offices (senior staff),quillbot.com,2,276
+2026-09,lecturers' Wi-Fi (Staff-Lecturers SSID),chatgpt.com,36,3219
+2026-09,lecturers' Wi-Fi (Staff-Lecturers SSID),gemini.google.com,9,1284
+2026-09,lecturers' Wi-Fi (Staff-Lecturers SSID),claude.ai,5,533
+2026-09,lecturers' Wi-Fi (Staff-Lecturers SSID),copilot.microsoft.com,8,1366
+2026-09,lecturers' Wi-Fi (Staff-Lecturers SSID),translate.google.com,10,2521
+2026-09,lecturers' Wi-Fi (Staff-Lecturers SSID),deepl.com,6,1415
+2026-09,lecturers' Wi-Fi (Staff-Lecturers SSID),quillbot.com,4,806
+2026-09,lecturers' Wi-Fi (Staff-Lecturers SSID),"AI writing detectors (category, 3 domains)",6,1529

@@ -27,7 +27,7 @@ This course is the doing. You will interview the people, read the data room, mea
 
 - A computer, a spreadsheet tool and access to at least one LLM chat (a free tier works; file upload helps).
 - Optional Python track: Python 3.12 or newer and an API key for one LLM provider (about US$10 for the whole course), or a free local model.
-- About 35 hours of reading and 170 hours of practice. Every lesson says how long its hands-on part takes.
+- About 37 hours of reading and 250 hours of hands-on work in the lessons, plus a project at the end of every module. Every lesson says how long its hands-on part takes.
 
 ## The context: Israel first
 

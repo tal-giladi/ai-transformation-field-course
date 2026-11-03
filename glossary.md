@@ -62,6 +62,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Content owner** — The named person in a division who answers for a page or knowledge document being correct, dated and updated within a set time after a rule changes (lesson 11.3).
 - **Contributing cause** — A condition that let a trigger cause harm, written without blame and paired with a system fix, as opposed to the single trigger a vendor's root-cause analysis names (lesson 17.5).
 - **Control status** — Whether a control is effective (runs and catches the failure, with evidence), designed, on paper only, or missing; it decides how far the residual rating may fall (lesson 04.5).
+- **Control trace** — The part of the integration check that traces every human control to a named person, the hours it takes and the cost line that pays for them (lesson 18.2).
 - **Correction to the record** — A dated statement at the top of a committee paper that something management told the committee earlier is no longer true, with the date it stopped being true (lesson 09.4).
 - **Cost per truly resolved chat** — A chatbot's bill divided by the conversations not followed by an agent contact within a set window, the figure to compare with an agent's cost per contact (lesson 08.3).
 - **Counting rule** — The written definition of what counts as AI for the inventory (outputs inferred from data, not only human-written rules), applied before counting (lesson 01.7).
@@ -113,11 +114,13 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Guardrail metric** — The number that must not get worse while the KPI improves, chosen so that it moves the wrong way if the gain is fake (lesson 03.6).
 - **Hand tally** — A count kept by people over a chosen period where no export exists; a sample with estimation bias, used with its limits stated (lesson 02.4).
 - **Handover pack** — What the receiving owner needs to run a service without its builder: envelope, configuration, evidence, operations, open items, decisions, known limits and retirement (lesson 07.9).
+- **Hardest finding** — The finding that contradicts a public commitment, delivered first and privately to the executive who made that commitment (lesson 18.3).
 - **Holdout** — A random share of eligible items that get no AI output during the pilot, so that the difference with the rest is the AI's effect (lesson 05.1).
 - **Horizon by evidence** — Placing an initiative in Now, Next or Later by how much is proven and what it depends on, not by a start date (lesson 03.8).
 - **Host list** — The maintained list of AI service domains used to find AI traffic in a proxy log, because proxy categories lag behind new tools (lesson 01.6).
 - **Hub-and-spoke** — An operating model in which the hub owns the constants (platform, standards, catalogue, high-risk validation) and the units own the variables (discovery, building, adoption, low-risk go-lives) (lesson 15.4).
 - **Hybrid design (rules decide, the model reads and writes)** — A pilot design in which an LLM reads the message and drafts the reply while deterministic rules compute eligibility, amounts and windows from the order data (lesson 08.5).
+- **Hypotheses log** — A short table of working hypotheses, each with the evidence that would disprove it written before looking, updated after every interview and analysis (lesson 18.1).
 - **Incident severity** — S1: harm reached people, or personal data reached someone not entitled to it; S2: harm likely if nothing changes; S3: degraded service with no harm (lesson 07.5).
 - **Intake register** — The single list of every AI build, purchase and request, with owner, tool, data class, overlaps, tier, route, decision and days to decision (lesson 04.7).
 - **Integration check** — A side-by-side reading of deliverables that logs every contradiction between them and traces each human control to a cost line and each claim's timing to readiness and the roadmap (lesson 07.1).
@@ -169,10 +172,13 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Paved road** — A shared, owned route that makes the safe way the easy way: the platform, the templates and evaluation kit, and the catalogue (lesson 15.4).
 - **Per-segment verdict** — Scale, fix or stop decided separately for each part of a pilot that behaves differently (channel, language, category), never on the pilot-wide average (lesson 07.2).
 - **Perma-pilot** — A build still called a pilot although people rely on it for real work every week, which hides it from the route to production and from the inventory (lesson 15.2).
+- **Permission letter** — A one-page, signed statement of what an internal engagement will and will not do, who sees the output, what may be taken out and who can stop it, written before any real data is touched (lesson 18.4).
 - **Pilot charter** — The signed one-page agreement for a pilot: falsifiable hypothesis, scope with reasons, thresholds copied from the business case's gates, stop rules, one owner and the rule of use (lesson 05.1).
 - **Pinned model** — A model identifier that always refers to the same model snapshot, so that a run records exactly which model answered (lesson 05.7).
 - **Plain automation** — Rules, integrations and scheduled jobs that need no model, such as comparing two dates and sending a fixed text (lesson 03.2).
 - **Planted-error exercise** — A training card built from a real case in which the AI output hides one error that one specific check catches (lesson 06.2).
+- **Portfolio piece** — A two-to-four-page account of one engagement that shows the findings that changed the recommendation, the recommend-against and one artifact, labelled honestly as training or anonymised real work (lesson 18.5).
+- **Practice kit** — Your own master version of each tool, with a header saying when it worked, when it failed and what you now always add (lesson 18.5).
 - **Pre-failure reading** — Testing a plan by assuming it has already failed and tracing each failure story to evidence (lesson 07.7).
 - **Pre-mortem** — A workshop in which participants assume the project has already failed and write down why before any discussion, to surface risks people hesitate to name (lesson 04.5).
 - **Precedent bank** — A firm's internal collection of templates, memos and rulings; a research tool searches it, so its review state is part of the AI decision (lesson 12.2).
@@ -195,6 +201,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Recording protocol** — A signed agreement with workers' representatives on how new work records may and may not be used (no individual performance reports, no discipline, languages, training) before recording starts (lesson 13.4).
 - **Recoverability band** — How undoable an action is: easy to reverse, reversible within a window, hard to reverse, or cannot be undone (lesson 14.4).
 - **Refinement** — A new request that serves the same objective, users, data and deliverable and fits the agreed time and money; done inside the phase without a change request (lesson 01.3).
+- **Register of facts** — One row for every number, date and owner that appears in more than one deliverable, with its label, source and owner, kept from the first phase so documents cannot drift apart (lesson 18.2).
 - **Regulatory clock** — A cycle time defined by a regulator's deadline (here, from a complete file to the decision notice), worth reporting for compliance but not a measure of the customer's experience (lesson 09.3).
 - **Regulatory map** — A one-page table of which instrument applies to which AI use, in which role (actor), with which obligation, from which date, at which status and on which checked source (lesson 04.6).
 - **Relay** — Anyone who has already heard a committed number from a leader (a board chair, an investor, a vendor) and needs the same correction early (lesson 07.3).
@@ -241,11 +248,13 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Tier rule** — The High / Medium / Low classification of AI uses written as conditions anyone can check from the inventory, combining consequence (who can be harmed) and authority (whether a person stands between output and world) (lesson 04.4).
 - **Tiered control** — Sorting AI uses by what they touch into "go ahead", "go ahead within the listed use" and "ask first", so low-risk use needs no approval and review effort goes where the risk is (lesson 04.2).
 - **Time study** — A planned measurement of handling time per task (start and end of each item, minimum items per task and language), reported as medians, never per person (lesson 02.4).
+- **Timing trace** — The part of the integration check that traces every claimed benefit to when the case says it lands, when readiness allows it, when the roadmap schedules its cause and when the outcome is measured (lesson 18.2).
 - **Trap (test item)** — A test input the assistant must never process, such as an identifiable note pasted by mistake, run several times because a stop that works only sometimes is not a control (lesson 16.5).
 - **Triangulation** — Stating a quantity that no field records as a range from several independent signals, each with the reason it is high or low (lesson 02.4).
 - **Trigger vs cadence** — A trigger makes a named person act when a threshold is crossed; a cadence is when people look; a service needs both, written separately (lesson 07.6).
 - **Two-reader check** — Giving the front page to a finance reader and a sponsor for one minute each and fixing whatever they cannot find (lesson 03.9).
 - **Two-sentence test** — For each stakeholder, one sentence on what they need to call the program a win and one on what they risk; if you cannot write both from evidence, you write "to learn" (lesson 02.1).
+- **Unseen engagement** — An engagement run end to end with no lesson naming the files, people or findings that matter, and the hidden truth withheld until the deliverables are submitted (lesson 18.1).
 - **Unsure-marking** — A scribe's flag on a passage it is not confident about, which the clinician must confirm before signing (lesson 10.4).
 - **Urgent-finding rule** — A charter line, written before any data is opened, saying who hears about an exposure of personal information, how and when — usually the same day, by phone, not in a report (lesson 16.1).
 - **Usable label** — A breakdown record that names its failure mode and can be tied to the stop it caused; the count that decides whether prediction is possible (lesson 13.5).

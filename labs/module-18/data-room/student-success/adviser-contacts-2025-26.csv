@@ -1,0 +1,1185 @@
+contact_id,contact_date,student_no,adviser,trigger,channel,outcome,note
+C-26000,2025-11-02,024255328,ADV-04,self_referral,whatsapp,no_answer,מספר לא תקין
+C-26001,2025-11-02,025305912,ADV-01,lecturer_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26002,2025-11-02,025554444,ADV-02,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26003,2025-11-03,025100337,ADV-01,lecturer_referral,phone,no_answer,מספר לא תקין
+C-26004,2025-11-03,025467640,ADV-05,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26005,2025-11-04,024690588,ADV-03,self_referral,meeting,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26006,2025-11-04,025262502,ADV-02,lecturer_referral,phone,no_answer,מספר לא תקין
+C-26007,2025-11-04,025757941,ADV-03,admin_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26008,2025-11-04,12376197,ADV-06,admin_referral,meeting,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26009,2025-11-04,12384354,ADV-03,lecturer_referral,phone,no_answer,לא ענה
+C-26010,2025-11-05,024207609,ADV-01,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26011,2025-11-05,12303213,ADV-03,lecturer_referral,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26012,2025-11-05,12387257,ADV-05,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26013,2025-11-06,024310059,ADV-04,lecturer_referral,phone,no_answer,מספר לא תקין
+C-26014,2025-11-06,024434574,ADV-04,self_referral,whatsapp,no_answer,מספר לא תקין
+C-26015,2025-11-06,024773847,ADV-02,self_referral,phone,no_answer,לא ענה
+C-26016,2025-11-06,025240376,ADV-05,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26017,2025-11-06,025812505,ADV-04,self_referral,phone,no_answer,לא ענה
+C-26018,2025-11-06,12320567,ADV-02,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26019,2025-11-09,024371011,ADV-01,admin_referral,phone,referred_accessibility,"צריך התאמות, הופנה לנגישות"
+C-26020,2025-11-09,024632158,ADV-05,self_referral,phone,no_answer,מספר לא תקין
+C-26021,2025-11-09,024695529,ADV-04,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26022,2025-11-09,025207131,ADV-03,self_referral,phone,no_answer,מספר לא תקין
+C-26023,2025-11-09,025880543,ADV-06,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26024,2025-11-09,12376206,ADV-03,lecturer_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26025,2025-11-10,025270346,ADV-02,admin_referral,phone,no_answer,מספר לא תקין
+C-26026,2025-11-10,025671921,ADV-04,self_referral,meeting,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26027,2025-11-11,024590289,ADV-01,lecturer_referral,phone,no_answer,לא ענה
+C-26028,2025-11-11,12316452,ADV-05,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26029,2025-11-11,12363960,ADV-03,self_referral,whatsapp,no_answer,מספר לא תקין
+C-26030,2025-11-12,025464048,ADV-02,admin_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26031,2025-11-12,025561119,ADV-04,lecturer_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26032,2025-11-12,025632895,ADV-01,admin_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26033,2025-11-12,12333272,ADV-05,admin_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26034,2025-11-13,025220068,ADV-04,self_referral,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26035,2025-11-16,024107711,ADV-03,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26036,2025-11-16,024297011,ADV-02,self_referral,phone,no_answer,מספר לא תקין
+C-26037,2025-11-16,024446678,ADV-04,self_referral,phone,no_answer,מספר לא תקין
+C-26038,2025-11-16,024578327,ADV-05,admin_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26039,2025-11-16,024854756,ADV-05,self_referral,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26040,2025-11-16,025622168,ADV-03,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26041,2025-11-16,12302045,ADV-02,lecturer_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26042,2025-11-16,12348031,ADV-03,self_referral,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26043,2025-11-16,12361576,ADV-05,lecturer_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26044,2025-11-17,024109230,ADV-02,self_referral,phone,no_answer,לא ענה
+C-26045,2025-11-17,024518954,ADV-06,lecturer_referral,phone,no_answer,מספר לא תקין
+C-26046,2025-11-17,024561838,ADV-05,self_referral,phone,no_answer,לא ענה
+C-26047,2025-11-17,025731044,ADV-04,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26048,2025-11-18,025749335,ADV-06,self_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26049,2025-11-18,025893271,ADV-03,admin_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26050,2025-11-18,12330244,ADV-02,self_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26051,2025-11-18,12348984,ADV-06,lecturer_referral,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26052,2025-11-19,024292812,ADV-01,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26053,2025-11-19,025294855,ADV-02,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26054,2025-11-19,12378559,ADV-04,self_referral,phone,no_answer,לא ענה
+C-26055,2025-11-20,025201057,ADV-05,self_referral,phone,no_answer,מספר לא תקין
+C-26056,2025-11-20,025437789,ADV-04,self_referral,meeting,no_answer,מספר לא תקין
+C-26057,2025-11-23,025365687,ADV-06,self_referral,phone,no_answer,מספר לא תקין
+C-26058,2025-11-23,025801736,ADV-01,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26059,2025-11-23,025969576,ADV-04,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26060,2025-11-23,12349325,ADV-06,admin_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26061,2025-11-23,12352663,ADV-04,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26062,2025-11-23,12377325,ADV-06,admin_referral,phone,no_answer,לא ענה
+C-26063,2025-11-24,024248518,ADV-04,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26064,2025-11-24,025589386,ADV-04,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26065,2025-11-25,12364333,ADV-06,lecturer_referral,whatsapp,no_answer,לא ענה
+C-26066,2025-11-26,025212531,ADV-01,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26067,2025-11-27,024392829,ADV-01,self_referral,meeting,no_answer,לא ענה
+C-26068,2025-11-27,025821122,ADV-05,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26069,2025-11-27,12368870,ADV-06,lecturer_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26070,2025-11-30,024130643,ADV-02,self_referral,phone,no_answer,לא ענה
+C-26071,2025-11-30,024157369,ADV-02,lecturer_referral,phone,no_answer,לא ענה
+C-26072,2025-11-30,024929261,ADV-06,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26073,2025-11-30,025528182,ADV-06,admin_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26074,2025-11-30,025664859,ADV-04,lecturer_referral,meeting,no_answer,לא ענה
+C-26075,2025-11-30,025992951,ADV-06,self_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26076,2025-11-30,025999654,ADV-01,admin_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26077,2025-12-01,025850779,ADV-04,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26078,2025-12-01,12377898,ADV-05,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26079,2025-12-02,024894318,ADV-06,self_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26080,2025-12-02,025403214,ADV-05,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26081,2025-12-02,025495387,ADV-04,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26082,2025-12-02,025567317,ADV-06,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26083,2025-12-02,025793009,ADV-03,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26084,2025-12-02,12334845,ADV-05,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26085,2025-12-03,025430775,ADV-02,admin_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26086,2025-12-04,024245940,ADV-02,self_referral,whatsapp,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26087,2025-12-04,025444054,ADV-05,self_referral,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26088,2025-12-04,12336203,ADV-06,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26089,2025-12-07,024235576,ADV-03,lecturer_referral,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26090,2025-12-07,024237862,ADV-04,lecturer_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26091,2025-12-07,024374778,ADV-03,admin_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26092,2025-12-07,024420904,ADV-06,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26093,2025-12-07,024541342,ADV-03,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26094,2025-12-07,025681695,ADV-02,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26095,2025-12-07,025817181,ADV-05,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26096,2025-12-07,025917560,ADV-05,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26097,2025-12-08,024748854,ADV-02,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26098,2025-12-08,024905320,ADV-01,self_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26099,2025-12-08,025810649,ADV-01,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26100,2025-12-09,024254297,ADV-06,admin_referral,phone,no_answer,מספר לא תקין
+C-26101,2025-12-09,025234414,ADV-01,lecturer_referral,meeting,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26102,2025-12-09,025309362,ADV-03,admin_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26103,2025-12-09,025533571,ADV-01,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26104,2025-12-10,025245981,ADV-06,self_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26105,2025-12-10,12328597,ADV-05,self_referral,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26106,2025-12-11,12330909,ADV-06,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26107,2025-12-14,024857310,ADV-05,self_referral,phone,no_answer,לא ענה
+C-26108,2025-12-14,025227593,ADV-05,lecturer_referral,phone,no_answer,לא ענה
+C-26109,2025-12-14,025404672,ADV-04,self_referral,whatsapp,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26110,2025-12-14,025550770,ADV-01,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26111,2025-12-14,12320024,ADV-02,self_referral,phone,no_answer,לא ענה
+C-26112,2025-12-14,12349910,ADV-01,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26113,2025-12-14,12384923,ADV-05,self_referral,meeting,no_answer,לא ענה
+C-26114,2025-12-14,12393341,ADV-06,admin_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26115,2025-12-15,024142044,ADV-03,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26116,2025-12-15,025323105,ADV-06,lecturer_referral,phone,no_answer,לא ענה
+C-26117,2025-12-15,025429397,ADV-03,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26118,2025-12-15,025487699,ADV-06,self_referral,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26119,2025-12-15,12346997,ADV-03,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26120,2025-12-16,024163660,ADV-02,lecturer_referral,whatsapp,no_answer,לא ענה
+C-26121,2025-12-16,024362612,ADV-04,self_referral,phone,no_answer,לא ענה
+C-26122,2025-12-16,024505798,ADV-04,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26123,2025-12-16,12304328,ADV-01,self_referral,phone,no_answer,לא ענה
+C-26124,2025-12-16,12379740,ADV-06,self_referral,whatsapp,no_answer,לא ענה
+C-26125,2025-12-16,12395793,ADV-06,self_referral,phone,no_answer,מספר לא תקין
+C-26126,2025-12-17,024338564,ADV-06,self_referral,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26127,2025-12-17,024470175,ADV-06,lecturer_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26128,2025-12-17,025508250,ADV-02,admin_referral,phone,no_answer,לא ענה
+C-26129,2025-12-17,025638120,ADV-03,admin_referral,whatsapp,no_answer,לא ענה
+C-26130,2025-12-18,12368065,ADV-02,lecturer_referral,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26131,2025-12-21,024420069,ADV-02,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26132,2025-12-21,024591238,ADV-03,admin_referral,phone,no_answer,מספר לא תקין
+C-26133,2025-12-21,12317537,ADV-01,lecturer_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26134,2025-12-21,12323737,ADV-04,lecturer_referral,meeting,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26135,2025-12-21,12338128,ADV-01,lecturer_referral,phone,no_answer,מספר לא תקין
+C-26136,2025-12-22,025407551,ADV-03,self_referral,phone,no_answer,מספר לא תקין
+C-26137,2025-12-22,025574397,ADV-06,self_referral,phone,no_answer,לא ענה
+C-26138,2025-12-22,12321784,ADV-04,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26139,2025-12-23,025385377,ADV-06,admin_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26140,2025-12-23,025394313,ADV-01,self_referral,whatsapp,no_answer,לא ענה
+C-26141,2025-12-23,025794369,ADV-04,self_referral,phone,no_answer,לא ענה
+C-26142,2025-12-23,025951423,ADV-04,admin_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26143,2025-12-24,024851083,ADV-05,self_referral,phone,no_answer,מספר לא תקין
+C-26144,2025-12-24,025526657,ADV-06,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26145,2025-12-24,025731044,ADV-04,admin_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26146,2025-12-24,025731045,ADV-04,lecturer_referral,whatsapp,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-26147,2025-12-24,12392575,ADV-01,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26148,2025-12-25,025500775,ADV-03,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26149,2025-12-25,12339767,ADV-02,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26150,2025-12-28,024530176,ADV-03,self_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26151,2025-12-28,024617452,ADV-01,admin_referral,phone,no_answer,לא ענה
+C-26152,2025-12-28,024617452,ADV-04,lecturer_referral,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26153,2025-12-28,024771738,ADV-05,self_referral,meeting,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26154,2025-12-28,025543691,ADV-06,self_referral,whatsapp,no_answer,לא ענה
+C-26155,2025-12-28,12351620,ADV-01,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26156,2025-12-29,024546181,ADV-06,lecturer_referral,phone,no_answer,מספר לא תקין
+C-26157,2025-12-31,024530007,ADV-03,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26158,2025-12-31,025395340,ADV-06,self_referral,phone,no_answer,לא ענה
+C-26159,2025-12-31,025733314,ADV-02,self_referral,whatsapp,no_answer,מספר לא תקין
+C-26160,2025-12-31,12334408,ADV-02,self_referral,phone,no_answer,לא ענה
+C-26161,2026-01-01,025396235,ADV-04,self_referral,phone,no_answer,לא ענה
+C-26162,2026-01-01,12316327,ADV-01,self_referral,phone,no_answer,לא ענה
+C-26163,2026-01-01,12321982,ADV-01,lecturer_referral,meeting,no_answer,מספר לא תקין
+C-26164,2026-01-01,12355070,ADV-06,lecturer_referral,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26165,2026-01-01,12381292,ADV-03,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26166,2026-01-04,024670045,ADV-06,lecturer_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26167,2026-01-04,024711635,ADV-05,lecturer_referral,phone,no_answer,לא ענה
+C-26168,2026-01-04,025274073,ADV-04,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26169,2026-01-04,025704191,ADV-04,lecturer_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26170,2026-01-04,025826607,ADV-03,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26171,2026-01-04,12389375,ADV-04,self_referral,phone,no_answer,מספר לא תקין
+C-26172,2026-01-04,12398733,ADV-04,self_referral,whatsapp,no_answer,לא ענה
+C-26173,2026-01-05,12308588,ADV-03,admin_referral,phone,no_answer,לא ענה
+C-26174,2026-01-06,12309816,ADV-06,self_referral,phone,no_answer,מספר לא תקין
+C-26175,2026-01-06,12310001,ADV-04,lecturer_referral,whatsapp,no_answer,מספר לא תקין
+C-26176,2026-01-07,024723869,ADV-06,lecturer_referral,phone,no_answer,לא ענה
+C-26177,2026-01-07,025158711,ADV-02,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26178,2026-01-07,025659494,ADV-04,admin_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26179,2026-01-07,025836452,ADV-01,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26180,2026-01-07,12380148,ADV-05,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26181,2026-01-07,12380764,ADV-04,self_referral,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26182,2026-01-08,024275385,ADV-01,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26183,2026-01-11,024547044,ADV-01,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26184,2026-01-11,024846918,ADV-01,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26185,2026-01-11,024947451,ADV-05,self_referral,whatsapp,no_answer,מספר לא תקין
+C-26186,2026-01-11,025348574,ADV-04,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26187,2026-01-11,025433615,ADV-03,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26188,2026-01-11,025461538,ADV-06,lecturer_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26189,2026-01-11,025841780,ADV-02,self_referral,whatsapp,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-26190,2026-01-11,12337988,ADV-01,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26191,2026-01-11,12380048,ADV-06,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26192,2026-01-11,12386970,ADV-04,self_referral,phone,no_answer,לא ענה
+C-26193,2026-01-12,024930780,ADV-05,self_referral,meeting,no_answer,מספר לא תקין
+C-26194,2026-01-12,025334124,ADV-05,lecturer_referral,phone,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-26195,2026-01-12,12365471,ADV-02,self_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26196,2026-01-12,12391510,ADV-06,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26197,2026-01-13,024393080,ADV-05,lecturer_referral,phone,no_answer,מספר לא תקין
+C-26198,2026-01-14,025265010,ADV-04,admin_referral,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26199,2026-01-15,024565521,ADV-02,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26200,2026-01-15,024568636,ADV-01,self_referral,phone,no_answer,מספר לא תקין
+C-26201,2026-01-15,025203047,ADV-04,admin_referral,meeting,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26202,2026-01-15,025569071,ADV-05,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26203,2026-01-15,12359608,ADV-04,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26204,2026-01-18,024101968,ADV-04,self_referral,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26205,2026-01-18,024275875,ADV-06,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26206,2026-01-18,024834816,ADV-01,admin_referral,phone,no_answer,מספר לא תקין
+C-26207,2026-01-18,025175188,ADV-02,lecturer_referral,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26208,2026-01-18,025255832,ADV-05,admin_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26209,2026-01-18,025537273,ADV-04,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26210,2026-01-18,025595866,ADV-03,admin_referral,phone,no_answer,לא ענה
+C-26211,2026-01-18,12312589,ADV-01,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26212,2026-01-19,024173177,ADV-03,self_referral,phone,no_answer,לא ענה
+C-26213,2026-01-19,025544078,ADV-03,self_referral,meeting,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26214,2026-01-19,12354071,ADV-01,admin_referral,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26215,2026-01-19,12388313,ADV-01,self_referral,phone,no_answer,לא ענה
+C-26216,2026-01-20,024698067,ADV-05,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26217,2026-01-20,12364923,ADV-03,lecturer_referral,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26218,2026-01-21,12327114,ADV-03,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26219,2026-01-22,024314148,ADV-06,self_referral,phone,no_answer,מספר לא תקין
+C-26220,2026-01-22,024818612,ADV-01,admin_referral,whatsapp,no_answer,מספר לא תקין
+C-26221,2026-01-22,12301131,ADV-04,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26222,2026-01-22,12350464,ADV-03,lecturer_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26223,2026-01-25,024408185,ADV-04,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26224,2026-01-25,024787812,ADV-01,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26225,2026-01-25,024889771,ADV-03,admin_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26226,2026-01-25,025165446,ADV-05,self_referral,phone,no_answer,מספר לא תקין
+C-26227,2026-01-25,025351024,ADV-02,admin_referral,phone,no_answer,מספר לא תקין
+C-26228,2026-01-25,025392846,ADV-04,admin_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26229,2026-01-25,025449279,ADV-02,admin_referral,meeting,no_answer,מספר לא תקין
+C-26230,2026-01-25,025784972,ADV-02,admin_referral,meeting,no_answer,מספר לא תקין
+C-26231,2026-01-25,12372432,ADV-02,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26232,2026-01-26,12308277,ADV-02,self_referral,phone,no_answer,מספר לא תקין
+C-26233,2026-01-27,024216323,ADV-04,self_referral,phone,no_answer,מספר לא תקין
+C-26234,2026-01-27,12395220,ADV-02,self_referral,meeting,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26235,2026-01-28,024694867,ADV-01,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26236,2026-01-28,025389860,ADV-06,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26237,2026-01-29,025846298,ADV-05,lecturer_referral,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26238,2026-02-01,024200913,ADV-03,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26239,2026-02-01,024230223,ADV-06,self_referral,phone,no_answer,מספר לא תקין
+C-26240,2026-02-01,024347303,ADV-04,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26241,2026-02-01,024381436,ADV-05,self_referral,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26242,2026-02-01,025194495,ADV-04,self_referral,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26243,2026-02-01,025797105,ADV-02,self_referral,phone,referred_accessibility,"צריך התאמות, הופנה לנגישות"
+C-26244,2026-02-01,12343980,ADV-05,admin_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26245,2026-02-01,12387850,ADV-01,lecturer_referral,meeting,no_answer,לא ענה
+C-26246,2026-02-02,025478065,ADV-06,lecturer_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26247,2026-02-02,12339429,ADV-01,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26248,2026-02-03,025151760,ADV-01,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26249,2026-02-03,12390875,ADV-05,lecturer_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26250,2026-02-04,12332895,ADV-04,admin_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26251,2026-02-08,024320864,ADV-06,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26252,2026-02-08,024616017,ADV-02,lecturer_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26253,2026-02-08,025900906,ADV-06,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26254,2026-02-08,12341239,ADV-06,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26255,2026-02-08,12391193,ADV-04,self_referral,phone,no_answer,לא ענה
+C-26256,2026-02-09,12318918,ADV-02,admin_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26257,2026-02-10,025909511,ADV-06,lecturer_referral,meeting,no_answer,מספר לא תקין
+C-26258,2026-02-10,12303213,ADV-02,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26259,2026-02-10,12340437,ADV-05,lecturer_referral,phone,no_answer,לא ענה
+C-26260,2026-02-11,024605243,ADV-03,admin_referral,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26261,2026-02-11,12375304,ADV-05,admin_referral,phone,no_answer,לא ענה
+C-26262,2026-02-12,025698791,ADV-05,self_referral,whatsapp,no_answer,מספר לא תקין
+C-26263,2026-02-12,025875743,ADV-03,self_referral,meeting,no_answer,מספר לא תקין
+C-26264,2026-02-12,12396563,ADV-05,self_referral,meeting,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26265,2026-02-15,024197429,ADV-05,admin_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26266,2026-02-15,024542481,ADV-04,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26267,2026-02-15,025618957,ADV-03,lecturer_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26268,2026-02-15,12323276,ADV-06,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26269,2026-02-15,12378074,ADV-01,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26270,2026-02-16,024754155,ADV-05,admin_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26271,2026-02-16,024769874,ADV-03,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26272,2026-02-16,12333631,ADV-05,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26273,2026-02-17,024192558,ADV-05,self_referral,whatsapp,no_answer,לא ענה
+C-26274,2026-02-17,025425127,ADV-05,self_referral,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26275,2026-02-17,025810064,ADV-04,self_referral,phone,no_answer,לא ענה
+C-26276,2026-02-18,025680390,ADV-06,self_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26277,2026-02-19,025688308,ADV-02,admin_referral,whatsapp,no_answer,מספר לא תקין
+C-26278,2026-02-22,024288256,ADV-01,admin_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26279,2026-02-22,024477129,ADV-05,admin_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26280,2026-02-22,024531035,ADV-03,lecturer_referral,meeting,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26281,2026-02-22,025139824,ADV-04,self_referral,phone,no_answer,לא ענה
+C-26282,2026-02-22,025815083,ADV-03,admin_referral,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26283,2026-02-22,12308313,ADV-03,admin_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26284,2026-02-22,12351227,ADV-06,self_referral,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26285,2026-02-22,12394318,ADV-01,admin_referral,whatsapp,left,"החליט להפסיק, סיבות כלכליות"
+C-26286,2026-02-23,12343814,ADV-05,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26287,2026-02-25,024621837,ADV-04,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26288,2026-02-25,024834108,ADV-05,lecturer_referral,phone,no_answer,מספר לא תקין
+C-26289,2026-02-25,025585009,ADV-01,lecturer_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26290,2026-02-25,025597509,ADV-06,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26291,2026-02-26,025117752,ADV-01,self_referral,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26292,2026-03-01,024179984,ADV-03,self_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26293,2026-03-01,024411432,ADV-01,self_referral,whatsapp,no_answer,לא ענה
+C-26294,2026-03-01,024472540,ADV-05,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26295,2026-03-01,024866562,ADV-06,admin_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26296,2026-03-01,025118714,ADV-06,self_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26297,2026-03-01,025751019,ADV-03,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26298,2026-03-01,025975618,ADV-01,self_referral,phone,no_answer,מספר לא תקין
+C-26299,2026-03-01,12342634,ADV-04,lecturer_referral,phone,no_answer,לא ענה
+C-26300,2026-03-01,12374327,ADV-03,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26301,2026-03-01,12380909,ADV-04,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26302,2026-03-02,025107533,ADV-04,early_contact,meeting,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26303,2026-03-02,025417884,ADV-03,early_contact,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26304,2026-03-02,025549343,ADV-04,early_contact,meeting,no_answer,לא ענה
+C-26305,2026-03-02,025727179,ADV-03,early_contact,meeting,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26306,2026-03-02,025775448,ADV-01,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26307,2026-03-02,025808695,ADV-02,early_contact,phone,no_answer,מספר לא תקין
+C-26308,2026-03-02,025959911,ADV-04,early_contact,whatsapp,no_answer,מספר לא תקין
+C-26309,2026-03-03,025304547,ADV-05,early_contact,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26310,2026-03-03,025413623,ADV-02,early_contact,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26311,2026-03-03,025557988,ADV-02,early_contact,whatsapp,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26312,2026-03-04,025121559,ADV-04,early_contact,phone,no_answer,לא ענה
+C-26313,2026-03-04,025210976,ADV-03,early_contact,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26314,2026-03-04,025235257,ADV-01,early_contact,phone,no_answer,לא ענה
+C-26315,2026-03-04,025369687,ADV-01,early_contact,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26316,2026-03-04,025614473,ADV-04,early_contact,phone,no_answer,לא ענה
+C-26317,2026-03-04,025744374,ADV-03,early_contact,phone,left,עבר למכללה אחרת
+C-26318,2026-03-04,025786576,ADV-04,early_contact,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26319,2026-03-04,025826347,ADV-03,early_contact,whatsapp,referred_finance,חסום כספית - הופנה לגבייה
+C-26320,2026-03-04,025853416,ADV-03,early_contact,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26321,2026-03-04,025880543,ADV-04,early_contact,meeting,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26322,2026-03-04,025894252,ADV-03,early_contact,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26323,2026-03-04,025977248,ADV-04,early_contact,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26324,2026-03-04,12365647,ADV-02,self_referral,meeting,no_answer,מספר לא תקין
+C-26325,2026-03-05,024314148,ADV-02,admin_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26326,2026-03-05,025294945,ADV-03,early_contact,phone,no_answer,לא ענה
+C-26327,2026-03-05,025321756,ADV-01,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26328,2026-03-05,025397328,ADV-01,early_contact,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26329,2026-03-05,025668306,ADV-01,early_contact,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26330,2026-03-05,025920183,ADV-03,early_contact,phone,no_answer,לא ענה
+C-26331,2026-03-05,12395190,ADV-04,self_referral,meeting,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26332,2026-03-08,024369276,ADV-02,lecturer_referral,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26333,2026-03-08,024900522,ADV-06,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26334,2026-03-08,025121796,ADV-03,early_contact,whatsapp,no_answer,מספר לא תקין
+C-26335,2026-03-08,025185623,ADV-02,early_contact,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26336,2026-03-08,025245981,ADV-04,early_contact,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26337,2026-03-08,025246447,ADV-01,early_contact,meeting,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26338,2026-03-08,025306420,ADV-03,early_contact,phone,no_answer,מספר לא תקין
+C-26339,2026-03-08,025345430,ADV-01,early_contact,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26340,2026-03-08,025400012,ADV-02,early_contact,phone,no_answer,מספר לא תקין
+C-26341,2026-03-08,025417660,ADV-05,early_contact,phone,no_answer,מספר לא תקין
+C-26342,2026-03-08,025470075,ADV-03,early_contact,phone,no_answer,מספר לא תקין
+C-26343,2026-03-08,025514038,ADV-05,early_contact,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26344,2026-03-08,025533571,ADV-05,early_contact,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26345,2026-03-08,025554382,ADV-04,early_contact,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26346,2026-03-08,025597509,ADV-05,early_contact,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26347,2026-03-08,025801018,ADV-02,self_referral,phone,no_answer,מספר לא תקין
+C-26348,2026-03-08,025947932,ADV-05,early_contact,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26349,2026-03-08,12306167,ADV-02,lecturer_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26350,2026-03-08,12349300,ADV-04,lecturer_referral,phone,no_answer,מספר לא תקין
+C-26351,2026-03-09,024203508,ADV-04,self_referral,phone,no_answer,מספר לא תקין
+C-26352,2026-03-09,025560181,ADV-04,early_contact,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26353,2026-03-09,025580817,ADV-02,early_contact,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26354,2026-03-09,025682420,ADV-06,early_contact,whatsapp,no_answer,מספר לא תקין
+C-26355,2026-03-09,025745464,ADV-06,early_contact,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26356,2026-03-09,025760960,ADV-06,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26357,2026-03-09,025791270,ADV-03,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26358,2026-03-09,12312594,ADV-01,self_referral,whatsapp,referred_finance,חסום כספית - הופנה לגבייה
+C-26359,2026-03-09,12322377,ADV-03,lecturer_referral,phone,no_answer,מספר לא תקין
+C-26360,2026-03-09,12357463,ADV-01,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26361,2026-03-10,024177277,ADV-01,lecturer_referral,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26362,2026-03-10,025145705,ADV-06,admin_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26363,2026-03-10,025332903,ADV-04,early_contact,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26364,2026-03-10,025340100,ADV-06,early_contact,phone,referred_accessibility,"צריך התאמות, הופנה לנגישות"
+C-26365,2026-03-10,025531520,ADV-06,lecturer_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26366,2026-03-10,025768695,ADV-01,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26367,2026-03-10,025937557,ADV-04,early_contact,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26368,2026-03-10,025962498,ADV-05,lecturer_referral,phone,no_answer,לא ענה
+C-26369,2026-03-10,025973095,ADV-06,early_contact,phone,no_answer,מספר לא תקין
+C-26370,2026-03-11,024347303,ADV-05,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26371,2026-03-11,024757673,ADV-01,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26372,2026-03-11,025202368,ADV-02,early_contact,phone,no_answer,לא ענה
+C-26373,2026-03-11,025383261,ADV-01,early_contact,phone,no_answer,לא ענה
+C-26374,2026-03-11,025901650,ADV-06,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26375,2026-03-11,12375677,ADV-05,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26376,2026-03-11,12380834,ADV-01,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26377,2026-03-12,025233252,ADV-06,admin_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26378,2026-03-12,025262001,ADV-05,early_contact,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26379,2026-03-12,025369794,ADV-06,early_contact,meeting,referred_finance,חסום כספית - הופנה לגבייה
+C-26380,2026-03-12,025376584,ADV-05,early_contact,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26381,2026-03-12,025386589,ADV-03,early_contact,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26382,2026-03-12,025440165,ADV-04,self_referral,phone,no_answer,לא ענה
+C-26383,2026-03-12,025607912,ADV-04,early_contact,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26384,2026-03-12,025754307,ADV-02,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26385,2026-03-12,025909710,ADV-04,early_contact,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26386,2026-03-12,025959806,ADV-01,early_contact,meeting,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26387,2026-03-12,025962639,ADV-04,lecturer_referral,phone,no_answer,מספר לא תקין
+C-26388,2026-03-12,12347777,ADV-05,self_referral,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26389,2026-03-15,024372194,ADV-03,self_referral,phone,no_answer,מספר לא תקין
+C-26390,2026-03-15,024420069,ADV-01,lecturer_referral,meeting,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26391,2026-03-15,024433438,ADV-05,self_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26392,2026-03-15,025107502,ADV-05,early_contact,phone,no_answer,מספר לא תקין
+C-26393,2026-03-15,025130673,ADV-05,early_contact,meeting,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26394,2026-03-15,025159643,ADV-03,early_contact,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26395,2026-03-15,025286660,ADV-02,early_contact,whatsapp,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26396,2026-03-15,025295418,ADV-02,early_contact,meeting,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26397,2026-03-15,025331160,ADV-02,early_contact,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26398,2026-03-15,025333445,ADV-05,early_contact,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26399,2026-03-15,025412837,ADV-06,early_contact,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26400,2026-03-15,025555983,ADV-03,early_contact,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26401,2026-03-15,025574397,ADV-05,early_contact,whatsapp,no_answer,מספר לא תקין
+C-26402,2026-03-15,025636550,ADV-05,early_contact,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26403,2026-03-15,025667719,ADV-06,early_contact,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26404,2026-03-15,025682420,ADV-05,lecturer_referral,meeting,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26405,2026-03-15,025757941,ADV-01,early_contact,phone,no_answer,לא ענה
+C-26406,2026-03-15,025807495,ADV-06,early_contact,phone,no_answer,לא ענה
+C-26407,2026-03-15,025807704,ADV-05,lecturer_referral,whatsapp,no_answer,לא ענה
+C-26408,2026-03-15,025809995,ADV-02,early_contact,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26409,2026-03-15,025815083,ADV-06,early_contact,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26410,2026-03-15,025821609,ADV-02,early_contact,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26411,2026-03-15,025890235,ADV-06,early_contact,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26412,2026-03-15,025949414,ADV-06,lecturer_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26413,2026-03-15,12335827,ADV-05,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26414,2026-03-15,12392839,ADV-02,lecturer_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26415,2026-03-16,024386742,ADV-03,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26416,2026-03-16,024664083,ADV-05,admin_referral,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26417,2026-03-16,025149610,ADV-03,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26418,2026-03-16,025246651,ADV-06,self_referral,phone,no_answer,לא ענה
+C-26419,2026-03-16,025371748,ADV-03,early_contact,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26420,2026-03-16,025593601,ADV-02,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26421,2026-03-16,025616205,ADV-03,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26422,2026-03-16,025659848,ADV-05,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26423,2026-03-16,025752303,ADV-03,early_contact,phone,left,עבר למכללה אחרת
+C-26424,2026-03-16,025913824,ADV-06,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26425,2026-03-16,025987701,ADV-03,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26426,2026-03-16,12334497,ADV-05,admin_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26427,2026-03-17,024349654,ADV-04,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26428,2026-03-17,024386742,ADV-03,admin_referral,phone,no_answer,מספר לא תקין
+C-26429,2026-03-17,025122639,ADV-04,tavla_red,phone,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26430,2026-03-17,025256439,ADV-02,early_contact,meeting,no_answer,מספר לא תקין
+C-26431,2026-03-17,025282263,ADV-04,early_contact,phone,left,עבר למכללה אחרת
+C-26432,2026-03-17,025317932,ADV-01,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26433,2026-03-17,025348819,ADV-05,admin_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26434,2026-03-17,025365687,ADV-02,early_contact,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26435,2026-03-17,025482108,ADV-04,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26436,2026-03-17,025578776,ADV-04,early_contact,whatsapp,referred_finance,חסום כספית - הופנה לגבייה
+C-26437,2026-03-17,025636139,ADV-02,early_contact,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26438,2026-03-17,025649422,ADV-04,early_contact,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26439,2026-03-17,025693351,ADV-03,tavla_red,meeting,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-26440,2026-03-17,025718179,ADV-04,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26441,2026-03-17,025788556,ADV-05,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26442,2026-03-17,025856944,ADV-05,early_contact,phone,no_answer,לא ענה
+C-26443,2026-03-18,024565521,ADV-01,admin_referral,phone,no_answer,לא ענה
+C-26444,2026-03-18,025162044,ADV-01,early_contact,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26445,2026-03-18,025194368,ADV-04,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26446,2026-03-18,025203047,ADV-02,early_contact,phone,no_answer,מספר לא תקין
+C-26447,2026-03-18,025208087,ADV-03,tavla_red,phone,no_answer,לא ענה
+C-26448,2026-03-18,025308609,ADV-03,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26449,2026-03-18,025317932,ADV-06,early_contact,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26450,2026-03-18,025333196,ADV-04,early_contact,meeting,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26451,2026-03-18,025427872,ADV-06,admin_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26452,2026-03-18,025464592,ADV-03,tavla_red,phone,no_answer,לא ענה
+C-26453,2026-03-18,025526814,ADV-06,early_contact,phone,no_answer,לא ענה
+C-26454,2026-03-18,025615998,ADV-04,tavla_red,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26455,2026-03-18,025681383,ADV-03,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26456,2026-03-18,025804984,ADV-05,early_contact,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26457,2026-03-18,025809851,ADV-02,early_contact,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26458,2026-03-18,025913873,ADV-06,early_contact,phone,left,"החליט להפסיק, סיבות כלכליות"
+C-26459,2026-03-18,12339935,ADV-03,self_referral,phone,no_answer,מספר לא תקין
+C-26460,2026-03-18,12374083,ADV-03,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26461,2026-03-19,024592728,ADV-01,lecturer_referral,phone,no_answer,לא ענה
+C-26462,2026-03-19,025285939,ADV-06,early_contact,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26463,2026-03-19,025391296,ADV-06,tavla_red,whatsapp,no_answer,לא ענה
+C-26464,2026-03-19,025442601,ADV-01,early_contact,meeting,referred_finance,חסום כספית - הופנה לגבייה
+C-26465,2026-03-19,025518089,ADV-03,early_contact,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26466,2026-03-19,025589386,ADV-04,early_contact,meeting,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26467,2026-03-19,025634542,ADV-01,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26468,2026-03-19,025748537,ADV-02,early_contact,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26469,2026-03-19,12361140,ADV-04,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26470,2026-03-22,024130127,ADV-04,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26471,2026-03-22,024273085,ADV-03,admin_referral,phone,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-26472,2026-03-22,024599757,ADV-06,lecturer_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26473,2026-03-22,025136236,ADV-05,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26474,2026-03-22,025205438,ADV-02,tavla_red,whatsapp,referred_finance,חסום כספית - הופנה לגבייה
+C-26475,2026-03-22,025242013,ADV-06,lecturer_referral,phone,no_answer,לא ענה
+C-26476,2026-03-22,025273774,ADV-02,early_contact,phone,left,עבר למכללה אחרת
+C-26477,2026-03-22,025303933,ADV-03,tavla_red,phone,no_answer,לא ענה
+C-26478,2026-03-22,025313792,ADV-04,early_contact,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26479,2026-03-22,025397328,ADV-03,lecturer_referral,phone,no_answer,מספר לא תקין
+C-26480,2026-03-22,025426685,ADV-04,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26481,2026-03-22,025519684,ADV-05,early_contact,phone,no_answer,מספר לא תקין
+C-26482,2026-03-22,025543691,ADV-02,early_contact,phone,left,עבר למכללה אחרת
+C-26483,2026-03-22,025638154,ADV-04,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26484,2026-03-22,025650709,ADV-06,early_contact,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26485,2026-03-22,025663710,ADV-06,self_referral,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26486,2026-03-22,025682420,ADV-03,tavla_red,phone,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26487,2026-03-22,025716795,ADV-05,early_contact,meeting,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26488,2026-03-22,025758685,ADV-02,admin_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26489,2026-03-22,025766251,ADV-06,early_contact,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26490,2026-03-22,025790113,ADV-01,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26491,2026-03-22,025808850,ADV-03,tavla_red,whatsapp,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26492,2026-03-22,025810774,ADV-05,early_contact,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26493,2026-03-22,025811258,ADV-03,early_contact,meeting,no_answer,לא ענה
+C-26494,2026-03-22,025818758,ADV-03,early_contact,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26495,2026-03-22,025830974,ADV-01,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26496,2026-03-22,025936030,ADV-06,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26497,2026-03-22,025976267,ADV-02,early_contact,meeting,referred_finance,חסום כספית - הופנה לגבייה
+C-26498,2026-03-22,12358779,ADV-06,lecturer_referral,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26499,2026-03-23,024174302,ADV-04,admin_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26500,2026-03-23,024387674,ADV-06,self_referral,whatsapp,no_answer,מספר לא תקין
+C-26501,2026-03-23,024760838,ADV-02,admin_referral,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26502,2026-03-23,025127019,ADV-04,early_contact,meeting,left,עבר למכללה אחרת
+C-26503,2026-03-23,025273683,ADV-05,lecturer_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26504,2026-03-23,025287528,ADV-06,tavla_red,phone,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26505,2026-03-23,025493511,ADV-06,early_contact,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26506,2026-03-23,025631077,ADV-05,tavla_red,meeting,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26507,2026-03-23,025826607,ADV-01,admin_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26508,2026-03-23,025912333,ADV-01,tavla_red,phone,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26509,2026-03-23,12366050,ADV-06,self_referral,meeting,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26510,2026-03-24,025272526,ADV-04,tavla_red,whatsapp,no_answer,מספר לא תקין
+C-26511,2026-03-24,025322683,ADV-06,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26512,2026-03-24,025381457,ADV-03,early_contact,phone,no_answer,לא ענה
+C-26513,2026-03-24,025644654,ADV-05,early_contact,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26514,2026-03-24,025738881,ADV-03,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26515,2026-03-24,025810368,ADV-05,early_contact,whatsapp,left,"החליט להפסיק, סיבות כלכליות"
+C-26516,2026-03-24,025937715,ADV-04,early_contact,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26517,2026-03-24,12307626,ADV-03,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26518,2026-03-24,12363004,ADV-03,self_referral,phone,no_answer,מספר לא תקין
+C-26519,2026-03-25,025439049,ADV-05,early_contact,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26520,2026-03-25,025590380,ADV-04,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26521,2026-03-25,025735852,ADV-04,early_contact,phone,no_answer,לא ענה
+C-26522,2026-03-25,025815085,ADV-02,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26523,2026-03-25,025836452,ADV-02,early_contact,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26524,2026-03-26,024880000,ADV-06,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26525,2026-03-26,025222835,ADV-05,admin_referral,phone,no_answer,לא ענה
+C-26526,2026-03-26,025263805,ADV-01,lecturer_referral,phone,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-26527,2026-03-26,025308940,ADV-05,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26528,2026-03-26,025414701,ADV-04,admin_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26529,2026-03-26,025452906,ADV-04,lecturer_referral,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26530,2026-03-26,025496457,ADV-05,early_contact,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26531,2026-03-26,025763088,ADV-01,tavla_red,meeting,no_answer,מספר לא תקין
+C-26532,2026-03-26,12322771,ADV-05,lecturer_referral,phone,left,"החליט להפסיק, סיבות כלכליות"
+C-26533,2026-03-29,024368927,ADV-03,self_referral,meeting,no_answer,מספר לא תקין
+C-26534,2026-03-29,024388093,ADV-06,admin_referral,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26535,2026-03-29,024568581,ADV-01,self_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26536,2026-03-29,025100581,ADV-02,early_contact,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26537,2026-03-29,025146795,ADV-06,early_contact,phone,left,"החליט להפסיק, סיבות כלכליות"
+C-26538,2026-03-29,025208087,ADV-06,tavla_red,whatsapp,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-26539,2026-03-29,025256799,ADV-03,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26540,2026-03-29,025273426,ADV-05,early_contact,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26541,2026-03-29,025308205,ADV-01,early_contact,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26542,2026-03-29,025325269,ADV-05,early_contact,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26543,2026-03-29,025331564,ADV-02,early_contact,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26544,2026-03-29,025364159,ADV-06,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26545,2026-03-29,025386794,ADV-04,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26546,2026-03-29,025392846,ADV-05,early_contact,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26547,2026-03-29,025397328,ADV-04,tavla_red,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26548,2026-03-29,025412214,ADV-01,early_contact,meeting,no_answer,מספר לא תקין
+C-26549,2026-03-29,025487095,ADV-03,tavla_red,phone,no_answer,מספר לא תקין
+C-26550,2026-03-29,025496906,ADV-01,tavla_red,phone,no_answer,לא ענה
+C-26551,2026-03-29,025554382,ADV-02,self_referral,phone,no_answer,מספר לא תקין
+C-26552,2026-03-29,025554444,ADV-02,early_contact,whatsapp,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26553,2026-03-29,025560181,ADV-01,tavla_red,whatsapp,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-26554,2026-03-29,025590380,ADV-02,early_contact,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26555,2026-03-29,025629042,ADV-01,tavla_red,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26556,2026-03-29,025671699,ADV-06,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26557,2026-03-29,025680390,ADV-05,lecturer_referral,phone,left,עבר למכללה אחרת
+C-26558,2026-03-29,025691552,ADV-03,early_contact,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26559,2026-03-29,025706004,ADV-01,early_contact,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26560,2026-03-29,025807536,ADV-02,early_contact,phone,left,עבר למכללה אחרת
+C-26561,2026-03-29,025808582,ADV-03,tavla_red,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26562,2026-03-29,025847015,ADV-05,early_contact,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26563,2026-03-29,025936954,ADV-04,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26564,2026-03-29,025975971,ADV-03,tavla_red,phone,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-26565,2026-03-29,025977945,ADV-01,early_contact,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26566,2026-03-29,025993857,ADV-02,early_contact,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26567,2026-03-29,12314374,ADV-04,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26568,2026-03-29,12328528,ADV-03,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26569,2026-03-29,12348997,ADV-02,lecturer_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26570,2026-03-29,12382634,ADV-05,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26571,2026-03-29,12394869,ADV-06,lecturer_referral,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26572,2026-03-30,024956158,ADV-01,admin_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26573,2026-03-30,025268590,ADV-02,early_contact,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26574,2026-03-30,025324663,ADV-05,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26575,2026-03-30,025416231,ADV-01,early_contact,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26576,2026-03-30,025423440,ADV-01,early_contact,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26577,2026-03-30,025597509,ADV-04,tavla_red,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26578,2026-03-30,025784972,ADV-05,tavla_red,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26579,2026-03-30,025933409,ADV-01,early_contact,meeting,left,עבר למכללה אחרת
+C-26580,2026-03-31,024365366,ADV-06,self_referral,phone,referred_accessibility,"צריך התאמות, הופנה לנגישות"
+C-26581,2026-03-31,024389140,ADV-05,self_referral,whatsapp,no_answer,לא ענה
+C-26582,2026-03-31,025305584,ADV-05,admin_referral,phone,no_answer,לא ענה
+C-26583,2026-03-31,025561596,ADV-02,tavla_red,phone,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26584,2026-03-31,025736524,ADV-04,tavla_red,meeting,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26585,2026-03-31,025837317,ADV-05,tavla_red,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26586,2026-03-31,025869500,ADV-05,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26587,2026-03-31,025992951,ADV-02,tavla_red,phone,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-26588,2026-03-31,12318003,ADV-02,admin_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26589,2026-03-31,12398831,ADV-04,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26590,2026-04-01,025287528,ADV-04,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26591,2026-04-01,025615998,ADV-01,tavla_red,whatsapp,no_answer,לא ענה
+C-26592,2026-04-01,025815085,ADV-04,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26593,2026-04-01,025915410,ADV-04,tavla_red,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26594,2026-04-01,12303564,ADV-05,lecturer_referral,meeting,no_answer,מספר לא תקין
+C-26595,2026-04-02,024932857,ADV-06,admin_referral,phone,no_answer,מספר לא תקין
+C-26596,2026-04-02,025122639,ADV-01,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26597,2026-04-02,025276137,ADV-02,tavla_red,phone,no_answer,מספר לא תקין
+C-26598,2026-04-02,025389860,ADV-05,tavla_red,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26599,2026-04-02,025760537,ADV-03,self_referral,phone,no_answer,מספר לא תקין
+C-26600,2026-04-02,025779351,ADV-03,tavla_red,phone,no_answer,מספר לא תקין
+C-26601,2026-04-02,12332846,ADV-03,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26602,2026-04-02,12342994,ADV-06,self_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26603,2026-04-02,12350576,ADV-04,admin_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26604,2026-04-05,024268035,ADV-04,lecturer_referral,phone,no_answer,לא ענה
+C-26605,2026-04-05,024348209,ADV-02,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26606,2026-04-05,025100335,ADV-02,tavla_red,whatsapp,no_answer,לא ענה
+C-26607,2026-04-05,025151843,ADV-03,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26608,2026-04-05,025250773,ADV-04,tavla_red,meeting,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26609,2026-04-05,025262502,ADV-06,tavla_red,whatsapp,no_answer,מספר לא תקין
+C-26610,2026-04-05,025306386,ADV-04,self_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26611,2026-04-05,025314379,ADV-04,tavla_red,phone,no_answer,לא ענה
+C-26612,2026-04-05,025391296,ADV-05,tavla_red,phone,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26613,2026-04-05,025445310,ADV-01,tavla_red,meeting,no_answer,מספר לא תקין
+C-26614,2026-04-05,025458108,ADV-05,tavla_red,meeting,no_answer,מספר לא תקין
+C-26615,2026-04-05,025567894,ADV-02,self_referral,phone,no_answer,לא ענה
+C-26616,2026-04-05,025624783,ADV-05,tavla_red,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26617,2026-04-05,025778292,ADV-01,tavla_red,phone,no_answer,מספר לא תקין
+C-26618,2026-04-05,025780982,ADV-05,tavla_red,phone,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-26619,2026-04-05,025809851,ADV-01,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26620,2026-04-05,025819887,ADV-06,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26621,2026-04-05,025912333,ADV-04,tavla_red,meeting,no_answer,מספר לא תקין
+C-26622,2026-04-05,12393437,ADV-02,self_referral,phone,no_answer,מספר לא תקין
+C-26623,2026-04-06,025302692,ADV-06,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26624,2026-04-06,025308940,ADV-05,tavla_red,meeting,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26625,2026-04-06,025552459,ADV-06,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26626,2026-04-06,025684728,ADV-04,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26627,2026-04-06,025915410,ADV-06,tavla_red,phone,no_answer,מספר לא תקין
+C-26628,2026-04-06,025930765,ADV-06,lecturer_referral,phone,no_answer,לא ענה
+C-26629,2026-04-07,025205438,ADV-01,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26630,2026-04-07,025278748,ADV-04,tavla_red,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26631,2026-04-07,025308609,ADV-02,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26632,2026-04-07,025412214,ADV-05,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26633,2026-04-07,025631077,ADV-04,tavla_red,phone,no_answer,לא ענה
+C-26634,2026-04-07,025784972,ADV-05,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26635,2026-04-07,025975971,ADV-04,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26636,2026-04-08,024359732,ADV-05,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26637,2026-04-08,024439799,ADV-04,lecturer_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26638,2026-04-08,025150307,ADV-03,self_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26639,2026-04-08,025306386,ADV-05,tavla_red,phone,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-26640,2026-04-08,025360074,ADV-03,tavla_red,phone,no_answer,לא ענה
+C-26641,2026-04-08,025566249,ADV-04,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26642,2026-04-08,025827503,ADV-02,tavla_red,whatsapp,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26643,2026-04-08,025952100,ADV-06,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26644,2026-04-09,024261385,ADV-02,admin_referral,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26645,2026-04-09,025303234,ADV-01,tavla_red,phone,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-26646,2026-04-09,025416231,ADV-03,tavla_red,whatsapp,no_answer,מספר לא תקין
+C-26647,2026-04-09,025458108,ADV-04,tavla_red,phone,no_answer,מספר לא תקין
+C-26648,2026-04-09,025548870,ADV-03,tavla_red,phone,no_answer,לא ענה
+C-26649,2026-04-09,025715554,ADV-05,tavla_red,whatsapp,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26650,2026-04-12,024776554,ADV-01,lecturer_referral,whatsapp,no_answer,מספר לא תקין
+C-26651,2026-04-12,024926118,ADV-02,admin_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26652,2026-04-12,025114486,ADV-04,lecturer_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26653,2026-04-12,025182525,ADV-03,self_referral,meeting,no_answer,לא ענה
+C-26654,2026-04-12,025232254,ADV-03,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26655,2026-04-12,025269479,ADV-01,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26656,2026-04-12,025293964,ADV-02,tavla_red,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26657,2026-04-12,025397328,ADV-05,tavla_red,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26658,2026-04-12,025463058,ADV-06,tavla_red,phone,no_answer,מספר לא תקין
+C-26659,2026-04-12,025560181,ADV-01,tavla_red,meeting,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-26660,2026-04-12,025577420,ADV-05,self_referral,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26661,2026-04-12,025624783,ADV-02,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26662,2026-04-12,025778292,ADV-05,tavla_red,phone,no_answer,לא ענה
+C-26663,2026-04-12,025779351,ADV-02,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26664,2026-04-12,025786427,ADV-05,tavla_red,phone,no_answer,מספר לא תקין
+C-26665,2026-04-12,025819887,ADV-04,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26666,2026-04-12,025877799,ADV-06,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26667,2026-04-12,12331634,ADV-05,lecturer_referral,phone,no_answer,מספר לא תקין
+C-26668,2026-04-12,12348984,ADV-04,lecturer_referral,phone,no_answer,לא ענה
+C-26669,2026-04-12,12388745,ADV-03,self_referral,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26670,2026-04-13,024349654,ADV-04,lecturer_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26671,2026-04-13,025330016,ADV-01,tavla_red,phone,no_answer,לא ענה
+C-26672,2026-04-13,025518188,ADV-02,tavla_red,meeting,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-26673,2026-04-13,025880543,ADV-02,tavla_red,phone,no_answer,מספר לא תקין
+C-26674,2026-04-14,024602064,ADV-02,lecturer_referral,whatsapp,referred_accessibility,"צריך התאמות, הופנה לנגישות"
+C-26675,2026-04-14,024923658,ADV-03,lecturer_referral,meeting,no_answer,מספר לא תקין
+C-26676,2026-04-14,025459821,ADV-06,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26677,2026-04-14,025657643,ADV-06,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26678,2026-04-14,12355070,ADV-05,self_referral,phone,no_answer,לא ענה
+C-26679,2026-04-15,025120555,ADV-06,tavla_red,meeting,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26680,2026-04-15,025185004,ADV-05,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26681,2026-04-15,025622511,ADV-06,tavla_red,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26682,2026-04-15,025887242,ADV-02,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26683,2026-04-16,025163767,ADV-05,tavla_red,phone,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-26684,2026-04-16,025360074,ADV-06,tavla_red,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26685,2026-04-16,025449279,ADV-02,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26686,2026-04-16,025463058,ADV-04,tavla_red,meeting,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-26687,2026-04-16,025899910,ADV-04,tavla_red,phone,left,"החליט להפסיק, סיבות כלכליות"
+C-26688,2026-04-16,025913953,ADV-04,tavla_red,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26689,2026-04-16,025947664,ADV-05,tavla_red,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26690,2026-04-16,12312544,ADV-04,lecturer_referral,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26691,2026-04-19,025122666,ADV-04,tavla_red,phone,left,עבר למכללה אחרת
+C-26692,2026-04-19,025136422,ADV-01,tavla_red,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26693,2026-04-19,025226691,ADV-05,tavla_red,whatsapp,no_answer,לא ענה
+C-26694,2026-04-19,025424103,ADV-04,tavla_red,whatsapp,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26695,2026-04-19,025464048,ADV-04,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26696,2026-04-19,025501533,ADV-01,self_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26697,2026-04-19,025514428,ADV-06,tavla_red,phone,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-26698,2026-04-19,025645177,ADV-01,tavla_red,whatsapp,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26699,2026-04-19,025696721,ADV-03,tavla_red,phone,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-26700,2026-04-19,025714753,ADV-02,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26701,2026-04-19,025735858,ADV-05,tavla_red,whatsapp,no_answer,מספר לא תקין
+C-26702,2026-04-19,025780982,ADV-01,tavla_red,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26703,2026-04-19,025824072,ADV-03,tavla_red,phone,no_answer,לא ענה
+C-26704,2026-04-19,025826347,ADV-02,tavla_red,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26705,2026-04-19,025877799,ADV-04,tavla_red,whatsapp,no_answer,לא ענה
+C-26706,2026-04-19,025881570,ADV-05,tavla_red,phone,no_answer,מספר לא תקין
+C-26707,2026-04-19,025899139,ADV-03,self_referral,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26708,2026-04-19,025987701,ADV-01,self_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26709,2026-04-19,12352160,ADV-03,self_referral,meeting,no_answer,מספר לא תקין
+C-26710,2026-04-20,024142044,ADV-05,admin_referral,phone,no_answer,מספר לא תקין
+C-26711,2026-04-20,025552459,ADV-01,tavla_red,phone,no_answer,לא ענה
+C-26712,2026-04-20,025732643,ADV-04,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26713,2026-04-20,025746928,ADV-04,tavla_red,phone,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-26714,2026-04-20,025810774,ADV-05,tavla_red,phone,no_answer,מספר לא תקין
+C-26715,2026-04-20,025821609,ADV-02,tavla_red,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26716,2026-04-20,12365087,ADV-03,admin_referral,phone,no_answer,מספר לא תקין
+C-26717,2026-04-21,024421262,ADV-01,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26718,2026-04-21,025413623,ADV-06,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26719,2026-04-21,025543905,ADV-01,tavla_red,meeting,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26720,2026-04-21,025638120,ADV-02,tavla_red,whatsapp,referred_finance,חסום כספית - הופנה לגבייה
+C-26721,2026-04-21,12346146,ADV-04,self_referral,meeting,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26722,2026-04-21,12352207,ADV-05,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26723,2026-04-21,12353285,ADV-05,lecturer_referral,whatsapp,referred_finance,חסום כספית - הופנה לגבייה
+C-26724,2026-04-22,025208542,ADV-03,tavla_red,phone,left,"החליט להפסיק, סיבות כלכליות"
+C-26725,2026-04-22,025536575,ADV-06,admin_referral,whatsapp,left,עבר למכללה אחרת
+C-26726,2026-04-22,025585240,ADV-06,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26727,2026-04-22,025622511,ADV-03,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26728,2026-04-22,025882615,ADV-03,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26729,2026-04-22,025883283,ADV-03,tavla_red,phone,no_answer,מספר לא תקין
+C-26730,2026-04-22,12349065,ADV-02,admin_referral,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26731,2026-04-23,024743816,ADV-01,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26732,2026-04-23,024923256,ADV-03,lecturer_referral,whatsapp,no_answer,מספר לא תקין
+C-26733,2026-04-23,025226691,ADV-01,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26734,2026-04-23,025254139,ADV-03,tavla_red,meeting,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26735,2026-04-23,025735858,ADV-03,tavla_red,meeting,no_answer,לא ענה
+C-26736,2026-04-23,12326252,ADV-02,self_referral,phone,no_answer,לא ענה
+C-26737,2026-04-26,024114430,ADV-02,self_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26738,2026-04-26,024853192,ADV-02,admin_referral,phone,no_answer,לא ענה
+C-26739,2026-04-26,024864333,ADV-02,self_referral,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26740,2026-04-26,025121384,ADV-04,admin_referral,phone,no_answer,לא ענה
+C-26741,2026-04-26,025136422,ADV-03,tavla_red,whatsapp,left,עבר למכללה אחרת
+C-26742,2026-04-26,025193069,ADV-03,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26743,2026-04-26,025202093,ADV-05,tavla_red,phone,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-26744,2026-04-26,025324452,ADV-02,tavla_red,phone,referred_accessibility,"צריך התאמות, הופנה לנגישות"
+C-26745,2026-04-26,025360853,ADV-04,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26746,2026-04-26,025558722,ADV-03,lecturer_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26747,2026-04-26,025653284,ADV-02,lecturer_referral,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26748,2026-04-26,025690128,ADV-06,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26749,2026-04-26,025714753,ADV-03,tavla_red,meeting,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26750,2026-04-26,025730218,ADV-05,tavla_red,phone,no_answer,מספר לא תקין
+C-26751,2026-04-26,025743035,ADV-05,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26752,2026-04-26,025899910,ADV-02,tavla_red,whatsapp,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26753,2026-04-26,025920932,ADV-02,lecturer_referral,phone,no_answer,לא ענה
+C-26754,2026-04-26,025932296,ADV-04,tavla_red,phone,no_answer,לא ענה
+C-26755,2026-04-26,025968360,ADV-04,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26756,2026-04-26,12381287,ADV-01,self_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26757,2026-04-27,025146795,ADV-04,tavla_red,whatsapp,left,עבר למכללה אחרת
+C-26758,2026-04-27,025306386,ADV-04,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26759,2026-04-27,025537974,ADV-03,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26760,2026-04-27,025566981,ADV-02,tavla_red,whatsapp,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-26761,2026-04-27,025586564,ADV-01,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26762,2026-04-27,025688308,ADV-02,tavla_red,phone,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-26763,2026-04-27,025744295,ADV-05,tavla_red,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26764,2026-04-28,024346912,ADV-06,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26765,2026-04-28,025492978,ADV-02,tavla_red,phone,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-26766,2026-04-28,025548870,ADV-03,tavla_red,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26767,2026-04-28,025561119,ADV-04,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26768,2026-04-28,025764172,ADV-04,tavla_red,meeting,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26769,2026-04-28,025947664,ADV-04,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26770,2026-04-29,024748057,ADV-06,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26771,2026-04-29,025120555,ADV-01,tavla_red,meeting,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-26772,2026-04-29,025150729,ADV-01,self_referral,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26773,2026-04-29,025244956,ADV-05,tavla_red,whatsapp,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26774,2026-04-29,025254139,ADV-05,tavla_red,whatsapp,no_answer,מספר לא תקין
+C-26775,2026-04-29,025271209,ADV-05,self_referral,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26776,2026-04-29,025530488,ADV-06,tavla_red,meeting,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26777,2026-04-29,025713076,ADV-02,tavla_red,whatsapp,referred_finance,חסום כספית - הופנה לגבייה
+C-26778,2026-04-30,025108141,ADV-04,tavla_red,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26779,2026-04-30,025114486,ADV-05,tavla_red,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26780,2026-04-30,025266597,ADV-02,self_referral,whatsapp,no_answer,לא ענה
+C-26781,2026-04-30,025423391,ADV-05,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26782,2026-04-30,025595531,ADV-04,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26783,2026-04-30,025765156,ADV-04,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26784,2026-04-30,025786427,ADV-03,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26785,2026-04-30,025866365,ADV-02,self_referral,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26786,2026-05-03,025115198,ADV-04,admin_referral,phone,no_answer,מספר לא תקין
+C-26787,2026-05-03,025125870,ADV-05,tavla_red,phone,no_answer,מספר לא תקין
+C-26788,2026-05-03,025146795,ADV-06,tavla_red,whatsapp,left,"החליט להפסיק, סיבות כלכליות"
+C-26789,2026-05-03,025342568,ADV-01,lecturer_referral,phone,no_answer,לא ענה
+C-26790,2026-05-03,025348819,ADV-01,tavla_red,meeting,no_answer,לא ענה
+C-26791,2026-05-03,025450670,ADV-01,self_referral,phone,no_answer,לא ענה
+C-26792,2026-05-03,025597148,ADV-02,tavla_red,whatsapp,left,"החליט להפסיק, סיבות כלכליות"
+C-26793,2026-05-03,025616205,ADV-01,tavla_red,phone,left,עבר למכללה אחרת
+C-26794,2026-05-03,025635953,ADV-05,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26795,2026-05-03,025645177,ADV-05,tavla_red,meeting,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26796,2026-05-03,025703062,ADV-04,tavla_red,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26797,2026-05-03,025789743,ADV-01,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26798,2026-05-03,025801115,ADV-03,tavla_red,meeting,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-26799,2026-05-03,025882615,ADV-04,tavla_red,phone,no_answer,לא ענה
+C-26800,2026-05-03,025915083,ADV-02,tavla_red,meeting,no_answer,לא ענה
+C-26801,2026-05-03,025932296,ADV-02,tavla_red,phone,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-26802,2026-05-03,025968360,ADV-03,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26803,2026-05-03,12337946,ADV-01,admin_referral,meeting,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26804,2026-05-03,12361267,ADV-03,self_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26805,2026-05-03,12376014,ADV-01,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26806,2026-05-03,12382398,ADV-04,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26807,2026-05-04,025128927,ADV-03,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26808,2026-05-04,025514428,ADV-01,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26809,2026-05-04,025613193,ADV-04,tavla_red,phone,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-26810,2026-05-04,025741165,ADV-01,tavla_red,meeting,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26811,2026-05-04,025812017,ADV-06,lecturer_referral,phone,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-26812,2026-05-04,025973095,ADV-06,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26813,2026-05-05,024453179,ADV-01,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26814,2026-05-05,024952991,ADV-02,self_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26815,2026-05-05,025244956,ADV-01,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26816,2026-05-05,025250693,ADV-04,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26817,2026-05-05,025475008,ADV-03,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26818,2026-05-05,025519562,ADV-05,tavla_red,phone,left,עבר למכללה אחרת
+C-26819,2026-05-05,025873404,ADV-04,tavla_red,phone,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26820,2026-05-05,025989334,ADV-04,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26821,2026-05-05,12379740,ADV-04,self_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26822,2026-05-06,025690128,ADV-01,tavla_red,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26823,2026-05-07,024655318,ADV-04,self_referral,whatsapp,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26824,2026-05-07,025158924,ADV-02,tavla_red,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26825,2026-05-07,025561119,ADV-01,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26826,2026-05-07,025713076,ADV-06,tavla_red,meeting,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26827,2026-05-07,025909511,ADV-01,tavla_red,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26828,2026-05-07,12302557,ADV-03,lecturer_referral,meeting,no_answer,מספר לא תקין
+C-26829,2026-05-07,12306273,ADV-01,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26830,2026-05-07,12311036,ADV-06,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26831,2026-05-07,12396669,ADV-02,self_referral,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26832,2026-05-10,024587916,ADV-05,lecturer_referral,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26833,2026-05-10,025207131,ADV-04,self_referral,phone,no_answer,לא ענה
+C-26834,2026-05-10,025310327,ADV-02,tavla_red,whatsapp,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-26835,2026-05-10,025333445,ADV-06,tavla_red,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26836,2026-05-10,025348819,ADV-05,tavla_red,phone,no_answer,לא ענה
+C-26837,2026-05-10,025519562,ADV-06,tavla_red,meeting,left,"החליט להפסיק, סיבות כלכליות"
+C-26838,2026-05-10,025524093,ADV-06,tavla_red,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26839,2026-05-10,025613193,ADV-01,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26840,2026-05-10,025639453,ADV-05,lecturer_referral,phone,no_answer,לא ענה
+C-26841,2026-05-10,025703062,ADV-05,tavla_red,phone,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26842,2026-05-10,025775328,ADV-06,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26843,2026-05-10,025789743,ADV-06,admin_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26844,2026-05-10,025883283,ADV-02,tavla_red,phone,no_answer,מספר לא תקין
+C-26845,2026-05-10,025915083,ADV-06,tavla_red,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26846,2026-05-10,025990076,ADV-05,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26847,2026-05-10,12305321,ADV-03,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26848,2026-05-10,12345857,ADV-06,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26849,2026-05-10,12353015,ADV-02,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26850,2026-05-10,12368217,ADV-01,lecturer_referral,phone,no_answer,מספר לא תקין
+C-26851,2026-05-10,12370586,ADV-03,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26852,2026-05-11,024821380,ADV-04,lecturer_referral,whatsapp,no_answer,מספר לא תקין
+C-26853,2026-05-11,024992507,ADV-05,lecturer_referral,phone,no_answer,לא ענה
+C-26854,2026-05-11,025461538,ADV-02,tavla_red,whatsapp,no_answer,מספר לא תקין
+C-26855,2026-05-11,025775499,ADV-04,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26856,2026-05-11,025992230,ADV-06,tavla_red,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26857,2026-05-12,024343402,ADV-04,admin_referral,phone,no_answer,מספר לא תקין
+C-26858,2026-05-12,025158924,ADV-06,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26859,2026-05-12,025208542,ADV-04,tavla_red,phone,left,"החליט להפסיק, סיבות כלכליות"
+C-26860,2026-05-12,025730218,ADV-02,tavla_red,phone,no_answer,מספר לא תקין
+C-26861,2026-05-12,025869700,ADV-04,tavla_red,phone,no_answer,מספר לא תקין
+C-26862,2026-05-12,025979439,ADV-06,lecturer_referral,whatsapp,no_answer,מספר לא תקין
+C-26863,2026-05-12,12392116,ADV-04,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26864,2026-05-13,025320196,ADV-04,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26865,2026-05-13,025424832,ADV-03,tavla_red,phone,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-26866,2026-05-13,025691058,ADV-03,self_referral,whatsapp,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26867,2026-05-13,025757906,ADV-06,tavla_red,phone,left,"החליט להפסיק, סיבות כלכליות"
+C-26868,2026-05-14,024713703,ADV-03,admin_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26869,2026-05-14,024899765,ADV-06,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26870,2026-05-14,025324452,ADV-01,tavla_red,phone,referred_accessibility,"צריך התאמות, הופנה לנגישות"
+C-26871,2026-05-14,025455241,ADV-03,tavla_red,meeting,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26872,2026-05-14,025509676,ADV-04,tavla_red,whatsapp,no_answer,לא ענה
+C-26873,2026-05-17,024167256,ADV-05,lecturer_referral,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26874,2026-05-17,024737379,ADV-04,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26875,2026-05-17,024910343,ADV-05,self_referral,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26876,2026-05-17,025123408,ADV-06,tavla_red,whatsapp,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26877,2026-05-17,025125870,ADV-02,tavla_red,whatsapp,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-26878,2026-05-17,025266696,ADV-02,tavla_red,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26879,2026-05-17,025361624,ADV-05,tavla_red,whatsapp,no_answer,לא ענה
+C-26880,2026-05-17,025361638,ADV-04,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26881,2026-05-17,025370275,ADV-03,lecturer_referral,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26882,2026-05-17,025372736,ADV-06,tavla_red,phone,referred_accessibility,"צריך התאמות, הופנה לנגישות"
+C-26883,2026-05-17,025566981,ADV-05,tavla_red,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26884,2026-05-17,025574013,ADV-03,tavla_red,phone,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-26885,2026-05-17,025603015,ADV-03,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26886,2026-05-17,025693108,ADV-05,tavla_red,phone,left,"החליט להפסיק, סיבות כלכליות"
+C-26887,2026-05-17,025748537,ADV-06,tavla_red,phone,left,"החליט להפסיק, סיבות כלכליות"
+C-26888,2026-05-17,025775328,ADV-05,tavla_red,phone,no_answer,מספר לא תקין
+C-26889,2026-05-17,025779272,ADV-06,tavla_red,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26890,2026-05-17,025966554,ADV-03,tavla_red,phone,no_answer,לא ענה
+C-26891,2026-05-17,12337995,ADV-03,admin_referral,phone,no_answer,מספר לא תקין
+C-26892,2026-05-17,12355136,ADV-05,self_referral,phone,no_answer,מספר לא תקין
+C-26893,2026-05-17,12356380,ADV-06,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26894,2026-05-18,024636908,ADV-01,self_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26895,2026-05-18,025217744,ADV-01,tavla_red,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26896,2026-05-18,025231413,ADV-05,admin_referral,meeting,left,עבר למכללה אחרת
+C-26897,2026-05-18,025333096,ADV-04,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26898,2026-05-18,025394313,ADV-03,admin_referral,phone,no_answer,לא ענה
+C-26899,2026-05-18,025421193,ADV-03,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26900,2026-05-18,025576105,ADV-04,tavla_red,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26901,2026-05-18,025619838,ADV-03,tavla_red,whatsapp,referred_accessibility,"צריך התאמות, הופנה לנגישות"
+C-26902,2026-05-18,025689898,ADV-03,tavla_red,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26903,2026-05-18,025757906,ADV-01,tavla_red,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26904,2026-05-18,025878002,ADV-06,tavla_red,phone,referred_accessibility,"צריך התאמות, הופנה לנגישות"
+C-26905,2026-05-19,025114486,ADV-04,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26906,2026-05-19,025421241,ADV-05,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26907,2026-05-19,025526202,ADV-06,tavla_red,meeting,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26908,2026-05-19,025529788,ADV-04,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26909,2026-05-19,025553406,ADV-05,tavla_red,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26910,2026-05-19,025901650,ADV-01,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26911,2026-05-20,024844793,ADV-02,admin_referral,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26912,2026-05-20,025141019,ADV-03,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26913,2026-05-20,025292283,ADV-02,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26914,2026-05-20,025597148,ADV-01,tavla_red,phone,left,עבר למכללה אחרת
+C-26915,2026-05-20,025744295,ADV-05,self_referral,whatsapp,no_answer,מספר לא תקין
+C-26916,2026-05-20,025870933,ADV-02,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26917,2026-05-21,024314148,ADV-02,admin_referral,phone,no_answer,לא ענה
+C-26918,2026-05-21,025228728,ADV-02,tavla_red,phone,no_answer,לא ענה
+C-26919,2026-05-21,025619816,ADV-05,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26920,2026-05-21,025718325,ADV-06,tavla_red,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26921,2026-05-21,025801115,ADV-02,tavla_red,whatsapp,referred_accessibility,"צריך התאמות, הופנה לנגישות"
+C-26922,2026-05-21,025853416,ADV-01,tavla_red,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-26923,2026-05-21,12324309,ADV-04,lecturer_referral,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26924,2026-05-24,024109720,ADV-01,self_referral,phone,no_answer,מספר לא תקין
+C-26925,2026-05-24,024817115,ADV-03,self_referral,meeting,left,עבר למכללה אחרת
+C-26926,2026-05-24,025310021,ADV-04,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26927,2026-05-24,025310327,ADV-03,tavla_red,whatsapp,no_answer,מספר לא תקין
+C-26928,2026-05-24,025329431,ADV-04,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26929,2026-05-24,025403214,ADV-06,self_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26930,2026-05-24,025427872,ADV-03,lecturer_referral,meeting,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26931,2026-05-24,025429432,ADV-04,tavla_red,phone,referred_accessibility,"צריך התאמות, הופנה לנגישות"
+C-26932,2026-05-24,025448236,ADV-04,lecturer_referral,phone,no_answer,לא ענה
+C-26933,2026-05-24,025553196,ADV-04,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26934,2026-05-24,025554382,ADV-04,tavla_red,whatsapp,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-26935,2026-05-24,025600489,ADV-01,tavla_red,phone,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-26936,2026-05-24,025607912,ADV-02,tavla_red,meeting,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26937,2026-05-24,025616205,ADV-06,tavla_red,whatsapp,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26938,2026-05-24,025618805,ADV-04,lecturer_referral,phone,left,עבר למכללה אחרת
+C-26939,2026-05-24,025644654,ADV-01,tavla_red,phone,no_answer,לא ענה
+C-26940,2026-05-24,025741165,ADV-01,tavla_red,whatsapp,left,עבר למכללה אחרת
+C-26941,2026-05-24,025799545,ADV-05,self_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26942,2026-05-24,025825670,ADV-05,tavla_red,phone,left,"החליט להפסיק, סיבות כלכליות"
+C-26943,2026-05-24,12340014,ADV-05,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26944,2026-05-24,12354810,ADV-02,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26945,2026-05-25,024207055,ADV-04,lecturer_referral,meeting,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26946,2026-05-25,024384917,ADV-06,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26947,2026-05-25,025158333,ADV-03,tavla_red,whatsapp,referred_finance,חסום כספית - הופנה לגבייה
+C-26948,2026-05-25,025217744,ADV-02,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26949,2026-05-25,025289021,ADV-01,tavla_red,whatsapp,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26950,2026-05-25,025424832,ADV-01,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26951,2026-05-25,025735852,ADV-03,lecturer_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26952,2026-05-25,025808835,ADV-02,lecturer_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26953,2026-05-25,025873404,ADV-05,tavla_red,phone,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-26954,2026-05-25,12305960,ADV-04,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26955,2026-05-25,12339087,ADV-02,admin_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26956,2026-05-25,12354695,ADV-02,lecturer_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26957,2026-05-26,024694477,ADV-05,self_referral,whatsapp,no_answer,לא ענה
+C-26958,2026-05-26,025177962,ADV-02,tavla_red,phone,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-26959,2026-05-26,025331564,ADV-05,self_referral,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26960,2026-05-26,025529481,ADV-04,tavla_red,phone,no_answer,מספר לא תקין
+C-26961,2026-05-26,025589694,ADV-02,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26962,2026-05-26,025599956,ADV-03,tavla_red,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-26963,2026-05-26,025626285,ADV-06,tavla_red,phone,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-26964,2026-05-26,025879669,ADV-01,tavla_red,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26965,2026-05-26,12341056,ADV-05,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26966,2026-05-27,025181259,ADV-03,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26967,2026-05-27,025196472,ADV-05,tavla_red,phone,no_answer,לא ענה
+C-26968,2026-05-27,025361624,ADV-02,tavla_red,phone,no_answer,מספר לא תקין
+C-26969,2026-05-27,025498622,ADV-01,tavla_red,phone,no_answer,לא ענה
+C-26970,2026-05-27,025524093,ADV-05,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26971,2026-05-27,025554382,ADV-05,tavla_red,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-26972,2026-05-27,025844444,ADV-02,tavla_red,phone,no_answer,לא ענה
+C-26973,2026-05-27,025915083,ADV-05,self_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26974,2026-05-27,12359656,ADV-04,self_referral,whatsapp,no_answer,לא ענה
+C-26975,2026-05-28,025263805,ADV-04,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26976,2026-05-28,025389592,ADV-04,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26977,2026-05-28,025677732,ADV-06,tavla_red,meeting,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26978,2026-05-28,025713930,ADV-06,tavla_red,phone,no_answer,לא ענה
+C-26979,2026-05-28,025719258,ADV-01,tavla_red,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-26980,2026-05-28,12308408,ADV-03,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26981,2026-05-28,12380179,ADV-05,self_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-26982,2026-05-31,025121384,ADV-04,tavla_red,phone,no_answer,לא ענה
+C-26983,2026-05-31,025142727,ADV-01,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26984,2026-05-31,025207131,ADV-06,tavla_red,whatsapp,no_answer,מספר לא תקין
+C-26985,2026-05-31,025228728,ADV-06,tavla_red,phone,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-26986,2026-05-31,025507706,ADV-05,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26987,2026-05-31,025610623,ADV-04,tavla_red,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-26988,2026-05-31,025619838,ADV-05,tavla_red,phone,no_answer,לא ענה
+C-26989,2026-05-31,025632188,ADV-04,self_referral,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26990,2026-05-31,025644975,ADV-03,tavla_red,phone,no_answer,מספר לא תקין
+C-26991,2026-05-31,025748537,ADV-05,tavla_red,phone,left,"החליט להפסיק, סיבות כלכליות"
+C-26992,2026-05-31,025775499,ADV-06,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26993,2026-05-31,025890235,ADV-05,tavla_red,phone,no_answer,לא ענה
+C-26994,2026-05-31,025909710,ADV-04,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-26995,2026-05-31,12335931,ADV-03,lecturer_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-26996,2026-05-31,12359770,ADV-04,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-26997,2026-05-31,12377898,ADV-02,self_referral,whatsapp,no_answer,לא ענה
+C-26998,2026-05-31,12386835,ADV-04,admin_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-26999,2026-06-01,024563312,ADV-03,self_referral,whatsapp,no_answer,מספר לא תקין
+C-27000,2026-06-01,024950725,ADV-05,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27001,2026-06-01,025100581,ADV-06,tavla_red,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-27002,2026-06-01,025176484,ADV-06,tavla_red,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-27003,2026-06-01,025196265,ADV-04,tavla_red,meeting,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27004,2026-06-01,025212778,ADV-02,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27005,2026-06-01,025267774,ADV-05,tavla_red,whatsapp,no_answer,מספר לא תקין
+C-27006,2026-06-01,025289021,ADV-06,tavla_red,phone,left,עבר למכללה אחרת
+C-27007,2026-06-01,025361638,ADV-04,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27008,2026-06-01,025423440,ADV-01,tavla_red,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27009,2026-06-01,025537974,ADV-04,self_referral,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-27010,2026-06-01,025652472,ADV-06,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27011,2026-06-01,025879669,ADV-04,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27012,2026-06-01,12334898,ADV-06,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27013,2026-06-01,12377730,ADV-03,self_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27014,2026-06-02,024364955,ADV-05,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27015,2026-06-02,025333809,ADV-01,tavla_red,meeting,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-27016,2026-06-02,025737236,ADV-03,self_referral,phone,left,עבר למכללה אחרת
+C-27017,2026-06-03,025263805,ADV-03,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27018,2026-06-03,025429432,ADV-03,tavla_red,phone,no_answer,לא ענה
+C-27019,2026-06-03,025940326,ADV-03,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27020,2026-06-03,12306182,ADV-04,admin_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27021,2026-06-04,024670065,ADV-02,lecturer_referral,whatsapp,no_answer,מספר לא תקין
+C-27022,2026-06-04,024676293,ADV-01,lecturer_referral,phone,no_answer,לא ענה
+C-27023,2026-06-04,025266696,ADV-06,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27024,2026-06-04,025598466,ADV-05,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27025,2026-06-04,025612509,ADV-06,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27026,2026-06-04,025620583,ADV-02,tavla_red,whatsapp,no_answer,מספר לא תקין
+C-27027,2026-06-04,025698791,ADV-01,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27028,2026-06-04,025925339,ADV-04,lecturer_referral,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-27029,2026-06-04,12394869,ADV-05,self_referral,meeting,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27030,2026-06-07,024130643,ADV-06,self_referral,meeting,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27031,2026-06-07,024247778,ADV-05,lecturer_referral,whatsapp,no_answer,לא ענה
+C-27032,2026-06-07,025100581,ADV-04,tavla_red,whatsapp,left,"החליט להפסיק, סיבות כלכליות"
+C-27033,2026-06-07,025291435,ADV-05,lecturer_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27034,2026-06-07,025394313,ADV-03,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27035,2026-06-07,025426685,ADV-05,tavla_red,whatsapp,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-27036,2026-06-07,025498622,ADV-02,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27037,2026-06-07,025610623,ADV-03,tavla_red,phone,left,עבר למכללה אחרת
+C-27038,2026-06-07,025632849,ADV-06,self_referral,phone,no_answer,מספר לא תקין
+C-27039,2026-06-07,025719258,ADV-05,tavla_red,phone,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-27040,2026-06-07,025799300,ADV-04,tavla_red,meeting,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-27041,2026-06-07,025813676,ADV-06,admin_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27042,2026-06-07,025912871,ADV-05,tavla_red,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27043,2026-06-07,025933409,ADV-01,tavla_red,phone,left,"כבר עזב, אמר שלא הצליח להירשם למבחנים"
+C-27044,2026-06-07,025963535,ADV-05,tavla_red,phone,no_answer,מספר לא תקין
+C-27045,2026-06-07,12365299,ADV-01,lecturer_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27046,2026-06-08,024916122,ADV-06,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27047,2026-06-08,025222835,ADV-05,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27048,2026-06-08,025599956,ADV-01,self_referral,meeting,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27049,2026-06-08,025735002,ADV-03,lecturer_referral,phone,left,"החליט להפסיק, סיבות כלכליות"
+C-27050,2026-06-08,025940726,ADV-03,tavla_red,meeting,no_answer,מספר לא תקין
+C-27051,2026-06-09,024113870,ADV-03,lecturer_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27052,2026-06-09,025141019,ADV-04,tavla_red,whatsapp,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-27053,2026-06-09,025310021,ADV-02,tavla_red,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-27054,2026-06-09,12349369,ADV-02,admin_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27055,2026-06-10,025121384,ADV-05,tavla_red,whatsapp,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-27056,2026-06-10,025177962,ADV-03,tavla_red,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27057,2026-06-10,025499626,ADV-02,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27058,2026-06-10,025554119,ADV-05,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27059,2026-06-10,025591251,ADV-02,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27060,2026-06-10,025743888,ADV-03,tavla_red,whatsapp,no_answer,מספר לא תקין
+C-27061,2026-06-10,025931739,ADV-05,tavla_red,phone,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-27062,2026-06-11,025124127,ADV-06,lecturer_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27063,2026-06-11,025267774,ADV-05,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27064,2026-06-11,025630363,ADV-01,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27065,2026-06-11,025653409,ADV-04,tavla_red,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-27066,2026-06-11,025676249,ADV-01,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27067,2026-06-11,025854528,ADV-06,tavla_red,whatsapp,no_answer,מספר לא תקין
+C-27068,2026-06-14,024168198,ADV-03,self_referral,whatsapp,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27069,2026-06-14,024482625,ADV-01,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27070,2026-06-14,024831693,ADV-03,self_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27071,2026-06-14,025124905,ADV-06,tavla_red,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-27072,2026-06-14,025158583,ADV-03,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27073,2026-06-14,025172130,ADV-03,tavla_red,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-27074,2026-06-14,025181259,ADV-03,tavla_red,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27075,2026-06-14,025205438,ADV-03,self_referral,phone,no_answer,לא ענה
+C-27076,2026-06-14,025240538,ADV-01,tavla_red,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-27077,2026-06-14,025275573,ADV-04,tavla_red,phone,referred_finance,חסום כספית - הופנה לגבייה
+C-27078,2026-06-14,025291826,ADV-04,tavla_red,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27079,2026-06-14,025302601,ADV-03,tavla_red,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-27080,2026-06-14,025314331,ADV-05,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27081,2026-06-14,025333733,ADV-04,admin_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27082,2026-06-14,025430867,ADV-05,tavla_red,phone,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-27083,2026-06-14,025537089,ADV-03,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27084,2026-06-14,025626285,ADV-03,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27085,2026-06-14,025644654,ADV-01,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27086,2026-06-14,025656908,ADV-02,self_referral,phone,left,עבר למכללה אחרת
+C-27087,2026-06-14,025844444,ADV-05,tavla_red,phone,no_answer,מספר לא תקין
+C-27088,2026-06-14,025853499,ADV-05,self_referral,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-27089,2026-06-14,12357061,ADV-06,admin_referral,meeting,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27090,2026-06-15,024255377,ADV-06,self_referral,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-27091,2026-06-15,024948343,ADV-03,lecturer_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27092,2026-06-15,025270346,ADV-03,tavla_red,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-27093,2026-06-15,025500775,ADV-04,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27094,2026-06-15,025563763,ADV-04,tavla_red,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-27095,2026-06-15,025792309,ADV-04,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27096,2026-06-15,025937715,ADV-05,tavla_red,phone,no_answer,מספר לא תקין
+C-27097,2026-06-15,12360807,ADV-03,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27098,2026-06-15,12361576,ADV-01,admin_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27099,2026-06-16,025207131,ADV-01,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27100,2026-06-16,025222835,ADV-06,tavla_red,phone,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-27101,2026-06-16,025496561,ADV-06,tavla_red,phone,referred_accessibility,"צריך התאמות, הופנה לנגישות"
+C-27102,2026-06-16,025713930,ADV-03,admin_referral,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27103,2026-06-16,025735852,ADV-04,tavla_red,phone,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-27104,2026-06-16,025993857,ADV-06,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27105,2026-06-17,024137757,ADV-06,self_referral,phone,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-27106,2026-06-17,025632228,ADV-01,tavla_red,phone,no_answer,לא ענה
+C-27107,2026-06-17,025769358,ADV-04,self_referral,phone,no_answer,מספר לא תקין
+C-27108,2026-06-17,025859369,ADV-03,tavla_red,phone,student_objected,"כעסה שהתקשרו, אמרה שזה מעקב"
+C-27109,2026-06-17,12319306,ADV-05,self_referral,whatsapp,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-27110,2026-06-18,025241314,ADV-06,tavla_red,phone,left,עבר למכללה אחרת
+C-27111,2026-06-18,025381546,ADV-05,tavla_red,phone,no_answer,מספר לא תקין
+C-27112,2026-06-18,025508903,ADV-03,tavla_red,meeting,no_answer,מספר לא תקין
+C-27113,2026-06-21,024420904,ADV-02,admin_referral,meeting,no_answer,מספר לא תקין
+C-27114,2026-06-21,024794237,ADV-06,self_referral,meeting,no_answer,מספר לא תקין
+C-27115,2026-06-21,024952991,ADV-05,self_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27116,2026-06-21,025121457,ADV-04,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27117,2026-06-21,025133530,ADV-01,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27118,2026-06-21,025152553,ADV-01,tavla_red,phone,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-27119,2026-06-21,025423440,ADV-03,tavla_red,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27120,2026-06-21,025430867,ADV-04,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27121,2026-06-21,025477306,ADV-01,tavla_red,phone,left,עבר למכללה אחרת
+C-27122,2026-06-21,025483976,ADV-03,self_referral,whatsapp,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27123,2026-06-21,025495495,ADV-02,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27124,2026-06-21,025629042,ADV-05,lecturer_referral,meeting,no_answer,לא ענה
+C-27125,2026-06-21,025652472,ADV-01,tavla_red,phone,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-27126,2026-06-21,025799300,ADV-02,tavla_red,phone,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-27127,2026-06-21,025815005,ADV-06,tavla_red,phone,no_answer,מספר לא תקין
+C-27128,2026-06-21,025859602,ADV-04,tavla_red,phone,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-27129,2026-06-21,025868836,ADV-03,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27130,2026-06-21,025951827,ADV-05,admin_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27131,2026-06-21,025985297,ADV-03,tavla_red,phone,referred_finance,מחכה להסדר תשלומים מגבייה כבר שבועיים
+C-27132,2026-06-21,12305950,ADV-05,self_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27133,2026-06-21,12357401,ADV-04,admin_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27134,2026-06-22,025408380,ADV-05,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27135,2026-06-23,024528533,ADV-05,admin_referral,meeting,no_answer,מספר לא תקין
+C-27136,2026-06-23,025542854,ADV-04,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27137,2026-06-23,025592212,ADV-04,tavla_red,whatsapp,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-27138,2026-06-23,025601529,ADV-01,tavla_red,phone,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-27139,2026-06-23,025623164,ADV-02,tavla_red,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27140,2026-06-23,025830329,ADV-02,admin_referral,phone,no_answer,מספר לא תקין
+C-27141,2026-06-23,025866365,ADV-02,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27142,2026-06-23,025940726,ADV-01,tavla_red,phone,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-27143,2026-06-24,024790607,ADV-01,self_referral,whatsapp,no_answer,לא ענה
+C-27144,2026-06-24,025743888,ADV-05,tavla_red,whatsapp,student_objected,שאל למה הוא ברשימה ומי רואה את זה
+C-27145,2026-06-25,025124905,ADV-04,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27146,2026-06-25,12334696,ADV-06,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27147,2026-06-28,024485041,ADV-02,admin_referral,whatsapp,no_answer,"לא ענתה, נשלח SMS"
+C-27148,2026-06-28,024587526,ADV-03,self_referral,phone,no_answer,מספר לא תקין
+C-27149,2026-06-28,024795445,ADV-04,admin_referral,phone,no_answer,מספר לא תקין
+C-27150,2026-06-28,024916576,ADV-04,admin_referral,whatsapp,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27151,2026-06-28,024928507,ADV-03,lecturer_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27152,2026-06-28,025270346,ADV-06,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27153,2026-06-28,025314331,ADV-06,tavla_red,whatsapp,student_objected,שאל איך אנחנו יודעים שהוא לא נכנס לטבלה
+C-27154,2026-06-28,025500775,ADV-05,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27155,2026-06-28,025608971,ADV-05,self_referral,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27156,2026-06-28,025632228,ADV-02,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27157,2026-06-28,025773729,ADV-05,admin_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27158,2026-06-28,025854528,ADV-01,tavla_red,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27159,2026-06-28,025931739,ADV-06,tavla_red,meeting,referred_finance,חסום כספית - הופנה לגבייה
+C-27160,2026-06-28,12332296,ADV-05,lecturer_referral,whatsapp,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27161,2026-06-28,12339935,ADV-04,admin_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27162,2026-06-28,12348817,ADV-06,admin_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27163,2026-06-28,12373853,ADV-01,admin_referral,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27164,2026-06-29,025508903,ADV-04,tavla_red,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27165,2026-06-29,025836241,ADV-04,lecturer_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27166,2026-06-29,025859602,ADV-02,tavla_red,meeting,referred_finance,חסום כספית - הופנה לגבייה
+C-27167,2026-06-29,025875158,ADV-01,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27168,2026-06-29,025921993,ADV-05,self_referral,phone,reached,"לומד בקבוצת לימוד, לא צריך עזרה"
+C-27169,2026-06-29,12336203,ADV-04,lecturer_referral,phone,referred_accessibility,"יש אבחון ישן, הופנתה לחידוש"
+C-27170,2026-06-30,024386540,ADV-01,self_referral,phone,no_answer,לא ענה
+C-27171,2026-06-30,024487035,ADV-04,admin_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27172,2026-06-30,024584742,ADV-04,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27173,2026-06-30,025108462,ADV-03,self_referral,phone,reached,"דיברנו, הכל בסדר, לומד מחומר מודפס ולא נכנס הרבה לטבלה"
+C-27174,2026-06-30,025868836,ADV-01,tavla_red,phone,no_answer,מספר לא תקין
+C-27175,2026-06-30,025993857,ADV-06,tavla_red,meeting,referred_finance,"המלגה לא נקלטה, הופנתה לגבייה"
+C-27176,2026-06-30,12329435,ADV-02,lecturer_referral,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27177,2026-07-01,025496561,ADV-05,tavla_red,whatsapp,no_answer,מספר לא תקין
+C-27178,2026-07-05,025495495,ADV-05,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27179,2026-07-05,025563763,ADV-03,tavla_red,phone,no_answer,"לא ענתה, נשלח SMS"
+C-27180,2026-07-05,025623164,ADV-03,tavla_red,phone,reached,"במילואים, אין בעיה לימודית, ביקש שלא יתקשרו שוב"
+C-27181,2026-07-05,025859369,ADV-06,tavla_red,phone,reached,"שיחה טובה, מתמודדת, הפניתי לשיעורי עזר"
+C-27182,2026-07-06,025152553,ADV-04,tavla_red,meeting,no_answer,"לא ענתה, נשלח SMS"
+C-27183,2026-07-12,025121457,ADV-02,tavla_red,phone,student_objected,שאל למה הוא ברשימה ומי רואה את זה

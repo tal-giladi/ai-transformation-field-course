@@ -1,0 +1,93 @@
+- id: q1
+  question: >-
+    You have room for three portfolio pieces. Which selection best shows a prospective client what
+    you can do?
+  options:
+    - >-
+      Your three highest rubric scores, whatever kind of engagement they were.
+    - >-
+      A recommend-against that held, a pilot with an eval, and a governance-heavy engagement.
+    - >-
+      Three pilots with the best accuracy figures, to show technical depth.
+    - >-
+      The three engagements with the largest organizations, to look established.
+  correct: 1
+  explanation: >-
+    Range shows judgment: saying "not yet" well, building and measuring something, and handling
+    authority or governance. Top scores, three similar pilots or big names show less about how you
+    decide.
+
+- id: q2
+  question: >-
+    A recruiter asks whether the Kinneret Plastics engagement in your portfolio was a client. What
+    should the piece itself already say?
+  options:
+    - >-
+      Nothing; you will explain it in the interview if anyone asks.
+    - >-
+      "Confidential client", since the organization is fictional and cannot object.
+    - >-
+      "Manufacturing client, 600 people", to keep the focus on the work.
+    - >-
+      That it is a training engagement on a synthetic organization with fictional data.
+  correct: 3
+  explanation: >-
+    Course engagements are labelled as training work every time. Leaving it ambiguous, or presenting a
+    fictional organization as a client, is dishonest and easy to discover; the label does not weaken a
+    piece that shows a data room, a pilot and a decision record.
+
+- id: q3
+  question: >-
+    Your anonymised real-engagement piece says "a 300-person logistics company in Ashdod; the CFO
+    insisted on a three-year payback". What is still wrong with it?
+  options:
+    - >-
+      Sector, size and city together identify the company, and "the CFO" is one person.
+    - >-
+      Nothing, as long as the company's name is not mentioned anywhere.
+    - >-
+      Only the payback period, which is a confidential financial figure.
+    - >-
+      The piece should name the company, since anonymity reduces credibility.
+  correct: 0
+  explanation: >-
+    Combinations re-identify organizations, and a role in a small organization is a person. Change the
+    identifying details, describe positions without pointing at one person, and get written sign-off
+    before anyone sees it.
+
+- id: q4
+  question: >-
+    You open your readiness-assessment master before a new engagement. Which header line is most
+    valuable to have written after your last engagement?
+  options:
+    - >-
+      The date you first downloaded the template from the course.
+    - >-
+      A list of every organization where you used it, with their sizes.
+    - >-
+      When it failed, and what you now always add because of it.
+    - >-
+      The rubric score you received the last time you used it.
+  correct: 2
+  explanation: >-
+    The kit's value is what you learned using it: where it failed and what you add now. A download
+    date, a list of clients or a past score does not change how you will use the tool next time.
+
+- id: q5
+  question: >-
+    Your one-page offer lists a four-week "AI readiness diagnostic". What makes it easier for a client
+    to buy?
+  options:
+    - >-
+      A guarantee that the diagnostic will find at least three AI use cases.
+    - >-
+      Phases the client can stop after, the kit it uses, and what you route to others.
+    - >-
+      A single fixed price with no phases, so the client has one decision to make.
+    - >-
+      A promise to cover legal and security questions so the client needs nobody else.
+  correct: 1
+  explanation: >-
+    Phases with exits limit the client's risk, the kit shows what they will get, and a named boundary
+    (counsel, DPO, security, procurement) shows you know where your advice stops. Guarantees of use
+    cases and promises to cover law invite the wrong engagement.

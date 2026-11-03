@@ -1,0 +1,11 @@
+code,name_he,name_en,counts_as_active,added
+10,פעיל,Active,Y,2019-07-01
+21,פעיל - על תנאי,Active - academic probation,Y,2019-07-01
+33,עבר תוכנית,Transferred to another programme in the college,N,2019-07-01
+41,הקפאת לימודים,Studies frozen,N,2019-07-01
+47,הקפאה - מילואים,Studies frozen - reserve duty,N,2024-11-03
+51,הפסיק לימודים - בהודעה,Withdrew (gave notice),N,2019-07-01
+52,לא נרשם לשנה הבאה,Did not register for the next year,N,2019-07-01
+58,הופסקו לימודיו - אקדמי,Discontinued (academic),N,2019-07-01
+60,סיים לימודים,Graduated,N,2019-07-01
+99,אחר,Other,N,2019-07-01

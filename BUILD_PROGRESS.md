@@ -23,13 +23,12 @@ Goal: build the course in `curriculum/plan.md` under
 - [x] Module 01 · [ ] 02 · [ ] 03 · [ ] 04 · [ ] 05 · [ ] 06 · [ ] 07
 - [x] Simulations (13, plan §3.3): [x] batch 1 (shell, discovery-interview, portfolio-sorter, pilot-economics, oversight-under-load, adoption-dynamics) · [x] batch 2 (steering-committee, incident-tabletop, risk-register-tester, roi-defender, readiness-evidence-grader) · [x] batch 3 (agent-authority, vendor-rfp, operating-model-scaler)
 - [x] Engagements [x] 08 · [x] 09 · [x] 10 · [x] 11 · [x] 12 · [x] 13 · [x] 14 · [x] 15 · [x] 16 · [x] 17
-- [ ] Module 18 capstone
-- [ ] Final QA: check-course 0 problems, links, quiz rules, TODO_FOR_TAL says ready to import
+- [x] Module 18 capstone
+- [x] Final QA: check-course 0 problems (118 lessons, 753 questions), all 18 module checks 0, every lab script runs, simulations syntax-checked, TODO_FOR_TAL says ready to import
 
 ## Now working
 
-- Agent 1: module 18 capstone — started 2026-11-03.
-- Agent 2: free.
+- Nothing running. Course complete.
 - After Foundation C: align Harbor volumes in `simulations/pilot-economics/presets.js`, `oversight-under-load/presets.js` and the portfolio-sorter cards with the data room (see `curriculum/inbox/simulations-batch-1-notes.md`).
 - Next: modules 03, 04 as slots free; simulations batch 3 before module 10/14/15.
 

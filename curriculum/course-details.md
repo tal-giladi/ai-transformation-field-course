@@ -7,7 +7,7 @@
 | GitHub repo | `tal-giladi/ai-transformation-field-course` (public) |
 | Price | Paid (Tal, 2026-11-02) |
 | Risk notice | none |
-| Format | 18 modules, ~120 lessons; 7 field-kit modules, 10 full organization engagements with data rooms, AI roleplay stakeholders and simulations, and a capstone |
+| Format | 18 modules, 118 lessons; 7 field-kit modules, 10 full organization engagements with data rooms, AI roleplay stakeholders and simulations, and a capstone |
 | Prerequisites | IBM "Lead AI Transformation" certificate or the same ideas; spreadsheets; an LLM chat account. Optional code track: Python and an LLM API key. |
 
 ## One-line summary
