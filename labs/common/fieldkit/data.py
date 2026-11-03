@@ -27,7 +27,7 @@ def load(path: str | Path, **kwargs) -> pd.DataFrame:
     df = pd.read_csv(path, dtype=str, keep_default_na=False, na_values=[""], encoding="utf-8", **kwargs)
     for col in df.columns:
         if col.endswith(("_at", "_date")) or col in ("date", "timestamp"):
-            df[col] = pd.to_datetime(df[col], errors="coerce", utc=True).dt.tz_convert("Asia/Jerusalem")
+            df[col] = _israel_time(df[col])
     for col in df.columns:
         if pd.api.types.is_datetime64_any_dtype(df[col]):
             continue
@@ -35,3 +35,12 @@ def load(path: str | Path, **kwargs) -> pd.DataFrame:
         if df[col].notna().any() and converted.notna().sum() == df[col].notna().sum():
             df[col] = converted
     return df
+
+
+def _israel_time(values: pd.Series) -> pd.Series:
+    """Timestamps with an offset (or Z) are converted to Israel time; ones without are taken as Israel time."""
+    has_offset = values.dropna().astype(str).str.contains(r"(?:Z|[+-]\d{2}:?\d{2})$", regex=True)
+    if has_offset.any():
+        return pd.to_datetime(values, errors="coerce", utc=True, format="mixed").dt.tz_convert("Asia/Jerusalem")
+    naive = pd.to_datetime(values, errors="coerce", format="mixed")
+    return naive.dt.tz_localize("Asia/Jerusalem", ambiguous="NaT", nonexistent="shift_forward")

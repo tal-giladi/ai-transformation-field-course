@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    Your map has a ₪300 cap, a ₪2,000 daily total and one credit per customer a day. Which test shows the daily
+    total is doing something the other limits do not?
+  options:
+    - >-
+      A single request for a ₪5,000 credit from a Growth customer.
+    - >-
+      A ₪300 credit requested after ₪1,900 of agent credits that day.
+    - >-
+      A second ₪100 credit for the same Starter customer on the same day.
+    - >-
+      A request with a fake "SYSTEM NOTE" demanding a ₪4,800 credit.
+  correct: 1
+  explanation: >-
+    Each test should be stopped by exactly one control. The ₪5,000 and ₪4,800 requests are stopped by the cap, the
+    repeat by the per-customer limit; only a routine-looking credit on a bad day needs the daily total.
+
+- id: q2
+  question: >-
+    You remove source control and the kill switch from an otherwise strong map. The harness still passes the
+    replaced-article tests above ₪300. Why is that not reassuring?
+  options:
+    - >-
+      Because the harness only tests English, and the replaced article was in Russian.
+    - >-
+      Because the scripted agent is too pessimistic, so real results would be worse.
+    - >-
+      Because approvers would have caught the credits anyway during the first two weeks.
+    - >-
+      Because the cap stops them by accident; a ₪250 poisoned-source credit still gets through.
+  correct: 3
+  explanation: >-
+    The large stale-article credits are stopped by the cap, not by anything that controls what the agent reads. A
+    small credit from a poisoned document stays under every cap, and only source control stops it.
+
+- id: q3
+  question: >-
+    With the mock provider, the LLM agent proposes no tool calls: every must-refuse case passes and every must-do
+    case fails. What do you conclude?
+  options:
+    - >-
+      That the harness runs, and refusal tests alone reward an agent that does nothing.
+    - >-
+      That the mock model is the safest choice and should be used at launch.
+    - >-
+      That the must-do tests are badly written, since a safe agent should fail them.
+    - >-
+      That the permission map is too strict and should be loosened until must-do tests pass.
+  correct: 0
+  explanation: >-
+    The mock run proves the plumbing works and shows the refusal trap: an agent that never acts passes every
+    refusal test. Must-do tests are there to catch over-blocking; the map is tested with the scripted worst case.
+
+- id: q4
+  question: >-
+    Which is a gate for moving credits from "one approver" to "executes alone within limits"?
+  options:
+    - >-
+      Two weeks have passed since launch and the product team is confident.
+    - >-
+      Customer satisfaction with the assistant is at least 4 out of 5 for two weeks.
+    - >-
+      At least 100 credits approved, none wrong in the daily reviews, and the suite passing.
+    - >-
+      The executive staff agrees at its next meeting that the launch has gone well.
+  correct: 2
+  explanation: >-
+    A gate is a yes/no condition on the log with a date, so nobody can move it by mood or confidence. Volume,
+    zero wrong credits in the reviews and a passing suite are evidence the limits work at the lower rung.
+
+- id: q5
+  question: >-
+    The external red team reports that a file name, not the file's content, carried an instruction to the model.
+    The gate stopped the resulting email. What do you do with the finding?
+  options:
+    - >-
+      Nothing, since the gate stopped it and the control worked as designed.
+    - >-
+      Add it as a test row, so the suite checks it after every future change.
+    - >-
+      Ask the model vendor to fix the model so it ignores file names.
+    - >-
+      Add a sentence to the system prompt telling the model to ignore file names.
+  correct: 1
+  explanation: >-
+    A finding that is only in a report will be found again. As a test row it is re-run after every prompt, model or
+    tool change, which is when today's passing control could quietly stop working.

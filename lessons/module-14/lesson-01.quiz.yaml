@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    On your first morning the VP Support says the CEO has promised the board a launch on 9 February and
+    "50% resolved by Q2". How do you write these into your charter?
+  options:
+    - >-
+      As the objective, since the CEO's commitment to the board outranks the sponsor's wording.
+    - >-
+      As inputs the work tests: a date to prepare a decision for and a target to define and baseline.
+    - >-
+      As constraints to escalate, because a fixed date makes any safety work impossible to plan.
+    - >-
+      As out of scope, since launch dates and targets belong to the VP Product, not to you.
+  correct: 1
+  explanation: >-
+    Written as the objective, the date and target allow only one outcome, a launch, and every finding becomes an
+    obstacle. As inputs, the work prepares the decision for that date and gives the target a definition and a
+    baseline.
+
+- id: q2
+  question: >-
+    You are an employee, not a consultant. Which charter line follows most directly from that difference?
+  options:
+    - >-
+      Phases with exit points after the diagnosis and after the decision paper.
+    - >-
+      A fixed fee for the work, invoiced at each decision point.
+    - >-
+      No control that you cannot staff, because you will run whatever you approve.
+    - >-
+      An advisory boundary saying you never make decisions, only recommendations.
+  correct: 2
+  explanation: >-
+    A consultant can recommend an approval for every action and leave; an internal owner has to staff those
+    approvals after launch. Decision points replace exits, and every control is sized to the people who will run it.
+
+- id: q3
+  question: >-
+    The product dashboard says the beta resolves 63% of conversations, defined as "no 'Talk to a person'".
+    How do you sort this in your first-day read?
+  options:
+    - >-
+      Claim to test: customers who give up are counted, and no repeat contacts are checked.
+    - >-
+      Verified: the dashboard is generated from the session log, so the number is real.
+    - >-
+      Contradicted: the board update said "two out of three", which is a different figure.
+    - >-
+      Unverifiable: resolution can only be measured after general availability.
+  correct: 0
+  explanation: >-
+    The number is computed correctly under its own definition, but the definition counts abandoned sessions and
+    ignores customers who come back by email. That makes it a claim to test against a stricter definition.
+
+- id: q4
+  question: >-
+    The incident runbook says the kill switch is the feature flag `assist_enabled`. What do you do on day one?
+  options:
+    - >-
+      Accept it, since a flag is the standard way to switch features off in software.
+    - >-
+      Ask Product to add a second flag, so that there are two ways to switch it off.
+    - >-
+      Mark it as a claim to test, and ask R&D how tool calls run once they are queued.
+    - >-
+      Remove the agent's tools until a proper kill switch has been designed and built.
+  correct: 2
+  explanation: >-
+    A flag that hides a widget may not stop work already queued. On day one you do not redesign anything; you mark
+    the claim, ask how the agent executes tool calls, and test it later.
+
+- id: q5
+  question: >-
+    The mandate ends "own every AI agent that touches a customer account". IT's inventory lists three AI systems.
+    What do you do in week 1?
+  options:
+    - >-
+      Accept IT's list for now, since IT owns the inventory and you own only Lumen Assist.
+    - >-
+      Send a company-wide email asking every team to declare their agents by Friday.
+    - >-
+      Ask the CISO to block every API token except the one Lumen Assist uses today.
+    - >-
+      Start an inventory with an identity column and ask every interviewee what else acts on accounts.
+  correct: 3
+  explanation: >-
+    The official list is a claim to test. Starting the inventory on day one, with the identity each agent acts
+    under, turns every interview into a lead; a blanket email or block before you know what runs invites hiding or breakage.

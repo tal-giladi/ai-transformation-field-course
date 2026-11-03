@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    The VP Product says the ₪500 credit limit is "in the system prompt, and the model follows it". What does the
+    permission map record for that limit?
+  options:
+    - >-
+      Enforced in the prompt, which is acceptable for a low-risk action like credits.
+    - >-
+      Enforced in the prompt, with a note to test it after every model upgrade.
+    - >-
+      Not enforced: a limit lives in the tool layer or billing, or it counts as none.
+    - >-
+      Enforced by the approver, since a person reviews credits before the invoice run.
+  correct: 2
+  explanation: >-
+    In the beta all 12 wrong credits were above ₪500, because a retrieved article outranked the prompt. A limit
+    the model can be talked past is not a limit; the map puts it in code the model cannot override.
+
+- id: q2
+  question: >-
+    Which actions may sit on rung 3 (executes alone) even though they cannot be undone?
+  options:
+    - >-
+      Any action, provided the full trace is reviewed every day at 17:00.
+    - >-
+      Email to the address on file and 2FA reset after verification on file.
+    - >-
+      Deletion through the console, because it keeps data for 14 days first.
+    - >-
+      Plan changes for Starter, because they are self-serve in the product.
+  correct: 1
+  explanation: >-
+    An irreversible action can execute alone only when a limit makes the irreversible case impossible: an email
+    that can only reach the account's own address, a reset that needs a callback to the phone on file. A review
+    finds harm after it happens; it does not prevent the irreversible case.
+
+- id: q3
+  question: >-
+    A wrong credit is "easy to reverse". In the beta, eight wrong credits were still paid out. Why?
+  options:
+    - >-
+      Nobody reviewed the agent's actions before the invoice runs closed the window.
+    - >-
+      Billing has no way to reverse a credit once the agent has issued it to a customer.
+    - >-
+      The customers spent the credits immediately, so they could not be taken back.
+    - >-
+      The amounts were too small for billing's reconciliation to flag them.
+  correct: 0
+  explanation: >-
+    Recoverability depends on detection. A credit can be reversed until the Thursday 22:00 run; with no daily
+    review of the agent's log, 11 days passed and eight credits went out on invoices.
+
+- id: q4
+  question: >-
+    A customer-success manager's nightly automation credits at-risk accounts with no cap, under a shared token,
+    and has emailed three Enterprise admins. Renewals of flagged accounts look better since it started. What do
+    you decide?
+  options:
+    - >-
+      Stop it today, since it broke the registration rule and touched Enterprise customers.
+    - >-
+      Leave it as it is, since the renewal numbers show it is working and CS supports it.
+    - >-
+      Hand it to R&D to rebuild properly, with the builder no longer involved in it.
+    - >-
+      Approve it with its own identity, Growth by plan, a credit cap, a stop and a register entry.
+  correct: 3
+  explanation: >-
+    Stopping a working tool pushes the next one out of sight, and leaving it keeps the shared token and the
+    uncapped credits. Guardrails keep the value, make it attributable and stoppable, and keep the builder an ally.
+
+- id: q5
+  question: >-
+    Lumen sells in the EU and its agent talks to customers' admins. Which statement belongs in your routing
+    table for counsel?
+  options:
+    - >-
+      The agent is high-risk under Annex III, so conformity work must start before launch.
+    - >-
+      Article 50 transparency applies only from December 2027, after the Omnibus.
+    - >-
+      Article 50(1) disclosure applies from 2 August 2026; two languages lack it.
+    - >-
+      The AI Act does not reach Lumen, because the company is based in Israel.
+  correct: 2
+  explanation: >-
+    Article 50 applies from 2 August 2026 and the Omnibus moved high-risk dates, not 50(1). A support agent is not
+    among Annex III's listed uses. The fact for counsel is the missing disclosure in two languages; the reading is hers.

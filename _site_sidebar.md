@@ -121,3 +121,11 @@
   - [88 · Build: the readiness audit and a manual assistant](/lessons/module-13/lesson-05.md)
   - [89 · Readout and debrief](/lessons/module-13/lesson-06.md)
   - [Module 13 quiz](/assessments/module-13-quiz.md)
+- **Module 14 — Lumen SaaS: Shipping an Agent**
+  - [90 · The call](/lessons/module-14/lesson-01.md)
+  - [91 · Discovery](/lessons/module-14/lesson-02.md)
+  - [92 · Diagnosis](/lessons/module-14/lesson-03.md)
+  - [93 · The hard part: agent authority](/lessons/module-14/lesson-04.md)
+  - [94 · Build: tests, red team and staged autonomy](/lessons/module-14/lesson-05.md)
+  - [95 · Readout and debrief](/lessons/module-14/lesson-06.md)
+  - [Module 14 quiz](/assessments/module-14-quiz.md)

@@ -4,6 +4,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 
 ## Terms
 
+- **7-day resolution** — A conversation the agent closed with no handoff, no ticket and no repeat contact on the same intent within 7 days (lesson 14.3).
 - **Absorption** — The hours a month a receiving team says it can give to anything new (training, checking, new steps), asked of its lead, not assumed (lesson 03.4).
 - **Acceptable-use policy (AUP)** — The two-page rule set that tells employees whether they may use AI for a task, with which data, in which tool, and what they must check before an output leaves the company (lesson 04.1).
 - **Acceptance test (handover)** — A piece of the service's real work that the receiving team does without the builder in the room, observed and recorded, before the handover is signed (lesson 07.9).
@@ -13,6 +14,9 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Adoption gate** — The share of real use that must be reached before a pilot's value numbers are read (lesson 05.1).
 - **Advisory boundary** — The line between questions you answer yourself (method, framing, priorities) and those you route to a named specialist such as counsel, the DPO, security, procurement or HR (lesson 01.1).
 - **Advisory boundary (non-lawyer)** — For a consultant in a law firm, the line beyond which confidentiality, privilege, consent and billing questions go to the firm's ethics partner and outside ethics counsel (lesson 12.1).
+- **Agent fleet** — Every agent and automation in an organisation that touches customer data or accounts, whether registered or not (lesson 14.2).
+- **Agent identity** — A credential used by one agent only, with only the scopes its tools need, so its actions can be attributed, limited and revoked (lesson 14.4).
+- **Agent permission map** — One document per AI agent that lists every action it could take with its worst case, recoverability, last reversible moment, rung on the authority ladder, limits and where each limit is enforced, plus its identity, audit trail, kill switch, tests and staged-autonomy plan (lesson 14.4).
 - **Agent-assist** — AI that drafts a reply or a decision for a staff member who checks, edits and sends it, as opposed to a bot that answers customers alone (lesson 08.4).
 - **Agentic opportunity frame** — A one-page design of one candidate workflow: today's steps, what simplification removes, what does each step, builder, connections and permissions, checks, upkeep and why it is or is not an agent (lesson 03.2).
 - **AI in a feature update** — An AI capability that arrived in software the organization already used, often enabled by default, without anyone choosing it (lesson 01.7).
@@ -23,6 +27,8 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Answer first** — Opening a memo with the answer to the sponsor's question, the number that carries it and the recommended decision, in three sentences (lesson 02.7).
 - **Asset crosswalk** — The table that maps one physical asset to its ids in every system (maintenance, MES, historian, alarms), built on something stable such as the serial number (lesson 13.2).
 - **Attribution rule** — The promise, made at the start of an interview and kept, about how what the person says will be reported (for example "the support team said", never their name) (lesson 02.2).
+- **Authority gap** — IBM's name for the distance between what an agent can do and what anyone authorised it to do (lesson 14.1).
+- **Authority ladder** — The four rungs an agent's action can sit on: not granted, recommend with one approver, recommend with two approvers, executes alone within limits (lesson 14.4).
 - **Automate / assist / augment / leave alone** — The four modes of change, decided by who does the work afterwards: no person per item, a person deciding each item, a person gaining a new capability, or no change (lesson 03.1).
 - **Back-coding** — Classifying old free-text records into categories after the fact, by rules or an LLM; it recovers what was written (a component), never what was not (the failure mode) (lesson 13.5).
 - **Billed resolution** — The unit a per-outcome AI vendor charges for, defined in its contract; compare prices only after reading what each vendor counts (lesson 08.4).
@@ -39,6 +45,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Change request** — The logged, assessed and decided route for an expansion, recording what it would displace and telling the requester the reason and review date (lesson 01.3).
 - **Check log** — The appendix that lists each statement of an AI-drafted text, the source it was checked against and whether it was kept, corrected or removed (lesson 02.7).
 - **Citation gate** — Five checks a research answer passes before a lawyer relies on it: the document exists, the paragraph exists, any quote is verbatim, the document is current, and the paragraph says what is claimed (lesson 12.4).
+- **Citizen builder** — A business user who builds their own agents or automations with workflow tools, outside IT and product teams (lesson 14.2).
 - **Claim read-back** — A one-page answer to whether a claim can be believed: the claim as stated, its measurement conditions, who chose them, the fit to the client's conditions, a rating and the evidence that would change it (lesson 04.8).
 - **Claimant's wait** — The time from the day a claim is reported to the last payment to the claimant or their garage, the cycle time a claimant actually experiences (lesson 09.3).
 - **Claims register** — The table that records, for every number in narrative documents, who said it, where, when, and whether it is verified, contradicted, a claim to test or unverifiable (lesson 01.5).
@@ -76,6 +83,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Document round** — One request letter for documents on a claim; a second or third round means something was asked for late, and each round adds weeks to the claimant's wait (lesson 09.3).
 - **DPIA trigger** — A written condition (decisions about people, highly sensitive data, personal data at scale, new recipients, a new purpose, monitoring of people) that means a DPIA must be done before an AI use starts or continues (lesson 04.4).
 - **Earliest date** — A stage date in a release plan is the earliest the stage may start if its exit condition is met, not a deadline (lesson 07.8).
+- **Enforced outside the model** — A limit checked by the tool layer or a downstream system whatever the model says; a limit that exists only in the prompt counts as none (lesson 14.4).
 - **Exit check** — One fresh case done alone at the end of a session and observed against the checks; its results stay with the trainer and champion (lesson 06.2).
 - **Exit point** — A date in a consulting statement of work where either side may stop, with a deliverable and a decider named, said out loud in the first meeting so it can actually be used (lesson 08.1).
 - **Exitable phase** — A priced part of an engagement with its own deliverables and acceptance criteria, after which the client can stop and keep everything delivered (lesson 01.1).
@@ -105,9 +113,11 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Internal lead with a day job** — An employee picked to lead AI work while keeping their role, with access and credibility but not neutrality, because some of the data under audit is their own (lesson 13.1).
 - **Issues log** — The champions' record of what goes wrong, one row per problem with an example, each with a decision, an owner and the date the team was told (lesson 06.3).
 - **Job aid** — The one-page reference kept beside the screen: the rule, the checks, the marks, the stop conditions and where to get help (lesson 06.2).
+- **Kill switch** — A tested way to stop an agent acting (revoking its identity and draining its tool queue), as opposed to hiding its interface (lesson 14.4).
 - **Knowledge pack** — The approved set of documents an assistant may answer from, each with an owner and an effective date, in every language it serves (lesson 11.5).
 - **Label question** — Whether the outcome an AI use would learn from or be judged against was ever recorded, consistently, by someone who knew; if not, the verdict is "not yet" (lesson 02.5).
 - **Language mismatch** — A visit in which the doctor does not speak the patient's preferred language, so a relative, a nurse or a phone interpreter carries the conversation (lesson 10.2).
+- **Last reversible moment** — The last point at which an agent's mistake can still be undone without cost, such as the invoice run, the billing sync or the send (lesson 14.4).
 - **Ledger line** — For a candidate, who now checks, corrects, escalates or waits because of the change; never left blank (lesson 03.1).
 - **Legal register** — The separate list of AI systems that carry a legal duty, with the duty and the evidence it is met, linked to the inventory by ID (lesson 01.7).
 - **Light edit** — A change to a draft that takes under a minute and changes wording or tone only, never a fact; a draft needing more is not counted as accepted (lesson 05.4).
@@ -119,7 +129,9 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Measurement conditions** — The sample, definition of success, volume and task mix, oversight and time window under which a figure was measured (lesson 04.8).
 - **Mechanism sentence** — A risk written as "Because [condition], [who] may suffer [harm] through [path]", so a control can be attached to the path (lesson 04.5).
 - **Monitoring notice** — The written notice, given before collection, of what is recorded about employees, why, who sees it, what it is never used for and how long it is kept (lesson 06.5).
+- **Must-do test** — A test of a routine action the agent should complete, used beside must-refuse tests to catch an agent that over-blocks (lesson 14.5).
 - **Must-have term** — A contract term set before vendors answer whose refusal excludes the vendor whatever its price or score; a gate, not a weight (lesson 10.4).
+- **Must-refuse test** — A negative test that asks an agent to take an action it must refuse or hand off, written so that exactly one control in the permission map stops it (lesson 14.5).
 - **Must-route question** — A question an assistant must hand to a person instead of answering, such as a resident's own decision, exempt building works or legal advice (lesson 11.5).
 - **Narrowest switch** — The smallest switch-off that stops the harm (one category, channel or language), tried before wider ones (lesson 07.5).
 - **Negative test** — A hand-written test case for a rare or harmful situation (injury, refund outside policy, another person's data, prompt injection, unsupported language) that the pilot must handle correctly every time (lesson 05.2).
@@ -162,6 +174,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Receiving team** — The people who absorb work a program moves or creates, often outside the team in scope and missing from the org chart's view of the project (lesson 02.1).
 - **Recommend-against** — A recommendation not to do something the sponsor or the CEO wants, placed on the front page of the readout with its evidence (lesson 08.6).
 - **Recording protocol** — A signed agreement with workers' representatives on how new work records may and may not be used (no individual performance reports, no discipline, languages, training) before recording starts (lesson 13.4).
+- **Recoverability band** — How undoable an action is: easy to reverse, reversible within a window, hard to reverse, or cannot be undone (lesson 14.4).
 - **Refinement** — A new request that serves the same objective, users, data and deliverable and fits the agreed time and money; done inside the phase without a change request (lesson 01.3).
 - **Regulatory clock** — A cycle time defined by a regulator's deadline (here, from a complete file to the decision notice), worth reporting for compliance but not a measure of the customer's experience (lesson 09.3).
 - **Regulatory map** — A one-page table of which instrument applies to which AI use, in which role (actor), with which obligation, from which date, at which status and on which checked source (lesson 04.6).
@@ -182,7 +195,10 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Shadow AI** — AI tools and features used for work without the organization having decided to use them, including tools paid for in plain sight on expense claims (lesson 01.6).
 - **Shadow mode** — Running the AI on live production messages with its output hidden from staff and customers, compared afterwards with what people actually did (lesson 05.6).
 - **Shadow-AI census** — A department-level count of AI use built from at least four sources (survey, proxy log, extensions, expenses and SaaS list, interviews, traces in the work) under a stated amnesty (lesson 01.6).
+- **Soft pass** — A must-refuse test stopped only by the model's own refusal rather than by a control outside the model; reported, never counted as a control (lesson 14.5).
 - **Softened paper** — A document whose bad news was edited out one reasonable change at a time on its way up, until readers believe something the evidence does not support (lesson 07.3).
+- **Source control (for an agent)** — Approval of the documents an agent may read, per revision and per language, before it can act on them (lesson 14.4).
+- **Staged autonomy** — Widening an agent's authority one step at a time, each step with a date, a yes/no gate on the log and a stop rule that moves it back down (lesson 14.5).
 - **Staged gate** — A yes/no condition, written in advance, that releases the next stage of money (lesson 03.7).
 - **Staged release** — Widening a pilot's use one change at a time (channel, mode, language, autonomy), each stage with a yes/no entry condition and an owner (lesson 05.6).
 - **Stale citation** — A citation to a real document that has been reversed, replaced or withdrawn; it passes existence and wording checks and fails the currency check (lesson 12.5).

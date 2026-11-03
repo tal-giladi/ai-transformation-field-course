@@ -7,6 +7,7 @@ Every document you produce in the course starts from one of these templates. Eac
 - [30-60-90 plan](30-60-90-plan.md)
 - [Access request pack](access-request-pack.md)
 - [Adoption dashboard spec](adoption-dashboard-spec.md)
+- [Agent permission map](agent-permission-map.md)
 - [Agentic opportunity frame](agentic-opportunity-frame.md)
 - [AI acceptable-use policy](acceptable-use-policy.md)
 - [AI intake register](ai-intake-register.md)

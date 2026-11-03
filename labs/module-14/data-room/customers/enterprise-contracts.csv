@@ -1,0 +1,121 @@
+customer_id,name,seats_contracted,price_per_seat_ils,modules_ils_per_year,acv_ils,term_start,term_end,term_months,outage_credit_clause,ai_terms,account_lead
+C-10007,Tavor Logistics Ltd.,503,11.00,20000,86396,2024-10-22,2027-10-22,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-10010,Savyon Restaurants Ltd.,1490,14.00,62000,312320,2024-02-05,2027-02-05,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-10025,Aurora Print GmbH,1568,13.00,42000,286608,2025-11-09,2027-11-09,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-10033,Amir Print Ltd.,477,14.00,12000,92136,2025-08-28,2027-08-28,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-10061,Summit Vet Clinic,585,14.00,18000,116280,2025-02-21,2027-02-21,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-10083,Shahar Retail Ltd.,647,13.00,16000,116932,2024-02-09,2027-02-09,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-10134,Keshet Catering,1206,12.50,37000,217900,2024-04-22,2027-04-22,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-10142,Prairie Print Inc.,515,13.00,14000,94340,2025-12-05,2026-12-05,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-10150,Yahalom Retail Ltd.,1062,14.00,44000,222416,2026-03-28,2027-03-28,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-10168,Limassol Dental,868,14.50,21000,172032,2025-01-18,2027-01-18,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-10179,Negev Studio Ltd.,1009,15.00,42000,223620,2026-10-27,2027-10-27,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Customer Data shall not be used to train models,Pavel Orlov
+C-10183,Savyon Print,1358,12.00,46000,241552,2025-08-07,2027-08-07,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-10195,Limassol Bakery Ltd,1009,11.50,30000,169242,2024-06-21,2027-06-21,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-10218,Galil Studio Ltd.,411,13.50,11000,77582,2026-01-17,2027-01-17,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Notify Customer of new sub-processors incl. AI providers,Dana Ohana
+C-10235,Athena Optics Sp. z o.o.,843,12.00,33000,154392,2026-04-06,2027-04-06,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-10314,Nahar Optics Ltd.,1088,12.00,31000,187672,2024-03-05,2027-03-05,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-10316,Kypros Engineering S.A.,844,14.50,30000,176856,2025-01-26,2027-01-26,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Customer Data shall not be used to train models,Amir Haddad
+C-10329,Tavor Laundry Ltd.,726,12.00,24000,128544,2024-11-03,2027-11-03,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-10337,Shaked Clinics,2600,13.50,96000,517200,2024-03-31,2027-03-31,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Supplier to notify Customer before any AI system processes Customer Data; Customer may opt out,Amir Haddad
+C-10341,Shahar Restaurants,1176,13.50,32000,222512,2024-04-26,2027-04-26,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-10355,Galil Laundry,542,13.50,14000,101804,2025-07-16,2027-07-16,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Customer Data shall not be used to train models,Amir Haddad
+C-10371,Harbor Restaurants LLC,785,12.50,28000,145750,2025-04-15,2027-04-15,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-10379,Savyon Farms Ltd.,1546,14.00,64000,323728,2024-05-05,2027-05-05,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-10406,Tzuf Security Group,619,11.00,23000,104708,2026-04-02,2027-04-02,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-10432,Shikma Farms Ltd.,1799,13.50,54000,345438,2025-10-08,2027-10-08,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Notify Customer of new sub-processors incl. AI providers,Amir Haddad
+C-10563,Keshet Pharmacy,1054,11.00,38000,177128,2026-06-01,2027-06-01,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-10591,Danube Laundry GmbH,545,12.50,21000,102750,2026-02-19,2027-02-19,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-10660,Sakhnin Cleaning Group,592,14.00,15000,114456,2026-05-23,2027-05-23,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Notify Customer of new sub-processors incl. AI providers,Lina Khoury
+C-10695,Zayit Farms,852,12.50,22000,149800,2024-05-05,2027-05-05,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-10728,Tavor Security Group,408,13.00,15000,78648,2026-04-28,2027-04-28,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-10763,Lotem Bakery,783,12.00,25000,137752,2024-12-24,2026-12-24,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-10787,Limassol Vet Clinic GmbH,842,14.00,25000,166456,2025-03-14,2027-03-14,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-10803,Iasi Laundry GmbH,977,13.00,39000,191412,2024-05-14,2027-05-14,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-10842,Prairie Logistics,944,14.50,29000,193256,2024-03-18,2027-03-18,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-10854,Sela Cleaning Ltd. 3,635,13.00,25000,124060,2025-08-19,2027-08-19,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-10882,Savyon Packaging Group,1593,13.00,41000,289508,2025-08-20,2027-08-20,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-10988,Lakeside Farms Inc.,598,11.00,20000,98936,2025-12-20,2026-12-20,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-11021,Negev Retail Group,400,12.50,17000,77000,2024-02-28,2027-02-28,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-11071,Rimon Bakery Ltd.,654,14.00,16000,125872,2025-03-03,2027-03-03,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-11077,Bayview Garage,661,14.50,26000,141014,2024-10-27,2027-10-27,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-11134,Tzuf Logistics Group,411,13.00,16000,80116,2024-08-16,2027-08-16,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-11171,Shahar Fitness Ltd.,1571,12.00,65000,291224,2025-04-16,2027-04-16,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-11184,Sakhnin Packaging,795,13.50,22000,150790,2025-06-20,2027-06-20,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-11198,Gefen Clinics,1344,13.00,41000,250664,2025-05-12,2027-05-12,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-11230,Nordlicht Plastics GmbH,643,13.00,24000,124308,2026-03-28,2027-03-28,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-11253,Dacia Garage B.V.,689,11.50,17000,112082,2025-05-07,2027-05-07,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-11257,Hadar Laundry Ltd.,431,13.50,12000,81822,2026-09-28,2027-09-28,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-11258,Amstel Garage,2299,13.00,85000,443644,2023-12-23,2026-12-23,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-11292,Alon Packaging Ltd.,1009,14.00,36000,205512,2025-11-22,2027-11-22,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-11313,Arava Bakery Ltd. 7,1890,14.50,55000,383860,2026-09-25,2027-09-25,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-11358,Sakhnin Cleaning Ltd. 5,1055,13.00,28000,192580,2024-05-22,2027-05-22,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Notify Customer of new sub-processors incl. AI providers,Pavel Orlov
+C-11461,Delta Laundry S.A.,1622,14.00,66000,338496,2025-12-19,2026-12-19,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-11474,Shahar Dental Ltd. 8,1136,13.00,33000,210216,2024-07-11,2027-07-11,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Notify Customer of new sub-processors incl. AI providers,Amir Haddad
+C-11477,Dekel Bakery Group,774,13.50,28000,153388,2026-08-04,2027-08-04,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-11480,Orot Print Ltd.,644,13.50,22000,126328,2025-10-05,2027-10-05,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Customer Data shall not be used to train models,Pavel Orlov
+C-11494,Bustan Packaging Group,890,14.00,35000,184520,2025-10-26,2027-10-26,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-11526,Rimon Print,1329,12.00,40000,231376,2023-12-28,2026-12-28,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-11575,Vistula Retail Ltd,672,15.00,20000,140960,2024-11-08,2027-11-08,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-11603,Hadar Kindergartens Ltd.,860,14.50,34000,183640,2025-07-25,2027-07-25,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-11643,Dekel Bakery Ltd.,2233,11.50,69000,377154,2024-09-28,2027-09-28,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-11692,Nahar Laundry Ltd.,978,13.00,34000,186568,2026-02-02,2027-02-02,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Customer Data shall not be used to train models,Amir Haddad
+C-11697,Limassol Restaurants Ltd,1336,14.50,45000,277464,2025-07-25,2027-07-25,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-11705,Nahar Engineering Ltd.,657,12.00,17000,111608,2025-11-26,2027-11-26,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-11804,Yarden Hotels Group,1174,14.50,36000,240276,2024-07-01,2027-07-01,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-11823,Rimon Plastics Ltd. 6,943,13.50,26000,178766,2026-10-03,2027-10-03,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-11838,Bustan Retail,1165,12.50,45000,219750,2024-01-16,2027-01-16,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-11842,Aurora Garage,850,13.50,30000,167700,2026-02-02,2027-02-02,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-11873,Rahat Star Restaurants Ltd. 2,1400,12.50,58000,268000,2026-09-09,2027-09-09,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-11882,Galil Catering,630,15.00,26000,139400,2024-05-24,2027-05-24,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-11905,Tavor Security,1369,14.50,51000,289206,2025-09-17,2027-09-17,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-11940,Al-Nour Security Group,560,12.00,14000,94640,2024-11-03,2027-11-03,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Customer Data shall not be used to train models,Pavel Orlov
+C-11948,Ela Retail Group 9,1586,14.50,51000,326964,2024-04-01,2027-04-01,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-11990,Marom Garage Group,878,11.50,30000,151164,2026-07-15,2027-07-15,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-11993,Galil Cleaning,1254,11.00,45000,210528,2025-05-28,2027-05-28,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-11999,Prairie Studio LLC,1216,11.50,51000,218808,2026-06-28,2027-06-28,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-12000,Moria Garage Ltd. 6,1089,11.00,30000,173748,2026-03-05,2027-03-05,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-12002,Savyon Dental Group,860,15.00,25000,179800,2025-01-07,2027-01-07,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Customer Data shall not be used to train models,Amir Haddad
+C-12042,Harbor Farms LLC,737,11.00,24000,121284,2024-11-21,2027-11-21,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Customer Data shall not be used to train models,Dana Ohana
+C-12070,Summit Packaging,1452,12.00,59000,268088,2025-03-23,2027-03-23,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-12106,Nordlicht Engineering S.R.L.,708,11.50,21000,118704,2025-01-01,2027-01-01,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-12141,Lotem Vet Clinic Group,1536,14.50,60000,327264,2025-11-18,2027-11-18,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-12173,Nazareth Bay Studio Ltd. 2,1308,14.50,42000,269592,2025-05-28,2027-05-28,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-12197,Yarden Optics 7,746,12.50,26000,137900,2025-03-21,2027-03-21,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-12208,Summit Retail 5,1071,12.00,43000,197224,2026-01-11,2027-01-11,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-12229,Athena Plastics GmbH,573,11.50,20000,99074,2025-07-23,2027-07-23,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-12252,Aurora Engineering Sp. z o.o.,471,11.50,17000,81998,2024-07-12,2027-07-12,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-12272,Yarden Care Homes Group 2,1128,11.50,41000,196664,2025-11-06,2027-11-06,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-12287,Kfar Yasif Laundry,1865,14.00,46000,359320,2026-05-26,2027-05-26,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Notify Customer of new sub-processors incl. AI providers,Lina Khoury
+C-12303,Kypros Catering S.A.,794,13.50,30000,158628,2025-02-19,2027-02-19,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-12314,Nof Catering Group,1435,12.00,56000,262640,2025-04-21,2027-04-21,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-12327,Ofek Pharmacy 9,1567,12.00,61000,286648,2025-11-21,2027-11-21,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-12339,Liberty Kindergartens Inc. 8,911,12.00,34000,165184,2025-05-16,2027-05-16,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-12343,Keshet Bakery Ltd.,791,11.00,26000,130412,2026-06-12,2027-06-12,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-12380,Tamar Vet Clinic Group 7,1480,14.50,49000,306520,2025-09-28,2027-09-28,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-12397,Rhein Restaurants Sp. z o.o.,1406,13.50,48000,275772,2026-11-26,2027-11-26,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-12420,Baltic Kindergartens B.V.,846,14.50,34000,181204,2026-06-05,2027-06-05,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-12469,Kraków Fitness Sp. z o.o.,346,14.00,14000,72128,2025-12-02,2026-12-02,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-12485,Al-Karmel Print Ltd. 4,517,12.50,16000,93550,2024-02-22,2027-02-22,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-12500,Dacia Bakery B.V.,803,12.00,28000,143632,2025-05-19,2027-05-19,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-12506,Rahat Star Clinics,1930,12.00,62000,339920,2024-10-28,2027-10-28,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Customer Data shall not be used to train models,Lina Khoury
+C-12541,Nordlicht Pharmacy S.R.L. 7,478,12.00,17000,85832,2025-11-05,2027-11-05,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-12545,Maple Farms 2,785,13.50,22000,149170,2025-09-04,2027-09-04,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-12615,Tavor Vet Clinic Ltd.,1371,13.50,51000,273102,2024-02-11,2027-02-11,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-12643,Shikma Hotels Ltd. 3,457,15.00,18000,100260,2024-02-09,2027-02-09,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-12649,Maple Bakery Inc.,1298,12.50,54000,248700,2026-02-06,2027-02-06,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Notify Customer of new sub-processors incl. AI providers,Amir Haddad
+C-12682,Cedar Garage Inc.,300,13.00,8000,54800,2024-01-16,2027-01-16,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Customer Data shall not be used to train models,Dana Ohana
+C-12700,Lakeside Pharmacy,786,14.00,30000,162048,2023-12-03,2026-12-03,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-12754,Shikma Packaging Ltd.,598,12.00,22000,108112,2026-01-28,2027-01-28,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-12766,Olymp Studio Sp. z o.o.,753,11.50,30000,133914,2026-10-17,2027-10-17,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Customer Data shall not be used to train models,Amir Haddad
+C-12799,Aurora Optics B.V.,617,11.00,20000,101444,2024-04-05,2027-04-05,36,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Notify Customer of new sub-processors incl. AI providers,Dana Ohana
+C-12846,Delta Packaging S.A.,917,14.00,29000,183056,2025-06-26,2027-06-26,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Pavel Orlov
+C-12875,Amstel Bakery Ltd,1374,12.00,33000,230856,2025-02-25,2027-02-25,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-12902,Moria Studio Ltd.,474,15.00,19000,104320,2025-07-14,2027-07-14,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-12909,Dekel Pharmacy Ltd. 5,1031,13.50,36000,203022,2026-07-11,2027-07-11,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-12917,Al-Nour Care Homes,1234,12.00,30000,207696,2025-02-10,2027-02-10,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Notify Customer of new sub-processors incl. AI providers,Pavel Orlov
+C-12928,Yahalom Catering Group,1263,14.00,50000,262184,2025-04-03,2027-04-03,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury
+C-12940,Pinecrest Cleaning Inc. 6,1421,15.00,34000,289780,2025-11-14,2027-11-14,24,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Amir Haddad
+C-12967,Kinor Kindergartens,1248,11.50,43000,215224,2026-03-27,2027-03-27,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Dana Ohana
+C-12995,Nof Hotels Ltd. 3,914,14.50,25000,184036,2026-03-20,2027-03-20,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",Notify Customer of new sub-processors incl. AI providers,Pavel Orlov
+C-13031,Dacia Laundry S.A.,833,12.00,34000,153952,2026-11-05,2027-11-05,12,"99.5% monthly; 5% of monthly fee per 0.5% below, max 25%",,Lina Khoury

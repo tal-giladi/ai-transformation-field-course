@@ -1,0 +1,254 @@
+article_id,language,revision,published_at,published_by,team,change_note
+HC-101,en,1,2023-08-01 18:04:00,boris.feldman,Support,update
+HC-101,he,1,2023-11-05 11:53:00,boris.feldman,Support,translation from en v1
+HC-101,he,2,2024-10-14 16:14:00,boris.feldman,Support,translation from en v2
+HC-101,he,3,2025-09-26 15:54:00,svc-translate,Marketing,translation from en v3
+HC-101,he,4,2026-03-21 10:58:00,svc-translate,Marketing,translation from en v4
+HC-101,ar,1,2023-08-12 10:39:00,boris.feldman,Support,translation from en v1
+HC-101,ru,1,2021-10-27 12:50:00,boris.feldman,Support,translation from en v1
+HC-101,ru,2,2022-06-25 17:45:00,boris.feldman,Support,translation from en v2
+HC-102,en,1,2024-11-21 11:25:00,boris.feldman,Support,new UI
+HC-102,he,1,2024-04-28 18:55:00,boris.feldman,Support,translation from en v1
+HC-102,he,2,2025-01-09 15:57:00,boris.feldman,Support,translation from en v2
+HC-102,he,3,2026-01-04 14:54:00,svc-translate,Marketing,translation from en v3
+HC-102,he,4,2026-10-02 18:10:00,svc-translate,Marketing,translation from en v4
+HC-102,ar,1,2023-06-25 11:46:00,boris.feldman,Support,translation from en v1
+HC-102,ar,2,2024-11-09 12:37:00,boris.feldman,Support,translation from en v2
+HC-102,ar,3,2025-05-25 17:24:00,boris.feldman,Support,translation from en v3
+HC-102,ru,1,2023-08-12 09:29:00,boris.feldman,Support,translation from en v1
+HC-102,ru,2,2024-02-06 11:22:00,boris.feldman,Support,translation from en v2
+HC-104,en,1,2023-08-14 13:18:00,boris.feldman,Support,fix link
+HC-104,en,2,2024-09-04 16:25:00,boris.feldman,Support,screenshots
+HC-104,he,1,2021-12-17 15:20:00,boris.feldman,Support,translation from en v1
+HC-104,he,2,2022-05-16 09:34:00,boris.feldman,Support,translation from en v2
+HC-104,he,3,2023-04-18 09:53:00,boris.feldman,Support,translation from en v3
+HC-104,he,4,2024-08-12 11:58:00,boris.feldman,Support,translation from en v4
+HC-104,ar,1,2021-09-02 17:24:00,boris.feldman,Support,translation from en v1
+HC-104,ar,2,2022-08-09 17:49:00,boris.feldman,Support,translation from en v2
+HC-104,ru,1,2022-05-01 11:51:00,boris.feldman,Support,translation from en v1
+HC-104,ru,2,2023-02-15 16:33:00,boris.feldman,Support,translation from en v2
+HC-104,ru,3,2024-06-02 14:39:00,boris.feldman,Support,translation from en v3
+HC-107,en,1,2024-12-07 12:37:00,boris.feldman,Support,new UI
+HC-107,en,2,2025-02-18 09:26:00,boris.feldman,Support,new UI
+HC-107,en,3,2026-03-19 12:40:00,boris.feldman,Support,update
+HC-107,he,1,2022-02-21 16:09:00,boris.feldman,Support,translation from en v1
+HC-107,he,2,2023-05-19 14:12:00,boris.feldman,Support,translation from en v2
+HC-107,he,3,2024-10-16 12:02:00,boris.feldman,Support,translation from en v3
+HC-107,ar,1,2021-05-09 18:53:00,boris.feldman,Support,translation from en v1
+HC-107,ar,2,2022-08-07 13:00:00,boris.feldman,Support,translation from en v2
+HC-107,ar,3,2023-07-21 11:49:00,boris.feldman,Support,translation from en v3
+HC-107,ru,1,2022-07-17 15:45:00,boris.feldman,Support,translation from en v1
+HC-107,ru,2,2023-04-26 17:13:00,boris.feldman,Support,translation from en v2
+HC-107,ru,3,2024-08-01 12:54:00,boris.feldman,Support,translation from en v3
+HC-107,ru,4,2025-12-21 11:26:00,svc-translate,Marketing,translation from en v4
+HC-110,en,1,2024-04-18 08:39:00,boris.feldman,Support,new UI
+HC-110,en,2,2025-11-02 12:02:00,boris.feldman,Support,fix link
+HC-110,he,1,2024-04-14 18:22:00,boris.feldman,Support,translation from en v1
+HC-110,ar,1,2024-06-09 12:36:00,boris.feldman,Support,translation from en v1
+HC-110,ar,2,2025-04-20 09:14:00,boris.feldman,Support,translation from en v2
+HC-110,ar,3,2026-03-11 12:33:00,svc-translate,Marketing,translation from en v3
+HC-110,ru,1,2021-04-28 15:51:00,boris.feldman,Support,translation from en v1
+HC-110,ru,2,2022-07-25 18:01:00,boris.feldman,Support,translation from en v2
+HC-110,ru,3,2023-06-05 08:32:00,boris.feldman,Support,translation from en v3
+HC-110,ru,4,2024-12-13 16:11:00,boris.feldman,Support,translation from en v4
+HC-112,en,1,2021-06-24 09:01:00,boris.feldman,Support,update
+HC-112,en,2,2022-10-05 18:50:00,boris.feldman,Support,wording
+HC-112,en,3,2023-12-20 14:27:00,boris.feldman,Support,new UI
+HC-112,he,1,2023-11-09 14:25:00,boris.feldman,Support,translation from en v1
+HC-112,he,2,2024-07-15 11:52:00,boris.feldman,Support,translation from en v2
+HC-112,he,3,2025-09-09 11:49:00,svc-translate,Marketing,translation from en v3
+HC-112,ar,1,2023-04-03 13:55:00,boris.feldman,Support,translation from en v1
+HC-112,ar,2,2024-03-24 10:03:00,boris.feldman,Support,translation from en v2
+HC-112,ar,3,2025-03-23 17:53:00,boris.feldman,Support,translation from en v3
+HC-112,ru,1,2023-06-20 13:09:00,boris.feldman,Support,translation from en v1
+HC-112,ru,2,2024-02-27 12:43:00,boris.feldman,Support,translation from en v2
+HC-140,en,1,2022-03-16 11:18:00,boris.feldman,Support,new UI
+HC-140,en,2,2023-01-23 17:22:00,boris.feldman,Support,fix link
+HC-140,en,3,2024-04-10 14:24:00,boris.feldman,Support,screenshots
+HC-140,he,1,2021-05-17 16:07:00,boris.feldman,Support,translation from en v1
+HC-140,he,2,2022-10-20 16:27:00,boris.feldman,Support,translation from en v2
+HC-140,he,3,2023-03-22 10:21:00,boris.feldman,Support,translation from en v3
+HC-140,he,4,2024-04-14 08:10:00,boris.feldman,Support,translation from en v4
+HC-140,ar,1,2023-12-21 10:53:00,boris.feldman,Support,translation from en v1
+HC-140,ru,1,2022-10-20 16:36:00,boris.feldman,Support,translation from en v1
+HC-140,ru,2,2023-07-14 14:13:00,boris.feldman,Support,translation from en v2
+HC-140,ru,3,2024-08-11 11:17:00,boris.feldman,Support,translation from en v3
+HC-141,en,1,2024-03-05 12:08:00,boris.feldman,Support,screenshots
+HC-141,en,2,2025-08-26 11:41:00,boris.feldman,Support,screenshots
+HC-141,he,1,2022-07-22 10:35:00,boris.feldman,Support,translation from en v1
+HC-141,he,2,2023-10-17 12:01:00,boris.feldman,Support,translation from en v2
+HC-141,he,3,2024-03-19 15:08:00,boris.feldman,Support,translation from en v3
+HC-141,ar,1,2021-10-25 15:29:00,boris.feldman,Support,translation from en v1
+HC-141,ru,1,2023-07-24 17:02:00,boris.feldman,Support,translation from en v1
+HC-141,ru,2,2024-12-10 08:53:00,boris.feldman,Support,translation from en v2
+HC-141,ru,3,2025-10-16 10:25:00,svc-translate,Marketing,translation from en v3
+HC-141,ru,4,2026-11-12 14:06:00,svc-translate,Marketing,translation from en v4
+HC-143,en,1,2021-07-24 17:56:00,boris.feldman,Support,wording
+HC-143,en,2,2022-04-06 10:15:00,boris.feldman,Support,update
+HC-143,en,3,2023-02-08 16:05:00,boris.feldman,Support,new UI
+HC-143,en,4,2024-09-07 08:40:00,boris.feldman,Support,fix link
+HC-143,he,1,2022-05-12 10:32:00,boris.feldman,Support,translation from en v1
+HC-143,he,2,2023-02-27 09:14:00,boris.feldman,Support,translation from en v2
+HC-143,he,3,2024-01-18 10:19:00,boris.feldman,Support,translation from en v3
+HC-143,ar,1,2022-08-10 12:50:00,boris.feldman,Support,translation from en v1
+HC-143,ar,2,2023-10-05 09:06:00,boris.feldman,Support,translation from en v2
+HC-143,ar,3,2024-12-20 14:52:00,boris.feldman,Support,translation from en v3
+HC-143,ru,1,2023-11-20 08:23:00,boris.feldman,Support,translation from en v1
+HC-150,en,1,2023-07-12 17:12:00,noam.levi,R&D,fix link
+HC-150,en,2,2024-01-28 14:54:00,noam.levi,R&D,wording
+HC-150,en,3,2025-08-26 10:52:00,noam.levi,R&D,fix link
+HC-150,he,1,2022-08-22 15:33:00,noam.levi,R&D,translation from en v1
+HC-150,he,2,2023-02-24 18:40:00,noam.levi,R&D,translation from en v2
+HC-150,ar,1,2021-04-01 17:18:00,noam.levi,R&D,translation from en v1
+HC-150,ar,2,2022-08-03 08:06:00,noam.levi,R&D,translation from en v2
+HC-150,ar,3,2023-02-02 17:14:00,noam.levi,R&D,translation from en v3
+HC-150,ru,1,2022-05-13 14:08:00,noam.levi,R&D,translation from en v1
+HC-150,ru,2,2023-09-28 12:35:00,noam.levi,R&D,translation from en v2
+HC-150,ru,3,2024-01-07 17:19:00,noam.levi,R&D,translation from en v3
+HC-151,en,1,2021-07-09 18:18:00,boris.feldman,Support,fix link
+HC-151,en,2,2022-06-21 17:55:00,boris.feldman,Support,update
+HC-151,he,1,2024-04-20 12:50:00,boris.feldman,Support,translation from en v1
+HC-151,he,2,2025-05-28 15:41:00,boris.feldman,Support,translation from en v2
+HC-151,he,3,2026-09-08 12:40:00,svc-translate,Marketing,translation from en v3
+HC-151,ar,1,2023-07-04 09:30:00,boris.feldman,Support,translation from en v1
+HC-151,ru,1,2022-11-01 11:27:00,boris.feldman,Support,translation from en v1
+HC-151,ru,2,2023-02-10 08:52:00,boris.feldman,Support,translation from en v2
+HC-151,ru,3,2024-07-16 16:02:00,boris.feldman,Support,translation from en v3
+HC-151,ru,4,2025-11-20 08:04:00,svc-translate,Marketing,translation from en v4
+HC-160,en,1,2024-05-25 08:25:00,boris.feldman,Support,fix link
+HC-160,en,2,2025-11-21 12:21:00,boris.feldman,Support,new UI
+HC-160,en,3,2026-05-03 14:52:00,boris.feldman,Support,new UI
+HC-160,he,1,2021-12-26 08:36:00,boris.feldman,Support,translation from en v1
+HC-160,he,2,2022-06-12 12:26:00,boris.feldman,Support,translation from en v2
+HC-160,ar,1,2021-07-24 10:01:00,boris.feldman,Support,translation from en v1
+HC-160,ru,1,2024-07-05 11:05:00,boris.feldman,Support,translation from en v1
+HC-160,ru,2,2025-10-13 09:00:00,svc-translate,Marketing,translation from en v2
+HC-160,ru,3,2026-01-28 13:38:00,svc-translate,Marketing,translation from en v3
+HC-161,en,1,2021-02-06 10:48:00,maisa.hamdan,Marketing,wording
+HC-161,en,2,2022-03-21 14:57:00,maisa.hamdan,Marketing,fix link
+HC-161,en,3,2023-01-17 09:59:00,maisa.hamdan,Marketing,update
+HC-161,en,4,2024-08-11 09:34:00,maisa.hamdan,Marketing,update
+HC-161,he,1,2022-09-14 17:32:00,maisa.hamdan,Marketing,translation from en v1
+HC-161,ar,1,2024-12-16 17:48:00,maisa.hamdan,Marketing,translation from en v1
+HC-161,ar,2,2025-11-15 17:07:00,svc-translate,Marketing,translation from en v2
+HC-161,ru,1,2021-04-08 15:53:00,maisa.hamdan,Marketing,translation from en v1
+HC-161,ru,2,2022-09-26 17:12:00,maisa.hamdan,Marketing,translation from en v2
+HC-161,ru,3,2023-01-14 15:11:00,maisa.hamdan,Marketing,translation from en v3
+HC-161,ru,4,2024-06-09 15:59:00,maisa.hamdan,Marketing,translation from en v4
+HC-201,en,1,2024-04-08 12:29:00,fatma.abu-ras,Billing,fix link
+HC-201,en,2,2025-05-22 17:56:00,fatma.abu-ras,Billing,screenshots
+HC-201,he,1,2021-01-25 10:06:00,fatma.abu-ras,Billing,translation from en v1
+HC-201,he,2,2022-11-11 09:01:00,fatma.abu-ras,Billing,translation from en v2
+HC-201,he,3,2023-01-11 08:07:00,fatma.abu-ras,Billing,translation from en v3
+HC-201,he,4,2024-09-04 12:32:00,fatma.abu-ras,Billing,translation from en v4
+HC-201,ar,1,2023-07-04 15:34:00,fatma.abu-ras,Billing,translation from en v1
+HC-201,ar,2,2024-03-14 16:16:00,fatma.abu-ras,Billing,translation from en v2
+HC-201,ar,3,2025-06-23 17:41:00,svc-translate,Marketing,translation from en v3
+HC-201,ru,1,2021-07-02 14:02:00,fatma.abu-ras,Billing,translation from en v1
+HC-201,ru,2,2022-06-24 18:14:00,fatma.abu-ras,Billing,translation from en v2
+HC-201,ru,3,2023-08-13 14:58:00,fatma.abu-ras,Billing,translation from en v3
+HC-201,ru,4,2024-04-09 14:18:00,fatma.abu-ras,Billing,translation from en v4
+HC-202,en,1,2023-02-16 16:28:00,fatma.abu-ras,Billing,wording
+HC-202,en,2,2024-08-02 16:51:00,fatma.abu-ras,Billing,new UI
+HC-202,en,3,2025-09-01 14:31:00,fatma.abu-ras,Billing,update
+HC-202,he,1,2024-04-28 11:12:00,fatma.abu-ras,Billing,translation from en v1
+HC-202,he,2,2025-11-24 18:31:00,svc-translate,Marketing,translation from en v2
+HC-202,ar,1,2023-11-17 18:21:00,fatma.abu-ras,Billing,translation from en v1
+HC-202,ar,2,2024-02-16 17:11:00,fatma.abu-ras,Billing,translation from en v2
+HC-202,ar,3,2025-11-17 09:04:00,svc-translate,Marketing,translation from en v3
+HC-202,ar,4,2026-09-21 09:09:00,svc-translate,Marketing,translation from en v4
+HC-202,ru,1,2024-07-08 11:49:00,fatma.abu-ras,Billing,translation from en v1
+HC-202,ru,2,2025-03-07 13:10:00,fatma.abu-ras,Billing,translation from en v2
+HC-202,ru,3,2026-09-16 18:38:00,svc-translate,Marketing,translation from en v3
+HC-203,en,1,2022-08-05 15:22:00,fatma.abu-ras,Billing,wording
+HC-203,he,1,2024-02-19 09:07:00,fatma.abu-ras,Billing,translation from en v1
+HC-203,ar,1,2021-09-25 17:52:00,fatma.abu-ras,Billing,translation from en v1
+HC-203,ar,2,2022-03-28 18:13:00,fatma.abu-ras,Billing,translation from en v2
+HC-203,ru,1,2023-02-09 10:03:00,fatma.abu-ras,Billing,translation from en v1
+HC-203,ru,2,2024-12-01 18:55:00,fatma.abu-ras,Billing,translation from en v2
+HC-203,ru,3,2025-01-10 13:35:00,fatma.abu-ras,Billing,translation from en v3
+HC-203,ru,4,2026-01-11 08:35:00,svc-translate,Marketing,translation from en v4
+HC-205,en,1,2024-11-18 12:03:00,fatma.abu-ras,Billing,update
+HC-205,en,2,2025-03-09 14:09:00,fatma.abu-ras,Billing,new UI
+HC-205,en,3,2026-11-10 10:33:00,fatma.abu-ras,Billing,screenshots
+HC-205,en,4,2026-10-16 16:01:00,fatma.abu-ras,Billing,wording
+HC-205,he,1,2022-03-10 16:34:00,fatma.abu-ras,Billing,translation from en v1
+HC-205,he,2,2023-05-18 18:18:00,fatma.abu-ras,Billing,translation from en v2
+HC-205,ar,1,2024-12-18 13:46:00,fatma.abu-ras,Billing,translation from en v1
+HC-205,ar,2,2025-06-25 18:19:00,svc-translate,Marketing,translation from en v2
+HC-205,ar,3,2026-04-04 13:36:00,svc-translate,Marketing,translation from en v3
+HC-205,ru,1,2022-02-03 11:26:00,fatma.abu-ras,Billing,translation from en v1
+HC-210,en,1,2021-11-08 10:40:00,maisa.hamdan,Marketing,wording
+HC-210,he,1,2024-09-24 09:54:00,maisa.hamdan,Marketing,translation from en v1
+HC-210,he,2,2025-11-03 09:40:00,svc-translate,Marketing,translation from en v2
+HC-210,he,3,2026-12-17 13:01:00,svc-translate,Marketing,translation from en v3
+HC-210,ar,1,2021-04-24 10:09:00,maisa.hamdan,Marketing,translation from en v1
+HC-210,ar,2,2022-10-21 13:50:00,maisa.hamdan,Marketing,translation from en v2
+HC-210,ru,1,2024-06-22 13:04:00,maisa.hamdan,Marketing,translation from en v1
+HC-210,ru,2,2025-06-07 17:52:00,svc-translate,Marketing,translation from en v2
+HC-211,en,1,2023-07-20 16:53:00,fatma.abu-ras,Billing,update
+HC-211,en,2,2024-06-22 17:09:00,fatma.abu-ras,Billing,new UI
+HC-211,en,3,2025-07-12 16:42:00,fatma.abu-ras,Billing,update
+HC-211,en,4,2026-09-25 08:16:00,fatma.abu-ras,Billing,screenshots
+HC-211,he,1,2023-07-10 18:49:00,fatma.abu-ras,Billing,translation from en v1
+HC-211,he,2,2024-06-13 16:42:00,fatma.abu-ras,Billing,translation from en v2
+HC-211,he,3,2025-05-15 14:16:00,fatma.abu-ras,Billing,translation from en v3
+HC-211,ar,1,2021-03-02 11:04:00,fatma.abu-ras,Billing,translation from en v1
+HC-211,ar,2,2022-05-07 16:15:00,fatma.abu-ras,Billing,translation from en v2
+HC-211,ar,3,2023-02-13 11:47:00,fatma.abu-ras,Billing,translation from en v3
+HC-211,ar,4,2024-12-04 14:13:00,fatma.abu-ras,Billing,translation from en v4
+HC-211,ru,1,2023-11-14 18:25:00,fatma.abu-ras,Billing,translation from en v1
+HC-214,en,1,2021-03-14 10:02:00,fatma.abu-ras,Billing,first version
+HC-214,en,2,2023-01-08 11:40:00,fatma.abu-ras,Billing,annual plans section
+HC-214,en,3,2025-01-05 09:15:00,fatma.abu-ras,Billing,Enterprise wording
+HC-214,en,4,2025-11-02 14:30:00,fatma.abu-ras,Billing,seat review once a quarter
+HC-214,en,5,2026-11-09 16:40:00,maisa.hamdan,Marketing,Q4 right-size campaign
+HC-214,en,6,2026-11-22 14:05:00,yonatan.tadesse,Support,restore v4 text
+HC-214,he,4,2025-11-02 15:05:00,fatma.abu-ras,Billing,translation from en v4
+HC-214,he,5,2026-11-09 16:52:00,maisa.hamdan,Marketing,Q4 right-size campaign
+HC-214,he,6,2026-11-22 14:09:00,yonatan.tadesse,Support,restore v4 text
+HC-214,ar,4,2025-11-03 03:00:00,svc-translate,Marketing,translation from en v4
+HC-214,ar,5,2026-11-10 03:00:00,svc-translate,Marketing,translation from en v5
+HC-214,ru,4,2025-11-03 03:00:00,svc-translate,Marketing,translation from en v4
+HC-214,ru,5,2026-11-10 03:00:00,svc-translate,Marketing,translation from en v5
+HC-230,en,1,2021-10-13 18:16:00,andrei.kogan,Security,screenshots
+HC-230,en,2,2022-12-26 16:56:00,andrei.kogan,Security,new UI
+HC-230,he,1,2023-07-12 10:04:00,andrei.kogan,Security,translation from en v1
+HC-230,he,2,2024-08-26 15:35:00,andrei.kogan,Security,translation from en v2
+HC-230,he,3,2025-01-03 08:36:00,andrei.kogan,Security,translation from en v3
+HC-230,he,4,2026-01-28 16:11:00,svc-translate,Marketing,translation from en v4
+HC-230,ar,1,2024-08-18 09:08:00,andrei.kogan,Security,translation from en v1
+HC-230,ar,2,2025-03-26 17:50:00,andrei.kogan,Security,translation from en v2
+HC-230,ar,3,2026-10-02 18:42:00,svc-translate,Marketing,translation from en v3
+HC-230,ru,1,2022-07-23 17:20:00,andrei.kogan,Security,translation from en v1
+HC-230,ru,2,2023-02-21 16:31:00,andrei.kogan,Security,translation from en v2
+HC-231,en,1,2023-10-09 10:12:00,andrei.kogan,Security,new UI
+HC-231,en,2,2024-06-15 17:41:00,andrei.kogan,Security,fix link
+HC-231,he,1,2023-04-20 09:10:00,andrei.kogan,Security,translation from en v1
+HC-231,he,2,2024-06-04 09:50:00,andrei.kogan,Security,translation from en v2
+HC-231,ar,1,2024-01-20 17:38:00,andrei.kogan,Security,translation from en v1
+HC-231,ru,1,2022-08-06 09:55:00,andrei.kogan,Security,translation from en v1
+HC-231,ru,2,2023-10-03 10:02:00,andrei.kogan,Security,translation from en v2
+HC-231,ru,3,2024-11-22 09:56:00,andrei.kogan,Security,translation from en v3
+HC-240,en,1,2021-12-27 17:53:00,nurit.gal,Legal,update
+HC-240,en,2,2022-08-09 08:30:00,nurit.gal,Legal,wording
+HC-240,he,1,2023-12-18 17:53:00,nurit.gal,Legal,translation from en v1
+HC-240,he,2,2024-12-10 14:38:00,nurit.gal,Legal,translation from en v2
+HC-240,he,3,2025-11-08 17:53:00,svc-translate,Marketing,translation from en v3
+HC-240,he,4,2026-09-01 14:22:00,svc-translate,Marketing,translation from en v4
+HC-240,ar,1,2023-03-01 15:31:00,nurit.gal,Legal,translation from en v1
+HC-240,ar,2,2024-08-01 12:08:00,nurit.gal,Legal,translation from en v2
+HC-240,ru,1,2022-05-15 11:07:00,nurit.gal,Legal,translation from en v1
+HC-240,ru,2,2023-01-13 12:34:00,nurit.gal,Legal,translation from en v2
+HC-240,ru,3,2024-03-24 18:08:00,nurit.gal,Legal,translation from en v3
+HC-241,en,1,2024-06-11 17:28:00,nurit.gal,Legal,wording
+HC-241,en,2,2025-11-15 11:33:00,nurit.gal,Legal,wording
+HC-241,he,1,2024-07-16 16:09:00,nurit.gal,Legal,translation from en v1
+HC-241,he,2,2025-11-06 13:07:00,svc-translate,Marketing,translation from en v2
+HC-241,he,3,2026-08-08 17:24:00,svc-translate,Marketing,translation from en v3
+HC-241,ar,1,2021-02-01 16:22:00,nurit.gal,Legal,translation from en v1
+HC-241,ar,2,2022-12-04 11:56:00,nurit.gal,Legal,translation from en v2
+HC-241,ar,3,2023-11-17 14:48:00,nurit.gal,Legal,translation from en v3
+HC-241,ru,1,2021-05-19 12:29:00,nurit.gal,Legal,translation from en v1
+HC-241,ru,2,2022-10-13 11:45:00,nurit.gal,Legal,translation from en v2
+HC-241,ru,3,2023-12-07 12:20:00,nurit.gal,Legal,translation from en v3

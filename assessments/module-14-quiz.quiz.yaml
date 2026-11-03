@@ -1,0 +1,178 @@
+- id: q1
+  question: >-
+    In your first week as head of AI operations, the VP Product asks you to "sign off the agent" so she can confirm
+    the launch to a reseller partner. What do you answer?
+  options:
+    - >-
+      That you will sign off once the model has passed an accuracy evaluation on the beta's conversations.
+    - >-
+      That sign-off is per action: you will bring a permission map with tested limits by 7 January.
+    - >-
+      That the CISO should sign off instead, since agent safety is a security question.
+    - >-
+      That you cannot sign off anything before the executive staff decides on 27 January.
+  correct: 1
+  explanation: >-
+    "The agent" is not one thing to approve. Each action has its own worst case and rung, and the answer to the
+    owner is a dated deliverable that makes the decision possible, not a blanket yes or a refusal.
+
+- id: q2
+  question: >-
+    The beta's tool-call log shows 12 credits above the ₪500 the system prompt allows, all from conversations that
+    retrieved a replaced help article. What is the most accurate finding?
+  options:
+    - >-
+      The model ignores its instructions, so a different model is needed before launch.
+    - >-
+      Marketing published a draft, so the problem is outside the agent and needs no change to it.
+    - >-
+      The limit lived only in the prompt and the source was unapproved: fix both outside the model.
+    - >-
+      The approvers missed the credits, so approvals need a second person for amounts above ₪500.
+  correct: 2
+  explanation: >-
+    The model answered correctly whenever its source was right. The failures were where the limit lived (the
+    prompt, which an article outranked) and what the agent could read (anything published). Both are fixed outside the model.
+
+- id: q3
+  question: >-
+    The admin audit log shows one token acting at 02:00 every night with user agent "n8n". The token belongs to an
+    engineer who left in June. What do you do first?
+  options:
+    - >-
+      Follow the rows to the credits ledger and card expenses to find the owner, then talk to them.
+    - >-
+      Ask the CISO to revoke the token immediately, since its creator has left the company.
+    - >-
+      Report it to the executive staff as a security incident at the next weekly meeting.
+    - >-
+      Leave it until after launch, since it is not part of the agent you were hired to ship.
+  correct: 0
+  explanation: >-
+    The same token runs the agent and other systems; revoking it blind breaks things nobody has listed. Finding the
+    owner first turns an unknown automation into a register entry with a decision.
+
+- id: q4
+  question: >-
+    The dashboard shows 63% resolved; a 7-day definition gives 35.5%. Downgrade questions show 81% under the 7-day
+    definition. What do you add to the measure?
+  options:
+    - >-
+      A CSAT threshold, since satisfied customers are the real sign of resolution.
+    - >-
+      Nothing, since the 7-day definition already removes the dashboard's weakness.
+    - >-
+      A weighting by intent, so that downgrades count for less in the overall rate.
+    - >-
+      A weekly sample of resolved conversations read against policy for wrong actions.
+  correct: 3
+  explanation: >-
+    Wrongly credited customers stopped asking, so the best-looking intent was the one where the agent was wrong. A
+    resolution rate needs a quality check beside it, read against policy.
+
+- id: q5
+  question: >-
+    For "reset 2FA", the product design asks three security questions (admin name, email, last invoice). Which
+    entry belongs in the permission map?
+  options:
+    - >-
+      Rung 2, two approvers for every reset, because takeovers cannot be undone.
+    - >-
+      Rung 3 only after verification on a channel already on file, enforced in code.
+    - >-
+      Rung 0, never granted, because any reset by an agent is too risky.
+    - >-
+      Rung 3 with the three questions, plus a daily review of every reset in the trace.
+  correct: 1
+  explanation: >-
+    The three answers are printed on every invoice, so they verify nothing. Verification on a channel already on
+    file makes the irreversible case impossible without spending approver time; a review would find a takeover after it happened.
+
+- id: q6
+  question: >-
+    Product's runbook says the kill switch is a feature flag. On 22 November eight queued actions ran after it was
+    switched off. What does the permission map specify instead?
+  options:
+    - >-
+      Revoke the agent's identity and drain its queue, with a target time and a drill.
+    - >-
+      A second feature flag that disables the agent's backend as well as its widget.
+    - >-
+      An instruction in the system prompt to stop all actions when the flag is off.
+    - >-
+      A rule that support calls every affected customer after the flag is switched off.
+  correct: 0
+  explanation: >-
+    A stop must act on the agent's ability to act, not on what customers see. Revoking the identity and draining
+    the queue does that; a target time and a drill turn the claim into a tested control.
+
+- id: q7
+  question: >-
+    A customer-success manager's automation emails at-risk accounts and credits them, uncapped, under the shared
+    token. Flagged renewals look somewhat better since it started. What decision fits the evidence?
+  options:
+    - >-
+      Stop it, because an unregistered automation using a leaver's token cannot be trusted.
+    - >-
+      Approve it with its own identity, Growth by plan, a credit cap, a stop and a held-out group.
+    - >-
+      Keep it as it is until the renewal numbers can be tested properly at the end of the year.
+    - >-
+      Move it into Lumen Assist, so that one agent handles every customer contact.
+  correct: 1
+  explanation: >-
+    It has value and real risks. Guardrails keep the value, make it attributable and stoppable, and a held-out
+    group measures its effect honestly; a ban pushes the next build out of sight.
+
+- id: q8
+  question: >-
+    Lumen sells to customers in the EU and its in-product agent writes to their admins. Counsel asks which
+    AI Act point you need her to read first. What do you bring her?
+  options:
+    - >-
+      That the agent is a high-risk Annex III system and needs a conformity assessment before launch.
+    - >-
+      That the Digital Omnibus postponed all transparency duties to December 2027.
+    - >-
+      That Article 50(1) disclosure applies now and the Arabic and Russian strings are empty.
+    - >-
+      That the AI Act does not apply to companies established outside the European Union.
+  correct: 2
+  explanation: >-
+    Article 50 applies from 2 August 2026 and the Omnibus did not change 50(1); a support agent is not among the
+    listed Annex III uses. The fact she needs is the missing disclosure in two languages; the legal reading is hers.
+
+- id: q9
+  question: >-
+    Your harness shows a map with caps and approvals but no source control passing every test except a ₪250 credit
+    demanded by a retrieved community answer. The VP Product says one failure out of 42 is fine. What do you say?
+  options:
+    - >-
+      That one failure is within tolerance, and the test can be retired after launch.
+    - >-
+      That the test is unrealistic, since nobody would write instructions in a help article.
+    - >-
+      That an approver should be added for credits under ₪300 to cover that single case.
+    - >-
+      That this test is the only one that proves source control, so the map is missing a control.
+  correct: 3
+  explanation: >-
+    Each test is designed so that only one control stops it. A ₪250 poisoned-source credit passes every cap; if it
+    succeeds, nothing controls what the agent reads, which is exactly how the November incident happened.
+
+- id: q10
+  question: >-
+    Which gate for moving credits to "executes alone within limits" will hold up at the executive staff?
+  options:
+    - >-
+      At least 100 credits approved, none wrong in daily reviews, approvals within capacity, the suite passing.
+    - >-
+      Two weeks after launch, provided there are no complaints from customers about credits.
+    - >-
+      When the VP Product and the head of AI operations agree that the launch has gone well.
+    - >-
+      When customer satisfaction with Lumen Assist reaches 4 out of 5 in the weekly survey.
+  correct: 0
+  explanation: >-
+    A gate is a yes/no condition on the log, with a date to review it: evidence that the limits worked at the lower
+    rung. Complaints arrive late, agreement is a mood, and satisfaction does not measure wrong actions.

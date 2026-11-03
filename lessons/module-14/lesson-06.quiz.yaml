@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    The executive staff meets on 27 January. How do you frame the decision you ask for?
+  options:
+    - >-
+      As one question, "approve Lumen Assist for Lumen Live: yes or no", to keep the meeting short.
+    - >-
+      As three options with pros and cons, so that the executives choose the level of risk.
+    - >-
+      As a briefing only, since the VP Product owns the agent and will decide after the meeting.
+    - >-
+      As one recommendation in parts decided separately, with the recommend-against on the front page.
+  correct: 3
+  explanation: >-
+    "Approve the agent" hides the per-action choices, and a menu hands the decision back unprepared. Separate
+    parts (scope, Enterprise, fleet rules, the citizen agent, the measure) can each be decided, owned and dated.
+
+- id: q2
+  question: >-
+    Writing up the 22 November incident, what goes under "causes"?
+  options:
+    - >-
+      The marketing editor who published the draft and the VP Support who delayed the pause.
+    - >-
+      Unapproved sources, a prompt-only limit, a stop that did not stop, no daily review.
+    - >-
+      The model's tendency to follow retrieved documents over its system prompt.
+    - >-
+      The customer who asked about downgrades, since the request triggered the credits.
+  correct: 1
+  explanation: >-
+    Causes are written in the system, where fixes can be owned: who may publish, what the agent may read, where the
+    limit lives, what the stop stops, who reviews the log. A name in the causes makes the next incident hide.
+
+- id: q3
+  question: >-
+    The hardest finding is that the VP Product's design lets the beta's failure happen at scale. How do you open
+    the private rehearsal with her?
+  options:
+    - >-
+      With her goal, a launch she can show on stage, then the test results, then the incident.
+    - >-
+      With the incident and the ₪19,368, so that the seriousness is clear from the start.
+    - >-
+      With the CISO's position, so that the objection comes from security rather than from you.
+    - >-
+      With the CEO's request for an authority model, so that she knows the decision is already taken.
+  correct: 0
+  explanation: >-
+    Opening with the incident makes the owner defend the design. Starting from what she wants, then evidence that
+    the map still delivers it, turns the incident into the reason for the map rather than an accusation.
+
+- id: q4
+  question: >-
+    Your integration check finds the daily 17:00 review of the agent's trace has no owner on Fridays. Why does
+    this matter enough to fix before launch?
+  options:
+    - >-
+      Because the CEO will ask about it, and the readout should have an answer to every question.
+    - >-
+      Because the review is what keeps wrong credits inside their last reversible moment.
+    - >-
+      Because the agent is not allowed to run on Fridays without a person on duty.
+    - >-
+      Because support is closed on Fridays, so the agent should be switched off then.
+  correct: 1
+  explanation: >-
+    A credit is easy to reverse only until the Thursday 22:00 invoice run, and only if someone sees it. A daily
+    review with a gap is how the beta's 11-day delay happens again.
+
+- id: q5
+  question: >-
+    In the debrief, which single difference most separates the future where the launch went well from the one
+    where it was shipped as designed?
+  options:
+    - >-
+      Whether a stronger, more expensive model was chosen for general availability.
+    - >-
+      Whether the launch date was moved by a month to allow more testing.
+    - >-
+      Whether the incident and fleet reached the executives and they decided per action.
+    - >-
+      Whether the CISO was given a veto over every change to the agent.
+  correct: 2
+  explanation: >-
+    The model was never the problem, and a later date with the same design would have failed the same way. What
+    changed the outcome was the evidence reaching the decision, and a decision taken per action with controls outside the model.

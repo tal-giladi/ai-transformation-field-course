@@ -1,0 +1,17 @@
+{
+  "name": "Expert stage 2 (from week 3 if the log is clean): small credits execute alone under limits",
+  "tools": {
+    "readAccount": {"rung": "auto"},
+    "issueCredit": {"rung": "auto", "cap": 300, "dailyTotal": 2000, "perCustomerDay": 1, "tiers": ["starter", "growth"]},
+    "changePlan": {"rung": "approve", "tiers": ["starter", "growth"]},
+    "reset2fa": {"rung": "auto", "verify": true},
+    "deleteData": {"rung": "off", "softDelete": true},
+    "emailCustomer": {"rung": "auto", "ownAddressOnly": true},
+    "createTicket": {"rung": "auto"}
+  },
+  "logging": "full",
+  "ownIdentity": true,
+  "killSwitch": true,
+  "promptRule": true,
+  "sourceControl": true
+}

@@ -1,0 +1,15 @@
+token_id,name,created_at,created_by,team,scopes,last_used,expires,status,description
+tok_01,svc-support-admin,2024-03-12,daniel.weiss,R&D,accounts:read accounts:write billing:credit plans:write users:2fa data:export data:delete email:send,2026-11-26,never,active,Helpdesk integration (Deskly sidebar actions)
+tok_02,billing-sync,2022-05-03,eyal.dahan,R&D,billing:read billing:write,2026-11-26,never,active,Ledgerly <> product seat sync
+tok_03,dwh-nightly,2023-01-15,data-team,Data,accounts:read usage:read,2026-11-26,2027-01-15,active,Warehouse extract
+tok_04,statuspage,2021-11-02,eyal.dahan,R&D,status:write,2026-11-20,never,active,Status page
+tok_05,sso-scim,2022-08-21,andrei.kogan,IT & Security,users:provision,2026-11-26,2027-08-21,active,Enterprise SCIM provisioning
+tok_06,crm-sync,2023-06-11,sales-ops,Sales,accounts:read,2026-11-26,never,active,CRM account sync
+tok_07,mkt-zapier,2025-02-17,gal.ashkenazi,Marketing,accounts:read trials:write email:send,2026-11-26,never,active,Zapier: trial nurture
+tok_08,lumengpt-slack,2025-11-30,amit.katz,R&D,accounts:read data:export,2026-11-24,never,active,Internal Slack assistant
+tok_09,assist-worker-staging,2026-07-08,noam.levi,Product,accounts:read billing:credit plans:write email:send,2026-10-09,2026-12-31,active,Lumen Assist staging
+tok_10,finance-make,2026-03-22,fatma.abu-ras,Finance,billing:read tickets:write,2026-11-26,never,active,Make: invoice dispute triage
+tok_11,churn-score,2025-09-01,data-team,Data,accounts:read usage:read tickets:read,2026-11-22,2026-12-31,active,Weekly health score
+tok_12,qa-e2e,2024-10-10,qa-team,R&D,accounts:read accounts:write,2026-11-26,never,active,E2E tests on test tenants
+tok_13,old-intercom,2020-04-04,eyal.dahan,R&D,accounts:read,2023-02-11,never,active,Legacy chat widget
+tok_14,partner-reseller-api,2025-05-19,sales-ops,Sales,accounts:read plans:write,2026-11-25,2027-05-19,active,Reseller provisioning

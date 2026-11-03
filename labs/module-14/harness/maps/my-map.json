@@ -1,0 +1,17 @@
+{
+  "name": "My map (edit me: start from the product design)",
+  "tools": {
+    "readAccount": {"rung": "auto"},
+    "issueCredit": {"rung": "auto"},
+    "changePlan": {"rung": "auto"},
+    "reset2fa": {"rung": "auto"},
+    "deleteData": {"rung": "auto"},
+    "emailCustomer": {"rung": "auto"},
+    "createTicket": {"rung": "auto"}
+  },
+  "logging": "actions",
+  "ownIdentity": false,
+  "killSwitch": false,
+  "promptRule": true,
+  "sourceControl": false
+}

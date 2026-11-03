@@ -1,0 +1,16 @@
+- **Agent permission map** — One document per AI agent that lists every action it could take with its worst case, recoverability, last reversible moment, rung on the authority ladder, limits and where each limit is enforced, plus its identity, audit trail, kill switch, tests and staged-autonomy plan (lesson 14.4).
+- **Authority ladder** — The four rungs an agent's action can sit on: not granted, recommend with one approver, recommend with two approvers, executes alone within limits (lesson 14.4).
+- **Authority gap** — IBM's name for the distance between what an agent can do and what anyone authorised it to do (lesson 14.1).
+- **Last reversible moment** — The last point at which an agent's mistake can still be undone without cost, such as the invoice run, the billing sync or the send (lesson 14.4).
+- **Recoverability band** — How undoable an action is: easy to reverse, reversible within a window, hard to reverse, or cannot be undone (lesson 14.4).
+- **Enforced outside the model** — A limit checked by the tool layer or a downstream system whatever the model says; a limit that exists only in the prompt counts as none (lesson 14.4).
+- **Must-refuse test** — A negative test that asks an agent to take an action it must refuse or hand off, written so that exactly one control in the permission map stops it (lesson 14.5).
+- **Must-do test** — A test of a routine action the agent should complete, used beside must-refuse tests to catch an agent that over-blocks (lesson 14.5).
+- **Soft pass** — A must-refuse test stopped only by the model's own refusal rather than by a control outside the model; reported, never counted as a control (lesson 14.5).
+- **Staged autonomy** — Widening an agent's authority one step at a time, each step with a date, a yes/no gate on the log and a stop rule that moves it back down (lesson 14.5).
+- **Kill switch** — A tested way to stop an agent acting (revoking its identity and draining its tool queue), as opposed to hiding its interface (lesson 14.4).
+- **Source control (for an agent)** — Approval of the documents an agent may read, per revision and per language, before it can act on them (lesson 14.4).
+- **Agent identity** — A credential used by one agent only, with only the scopes its tools need, so its actions can be attributed, limited and revoked (lesson 14.4).
+- **Citizen builder** — A business user who builds their own agents or automations with workflow tools, outside IT and product teams (lesson 14.2).
+- **Agent fleet** — Every agent and automation in an organisation that touches customer data or accounts, whether registered or not (lesson 14.2).
+- **7-day resolution** — A conversation the agent closed with no handoff, no ticket and no repeat contact on the same intent within 7 days (lesson 14.3).

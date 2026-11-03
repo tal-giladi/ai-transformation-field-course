@@ -1,0 +1,8 @@
+action,what_it_does,worst_realistic_case,recoverability_band,last_reversible_moment,rung_0_to_3,limits,enforced_where,approver_and_capacity,logged_fields,must_refuse_tests
+read_account,,,,,,,,,,
+issue_credit,,,,,,,,,,
+change_plan,,,,,,,,,,
+reset_2fa,,,,,,,,,,
+delete_data,,,,,,,,,,
+email_customer,,,,,,,,,,
+create_ticket,,,,,,,,,,

@@ -1,0 +1,8 @@
+key,en,he,ar,ru
+assist.title,Lumen Assist,Lumen Assist,Lumen Assist,Lumen Assist
+assist.greeting,Hi! How can I help with Lumen today?,היי! איך אפשר לעזור?,مرحبًا! كيف يمكنني المساعدة؟,Здравствуйте! Чем помочь?
+assist.disclosure,"You're chatting with Lumen Assist, an AI assistant. It can make mistakes, and you can ask for a person at any time.","את/ה משוחח/ת עם Lumen Assist, עוזר מבוסס בינה מלאכותית. הוא עלול לטעות, ואפשר לבקש נציג בכל רגע.",,
+assist.handoff_button,Talk to a person,לדבר עם נציג,التحدث مع موظف,Связаться с сотрудником
+assist.privacy_hint,"Please don't share ID numbers, pay details or bank details in chat.","נא לא לשתף מספרי זהות, פרטי שכר או פרטי בנק בצ'אט.",,
+assist.credit_done,Done: a credit of {amount} will appear on your next invoice.,בוצע: זיכוי של {amount} יופיע בחשבונית הבאה.,تم: سيظهر رصيد {amount} في فاتورتك القادمة.,Готово: кредит {amount} появится в следующем счёте.
+assist.fallback_note,Missing strings show nothing (no fallback to English).,,,

@@ -1,0 +1,97 @@
+article_id,language,title,owner_team,current_revision,status,searchable_by_assist
+HC-101,en,Copy a shift template to another week,Support,1,published,yes
+HC-101,he,Copy a shift template to another week,Support,4,published,yes
+HC-101,ar,Copy a shift template to another week,Support,1,published,yes
+HC-101,ru,Copy a shift template to another week,Support,2,published,yes
+HC-102,en,Set up paid and unpaid breaks,Support,1,published,yes
+HC-102,he,Set up paid and unpaid breaks,Support,4,published,yes
+HC-102,ar,Set up paid and unpaid breaks,Support,3,published,yes
+HC-102,ru,Set up paid and unpaid breaks,Support,2,published,yes
+HC-104,en,Approve or reject a shift swap,Support,2,published,yes
+HC-104,he,Approve or reject a shift swap,Support,4,published,yes
+HC-104,ar,Approve or reject a shift swap,Support,2,published,yes
+HC-104,ru,Approve or reject a shift swap,Support,3,published,yes
+HC-107,en,Time clock: geofencing and kiosks,Support,3,published,yes
+HC-107,he,Time clock: geofencing and kiosks,Support,3,published,yes
+HC-107,ar,Time clock: geofencing and kiosks,Support,3,published,yes
+HC-107,ru,Time clock: geofencing and kiosks,Support,4,published,yes
+HC-110,en,Overtime rules by country,Support,2,published,yes
+HC-110,he,Overtime rules by country,Support,1,published,yes
+HC-110,ar,Overtime rules by country,Support,3,published,yes
+HC-110,ru,Overtime rules by country,Support,4,published,yes
+HC-112,en,Publish a schedule and notify staff,Support,3,published,yes
+HC-112,he,Publish a schedule and notify staff,Support,3,published,yes
+HC-112,ar,Publish a schedule and notify staff,Support,3,published,yes
+HC-112,ru,Publish a schedule and notify staff,Support,2,published,yes
+HC-140,en,Payroll export: formats and fields,Support,3,published,yes
+HC-140,he,Payroll export: formats and fields,Support,4,published,yes
+HC-140,ar,Payroll export: formats and fields,Support,1,published,yes
+HC-140,ru,Payroll export: formats and fields,Support,3,published,yes
+HC-141,en,Payroll export to Israeli payroll providers,Support,2,published,yes
+HC-141,he,Payroll export to Israeli payroll providers,Support,3,published,yes
+HC-141,ar,Payroll export to Israeli payroll providers,Support,1,published,yes
+HC-141,ru,Payroll export to Israeli payroll providers,Support,4,published,yes
+HC-143,en,Why overtime is missing from an export,Support,4,published,yes
+HC-143,he,Why overtime is missing from an export,Support,3,published,yes
+HC-143,ar,Why overtime is missing from an export,Support,3,published,yes
+HC-143,ru,Why overtime is missing from an export,Support,1,published,yes
+HC-150,en,Known issues: mobile apps,R&D,3,published,yes
+HC-150,he,Known issues: mobile apps,R&D,2,published,yes
+HC-150,ar,Known issues: mobile apps,R&D,3,published,yes
+HC-150,ru,Known issues: mobile apps,R&D,3,published,yes
+HC-151,en,Report a bug,Support,2,published,yes
+HC-151,he,Report a bug,Support,3,published,yes
+HC-151,ar,Report a bug,Support,1,published,yes
+HC-151,ru,Report a bug,Support,4,published,yes
+HC-160,en,Notification settings for admins and staff,Support,3,published,yes
+HC-160,he,Notification settings for admins and staff,Support,2,published,yes
+HC-160,ar,Notification settings for admins and staff,Support,1,published,yes
+HC-160,ru,Notification settings for admins and staff,Support,3,published,yes
+HC-161,en,Unsubscribe from product emails,Marketing,4,published,yes
+HC-161,he,Unsubscribe from product emails,Marketing,1,published,yes
+HC-161,ar,Unsubscribe from product emails,Marketing,2,published,yes
+HC-161,ru,Unsubscribe from product emails,Marketing,4,published,yes
+HC-201,en,Read your invoice,Billing,2,published,yes
+HC-201,he,Read your invoice,Billing,4,published,yes
+HC-201,ar,Read your invoice,Billing,3,published,yes
+HC-201,ru,Read your invoice,Billing,4,published,yes
+HC-202,en,Download invoices and receipts,Billing,3,published,yes
+HC-202,he,Download invoices and receipts,Billing,2,published,yes
+HC-202,ar,Download invoices and receipts,Billing,4,published,yes
+HC-202,ru,Download invoices and receipts,Billing,3,published,yes
+HC-203,en,Billing errors and credits,Billing,1,published,yes
+HC-203,he,Billing errors and credits,Billing,1,published,yes
+HC-203,ar,Billing errors and credits,Billing,2,published,yes
+HC-203,ru,Billing errors and credits,Billing,4,published,yes
+HC-205,en,How seats are counted,Billing,4,published,yes
+HC-205,he,How seats are counted,Billing,2,published,yes
+HC-205,ar,How seats are counted,Billing,3,published,yes
+HC-205,ru,How seats are counted,Billing,1,published,yes
+HC-210,en,"Plans: Starter, Growth and Enterprise",Marketing,1,published,yes
+HC-210,he,"Plans: Starter, Growth and Enterprise",Marketing,3,published,yes
+HC-210,ar,"Plans: Starter, Growth and Enterprise",Marketing,2,published,yes
+HC-210,ru,"Plans: Starter, Growth and Enterprise",Marketing,2,published,yes
+HC-211,en,Change your plan,Billing,4,published,yes
+HC-211,he,Change your plan,Billing,3,published,yes
+HC-211,ar,Change your plan,Billing,4,published,yes
+HC-211,ru,Change your plan,Billing,1,published,yes
+HC-214,en,Downgrades and refunds,Billing,6,published,yes
+HC-214,he,Downgrades and refunds,Billing,6,published,yes
+HC-214,ar,Downgrades and refunds,Billing,5,published,yes
+HC-214,ru,Downgrades and refunds,Billing,5,published,yes
+HC-230,en,Two-step verification (2FA),Security,2,published,yes
+HC-230,he,Two-step verification (2FA),Security,4,published,yes
+HC-230,ar,Two-step verification (2FA),Security,3,published,yes
+HC-230,ru,Two-step verification (2FA),Security,2,published,yes
+HC-231,en,Locked out of your account,Security,2,published,yes
+HC-231,he,Locked out of your account,Security,2,published,yes
+HC-231,ar,Locked out of your account,Security,1,published,yes
+HC-231,ru,Locked out of your account,Security,3,published,yes
+HC-240,en,Delete your account and data,Legal,2,published,yes
+HC-240,he,Delete your account and data,Legal,4,published,yes
+HC-240,ar,Delete your account and data,Legal,2,published,yes
+HC-240,ru,Delete your account and data,Legal,3,published,yes
+HC-241,en,Privacy and your staff's data,Legal,2,published,yes
+HC-241,he,Privacy and your staff's data,Legal,3,published,yes
+HC-241,ar,Privacy and your staff's data,Legal,3,published,yes
+HC-241,ru,Privacy and your staff's data,Legal,3,published,yes

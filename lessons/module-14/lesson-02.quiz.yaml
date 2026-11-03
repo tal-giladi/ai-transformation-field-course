@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    The agent gave 12 wrong credits while a replaced help article was live, and answered correctly before and
+    after. What does your findings memo say the problem is?
+  options:
+    - >-
+      The model hallucinates on billing questions and should be replaced before launch.
+    - >-
+      The agent acted on a document nobody had approved, and nothing outside the model limited it.
+    - >-
+      Marketing published a draft by mistake, so the fix is a reminder to the marketing team.
+    - >-
+      Customers asked leading questions, so the agent needs a stricter system prompt.
+  correct: 1
+  explanation: >-
+    The same question got the right answer whenever the source was right, so the model is not the cause. The
+    agent read an unapproved revision and its ₪500 limit lived only in the prompt: both are fixes outside the model.
+
+- id: q2
+  question: >-
+    In the admin audit log, the agent, a nightly job and some scripts all appear as `svc-support-admin`. What is
+    the most useful next step?
+  options:
+    - >-
+      Count all its actions together as the agent's, since that is the token the agent uses.
+    - >-
+      Ask the CISO to revoke the token today so that only known systems can act.
+    - >-
+      Ignore the token and use the agent's own tool-call log, which is more reliable.
+    - >-
+      Group the rows by user agent and hour, then follow the unknown ones to the ledger and owners.
+  correct: 3
+  explanation: >-
+    One identity hides several actors; user agent and time of day separate them, and the ledger's notes and the
+    card expenses lead to an owner. Revoking blind breaks things you have not found yet.
+
+- id: q3
+  question: >-
+    The GA design says the kill switch is a feature flag. The flag went off at 13:20 on 22 November. What evidence
+    tests the claim?
+  options:
+    - >-
+      Tool calls requested before 13:20 that executed after it: 8, the last at 14:31.
+    - >-
+      Sessions that started after 13:20: none, so the switch worked as designed.
+    - >-
+      The runbook's statement that the widget disappears within a minute of the change.
+    - >-
+      The support engineer's memory of when customers stopped reaching the assistant.
+  correct: 0
+  explanation: >-
+    A stop is tested by what kept happening, not by what stopped appearing. Queued tool calls executing up to 71
+    minutes later show the flag hid the widget but did not stop the agent.
+
+- id: q4
+  question: >-
+    You find that a customer-success manager runs a nightly automation with a token copied from a departed
+    engineer's wiki page. How do you open the interview?
+  options:
+    - >-
+      With the policy: every automation must be registered with IT, and this one was not.
+    - >-
+      With the risk: it emailed an Enterprise customer, and the renewal may now be at risk.
+    - >-
+      With curiosity: you are listing what acts on accounts to make it safe; ask her to show it.
+    - >-
+      With a decision: it will be paused until the security review is complete.
+  correct: 2
+  explanation: >-
+    Builders who are treated as culprits hide the next build. "Show me how it works" gets the real design,
+    including what went wrong; the Enterprise emails come later, as evidence, without blame.
+
+- id: q5
+  question: >-
+    IT's AI inventory lists three systems. Which combination of files best tests it?
+  options:
+    - >-
+      The AI-use survey of employees and the acceptable-use policy's registration rule.
+    - >-
+      API tokens and their creators, the staff directory, the audit log and card expenses.
+    - >-
+      The vendor invoices from the finance system and the list of approved tools.
+    - >-
+      The product's feature flags and the help centre's revision history.
+  correct: 1
+  explanation: >-
+    Tokens show what can act, the directory shows which owners have left, the audit log shows what did act, and
+    card expenses show services nobody registered. Surveys and policies show what people chose to tell you.

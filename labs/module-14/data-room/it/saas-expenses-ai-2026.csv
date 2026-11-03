@@ -1,0 +1,100 @@
+month,department,cardholder,vendor,description,amount_ils
+2026-01,Data,data-team,Google Cloud,Vertex AI (Gemini) - churn notebook,166
+2026-01,Marketing,gal.ashkenazi,OpenAI,OpenAI API usage,80
+2026-01,Marketing,gal.ashkenazi,Zapier,Zapier Team,260
+2026-01,R&D,amit.katz,Anthropic,Claude API - LumenGPT Slack bot,429
+2026-01,Sales,sales-ops,Meeting notes AI,Seats x 18,1150
+2026-02,Data,data-team,Google Cloud,Vertex AI (Gemini) - churn notebook,235
+2026-02,Marketing,gal.ashkenazi,OpenAI,OpenAI API usage,92
+2026-02,Marketing,gal.ashkenazi,Zapier,Zapier Team,260
+2026-02,R&D,amit.katz,Anthropic,Claude API - LumenGPT Slack bot,397
+2026-02,Sales,sales-ops,Meeting notes AI,Seats x 18,1150
+2026-02,Support,boris.feldman,OpenAI,ChatGPT Team (6 seats) - support ops,590
+2026-03,Data,data-team,Google Cloud,Vertex AI (Gemini) - churn notebook,235
+2026-03,Finance,fatma.abu-ras,Celonis/Make,Make Core,38
+2026-03,Finance,fatma.abu-ras,OpenAI,OpenAI API usage,34
+2026-03,Marketing,gal.ashkenazi,OpenAI,OpenAI API usage,110
+2026-03,Marketing,gal.ashkenazi,Zapier,Zapier Team,260
+2026-03,R&D,amit.katz,Anthropic,Claude API - LumenGPT Slack bot,456
+2026-03,Sales,sales-ops,Meeting notes AI,Seats x 18,1150
+2026-03,Support,boris.feldman,OpenAI,ChatGPT Team (6 seats) - support ops,590
+2026-04,Data,data-team,Google Cloud,Vertex AI (Gemini) - churn notebook,183
+2026-04,Finance,fatma.abu-ras,Celonis/Make,Make Core,38
+2026-04,Finance,fatma.abu-ras,OpenAI,OpenAI API usage,70
+2026-04,Marketing,dana.klein,DeepL SE,DeepL API Pro - help centre translation,161
+2026-04,Marketing,gal.ashkenazi,OpenAI,OpenAI API usage,132
+2026-04,Marketing,gal.ashkenazi,Zapier,Zapier Team,260
+2026-04,R&D,amit.katz,Anthropic,Claude API - LumenGPT Slack bot,313
+2026-04,Sales,sales-ops,Meeting notes AI,Seats x 18,1150
+2026-04,Support,boris.feldman,OpenAI,ChatGPT Team (6 seats) - support ops,590
+2026-05,Data,data-team,Google Cloud,Vertex AI (Gemini) - churn notebook,247
+2026-05,Finance,fatma.abu-ras,Celonis/Make,Make Core,38
+2026-05,Finance,fatma.abu-ras,OpenAI,OpenAI API usage,28
+2026-05,Marketing,dana.klein,DeepL SE,DeepL API Pro - help centre translation,131
+2026-05,Marketing,gal.ashkenazi,OpenAI,OpenAI API usage,84
+2026-05,Marketing,gal.ashkenazi,Zapier,Zapier Team,260
+2026-05,R&D,amit.katz,Anthropic,Claude API - LumenGPT Slack bot,381
+2026-05,Sales,sales-ops,Meeting notes AI,Seats x 18,1150
+2026-05,Support,boris.feldman,OpenAI,ChatGPT Team (6 seats) - support ops,590
+2026-06,Data,data-team,Google Cloud,Vertex AI (Gemini) - churn notebook,149
+2026-06,Finance,fatma.abu-ras,Celonis/Make,Make Core,38
+2026-06,Finance,fatma.abu-ras,OpenAI,OpenAI API usage,60
+2026-06,Marketing,dana.klein,DeepL SE,DeepL API Pro - help centre translation,157
+2026-06,Marketing,gal.ashkenazi,OpenAI,OpenAI API usage,147
+2026-06,Marketing,gal.ashkenazi,Zapier,Zapier Team,260
+2026-06,R&D,amit.katz,Anthropic,Claude API - LumenGPT Slack bot,387
+2026-06,Sales,sales-ops,Meeting notes AI,Seats x 18,1150
+2026-06,Support,boris.feldman,OpenAI,ChatGPT Team (6 seats) - support ops,590
+2026-07,Data,data-team,Google Cloud,Vertex AI (Gemini) - churn notebook,176
+2026-07,Finance,fatma.abu-ras,Celonis/Make,Make Core,38
+2026-07,Finance,fatma.abu-ras,OpenAI,OpenAI API usage,52
+2026-07,Marketing,dana.klein,DeepL SE,DeepL API Pro - help centre translation,138
+2026-07,Marketing,gal.ashkenazi,OpenAI,OpenAI API usage,146
+2026-07,Marketing,gal.ashkenazi,Zapier,Zapier Team,260
+2026-07,R&D,amit.katz,Anthropic,Claude API - LumenGPT Slack bot,311
+2026-07,Sales,sales-ops,Meeting notes AI,Seats x 18,1150
+2026-07,Support,boris.feldman,OpenAI,ChatGPT Team (6 seats) - support ops,590
+2026-08,Customer Success,shira.navon,OpenAI,OpenAI API usage,176
+2026-08,Customer Success,shira.navon,n8n GmbH,n8n Cloud Pro - CS tools,92
+2026-08,Data,data-team,Google Cloud,Vertex AI (Gemini) - churn notebook,258
+2026-08,Finance,fatma.abu-ras,Celonis/Make,Make Core,38
+2026-08,Finance,fatma.abu-ras,OpenAI,OpenAI API usage,46
+2026-08,Marketing,dana.klein,DeepL SE,DeepL API Pro - help centre translation,132
+2026-08,Marketing,gal.ashkenazi,OpenAI,OpenAI API usage,149
+2026-08,Marketing,gal.ashkenazi,Zapier,Zapier Team,260
+2026-08,R&D,amit.katz,Anthropic,Claude API - LumenGPT Slack bot,372
+2026-08,Sales,sales-ops,Meeting notes AI,Seats x 18,1150
+2026-08,Support,boris.feldman,OpenAI,ChatGPT Team (6 seats) - support ops,590
+2026-09,Customer Success,shira.navon,OpenAI,OpenAI API usage,127
+2026-09,Customer Success,shira.navon,n8n GmbH,n8n Cloud Pro - CS tools,92
+2026-09,Data,data-team,Google Cloud,Vertex AI (Gemini) - churn notebook,240
+2026-09,Finance,fatma.abu-ras,Celonis/Make,Make Core,38
+2026-09,Finance,fatma.abu-ras,OpenAI,OpenAI API usage,64
+2026-09,Marketing,dana.klein,DeepL SE,DeepL API Pro - help centre translation,158
+2026-09,Marketing,gal.ashkenazi,OpenAI,OpenAI API usage,86
+2026-09,Marketing,gal.ashkenazi,Zapier,Zapier Team,260
+2026-09,R&D,eyal.dahan,Anthropic,Claude API - LumenGPT Slack bot,381
+2026-09,Sales,sales-ops,Meeting notes AI,Seats x 18,1150
+2026-09,Support,boris.feldman,OpenAI,ChatGPT Team (6 seats) - support ops,590
+2026-10,Customer Success,shira.navon,OpenAI,OpenAI API usage,141
+2026-10,Customer Success,shira.navon,n8n GmbH,n8n Cloud Pro - CS tools,92
+2026-10,Data,data-team,Google Cloud,Vertex AI (Gemini) - churn notebook,179
+2026-10,Finance,fatma.abu-ras,Celonis/Make,Make Core,38
+2026-10,Finance,fatma.abu-ras,OpenAI,OpenAI API usage,52
+2026-10,Marketing,dana.klein,DeepL SE,DeepL API Pro - help centre translation,117
+2026-10,Marketing,dana.klein,OpenAI,OpenAI API usage,104
+2026-10,Marketing,dana.klein,Zapier,Zapier Team,260
+2026-10,R&D,eyal.dahan,Anthropic,Claude API - LumenGPT Slack bot,363
+2026-10,Sales,sales-ops,Meeting notes AI,Seats x 18,1150
+2026-10,Support,boris.feldman,OpenAI,ChatGPT Team (6 seats) - support ops,590
+2026-11,Customer Success,shira.navon,OpenAI,OpenAI API usage,123
+2026-11,Customer Success,shira.navon,n8n GmbH,n8n Cloud Pro - CS tools,92
+2026-11,Data,data-team,Google Cloud,Vertex AI (Gemini) - churn notebook,173
+2026-11,Finance,fatma.abu-ras,Celonis/Make,Make Core,38
+2026-11,Finance,fatma.abu-ras,OpenAI,OpenAI API usage,36
+2026-11,Marketing,dana.klein,DeepL SE,DeepL API Pro - help centre translation,114
+2026-11,Marketing,dana.klein,OpenAI,OpenAI API usage,199
+2026-11,Marketing,dana.klein,Zapier,Zapier Team,260
+2026-11,R&D,eyal.dahan,Anthropic,Claude API - LumenGPT Slack bot,354
+2026-11,Sales,sales-ops,Meeting notes AI,Seats x 18,1150
+2026-11,Support,boris.feldman,OpenAI,ChatGPT Team (6 seats) - support ops,590

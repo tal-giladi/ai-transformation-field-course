@@ -1,0 +1,17 @@
+{
+  "name": "Expert stage 1 (weeks 1-2 after Lumen Live): money and plans on one approver",
+  "tools": {
+    "readAccount": {"rung": "auto"},
+    "issueCredit": {"rung": "approve", "cap": 300, "dailyTotal": 2000, "perCustomerDay": 1, "tiers": ["starter", "growth"]},
+    "changePlan": {"rung": "approve", "tiers": ["starter", "growth"]},
+    "reset2fa": {"rung": "auto", "verify": true},
+    "deleteData": {"rung": "off", "softDelete": true},
+    "emailCustomer": {"rung": "auto", "ownAddressOnly": true},
+    "createTicket": {"rung": "auto"}
+  },
+  "logging": "full",
+  "ownIdentity": true,
+  "killSwitch": true,
+  "promptRule": true,
+  "sourceControl": true
+}

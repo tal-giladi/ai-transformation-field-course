@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    The dashboard says 63% resolved; your 7-day measure says 35.5%. The VP Product says yours is "too harsh".
+    What do you do first?
+  options:
+    - >-
+      Report the average of the two, so that neither side has to concede in the meeting.
+    - >-
+      Agree the definition with her and with support, then report the number it gives.
+    - >-
+      Report the dashboard figure, since it is the one the board has already seen.
+    - >-
+      Drop the measure and report CSAT instead, since customers' views settle the question.
+  correct: 1
+  explanation: >-
+    Both numbers are correct under their own definitions. The argument is about what "resolved" means; once the
+    definition is agreed, the number follows and becomes the gate measure.
+
+- id: q2
+  question: >-
+    Downgrade questions show the highest 7-day resolution in the beta, 81%. What does this tell you?
+  options:
+    - >-
+      That downgrades are the best candidate for full autonomy at launch.
+    - >-
+      That the 7-day definition is wrong and should be replaced with CSAT.
+    - >-
+      That resolution needs a quality check: wrongly credited customers stopped asking.
+    - >-
+      That the help article on downgrades is the best one in the help centre.
+  correct: 2
+  explanation: >-
+    Customers who received a credit they should not have had no reason to come back. A resolution rate measures
+    whether people stopped asking, so it must be paired with a sample read against policy.
+
+- id: q3
+  question: >-
+    Your design puts credits, plan changes and 2FA resets on approval for all plans, about 40 a day. The two shift
+    leads have about 60 minutes a day for approvals. What is the problem?
+  options:
+    - >-
+      None, since two minutes an approval fits 40 approvals into about an hour.
+    - >-
+      Approvals should be done by the VP Support, who has more authority than shift leads.
+    - >-
+      The agent will be too slow for customers, so approvals should be removed entirely.
+    - >-
+      Approvals beyond about 30 a day become rubber stamps; spend them where they buy safety.
+  correct: 3
+  explanation: >-
+    At two minutes each, 60 minutes buys about 30 real approvals. Past that, approvers stop reading. Put approvals
+    on money and plan changes for a limited time, and use limits and verification for the rest.
+
+- id: q4
+  question: >-
+    Which restatement of "50% of support contacts resolved without a person by end of Q2" can a gate check?
+  options:
+    - >-
+      7-day resolution from 35.5% to 45% by 30 June, with no rise in sampled wrong actions.
+    - >-
+      Half of all support contacts handled by Lumen Assist by the end of Q2, as promised to the board.
+    - >-
+      A steady rise in the dashboard's resolution rate each month until the end of Q2 2027.
+    - >-
+      Support headcount kept flat while customers grow, measured at the end of the year.
+  correct: 0
+  explanation: >-
+    A checkable target has a definition, a baseline, a date and a quality guard. The other versions either lack a
+    definition, use the flawed dashboard measure, or measure something the agent does not control.
+
+- id: q5
+  question: >-
+    The shortlist for Lumen includes "a fleet register and one identity per agent". It has no AI in it. Why is it
+    on the shortlist at all?
+  options:
+    - >-
+      Because every engagement should include at least one governance item for balance.
+    - >-
+      Because the CISO asked for it, and his support is needed for the launch.
+    - >-
+      Because the agent's launch depends on it: limits and stops need an identity to act on.
+    - >-
+      Because the board asked for an inventory of AI systems in its October meeting.
+  correct: 2
+  explanation: >-
+    The real bottleneck is authority and visibility. Without one identity per agent, limits cannot be enforced per
+    agent, the audit trail cannot attribute actions, and a stop cannot target one system.

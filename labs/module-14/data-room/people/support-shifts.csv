@@ -1,0 +1,12 @@
+day,shift,shift_lead,agents_on_shift,lead_minutes_for_approvals,lead_duties
+Sunday,08:00-13:00,Boris Feldman,9,30,"approvals, escalations, quality review"
+Sunday,13:00-18:00,Hiba Mansour,8,30,"approvals, escalations, callbacks"
+Monday,08:00-13:00,Hiba Mansour,9,30,"approvals, escalations, quality review"
+Monday,13:00-18:00,Boris Feldman,8,30,"approvals, escalations, callbacks"
+Tuesday,08:00-13:00,Boris Feldman,9,30,"approvals, escalations, quality review"
+Tuesday,13:00-18:00,Hiba Mansour,8,30,"approvals, escalations, callbacks"
+Wednesday,08:00-13:00,Hiba Mansour,9,30,"approvals, escalations, quality review"
+Wednesday,13:00-18:00,Boris Feldman,8,30,"approvals, escalations, callbacks"
+Thursday,08:00-13:00,Boris Feldman,8,30,"approvals, escalations, quality review"
+Thursday,13:00-18:00,Hiba Mansour,7,30,"approvals, escalations, callbacks"
+Friday,09:00-13:00,Yonatan Tadesse (backup lead),2,0,on-call; no approvals planned

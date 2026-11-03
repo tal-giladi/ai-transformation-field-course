@@ -1,0 +1,7 @@
+timestamp,flag,change,rule,changed_by,comment
+2026-10-11 08:00:00,assist_enabled,on,"plan in [starter, growth] AND beta_optin = true",noam.levi,Closed beta opens (420 customers)
+2026-10-25 11:30:00,assist_prompt_version,v6 -> v7,all,noam.levi,"Tone, shorter answers"
+2026-11-01 09:00:00,assist_tool_change_plan,on,plan = starter,maya.rosenthal,Plan changes for Starter
+2026-11-01 09:05:00,assist_enabled,rule changed,"plan in [starter, growth] AND (beta_optin = true OR trial_started >= 2026-11-01)",maya.rosenthal,Include new trials
+2026-11-22 13:20:00,assist_enabled,off,all,revital.azoulay,Pause - HC-214 issue
+2026-11-22 16:00:00,assist_enabled,on,"plan in [starter, growth] AND (beta_optin = true OR trial_started >= 2026-11-01)",noam.levi,Resume after fix
