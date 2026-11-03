@@ -19,6 +19,7 @@ The main session gave you the unit; do only that unit.
 - **Shared files are off-limits.** Never edit `_sidebar.md`, `README.md`, `glossary.md`, `templates/`, `references/`, `labs/common/`, `simulations/common/`, `BUILD_PROGRESS.md`, `curriculum/plan.md`, this file, or another module's files. Write additions to your inboxes (below).
 - **Never commit or push.** The main session does that.
 - Work only inside `C:\Users\TalGiladi\OneDrive\repos\course-creator\ai-transformation-field-course`. Never edit the Academy repo.
+- **Write in small pieces.** Never write one huge file in a single call (it stalls the session): split generators into modules under ~400 lines each, write long documents in two or three appends, one lesson per call.
 - Finish one lesson completely (`.md` + `.quiz.yaml`) before starting the next, then append `lesson-MM done` to `curriculum/status/module-NN.log`. Append `module done` at the end. If the log already lists a lesson as done, skip it (a previous run wrote it).
 
 ## What you produce for module NN
