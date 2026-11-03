@@ -1,0 +1,1057 @@
+date,department,host,category,policy_action,requests,upload_kb,distinct_users
+2026-10-01,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),93,1628,3
+2026-10-01,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,35,2
+2026-10-01,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,139,2375,16
+2026-10-01,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,88,1662,11
+2026-10-01,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,50,127,2
+2026-10-01,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,2
+2026-10-01,DIG - Product,converso.ai,Sanctioned vendor,allowed,498,255,5
+2026-10-01,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1948,60255,108
+2026-10-01,CC - Floor,translate.freetrans.net,Translation - free,allowed,48,47,11
+2026-10-01,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1134,2514,83
+2026-10-01,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1061,1749,105
+2026-10-01,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,308,320,54
+2026-10-01,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,10,0,6
+2026-10-01,HR,talentrank.io,Sanctioned vendor,allowed,25,881,4
+2026-10-01,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-10-01,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,34,106,5
+2026-10-04,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),67,1612,3
+2026-10-04,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,38,2
+2026-10-04,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,147,2507,20
+2026-10-04,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,125,1886,13
+2026-10-04,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,30,98,3
+2026-10-04,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,2
+2026-10-04,DIG - Product,converso.ai,Sanctioned vendor,allowed,256,343,4
+2026-10-04,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1903,37095,146
+2026-10-04,CC - Floor,translate.freetrans.net,Translation - free,allowed,41,38,10
+2026-10-04,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,908,2254,60
+2026-10-04,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,841,1914,63
+2026-10-04,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,256,283,65
+2026-10-04,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,15,0,8
+2026-10-04,HR,talentrank.io,Sanctioned vendor,allowed,20,938,3
+2026-10-04,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-10-04,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,46,118,6
+2026-10-05,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),72,1795,3
+2026-10-05,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,28,2
+2026-10-05,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,130,2690,26
+2026-10-05,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,113,936,9
+2026-10-05,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,51,104,3
+2026-10-05,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,2
+2026-10-05,DIG - Product,converso.ai,Sanctioned vendor,allowed,545,254,6
+2026-10-05,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1159,37614,144
+2026-10-05,CC - Floor,translate.freetrans.net,Translation - free,allowed,24,51,9
+2026-10-05,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,872,2610,72
+2026-10-05,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1392,2272,103
+2026-10-05,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,399,506,67
+2026-10-05,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,14,0,9
+2026-10-05,HR,talentrank.io,Sanctioned vendor,allowed,28,943,3
+2026-10-05,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-10-05,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,54,94,6
+2026-10-06,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),76,2081,3
+2026-10-06,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,24,2
+2026-10-06,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,191,1887,19
+2026-10-06,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,70,1168,13
+2026-10-06,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,36,144,3
+2026-10-06,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,2
+2026-10-06,DIG - Product,converso.ai,Sanctioned vendor,allowed,265,236,6
+2026-10-06,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2062,34912,104
+2026-10-06,CC - Floor,translate.freetrans.net,Translation - free,allowed,33,63,9
+2026-10-06,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,690,1860,67
+2026-10-06,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1513,1588,80
+2026-10-06,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,480,476,71
+2026-10-06,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,15,0,10
+2026-10-06,HR,talentrank.io,Sanctioned vendor,allowed,27,708,3
+2026-10-06,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-10-06,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,28,109,5
+2026-10-07,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),73,1272,4
+2026-10-07,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,53,2
+2026-10-07,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,132,2083,17
+2026-10-07,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,93,1494,11
+2026-10-07,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,43,123,2
+2026-10-07,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,6,0,2
+2026-10-07,DIG - Product,converso.ai,Sanctioned vendor,allowed,262,340,6
+2026-10-07,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1945,61940,117
+2026-10-07,CC - Floor,translate.freetrans.net,Translation - free,allowed,41,67,8
+2026-10-07,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,541,1239,82
+2026-10-07,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1121,1853,81
+2026-10-07,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,409,243,67
+2026-10-07,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,10,0,10
+2026-10-07,HR,talentrank.io,Sanctioned vendor,allowed,12,1117,2
+2026-10-07,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-10-07,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,47,115,7
+2026-10-08,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),97,2473,3
+2026-10-08,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,32,2
+2026-10-08,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,169,2920,18
+2026-10-08,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,99,993,10
+2026-10-08,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,31,137,2
+2026-10-08,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,7,0,2
+2026-10-08,DIG - Product,converso.ai,Sanctioned vendor,allowed,533,181,5
+2026-10-08,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1487,68829,141
+2026-10-08,CC - Floor,translate.freetrans.net,Translation - free,allowed,33,77,8
+2026-10-08,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1078,2788,95
+2026-10-08,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,934,2636,104
+2026-10-08,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,345,518,56
+2026-10-08,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,13,0,10
+2026-10-08,HR,talentrank.io,Sanctioned vendor,allowed,17,613,2
+2026-10-08,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-10-08,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,48,75,5
+2026-10-11,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),56,2548,2
+2026-10-11,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,42,2
+2026-10-11,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,182,1851,25
+2026-10-11,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,68,1722,9
+2026-10-11,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,41,101,2
+2026-10-11,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,2
+2026-10-11,DIG - Product,converso.ai,Sanctioned vendor,allowed,486,419,5
+2026-10-11,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2499,39202,98
+2026-10-11,CC - Floor,translate.freetrans.net,Translation - free,allowed,29,54,7
+2026-10-11,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,701,2586,74
+2026-10-11,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1242,2023,90
+2026-10-11,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,391,371,55
+2026-10-11,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,14,0,9
+2026-10-11,HR,talentrank.io,Sanctioned vendor,allowed,22,769,3
+2026-10-11,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-10-11,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,25,88,6
+2026-10-12,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),53,2322,2
+2026-10-12,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,49,2
+2026-10-12,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,189,1946,26
+2026-10-12,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,105,1796,12
+2026-10-12,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,59,77,3
+2026-10-12,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,6,0,2
+2026-10-12,DIG - Product,converso.ai,Sanctioned vendor,allowed,365,290,6
+2026-10-12,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1157,49559,122
+2026-10-12,CC - Floor,translate.freetrans.net,Translation - free,allowed,30,64,7
+2026-10-12,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,994,2749,71
+2026-10-12,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,712,2806,77
+2026-10-12,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,361,498,62
+2026-10-12,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,14,0,8
+2026-10-12,HR,talentrank.io,Sanctioned vendor,allowed,16,1126,3
+2026-10-12,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-10-12,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,53,85,5
+2026-10-13,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),95,2491,3
+2026-10-13,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,43,2
+2026-10-13,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,125,2541,23
+2026-10-13,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,115,1837,11
+2026-10-13,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,29,109,3
+2026-10-13,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,2
+2026-10-13,DIG - Product,converso.ai,Sanctioned vendor,allowed,275,197,7
+2026-10-13,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1105,68421,127
+2026-10-13,CC - Floor,translate.freetrans.net,Translation - free,allowed,40,61,9
+2026-10-13,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,577,2448,61
+2026-10-13,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1372,3230,91
+2026-10-13,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,309,437,46
+2026-10-13,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,13,0,10
+2026-10-13,HR,talentrank.io,Sanctioned vendor,allowed,25,1179,3
+2026-10-13,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-10-13,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,38,105,6
+2026-10-14,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),70,2438,4
+2026-10-14,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,37,2
+2026-10-14,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,157,1926,22
+2026-10-14,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,104,1696,8
+2026-10-14,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,49,136,3
+2026-10-14,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,2
+2026-10-14,DIG - Product,converso.ai,Sanctioned vendor,allowed,318,375,5
+2026-10-14,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1137,46527,99
+2026-10-14,CC - Floor,translate.freetrans.net,Translation - free,allowed,41,59,10
+2026-10-14,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,621,2175,73
+2026-10-14,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1191,1910,99
+2026-10-14,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,451,395,49
+2026-10-14,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,18,0,8
+2026-10-14,HR,talentrank.io,Sanctioned vendor,allowed,26,738,2
+2026-10-14,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-10-14,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,50,69,4
+2026-10-15,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),94,1716,3
+2026-10-15,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,29,2
+2026-10-15,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,130,1792,25
+2026-10-15,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,105,1138,8
+2026-10-15,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,44,159,3
+2026-10-15,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,2
+2026-10-15,DIG - Product,converso.ai,Sanctioned vendor,allowed,391,272,7
+2026-10-15,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1569,32072,111
+2026-10-15,CC - Floor,translate.freetrans.net,Translation - free,allowed,49,74,7
+2026-10-15,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,709,1273,94
+2026-10-15,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,715,3230,84
+2026-10-15,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,507,250,46
+2026-10-15,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,17,0,7
+2026-10-15,HR,talentrank.io,Sanctioned vendor,allowed,17,859,3
+2026-10-15,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-10-15,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,30,75,6
+2026-10-18,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),89,2468,3
+2026-10-18,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,35,2
+2026-10-18,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,107,2297,16
+2026-10-18,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,80,1657,11
+2026-10-18,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,29,97,2
+2026-10-18,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,6,0,2
+2026-10-18,DIG - Product,converso.ai,Sanctioned vendor,allowed,443,387,5
+2026-10-18,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1191,55161,164
+2026-10-18,CC - Floor,translate.freetrans.net,Translation - free,allowed,36,72,9
+2026-10-18,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,793,2293,65
+2026-10-18,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1289,2511,68
+2026-10-18,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,348,424,66
+2026-10-18,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,12,0,7
+2026-10-18,HR,talentrank.io,Sanctioned vendor,allowed,19,1200,3
+2026-10-18,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-10-18,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,32,123,5
+2026-10-19,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),74,1992,3
+2026-10-19,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,35,2
+2026-10-19,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,196,2634,21
+2026-10-19,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,122,1186,11
+2026-10-19,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,47,99,3
+2026-10-19,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,2
+2026-10-19,DIG - Product,converso.ai,Sanctioned vendor,allowed,396,199,4
+2026-10-19,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2161,39180,100
+2026-10-19,CC - Floor,translate.freetrans.net,Translation - free,allowed,29,59,7
+2026-10-19,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1244,2409,64
+2026-10-19,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,728,3231,66
+2026-10-19,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,476,268,68
+2026-10-19,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,11,0,7
+2026-10-19,HR,talentrank.io,Sanctioned vendor,allowed,17,1114,3
+2026-10-19,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-10-19,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,52,68,7
+2026-10-20,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),43,2077,3
+2026-10-20,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,52,2
+2026-10-20,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,110,3300,19
+2026-10-20,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,71,1297,13
+2026-10-20,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,47,80,3
+2026-10-20,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,6,0,2
+2026-10-20,DIG - Product,converso.ai,Sanctioned vendor,allowed,393,371,6
+2026-10-20,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2007,32126,123
+2026-10-20,CC - Floor,translate.freetrans.net,Translation - free,allowed,24,52,7
+2026-10-20,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,803,2628,79
+2026-10-20,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1081,3112,90
+2026-10-20,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,321,541,71
+2026-10-20,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,11,0,6
+2026-10-20,HR,talentrank.io,Sanctioned vendor,allowed,18,793,3
+2026-10-20,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-10-20,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,47,114,4
+2026-10-21,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),57,1185,2
+2026-10-21,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,46,1
+2026-10-21,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,153,1727,16
+2026-10-21,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,117,1012,10
+2026-10-21,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,31,151,3
+2026-10-21,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,6,0,2
+2026-10-21,DIG - Product,converso.ai,Sanctioned vendor,allowed,497,193,7
+2026-10-21,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1449,56467,141
+2026-10-21,CC - Floor,translate.freetrans.net,Translation - free,allowed,40,48,10
+2026-10-21,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1117,2665,93
+2026-10-21,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1350,1546,85
+2026-10-21,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,472,456,44
+2026-10-21,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,10,0,7
+2026-10-21,HR,talentrank.io,Sanctioned vendor,allowed,26,833,3
+2026-10-21,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-10-21,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,35,81,5
+2026-10-22,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),48,1473,3
+2026-10-22,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,44,2
+2026-10-22,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,139,1490,26
+2026-10-22,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,122,1911,10
+2026-10-22,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,36,82,3
+2026-10-22,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,1
+2026-10-22,DIG - Product,converso.ai,Sanctioned vendor,allowed,502,257,7
+2026-10-22,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1451,50041,144
+2026-10-22,CC - Floor,translate.freetrans.net,Translation - free,allowed,37,70,11
+2026-10-22,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1170,2273,92
+2026-10-22,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,762,3431,108
+2026-10-22,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,274,472,53
+2026-10-22,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,17,0,9
+2026-10-22,HR,talentrank.io,Sanctioned vendor,allowed,17,1147,2
+2026-10-22,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-10-22,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,47,61,4
+2026-10-25,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),64,1551,3
+2026-10-25,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,31,2
+2026-10-25,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,142,2428,26
+2026-10-25,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,63,1267,11
+2026-10-25,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,37,124,3
+2026-10-25,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,2
+2026-10-25,DIG - Product,converso.ai,Sanctioned vendor,allowed,260,363,4
+2026-10-25,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1222,35824,150
+2026-10-25,CC - Floor,translate.freetrans.net,Translation - free,allowed,47,80,7
+2026-10-25,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1012,2787,95
+2026-10-25,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,676,3012,108
+2026-10-25,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,436,248,71
+2026-10-25,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,9,0,9
+2026-10-25,HR,talentrank.io,Sanctioned vendor,allowed,17,1225,2
+2026-10-25,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-10-25,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,35,115,5
+2026-10-26,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),79,2253,3
+2026-10-26,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,30,2
+2026-10-26,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,221,2094,20
+2026-10-26,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,96,1714,8
+2026-10-26,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,38,108,2
+2026-10-26,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,2
+2026-10-26,DIG - Product,converso.ai,Sanctioned vendor,allowed,453,410,7
+2026-10-26,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2277,53444,163
+2026-10-26,CC - Floor,translate.freetrans.net,Translation - free,allowed,37,79,9
+2026-10-26,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1007,2570,68
+2026-10-26,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1262,2051,70
+2026-10-26,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,260,350,47
+2026-10-26,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,9,0,9
+2026-10-26,HR,talentrank.io,Sanctioned vendor,allowed,27,1151,3
+2026-10-26,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-10-26,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,41,57,6
+2026-10-27,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),46,2295,3
+2026-10-27,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,29,2
+2026-10-27,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,191,2611,17
+2026-10-27,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,56,1498,12
+2026-10-27,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,43,166,2
+2026-10-27,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,2
+2026-10-27,DIG - Product,converso.ai,Sanctioned vendor,allowed,355,305,7
+2026-10-27,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1197,51908,132
+2026-10-27,CC - Floor,translate.freetrans.net,Translation - free,allowed,24,48,9
+2026-10-27,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,628,2794,78
+2026-10-27,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,719,2366,84
+2026-10-27,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,265,338,43
+2026-10-27,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,16,0,9
+2026-10-27,HR,talentrank.io,Sanctioned vendor,allowed,23,1197,3
+2026-10-27,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-10-27,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,55,112,7
+2026-10-28,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),42,2367,3
+2026-10-28,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,48,2
+2026-10-28,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,183,2505,19
+2026-10-28,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,64,1057,10
+2026-10-28,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,37,146,2
+2026-10-28,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,2
+2026-10-28,DIG - Product,converso.ai,Sanctioned vendor,allowed,402,254,6
+2026-10-28,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1215,57664,122
+2026-10-28,CC - Floor,translate.freetrans.net,Translation - free,allowed,31,61,10
+2026-10-28,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,576,2746,72
+2026-10-28,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,901,2440,65
+2026-10-28,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,333,454,63
+2026-10-28,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,12,0,7
+2026-10-28,HR,talentrank.io,Sanctioned vendor,allowed,26,1156,2
+2026-10-28,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-10-28,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,40,58,6
+2026-10-29,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),53,2500,3
+2026-10-29,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,38,2
+2026-10-29,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,114,2858,26
+2026-10-29,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,124,968,12
+2026-10-29,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,60,91,2
+2026-10-29,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,7,0,2
+2026-10-29,DIG - Product,converso.ai,Sanctioned vendor,allowed,326,337,7
+2026-10-29,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2103,68669,102
+2026-10-29,CC - Floor,translate.freetrans.net,Translation - free,allowed,24,54,7
+2026-10-29,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1140,1312,66
+2026-10-29,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1374,3396,86
+2026-10-29,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,395,554,53
+2026-10-29,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,16,0,7
+2026-10-29,HR,talentrank.io,Sanctioned vendor,allowed,25,897,3
+2026-10-29,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-10-29,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,28,81,6
+2026-11-01,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),65,1728,3
+2026-11-01,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,42,2
+2026-11-01,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,121,3323,15
+2026-11-01,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,70,1584,11
+2026-11-01,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,58,152,2
+2026-11-01,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,6,0,2
+2026-11-01,DIG - Product,converso.ai,Sanctioned vendor,allowed,309,276,5
+2026-11-01,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1116,32167,141
+2026-11-01,CC - Floor,translate.freetrans.net,Translation - free,allowed,30,73,8
+2026-11-01,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1214,1536,81
+2026-11-01,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,726,3068,95
+2026-11-01,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,275,298,53
+2026-11-01,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,14,0,8
+2026-11-01,HR,talentrank.io,Sanctioned vendor,allowed,23,1259,2
+2026-11-01,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-11-01,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,34,88,6
+2026-11-02,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),65,2519,3
+2026-11-02,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,47,2
+2026-11-02,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,173,2751,21
+2026-11-02,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,91,2051,9
+2026-11-02,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,42,78,3
+2026-11-02,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,2
+2026-11-02,DIG - Product,converso.ai,Sanctioned vendor,allowed,331,381,5
+2026-11-02,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1802,71945,111
+2026-11-02,CC - Floor,translate.freetrans.net,Translation - free,allowed,28,83,7
+2026-11-02,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,851,1786,95
+2026-11-02,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1382,3262,107
+2026-11-02,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,253,519,55
+2026-11-02,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,17,0,6
+2026-11-02,HR,talentrank.io,Sanctioned vendor,allowed,16,697,3
+2026-11-02,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-11-02,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,35,124,5
+2026-11-03,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),55,1923,4
+2026-11-03,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,37,2
+2026-11-03,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,100,1452,25
+2026-11-03,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,89,1476,13
+2026-11-03,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,30,75,3
+2026-11-03,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,2
+2026-11-03,DIG - Product,converso.ai,Sanctioned vendor,allowed,531,262,6
+2026-11-03,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2210,59511,166
+2026-11-03,CC - Floor,translate.freetrans.net,Translation - free,allowed,37,78,10
+2026-11-03,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,836,2749,75
+2026-11-03,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1120,1920,99
+2026-11-03,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,325,553,44
+2026-11-03,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,9,0,8
+2026-11-03,HR,talentrank.io,Sanctioned vendor,allowed,18,657,3
+2026-11-03,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-11-03,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,47,97,5
+2026-11-04,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),49,2607,2
+2026-11-04,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,36,2
+2026-11-04,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,168,2475,23
+2026-11-04,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,65,1659,11
+2026-11-04,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,30,96,2
+2026-11-04,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,2
+2026-11-04,DIG - Product,converso.ai,Sanctioned vendor,allowed,393,338,5
+2026-11-04,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1369,52150,152
+2026-11-04,CC - Floor,translate.freetrans.net,Translation - free,allowed,39,80,9
+2026-11-04,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,926,2131,73
+2026-11-04,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1019,2574,79
+2026-11-04,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,383,452,67
+2026-11-04,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,9,0,8
+2026-11-04,HR,talentrank.io,Sanctioned vendor,allowed,13,1215,3
+2026-11-04,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-11-04,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,37,90,6
+2026-11-05,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),69,2407,2
+2026-11-05,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,55,2
+2026-11-05,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,161,1598,16
+2026-11-05,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,96,1329,11
+2026-11-05,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,36,128,3
+2026-11-05,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,2
+2026-11-05,DIG - Product,converso.ai,Sanctioned vendor,allowed,274,213,4
+2026-11-05,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2382,38654,139
+2026-11-05,CC - Floor,translate.freetrans.net,Translation - free,allowed,32,77,9
+2026-11-05,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1153,1542,59
+2026-11-05,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1330,2216,86
+2026-11-05,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,365,369,63
+2026-11-05,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,18,0,8
+2026-11-05,HR,talentrank.io,Sanctioned vendor,allowed,12,792,2
+2026-11-05,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-11-05,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,32,98,5
+2026-11-08,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),56,1802,3
+2026-11-08,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,36,1
+2026-11-08,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,198,3300,16
+2026-11-08,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,56,960,12
+2026-11-08,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,31,141,3
+2026-11-08,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,6,0,2
+2026-11-08,DIG - Product,converso.ai,Sanctioned vendor,allowed,270,357,6
+2026-11-08,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2183,44451,158
+2026-11-08,CC - Floor,translate.freetrans.net,Translation - free,allowed,49,54,8
+2026-11-08,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1049,1965,75
+2026-11-08,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,861,2729,92
+2026-11-08,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,365,371,45
+2026-11-08,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,17,0,7
+2026-11-08,HR,talentrank.io,Sanctioned vendor,allowed,18,701,3
+2026-11-08,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-11-08,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,45,123,6
+2026-11-09,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),85,1271,3
+2026-11-09,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,41,1
+2026-11-09,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,216,3239,18
+2026-11-09,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,109,1317,11
+2026-11-09,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,47,138,3
+2026-11-09,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,2
+2026-11-09,DIG - Product,converso.ai,Sanctioned vendor,allowed,358,240,6
+2026-11-09,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1145,62831,155
+2026-11-09,CC - Floor,translate.freetrans.net,Translation - free,allowed,40,74,8
+2026-11-09,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1207,1700,96
+2026-11-09,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,880,2795,81
+2026-11-09,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,336,280,49
+2026-11-09,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,18,0,9
+2026-11-09,HR,talentrank.io,Sanctioned vendor,allowed,16,881,2
+2026-11-09,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-11-09,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,41,105,7
+2026-11-10,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),54,1183,4
+2026-11-10,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,31,2
+2026-11-10,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,135,2380,24
+2026-11-10,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,99,1562,8
+2026-11-10,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,40,161,3
+2026-11-10,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,7,0,2
+2026-11-10,DIG - Product,converso.ai,Sanctioned vendor,allowed,378,239,5
+2026-11-10,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2480,32049,146
+2026-11-10,CC - Floor,translate.freetrans.net,Translation - free,allowed,41,62,11
+2026-11-10,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,662,2530,92
+2026-11-10,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,799,2282,108
+2026-11-10,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,251,430,52
+2026-11-10,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,12,0,11
+2026-11-10,HR,talentrank.io,Sanctioned vendor,allowed,26,1252,3
+2026-11-10,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-11-10,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,39,89,6
+2026-11-11,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),73,2523,3
+2026-11-11,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,50,2
+2026-11-11,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,158,2867,24
+2026-11-11,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,68,1267,11
+2026-11-11,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,38,107,2
+2026-11-11,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,2
+2026-11-11,DIG - Product,converso.ai,Sanctioned vendor,allowed,396,245,5
+2026-11-11,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2040,47182,124
+2026-11-11,CC - Floor,translate.freetrans.net,Translation - free,allowed,42,81,7
+2026-11-11,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1104,2544,78
+2026-11-11,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,805,2456,96
+2026-11-11,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,265,399,46
+2026-11-11,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,13,0,8
+2026-11-11,HR,talentrank.io,Sanctioned vendor,allowed,27,928,3
+2026-11-11,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-11-11,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,53,101,6
+2026-11-12,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),52,1443,3
+2026-11-12,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,45,2
+2026-11-12,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,104,1622,21
+2026-11-12,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,62,974,13
+2026-11-12,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,50,122,3
+2026-11-12,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,2
+2026-11-12,DIG - Product,converso.ai,Sanctioned vendor,allowed,515,188,5
+2026-11-12,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1691,51022,164
+2026-11-12,CC - Floor,translate.freetrans.net,Translation - free,allowed,24,79,7
+2026-11-12,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1021,2431,68
+2026-11-12,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,832,2620,87
+2026-11-12,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,367,315,49
+2026-11-12,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,16,0,9
+2026-11-12,HR,talentrank.io,Sanctioned vendor,allowed,28,1182,2
+2026-11-12,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-11-12,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,50,82,5
+2026-11-15,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),59,1956,2
+2026-11-15,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,55,2
+2026-11-15,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,223,2112,24
+2026-11-15,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,69,1579,9
+2026-11-15,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,35,128,3
+2026-11-15,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,2
+2026-11-15,DIG - Product,converso.ai,Sanctioned vendor,allowed,439,371,6
+2026-11-15,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1569,45796,151
+2026-11-15,CC - Floor,translate.freetrans.net,Translation - free,allowed,49,62,9
+2026-11-15,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,605,2159,62
+2026-11-15,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1235,2975,74
+2026-11-15,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,466,293,52
+2026-11-15,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,19,0,9
+2026-11-15,HR,talentrank.io,Sanctioned vendor,allowed,26,1074,3
+2026-11-15,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-11-15,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,46,113,6
+2026-11-16,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),63,1781,3
+2026-11-16,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,27,2
+2026-11-16,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,216,2649,18
+2026-11-16,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,108,1749,8
+2026-11-16,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,28,151,3
+2026-11-16,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,1
+2026-11-16,DIG - Product,converso.ai,Sanctioned vendor,allowed,331,413,5
+2026-11-16,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1823,69502,140
+2026-11-16,CC - Floor,translate.freetrans.net,Translation - free,allowed,39,42,9
+2026-11-16,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,661,1464,88
+2026-11-16,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,877,3195,92
+2026-11-16,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,393,324,48
+2026-11-16,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,10,0,8
+2026-11-16,HR,talentrank.io,Sanctioned vendor,allowed,25,563,2
+2026-11-16,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-11-16,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,27,56,7
+2026-11-17,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),70,2518,3
+2026-11-17,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,36,2
+2026-11-17,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,113,3120,17
+2026-11-17,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,74,1297,11
+2026-11-17,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,37,144,4
+2026-11-17,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,2
+2026-11-17,DIG - Product,converso.ai,Sanctioned vendor,allowed,445,321,6
+2026-11-17,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2046,62911,166
+2026-11-17,CC - Floor,translate.freetrans.net,Translation - free,allowed,22,72,10
+2026-11-17,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,782,2218,68
+2026-11-17,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,750,2173,104
+2026-11-17,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,382,295,42
+2026-11-17,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,17,0,6
+2026-11-17,HR,talentrank.io,Sanctioned vendor,allowed,22,749,3
+2026-11-17,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-11-17,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,55,79,6
+2026-11-18,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),69,1640,3
+2026-11-18,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,49,2
+2026-11-18,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,143,3352,20
+2026-11-18,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,58,1646,9
+2026-11-18,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,59,117,3
+2026-11-18,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,7,0,2
+2026-11-18,DIG - Product,converso.ai,Sanctioned vendor,allowed,366,405,5
+2026-11-18,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1476,66082,124
+2026-11-18,CC - Floor,translate.freetrans.net,Translation - free,allowed,31,57,11
+2026-11-18,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,586,2502,79
+2026-11-18,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1003,2062,90
+2026-11-18,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,310,261,69
+2026-11-18,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,10,0,7
+2026-11-18,HR,talentrank.io,Sanctioned vendor,allowed,24,1156,2
+2026-11-18,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-11-18,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,56,70,4
+2026-11-19,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),58,1274,3
+2026-11-19,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,43,2
+2026-11-19,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,192,2839,19
+2026-11-19,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,60,2077,9
+2026-11-19,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,47,73,2
+2026-11-19,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,6,0,2
+2026-11-19,DIG - Product,converso.ai,Sanctioned vendor,allowed,555,338,5
+2026-11-19,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2478,53117,165
+2026-11-19,CC - Floor,translate.freetrans.net,Translation - free,allowed,43,69,7
+2026-11-19,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,540,1222,92
+2026-11-19,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1056,2516,77
+2026-11-19,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,487,245,49
+2026-11-19,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,12,0,7
+2026-11-19,HR,talentrank.io,Sanctioned vendor,allowed,17,690,2
+2026-11-19,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-11-19,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,25,64,7
+2026-11-22,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),97,2114,3
+2026-11-22,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,47,2
+2026-11-22,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,150,2338,25
+2026-11-22,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,113,1985,8
+2026-11-22,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,63,85,2
+2026-11-22,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,2
+2026-11-22,DIG - Product,converso.ai,Sanctioned vendor,allowed,396,244,5
+2026-11-22,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1387,59966,127
+2026-11-22,CC - Floor,translate.freetrans.net,Translation - free,allowed,46,61,7
+2026-11-22,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,890,2586,86
+2026-11-22,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,691,2555,85
+2026-11-22,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,366,413,60
+2026-11-22,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,10,0,7
+2026-11-22,HR,talentrank.io,Sanctioned vendor,allowed,15,1087,3
+2026-11-22,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-11-22,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,42,77,6
+2026-11-23,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),70,1422,3
+2026-11-23,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,31,2
+2026-11-23,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,123,2918,20
+2026-11-23,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,72,1051,13
+2026-11-23,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,37,118,3
+2026-11-23,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,2
+2026-11-23,DIG - Product,converso.ai,Sanctioned vendor,allowed,456,287,7
+2026-11-23,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2252,67736,120
+2026-11-23,CC - Floor,translate.freetrans.net,Translation - free,allowed,25,62,6
+2026-11-23,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,676,2290,80
+2026-11-23,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,981,1731,67
+2026-11-23,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,342,326,68
+2026-11-23,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,14,0,9
+2026-11-23,HR,talentrank.io,Sanctioned vendor,allowed,28,1238,3
+2026-11-23,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-11-23,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,31,124,5
+2026-11-24,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),80,1920,2
+2026-11-24,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,2,36,2
+2026-11-24,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,124,3282,22
+2026-11-24,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,91,1574,10
+2026-11-24,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,63,76,3
+2026-11-24,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,2
+2026-11-24,DIG - Product,converso.ai,Sanctioned vendor,allowed,384,251,5
+2026-11-24,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2263,72416,123
+2026-11-24,CC - Floor,translate.freetrans.net,Translation - free,allowed,29,69,7
+2026-11-24,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1037,2629,91
+2026-11-24,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,983,1832,90
+2026-11-24,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,501,286,60
+2026-11-24,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,20,0,8
+2026-11-24,HR,talentrank.io,Sanctioned vendor,allowed,17,550,3
+2026-11-24,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-11-24,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,54,103,6
+2026-11-25,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),79,1850,3
+2026-11-25,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,53,2
+2026-11-25,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,189,2885,16
+2026-11-25,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,99,1097,10
+2026-11-25,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,48,139,3
+2026-11-25,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,7,0,2
+2026-11-25,DIG - Product,converso.ai,Sanctioned vendor,allowed,460,298,5
+2026-11-25,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1478,55451,100
+2026-11-25,CC - Floor,translate.freetrans.net,Translation - free,allowed,44,49,8
+2026-11-25,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1185,1910,67
+2026-11-25,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,870,2861,73
+2026-11-25,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,438,252,69
+2026-11-25,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,16,0,10
+2026-11-25,HR,talentrank.io,Sanctioned vendor,allowed,28,1232,2
+2026-11-25,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-11-25,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,34,61,5
+2026-11-26,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),62,1701,2
+2026-11-26,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,6,34,2
+2026-11-26,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,153,1845,26
+2026-11-26,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,105,979,12
+2026-11-26,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,49,119,2
+2026-11-26,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,2
+2026-11-26,DIG - Product,converso.ai,Sanctioned vendor,allowed,270,387,6
+2026-11-26,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2412,32812,141
+2026-11-26,CC - Floor,translate.freetrans.net,Translation - free,allowed,36,64,10
+2026-11-26,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,552,1519,90
+2026-11-26,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,925,1768,70
+2026-11-26,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,281,373,53
+2026-11-26,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,13,0,9
+2026-11-26,HR,talentrank.io,Sanctioned vendor,allowed,25,1129,3
+2026-11-26,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-11-26,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,38,114,4
+2026-11-29,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),85,2325,4
+2026-11-29,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,43,2
+2026-11-29,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,164,2318,16
+2026-11-29,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,125,1265,12
+2026-11-29,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,38,130,2
+2026-11-29,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,2
+2026-11-29,DIG - Product,converso.ai,Sanctioned vendor,allowed,269,334,5
+2026-11-29,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2389,54211,123
+2026-11-29,CC - Floor,translate.freetrans.net,Translation - free,allowed,38,43,10
+2026-11-29,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1217,2636,93
+2026-11-29,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,728,3207,105
+2026-11-29,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,355,371,62
+2026-11-29,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,9,0,7
+2026-11-29,HR,talentrank.io,Sanctioned vendor,allowed,20,1183,3
+2026-11-29,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-11-29,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,40,106,6
+2026-11-30,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),55,1239,3
+2026-11-30,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,41,2
+2026-11-30,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,157,2602,24
+2026-11-30,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,115,1216,10
+2026-11-30,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,43,108,3
+2026-11-30,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,2
+2026-11-30,DIG - Product,converso.ai,Sanctioned vendor,allowed,455,205,6
+2026-11-30,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1548,48709,99
+2026-11-30,CC - Floor,translate.freetrans.net,Translation - free,allowed,34,62,10
+2026-11-30,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,749,1635,81
+2026-11-30,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1431,2232,108
+2026-11-30,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,407,439,46
+2026-11-30,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,18,0,8
+2026-11-30,HR,talentrank.io,Sanctioned vendor,allowed,21,771,3
+2026-11-30,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-11-30,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,28,120,6
+2026-12-01,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),58,1733,3
+2026-12-01,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,27,2
+2026-12-01,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,168,3261,18
+2026-12-01,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,84,1392,10
+2026-12-01,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,41,105,2
+2026-12-01,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,2
+2026-12-01,DIG - Product,converso.ai,Sanctioned vendor,allowed,477,312,4
+2026-12-01,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2085,53038,159
+2026-12-01,CC - Floor,translate.freetrans.net,Translation - free,allowed,35,68,7
+2026-12-01,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1143,2467,87
+2026-12-01,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1070,1776,103
+2026-12-01,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,618,700,66
+2026-12-01,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,10,0,6
+2026-12-01,HR,talentrank.io,Sanctioned vendor,allowed,19,834,3
+2026-12-01,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-12-01,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,26,123,7
+2026-12-02,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),85,2631,3
+2026-12-02,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,44,2
+2026-12-02,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,157,1526,25
+2026-12-02,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,102,2002,12
+2026-12-02,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,63,85,2
+2026-12-02,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,7,0,2
+2026-12-02,DIG - Product,converso.ai,Sanctioned vendor,allowed,343,231,6
+2026-12-02,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1595,34032,98
+2026-12-02,CC - Floor,translate.freetrans.net,Translation - free,allowed,44,50,10
+2026-12-02,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,804,2361,75
+2026-12-02,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,955,2353,101
+2026-12-02,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,367,440,47
+2026-12-02,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,14,0,10
+2026-12-02,HR,talentrank.io,Sanctioned vendor,allowed,26,1030,2
+2026-12-02,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-12-02,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,24,76,7
+2026-12-03,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),84,1146,2
+2026-12-03,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,30,2
+2026-12-03,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,178,2973,18
+2026-12-03,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,94,1870,10
+2026-12-03,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,46,146,2
+2026-12-03,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-12-03,DIG - Product,converso.ai,Sanctioned vendor,allowed,317,361,6
+2026-12-03,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2314,60030,111
+2026-12-03,CC - Floor,translate.freetrans.net,Translation - free,allowed,46,81,9
+2026-12-03,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1154,1649,88
+2026-12-03,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1167,2744,105
+2026-12-03,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,765,648,69
+2026-12-03,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,10,0,7
+2026-12-03,HR,talentrank.io,Sanctioned vendor,allowed,17,821,3
+2026-12-03,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-12-03,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,32,59,5
+2026-12-06,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),60,1587,3
+2026-12-06,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,44,2
+2026-12-06,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,144,1505,21
+2026-12-06,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,71,2027,10
+2026-12-06,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,52,93,2
+2026-12-06,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,6,0,2
+2026-12-06,DIG - Product,converso.ai,Sanctioned vendor,allowed,419,290,6
+2026-12-06,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2021,32856,130
+2026-12-06,CC - Floor,translate.freetrans.net,Translation - free,allowed,24,52,7
+2026-12-06,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,946,2584,76
+2026-12-06,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,729,1638,77
+2026-12-06,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,665,723,44
+2026-12-06,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,18,0,7
+2026-12-06,HR,talentrank.io,Sanctioned vendor,allowed,25,1033,3
+2026-12-06,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-12-06,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,44,84,6
+2026-12-07,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),61,1986,3
+2026-12-07,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,35,2
+2026-12-07,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,175,3309,20
+2026-12-07,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,103,1679,10
+2026-12-07,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,42,149,2
+2026-12-07,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,2
+2026-12-07,DIG - Product,converso.ai,Sanctioned vendor,allowed,407,327,5
+2026-12-07,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1321,37608,155
+2026-12-07,CC - Floor,translate.freetrans.net,Translation - free,allowed,31,70,7
+2026-12-07,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,686,2724,59
+2026-12-07,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1023,3279,81
+2026-12-07,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,676,388,56
+2026-12-07,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,19,0,9
+2026-12-07,HR,talentrank.io,Sanctioned vendor,allowed,20,727,3
+2026-12-07,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-12-07,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,54,86,5
+2026-12-08,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),57,2096,3
+2026-12-08,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,28,2
+2026-12-08,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,201,2842,17
+2026-12-08,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,79,1035,11
+2026-12-08,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,36,89,3
+2026-12-08,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,2
+2026-12-08,DIG - Product,converso.ai,Sanctioned vendor,allowed,286,346,5
+2026-12-08,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2229,51208,100
+2026-12-08,CC - Floor,translate.freetrans.net,Translation - free,allowed,48,69,7
+2026-12-08,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,744,1563,62
+2026-12-08,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1104,2723,69
+2026-12-08,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,552,502,43
+2026-12-08,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,13,0,8
+2026-12-08,HR,talentrank.io,Sanctioned vendor,allowed,14,650,2
+2026-12-08,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-12-08,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,34,97,5
+2026-12-09,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),65,1475,2
+2026-12-09,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,54,2
+2026-12-09,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,148,2565,20
+2026-12-09,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,91,2084,8
+2026-12-09,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,33,78,2
+2026-12-09,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,7,0,2
+2026-12-09,DIG - Product,converso.ai,Sanctioned vendor,allowed,326,402,6
+2026-12-09,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1154,70405,161
+2026-12-09,CC - Floor,translate.freetrans.net,Translation - free,allowed,49,76,8
+2026-12-09,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,916,1386,67
+2026-12-09,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1042,1935,76
+2026-12-09,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,491,787,46
+2026-12-09,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,17,0,9
+2026-12-09,HR,talentrank.io,Sanctioned vendor,allowed,19,1127,2
+2026-12-09,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-12-09,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,31,86,6
+2026-12-10,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),87,1492,3
+2026-12-10,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,38,2
+2026-12-10,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,127,3091,16
+2026-12-10,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,63,1300,11
+2026-12-10,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,58,143,2
+2026-12-10,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,6,0,2
+2026-12-10,DIG - Product,converso.ai,Sanctioned vendor,allowed,271,200,6
+2026-12-10,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1842,71865,164
+2026-12-10,CC - Floor,translate.freetrans.net,Translation - free,allowed,24,82,9
+2026-12-10,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1148,1229,61
+2026-12-10,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,822,1600,71
+2026-12-10,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,601,639,46
+2026-12-10,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,13,0,9
+2026-12-10,HR,talentrank.io,Sanctioned vendor,allowed,21,678,3
+2026-12-10,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-12-10,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,47,73,7
+2026-12-13,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),65,1209,3
+2026-12-13,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,45,2
+2026-12-13,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,145,3246,20
+2026-12-13,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,121,1364,12
+2026-12-13,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,48,103,4
+2026-12-13,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,1
+2026-12-13,DIG - Product,converso.ai,Sanctioned vendor,allowed,406,233,5
+2026-12-13,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1703,32037,113
+2026-12-13,CC - Floor,translate.freetrans.net,Translation - free,allowed,28,46,10
+2026-12-13,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1210,1317,93
+2026-12-13,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,706,2679,94
+2026-12-13,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,838,617,58
+2026-12-13,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,15,0,9
+2026-12-13,HR,talentrank.io,Sanctioned vendor,allowed,22,1141,2
+2026-12-13,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-12-13,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,53,62,7
+2026-12-14,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),72,2395,3
+2026-12-14,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,35,2
+2026-12-14,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,121,3202,24
+2026-12-14,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,87,917,12
+2026-12-14,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,38,159,3
+2026-12-14,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,2
+2026-12-14,DIG - Product,converso.ai,Sanctioned vendor,allowed,376,206,4
+2026-12-14,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1909,51381,111
+2026-12-14,CC - Floor,translate.freetrans.net,Translation - free,allowed,31,50,8
+2026-12-14,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,907,1766,71
+2026-12-14,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,818,1960,74
+2026-12-14,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,847,579,64
+2026-12-14,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,13,0,9
+2026-12-14,HR,talentrank.io,Sanctioned vendor,allowed,24,904,2
+2026-12-14,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-12-14,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,29,82,6
+2026-12-15,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),78,1659,3
+2026-12-15,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,54,2
+2026-12-15,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,217,1459,24
+2026-12-15,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,83,1907,9
+2026-12-15,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,36,92,3
+2026-12-15,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,7,0,2
+2026-12-15,DIG - Product,converso.ai,Sanctioned vendor,allowed,281,263,5
+2026-12-15,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1154,70566,118
+2026-12-15,CC - Floor,translate.freetrans.net,Translation - free,allowed,47,81,10
+2026-12-15,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,859,2108,57
+2026-12-15,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,984,2486,83
+2026-12-15,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,530,523,69
+2026-12-15,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,10,0,10
+2026-12-15,HR,talentrank.io,Sanctioned vendor,allowed,20,640,3
+2026-12-15,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-12-15,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,55,65,5
+2026-12-16,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),89,1954,3
+2026-12-16,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,39,2
+2026-12-16,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,138,2766,17
+2026-12-16,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,58,1231,9
+2026-12-16,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,41,152,3
+2026-12-16,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,2
+2026-12-16,DIG - Product,converso.ai,Sanctioned vendor,allowed,521,382,5
+2026-12-16,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1519,66977,150
+2026-12-16,CC - Floor,translate.freetrans.net,Translation - free,allowed,29,75,9
+2026-12-16,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1027,1395,86
+2026-12-16,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,853,2344,66
+2026-12-16,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,513,692,51
+2026-12-16,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,17,0,10
+2026-12-16,HR,talentrank.io,Sanctioned vendor,allowed,12,909,3
+2026-12-16,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-12-16,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,25,109,7
+2026-12-17,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),86,1649,3
+2026-12-17,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,48,2
+2026-12-17,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,185,2614,23
+2026-12-17,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,95,2064,8
+2026-12-17,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,45,127,3
+2026-12-17,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,2
+2026-12-17,DIG - Product,converso.ai,Sanctioned vendor,allowed,260,182,5
+2026-12-17,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2195,50227,127
+2026-12-17,CC - Floor,translate.freetrans.net,Translation - free,allowed,41,45,10
+2026-12-17,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,733,2687,62
+2026-12-17,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,935,3123,99
+2026-12-17,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,563,563,64
+2026-12-17,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,16,0,7
+2026-12-17,HR,talentrank.io,Sanctioned vendor,allowed,25,916,3
+2026-12-17,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-12-17,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,42,114,6
+2026-12-20,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),52,2527,3
+2026-12-20,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,41,2
+2026-12-20,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,212,1923,26
+2026-12-20,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,61,1896,12
+2026-12-20,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,59,149,2
+2026-12-20,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,2
+2026-12-20,DIG - Product,converso.ai,Sanctioned vendor,allowed,522,228,7
+2026-12-20,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1969,71256,112
+2026-12-20,CC - Floor,translate.freetrans.net,Translation - free,allowed,24,61,8
+2026-12-20,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,667,2002,64
+2026-12-20,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,736,3058,75
+2026-12-20,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,722,848,44
+2026-12-20,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,10,0,6
+2026-12-20,HR,talentrank.io,Sanctioned vendor,allowed,13,1129,2
+2026-12-20,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-12-20,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,42,120,6
+2026-12-21,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),53,1811,3
+2026-12-21,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,31,2
+2026-12-21,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,205,2069,21
+2026-12-21,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,91,1277,8
+2026-12-21,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,52,114,3
+2026-12-21,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,6,0,2
+2026-12-21,DIG - Product,converso.ai,Sanctioned vendor,allowed,396,300,6
+2026-12-21,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1933,64956,118
+2026-12-21,CC - Floor,translate.freetrans.net,Translation - free,allowed,25,64,7
+2026-12-21,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,760,2278,84
+2026-12-21,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1018,1508,105
+2026-12-21,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,535,686,61
+2026-12-21,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,19,0,10
+2026-12-21,HR,talentrank.io,Sanctioned vendor,allowed,27,880,3
+2026-12-21,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-12-21,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,44,90,6
+2026-12-22,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),58,2449,3
+2026-12-22,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,35,2
+2026-12-22,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,206,2575,24
+2026-12-22,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,94,1924,10
+2026-12-22,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,58,102,3
+2026-12-22,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,2
+2026-12-22,DIG - Product,converso.ai,Sanctioned vendor,allowed,524,416,5
+2026-12-22,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2519,37000,146
+2026-12-22,CC - Floor,translate.freetrans.net,Translation - free,allowed,49,54,9
+2026-12-22,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1235,2524,65
+2026-12-22,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1438,2188,101
+2026-12-22,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,770,513,56
+2026-12-22,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,11,0,8
+2026-12-22,HR,talentrank.io,Sanctioned vendor,allowed,14,778,3
+2026-12-22,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-12-22,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,33,80,7
+2026-12-23,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),68,2017,3
+2026-12-23,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,44,2
+2026-12-23,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,220,1520,18
+2026-12-23,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,71,1209,13
+2026-12-23,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,43,76,3
+2026-12-23,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,7,0,2
+2026-12-23,DIG - Product,converso.ai,Sanctioned vendor,allowed,386,330,6
+2026-12-23,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2113,69200,161
+2026-12-23,CC - Floor,translate.freetrans.net,Translation - free,allowed,28,38,8
+2026-12-23,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,922,2327,84
+2026-12-23,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1420,2521,78
+2026-12-23,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,822,802,72
+2026-12-23,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,18,0,9
+2026-12-23,HR,talentrank.io,Sanctioned vendor,allowed,21,795,3
+2026-12-23,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-12-23,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,44,119,7
+2026-12-24,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),60,2580,2
+2026-12-24,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,38,2
+2026-12-24,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,113,3203,19
+2026-12-24,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,57,1086,12
+2026-12-24,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,51,98,3
+2026-12-24,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,2
+2026-12-24,DIG - Product,converso.ai,Sanctioned vendor,allowed,451,272,5
+2026-12-24,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1211,52579,111
+2026-12-24,CC - Floor,translate.freetrans.net,Translation - free,allowed,31,80,10
+2026-12-24,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,643,2610,65
+2026-12-24,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1152,3078,77
+2026-12-24,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,810,875,71
+2026-12-24,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,11,0,8
+2026-12-24,HR,talentrank.io,Sanctioned vendor,allowed,26,1238,3
+2026-12-24,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,4,0,1
+2026-12-24,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,40,64,6
+2026-12-27,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),43,2158,2
+2026-12-27,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,4,27,2
+2026-12-27,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,181,2711,20
+2026-12-27,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,91,1798,11
+2026-12-27,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,43,145,2
+2026-12-27,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,2
+2026-12-27,DIG - Product,converso.ai,Sanctioned vendor,allowed,323,348,5
+2026-12-27,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1677,51950,154
+2026-12-27,CC - Floor,translate.freetrans.net,Translation - free,allowed,42,67,7
+2026-12-27,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,694,1366,95
+2026-12-27,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1219,2731,96
+2026-12-27,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,708,769,65
+2026-12-27,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,17,0,10
+2026-12-27,HR,talentrank.io,Sanctioned vendor,allowed,15,883,3
+2026-12-27,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-12-27,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,39,105,5
+2026-12-28,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),54,1155,3
+2026-12-28,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,40,2
+2026-12-28,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,161,2190,18
+2026-12-28,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,58,1521,12
+2026-12-28,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,62,84,3
+2026-12-28,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,8,0,2
+2026-12-28,DIG - Product,converso.ai,Sanctioned vendor,allowed,390,362,7
+2026-12-28,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1084,58664,129
+2026-12-28,CC - Floor,translate.freetrans.net,Translation - free,allowed,29,36,7
+2026-12-28,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1021,1938,79
+2026-12-28,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1187,2619,91
+2026-12-28,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,575,444,68
+2026-12-28,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,16,0,9
+2026-12-28,HR,talentrank.io,Sanctioned vendor,allowed,21,1168,3
+2026-12-28,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-12-28,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,38,98,6
+2026-12-29,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),80,1962,3
+2026-12-29,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,3,40,2
+2026-12-29,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,104,3303,20
+2026-12-29,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,86,1476,8
+2026-12-29,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,40,100,3
+2026-12-29,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,4,0,2
+2026-12-29,DIG - Product,converso.ai,Sanctioned vendor,allowed,552,208,6
+2026-12-29,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2392,36318,118
+2026-12-29,CC - Floor,translate.freetrans.net,Translation - free,allowed,28,56,8
+2026-12-29,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1013,1507,65
+2026-12-29,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1015,3387,67
+2026-12-29,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,678,590,55
+2026-12-29,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,16,0,10
+2026-12-29,HR,talentrank.io,Sanctioned vendor,allowed,20,697,2
+2026-12-29,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,3,0,1
+2026-12-29,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,48,106,5
+2026-12-30,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),81,1336,3
+2026-12-30,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,31,2
+2026-12-30,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,169,2115,20
+2026-12-30,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,102,1459,9
+2026-12-30,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,29,96,3
+2026-12-30,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,6,0,2
+2026-12-30,DIG - Product,converso.ai,Sanctioned vendor,allowed,459,219,5
+2026-12-30,CC - Floor,kolot.ai,Sanctioned vendor,allowed,1151,65986,134
+2026-12-30,CC - Floor,translate.freetrans.net,Translation - free,allowed,39,61,9
+2026-12-30,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1211,2781,62
+2026-12-30,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1231,1905,87
+2026-12-30,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,616,894,48
+2026-12-30,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,17,0,9
+2026-12-30,HR,talentrank.io,Sanctioned vendor,allowed,26,898,2
+2026-12-30,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-12-30,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,41,112,5
+2026-12-31,CRD - Disputes,api.llmhub.io,Generative AI - API,allowed (uncategorised),85,2260,3
+2026-12-31,CRD - Disputes,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,5,54,1
+2026-12-31,CRD - CX,cleartext.ai,Sanctioned vendor,allowed,222,1773,22
+2026-12-31,RET - HQ,app.mishov-analytics.com,Sanctioned vendor,allowed,84,1275,13
+2026-12-31,DIG - Marketing,app.aiwriterpro.com,Generative AI - writing,monitored,41,96,3
+2026-12-31,DIG - Marketing,chat.llmhub.io,Generative AI - chat,blocked,5,0,2
+2026-12-31,DIG - Product,converso.ai,Sanctioned vendor,allowed,465,395,7
+2026-12-31,CC - Floor,kolot.ai,Sanctioned vendor,allowed,2344,63850,105
+2026-12-31,CC - Floor,translate.freetrans.net,Translation - free,allowed,34,84,9
+2026-12-31,CC - Floor,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,703,1433,64
+2026-12-31,OPS - Back office,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,1521,1578,64
+2026-12-31,BRANCH - network,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,576,615,57
+2026-12-31,BRANCH - network,chat.llmhub.io,Generative AI - chat,blocked,17,0,9
+2026-12-31,HR,talentrank.io,Sanctioned vendor,allowed,27,1036,2
+2026-12-31,TRS - Dealing,chat.llmhub.io,Generative AI - chat,blocked,2,0,1
+2026-12-31,FIN,tzofen.crescent-tenant.cloud,Sanctioned - Tzofen,allowed,39,117,6

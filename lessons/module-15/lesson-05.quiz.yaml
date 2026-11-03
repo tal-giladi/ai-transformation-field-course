@@ -1,0 +1,93 @@
+- id: q1
+  question: >-
+    You are about to triage 43 rows from 14 units, and every unit head expects their build to be kept.
+    What do you do before you open the list?
+  options:
+    - >-
+      Ask each unit head to rank their own pilots, so the triage starts from their priorities.
+    - >-
+      Write and date the stop, merge and route rules, and read them to the CRO and the sponsor.
+    - >-
+      Hold a workshop where the unit heads vote on which pilots continue.
+    - >-
+      Look at the evals first, so the rules can be calibrated to what the data shows.
+  correct: 1
+  explanation: >-
+    Rules written after you see the list look fitted to the answer, and every stop becomes a political
+    fight. Dated rules agreed with the people who will defend them make each decision checkable; votes
+    and self-rankings measure influence, not evidence.
+
+- id: q2
+  question: >-
+    Retail's complaint-summary build has 14 users and a vendor's 90% on its own benchmark; Cards' has 26
+    users and 0.91 on 300 of the bank's own complaints. Retail is the larger unit. How do you merge?
+  options:
+    - >-
+      Keep Retail's build, because it serves more customers and the unit is larger.
+    - >-
+      Keep both and let them compete for a year, then keep the better one.
+    - >-
+      Keep Cards' build with one owner, and write down what Retail keeps and a side-by-side.
+    - >-
+      Give the merged build joint ownership, so both units have a say in it.
+  correct: 2
+  explanation: >-
+    The evidence picks the owner: a passed evaluation on the bank's own data beats a vendor's figure.
+    Directive 369 asks for one owner per model, so joint ownership is not a merge; protecting what Retail
+    needs (its channels, its themes report, a parallel run) is how the decision survives.
+
+- id: q3
+  question: >-
+    The CFO wants to cancel the bank-wide assistant, the biggest single line. The register's dependency
+    column is empty. What is your first move?
+  options:
+    - >-
+      Find what is built on it (architecture notes, the tenant) and fill the dependencies.
+    - >-
+      Accept the cut, since the register shows that nothing at all depends on the assistant.
+    - >-
+      Refuse the cut, since general assistants are a strategic capability for every bank.
+    - >-
+      Offer to cut half of the seats now and review the other half in a year's time.
+  correct: 0
+  explanation: >-
+    An empty dependency column means unknown, not none. Two of the best-evidenced pilots run inside the
+    assistant and would be deleted with it; you find that out before you argue about the line, and then
+    decide on usage with the right denominator.
+
+- id: q4
+  question: >-
+    Which of these is a gate in a 12-month scale plan rather than a wish?
+  options:
+    - >-
+      The procedure assistant goes live in Q3 2027, as planned.
+    - >-
+      Ten pilots in production by December, as promised to the board.
+    - >-
+      Low-risk builds go live as soon as each unit says it is ready.
+    - >-
+      No low-tier go-live without a catalogue entry and a passed kit.
+  correct: 3
+  explanation: >-
+    A gate is a yes/no condition someone can check. Dates and targets say when you hope something
+    happens; "as soon as ready" leaves the condition undefined. The plan can still carry dates, but each
+    go-live is released by its gate.
+
+- id: q5
+  question: >-
+    The simulation's expert run has 26 pilots in production after four quarters. Your plan, with the
+    same design, commits to 14 by March 2028. A director asks why. What do you answer?
+  options:
+    - >-
+      The simulation is right, so the plan should be raised to 26.
+    - >-
+      The model has no procurement, DPIA or consultation time; the plan does.
+    - >-
+      The plan is kept low so that the CoE can beat it at year end.
+    - >-
+      Simulation numbers are random and can't be compared with a plan.
+  correct: 1
+  explanation: >-
+    The simulation ranks designs; it is not a forecast. Its runs are deterministic, not random, but they
+    leave out the time a bank really spends on contracts, data protection and consultation. Say which
+    assumptions differ and keep the number you can defend.

@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    Your readout recommends against the board's central design and against the CFO's biggest cut. What
+    must also be on the front page so the CEO can carry it?
+  options:
+    - >-
+      A full comparison of all three operating-model archetypes with their scores.
+    - >-
+      The list of the ten pilots that were stopped, so the board sees discipline.
+    - >-
+      A sentence he can say to the board on 30 March, with a number he can report every quarter.
+    - >-
+      The simulation's results for every design, as proof that yours is best.
+  correct: 2
+  explanation: >-
+    A recommend-against without something to say instead leaves the CEO repeating the old promise. Give
+    him a sentence and a measure he owns; the comparisons and the stop list belong in the appendix.
+
+- id: q2
+  question: >-
+    The hardest finding includes that the bank's answer to its supervisor about an AI inventory is not
+    accurate. How do you deliver that part to the CEO in private?
+  options:
+    - >-
+      As the CCO's plan to correct it through regulatory liaison once the catalogue is complete.
+    - >-
+      As a compliance failure by the people who wrote the answer, with their names.
+    - >-
+      Leave it out of the private meeting and raise it at the committee, where it is minuted.
+    - >-
+      As a risk the supervisor will probably not notice, so it can wait for next year's survey.
+  correct: 0
+  explanation: >-
+    The answer was written from the list the bank had; blame is both unfair and untrue. Framing it as the
+    owner's plan with a date gives the CEO a decision to support; hiding it or guessing what the
+    supervisor will notice leaves it to be found by someone else.
+
+- id: q3
+  question: >-
+    Your integration check finds the call summaries in the low tier in the operating-model paper and in
+    the medium tier in the triage. What do you do before the pre-read goes out?
+  options:
+    - >-
+      Leave both; the committee can decide which tier is right in the meeting.
+    - >-
+      Keep low in the paper, since it was agreed with the CRO before the triage.
+    - >-
+      Move it to high to be safe, since the tier was disputed.
+    - >-
+      Apply the tier rule to the evidence and make every document say the same.
+  correct: 3
+  explanation: >-
+    The tier comes from the rule applied to the facts: a macro writes summaries into customer records
+    unread, which is medium. Moving it to high "to be safe" wastes a validation slot; leaving a
+    contradiction in the pre-read invites the committee to doubt every number.
+
+- id: q4
+  question: >-
+    Which element makes the decision record re-decidable instead of permanent?
+  options:
+    - >-
+      A list of everyone who attended the meeting and how each one voted.
+    - >-
+      A stop rule: under 5 in production by 30 September means re-decide.
+    - >-
+      A statement that the decision will be reviewed "as needed" by the committee.
+    - >-
+      The full text of the operating-model paper attached to the record.
+  correct: 1
+  explanation: >-
+    A checkable condition with a date tells everyone when the design is tested and what triggers a new
+    decision. "As needed" is never; attendance and attachments record the meeting, not what would change
+    its outcome.
+
+- id: q5
+  question: >-
+    In the future where the bank kept the central team and cut the assistant, five builds were in
+    production after a year. What decided that outcome most?
+  options:
+    - >-
+      Hiring was slower than planned, so the central team started late.
+    - >-
+      The units refused to hand their pilots over to the central team.
+    - >-
+      Decision rights did not follow risk, so builds still waited at one gate.
+    - >-
+      The CFO's cut left too little money for the central team to build.
+  correct: 2
+  explanation: >-
+    Builders were added upstream of a gate that still validated everything in full, so the queue, not
+    the build capacity, set the pace. Hiring speed, handovers and money matter less while every go-live
+    waits for the same slots.

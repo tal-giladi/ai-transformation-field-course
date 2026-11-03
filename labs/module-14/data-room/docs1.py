@@ -35,7 +35,7 @@ beta inside the product.
 
 ## Systems (internal names)
 
-Admin console and **Admin API** (service tokens with scopes) · Ledgerly (billing; **weekly invoice run,
+Admin console and **Admin API** (service tokens with scopes) · Pinkasit (billing; **weekly invoice run,
 Thursday 22:00**) · Deskly (helpdesk) · Help centre (CMS) · Flagpole (feature flags) · Lumen Assist (built
 on a commercial LLM API behind our own tool layer).
 """

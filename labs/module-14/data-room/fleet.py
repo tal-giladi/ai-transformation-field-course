@@ -16,7 +16,7 @@ TOKENS = [
      "plans:write users:2fa data:export data:delete email:send", "2026-11-26", "never", "active",
      "Helpdesk integration (Deskly sidebar actions)"),
     ("tok_02", "billing-sync", "2022-05-03", "eyal.dahan", "R&D", "billing:read billing:write", "2026-11-26", "never",
-     "active", "Ledgerly <> product seat sync"),
+     "active", "Pinkasit <> product seat sync"),
     ("tok_03", "dwh-nightly", "2023-01-15", "data-team", "Data", "accounts:read usage:read", "2026-11-26", "2027-01-15",
      "active", "Warehouse extract"),
     ("tok_04", "statuspage", "2021-11-02", "eyal.dahan", "R&D", "status:write", "2026-11-20", "never", "active", "Status page"),

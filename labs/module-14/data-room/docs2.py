@@ -117,7 +117,7 @@ DPA = """# Customer data processing terms (extract, v4, 2025; standard for Start
 4.2 Lumen staff and systems with access to Customer Personal Data are bound by confidentiality and
     access is limited to what each needs.
 5.1 Lumen keeps conversation, ticket and support records for as long as the account is active.
-6.1 Sub-processors (Annex B): Amazon Web Services (hosting, Frankfurt), Deskly (helpdesk, EU), Ledgerly
+6.1 Sub-processors (Annex B): Amazon Web Services (hosting, Frankfurt), Deskly (helpdesk, EU), Pinkasit
     (billing, Israel), a transactional email provider (EU). Lumen will notify Customers 30 days before
     adding a sub-processor.
 7.1 Lumen notifies the Customer of a security incident affecting Customer Personal Data without undue

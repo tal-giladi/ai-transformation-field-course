@@ -1,0 +1,188 @@
+- id: q1
+  question: >-
+    You start as head of a new AI CoE in a bank. The board has approved a 16-person central team, the
+    CEO promised "ten in production by December", and you have no authority over the unit heads. What
+    does your mandate memo say about the approved design?
+  options:
+    - >-
+      That it is the plan, and the memo schedules the hiring of the 16.
+    - >-
+      That it is the starting point you will test, with changes taken to the sponsor first.
+    - >-
+      That it is wrong, with your alternative attached for the sponsor's signature.
+    - >-
+      Nothing: the design is the board's business and outside your scope.
+  correct: 1
+  explanation: >-
+    You have no evidence yet and your sponsor wrote the design, so you neither adopt it as the answer nor
+    attack it. Keeping it in scope as the starting point lets you change it with evidence, through the
+    person who has to carry the change to the board.
+
+- id: q2
+  question: >-
+    A register has 43 rows. Which pair is two separate builds of the same task, rather than one build
+    listed twice or two builds that only share a pattern?
+  options:
+    - >-
+      Two rows with the same environment, the same test set and identical eval results.
+    - >-
+      A branch FAQ and an HR policy FAQ, both answering staff questions from documents.
+    - >-
+      Two units summarising customer complaints, each on its own vendor and tenant.
+    - >-
+      A procedure assistant and a knowledge assistant on the same assistant platform.
+  correct: 2
+  explanation: >-
+    The same task on the same kind of data, built twice, is a duplicate to merge. Shared environment and
+    test set is one build counted twice; two Q&A assistants over different documents, or two assistants
+    on one platform, share a pattern or a platform, not a task.
+
+- id: q3
+  question: >-
+    The validation team has 3 AI review slots a quarter, and full validation takes 2 slots. 40 builds
+    are waiting. The board's plan adds a 16-person central build team. What is the effect on the time
+    to clear the queue?
+  options:
+    - >-
+      None: it is still about 27 quarters, because the gate sets the pace.
+    - >-
+      It roughly halves, because better-built pilots pass validation sooner.
+    - >-
+      It falls by a quarter, as the central team frees units to document better.
+    - >-
+      It cannot be known until the central team has worked for a year.
+  correct: 0
+  explanation: >-
+    80 slots at 3 a quarter is 26.7 quarters whoever builds. Adding capacity upstream of a binding
+    constraint lengthens the queue; only changing who decides and how deep each validation goes moves it.
+
+- id: q4
+  question: >-
+    A team has sent customer names and card digits to a public LLM API since April, on a corporate card,
+    because its approved pilot has been on hold for nine months. What is the right first move?
+  options:
+    - >-
+      Block the host through IT and report the team to HR the same day.
+    - >-
+      Let it run until your findings memo, so that the evidence is complete.
+    - >-
+      Ask the unit head to stop it quietly and keep it out of the memo.
+    - >-
+      Escalate today to the CISO, DPO and CIO, with an interim route.
+  correct: 3
+  explanation: >-
+    A live exposure goes to its owners the day you find it; blocking is their decision. An interim route
+    onto the approved pilot keeps the work from moving to phones; punishment, delay or a quiet fix leaves
+    the exposure running or hidden.
+
+- id: q5
+  question: >-
+    The CFO wants to cancel the bank-wide assistant because "usage is 16%" (250 weekly active users of
+    1,600 seats activated before training). 380 users have been onboarded. What do you put on the table?
+  options:
+    - >-
+      Agreement: 16% is too low to justify the biggest single line.
+    - >-
+      A counter-claim that the CFO's figure is wrong and should be withdrawn.
+    - >-
+      Usage with each denominator, and the two pilots that run inside the assistant.
+    - >-
+      A request to postpone the decision for a year while usage grows.
+  correct: 2
+  explanation: >-
+    250 of 380 onboarded is 66%, and the pilot teams are near 70%; 16% says how many seats were activated
+    before training. Showing the denominators and the dependencies turns the cut into a decision on
+    evidence instead of a fight over one number.
+
+- id: q6
+  question: >-
+    You are writing decision rights for AI go-live. Which design fits a bank under a model-risk directive
+    that allows proportionality and asks for independent validation?
+  options:
+    - >-
+      Every go-live through one committee with full validation, so the bar is the same for all.
+    - >-
+      Unit heads decide every go-live in their unit, with a light check for all models.
+    - >-
+      The CoE decides every go-live, since it sees the whole portfolio.
+    - >-
+      Low in the unit, medium with hub standards, high to full validation.
+  correct: 3
+  explanation: >-
+    Decision rights by tier keep full independent validation where the risk is and stop filling the queue
+    with tools a person checks item by item. One committee for all is today's queue; unit-only or
+    CoE-only decisions lose independence for high-risk models.
+
+- id: q7
+  question: >-
+    Who should own the rule that sorts AI builds into low, medium and high tiers?
+  options:
+    - >-
+      Model risk management, with the AI policy referring to its rule.
+    - >-
+      The AI CoE, which designs the route and runs the catalogue.
+    - >-
+      Each unit head, who knows their own builds best.
+    - >-
+      The vendors, who know what their products can and cannot do.
+  correct: 0
+  explanation: >-
+    The rule decides what skips central validation; if the people who want things live write it, nobody
+    trusts it and the CRO will not back it. Model risk owns the rule, the CoE runs the route, and the
+    unit's or vendor's own label is evidence, not the tier.
+
+- id: q8
+  question: >-
+    You find a "pilot" used every day in 31 branches for 15 months on a sandbox whose contract says
+    "pilots only, no production use". What do you do with it in the new design?
+  options:
+    - >-
+      Switch it off until it has passed full validation, so no rule is broken.
+    - >-
+      Register it as in use now, give it one owner, move it to production terms and its tier route.
+    - >-
+      Leave it as a pilot, since branches rely on it and changing its status would raise questions.
+    - >-
+      Ask internal audit to approve it as an exception before anything else happens.
+  correct: 1
+  explanation: >-
+    Calling it a pilot does not change that people rely on it; the honest move is to list it as in use,
+    with an owner and a dated route (low tier here) and its infrastructure fixed. Switching it off sends
+    tellers back to guessing; internal audit tests, it does not approve.
+
+- id: q9
+  question: >-
+    Triaging 40 builds, you want the stop list to survive 14 unit heads. Which approach does that?
+  options:
+    - >-
+      Ask each unit head to nominate one of their own pilots to stop.
+    - >-
+      Stop the pilots with the lowest claimed benefit, from the register.
+    - >-
+      Write dated stop rules, agree them with the CRO, then apply them.
+    - >-
+      Let the Management Committee vote on each pilot at the readout.
+  correct: 2
+  explanation: >-
+    Rules fixed before you look at the list make every stop checkable against its own evidence (a failed
+    threshold, no owner, no users, an open compliance question). Quotas, claimed benefits and votes
+    measure influence or optimism, not whether a build works.
+
+- id: q10
+  question: >-
+    The hardest finding for the CEO is that "nothing in production" was untrue and the bank's answer to
+    its supervisor needs correcting. How do you deliver it?
+  options:
+    - >-
+      In the committee, with the evidence, so the finding is minuted and cannot be softened.
+    - >-
+      In a memo to the board, so the CEO cannot be accused of hiding it.
+    - >-
+      Not at all for now; it can wait until the new design has shown results.
+    - >-
+      Privately first, from his own words on success, with the correction as the CCO's plan.
+  correct: 3
+  explanation: >-
+    The same finding lands differently when it starts from what the CEO said he wanted and comes with a
+    plan owned by the right person. Correcting him in front of his committee or going around him makes
+    him defend the past; waiting leaves the record wrong.

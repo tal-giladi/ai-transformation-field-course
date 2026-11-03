@@ -1,0 +1,96 @@
+- id: q1
+  question: >-
+    Two register rows from different units share the same environment, the same test-set file and
+    identical eval results, and each unit has a 2027 budget line for it. What do you record?
+  options:
+    - >-
+      A duplicate build to merge, owned by whichever unit has more users.
+    - >-
+      Two pilots, since each unit submitted and budgeted its own row.
+    - >-
+      A data error to send back to both units before you count anything.
+    - >-
+      One build counted twice, and the second budget line as double-booked.
+  correct: 3
+  explanation: >-
+    Same environment, same test set and the same results mean one thing was built once and listed
+    twice. A duplicate is two separate builds of the same task; this is a copy, and its second budget
+    line is money counted twice.
+
+- id: q2
+  question: >-
+    Five units have question-and-answer assistants over their own documents: branch procedures,
+    mortgage guides, back-office procedures, the contact-centre knowledge base and HR policies. How do
+    you classify them?
+  options:
+    - >-
+      One pattern on different content: share a template, don't merge them.
+    - >-
+      Duplicates: merge them into one bank-wide assistant with one owner.
+    - >-
+      Unrelated builds: each unit's content differs, so nothing at all is shared.
+    - >-
+      Weak builds: five versions of one idea show nobody coordinated.
+  correct: 0
+  explanation: >-
+    A duplicate is the same task on the same kind of data. Different content needs different owners who
+    keep it current (the Branch FAQ's wrong fee was a content-ownership failure). What they share is the
+    pattern, so they share a template and a platform, not a build.
+
+- id: q3
+  question: >-
+    The CFO's memo says the assistant's usage is 16%: 250 weekly active users of 1,600 seats activated
+    on 1 December. What do you put in the findings memo?
+  options:
+    - >-
+      That 16% is wrong and the CFO misread the admin report.
+    - >-
+      The usage with each denominator: seats, onboarded users and the pilot teams.
+    - >-
+      That 16% is low, so the assistant should be reduced to the pilot seats.
+    - >-
+      Nothing yet: usage is the CFO's area and the decision is his.
+  correct: 1
+  explanation: >-
+    Each number is true; what matters is which question it answers. 250 of 380 onboarded (66%) and the
+    pilot teams' 74% and 68% say whether trained people use it; 16% says how many seats were activated
+    before training. Showing all three lets the numbers argue without attacking the CFO.
+
+- id: q4
+  question: >-
+    You find that a team has sent customer names and card digits to a public LLM API every working day
+    since April, on a team lead's corporate card. The findings memo is due in eight days. What do you
+    do today?
+  options:
+    - >-
+      Block the API host yourself through IT, and report the team lead to HR.
+    - >-
+      Note it for the memo, so the evidence is complete before anybody acts on it.
+    - >-
+      Escalate today to the CISO's office, DPO and CIO, with an interim route.
+    - >-
+      Ask the unit head to stop it quietly, so the team is not embarrassed.
+  correct: 2
+  explanation: >-
+    A live exposure of customer data goes to its owners the day you find it; blocking is their call, not
+    yours. Proposing an approved route at the same time keeps the work from moving onto phones; holding
+    it for a memo or handling it quietly leaves the exposure running and unrecorded.
+
+- id: q5
+  question: >-
+    MRM has 3 AI review slots a quarter and a full validation takes 2 slots. How do you present this to
+    the CRO before anyone else?
+  options:
+    - >-
+      As 1.5 AI systems a quarter and 26.7 quarters for 40 builds, in her own units.
+    - >-
+      As evidence that Risk is the bottleneck and needs to move faster.
+    - >-
+      As a staffing request for six more validators to clear the queue in a year.
+    - >-
+      As a reason to let units validate their own low-risk tools from now on.
+  correct: 0
+  explanation: >-
+    Arithmetic in the gatekeeper's own units is something she can recognise and act on. Calling Risk the
+    bottleneck makes her defend the rule she wrote; jumping to headcount or self-validation proposes a
+    solution before she has agreed the problem.

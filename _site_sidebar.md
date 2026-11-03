@@ -129,3 +129,11 @@
   - [94 · Build: tests, red team and staged autonomy](/lessons/module-14/lesson-05.md)
   - [95 · Readout and debrief](/lessons/module-14/lesson-06.md)
   - [Module 14 quiz](/assessments/module-14-quiz.md)
+- **Module 15 — Crescent Bank: Forty Pilots, Nothing in Production**
+  - [96 · The call](/lessons/module-15/lesson-01.md)
+  - [97 · Discovery](/lessons/module-15/lesson-02.md)
+  - [98 · Diagnosis](/lessons/module-15/lesson-03.md)
+  - [99 · The hard part: an operating model that scales](/lessons/module-15/lesson-04.md)
+  - [100 · Decide: triage, design and a 12-month plan](/lessons/module-15/lesson-05.md)
+  - [101 · Readout and debrief](/lessons/module-15/lesson-06.md)
+  - [Module 15 quiz](/assessments/module-15-quiz.md)

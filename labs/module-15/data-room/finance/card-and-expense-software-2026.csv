@@ -1,0 +1,125 @@
+txn_id,source,date,cardholder_or_claimant,unit,merchant,original_currency,original_amount,amount_ils,gl_category,description_entered
+TX-0001,card,2026-04-03,Elad Ben-Shimon,Cards & Payments,LLMHUB *API USAGE,USD,114.57,397.56,6420 Software & online services,dev tools
+TX-0002,card,2026-05-03,Elad Ben-Shimon,Cards & Payments,LLMHUB *API USAGE,USD,268.34,920.41,6420 Software & online services,dev tools
+TX-0003,card,2026-06-03,Elad Ben-Shimon,Cards & Payments,LLMHUB *API USAGE,USD,417.93,1416.78,6420 Software & online services,dev tools
+TX-0004,card,2026-07-03,Elad Ben-Shimon,Cards & Payments,LLMHUB *API USAGE,USD,448.3,1501.81,6420 Software & online services,dev tools
+TX-0005,card,2026-08-03,Elad Ben-Shimon,Cards & Payments,LLMHUB *API USAGE,USD,529.54,1752.78,6420 Software & online services,dev tools
+TX-0006,card,2026-09-03,Elad Ben-Shimon,Cards & Payments,LLMHUB *API USAGE,USD,533.26,1743.76,6420 Software & online services,dev tools
+TX-0007,card,2026-10-03,Elad Ben-Shimon,Cards & Payments,LLMHUB *API USAGE,USD,599.43,1930.16,6420 Software & online services,dev tools
+TX-0008,card,2026-11-03,Elad Ben-Shimon,Cards & Payments,LLMHUB *API USAGE,USD,623.65,1976.97,6420 Software & online services,dev tools
+TX-0009,card,2026-12-03,Elad Ben-Shimon,Cards & Payments,LLMHUB *API USAGE,USD,669.11,2101.01,6420 Software & online services,dev tools
+TX-0010,expense claim,2026-06-06,L. Haddad,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,81.36,6420 Software & online services,software subscription (personal account)
+TX-0011,expense claim,2026-07-07,L. Haddad,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,80.4,6420 Software & online services,software subscription (personal account)
+TX-0012,expense claim,2026-08-06,L. Haddad,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,79.44,6420 Software & online services,software subscription (personal account)
+TX-0013,expense claim,2026-09-02,L. Haddad,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,78.48,6420 Software & online services,software subscription (personal account)
+TX-0014,expense claim,2026-10-09,L. Haddad,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,77.28,6420 Software & online services,software subscription (personal account)
+TX-0015,expense claim,2026-11-06,L. Haddad,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,76.08,6420 Software & online services,software subscription (personal account)
+TX-0016,expense claim,2026-12-06,L. Haddad,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,75.36,6420 Software & online services,software subscription (personal account)
+TX-0017,expense claim,2026-03-04,N. Avraham,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,84.48,6420 Software & online services,software subscription (personal account)
+TX-0018,expense claim,2026-04-06,N. Avraham,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,83.28,6420 Software & online services,software subscription (personal account)
+TX-0019,expense claim,2026-05-05,N. Avraham,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,82.32,6420 Software & online services,software subscription (personal account)
+TX-0020,expense claim,2026-06-09,N. Avraham,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,81.36,6420 Software & online services,software subscription (personal account)
+TX-0021,expense claim,2026-07-04,N. Avraham,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,80.4,6420 Software & online services,software subscription (personal account)
+TX-0022,expense claim,2026-08-07,N. Avraham,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,79.44,6420 Software & online services,software subscription (personal account)
+TX-0023,expense claim,2026-09-08,N. Avraham,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,78.48,6420 Software & online services,software subscription (personal account)
+TX-0024,expense claim,2026-10-02,N. Avraham,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,77.28,6420 Software & online services,software subscription (personal account)
+TX-0025,expense claim,2026-11-03,N. Avraham,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,76.08,6420 Software & online services,software subscription (personal account)
+TX-0026,expense claim,2026-12-08,N. Avraham,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,75.36,6420 Software & online services,software subscription (personal account)
+TX-0027,expense claim,2026-03-09,S. Gold,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,84.48,6420 Software & online services,software subscription (personal account)
+TX-0028,expense claim,2026-04-05,S. Gold,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,83.28,6420 Software & online services,software subscription (personal account)
+TX-0029,expense claim,2026-05-07,S. Gold,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,82.32,6420 Software & online services,software subscription (personal account)
+TX-0030,expense claim,2026-06-06,S. Gold,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,81.36,6420 Software & online services,software subscription (personal account)
+TX-0031,expense claim,2026-07-06,S. Gold,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,80.4,6420 Software & online services,software subscription (personal account)
+TX-0032,expense claim,2026-08-09,S. Gold,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,79.44,6420 Software & online services,software subscription (personal account)
+TX-0033,expense claim,2026-09-09,S. Gold,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,78.48,6420 Software & online services,software subscription (personal account)
+TX-0034,expense claim,2026-10-05,S. Gold,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,77.28,6420 Software & online services,software subscription (personal account)
+TX-0035,expense claim,2026-11-05,S. Gold,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,76.08,6420 Software & online services,software subscription (personal account)
+TX-0036,expense claim,2026-12-04,S. Gold,Digital Channels,AIWRITERPRO MONTHLY,USD,24.0,75.36,6420 Software & online services,software subscription (personal account)
+TX-0037,card,2026-01-22,emp-1001,Digital Channels,FIGMAPRO*TEAM,USD,80.94,289.77,6420 Software & online services,
+TX-0038,card,2026-04-11,emp-1002,Private Banking,TRANSCRIBER APP,USD,16.88,58.57,6420 Software & online services,
+TX-0039,card,2026-09-10,emp-1056,Treasury & Markets,CLOUDBOX STORAGE,USD,19.49,63.73,6420 Software & online services,tool
+TX-0040,card,2026-08-12,emp-1061,HR,WEBINARLY,USD,38.95,128.92,6420 Software & online services,monthly
+TX-0041,card,2026-02-16,emp-1151,Digital Channels,FIGMAPRO*TEAM,USD,75.83,269.2,6420 Software & online services,monthly
+TX-0042,card,2026-12-07,emp-1249,Digital Channels,STOCKPHOTO PLUS,USD,46.27,145.29,6420 Software & online services,subscription
+TX-0043,card,2026-06-15,emp-1414,Digital Channels,STOCKPHOTO PLUS,USD,47.15,159.84,6420 Software & online services,tool
+TX-0044,card,2026-08-23,emp-1506,Private Banking,TRANSCRIBER APP,USD,15.96,52.83,6420 Software & online services,tool
+TX-0045,card,2026-05-15,emp-1541,Treasury & Markets,CLOUDBOX STORAGE,USD,18.89,64.79,6420 Software & online services,monthly
+TX-0046,card,2026-09-22,emp-1555,Mortgages,PDFTOOLS PRO,USD,13.82,45.19,6420 Software & online services,tool
+TX-0047,card,2026-03-12,emp-2086,HR,WEBINARLY,USD,39.37,138.58,6420 Software & online services,tool
+TX-0048,card,2026-06-23,emp-2270,Digital Channels,CODEHOST TEAM,USD,40.75,138.14,6420 Software & online services,subscription
+TX-0049,card,2026-12-13,emp-2349,Digital Channels,FIGMAPRO*TEAM,USD,73.68,231.36,6420 Software & online services,
+TX-0050,card,2026-07-02,emp-2404,Credit Risk,MAPSDATA API,USD,54.78,183.51,6420 Software & online services,tool
+TX-0051,card,2026-04-22,emp-2430,Treasury & Markets,CLOUDBOX STORAGE,USD,19.29,66.94,6420 Software & online services,monthly
+TX-0052,card,2026-09-18,emp-2622,HR,WEBINARLY,USD,35.8,117.07,6420 Software & online services,tool
+TX-0053,card,2026-02-03,emp-2661,Treasury & Markets,CLOUDBOX STORAGE,USD,21.78,77.32,6420 Software & online services,monthly
+TX-0054,card,2026-03-04,emp-2672,Digital Channels,CODEHOST TEAM,USD,43.3,152.42,6420 Software & online services,monthly
+TX-0055,card,2026-10-07,emp-2685,HR,WEBINARLY,USD,38.23,123.1,6420 Software & online services,tool
+TX-0056,card,2026-02-07,emp-2739,HR,WEBINARLY,USD,37.7,133.84,6420 Software & online services,subscription
+TX-0057,card,2026-05-24,emp-2745,Digital Channels,STOCKPHOTO PLUS,USD,46.98,161.14,6420 Software & online services,subscription
+TX-0058,card,2026-02-23,emp-2897,Operations,DIAGRAMIT,USD,12.08,42.88,6420 Software & online services,tool
+TX-0059,card,2026-04-18,emp-3024,Credit Risk,MAPSDATA API,USD,61.67,213.99,6420 Software & online services,tool
+TX-0060,card,2026-12-01,emp-3252,Mortgages,PDFTOOLS PRO,USD,13.53,42.48,6420 Software & online services,monthly
+TX-0061,card,2026-07-20,emp-3413,Operations,DIAGRAMIT,USD,12.73,42.65,6420 Software & online services,tool
+TX-0062,card,2026-10-05,emp-3677,Credit Risk,MAPSDATA API,USD,56.11,180.67,6420 Software & online services,monthly
+TX-0063,card,2026-02-10,emp-3847,Digital Channels,CODEHOST TEAM,USD,47.19,167.52,6420 Software & online services,
+TX-0064,card,2026-09-11,emp-4013,Digital Channels,STOCKPHOTO PLUS,USD,53.34,174.42,6420 Software & online services,tool
+TX-0065,card,2026-07-11,emp-4094,Digital Channels,CODEHOST TEAM,USD,40.69,136.31,6420 Software & online services,tool
+TX-0066,card,2026-11-22,emp-4141,Private Banking,TRANSCRIBER APP,USD,17.41,55.19,6420 Software & online services,subscription
+TX-0067,card,2026-08-14,emp-4273,Digital Channels,CODEHOST TEAM,USD,44.0,145.64,6420 Software & online services,monthly
+TX-0068,card,2026-06-05,emp-4274,Retail Banking,SURVEYLY ANNUAL,ILS,4619.71,4619.71,6420 Software & online services,monthly
+TX-0069,card,2026-06-11,emp-4316,Operations,DIAGRAMIT,USD,11.42,38.71,6420 Software & online services,subscription
+TX-0070,card,2026-04-01,emp-4427,Operations,DIAGRAMIT,USD,12.01,41.67,6420 Software & online services,tool
+TX-0071,card,2026-08-19,emp-4572,Retail Banking,SURVEYLY ANNUAL,ILS,4541.59,4541.59,6420 Software & online services,tool
+TX-0072,card,2026-01-11,emp-4686,Retail Banking,SURVEYLY ANNUAL,ILS,4101.74,4101.74,6420 Software & online services,subscription
+TX-0073,card,2026-05-26,emp-4718,Credit Risk,MAPSDATA API,USD,63.26,216.98,6420 Software & online services,tool
+TX-0074,card,2026-02-19,emp-4908,Mortgages,PDFTOOLS PRO,USD,14.86,52.75,6420 Software & online services,monthly
+TX-0075,card,2026-09-01,emp-5044,Operations,DIAGRAMIT,USD,11.0,35.97,6420 Software & online services,
+TX-0076,card,2026-03-24,emp-5108,Mortgages,PDFTOOLS PRO,USD,15.92,56.04,6420 Software & online services,tool
+TX-0077,card,2026-05-19,emp-5245,Digital Channels,CODEHOST TEAM,USD,45.5,156.06,6420 Software & online services,
+TX-0078,card,2026-06-08,emp-5457,Digital Channels,FIGMAPRO*TEAM,USD,77.92,264.15,6420 Software & online services,
+TX-0079,card,2026-04-24,emp-5469,Digital Channels,STOCKPHOTO PLUS,USD,52.85,183.39,6420 Software & online services,subscription
+TX-0080,card,2026-12-14,emp-5491,HR,WEBINARLY,USD,39.26,123.28,6420 Software & online services,subscription
+TX-0081,card,2026-04-13,emp-5502,Retail Banking,SURVEYLY ANNUAL,ILS,4210.5,4210.5,6420 Software & online services,monthly
+TX-0082,card,2026-03-26,emp-5589,Digital Channels,FIGMAPRO*TEAM,USD,79.47,279.73,6420 Software & online services,tool
+TX-0083,card,2026-01-03,emp-5596,Treasury & Markets,CLOUDBOX STORAGE,USD,20.69,74.07,6420 Software & online services,subscription
+TX-0084,card,2026-10-26,emp-5851,Digital Channels,CODEHOST TEAM,USD,40.74,131.18,6420 Software & online services,
+TX-0085,card,2026-12-20,emp-6032,Treasury & Markets,CLOUDBOX STORAGE,USD,19.45,61.07,6420 Software & online services,subscription
+TX-0086,card,2026-06-15,emp-6075,Credit Risk,MAPSDATA API,USD,59.31,201.06,6420 Software & online services,monthly
+TX-0087,card,2026-12-08,emp-6116,Credit Risk,MAPSDATA API,USD,59.39,186.48,6420 Software & online services,
+TX-0088,card,2026-02-20,emp-6162,Private Banking,TRANSCRIBER APP,USD,16.19,57.47,6420 Software & online services,monthly
+TX-0089,card,2026-04-04,emp-6253,Digital Channels,FIGMAPRO*TEAM,USD,79.13,274.58,6420 Software & online services,
+TX-0090,card,2026-05-27,emp-6426,Digital Channels,FIGMAPRO*TEAM,USD,68.95,236.5,6420 Software & online services,monthly
+TX-0091,card,2026-05-06,emp-6491,Private Banking,TRANSCRIBER APP,USD,16.66,57.14,6420 Software & online services,subscription
+TX-0092,card,2026-10-14,emp-6571,Private Banking,TRANSCRIBER APP,USD,15.31,49.3,6420 Software & online services,subscription
+TX-0093,card,2026-08-12,emp-6751,Digital Channels,STOCKPHOTO PLUS,USD,46.01,152.29,6420 Software & online services,tool
+TX-0094,card,2026-07-22,emp-6894,Treasury & Markets,CLOUDBOX STORAGE,USD,20.54,68.81,6420 Software & online services,tool
+TX-0095,card,2026-07-13,emp-6924,HR,WEBINARLY,USD,36.88,123.55,6420 Software & online services,tool
+TX-0096,card,2026-06-06,emp-6928,Mortgages,PDFTOOLS PRO,USD,14.07,47.7,6420 Software & online services,tool
+TX-0097,card,2026-07-25,emp-6958,Digital Channels,FIGMAPRO*TEAM,USD,75.27,252.15,6420 Software & online services,tool
+TX-0098,card,2026-01-13,emp-6966,Operations,DIAGRAMIT,USD,11.89,42.57,6420 Software & online services,monthly
+TX-0099,card,2026-04-16,emp-7291,Digital Channels,CODEHOST TEAM,USD,41.99,145.71,6420 Software & online services,
+TX-0100,card,2026-12-27,emp-7431,Digital Channels,CODEHOST TEAM,USD,39.69,124.63,6420 Software & online services,monthly
+TX-0101,card,2026-08-20,emp-7601,Operations,DIAGRAMIT,USD,11.76,38.93,6420 Software & online services,subscription
+TX-0102,card,2026-07-02,emp-7648,Mortgages,PDFTOOLS PRO,USD,16.42,55.01,6420 Software & online services,subscription
+TX-0103,card,2026-10-16,emp-7741,Retail Banking,SURVEYLY ANNUAL,ILS,4465.49,4465.49,6420 Software & online services,monthly
+TX-0104,card,2026-02-06,emp-7786,Credit Risk,MAPSDATA API,USD,65.27,231.71,6420 Software & online services,
+TX-0105,card,2026-03-27,emp-8017,Treasury & Markets,CLOUDBOX STORAGE,USD,20.33,71.56,6420 Software & online services,subscription
+TX-0106,card,2026-02-21,emp-8135,Retail Banking,SURVEYLY ANNUAL,ILS,4564.28,4564.28,6420 Software & online services,tool
+TX-0107,card,2026-11-24,emp-8195,Digital Channels,STOCKPHOTO PLUS,USD,49.6,157.23,6420 Software & online services,monthly
+TX-0108,card,2026-09-18,emp-8277,Digital Channels,CODEHOST TEAM,USD,40.83,133.51,6420 Software & online services,monthly
+TX-0109,card,2026-10-19,emp-8290,Mortgages,PDFTOOLS PRO,USD,13.71,44.15,6420 Software & online services,
+TX-0110,card,2026-03-27,emp-8317,Retail Banking,SURVEYLY ANNUAL,ILS,4209.15,4209.15,6420 Software & online services,
+TX-0111,card,2026-10-16,emp-8362,Digital Channels,STOCKPHOTO PLUS,USD,52.87,170.24,6420 Software & online services,monthly
+TX-0112,card,2026-11-02,emp-8377,Treasury & Markets,CLOUDBOX STORAGE,USD,20.8,65.94,6420 Software & online services,subscription
+TX-0113,card,2026-08-01,emp-8379,Mortgages,PDFTOOLS PRO,USD,13.65,45.18,6420 Software & online services,monthly
+TX-0114,card,2026-11-24,emp-8538,Mortgages,PDFTOOLS PRO,USD,14.38,45.58,6420 Software & online services,tool
+TX-0115,card,2026-01-19,emp-8869,HR,WEBINARLY,USD,42.76,153.08,6420 Software & online services,
+TX-0116,card,2026-03-04,emp-8953,Operations,DIAGRAMIT,USD,10.91,38.4,6420 Software & online services,tool
+TX-0117,card,2026-10-26,emp-8975,Digital Channels,FIGMAPRO*TEAM,USD,69.58,224.05,6420 Software & online services,tool
+TX-0118,card,2026-09-03,emp-9371,Private Banking,TRANSCRIBER APP,USD,16.68,54.54,6420 Software & online services,monthly
+TX-0119,card,2026-01-23,emp-9395,Digital Channels,STOCKPHOTO PLUS,USD,50.53,180.9,6420 Software & online services,
+TX-0120,card,2026-03-06,emp-9412,Digital Channels,STOCKPHOTO PLUS,USD,49.15,173.01,6420 Software & online services,
+TX-0121,card,2026-06-02,emp-9575,Treasury & Markets,CLOUDBOX STORAGE,USD,18.7,63.39,6420 Software & online services,subscription
+TX-0122,card,2026-04-22,emp-9608,HR,WEBINARLY,USD,41.38,143.59,6420 Software & online services,subscription
+TX-0123,card,2026-04-19,emp-9703,Mortgages,PDFTOOLS PRO,USD,13.98,48.51,6420 Software & online services,tool
+TX-0124,card,2026-01-22,emp-9857,Private Banking,TRANSCRIBER APP,USD,17.07,61.11,6420 Software & online services,subscription

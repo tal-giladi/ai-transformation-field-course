@@ -1,0 +1,95 @@
+- id: q1
+  question: >-
+    On your first morning the COO says: "The board approved the 16-person central CoE. I need a plan to
+    get the pilots into production." How do you treat the approved design in your mandate memo?
+  options:
+    - >-
+      As the conclusion: the memo plans the hiring of the 16 and the hand-over of pilots to them.
+    - >-
+      As the starting point you will test against the evidence, taking any change to the COO first.
+    - >-
+      As a mistake to correct now, so the committee hears your alternative design in week one.
+    - >-
+      As out of scope, since the board decides structure and your job is only the pilots.
+  correct: 1
+  explanation: >-
+    The design is a means to the objective, so it belongs in scope, but you have no evidence yet and
+    your sponsor wrote it. Calling it the starting point keeps it testable without asking her to say the
+    board was wrong; taking changes to her first keeps her with you.
+
+- id: q2
+  question: >-
+    The board minute says "40 pilots and nothing in production". The register has 43 rows, and three
+    notes say a pilot is "used in 31 branches", "copied into the Kesher note" and "live for 2% of web
+    visitors". How do you sort the CEO's statement in the first read?
+  options:
+    - >-
+      Verified for the count and contradicted for production, because the notes settle it.
+    - >-
+      Unverifiable, because only the units can say what their pilots are doing.
+    - >-
+      Claim to test on both halves: neither the number nor "nothing" has been checked yet.
+    - >-
+      Verified, because it comes from the CEO and the board recorded it in the minutes.
+  correct: 2
+  explanation: >-
+    The rows have not been compared and three notes point to real use, so both halves are claims you
+    can test with the data room. A board minute records what was said, not whether it is true; and the
+    notes are evidence to follow up, not proof yet.
+
+- id: q3
+  question: >-
+    A unit head asks you in week one: "Is our letter-drafting tool a 'model' under Directive 369? If not,
+    we can go live without the Model Committee." What do you do?
+  options:
+    - >-
+      Route it to the CRO with the facts of the tool, since the bank's policy sets what a model is.
+    - >-
+      Answer no: the directive defines a model as quantitative, and a drafting tool is not.
+    - >-
+      Answer yes: the directive says it applies to AI, so every AI tool is a model.
+    - >-
+      Tell the unit to decide for itself and record its reasoning in the register.
+  correct: 0
+  explanation: >-
+    Directive 369 leaves the definition of a model to the bank's policy and the CRO owns model risk;
+    a head of CoE who rules on it alone either lowers the bar or blocks the unit without authority. Your
+    job is to make sure the right person is asked, with the facts.
+
+- id: q4
+  question: >-
+    Which scope gives the board what it asked for in its first quarterly report ("the inventory of AI in
+    use")?
+  options:
+    - >-
+      The 43 rows of the pilot register, cleaned and with owners added.
+    - >-
+      The pilots that have been submitted to the Model Committee.
+    - >-
+      The AI tools bought through procurement, from the contracts list.
+    - >-
+      Every AI use in the bank, with the register as one of several sources.
+  correct: 3
+  explanation: >-
+    The register is what units chose to send; AI also arrives through expense claims, vendor releases
+    and side projects that are not in it. An inventory of AI in use has to look for those, or the first
+    report to the board will be wrong in a way an auditor can find.
+
+- id: q5
+  question: >-
+    You are planning your first three weeks. Which order fits a bank where every route to production
+    runs through a committee you do not chair?
+  options:
+    - >-
+      Units first to build goodwill, then the CRO and CIO once you know what the units want.
+    - >-
+      The sponsor and the data in week one, the gatekeepers and key units in week two, the rest in three.
+    - >-
+      The CEO first, so the plan carries his authority when you meet the gatekeepers.
+    - >-
+      Internal audit first, to get its approval of your method before talking to anyone else.
+  correct: 1
+  explanation: >-
+    Every unit will ask to be fast-tracked; you cannot answer until you know what the CRO will accept and
+    what IT can run. Internal audit will not approve a method, and a CEO meeting with no evidence wastes
+    the one slot you get.

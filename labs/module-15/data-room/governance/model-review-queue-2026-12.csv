@@ -1,0 +1,20 @@
+submission_id,pilot_id,pilot_name,unit,submitted,documentation_complete,validation_required,slots_estimate,status,validation_started,validator,last_committee,committee_decision,wait_days_at_2026_12_31
+MC-AI-01,RET-03,Branch staff FAQ assistant,Retail Banking,2025-10-20,Y,Full,2,Waiting: full validation,,,2026-02-18,Deferred pending full validation,437
+MC-AI-02,CRK-01,Early-warning signals,Credit Risk,2025-12-14,Y,Full,2,In validation,2026-09-06,Y. Bar,,,382
+MC-AI-03,CRD-02,Fraud alert triage,Cards & Payments,2026-02-03,Y,Full,2,Waiting: full validation,,,2026-04-22,Deferred pending full validation,331
+MC-AI-04,TRS-01,Daily market summaries,Treasury & Markets,2026-03-01,Y,Full,2,Waiting: full validation,,,,,305
+MC-AI-05,CRD-03,Dispute letter drafts,Cards & Payments,2026-03-15,Y,Full,2,Waiting: full validation,,,2026-04-22,Deferred pending full validation,291
+MC-AI-06,MTG-01,Mortgage document extraction,Mortgages,2026-04-12,Y,Full,2,Waiting: full validation,,,2026-06-17,Deferred pending full validation,263
+MC-AI-07,SME-03,SME credit pre-approval,SME Banking,2026-05-10,Y,Full,2,Waiting: full validation,,,,,235
+MC-AI-08,CMP-01,בדיקת מסמכי הכר את הלקוח,Compliance & AML,2026-05-24,Y,Full,2,Waiting: full validation,,,2026-06-17,Deferred pending full validation,221
+MC-AI-09,CC-01,סיכום שיחות מוקד,Contact Centre,2026-06-02,Y,Full,2,Waiting: full validation,,,2026-09-16,Deferred pending full validation,212
+MC-AI-10,CORP-01,Credit memo assistant,Corporate Banking,2026-06-21,Y,Full,2,Waiting: full validation,,,2026-09-16,Deferred pending full validation,193
+MC-AI-11,CRD-01,Complaint summaries — Cards,Cards & Payments,2026-07-19,Y,Full,2,Waiting: full validation,,,2026-09-16,Deferred pending full validation,165
+MC-AI-12,HR-01,CV screening,HR,2026-08-02,N,Full,2,Returned: documentation incomplete,,,2026-11-25,Deferred pending full validation,151
+MC-AI-13,TRS-02,Trade surveillance alerts,Treasury & Markets,2026-08-30,Y,Full,2,Waiting: full validation,,,,,123
+MC-AI-14,RET-04,Churn early warning,Retail Banking,2026-09-07,Y,Full,2,Waiting: full validation,,,,,115
+MC-AI-15,DIG-01,Customer chatbot,Digital Channels,2026-09-27,N,Full,2,Returned: documentation incomplete,,,2026-11-25,Deferred pending full validation,95
+MC-AI-16,FIN-02,Invoice matching,Finance,2026-10-11,Y,Full,2,Waiting: full validation,,,,,81
+MC-AI-17,OPS-01,Bank-wide assistant rollout,Operations,2026-11-01,Y,Full,2,In validation,2026-11-22,M. Levi,2026-11-25,Deferred pending full validation,60
+MC-AI-18,OPS-02,Procedure assistant,Operations,2026-11-01,Y,Full,2,Waiting: full validation,,,,,60
+MC-AI-19,CC-02,Agent knowledge assistant,Contact Centre,2026-11-01,Y,Full,2,Waiting: full validation,,,,,60

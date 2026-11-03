@@ -1,0 +1,47 @@
+row,unit,role,employment,fte_on_ai,pilots,reports_to
+1,Cards & Payments,"Product owner, AI",employee,1.0,CRD-01;CRD-04,Maya Elkayam
+2,Cards & Payments,Data scientist,employee,1.0,CRD-02,Maya Elkayam
+3,Cards & Payments,Data scientist,contractor,1.0,CRD-02,Maya Elkayam
+4,Cards & Payments,Developer,contractor,1.0,CRD-01;CRD-03,Elad Ben-Shimon
+5,Cards & Payments,Disputes team lead (builds tools),employee,0.4,CRD-03,Elad Ben-Shimon
+6,Digital Channels,"Product owner, chatbot",employee,1.0,DIG-01,Tom Erez
+7,Digital Channels,Conversation designer,contractor,1.0,DIG-01,Tom Erez
+8,Digital Channels,Developer,contractor,1.0,DIG-01;DIG-03,Tom Erez
+9,Digital Channels,Developer,contractor,1.0,DIG-02;DIG-03,Tom Erez
+10,Digital Channels,Data analyst,employee,0.5,DIG-03,Tom Erez
+11,Digital Channels,Marketing content lead,employee,0.2,,Tom Erez
+12,Treasury & Markets,Quant developer,employee,1.0,TRS-03,Boris Lerner
+13,Treasury & Markets,Research analyst,employee,0.5,TRS-01,Boris Lerner
+14,Treasury & Markets,Surveillance analyst,employee,0.5,TRS-02,Boris Lerner
+15,Credit Risk,Model developer,employee,1.0,CRK-01,Dr. Hila Nachum
+16,Credit Risk,Model developer,employee,1.0,CRK-01;CRK-02,Dr. Hila Nachum
+17,Credit Risk,Model developer,employee,0.5,CRK-02,Dr. Hila Nachum
+18,Credit Risk,Data engineer,contractor,1.0,CRK-01,Dr. Hila Nachum
+19,Contact Centre,QA lead (eval),employee,0.6,CC-01;CC-02;CC-03,Revital Cohen
+20,Contact Centre,Knowledge manager,employee,0.8,CC-02,Revital Cohen
+21,Contact Centre,Workforce analyst,employee,0.3,CC-01,Revital Cohen
+22,Operations,Process analyst,employee,1.0,OPS-02;OPS-03,Shlomi Azoulay
+23,Operations,Assistant rollout manager,employee,1.0,OPS-01,Shlomi Azoulay
+24,Operations,Back-office team lead,employee,0.3,OPS-04;OPS-05,Pnina Gabay
+25,Retail Banking,Service quality manager,employee,0.5,RET-01,Hagit Mor
+26,Retail Banking,Branch digital lead,employee,0.6,RET-03,Hagit Mor
+27,Mortgages,Analytics lead,employee,0.5,MTG-01;MTG-02,Rachel Azaria
+28,SME Banking,Business analyst,employee,0.5,SME-01;SME-02;SME-03,Yossi Ben-Haim
+29,Corporate Banking,Credit analyst (memo pilot),employee,0.4,CORP-01,Daniel Friedman
+30,Compliance & AML,AML analytics lead,employee,1.0,CMP-02,Samer Khoury
+31,Compliance & AML,KYC operations lead,employee,0.3,CMP-01,Samer Khoury
+32,HR,HR analytics,employee,0.5,HR-01;HR-02,Anat Weiss
+33,Finance,Finance systems analyst,employee,0.4,FIN-01;FIN-02;FIN-03,Eli Rosen
+34,IT - Data & Analytics (Mizrah),Data scientist,employee,1.0,RET-02;RET-04,Nir Ashkenazi
+35,IT - Data & Analytics (Mizrah),Data scientist,employee,1.0,MTG-02;SME-03,Nir Ashkenazi
+36,IT - Data & Analytics (Mizrah),Data scientist,employee,1.0,CMP-02;OPS-03,Nir Ashkenazi
+37,IT - Data & Analytics (Mizrah),Data scientist,contractor,1.0,TRS-02;FIN-03,Nir Ashkenazi
+38,IT - Data & Analytics (Mizrah),ML engineer,employee,1.0,(platform),Nir Ashkenazi
+39,IT - Data & Analytics (Mizrah),Data engineer,employee,1.0,(platform),Nir Ashkenazi
+40,IT - Data & Analytics (Mizrah),Data engineer,contractor,1.0,(platform),Nir Ashkenazi
+41,IT - Infrastructure,Cloud architect (AI landing zone),employee,0.5,(platform),Nir Ashkenazi
+42,IT - Security,Security architect,employee,0.3,,Nir Ashkenazi
+43,Risk - Model Risk Management,Head of model risk management,employee,1.0,,Dr. Irina Kogan
+44,Risk - Model Risk Management,Validator,employee,1.0,,Yonatan Bar
+45,Risk - Model Risk Management,Validator,employee,1.0,,Yonatan Bar
+46,COO office,Head of AI CoE,employee,1.0,,Dalit Ben-Ami

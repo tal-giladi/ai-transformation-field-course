@@ -1,0 +1,21 @@
+request_id,received,from_unit,requester,channel,request_text,data_mentioned,status,days_open_at_2026_12_31
+REQ-009,2026-03-03,HR,Anat Weiss,form,Performance review drafting for managers,Employee data,new,303
+REQ-007,2026-03-08,Contact Centre,Revital Cohen,form,Real-time Arabic and Russian translation for agents on calls,Customer calls,new,298
+REQ-001,2026-04-29,Retail Banking,Hagit Mor,meeting,"סיכום שיחות בסניפים — כמו במוקד, להקליט ולסכם שיחות טלפון של הבנקאים בסניף",Customer calls,waiting,246
+REQ-016,2026-05-03,Credit Risk,Dr. Hila Nachum,email,Explain-my-score text for credit decisions,Credit scores,waiting,242
+REQ-010,2026-05-20,Finance,Eli Rosen,email,Board report first drafts,Financial results,new,225
+REQ-020,2026-05-20,Retail Banking,Yigal Sasson,form,Complaint summaries for the branches (extend Mishov),Complaints,waiting for CoE,225
+REQ-003,2026-06-20,Cards & Payments,Maya Elkayam,form,Extend complaint summaries to merchant complaints,Merchant data,waiting,194
+REQ-017,2026-07-20,Contact Centre,Contact centre team leads,email,Можно ли использовать бесплатный переводчик для писем клиентов на русском?,Customer letters,waiting,164
+REQ-008,2026-08-14,Digital Channels,Tom Erez,email,"Marketing copy generator for campaigns (we use a tool already, need budget)",Marketing,new,139
+REQ-005,2026-08-15,Corporate Banking,Daniel Friedman,form,Summaries of syndicated loan agreements,Loan agreements,waiting for CoE,138
+REQ-018,2026-08-31,Retail Banking,Branch Nazareth Illit,email,طلب: مساعد لصياغة الردود على شكاوى الزبائن بالعربية,Complaints,waiting,122
+REQ-004,2026-09-03,SME Banking,Yossi Ben-Haim,email,Cash-flow insights for SME clients in the app,Account transactions,waiting,119
+REQ-002,2026-09-08,Retail Banking,Branch Haifa Hadar,email,אפשר לקבל גישה לצ'אט ציבורי כדי לנסח מכתבים ללקוחות בערבית וברוסית?,Customer letters,waiting,114
+REQ-015,2026-09-17,Compliance & AML,Samer Khoury,form,Adverse media screening summaries,Public news,waiting,105
+REQ-011,2026-10-21,Operations,Shlomi Azoulay,form,Agent studio assistant for the cheque-clearing team (Tzofen),Procedures,waiting,71
+REQ-019,2026-10-28,Digital Channels,Tom Erez,form,"Chatbot v2 with account actions (block card, change limit)",Customer accounts,waiting for CoE,64
+REQ-012,2026-10-31,Operations,Pnina Gabay,email,Summaries of standing-order complaints,Complaints,waiting,61
+REQ-013,2026-11-06,Treasury & Markets,Boris Lerner,form,FX client commentary for corporate clients,Market data,waiting for CoE,55
+REQ-006,2026-11-14,Mortgages,Rachel Azaria,meeting,סיכום תלונות משכנתא — לבנות משהו כמו בקמעונאות,Complaints,new,47
+REQ-014,2026-12-12,Private Banking,Michael Stern,meeting,Replace portfolio commentary with a new vendor,Client portfolios,waiting for CoE,19

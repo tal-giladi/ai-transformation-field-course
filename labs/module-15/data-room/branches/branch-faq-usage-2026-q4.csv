@@ -1,0 +1,2047 @@
+date,branch_code,branch_name,questions,answered_with_source,thumbs_down,top_topic
+2026-10-01,101,Haifa Hadar,16,15,0,fees
+2026-10-01,102,Haifa Neve Sha'anan,22,19,2,foreign currency
+2026-10-01,104,Kiryat Ata,15,14,1,forms
+2026-10-01,106,Akko,10,10,2,standing orders
+2026-10-01,107,Nahariya,15,15,0,standing orders
+2026-10-01,109,Karmiel,19,17,0,cheques
+2026-10-01,111,Nazareth,9,8,1,cheques
+2026-10-01,112,Nof HaGalil,17,17,0,power of attorney
+2026-10-01,114,Afula,14,14,1,standing orders
+2026-10-01,115,Tiberias,15,14,0,standing orders
+2026-10-01,117,Shfar'am,20,16,1,fees
+2026-10-01,118,Sakhnin,10,10,0,foreign currency
+2026-10-01,121,Umm al-Fahm,19,18,1,fees
+2026-10-01,123,Hadera,19,17,1,account opening
+2026-10-01,125,Netanya,13,11,0,cheques
+2026-10-01,127,Kfar Saba,9,9,0,forms
+2026-10-01,128,Ra'anana,11,9,0,power of attorney
+2026-10-01,130,Herzliya,18,16,0,cards
+2026-10-01,132,Tel Aviv Allenby,12,12,0,standing orders
+2026-10-01,133,Tel Aviv Ibn Gabirol,15,13,0,cheques
+2026-10-01,135,Ramat Gan Bialik,7,7,0,forms
+2026-10-01,136,Petah Tikva,9,9,0,fees
+2026-10-01,138,Holon,15,15,1,loans
+2026-10-01,139,Bat Yam,13,12,0,power of attorney
+2026-10-01,141,Rishon LeZion,22,18,0,standing orders
+2026-10-01,142,Rehovot,15,15,0,fees
+2026-10-01,144,Ashdod,14,13,0,loans
+2026-10-01,146,Lod,9,8,0,cards
+2026-10-01,147,Modi'in,12,12,1,loans
+2026-10-01,150,Jerusalem Talpiot,12,12,1,cheques
+2026-10-01,152,Beit Shemesh,8,7,1,foreign currency
+2026-10-04,101,Haifa Hadar,15,15,0,fees
+2026-10-04,102,Haifa Neve Sha'anan,11,11,0,account opening
+2026-10-04,104,Kiryat Ata,9,8,0,cheques
+2026-10-04,106,Akko,16,16,1,cheques
+2026-10-04,107,Nahariya,10,9,1,cheques
+2026-10-04,109,Karmiel,20,20,0,account opening
+2026-10-04,111,Nazareth,10,9,0,fees
+2026-10-04,112,Nof HaGalil,20,19,2,cheques
+2026-10-04,114,Afula,15,13,0,cards
+2026-10-04,115,Tiberias,9,8,0,standing orders
+2026-10-04,117,Shfar'am,16,13,2,account opening
+2026-10-04,118,Sakhnin,17,16,2,account opening
+2026-10-04,121,Umm al-Fahm,21,20,1,foreign currency
+2026-10-04,123,Hadera,24,24,3,fees
+2026-10-04,125,Netanya,11,8,0,account opening
+2026-10-04,127,Kfar Saba,16,15,1,fees
+2026-10-04,128,Ra'anana,11,10,0,cards
+2026-10-04,130,Herzliya,18,14,0,cards
+2026-10-04,132,Tel Aviv Allenby,21,19,1,account opening
+2026-10-04,133,Tel Aviv Ibn Gabirol,15,14,0,account opening
+2026-10-04,135,Ramat Gan Bialik,12,12,1,standing orders
+2026-10-04,136,Petah Tikva,18,18,2,standing orders
+2026-10-04,138,Holon,11,11,1,standing orders
+2026-10-04,139,Bat Yam,10,9,0,forms
+2026-10-04,141,Rishon LeZion,21,20,1,forms
+2026-10-04,142,Rehovot,18,17,0,standing orders
+2026-10-04,144,Ashdod,13,12,0,forms
+2026-10-04,146,Lod,16,15,2,cards
+2026-10-04,147,Modi'in,14,11,1,forms
+2026-10-04,150,Jerusalem Talpiot,20,17,1,fees
+2026-10-04,152,Beit Shemesh,9,9,0,power of attorney
+2026-10-05,101,Haifa Hadar,9,9,0,account opening
+2026-10-05,102,Haifa Neve Sha'anan,21,20,3,fees
+2026-10-05,104,Kiryat Ata,12,12,0,power of attorney
+2026-10-05,106,Akko,8,7,1,fees
+2026-10-05,107,Nahariya,8,8,1,cheques
+2026-10-05,109,Karmiel,16,15,1,account opening
+2026-10-05,111,Nazareth,8,7,0,cheques
+2026-10-05,112,Nof HaGalil,15,13,0,cheques
+2026-10-05,114,Afula,14,14,2,account opening
+2026-10-05,115,Tiberias,9,8,1,fees
+2026-10-05,117,Shfar'am,11,10,1,foreign currency
+2026-10-05,118,Sakhnin,15,14,0,forms
+2026-10-05,121,Umm al-Fahm,16,13,1,fees
+2026-10-05,123,Hadera,21,20,0,account opening
+2026-10-05,125,Netanya,13,12,0,cards
+2026-10-05,127,Kfar Saba,10,10,0,cards
+2026-10-05,128,Ra'anana,9,8,0,forms
+2026-10-05,130,Herzliya,18,18,1,loans
+2026-10-05,132,Tel Aviv Allenby,13,12,0,loans
+2026-10-05,133,Tel Aviv Ibn Gabirol,15,15,0,cheques
+2026-10-05,135,Ramat Gan Bialik,10,10,0,fees
+2026-10-05,136,Petah Tikva,14,14,1,cheques
+2026-10-05,138,Holon,17,16,1,fees
+2026-10-05,139,Bat Yam,15,14,0,account opening
+2026-10-05,141,Rishon LeZion,20,20,0,forms
+2026-10-05,142,Rehovot,16,14,0,power of attorney
+2026-10-05,144,Ashdod,17,16,1,foreign currency
+2026-10-05,146,Lod,9,9,0,fees
+2026-10-05,147,Modi'in,10,10,0,fees
+2026-10-05,150,Jerusalem Talpiot,11,10,0,fees
+2026-10-05,152,Beit Shemesh,11,11,1,cards
+2026-10-06,101,Haifa Hadar,9,9,0,power of attorney
+2026-10-06,102,Haifa Neve Sha'anan,22,18,1,loans
+2026-10-06,104,Kiryat Ata,13,13,0,cheques
+2026-10-06,106,Akko,16,14,1,foreign currency
+2026-10-06,107,Nahariya,17,15,3,loans
+2026-10-06,109,Karmiel,12,11,2,account opening
+2026-10-06,111,Nazareth,10,10,1,account opening
+2026-10-06,112,Nof HaGalil,16,15,0,cheques
+2026-10-06,114,Afula,19,17,2,loans
+2026-10-06,115,Tiberias,16,15,1,power of attorney
+2026-10-06,117,Shfar'am,15,11,1,loans
+2026-10-06,118,Sakhnin,17,14,0,foreign currency
+2026-10-06,121,Umm al-Fahm,20,19,1,account opening
+2026-10-06,123,Hadera,23,22,1,standing orders
+2026-10-06,125,Netanya,13,11,0,fees
+2026-10-06,127,Kfar Saba,12,12,1,forms
+2026-10-06,128,Ra'anana,5,5,0,fees
+2026-10-06,130,Herzliya,11,11,0,fees
+2026-10-06,132,Tel Aviv Allenby,14,13,3,fees
+2026-10-06,133,Tel Aviv Ibn Gabirol,14,14,0,fees
+2026-10-06,135,Ramat Gan Bialik,13,13,2,account opening
+2026-10-06,136,Petah Tikva,14,14,1,standing orders
+2026-10-06,138,Holon,10,10,1,power of attorney
+2026-10-06,139,Bat Yam,16,16,1,fees
+2026-10-06,141,Rishon LeZion,16,16,0,forms
+2026-10-06,142,Rehovot,14,13,0,loans
+2026-10-06,144,Ashdod,8,8,0,foreign currency
+2026-10-06,146,Lod,16,15,0,standing orders
+2026-10-06,147,Modi'in,11,9,1,loans
+2026-10-06,150,Jerusalem Talpiot,14,13,0,foreign currency
+2026-10-06,152,Beit Shemesh,7,7,0,fees
+2026-10-07,101,Haifa Hadar,15,15,0,cheques
+2026-10-07,102,Haifa Neve Sha'anan,23,21,1,forms
+2026-10-07,104,Kiryat Ata,17,14,1,foreign currency
+2026-10-07,106,Akko,16,15,0,foreign currency
+2026-10-07,107,Nahariya,18,18,1,cheques
+2026-10-07,109,Karmiel,14,14,1,standing orders
+2026-10-07,111,Nazareth,7,6,0,cheques
+2026-10-07,112,Nof HaGalil,21,19,1,power of attorney
+2026-10-07,114,Afula,9,8,0,forms
+2026-10-07,115,Tiberias,10,9,1,forms
+2026-10-07,117,Shfar'am,17,13,0,power of attorney
+2026-10-07,118,Sakhnin,16,15,1,forms
+2026-10-07,121,Umm al-Fahm,10,7,1,cheques
+2026-10-07,123,Hadera,21,21,0,power of attorney
+2026-10-07,125,Netanya,6,5,1,standing orders
+2026-10-07,127,Kfar Saba,12,12,0,forms
+2026-10-07,128,Ra'anana,9,9,0,loans
+2026-10-07,130,Herzliya,15,13,0,cheques
+2026-10-07,132,Tel Aviv Allenby,15,14,2,standing orders
+2026-10-07,133,Tel Aviv Ibn Gabirol,17,17,1,cheques
+2026-10-07,135,Ramat Gan Bialik,12,12,0,foreign currency
+2026-10-07,136,Petah Tikva,11,11,0,fees
+2026-10-07,138,Holon,11,10,0,cards
+2026-10-07,139,Bat Yam,12,10,0,forms
+2026-10-07,141,Rishon LeZion,14,13,1,foreign currency
+2026-10-07,142,Rehovot,19,17,0,standing orders
+2026-10-07,144,Ashdod,10,9,0,cheques
+2026-10-07,146,Lod,16,16,0,fees
+2026-10-07,147,Modi'in,10,10,1,account opening
+2026-10-07,150,Jerusalem Talpiot,13,12,0,forms
+2026-10-07,152,Beit Shemesh,10,10,1,foreign currency
+2026-10-08,101,Haifa Hadar,14,14,0,fees
+2026-10-08,102,Haifa Neve Sha'anan,17,17,1,power of attorney
+2026-10-08,104,Kiryat Ata,13,13,1,forms
+2026-10-08,106,Akko,8,7,0,power of attorney
+2026-10-08,107,Nahariya,11,11,0,forms
+2026-10-08,109,Karmiel,17,16,0,standing orders
+2026-10-08,111,Nazareth,5,5,0,forms
+2026-10-08,112,Nof HaGalil,10,10,2,fees
+2026-10-08,114,Afula,15,15,0,foreign currency
+2026-10-08,115,Tiberias,12,12,0,foreign currency
+2026-10-08,117,Shfar'am,20,14,0,account opening
+2026-10-08,118,Sakhnin,9,7,0,foreign currency
+2026-10-08,121,Umm al-Fahm,20,18,0,cheques
+2026-10-08,123,Hadera,20,20,0,forms
+2026-10-08,125,Netanya,7,7,0,loans
+2026-10-08,127,Kfar Saba,15,15,0,foreign currency
+2026-10-08,128,Ra'anana,8,7,0,standing orders
+2026-10-08,130,Herzliya,17,16,0,loans
+2026-10-08,132,Tel Aviv Allenby,19,15,2,fees
+2026-10-08,133,Tel Aviv Ibn Gabirol,12,11,0,power of attorney
+2026-10-08,135,Ramat Gan Bialik,12,12,0,account opening
+2026-10-08,136,Petah Tikva,8,7,0,fees
+2026-10-08,138,Holon,14,13,0,foreign currency
+2026-10-08,139,Bat Yam,17,16,1,forms
+2026-10-08,141,Rishon LeZion,23,22,2,power of attorney
+2026-10-08,142,Rehovot,10,10,0,fees
+2026-10-08,144,Ashdod,15,15,0,account opening
+2026-10-08,146,Lod,15,12,0,foreign currency
+2026-10-08,147,Modi'in,11,10,0,fees
+2026-10-08,150,Jerusalem Talpiot,13,12,0,fees
+2026-10-08,152,Beit Shemesh,5,5,1,cheques
+2026-10-11,101,Haifa Hadar,11,9,2,cards
+2026-10-11,102,Haifa Neve Sha'anan,21,20,1,forms
+2026-10-11,104,Kiryat Ata,10,9,0,forms
+2026-10-11,106,Akko,9,8,0,forms
+2026-10-11,107,Nahariya,13,12,0,cards
+2026-10-11,109,Karmiel,14,14,0,loans
+2026-10-11,111,Nazareth,7,6,0,account opening
+2026-10-11,112,Nof HaGalil,11,11,1,power of attorney
+2026-10-11,114,Afula,10,9,0,account opening
+2026-10-11,115,Tiberias,14,13,2,account opening
+2026-10-11,117,Shfar'am,17,16,0,cheques
+2026-10-11,118,Sakhnin,9,9,0,loans
+2026-10-11,121,Umm al-Fahm,10,10,0,forms
+2026-10-11,123,Hadera,21,18,2,standing orders
+2026-10-11,125,Netanya,11,10,0,forms
+2026-10-11,127,Kfar Saba,11,10,0,cheques
+2026-10-11,128,Ra'anana,9,8,0,fees
+2026-10-11,130,Herzliya,18,18,1,account opening
+2026-10-11,132,Tel Aviv Allenby,10,10,0,loans
+2026-10-11,133,Tel Aviv Ibn Gabirol,16,16,0,cards
+2026-10-11,135,Ramat Gan Bialik,11,9,0,forms
+2026-10-11,136,Petah Tikva,14,12,0,standing orders
+2026-10-11,138,Holon,9,8,0,account opening
+2026-10-11,139,Bat Yam,17,15,1,forms
+2026-10-11,141,Rishon LeZion,13,13,0,fees
+2026-10-11,142,Rehovot,20,19,1,standing orders
+2026-10-11,144,Ashdod,14,13,0,cheques
+2026-10-11,146,Lod,14,13,0,fees
+2026-10-11,147,Modi'in,9,9,0,foreign currency
+2026-10-11,150,Jerusalem Talpiot,19,18,2,standing orders
+2026-10-11,152,Beit Shemesh,12,12,1,standing orders
+2026-10-12,101,Haifa Hadar,10,10,0,power of attorney
+2026-10-12,102,Haifa Neve Sha'anan,10,10,0,cards
+2026-10-12,104,Kiryat Ata,16,15,1,fees
+2026-10-12,106,Akko,12,11,1,fees
+2026-10-12,107,Nahariya,11,8,0,forms
+2026-10-12,109,Karmiel,18,17,1,fees
+2026-10-12,111,Nazareth,5,5,0,cheques
+2026-10-12,112,Nof HaGalil,14,13,1,power of attorney
+2026-10-12,114,Afula,9,7,0,foreign currency
+2026-10-12,115,Tiberias,12,11,0,loans
+2026-10-12,117,Shfar'am,20,20,0,standing orders
+2026-10-12,118,Sakhnin,12,12,0,account opening
+2026-10-12,121,Umm al-Fahm,10,10,0,standing orders
+2026-10-12,123,Hadera,14,13,0,account opening
+2026-10-12,125,Netanya,11,11,0,power of attorney
+2026-10-12,127,Kfar Saba,15,15,0,cards
+2026-10-12,128,Ra'anana,6,6,0,cards
+2026-10-12,130,Herzliya,14,12,0,foreign currency
+2026-10-12,132,Tel Aviv Allenby,12,10,0,cards
+2026-10-12,133,Tel Aviv Ibn Gabirol,13,12,2,forms
+2026-10-12,135,Ramat Gan Bialik,10,10,0,fees
+2026-10-12,136,Petah Tikva,9,9,1,foreign currency
+2026-10-12,138,Holon,16,16,0,standing orders
+2026-10-12,139,Bat Yam,12,12,0,fees
+2026-10-12,141,Rishon LeZion,11,10,0,fees
+2026-10-12,142,Rehovot,15,13,0,standing orders
+2026-10-12,144,Ashdod,9,8,0,account opening
+2026-10-12,146,Lod,9,9,0,loans
+2026-10-12,147,Modi'in,12,12,0,foreign currency
+2026-10-12,150,Jerusalem Talpiot,19,18,0,standing orders
+2026-10-12,152,Beit Shemesh,10,10,0,cards
+2026-10-13,101,Haifa Hadar,7,7,0,fees
+2026-10-13,102,Haifa Neve Sha'anan,21,21,1,cards
+2026-10-13,104,Kiryat Ata,17,17,0,loans
+2026-10-13,106,Akko,13,13,0,fees
+2026-10-13,107,Nahariya,9,9,1,fees
+2026-10-13,109,Karmiel,14,13,0,foreign currency
+2026-10-13,111,Nazareth,8,8,0,account opening
+2026-10-13,112,Nof HaGalil,19,19,0,loans
+2026-10-13,114,Afula,9,6,0,account opening
+2026-10-13,115,Tiberias,13,13,0,loans
+2026-10-13,117,Shfar'am,12,12,1,loans
+2026-10-13,118,Sakhnin,13,10,1,cheques
+2026-10-13,121,Umm al-Fahm,13,11,0,loans
+2026-10-13,123,Hadera,21,21,0,cards
+2026-10-13,125,Netanya,12,12,0,fees
+2026-10-13,127,Kfar Saba,16,14,0,fees
+2026-10-13,128,Ra'anana,11,11,0,power of attorney
+2026-10-13,130,Herzliya,14,13,0,cards
+2026-10-13,132,Tel Aviv Allenby,19,19,1,cheques
+2026-10-13,133,Tel Aviv Ibn Gabirol,10,10,0,cards
+2026-10-13,135,Ramat Gan Bialik,12,11,0,fees
+2026-10-13,136,Petah Tikva,17,17,2,fees
+2026-10-13,138,Holon,14,14,1,cheques
+2026-10-13,139,Bat Yam,12,10,1,foreign currency
+2026-10-13,141,Rishon LeZion,12,11,0,cards
+2026-10-13,142,Rehovot,19,19,2,account opening
+2026-10-13,144,Ashdod,10,10,0,fees
+2026-10-13,146,Lod,8,6,1,foreign currency
+2026-10-13,147,Modi'in,6,5,1,fees
+2026-10-13,150,Jerusalem Talpiot,11,11,1,cards
+2026-10-13,152,Beit Shemesh,9,9,0,cheques
+2026-10-14,101,Haifa Hadar,11,11,1,power of attorney
+2026-10-14,102,Haifa Neve Sha'anan,14,14,1,forms
+2026-10-14,104,Kiryat Ata,19,18,0,account opening
+2026-10-14,106,Akko,7,6,0,foreign currency
+2026-10-14,107,Nahariya,13,12,0,loans
+2026-10-14,109,Karmiel,13,13,1,standing orders
+2026-10-14,111,Nazareth,10,10,1,power of attorney
+2026-10-14,112,Nof HaGalil,19,18,0,account opening
+2026-10-14,114,Afula,18,15,1,account opening
+2026-10-14,115,Tiberias,8,5,0,cards
+2026-10-14,117,Shfar'am,17,16,1,fees
+2026-10-14,118,Sakhnin,14,14,2,power of attorney
+2026-10-14,121,Umm al-Fahm,20,20,1,fees
+2026-10-14,123,Hadera,17,16,1,forms
+2026-10-14,125,Netanya,11,11,0,standing orders
+2026-10-14,127,Kfar Saba,11,11,1,cheques
+2026-10-14,128,Ra'anana,11,11,0,loans
+2026-10-14,130,Herzliya,19,18,1,account opening
+2026-10-14,132,Tel Aviv Allenby,18,18,3,foreign currency
+2026-10-14,133,Tel Aviv Ibn Gabirol,10,10,1,fees
+2026-10-14,135,Ramat Gan Bialik,13,12,0,standing orders
+2026-10-14,136,Petah Tikva,12,12,1,forms
+2026-10-14,138,Holon,8,7,0,power of attorney
+2026-10-14,139,Bat Yam,14,14,1,cheques
+2026-10-14,141,Rishon LeZion,11,9,0,forms
+2026-10-14,142,Rehovot,13,12,0,cheques
+2026-10-14,144,Ashdod,14,13,0,fees
+2026-10-14,146,Lod,17,15,0,cheques
+2026-10-14,147,Modi'in,14,14,1,fees
+2026-10-14,150,Jerusalem Talpiot,20,19,0,cheques
+2026-10-14,152,Beit Shemesh,10,10,1,power of attorney
+2026-10-15,101,Haifa Hadar,13,13,1,cheques
+2026-10-15,102,Haifa Neve Sha'anan,19,19,0,fees
+2026-10-15,104,Kiryat Ata,16,16,1,loans
+2026-10-15,106,Akko,12,11,0,foreign currency
+2026-10-15,107,Nahariya,10,10,0,forms
+2026-10-15,109,Karmiel,22,21,1,account opening
+2026-10-15,111,Nazareth,7,7,0,power of attorney
+2026-10-15,112,Nof HaGalil,16,15,0,cards
+2026-10-15,114,Afula,15,14,0,loans
+2026-10-15,115,Tiberias,8,6,0,cards
+2026-10-15,117,Shfar'am,11,10,2,forms
+2026-10-15,118,Sakhnin,9,9,1,loans
+2026-10-15,121,Umm al-Fahm,17,16,0,cards
+2026-10-15,123,Hadera,19,19,0,power of attorney
+2026-10-15,125,Netanya,11,10,0,loans
+2026-10-15,127,Kfar Saba,15,15,0,cards
+2026-10-15,128,Ra'anana,5,5,0,foreign currency
+2026-10-15,130,Herzliya,19,17,1,forms
+2026-10-15,132,Tel Aviv Allenby,21,19,1,standing orders
+2026-10-15,133,Tel Aviv Ibn Gabirol,19,19,0,forms
+2026-10-15,135,Ramat Gan Bialik,7,6,0,cards
+2026-10-15,136,Petah Tikva,16,14,0,cheques
+2026-10-15,138,Holon,16,14,0,cheques
+2026-10-15,139,Bat Yam,10,10,0,loans
+2026-10-15,141,Rishon LeZion,16,16,0,account opening
+2026-10-15,142,Rehovot,17,17,0,power of attorney
+2026-10-15,144,Ashdod,12,11,0,forms
+2026-10-15,146,Lod,11,10,1,loans
+2026-10-15,147,Modi'in,9,9,1,loans
+2026-10-15,150,Jerusalem Talpiot,13,13,1,account opening
+2026-10-15,152,Beit Shemesh,6,6,0,power of attorney
+2026-10-18,101,Haifa Hadar,8,8,0,account opening
+2026-10-18,102,Haifa Neve Sha'anan,20,17,1,fees
+2026-10-18,104,Kiryat Ata,15,15,2,cheques
+2026-10-18,106,Akko,12,12,0,standing orders
+2026-10-18,107,Nahariya,17,16,0,account opening
+2026-10-18,109,Karmiel,13,13,0,cards
+2026-10-18,111,Nazareth,6,6,0,fees
+2026-10-18,112,Nof HaGalil,20,20,0,cards
+2026-10-18,114,Afula,10,10,0,foreign currency
+2026-10-18,115,Tiberias,15,15,0,foreign currency
+2026-10-18,117,Shfar'am,20,18,0,forms
+2026-10-18,118,Sakhnin,15,13,0,fees
+2026-10-18,121,Umm al-Fahm,16,15,2,account opening
+2026-10-18,123,Hadera,12,11,2,standing orders
+2026-10-18,125,Netanya,12,12,0,fees
+2026-10-18,127,Kfar Saba,15,14,0,loans
+2026-10-18,128,Ra'anana,6,6,0,fees
+2026-10-18,130,Herzliya,15,14,0,cards
+2026-10-18,132,Tel Aviv Allenby,15,14,1,standing orders
+2026-10-18,133,Tel Aviv Ibn Gabirol,22,21,2,account opening
+2026-10-18,135,Ramat Gan Bialik,9,9,1,loans
+2026-10-18,136,Petah Tikva,14,14,0,cards
+2026-10-18,138,Holon,9,9,1,cards
+2026-10-18,139,Bat Yam,14,14,1,power of attorney
+2026-10-18,141,Rishon LeZion,18,17,0,loans
+2026-10-18,142,Rehovot,14,14,1,loans
+2026-10-18,144,Ashdod,9,9,0,power of attorney
+2026-10-18,146,Lod,15,13,0,loans
+2026-10-18,147,Modi'in,8,8,0,cards
+2026-10-18,150,Jerusalem Talpiot,14,13,1,cheques
+2026-10-18,152,Beit Shemesh,7,7,1,fees
+2026-10-19,101,Haifa Hadar,7,6,0,account opening
+2026-10-19,102,Haifa Neve Sha'anan,13,11,2,power of attorney
+2026-10-19,104,Kiryat Ata,11,11,0,forms
+2026-10-19,106,Akko,10,10,0,fees
+2026-10-19,107,Nahariya,18,17,0,standing orders
+2026-10-19,109,Karmiel,17,17,1,cards
+2026-10-19,111,Nazareth,9,9,0,cards
+2026-10-19,112,Nof HaGalil,15,15,1,power of attorney
+2026-10-19,114,Afula,19,19,2,standing orders
+2026-10-19,115,Tiberias,15,15,0,cheques
+2026-10-19,117,Shfar'am,23,23,2,foreign currency
+2026-10-19,118,Sakhnin,10,10,0,cheques
+2026-10-19,121,Umm al-Fahm,13,12,1,cards
+2026-10-19,123,Hadera,22,22,1,forms
+2026-10-19,125,Netanya,12,11,0,standing orders
+2026-10-19,127,Kfar Saba,16,14,0,power of attorney
+2026-10-19,128,Ra'anana,10,9,0,foreign currency
+2026-10-19,130,Herzliya,15,15,2,account opening
+2026-10-19,132,Tel Aviv Allenby,20,18,1,loans
+2026-10-19,133,Tel Aviv Ibn Gabirol,17,17,1,standing orders
+2026-10-19,135,Ramat Gan Bialik,9,7,0,cards
+2026-10-19,136,Petah Tikva,8,6,1,standing orders
+2026-10-19,138,Holon,14,13,0,forms
+2026-10-19,139,Bat Yam,12,12,0,standing orders
+2026-10-19,141,Rishon LeZion,19,18,1,standing orders
+2026-10-19,142,Rehovot,18,16,0,power of attorney
+2026-10-19,144,Ashdod,15,14,0,cheques
+2026-10-19,146,Lod,14,13,1,forms
+2026-10-19,147,Modi'in,12,10,2,cards
+2026-10-19,150,Jerusalem Talpiot,13,12,0,foreign currency
+2026-10-19,152,Beit Shemesh,6,5,0,cards
+2026-10-20,101,Haifa Hadar,8,8,0,cheques
+2026-10-20,102,Haifa Neve Sha'anan,23,23,0,power of attorney
+2026-10-20,104,Kiryat Ata,18,17,1,power of attorney
+2026-10-20,106,Akko,11,11,0,forms
+2026-10-20,107,Nahariya,14,12,1,loans
+2026-10-20,109,Karmiel,15,12,0,forms
+2026-10-20,111,Nazareth,6,6,0,standing orders
+2026-10-20,112,Nof HaGalil,21,20,1,cheques
+2026-10-20,114,Afula,20,19,0,standing orders
+2026-10-20,115,Tiberias,8,7,1,fees
+2026-10-20,117,Shfar'am,17,16,1,standing orders
+2026-10-20,118,Sakhnin,17,15,0,cards
+2026-10-20,121,Umm al-Fahm,12,12,1,fees
+2026-10-20,123,Hadera,13,13,1,foreign currency
+2026-10-20,125,Netanya,12,11,1,foreign currency
+2026-10-20,127,Kfar Saba,8,8,0,cards
+2026-10-20,128,Ra'anana,7,7,0,cheques
+2026-10-20,130,Herzliya,18,13,0,fees
+2026-10-20,132,Tel Aviv Allenby,13,13,0,fees
+2026-10-20,133,Tel Aviv Ibn Gabirol,13,13,1,power of attorney
+2026-10-20,135,Ramat Gan Bialik,7,7,0,fees
+2026-10-20,136,Petah Tikva,12,11,0,account opening
+2026-10-20,138,Holon,8,8,0,fees
+2026-10-20,139,Bat Yam,10,9,0,cheques
+2026-10-20,141,Rishon LeZion,16,16,1,foreign currency
+2026-10-20,142,Rehovot,11,10,2,standing orders
+2026-10-20,144,Ashdod,11,11,0,loans
+2026-10-20,146,Lod,16,15,0,forms
+2026-10-20,147,Modi'in,11,11,0,account opening
+2026-10-20,150,Jerusalem Talpiot,22,22,0,foreign currency
+2026-10-20,152,Beit Shemesh,9,9,1,fees
+2026-10-21,101,Haifa Hadar,15,13,0,forms
+2026-10-21,102,Haifa Neve Sha'anan,15,14,1,fees
+2026-10-21,104,Kiryat Ata,13,12,0,cards
+2026-10-21,106,Akko,12,10,0,fees
+2026-10-21,107,Nahariya,15,14,0,fees
+2026-10-21,109,Karmiel,21,19,0,fees
+2026-10-21,111,Nazareth,10,10,0,account opening
+2026-10-21,112,Nof HaGalil,21,20,0,cheques
+2026-10-21,114,Afula,18,17,0,loans
+2026-10-21,115,Tiberias,10,10,0,cheques
+2026-10-21,117,Shfar'am,15,14,0,fees
+2026-10-21,118,Sakhnin,17,16,0,power of attorney
+2026-10-21,121,Umm al-Fahm,21,21,1,cheques
+2026-10-21,123,Hadera,15,14,1,foreign currency
+2026-10-21,125,Netanya,8,8,2,fees
+2026-10-21,127,Kfar Saba,8,8,1,cheques
+2026-10-21,128,Ra'anana,8,8,0,power of attorney
+2026-10-21,130,Herzliya,14,12,0,loans
+2026-10-21,132,Tel Aviv Allenby,21,20,1,cheques
+2026-10-21,133,Tel Aviv Ibn Gabirol,19,19,0,account opening
+2026-10-21,135,Ramat Gan Bialik,13,12,0,standing orders
+2026-10-21,136,Petah Tikva,10,10,0,foreign currency
+2026-10-21,138,Holon,16,14,0,forms
+2026-10-21,139,Bat Yam,16,15,0,account opening
+2026-10-21,141,Rishon LeZion,14,12,0,account opening
+2026-10-21,142,Rehovot,13,12,1,cheques
+2026-10-21,144,Ashdod,16,14,1,fees
+2026-10-21,146,Lod,9,9,0,forms
+2026-10-21,147,Modi'in,10,9,1,power of attorney
+2026-10-21,150,Jerusalem Talpiot,17,17,1,power of attorney
+2026-10-21,152,Beit Shemesh,12,11,1,power of attorney
+2026-10-22,101,Haifa Hadar,9,8,1,loans
+2026-10-22,102,Haifa Neve Sha'anan,18,15,0,fees
+2026-10-22,104,Kiryat Ata,16,16,0,fees
+2026-10-22,106,Akko,15,13,2,cards
+2026-10-22,107,Nahariya,11,11,1,foreign currency
+2026-10-22,109,Karmiel,14,13,0,loans
+2026-10-22,111,Nazareth,9,9,0,standing orders
+2026-10-22,112,Nof HaGalil,18,18,0,standing orders
+2026-10-22,114,Afula,9,7,0,cards
+2026-10-22,115,Tiberias,16,16,1,standing orders
+2026-10-22,117,Shfar'am,13,13,0,fees
+2026-10-22,118,Sakhnin,14,14,0,account opening
+2026-10-22,121,Umm al-Fahm,16,14,1,cards
+2026-10-22,123,Hadera,23,21,1,power of attorney
+2026-10-22,125,Netanya,9,9,0,account opening
+2026-10-22,127,Kfar Saba,8,8,1,account opening
+2026-10-22,128,Ra'anana,10,10,1,account opening
+2026-10-22,130,Herzliya,10,8,1,account opening
+2026-10-22,132,Tel Aviv Allenby,19,18,1,fees
+2026-10-22,133,Tel Aviv Ibn Gabirol,13,12,0,power of attorney
+2026-10-22,135,Ramat Gan Bialik,8,8,1,account opening
+2026-10-22,136,Petah Tikva,10,10,1,fees
+2026-10-22,138,Holon,14,13,1,standing orders
+2026-10-22,139,Bat Yam,10,8,1,fees
+2026-10-22,141,Rishon LeZion,23,23,0,foreign currency
+2026-10-22,142,Rehovot,18,17,0,account opening
+2026-10-22,144,Ashdod,11,11,1,cheques
+2026-10-22,146,Lod,8,7,0,cards
+2026-10-22,147,Modi'in,10,10,0,foreign currency
+2026-10-22,150,Jerusalem Talpiot,13,13,1,fees
+2026-10-22,152,Beit Shemesh,10,8,0,cards
+2026-10-25,101,Haifa Hadar,9,9,0,forms
+2026-10-25,102,Haifa Neve Sha'anan,20,18,0,fees
+2026-10-25,104,Kiryat Ata,10,10,1,cheques
+2026-10-25,106,Akko,13,12,1,cheques
+2026-10-25,107,Nahariya,17,17,1,fees
+2026-10-25,109,Karmiel,11,11,2,loans
+2026-10-25,111,Nazareth,5,5,0,fees
+2026-10-25,112,Nof HaGalil,21,21,0,foreign currency
+2026-10-25,114,Afula,12,10,2,foreign currency
+2026-10-25,115,Tiberias,13,13,1,fees
+2026-10-25,117,Shfar'am,17,16,0,account opening
+2026-10-25,118,Sakhnin,16,15,3,fees
+2026-10-25,121,Umm al-Fahm,11,11,1,foreign currency
+2026-10-25,123,Hadera,20,20,0,fees
+2026-10-25,125,Netanya,7,7,0,loans
+2026-10-25,127,Kfar Saba,12,11,1,account opening
+2026-10-25,128,Ra'anana,11,10,1,fees
+2026-10-25,130,Herzliya,18,18,0,foreign currency
+2026-10-25,132,Tel Aviv Allenby,22,21,1,power of attorney
+2026-10-25,133,Tel Aviv Ibn Gabirol,13,12,0,forms
+2026-10-25,135,Ramat Gan Bialik,6,5,0,account opening
+2026-10-25,136,Petah Tikva,12,12,0,foreign currency
+2026-10-25,138,Holon,12,12,2,standing orders
+2026-10-25,139,Bat Yam,11,11,0,fees
+2026-10-25,141,Rishon LeZion,22,21,1,cheques
+2026-10-25,142,Rehovot,22,18,0,forms
+2026-10-25,144,Ashdod,18,17,1,account opening
+2026-10-25,146,Lod,8,7,0,cards
+2026-10-25,147,Modi'in,7,6,0,foreign currency
+2026-10-25,150,Jerusalem Talpiot,22,22,1,cheques
+2026-10-25,152,Beit Shemesh,11,10,0,account opening
+2026-10-26,101,Haifa Hadar,14,14,1,account opening
+2026-10-26,102,Haifa Neve Sha'anan,20,20,3,fees
+2026-10-26,104,Kiryat Ata,19,17,2,foreign currency
+2026-10-26,106,Akko,17,17,2,foreign currency
+2026-10-26,107,Nahariya,16,16,1,standing orders
+2026-10-26,109,Karmiel,21,21,0,loans
+2026-10-26,111,Nazareth,5,5,0,fees
+2026-10-26,112,Nof HaGalil,16,16,0,fees
+2026-10-26,114,Afula,18,18,0,loans
+2026-10-26,115,Tiberias,15,15,0,standing orders
+2026-10-26,117,Shfar'am,16,16,0,account opening
+2026-10-26,118,Sakhnin,12,12,0,cheques
+2026-10-26,121,Umm al-Fahm,13,11,1,fees
+2026-10-26,123,Hadera,20,17,2,account opening
+2026-10-26,125,Netanya,13,11,0,cards
+2026-10-26,127,Kfar Saba,12,11,0,account opening
+2026-10-26,128,Ra'anana,11,11,0,cards
+2026-10-26,130,Herzliya,17,15,2,fees
+2026-10-26,132,Tel Aviv Allenby,10,9,1,account opening
+2026-10-26,133,Tel Aviv Ibn Gabirol,15,15,1,account opening
+2026-10-26,135,Ramat Gan Bialik,7,7,0,account opening
+2026-10-26,136,Petah Tikva,13,13,1,cards
+2026-10-26,138,Holon,13,13,0,fees
+2026-10-26,139,Bat Yam,11,10,3,fees
+2026-10-26,141,Rishon LeZion,10,10,0,fees
+2026-10-26,142,Rehovot,13,12,0,cheques
+2026-10-26,144,Ashdod,11,11,0,account opening
+2026-10-26,146,Lod,8,8,0,cheques
+2026-10-26,147,Modi'in,8,7,0,forms
+2026-10-26,150,Jerusalem Talpiot,15,14,0,account opening
+2026-10-26,152,Beit Shemesh,6,5,0,forms
+2026-10-27,101,Haifa Hadar,11,10,0,power of attorney
+2026-10-27,102,Haifa Neve Sha'anan,15,13,2,loans
+2026-10-27,104,Kiryat Ata,16,15,1,loans
+2026-10-27,106,Akko,12,11,0,cheques
+2026-10-27,107,Nahariya,15,13,0,loans
+2026-10-27,109,Karmiel,18,17,2,fees
+2026-10-27,111,Nazareth,5,5,1,account opening
+2026-10-27,112,Nof HaGalil,21,20,1,standing orders
+2026-10-27,114,Afula,12,12,0,standing orders
+2026-10-27,115,Tiberias,16,16,0,cards
+2026-10-27,117,Shfar'am,10,10,0,fees
+2026-10-27,118,Sakhnin,14,14,0,loans
+2026-10-27,121,Umm al-Fahm,16,15,0,power of attorney
+2026-10-27,123,Hadera,15,15,0,foreign currency
+2026-10-27,125,Netanya,10,9,2,cards
+2026-10-27,127,Kfar Saba,14,13,1,cheques
+2026-10-27,128,Ra'anana,9,9,0,forms
+2026-10-27,130,Herzliya,15,15,0,fees
+2026-10-27,132,Tel Aviv Allenby,22,21,0,standing orders
+2026-10-27,133,Tel Aviv Ibn Gabirol,18,17,1,loans
+2026-10-27,135,Ramat Gan Bialik,12,11,0,loans
+2026-10-27,136,Petah Tikva,10,10,1,cards
+2026-10-27,138,Holon,13,12,0,fees
+2026-10-27,139,Bat Yam,15,14,1,foreign currency
+2026-10-27,141,Rishon LeZion,20,20,1,fees
+2026-10-27,142,Rehovot,12,11,1,forms
+2026-10-27,144,Ashdod,14,14,0,power of attorney
+2026-10-27,146,Lod,10,10,0,forms
+2026-10-27,147,Modi'in,14,13,0,cards
+2026-10-27,150,Jerusalem Talpiot,23,23,1,standing orders
+2026-10-27,152,Beit Shemesh,11,11,0,fees
+2026-10-28,101,Haifa Hadar,9,9,0,standing orders
+2026-10-28,102,Haifa Neve Sha'anan,17,16,0,loans
+2026-10-28,104,Kiryat Ata,17,16,1,standing orders
+2026-10-28,106,Akko,13,12,2,loans
+2026-10-28,107,Nahariya,17,16,1,fees
+2026-10-28,109,Karmiel,13,13,1,fees
+2026-10-28,111,Nazareth,5,5,0,cheques
+2026-10-28,112,Nof HaGalil,20,17,1,power of attorney
+2026-10-28,114,Afula,17,17,0,fees
+2026-10-28,115,Tiberias,14,13,2,loans
+2026-10-28,117,Shfar'am,20,18,0,loans
+2026-10-28,118,Sakhnin,8,8,1,standing orders
+2026-10-28,121,Umm al-Fahm,14,12,1,foreign currency
+2026-10-28,123,Hadera,21,21,2,foreign currency
+2026-10-28,125,Netanya,9,9,0,fees
+2026-10-28,127,Kfar Saba,10,9,0,fees
+2026-10-28,128,Ra'anana,5,5,0,fees
+2026-10-28,130,Herzliya,17,16,0,cards
+2026-10-28,132,Tel Aviv Allenby,11,11,0,standing orders
+2026-10-28,133,Tel Aviv Ibn Gabirol,21,21,2,foreign currency
+2026-10-28,135,Ramat Gan Bialik,8,8,0,forms
+2026-10-28,136,Petah Tikva,16,15,0,standing orders
+2026-10-28,138,Holon,10,10,0,standing orders
+2026-10-28,139,Bat Yam,9,9,0,cheques
+2026-10-28,141,Rishon LeZion,23,23,1,foreign currency
+2026-10-28,142,Rehovot,10,7,0,forms
+2026-10-28,144,Ashdod,19,17,0,account opening
+2026-10-28,146,Lod,11,11,0,loans
+2026-10-28,147,Modi'in,14,11,0,fees
+2026-10-28,150,Jerusalem Talpiot,11,11,0,fees
+2026-10-28,152,Beit Shemesh,12,11,0,fees
+2026-10-29,101,Haifa Hadar,9,8,3,cards
+2026-10-29,102,Haifa Neve Sha'anan,11,9,1,fees
+2026-10-29,104,Kiryat Ata,13,13,0,cards
+2026-10-29,106,Akko,9,9,0,power of attorney
+2026-10-29,107,Nahariya,18,18,0,power of attorney
+2026-10-29,109,Karmiel,16,16,1,account opening
+2026-10-29,111,Nazareth,8,7,0,foreign currency
+2026-10-29,112,Nof HaGalil,22,22,0,account opening
+2026-10-29,114,Afula,13,10,0,fees
+2026-10-29,115,Tiberias,9,8,1,power of attorney
+2026-10-29,117,Shfar'am,13,12,1,foreign currency
+2026-10-29,118,Sakhnin,14,14,0,cards
+2026-10-29,121,Umm al-Fahm,11,11,0,account opening
+2026-10-29,123,Hadera,23,21,1,cards
+2026-10-29,125,Netanya,10,10,0,foreign currency
+2026-10-29,127,Kfar Saba,8,8,2,loans
+2026-10-29,128,Ra'anana,5,5,0,fees
+2026-10-29,130,Herzliya,18,16,2,fees
+2026-10-29,132,Tel Aviv Allenby,21,19,0,power of attorney
+2026-10-29,133,Tel Aviv Ibn Gabirol,12,12,0,fees
+2026-10-29,135,Ramat Gan Bialik,13,12,0,foreign currency
+2026-10-29,136,Petah Tikva,16,14,2,loans
+2026-10-29,138,Holon,10,10,0,fees
+2026-10-29,139,Bat Yam,11,11,0,cards
+2026-10-29,141,Rishon LeZion,16,14,0,fees
+2026-10-29,142,Rehovot,15,15,0,cheques
+2026-10-29,144,Ashdod,10,10,0,cheques
+2026-10-29,146,Lod,7,7,0,cheques
+2026-10-29,147,Modi'in,6,6,0,fees
+2026-10-29,150,Jerusalem Talpiot,22,21,0,forms
+2026-10-29,152,Beit Shemesh,11,11,1,account opening
+2026-11-01,101,Haifa Hadar,10,10,0,fees
+2026-11-01,102,Haifa Neve Sha'anan,22,21,0,foreign currency
+2026-11-01,104,Kiryat Ata,12,11,0,fees
+2026-11-01,106,Akko,15,15,2,fees
+2026-11-01,107,Nahariya,10,10,0,account opening
+2026-11-01,109,Karmiel,14,13,0,foreign currency
+2026-11-01,111,Nazareth,7,7,0,fees
+2026-11-01,112,Nof HaGalil,18,18,1,cheques
+2026-11-01,114,Afula,13,13,0,cheques
+2026-11-01,115,Tiberias,8,7,0,cards
+2026-11-01,117,Shfar'am,14,12,1,standing orders
+2026-11-01,118,Sakhnin,16,16,0,loans
+2026-11-01,121,Umm al-Fahm,11,10,0,fees
+2026-11-01,123,Hadera,23,22,1,fees
+2026-11-01,125,Netanya,9,8,0,cards
+2026-11-01,127,Kfar Saba,11,11,0,cards
+2026-11-01,128,Ra'anana,11,11,0,cheques
+2026-11-01,130,Herzliya,9,9,0,loans
+2026-11-01,132,Tel Aviv Allenby,21,21,1,loans
+2026-11-01,133,Tel Aviv Ibn Gabirol,10,10,1,cards
+2026-11-01,135,Ramat Gan Bialik,11,11,2,foreign currency
+2026-11-01,136,Petah Tikva,14,14,0,standing orders
+2026-11-01,138,Holon,10,9,0,forms
+2026-11-01,139,Bat Yam,9,9,1,cheques
+2026-11-01,141,Rishon LeZion,19,19,2,standing orders
+2026-11-01,142,Rehovot,19,18,0,loans
+2026-11-01,144,Ashdod,9,9,0,loans
+2026-11-01,146,Lod,12,12,1,standing orders
+2026-11-01,147,Modi'in,6,6,0,foreign currency
+2026-11-01,150,Jerusalem Talpiot,18,18,1,cards
+2026-11-01,152,Beit Shemesh,6,6,1,standing orders
+2026-11-02,101,Haifa Hadar,12,11,0,standing orders
+2026-11-02,102,Haifa Neve Sha'anan,20,16,0,cards
+2026-11-02,104,Kiryat Ata,14,13,0,loans
+2026-11-02,106,Akko,11,11,0,account opening
+2026-11-02,107,Nahariya,15,13,0,loans
+2026-11-02,109,Karmiel,19,18,1,power of attorney
+2026-11-02,111,Nazareth,10,9,1,power of attorney
+2026-11-02,112,Nof HaGalil,11,10,0,cheques
+2026-11-02,114,Afula,12,12,0,fees
+2026-11-02,115,Tiberias,13,12,0,account opening
+2026-11-02,117,Shfar'am,16,16,1,foreign currency
+2026-11-02,118,Sakhnin,11,11,0,fees
+2026-11-02,121,Umm al-Fahm,15,15,0,standing orders
+2026-11-02,123,Hadera,10,9,0,fees
+2026-11-02,125,Netanya,9,9,0,standing orders
+2026-11-02,127,Kfar Saba,13,13,1,fees
+2026-11-02,128,Ra'anana,8,7,0,standing orders
+2026-11-02,130,Herzliya,10,10,0,standing orders
+2026-11-02,132,Tel Aviv Allenby,11,11,2,power of attorney
+2026-11-02,133,Tel Aviv Ibn Gabirol,17,17,0,fees
+2026-11-02,135,Ramat Gan Bialik,11,11,0,forms
+2026-11-02,136,Petah Tikva,9,9,0,account opening
+2026-11-02,138,Holon,9,9,0,foreign currency
+2026-11-02,139,Bat Yam,9,8,0,cheques
+2026-11-02,141,Rishon LeZion,19,17,0,loans
+2026-11-02,142,Rehovot,21,18,0,fees
+2026-11-02,144,Ashdod,18,17,2,forms
+2026-11-02,146,Lod,14,12,1,fees
+2026-11-02,147,Modi'in,13,12,0,foreign currency
+2026-11-02,150,Jerusalem Talpiot,15,13,0,loans
+2026-11-02,152,Beit Shemesh,10,10,0,cheques
+2026-11-03,101,Haifa Hadar,10,9,0,fees
+2026-11-03,102,Haifa Neve Sha'anan,13,13,1,foreign currency
+2026-11-03,104,Kiryat Ata,20,18,0,standing orders
+2026-11-03,106,Akko,12,11,0,cards
+2026-11-03,107,Nahariya,16,16,0,fees
+2026-11-03,109,Karmiel,12,12,0,power of attorney
+2026-11-03,111,Nazareth,9,5,0,forms
+2026-11-03,112,Nof HaGalil,11,9,0,power of attorney
+2026-11-03,114,Afula,10,10,0,foreign currency
+2026-11-03,115,Tiberias,13,12,3,fees
+2026-11-03,117,Shfar'am,10,10,0,standing orders
+2026-11-03,118,Sakhnin,12,12,0,loans
+2026-11-03,121,Umm al-Fahm,17,17,0,cheques
+2026-11-03,123,Hadera,12,11,1,fees
+2026-11-03,125,Netanya,8,8,0,standing orders
+2026-11-03,127,Kfar Saba,12,12,0,cards
+2026-11-03,128,Ra'anana,9,9,0,foreign currency
+2026-11-03,130,Herzliya,9,9,0,foreign currency
+2026-11-03,132,Tel Aviv Allenby,20,18,2,standing orders
+2026-11-03,133,Tel Aviv Ibn Gabirol,17,16,2,loans
+2026-11-03,135,Ramat Gan Bialik,12,11,1,power of attorney
+2026-11-03,136,Petah Tikva,11,11,1,forms
+2026-11-03,138,Holon,11,11,0,loans
+2026-11-03,139,Bat Yam,16,16,2,cheques
+2026-11-03,141,Rishon LeZion,21,21,3,account opening
+2026-11-03,142,Rehovot,19,19,0,power of attorney
+2026-11-03,144,Ashdod,14,13,0,loans
+2026-11-03,146,Lod,17,16,0,fees
+2026-11-03,147,Modi'in,10,10,0,cards
+2026-11-03,150,Jerusalem Talpiot,16,15,1,foreign currency
+2026-11-03,152,Beit Shemesh,9,9,0,power of attorney
+2026-11-04,101,Haifa Hadar,15,13,0,forms
+2026-11-04,102,Haifa Neve Sha'anan,20,17,0,cheques
+2026-11-04,104,Kiryat Ata,9,9,0,account opening
+2026-11-04,106,Akko,9,9,0,power of attorney
+2026-11-04,107,Nahariya,9,9,0,cards
+2026-11-04,109,Karmiel,13,12,2,account opening
+2026-11-04,111,Nazareth,9,9,0,cheques
+2026-11-04,112,Nof HaGalil,18,17,1,standing orders
+2026-11-04,114,Afula,17,16,0,foreign currency
+2026-11-04,115,Tiberias,14,12,0,forms
+2026-11-04,117,Shfar'am,17,16,0,forms
+2026-11-04,118,Sakhnin,12,11,1,fees
+2026-11-04,121,Umm al-Fahm,17,15,1,forms
+2026-11-04,123,Hadera,13,12,0,cards
+2026-11-04,125,Netanya,13,13,0,loans
+2026-11-04,127,Kfar Saba,12,9,1,power of attorney
+2026-11-04,128,Ra'anana,10,10,0,power of attorney
+2026-11-04,130,Herzliya,16,15,0,foreign currency
+2026-11-04,132,Tel Aviv Allenby,11,11,0,fees
+2026-11-04,133,Tel Aviv Ibn Gabirol,18,18,0,cheques
+2026-11-04,135,Ramat Gan Bialik,8,5,0,power of attorney
+2026-11-04,136,Petah Tikva,9,7,0,foreign currency
+2026-11-04,138,Holon,14,12,1,fees
+2026-11-04,139,Bat Yam,14,14,0,foreign currency
+2026-11-04,141,Rishon LeZion,10,9,0,account opening
+2026-11-04,142,Rehovot,20,18,1,fees
+2026-11-04,144,Ashdod,15,15,0,cheques
+2026-11-04,146,Lod,16,14,0,standing orders
+2026-11-04,147,Modi'in,11,9,0,fees
+2026-11-04,150,Jerusalem Talpiot,13,12,0,forms
+2026-11-04,152,Beit Shemesh,7,7,1,loans
+2026-11-05,101,Haifa Hadar,9,9,0,foreign currency
+2026-11-05,102,Haifa Neve Sha'anan,17,15,1,foreign currency
+2026-11-05,104,Kiryat Ata,17,17,0,cards
+2026-11-05,106,Akko,16,15,3,foreign currency
+2026-11-05,107,Nahariya,10,10,1,standing orders
+2026-11-05,109,Karmiel,14,14,1,cards
+2026-11-05,111,Nazareth,10,10,0,loans
+2026-11-05,112,Nof HaGalil,22,22,0,loans
+2026-11-05,114,Afula,13,12,0,power of attorney
+2026-11-05,115,Tiberias,11,9,3,forms
+2026-11-05,117,Shfar'am,20,20,0,standing orders
+2026-11-05,118,Sakhnin,8,7,1,fees
+2026-11-05,121,Umm al-Fahm,11,11,0,foreign currency
+2026-11-05,123,Hadera,21,20,2,fees
+2026-11-05,125,Netanya,11,11,0,cards
+2026-11-05,127,Kfar Saba,15,15,0,cheques
+2026-11-05,128,Ra'anana,8,8,0,loans
+2026-11-05,130,Herzliya,16,16,0,account opening
+2026-11-05,132,Tel Aviv Allenby,22,20,1,loans
+2026-11-05,133,Tel Aviv Ibn Gabirol,12,12,0,loans
+2026-11-05,135,Ramat Gan Bialik,8,8,0,power of attorney
+2026-11-05,136,Petah Tikva,15,15,0,power of attorney
+2026-11-05,138,Holon,16,15,0,cards
+2026-11-05,139,Bat Yam,14,13,0,foreign currency
+2026-11-05,141,Rishon LeZion,15,12,0,loans
+2026-11-05,142,Rehovot,15,15,1,foreign currency
+2026-11-05,144,Ashdod,18,18,1,loans
+2026-11-05,146,Lod,16,16,0,account opening
+2026-11-05,147,Modi'in,8,7,0,account opening
+2026-11-05,150,Jerusalem Talpiot,16,16,0,account opening
+2026-11-05,152,Beit Shemesh,12,12,1,standing orders
+2026-11-08,101,Haifa Hadar,13,12,0,fees
+2026-11-08,102,Haifa Neve Sha'anan,23,22,1,account opening
+2026-11-08,104,Kiryat Ata,10,10,1,account opening
+2026-11-08,106,Akko,7,7,1,fees
+2026-11-08,107,Nahariya,8,8,1,fees
+2026-11-08,109,Karmiel,17,16,4,fees
+2026-11-08,111,Nazareth,8,8,1,fees
+2026-11-08,112,Nof HaGalil,14,13,1,fees
+2026-11-08,114,Afula,13,12,1,foreign currency
+2026-11-08,115,Tiberias,8,8,1,fees
+2026-11-08,117,Shfar'am,10,9,1,fees
+2026-11-08,118,Sakhnin,15,12,1,fees
+2026-11-08,121,Umm al-Fahm,10,10,0,account opening
+2026-11-08,123,Hadera,17,15,2,fees
+2026-11-08,125,Netanya,12,11,0,fees
+2026-11-08,127,Kfar Saba,17,17,0,fees
+2026-11-08,128,Ra'anana,6,5,1,standing orders
+2026-11-08,130,Herzliya,13,12,2,fees
+2026-11-08,132,Tel Aviv Allenby,18,18,1,fees
+2026-11-08,133,Tel Aviv Ibn Gabirol,19,18,2,fees
+2026-11-08,135,Ramat Gan Bialik,11,10,1,fees
+2026-11-08,136,Petah Tikva,15,14,0,standing orders
+2026-11-08,138,Holon,17,15,2,fees
+2026-11-08,139,Bat Yam,16,16,1,fees
+2026-11-08,141,Rishon LeZion,16,16,1,fees
+2026-11-08,142,Rehovot,16,16,1,cards
+2026-11-08,144,Ashdod,19,18,2,fees
+2026-11-08,146,Lod,14,14,2,fees
+2026-11-08,147,Modi'in,12,12,1,fees
+2026-11-08,150,Jerusalem Talpiot,19,18,2,fees
+2026-11-08,152,Beit Shemesh,9,8,0,fees
+2026-11-09,101,Haifa Hadar,12,12,2,fees
+2026-11-09,102,Haifa Neve Sha'anan,13,11,0,fees
+2026-11-09,104,Kiryat Ata,10,9,1,fees
+2026-11-09,106,Akko,10,10,4,fees
+2026-11-09,107,Nahariya,17,16,1,fees
+2026-11-09,109,Karmiel,20,20,2,standing orders
+2026-11-09,111,Nazareth,8,8,0,foreign currency
+2026-11-09,112,Nof HaGalil,21,21,1,fees
+2026-11-09,114,Afula,11,10,0,foreign currency
+2026-11-09,115,Tiberias,9,8,1,foreign currency
+2026-11-09,117,Shfar'am,11,11,1,standing orders
+2026-11-09,118,Sakhnin,13,12,0,foreign currency
+2026-11-09,121,Umm al-Fahm,15,15,1,fees
+2026-11-09,123,Hadera,21,17,5,foreign currency
+2026-11-09,125,Netanya,13,13,1,fees
+2026-11-09,127,Kfar Saba,17,16,1,fees
+2026-11-09,128,Ra'anana,7,6,1,fees
+2026-11-09,130,Herzliya,12,11,0,fees
+2026-11-09,132,Tel Aviv Allenby,19,17,3,power of attorney
+2026-11-09,133,Tel Aviv Ibn Gabirol,14,13,0,fees
+2026-11-09,135,Ramat Gan Bialik,12,12,3,fees
+2026-11-09,136,Petah Tikva,12,11,0,fees
+2026-11-09,138,Holon,15,15,2,fees
+2026-11-09,139,Bat Yam,11,11,3,fees
+2026-11-09,141,Rishon LeZion,18,17,1,cheques
+2026-11-09,142,Rehovot,16,14,1,power of attorney
+2026-11-09,144,Ashdod,17,16,1,fees
+2026-11-09,146,Lod,12,11,1,cheques
+2026-11-09,147,Modi'in,8,6,1,foreign currency
+2026-11-09,150,Jerusalem Talpiot,12,11,1,fees
+2026-11-09,152,Beit Shemesh,7,6,1,fees
+2026-11-10,101,Haifa Hadar,8,7,1,fees
+2026-11-10,102,Haifa Neve Sha'anan,13,13,1,fees
+2026-11-10,104,Kiryat Ata,17,17,1,fees
+2026-11-10,106,Akko,12,10,2,fees
+2026-11-10,107,Nahariya,16,15,0,fees
+2026-11-10,109,Karmiel,12,12,2,fees
+2026-11-10,111,Nazareth,8,8,1,fees
+2026-11-10,112,Nof HaGalil,17,16,0,fees
+2026-11-10,114,Afula,9,8,1,fees
+2026-11-10,115,Tiberias,16,16,0,fees
+2026-11-10,117,Shfar'am,16,16,2,fees
+2026-11-10,118,Sakhnin,13,13,2,loans
+2026-11-10,121,Umm al-Fahm,18,17,3,fees
+2026-11-10,123,Hadera,18,17,1,foreign currency
+2026-11-10,125,Netanya,6,6,2,fees
+2026-11-10,127,Kfar Saba,14,14,2,fees
+2026-11-10,128,Ra'anana,9,8,0,fees
+2026-11-10,130,Herzliya,12,12,1,cheques
+2026-11-10,132,Tel Aviv Allenby,16,16,0,fees
+2026-11-10,133,Tel Aviv Ibn Gabirol,18,16,0,forms
+2026-11-10,135,Ramat Gan Bialik,11,10,1,fees
+2026-11-10,136,Petah Tikva,10,9,0,fees
+2026-11-10,138,Holon,9,8,1,fees
+2026-11-10,139,Bat Yam,13,13,1,cheques
+2026-11-10,141,Rishon LeZion,13,12,1,fees
+2026-11-10,142,Rehovot,19,17,2,fees
+2026-11-10,144,Ashdod,16,16,3,forms
+2026-11-10,146,Lod,14,14,2,fees
+2026-11-10,147,Modi'in,10,10,2,fees
+2026-11-10,150,Jerusalem Talpiot,22,20,3,cheques
+2026-11-10,152,Beit Shemesh,8,8,1,fees
+2026-11-11,101,Haifa Hadar,10,8,0,fees
+2026-11-11,102,Haifa Neve Sha'anan,12,12,1,fees
+2026-11-11,104,Kiryat Ata,15,14,2,fees
+2026-11-11,106,Akko,13,12,1,fees
+2026-11-11,107,Nahariya,15,15,3,fees
+2026-11-11,109,Karmiel,15,15,2,fees
+2026-11-11,111,Nazareth,9,9,1,fees
+2026-11-11,112,Nof HaGalil,17,15,3,cards
+2026-11-11,114,Afula,13,13,3,power of attorney
+2026-11-11,115,Tiberias,11,9,1,fees
+2026-11-11,117,Shfar'am,19,19,0,fees
+2026-11-11,118,Sakhnin,10,10,0,fees
+2026-11-11,121,Umm al-Fahm,18,17,0,fees
+2026-11-11,123,Hadera,19,19,4,loans
+2026-11-11,125,Netanya,12,11,1,fees
+2026-11-11,127,Kfar Saba,10,10,0,fees
+2026-11-11,128,Ra'anana,6,6,0,fees
+2026-11-11,130,Herzliya,9,8,1,fees
+2026-11-11,132,Tel Aviv Allenby,14,14,3,fees
+2026-11-11,133,Tel Aviv Ibn Gabirol,18,17,3,fees
+2026-11-11,135,Ramat Gan Bialik,7,6,0,cheques
+2026-11-11,136,Petah Tikva,8,8,1,fees
+2026-11-11,138,Holon,8,8,0,fees
+2026-11-11,139,Bat Yam,8,8,0,fees
+2026-11-11,141,Rishon LeZion,18,16,3,fees
+2026-11-11,142,Rehovot,20,19,1,fees
+2026-11-11,144,Ashdod,11,9,0,loans
+2026-11-11,146,Lod,7,7,0,fees
+2026-11-11,147,Modi'in,10,7,0,fees
+2026-11-11,150,Jerusalem Talpiot,21,21,4,fees
+2026-11-11,152,Beit Shemesh,10,10,0,fees
+2026-11-12,101,Haifa Hadar,7,7,1,standing orders
+2026-11-12,102,Haifa Neve Sha'anan,22,20,2,fees
+2026-11-12,104,Kiryat Ata,11,10,0,fees
+2026-11-12,106,Akko,9,9,1,fees
+2026-11-12,107,Nahariya,18,18,6,fees
+2026-11-12,109,Karmiel,17,15,2,fees
+2026-11-12,111,Nazareth,8,8,0,fees
+2026-11-12,112,Nof HaGalil,12,12,3,fees
+2026-11-12,114,Afula,16,14,1,fees
+2026-11-12,115,Tiberias,13,13,2,forms
+2026-11-12,117,Shfar'am,12,12,0,fees
+2026-11-12,118,Sakhnin,11,10,1,fees
+2026-11-12,121,Umm al-Fahm,12,11,1,standing orders
+2026-11-12,123,Hadera,20,18,2,fees
+2026-11-12,125,Netanya,8,6,0,fees
+2026-11-12,127,Kfar Saba,12,11,1,fees
+2026-11-12,128,Ra'anana,9,9,1,fees
+2026-11-12,130,Herzliya,17,16,2,fees
+2026-11-12,132,Tel Aviv Allenby,17,16,0,loans
+2026-11-12,133,Tel Aviv Ibn Gabirol,22,19,2,fees
+2026-11-12,135,Ramat Gan Bialik,7,6,1,fees
+2026-11-12,136,Petah Tikva,10,9,0,fees
+2026-11-12,138,Holon,15,14,2,cheques
+2026-11-12,139,Bat Yam,12,10,2,foreign currency
+2026-11-12,141,Rishon LeZion,20,18,2,fees
+2026-11-12,142,Rehovot,14,14,3,fees
+2026-11-12,144,Ashdod,18,18,3,fees
+2026-11-12,146,Lod,15,14,0,fees
+2026-11-12,147,Modi'in,9,9,1,loans
+2026-11-12,150,Jerusalem Talpiot,16,15,1,fees
+2026-11-12,152,Beit Shemesh,8,7,1,fees
+2026-11-15,101,Haifa Hadar,16,16,2,fees
+2026-11-15,102,Haifa Neve Sha'anan,15,15,1,fees
+2026-11-15,104,Kiryat Ata,12,12,4,fees
+2026-11-15,106,Akko,15,15,1,fees
+2026-11-15,107,Nahariya,15,15,3,loans
+2026-11-15,109,Karmiel,12,10,1,fees
+2026-11-15,111,Nazareth,9,7,0,power of attorney
+2026-11-15,112,Nof HaGalil,13,12,3,loans
+2026-11-15,114,Afula,19,18,1,foreign currency
+2026-11-15,115,Tiberias,16,15,2,forms
+2026-11-15,117,Shfar'am,14,14,1,fees
+2026-11-15,118,Sakhnin,9,9,2,account opening
+2026-11-15,121,Umm al-Fahm,15,15,2,fees
+2026-11-15,123,Hadera,21,21,2,fees
+2026-11-15,125,Netanya,10,10,2,fees
+2026-11-15,127,Kfar Saba,11,11,0,fees
+2026-11-15,128,Ra'anana,8,8,0,fees
+2026-11-15,130,Herzliya,18,15,2,fees
+2026-11-15,132,Tel Aviv Allenby,11,11,2,fees
+2026-11-15,133,Tel Aviv Ibn Gabirol,13,12,3,fees
+2026-11-15,135,Ramat Gan Bialik,8,6,1,fees
+2026-11-15,136,Petah Tikva,12,12,1,fees
+2026-11-15,138,Holon,10,10,1,standing orders
+2026-11-15,139,Bat Yam,10,10,0,fees
+2026-11-15,141,Rishon LeZion,22,18,2,fees
+2026-11-15,142,Rehovot,10,10,0,fees
+2026-11-15,144,Ashdod,13,8,2,fees
+2026-11-15,146,Lod,11,10,2,fees
+2026-11-15,147,Modi'in,12,12,1,foreign currency
+2026-11-15,150,Jerusalem Talpiot,22,20,2,fees
+2026-11-15,152,Beit Shemesh,9,9,2,fees
+2026-11-16,101,Haifa Hadar,15,15,2,fees
+2026-11-16,102,Haifa Neve Sha'anan,17,16,0,fees
+2026-11-16,104,Kiryat Ata,17,17,1,cards
+2026-11-16,106,Akko,9,9,0,fees
+2026-11-16,107,Nahariya,10,10,0,power of attorney
+2026-11-16,109,Karmiel,19,17,2,fees
+2026-11-16,111,Nazareth,8,7,0,cards
+2026-11-16,112,Nof HaGalil,10,10,1,standing orders
+2026-11-16,114,Afula,17,16,1,fees
+2026-11-16,115,Tiberias,13,13,1,fees
+2026-11-16,117,Shfar'am,14,14,1,fees
+2026-11-16,118,Sakhnin,11,11,0,fees
+2026-11-16,121,Umm al-Fahm,17,16,0,standing orders
+2026-11-16,123,Hadera,21,18,1,cards
+2026-11-16,125,Netanya,8,8,1,fees
+2026-11-16,127,Kfar Saba,14,13,1,loans
+2026-11-16,128,Ra'anana,11,11,0,fees
+2026-11-16,130,Herzliya,15,14,1,fees
+2026-11-16,132,Tel Aviv Allenby,13,13,2,account opening
+2026-11-16,133,Tel Aviv Ibn Gabirol,16,16,2,fees
+2026-11-16,135,Ramat Gan Bialik,8,8,0,fees
+2026-11-16,136,Petah Tikva,8,6,1,cheques
+2026-11-16,138,Holon,9,9,2,fees
+2026-11-16,139,Bat Yam,15,14,6,fees
+2026-11-16,141,Rishon LeZion,14,14,3,forms
+2026-11-16,142,Rehovot,22,21,0,cheques
+2026-11-16,144,Ashdod,13,11,0,fees
+2026-11-16,146,Lod,10,8,0,fees
+2026-11-16,147,Modi'in,10,9,2,fees
+2026-11-16,150,Jerusalem Talpiot,20,18,1,fees
+2026-11-16,152,Beit Shemesh,6,5,0,standing orders
+2026-11-17,101,Haifa Hadar,15,14,3,account opening
+2026-11-17,102,Haifa Neve Sha'anan,21,21,2,loans
+2026-11-17,104,Kiryat Ata,12,12,3,fees
+2026-11-17,106,Akko,14,12,1,fees
+2026-11-17,107,Nahariya,8,8,0,fees
+2026-11-17,109,Karmiel,10,8,2,fees
+2026-11-17,111,Nazareth,7,7,1,fees
+2026-11-17,112,Nof HaGalil,21,20,1,fees
+2026-11-17,114,Afula,13,10,0,cheques
+2026-11-17,115,Tiberias,14,13,0,loans
+2026-11-17,117,Shfar'am,17,15,1,fees
+2026-11-17,118,Sakhnin,16,15,0,fees
+2026-11-17,121,Umm al-Fahm,11,11,1,fees
+2026-11-17,123,Hadera,23,21,0,fees
+2026-11-17,125,Netanya,9,8,2,standing orders
+2026-11-17,127,Kfar Saba,10,10,2,fees
+2026-11-17,128,Ra'anana,11,11,1,fees
+2026-11-17,130,Herzliya,18,17,1,fees
+2026-11-17,132,Tel Aviv Allenby,19,18,1,fees
+2026-11-17,133,Tel Aviv Ibn Gabirol,16,15,3,fees
+2026-11-17,135,Ramat Gan Bialik,12,11,0,fees
+2026-11-17,136,Petah Tikva,15,14,1,fees
+2026-11-17,138,Holon,11,8,2,fees
+2026-11-17,139,Bat Yam,13,12,0,fees
+2026-11-17,141,Rishon LeZion,19,18,1,fees
+2026-11-17,142,Rehovot,19,19,2,fees
+2026-11-17,144,Ashdod,15,15,1,cheques
+2026-11-17,146,Lod,9,9,1,fees
+2026-11-17,147,Modi'in,13,12,0,fees
+2026-11-17,150,Jerusalem Talpiot,24,22,0,fees
+2026-11-17,152,Beit Shemesh,9,9,1,fees
+2026-11-18,101,Haifa Hadar,15,15,1,fees
+2026-11-18,102,Haifa Neve Sha'anan,21,17,1,fees
+2026-11-18,104,Kiryat Ata,16,16,1,foreign currency
+2026-11-18,106,Akko,12,11,1,fees
+2026-11-18,107,Nahariya,14,13,1,fees
+2026-11-18,109,Karmiel,21,19,2,fees
+2026-11-18,111,Nazareth,9,8,0,fees
+2026-11-18,112,Nof HaGalil,21,19,1,standing orders
+2026-11-18,114,Afula,14,14,0,account opening
+2026-11-18,115,Tiberias,11,10,0,fees
+2026-11-18,117,Shfar'am,13,13,1,fees
+2026-11-18,118,Sakhnin,18,16,1,fees
+2026-11-18,121,Umm al-Fahm,20,19,3,fees
+2026-11-18,123,Hadera,14,13,2,fees
+2026-11-18,125,Netanya,12,12,1,fees
+2026-11-18,127,Kfar Saba,11,11,2,fees
+2026-11-18,128,Ra'anana,9,7,1,fees
+2026-11-18,130,Herzliya,9,7,0,fees
+2026-11-18,132,Tel Aviv Allenby,19,18,3,standing orders
+2026-11-18,133,Tel Aviv Ibn Gabirol,13,12,1,fees
+2026-11-18,135,Ramat Gan Bialik,11,9,1,fees
+2026-11-18,136,Petah Tikva,9,9,1,fees
+2026-11-18,138,Holon,10,10,3,fees
+2026-11-18,139,Bat Yam,10,10,1,fees
+2026-11-18,141,Rishon LeZion,18,17,1,fees
+2026-11-18,142,Rehovot,13,13,1,forms
+2026-11-18,144,Ashdod,19,18,2,fees
+2026-11-18,146,Lod,10,8,2,cards
+2026-11-18,147,Modi'in,14,12,2,cheques
+2026-11-18,150,Jerusalem Talpiot,19,19,1,fees
+2026-11-18,152,Beit Shemesh,5,5,0,fees
+2026-11-19,101,Haifa Hadar,10,10,0,fees
+2026-11-19,102,Haifa Neve Sha'anan,21,20,1,account opening
+2026-11-19,104,Kiryat Ata,15,15,0,account opening
+2026-11-19,106,Akko,9,8,0,power of attorney
+2026-11-19,107,Nahariya,15,15,2,fees
+2026-11-19,109,Karmiel,18,16,1,fees
+2026-11-19,111,Nazareth,7,7,1,standing orders
+2026-11-19,112,Nof HaGalil,20,19,0,fees
+2026-11-19,114,Afula,9,8,0,fees
+2026-11-19,115,Tiberias,9,9,0,cards
+2026-11-19,117,Shfar'am,16,14,1,fees
+2026-11-19,118,Sakhnin,17,15,2,fees
+2026-11-19,121,Umm al-Fahm,18,17,3,fees
+2026-11-19,123,Hadera,18,18,2,cards
+2026-11-19,125,Netanya,8,8,2,fees
+2026-11-19,127,Kfar Saba,15,12,2,fees
+2026-11-19,128,Ra'anana,9,8,1,fees
+2026-11-19,130,Herzliya,16,14,1,fees
+2026-11-19,132,Tel Aviv Allenby,20,18,1,loans
+2026-11-19,133,Tel Aviv Ibn Gabirol,22,22,2,standing orders
+2026-11-19,135,Ramat Gan Bialik,11,10,1,fees
+2026-11-19,136,Petah Tikva,16,15,1,standing orders
+2026-11-19,138,Holon,13,12,2,fees
+2026-11-19,139,Bat Yam,15,15,0,fees
+2026-11-19,141,Rishon LeZion,11,11,1,fees
+2026-11-19,142,Rehovot,20,18,2,fees
+2026-11-19,144,Ashdod,12,12,1,account opening
+2026-11-19,146,Lod,8,8,1,account opening
+2026-11-19,147,Modi'in,11,11,0,fees
+2026-11-19,150,Jerusalem Talpiot,23,20,1,power of attorney
+2026-11-19,152,Beit Shemesh,9,9,0,fees
+2026-11-22,101,Haifa Hadar,12,12,1,foreign currency
+2026-11-22,102,Haifa Neve Sha'anan,18,17,4,fees
+2026-11-22,104,Kiryat Ata,16,16,2,fees
+2026-11-22,106,Akko,15,11,0,fees
+2026-11-22,107,Nahariya,12,12,0,fees
+2026-11-22,109,Karmiel,17,16,2,fees
+2026-11-22,111,Nazareth,9,9,0,fees
+2026-11-22,112,Nof HaGalil,14,14,0,fees
+2026-11-22,114,Afula,13,11,0,account opening
+2026-11-22,115,Tiberias,7,6,0,fees
+2026-11-22,117,Shfar'am,18,17,1,fees
+2026-11-22,118,Sakhnin,10,9,1,fees
+2026-11-22,121,Umm al-Fahm,20,18,5,fees
+2026-11-22,123,Hadera,14,13,1,fees
+2026-11-22,125,Netanya,8,8,1,fees
+2026-11-22,127,Kfar Saba,7,6,0,fees
+2026-11-22,128,Ra'anana,11,10,1,fees
+2026-11-22,130,Herzliya,15,13,2,fees
+2026-11-22,132,Tel Aviv Allenby,12,11,2,forms
+2026-11-22,133,Tel Aviv Ibn Gabirol,11,10,1,fees
+2026-11-22,135,Ramat Gan Bialik,11,10,0,fees
+2026-11-22,136,Petah Tikva,11,10,3,fees
+2026-11-22,138,Holon,14,12,2,forms
+2026-11-22,139,Bat Yam,10,9,2,fees
+2026-11-22,141,Rishon LeZion,17,16,2,fees
+2026-11-22,142,Rehovot,14,10,1,cheques
+2026-11-22,144,Ashdod,11,11,0,fees
+2026-11-22,146,Lod,10,9,1,fees
+2026-11-22,147,Modi'in,12,11,2,fees
+2026-11-22,150,Jerusalem Talpiot,16,16,1,fees
+2026-11-22,152,Beit Shemesh,8,8,0,fees
+2026-11-23,101,Haifa Hadar,11,11,0,fees
+2026-11-23,102,Haifa Neve Sha'anan,12,12,1,fees
+2026-11-23,104,Kiryat Ata,16,15,1,account opening
+2026-11-23,106,Akko,13,12,1,fees
+2026-11-23,107,Nahariya,13,12,1,forms
+2026-11-23,109,Karmiel,17,14,0,fees
+2026-11-23,111,Nazareth,10,10,1,standing orders
+2026-11-23,112,Nof HaGalil,15,13,0,fees
+2026-11-23,114,Afula,11,11,2,fees
+2026-11-23,115,Tiberias,10,8,1,fees
+2026-11-23,117,Shfar'am,22,21,2,fees
+2026-11-23,118,Sakhnin,10,10,1,power of attorney
+2026-11-23,121,Umm al-Fahm,16,16,1,fees
+2026-11-23,123,Hadera,20,17,3,forms
+2026-11-23,125,Netanya,12,10,1,fees
+2026-11-23,127,Kfar Saba,14,14,1,account opening
+2026-11-23,128,Ra'anana,9,9,1,fees
+2026-11-23,130,Herzliya,16,15,1,fees
+2026-11-23,132,Tel Aviv Allenby,13,13,2,power of attorney
+2026-11-23,133,Tel Aviv Ibn Gabirol,16,14,1,fees
+2026-11-23,135,Ramat Gan Bialik,11,11,2,fees
+2026-11-23,136,Petah Tikva,15,15,3,fees
+2026-11-23,138,Holon,9,9,0,fees
+2026-11-23,139,Bat Yam,10,10,0,fees
+2026-11-23,141,Rishon LeZion,18,18,3,fees
+2026-11-23,142,Rehovot,17,14,2,forms
+2026-11-23,144,Ashdod,10,10,0,standing orders
+2026-11-23,146,Lod,10,10,1,foreign currency
+2026-11-23,147,Modi'in,12,12,0,fees
+2026-11-23,150,Jerusalem Talpiot,11,10,0,account opening
+2026-11-23,152,Beit Shemesh,11,10,1,fees
+2026-11-24,101,Haifa Hadar,10,9,0,standing orders
+2026-11-24,102,Haifa Neve Sha'anan,19,17,0,forms
+2026-11-24,104,Kiryat Ata,18,16,2,fees
+2026-11-24,106,Akko,9,8,0,fees
+2026-11-24,107,Nahariya,14,14,1,cheques
+2026-11-24,109,Karmiel,11,10,0,fees
+2026-11-24,111,Nazareth,7,6,0,fees
+2026-11-24,112,Nof HaGalil,19,18,1,fees
+2026-11-24,114,Afula,11,10,2,standing orders
+2026-11-24,115,Tiberias,15,14,3,cards
+2026-11-24,117,Shfar'am,22,20,0,fees
+2026-11-24,118,Sakhnin,9,9,0,fees
+2026-11-24,121,Umm al-Fahm,14,12,0,fees
+2026-11-24,123,Hadera,23,22,4,fees
+2026-11-24,125,Netanya,10,9,0,fees
+2026-11-24,127,Kfar Saba,14,12,2,fees
+2026-11-24,128,Ra'anana,8,8,1,fees
+2026-11-24,130,Herzliya,16,16,4,fees
+2026-11-24,132,Tel Aviv Allenby,22,21,3,forms
+2026-11-24,133,Tel Aviv Ibn Gabirol,19,16,2,fees
+2026-11-24,135,Ramat Gan Bialik,13,12,1,fees
+2026-11-24,136,Petah Tikva,17,13,3,fees
+2026-11-24,138,Holon,17,16,3,fees
+2026-11-24,139,Bat Yam,14,14,1,cards
+2026-11-24,141,Rishon LeZion,19,17,1,fees
+2026-11-24,142,Rehovot,22,22,3,loans
+2026-11-24,144,Ashdod,15,14,4,fees
+2026-11-24,146,Lod,14,14,2,fees
+2026-11-24,147,Modi'in,10,10,1,fees
+2026-11-24,150,Jerusalem Talpiot,22,21,1,fees
+2026-11-24,152,Beit Shemesh,9,8,1,fees
+2026-11-25,101,Haifa Hadar,16,15,4,fees
+2026-11-25,102,Haifa Neve Sha'anan,12,12,0,fees
+2026-11-25,104,Kiryat Ata,11,11,2,fees
+2026-11-25,106,Akko,9,8,0,cards
+2026-11-25,107,Nahariya,12,11,0,fees
+2026-11-25,109,Karmiel,17,15,2,cards
+2026-11-25,111,Nazareth,10,9,0,fees
+2026-11-25,112,Nof HaGalil,19,18,2,fees
+2026-11-25,114,Afula,18,17,2,fees
+2026-11-25,115,Tiberias,13,12,2,fees
+2026-11-25,117,Shfar'am,12,12,0,fees
+2026-11-25,118,Sakhnin,17,16,0,fees
+2026-11-25,121,Umm al-Fahm,18,18,0,fees
+2026-11-25,123,Hadera,16,15,1,fees
+2026-11-25,125,Netanya,9,9,2,fees
+2026-11-25,127,Kfar Saba,14,13,0,cheques
+2026-11-25,128,Ra'anana,6,6,2,foreign currency
+2026-11-25,130,Herzliya,16,14,1,foreign currency
+2026-11-25,132,Tel Aviv Allenby,14,14,0,forms
+2026-11-25,133,Tel Aviv Ibn Gabirol,17,17,0,fees
+2026-11-25,135,Ramat Gan Bialik,6,6,0,fees
+2026-11-25,136,Petah Tikva,14,13,2,foreign currency
+2026-11-25,138,Holon,16,15,1,fees
+2026-11-25,139,Bat Yam,11,11,1,fees
+2026-11-25,141,Rishon LeZion,18,17,2,foreign currency
+2026-11-25,142,Rehovot,20,20,2,fees
+2026-11-25,144,Ashdod,12,10,1,fees
+2026-11-25,146,Lod,15,14,0,fees
+2026-11-25,147,Modi'in,10,9,1,foreign currency
+2026-11-25,150,Jerusalem Talpiot,24,23,1,fees
+2026-11-25,152,Beit Shemesh,10,9,1,fees
+2026-11-26,101,Haifa Hadar,14,14,1,fees
+2026-11-26,102,Haifa Neve Sha'anan,14,13,3,fees
+2026-11-26,104,Kiryat Ata,11,10,2,fees
+2026-11-26,106,Akko,11,9,1,account opening
+2026-11-26,107,Nahariya,9,9,0,fees
+2026-11-26,109,Karmiel,14,13,0,fees
+2026-11-26,111,Nazareth,8,8,0,fees
+2026-11-26,112,Nof HaGalil,23,22,2,fees
+2026-11-26,114,Afula,16,15,0,power of attorney
+2026-11-26,115,Tiberias,11,10,2,power of attorney
+2026-11-26,117,Shfar'am,21,20,1,fees
+2026-11-26,118,Sakhnin,14,14,1,fees
+2026-11-26,121,Umm al-Fahm,10,8,2,fees
+2026-11-26,123,Hadera,24,22,1,loans
+2026-11-26,125,Netanya,8,7,0,fees
+2026-11-26,127,Kfar Saba,12,12,0,fees
+2026-11-26,128,Ra'anana,7,7,1,fees
+2026-11-26,130,Herzliya,12,11,0,forms
+2026-11-26,132,Tel Aviv Allenby,19,19,1,fees
+2026-11-26,133,Tel Aviv Ibn Gabirol,19,19,3,power of attorney
+2026-11-26,135,Ramat Gan Bialik,8,6,0,fees
+2026-11-26,136,Petah Tikva,12,12,1,fees
+2026-11-26,138,Holon,12,10,1,power of attorney
+2026-11-26,139,Bat Yam,10,10,2,standing orders
+2026-11-26,141,Rishon LeZion,23,21,3,fees
+2026-11-26,142,Rehovot,21,19,2,fees
+2026-11-26,144,Ashdod,13,13,1,fees
+2026-11-26,146,Lod,12,11,2,forms
+2026-11-26,147,Modi'in,9,9,1,foreign currency
+2026-11-26,150,Jerusalem Talpiot,24,23,6,fees
+2026-11-26,152,Beit Shemesh,9,9,1,fees
+2026-11-29,101,Haifa Hadar,14,14,1,cards
+2026-11-29,102,Haifa Neve Sha'anan,11,11,2,cheques
+2026-11-29,104,Kiryat Ata,18,17,0,cheques
+2026-11-29,106,Akko,12,11,0,power of attorney
+2026-11-29,107,Nahariya,8,8,0,fees
+2026-11-29,109,Karmiel,14,14,0,fees
+2026-11-29,111,Nazareth,10,10,0,foreign currency
+2026-11-29,112,Nof HaGalil,12,10,0,cards
+2026-11-29,114,Afula,16,15,0,fees
+2026-11-29,115,Tiberias,14,14,0,loans
+2026-11-29,117,Shfar'am,16,16,1,fees
+2026-11-29,118,Sakhnin,14,14,0,cheques
+2026-11-29,121,Umm al-Fahm,21,19,1,cheques
+2026-11-29,123,Hadera,17,15,0,fees
+2026-11-29,125,Netanya,8,8,1,loans
+2026-11-29,127,Kfar Saba,11,11,0,fees
+2026-11-29,128,Ra'anana,11,10,0,cheques
+2026-11-29,130,Herzliya,12,12,0,loans
+2026-11-29,132,Tel Aviv Allenby,14,12,0,loans
+2026-11-29,133,Tel Aviv Ibn Gabirol,21,21,2,loans
+2026-11-29,135,Ramat Gan Bialik,10,10,0,cheques
+2026-11-29,136,Petah Tikva,10,10,0,cards
+2026-11-29,138,Holon,8,6,0,fees
+2026-11-29,139,Bat Yam,8,8,0,loans
+2026-11-29,141,Rishon LeZion,13,13,0,fees
+2026-11-29,142,Rehovot,15,13,1,cheques
+2026-11-29,144,Ashdod,16,16,1,account opening
+2026-11-29,146,Lod,9,9,0,power of attorney
+2026-11-29,147,Modi'in,13,12,0,account opening
+2026-11-29,150,Jerusalem Talpiot,23,22,1,forms
+2026-11-29,152,Beit Shemesh,10,10,0,forms
+2026-11-30,101,Haifa Hadar,9,8,0,power of attorney
+2026-11-30,102,Haifa Neve Sha'anan,14,14,1,cards
+2026-11-30,104,Kiryat Ata,10,10,0,fees
+2026-11-30,106,Akko,12,11,0,cards
+2026-11-30,107,Nahariya,18,16,1,cards
+2026-11-30,109,Karmiel,11,11,1,power of attorney
+2026-11-30,111,Nazareth,6,4,1,loans
+2026-11-30,112,Nof HaGalil,11,9,1,cheques
+2026-11-30,114,Afula,11,11,1,cheques
+2026-11-30,115,Tiberias,8,7,1,forms
+2026-11-30,117,Shfar'am,11,11,0,standing orders
+2026-11-30,118,Sakhnin,10,9,1,power of attorney
+2026-11-30,121,Umm al-Fahm,10,8,0,loans
+2026-11-30,123,Hadera,13,12,2,standing orders
+2026-11-30,125,Netanya,8,7,0,cheques
+2026-11-30,127,Kfar Saba,14,13,0,standing orders
+2026-11-30,128,Ra'anana,5,5,0,cards
+2026-11-30,130,Herzliya,18,17,0,power of attorney
+2026-11-30,132,Tel Aviv Allenby,10,9,1,account opening
+2026-11-30,133,Tel Aviv Ibn Gabirol,15,15,0,power of attorney
+2026-11-30,135,Ramat Gan Bialik,10,10,0,cards
+2026-11-30,136,Petah Tikva,15,14,0,account opening
+2026-11-30,138,Holon,14,13,0,cheques
+2026-11-30,139,Bat Yam,8,7,0,foreign currency
+2026-11-30,141,Rishon LeZion,10,9,0,account opening
+2026-11-30,142,Rehovot,15,15,0,fees
+2026-11-30,144,Ashdod,12,11,0,account opening
+2026-11-30,146,Lod,17,16,0,cheques
+2026-11-30,147,Modi'in,13,13,0,fees
+2026-11-30,150,Jerusalem Talpiot,15,15,0,fees
+2026-11-30,152,Beit Shemesh,10,10,1,account opening
+2026-12-01,101,Haifa Hadar,15,15,2,fees
+2026-12-01,102,Haifa Neve Sha'anan,19,19,1,power of attorney
+2026-12-01,104,Kiryat Ata,9,9,0,cheques
+2026-12-01,106,Akko,10,10,1,fees
+2026-12-01,107,Nahariya,18,18,2,account opening
+2026-12-01,109,Karmiel,20,18,1,loans
+2026-12-01,111,Nazareth,10,10,0,cards
+2026-12-01,112,Nof HaGalil,17,16,2,standing orders
+2026-12-01,114,Afula,18,17,0,cheques
+2026-12-01,115,Tiberias,13,13,0,forms
+2026-12-01,117,Shfar'am,12,12,0,loans
+2026-12-01,118,Sakhnin,15,14,0,fees
+2026-12-01,121,Umm al-Fahm,21,20,1,standing orders
+2026-12-01,123,Hadera,22,21,1,cards
+2026-12-01,125,Netanya,14,14,0,fees
+2026-12-01,127,Kfar Saba,8,8,1,power of attorney
+2026-12-01,128,Ra'anana,5,5,0,cheques
+2026-12-01,130,Herzliya,10,9,0,cards
+2026-12-01,132,Tel Aviv Allenby,22,20,1,power of attorney
+2026-12-01,133,Tel Aviv Ibn Gabirol,18,16,1,foreign currency
+2026-12-01,135,Ramat Gan Bialik,7,7,0,fees
+2026-12-01,136,Petah Tikva,12,11,0,cheques
+2026-12-01,138,Holon,15,14,0,loans
+2026-12-01,139,Bat Yam,9,9,1,standing orders
+2026-12-01,141,Rishon LeZion,22,19,1,forms
+2026-12-01,142,Rehovot,13,12,1,cheques
+2026-12-01,144,Ashdod,15,15,0,fees
+2026-12-01,146,Lod,16,16,3,cheques
+2026-12-01,147,Modi'in,7,7,0,power of attorney
+2026-12-01,150,Jerusalem Talpiot,13,13,1,forms
+2026-12-01,152,Beit Shemesh,9,9,0,power of attorney
+2026-12-02,101,Haifa Hadar,13,13,0,loans
+2026-12-02,102,Haifa Neve Sha'anan,23,22,0,cheques
+2026-12-02,104,Kiryat Ata,16,15,0,foreign currency
+2026-12-02,106,Akko,12,11,1,forms
+2026-12-02,107,Nahariya,17,15,0,power of attorney
+2026-12-02,109,Karmiel,19,17,2,account opening
+2026-12-02,111,Nazareth,9,8,0,loans
+2026-12-02,112,Nof HaGalil,19,17,0,standing orders
+2026-12-02,114,Afula,12,12,0,foreign currency
+2026-12-02,115,Tiberias,10,10,1,foreign currency
+2026-12-02,117,Shfar'am,10,10,0,cheques
+2026-12-02,118,Sakhnin,9,9,0,cards
+2026-12-02,121,Umm al-Fahm,9,8,1,foreign currency
+2026-12-02,123,Hadera,10,8,0,loans
+2026-12-02,125,Netanya,12,10,0,fees
+2026-12-02,127,Kfar Saba,15,12,1,account opening
+2026-12-02,128,Ra'anana,9,9,0,forms
+2026-12-02,130,Herzliya,18,16,1,power of attorney
+2026-12-02,132,Tel Aviv Allenby,11,10,0,cards
+2026-12-02,133,Tel Aviv Ibn Gabirol,19,19,1,account opening
+2026-12-02,135,Ramat Gan Bialik,6,6,1,fees
+2026-12-02,136,Petah Tikva,14,12,1,power of attorney
+2026-12-02,138,Holon,13,12,0,fees
+2026-12-02,139,Bat Yam,11,10,0,standing orders
+2026-12-02,141,Rishon LeZion,22,21,2,loans
+2026-12-02,142,Rehovot,10,10,0,forms
+2026-12-02,144,Ashdod,9,8,1,fees
+2026-12-02,146,Lod,9,6,0,loans
+2026-12-02,147,Modi'in,7,7,1,forms
+2026-12-02,150,Jerusalem Talpiot,19,18,1,cheques
+2026-12-02,152,Beit Shemesh,10,10,0,cards
+2026-12-03,101,Haifa Hadar,13,13,0,account opening
+2026-12-03,102,Haifa Neve Sha'anan,13,12,0,account opening
+2026-12-03,104,Kiryat Ata,15,15,0,account opening
+2026-12-03,106,Akko,12,11,0,standing orders
+2026-12-03,107,Nahariya,10,10,1,power of attorney
+2026-12-03,109,Karmiel,15,15,0,account opening
+2026-12-03,111,Nazareth,5,5,0,cheques
+2026-12-03,112,Nof HaGalil,18,18,0,cheques
+2026-12-03,114,Afula,14,14,1,fees
+2026-12-03,115,Tiberias,11,11,0,fees
+2026-12-03,117,Shfar'am,10,10,0,fees
+2026-12-03,118,Sakhnin,14,14,2,loans
+2026-12-03,121,Umm al-Fahm,14,14,0,foreign currency
+2026-12-03,123,Hadera,18,18,2,cards
+2026-12-03,125,Netanya,7,5,0,foreign currency
+2026-12-03,127,Kfar Saba,15,15,1,fees
+2026-12-03,128,Ra'anana,10,9,0,account opening
+2026-12-03,130,Herzliya,9,8,1,standing orders
+2026-12-03,132,Tel Aviv Allenby,12,12,1,account opening
+2026-12-03,133,Tel Aviv Ibn Gabirol,13,13,0,forms
+2026-12-03,135,Ramat Gan Bialik,9,9,0,loans
+2026-12-03,136,Petah Tikva,17,14,0,loans
+2026-12-03,138,Holon,9,8,0,foreign currency
+2026-12-03,139,Bat Yam,14,13,0,forms
+2026-12-03,141,Rishon LeZion,22,22,1,cheques
+2026-12-03,142,Rehovot,20,18,1,foreign currency
+2026-12-03,144,Ashdod,12,12,0,standing orders
+2026-12-03,146,Lod,9,6,0,standing orders
+2026-12-03,147,Modi'in,6,6,0,cards
+2026-12-03,150,Jerusalem Talpiot,13,13,1,forms
+2026-12-03,152,Beit Shemesh,7,6,0,standing orders
+2026-12-06,101,Haifa Hadar,15,13,0,loans
+2026-12-06,102,Haifa Neve Sha'anan,11,11,1,loans
+2026-12-06,104,Kiryat Ata,20,17,0,standing orders
+2026-12-06,106,Akko,13,13,0,cards
+2026-12-06,107,Nahariya,17,16,3,power of attorney
+2026-12-06,109,Karmiel,14,13,0,cheques
+2026-12-06,111,Nazareth,5,5,0,foreign currency
+2026-12-06,112,Nof HaGalil,10,10,1,standing orders
+2026-12-06,114,Afula,11,11,1,account opening
+2026-12-06,115,Tiberias,9,9,0,account opening
+2026-12-06,117,Shfar'am,15,14,2,account opening
+2026-12-06,118,Sakhnin,11,9,0,fees
+2026-12-06,121,Umm al-Fahm,15,15,0,power of attorney
+2026-12-06,123,Hadera,16,16,0,foreign currency
+2026-12-06,125,Netanya,12,12,0,cards
+2026-12-06,127,Kfar Saba,9,8,0,standing orders
+2026-12-06,128,Ra'anana,8,8,0,cards
+2026-12-06,130,Herzliya,16,15,1,foreign currency
+2026-12-06,132,Tel Aviv Allenby,10,10,0,power of attorney
+2026-12-06,133,Tel Aviv Ibn Gabirol,11,11,0,foreign currency
+2026-12-06,135,Ramat Gan Bialik,13,12,1,fees
+2026-12-06,136,Petah Tikva,11,11,0,fees
+2026-12-06,138,Holon,10,10,0,forms
+2026-12-06,139,Bat Yam,15,14,0,loans
+2026-12-06,141,Rishon LeZion,18,18,1,loans
+2026-12-06,142,Rehovot,12,12,0,fees
+2026-12-06,144,Ashdod,10,9,0,fees
+2026-12-06,146,Lod,15,13,1,fees
+2026-12-06,147,Modi'in,8,7,0,standing orders
+2026-12-06,150,Jerusalem Talpiot,22,21,0,standing orders
+2026-12-06,152,Beit Shemesh,6,6,1,foreign currency
+2026-12-07,101,Haifa Hadar,9,8,1,forms
+2026-12-07,102,Haifa Neve Sha'anan,12,12,1,power of attorney
+2026-12-07,104,Kiryat Ata,19,18,1,fees
+2026-12-07,106,Akko,11,10,1,cheques
+2026-12-07,107,Nahariya,15,13,1,fees
+2026-12-07,109,Karmiel,20,19,2,account opening
+2026-12-07,111,Nazareth,6,6,0,cards
+2026-12-07,112,Nof HaGalil,23,20,1,foreign currency
+2026-12-07,114,Afula,16,15,0,fees
+2026-12-07,115,Tiberias,10,8,0,standing orders
+2026-12-07,117,Shfar'am,20,20,0,foreign currency
+2026-12-07,118,Sakhnin,14,9,0,cards
+2026-12-07,121,Umm al-Fahm,19,18,1,loans
+2026-12-07,123,Hadera,17,17,1,power of attorney
+2026-12-07,125,Netanya,9,9,1,cards
+2026-12-07,127,Kfar Saba,8,8,0,standing orders
+2026-12-07,128,Ra'anana,8,8,1,account opening
+2026-12-07,130,Herzliya,18,18,2,power of attorney
+2026-12-07,132,Tel Aviv Allenby,10,9,1,cards
+2026-12-07,133,Tel Aviv Ibn Gabirol,12,9,1,forms
+2026-12-07,135,Ramat Gan Bialik,13,13,0,foreign currency
+2026-12-07,136,Petah Tikva,10,9,0,forms
+2026-12-07,138,Holon,8,7,0,loans
+2026-12-07,139,Bat Yam,16,15,1,forms
+2026-12-07,141,Rishon LeZion,12,12,1,fees
+2026-12-07,142,Rehovot,17,17,0,standing orders
+2026-12-07,144,Ashdod,10,9,1,loans
+2026-12-07,146,Lod,9,9,1,power of attorney
+2026-12-07,147,Modi'in,13,13,1,foreign currency
+2026-12-07,150,Jerusalem Talpiot,12,12,1,foreign currency
+2026-12-07,152,Beit Shemesh,10,10,1,cheques
+2026-12-08,101,Haifa Hadar,12,11,0,forms
+2026-12-08,102,Haifa Neve Sha'anan,16,16,0,standing orders
+2026-12-08,104,Kiryat Ata,19,19,1,loans
+2026-12-08,106,Akko,13,11,0,fees
+2026-12-08,107,Nahariya,14,14,0,standing orders
+2026-12-08,109,Karmiel,19,17,0,foreign currency
+2026-12-08,111,Nazareth,6,6,0,standing orders
+2026-12-08,112,Nof HaGalil,16,14,0,cheques
+2026-12-08,114,Afula,17,15,1,cheques
+2026-12-08,115,Tiberias,9,7,0,standing orders
+2026-12-08,117,Shfar'am,11,10,1,fees
+2026-12-08,118,Sakhnin,10,10,1,forms
+2026-12-08,121,Umm al-Fahm,20,16,2,cheques
+2026-12-08,123,Hadera,17,16,0,standing orders
+2026-12-08,125,Netanya,6,6,0,loans
+2026-12-08,127,Kfar Saba,15,15,0,fees
+2026-12-08,128,Ra'anana,5,5,0,foreign currency
+2026-12-08,130,Herzliya,9,9,1,loans
+2026-12-08,132,Tel Aviv Allenby,15,14,0,fees
+2026-12-08,133,Tel Aviv Ibn Gabirol,16,16,1,loans
+2026-12-08,135,Ramat Gan Bialik,8,8,1,cards
+2026-12-08,136,Petah Tikva,12,12,1,fees
+2026-12-08,138,Holon,15,15,0,loans
+2026-12-08,139,Bat Yam,8,7,0,foreign currency
+2026-12-08,141,Rishon LeZion,13,13,0,account opening
+2026-12-08,142,Rehovot,13,13,2,power of attorney
+2026-12-08,144,Ashdod,17,17,0,fees
+2026-12-08,146,Lod,16,15,1,foreign currency
+2026-12-08,147,Modi'in,9,8,1,fees
+2026-12-08,150,Jerusalem Talpiot,20,19,1,cheques
+2026-12-08,152,Beit Shemesh,11,10,1,foreign currency
+2026-12-09,101,Haifa Hadar,13,12,0,cheques
+2026-12-09,102,Haifa Neve Sha'anan,18,18,1,power of attorney
+2026-12-09,104,Kiryat Ata,12,9,0,cheques
+2026-12-09,106,Akko,8,8,0,standing orders
+2026-12-09,107,Nahariya,9,9,0,fees
+2026-12-09,109,Karmiel,11,11,0,foreign currency
+2026-12-09,111,Nazareth,6,5,0,forms
+2026-12-09,112,Nof HaGalil,12,12,0,foreign currency
+2026-12-09,114,Afula,12,12,1,power of attorney
+2026-12-09,115,Tiberias,8,7,0,cards
+2026-12-09,117,Shfar'am,13,12,2,forms
+2026-12-09,118,Sakhnin,18,18,0,foreign currency
+2026-12-09,121,Umm al-Fahm,14,13,2,standing orders
+2026-12-09,123,Hadera,21,19,2,power of attorney
+2026-12-09,125,Netanya,10,10,2,fees
+2026-12-09,127,Kfar Saba,16,13,0,forms
+2026-12-09,128,Ra'anana,5,5,0,standing orders
+2026-12-09,130,Herzliya,9,9,0,standing orders
+2026-12-09,132,Tel Aviv Allenby,22,20,0,loans
+2026-12-09,133,Tel Aviv Ibn Gabirol,13,13,1,forms
+2026-12-09,135,Ramat Gan Bialik,7,7,0,account opening
+2026-12-09,136,Petah Tikva,12,11,0,foreign currency
+2026-12-09,138,Holon,17,16,0,cheques
+2026-12-09,139,Bat Yam,16,16,0,loans
+2026-12-09,141,Rishon LeZion,13,12,0,standing orders
+2026-12-09,142,Rehovot,20,18,0,fees
+2026-12-09,144,Ashdod,16,15,0,standing orders
+2026-12-09,146,Lod,12,11,1,account opening
+2026-12-09,147,Modi'in,13,12,0,cards
+2026-12-09,150,Jerusalem Talpiot,15,14,0,standing orders
+2026-12-09,152,Beit Shemesh,11,11,1,forms
+2026-12-10,101,Haifa Hadar,8,7,0,standing orders
+2026-12-10,102,Haifa Neve Sha'anan,19,18,1,cheques
+2026-12-10,104,Kiryat Ata,18,18,1,cheques
+2026-12-10,106,Akko,15,14,0,cheques
+2026-12-10,107,Nahariya,17,16,0,forms
+2026-12-10,109,Karmiel,9,8,2,fees
+2026-12-10,111,Nazareth,7,7,0,foreign currency
+2026-12-10,112,Nof HaGalil,15,15,2,account opening
+2026-12-10,114,Afula,9,9,0,fees
+2026-12-10,115,Tiberias,15,12,2,power of attorney
+2026-12-10,117,Shfar'am,13,11,2,cheques
+2026-12-10,118,Sakhnin,11,11,0,cheques
+2026-12-10,121,Umm al-Fahm,10,9,0,standing orders
+2026-12-10,123,Hadera,12,11,0,forms
+2026-12-10,125,Netanya,7,7,0,loans
+2026-12-10,127,Kfar Saba,14,12,0,account opening
+2026-12-10,128,Ra'anana,8,7,0,loans
+2026-12-10,130,Herzliya,10,9,1,forms
+2026-12-10,132,Tel Aviv Allenby,14,12,1,fees
+2026-12-10,133,Tel Aviv Ibn Gabirol,17,17,1,power of attorney
+2026-12-10,135,Ramat Gan Bialik,11,11,0,cards
+2026-12-10,136,Petah Tikva,10,10,0,power of attorney
+2026-12-10,138,Holon,10,7,0,standing orders
+2026-12-10,139,Bat Yam,12,12,0,loans
+2026-12-10,141,Rishon LeZion,17,17,1,standing orders
+2026-12-10,142,Rehovot,19,18,2,fees
+2026-12-10,144,Ashdod,13,13,0,standing orders
+2026-12-10,146,Lod,11,11,0,standing orders
+2026-12-10,147,Modi'in,9,9,0,loans
+2026-12-10,150,Jerusalem Talpiot,15,14,1,standing orders
+2026-12-10,152,Beit Shemesh,9,9,1,power of attorney
+2026-12-13,101,Haifa Hadar,9,8,1,standing orders
+2026-12-13,102,Haifa Neve Sha'anan,21,21,1,cards
+2026-12-13,104,Kiryat Ata,13,13,0,cards
+2026-12-13,106,Akko,14,11,2,cheques
+2026-12-13,107,Nahariya,16,15,2,loans
+2026-12-13,109,Karmiel,16,14,0,forms
+2026-12-13,111,Nazareth,7,6,2,forms
+2026-12-13,112,Nof HaGalil,19,18,2,fees
+2026-12-13,114,Afula,20,19,1,fees
+2026-12-13,115,Tiberias,8,7,1,fees
+2026-12-13,117,Shfar'am,13,13,0,fees
+2026-12-13,118,Sakhnin,12,12,0,loans
+2026-12-13,121,Umm al-Fahm,11,9,1,account opening
+2026-12-13,123,Hadera,21,19,0,forms
+2026-12-13,125,Netanya,8,8,0,fees
+2026-12-13,127,Kfar Saba,10,10,0,loans
+2026-12-13,128,Ra'anana,10,10,0,fees
+2026-12-13,130,Herzliya,9,8,0,foreign currency
+2026-12-13,132,Tel Aviv Allenby,18,15,1,cards
+2026-12-13,133,Tel Aviv Ibn Gabirol,18,16,1,fees
+2026-12-13,135,Ramat Gan Bialik,6,5,0,foreign currency
+2026-12-13,136,Petah Tikva,16,14,0,forms
+2026-12-13,138,Holon,13,13,1,cards
+2026-12-13,139,Bat Yam,10,10,0,cards
+2026-12-13,141,Rishon LeZion,16,16,0,forms
+2026-12-13,142,Rehovot,12,12,2,cards
+2026-12-13,144,Ashdod,13,13,2,standing orders
+2026-12-13,146,Lod,9,6,0,cheques
+2026-12-13,147,Modi'in,14,13,0,loans
+2026-12-13,150,Jerusalem Talpiot,20,20,0,power of attorney
+2026-12-13,152,Beit Shemesh,11,11,1,power of attorney
+2026-12-14,101,Haifa Hadar,16,16,2,fees
+2026-12-14,102,Haifa Neve Sha'anan,12,11,1,account opening
+2026-12-14,104,Kiryat Ata,12,12,0,loans
+2026-12-14,106,Akko,9,8,0,account opening
+2026-12-14,107,Nahariya,14,14,2,forms
+2026-12-14,109,Karmiel,11,11,1,cards
+2026-12-14,111,Nazareth,7,6,0,account opening
+2026-12-14,112,Nof HaGalil,14,13,1,power of attorney
+2026-12-14,114,Afula,18,17,0,loans
+2026-12-14,115,Tiberias,9,7,0,power of attorney
+2026-12-14,117,Shfar'am,17,16,0,cheques
+2026-12-14,118,Sakhnin,16,16,1,foreign currency
+2026-12-14,121,Umm al-Fahm,16,13,0,account opening
+2026-12-14,123,Hadera,22,21,1,account opening
+2026-12-14,125,Netanya,8,7,0,cards
+2026-12-14,127,Kfar Saba,11,10,1,fees
+2026-12-14,128,Ra'anana,10,10,0,account opening
+2026-12-14,130,Herzliya,17,15,1,cards
+2026-12-14,132,Tel Aviv Allenby,22,20,0,cards
+2026-12-14,133,Tel Aviv Ibn Gabirol,18,17,2,forms
+2026-12-14,135,Ramat Gan Bialik,11,11,1,forms
+2026-12-14,136,Petah Tikva,15,13,1,power of attorney
+2026-12-14,138,Holon,13,13,0,loans
+2026-12-14,139,Bat Yam,10,9,0,cards
+2026-12-14,141,Rishon LeZion,22,19,0,power of attorney
+2026-12-14,142,Rehovot,13,13,1,fees
+2026-12-14,144,Ashdod,10,10,0,power of attorney
+2026-12-14,146,Lod,13,13,1,standing orders
+2026-12-14,147,Modi'in,8,8,1,cards
+2026-12-14,150,Jerusalem Talpiot,12,10,1,power of attorney
+2026-12-14,152,Beit Shemesh,11,10,0,fees
+2026-12-15,101,Haifa Hadar,8,8,0,fees
+2026-12-15,102,Haifa Neve Sha'anan,22,20,2,cards
+2026-12-15,104,Kiryat Ata,11,11,0,cards
+2026-12-15,106,Akko,17,16,2,power of attorney
+2026-12-15,107,Nahariya,14,14,2,cards
+2026-12-15,109,Karmiel,17,16,0,account opening
+2026-12-15,111,Nazareth,5,4,1,forms
+2026-12-15,112,Nof HaGalil,17,17,1,account opening
+2026-12-15,114,Afula,20,20,0,standing orders
+2026-12-15,115,Tiberias,12,11,0,standing orders
+2026-12-15,117,Shfar'am,16,16,0,account opening
+2026-12-15,118,Sakhnin,8,8,2,account opening
+2026-12-15,121,Umm al-Fahm,20,19,0,forms
+2026-12-15,123,Hadera,11,10,0,cards
+2026-12-15,125,Netanya,11,10,1,cheques
+2026-12-15,127,Kfar Saba,14,14,0,account opening
+2026-12-15,128,Ra'anana,8,8,1,cards
+2026-12-15,130,Herzliya,13,13,0,fees
+2026-12-15,132,Tel Aviv Allenby,13,12,0,foreign currency
+2026-12-15,133,Tel Aviv Ibn Gabirol,17,17,1,fees
+2026-12-15,135,Ramat Gan Bialik,10,9,0,cards
+2026-12-15,136,Petah Tikva,8,8,0,fees
+2026-12-15,138,Holon,17,15,0,cheques
+2026-12-15,139,Bat Yam,9,9,0,power of attorney
+2026-12-15,141,Rishon LeZion,16,15,0,forms
+2026-12-15,142,Rehovot,14,12,1,account opening
+2026-12-15,144,Ashdod,19,19,0,foreign currency
+2026-12-15,146,Lod,14,13,0,fees
+2026-12-15,147,Modi'in,7,7,0,account opening
+2026-12-15,150,Jerusalem Talpiot,23,23,1,fees
+2026-12-15,152,Beit Shemesh,9,9,0,account opening
+2026-12-16,101,Haifa Hadar,12,12,0,forms
+2026-12-16,102,Haifa Neve Sha'anan,11,11,0,cheques
+2026-12-16,104,Kiryat Ata,14,14,0,cards
+2026-12-16,106,Akko,11,11,1,account opening
+2026-12-16,107,Nahariya,13,10,3,standing orders
+2026-12-16,109,Karmiel,15,13,0,foreign currency
+2026-12-16,111,Nazareth,5,5,0,fees
+2026-12-16,112,Nof HaGalil,10,10,0,forms
+2026-12-16,114,Afula,18,15,0,forms
+2026-12-16,115,Tiberias,11,11,0,fees
+2026-12-16,117,Shfar'am,17,16,1,foreign currency
+2026-12-16,118,Sakhnin,13,13,0,foreign currency
+2026-12-16,121,Umm al-Fahm,19,19,0,cards
+2026-12-16,123,Hadera,11,11,1,standing orders
+2026-12-16,125,Netanya,12,11,1,loans
+2026-12-16,127,Kfar Saba,9,9,0,power of attorney
+2026-12-16,128,Ra'anana,8,8,0,fees
+2026-12-16,130,Herzliya,12,11,0,fees
+2026-12-16,132,Tel Aviv Allenby,17,15,0,standing orders
+2026-12-16,133,Tel Aviv Ibn Gabirol,20,20,0,cards
+2026-12-16,135,Ramat Gan Bialik,6,6,0,account opening
+2026-12-16,136,Petah Tikva,9,9,0,cheques
+2026-12-16,138,Holon,12,11,0,fees
+2026-12-16,139,Bat Yam,8,8,0,cards
+2026-12-16,141,Rishon LeZion,21,20,1,account opening
+2026-12-16,142,Rehovot,16,16,1,foreign currency
+2026-12-16,144,Ashdod,8,8,0,foreign currency
+2026-12-16,146,Lod,15,15,0,fees
+2026-12-16,147,Modi'in,11,10,0,foreign currency
+2026-12-16,150,Jerusalem Talpiot,22,21,1,fees
+2026-12-16,152,Beit Shemesh,9,9,0,foreign currency
+2026-12-17,101,Haifa Hadar,8,8,0,loans
+2026-12-17,102,Haifa Neve Sha'anan,21,20,2,fees
+2026-12-17,104,Kiryat Ata,19,17,0,power of attorney
+2026-12-17,106,Akko,13,12,0,forms
+2026-12-17,107,Nahariya,16,15,0,power of attorney
+2026-12-17,109,Karmiel,15,14,2,power of attorney
+2026-12-17,111,Nazareth,8,8,0,account opening
+2026-12-17,112,Nof HaGalil,16,15,1,fees
+2026-12-17,114,Afula,14,14,0,cards
+2026-12-17,115,Tiberias,10,10,0,forms
+2026-12-17,117,Shfar'am,15,14,0,foreign currency
+2026-12-17,118,Sakhnin,14,14,0,power of attorney
+2026-12-17,121,Umm al-Fahm,10,9,0,loans
+2026-12-17,123,Hadera,14,13,0,cards
+2026-12-17,125,Netanya,11,11,0,standing orders
+2026-12-17,127,Kfar Saba,13,13,1,cheques
+2026-12-17,128,Ra'anana,5,5,1,power of attorney
+2026-12-17,130,Herzliya,9,9,0,power of attorney
+2026-12-17,132,Tel Aviv Allenby,18,17,2,cheques
+2026-12-17,133,Tel Aviv Ibn Gabirol,19,19,3,forms
+2026-12-17,135,Ramat Gan Bialik,13,12,1,cheques
+2026-12-17,136,Petah Tikva,15,14,0,account opening
+2026-12-17,138,Holon,11,9,0,account opening
+2026-12-17,139,Bat Yam,8,8,0,fees
+2026-12-17,141,Rishon LeZion,12,10,0,foreign currency
+2026-12-17,142,Rehovot,17,15,0,fees
+2026-12-17,144,Ashdod,10,10,1,cheques
+2026-12-17,146,Lod,13,13,2,foreign currency
+2026-12-17,147,Modi'in,9,9,0,account opening
+2026-12-17,150,Jerusalem Talpiot,13,13,0,standing orders
+2026-12-17,152,Beit Shemesh,11,9,0,fees
+2026-12-20,101,Haifa Hadar,15,14,2,fees
+2026-12-20,102,Haifa Neve Sha'anan,13,12,0,cheques
+2026-12-20,104,Kiryat Ata,14,13,0,loans
+2026-12-20,106,Akko,14,13,0,foreign currency
+2026-12-20,107,Nahariya,14,14,1,cards
+2026-12-20,109,Karmiel,21,19,0,cards
+2026-12-20,111,Nazareth,9,6,1,standing orders
+2026-12-20,112,Nof HaGalil,14,11,0,foreign currency
+2026-12-20,114,Afula,11,10,1,power of attorney
+2026-12-20,115,Tiberias,15,13,0,account opening
+2026-12-20,117,Shfar'am,11,11,0,loans
+2026-12-20,118,Sakhnin,8,7,0,cheques
+2026-12-20,121,Umm al-Fahm,20,18,0,standing orders
+2026-12-20,123,Hadera,24,20,1,cards
+2026-12-20,125,Netanya,10,10,1,cheques
+2026-12-20,127,Kfar Saba,11,10,2,cheques
+2026-12-20,128,Ra'anana,7,7,0,loans
+2026-12-20,130,Herzliya,14,14,0,cards
+2026-12-20,132,Tel Aviv Allenby,17,17,1,loans
+2026-12-20,133,Tel Aviv Ibn Gabirol,19,18,1,fees
+2026-12-20,135,Ramat Gan Bialik,6,5,0,cheques
+2026-12-20,136,Petah Tikva,11,10,1,fees
+2026-12-20,138,Holon,9,8,1,fees
+2026-12-20,139,Bat Yam,16,15,0,power of attorney
+2026-12-20,141,Rishon LeZion,13,13,1,cards
+2026-12-20,142,Rehovot,20,19,0,account opening
+2026-12-20,144,Ashdod,17,17,1,cards
+2026-12-20,146,Lod,13,13,0,loans
+2026-12-20,147,Modi'in,11,11,0,power of attorney
+2026-12-20,150,Jerusalem Talpiot,14,14,0,fees
+2026-12-20,152,Beit Shemesh,11,11,0,account opening
+2026-12-21,101,Haifa Hadar,14,12,1,power of attorney
+2026-12-21,102,Haifa Neve Sha'anan,16,13,0,loans
+2026-12-21,104,Kiryat Ata,20,20,1,fees
+2026-12-21,106,Akko,15,15,0,power of attorney
+2026-12-21,107,Nahariya,12,12,0,cards
+2026-12-21,109,Karmiel,9,8,0,power of attorney
+2026-12-21,111,Nazareth,10,10,0,fees
+2026-12-21,112,Nof HaGalil,14,13,1,forms
+2026-12-21,114,Afula,15,14,1,account opening
+2026-12-21,115,Tiberias,8,7,0,account opening
+2026-12-21,117,Shfar'am,16,16,0,standing orders
+2026-12-21,118,Sakhnin,16,15,0,power of attorney
+2026-12-21,121,Umm al-Fahm,15,13,1,fees
+2026-12-21,123,Hadera,16,15,0,standing orders
+2026-12-21,125,Netanya,8,8,1,account opening
+2026-12-21,127,Kfar Saba,13,11,0,fees
+2026-12-21,128,Ra'anana,9,8,0,foreign currency
+2026-12-21,130,Herzliya,15,15,0,forms
+2026-12-21,132,Tel Aviv Allenby,21,21,0,standing orders
+2026-12-21,133,Tel Aviv Ibn Gabirol,19,19,1,fees
+2026-12-21,135,Ramat Gan Bialik,8,8,0,foreign currency
+2026-12-21,136,Petah Tikva,11,10,0,account opening
+2026-12-21,138,Holon,15,14,2,account opening
+2026-12-21,139,Bat Yam,13,13,1,cheques
+2026-12-21,141,Rishon LeZion,17,17,1,loans
+2026-12-21,142,Rehovot,12,11,0,forms
+2026-12-21,144,Ashdod,9,9,0,fees
+2026-12-21,146,Lod,10,10,0,fees
+2026-12-21,147,Modi'in,11,10,0,fees
+2026-12-21,150,Jerusalem Talpiot,15,14,0,account opening
+2026-12-21,152,Beit Shemesh,11,11,1,cards
+2026-12-22,101,Haifa Hadar,10,10,1,power of attorney
+2026-12-22,102,Haifa Neve Sha'anan,20,20,0,power of attorney
+2026-12-22,104,Kiryat Ata,18,16,0,fees
+2026-12-22,106,Akko,10,10,0,cards
+2026-12-22,107,Nahariya,15,15,1,foreign currency
+2026-12-22,109,Karmiel,13,13,1,account opening
+2026-12-22,111,Nazareth,6,6,0,loans
+2026-12-22,112,Nof HaGalil,16,16,3,loans
+2026-12-22,114,Afula,15,15,1,power of attorney
+2026-12-22,115,Tiberias,16,12,1,cards
+2026-12-22,117,Shfar'am,22,20,2,fees
+2026-12-22,118,Sakhnin,15,14,0,cheques
+2026-12-22,121,Umm al-Fahm,9,9,1,fees
+2026-12-22,123,Hadera,23,21,1,fees
+2026-12-22,125,Netanya,11,11,1,cheques
+2026-12-22,127,Kfar Saba,11,11,0,account opening
+2026-12-22,128,Ra'anana,6,6,0,forms
+2026-12-22,130,Herzliya,17,17,0,cards
+2026-12-22,132,Tel Aviv Allenby,11,10,2,fees
+2026-12-22,133,Tel Aviv Ibn Gabirol,13,10,1,forms
+2026-12-22,135,Ramat Gan Bialik,11,11,0,standing orders
+2026-12-22,136,Petah Tikva,12,11,1,standing orders
+2026-12-22,138,Holon,13,13,0,fees
+2026-12-22,139,Bat Yam,11,10,2,fees
+2026-12-22,141,Rishon LeZion,11,11,0,cheques
+2026-12-22,142,Rehovot,13,12,1,foreign currency
+2026-12-22,144,Ashdod,17,17,1,foreign currency
+2026-12-22,146,Lod,15,15,1,fees
+2026-12-22,147,Modi'in,12,10,1,foreign currency
+2026-12-22,150,Jerusalem Talpiot,12,12,0,cheques
+2026-12-22,152,Beit Shemesh,9,9,1,fees
+2026-12-23,101,Haifa Hadar,8,8,0,foreign currency
+2026-12-23,102,Haifa Neve Sha'anan,20,20,1,standing orders
+2026-12-23,104,Kiryat Ata,16,16,1,cheques
+2026-12-23,106,Akko,16,16,0,forms
+2026-12-23,107,Nahariya,9,9,1,account opening
+2026-12-23,109,Karmiel,9,8,0,forms
+2026-12-23,111,Nazareth,7,7,0,foreign currency
+2026-12-23,112,Nof HaGalil,18,16,0,loans
+2026-12-23,114,Afula,16,16,1,account opening
+2026-12-23,115,Tiberias,14,12,1,foreign currency
+2026-12-23,117,Shfar'am,12,12,1,loans
+2026-12-23,118,Sakhnin,14,14,0,standing orders
+2026-12-23,121,Umm al-Fahm,13,13,0,account opening
+2026-12-23,123,Hadera,16,13,0,cheques
+2026-12-23,125,Netanya,10,10,1,power of attorney
+2026-12-23,127,Kfar Saba,13,12,0,account opening
+2026-12-23,128,Ra'anana,8,8,1,fees
+2026-12-23,130,Herzliya,20,19,0,fees
+2026-12-23,132,Tel Aviv Allenby,20,19,1,foreign currency
+2026-12-23,133,Tel Aviv Ibn Gabirol,10,10,1,forms
+2026-12-23,135,Ramat Gan Bialik,9,8,0,loans
+2026-12-23,136,Petah Tikva,10,10,0,account opening
+2026-12-23,138,Holon,16,14,0,cheques
+2026-12-23,139,Bat Yam,17,17,0,account opening
+2026-12-23,141,Rishon LeZion,17,17,1,cards
+2026-12-23,142,Rehovot,14,14,1,forms
+2026-12-23,144,Ashdod,18,18,0,power of attorney
+2026-12-23,146,Lod,15,14,1,account opening
+2026-12-23,147,Modi'in,14,12,0,loans
+2026-12-23,150,Jerusalem Talpiot,22,21,0,foreign currency
+2026-12-23,152,Beit Shemesh,9,8,0,standing orders
+2026-12-24,101,Haifa Hadar,16,13,0,standing orders
+2026-12-24,102,Haifa Neve Sha'anan,13,13,0,forms
+2026-12-24,104,Kiryat Ata,20,18,0,fees
+2026-12-24,106,Akko,9,9,0,standing orders
+2026-12-24,107,Nahariya,11,11,0,cheques
+2026-12-24,109,Karmiel,13,12,1,account opening
+2026-12-24,111,Nazareth,7,7,0,cheques
+2026-12-24,112,Nof HaGalil,19,19,0,fees
+2026-12-24,114,Afula,9,7,0,fees
+2026-12-24,115,Tiberias,11,11,0,account opening
+2026-12-24,117,Shfar'am,14,14,1,fees
+2026-12-24,118,Sakhnin,16,16,0,standing orders
+2026-12-24,121,Umm al-Fahm,14,12,1,fees
+2026-12-24,123,Hadera,18,17,0,cheques
+2026-12-24,125,Netanya,10,10,1,account opening
+2026-12-24,127,Kfar Saba,13,13,0,standing orders
+2026-12-24,128,Ra'anana,9,8,2,fees
+2026-12-24,130,Herzliya,18,17,0,fees
+2026-12-24,132,Tel Aviv Allenby,15,15,0,cards
+2026-12-24,133,Tel Aviv Ibn Gabirol,20,19,1,account opening
+2026-12-24,135,Ramat Gan Bialik,11,11,1,cheques
+2026-12-24,136,Petah Tikva,14,13,0,cards
+2026-12-24,138,Holon,15,15,0,account opening
+2026-12-24,139,Bat Yam,18,18,0,standing orders
+2026-12-24,141,Rishon LeZion,22,22,0,cards
+2026-12-24,142,Rehovot,13,11,0,fees
+2026-12-24,144,Ashdod,16,14,0,cards
+2026-12-24,146,Lod,11,10,1,cheques
+2026-12-24,147,Modi'in,13,13,0,cheques
+2026-12-24,150,Jerusalem Talpiot,19,17,1,fees
+2026-12-24,152,Beit Shemesh,8,7,0,foreign currency
+2026-12-27,101,Haifa Hadar,14,14,1,loans
+2026-12-27,102,Haifa Neve Sha'anan,20,19,0,standing orders
+2026-12-27,104,Kiryat Ata,16,16,0,cheques
+2026-12-27,106,Akko,14,14,0,fees
+2026-12-27,107,Nahariya,12,12,0,standing orders
+2026-12-27,109,Karmiel,13,12,0,loans
+2026-12-27,111,Nazareth,10,10,1,cards
+2026-12-27,112,Nof HaGalil,11,10,0,cheques
+2026-12-27,114,Afula,18,18,0,forms
+2026-12-27,115,Tiberias,14,12,0,foreign currency
+2026-12-27,117,Shfar'am,17,17,2,account opening
+2026-12-27,118,Sakhnin,17,16,1,standing orders
+2026-12-27,121,Umm al-Fahm,18,18,1,loans
+2026-12-27,123,Hadera,18,15,0,standing orders
+2026-12-27,125,Netanya,12,10,0,standing orders
+2026-12-27,127,Kfar Saba,13,12,0,standing orders
+2026-12-27,128,Ra'anana,7,6,1,fees
+2026-12-27,130,Herzliya,19,19,0,cards
+2026-12-27,132,Tel Aviv Allenby,12,12,0,cheques
+2026-12-27,133,Tel Aviv Ibn Gabirol,22,19,1,account opening
+2026-12-27,135,Ramat Gan Bialik,6,6,0,cheques
+2026-12-27,136,Petah Tikva,15,15,0,fees
+2026-12-27,138,Holon,11,10,1,fees
+2026-12-27,139,Bat Yam,14,13,0,foreign currency
+2026-12-27,141,Rishon LeZion,19,18,0,cheques
+2026-12-27,142,Rehovot,15,15,0,cheques
+2026-12-27,144,Ashdod,18,18,1,standing orders
+2026-12-27,146,Lod,10,10,0,cheques
+2026-12-27,147,Modi'in,11,10,1,fees
+2026-12-27,150,Jerusalem Talpiot,14,14,1,fees
+2026-12-27,152,Beit Shemesh,8,6,0,account opening
+2026-12-28,101,Haifa Hadar,12,11,0,forms
+2026-12-28,102,Haifa Neve Sha'anan,21,17,0,foreign currency
+2026-12-28,104,Kiryat Ata,18,17,0,standing orders
+2026-12-28,106,Akko,10,8,0,standing orders
+2026-12-28,107,Nahariya,17,16,0,account opening
+2026-12-28,109,Karmiel,14,13,0,cheques
+2026-12-28,111,Nazareth,8,6,0,loans
+2026-12-28,112,Nof HaGalil,14,10,1,foreign currency
+2026-12-28,114,Afula,12,12,0,power of attorney
+2026-12-28,115,Tiberias,8,8,1,standing orders
+2026-12-28,117,Shfar'am,19,19,1,cheques
+2026-12-28,118,Sakhnin,14,14,0,cards
+2026-12-28,121,Umm al-Fahm,15,14,4,loans
+2026-12-28,123,Hadera,19,19,2,foreign currency
+2026-12-28,125,Netanya,13,12,0,forms
+2026-12-28,127,Kfar Saba,10,10,0,cheques
+2026-12-28,128,Ra'anana,6,5,0,account opening
+2026-12-28,130,Herzliya,16,15,0,cards
+2026-12-28,132,Tel Aviv Allenby,16,15,1,fees
+2026-12-28,133,Tel Aviv Ibn Gabirol,12,11,1,standing orders
+2026-12-28,135,Ramat Gan Bialik,10,10,0,account opening
+2026-12-28,136,Petah Tikva,8,8,0,cards
+2026-12-28,138,Holon,17,14,0,loans
+2026-12-28,139,Bat Yam,16,15,0,cheques
+2026-12-28,141,Rishon LeZion,15,14,2,foreign currency
+2026-12-28,142,Rehovot,21,20,0,fees
+2026-12-28,144,Ashdod,8,8,0,fees
+2026-12-28,146,Lod,11,9,0,forms
+2026-12-28,147,Modi'in,9,7,1,cheques
+2026-12-28,150,Jerusalem Talpiot,24,22,5,foreign currency
+2026-12-28,152,Beit Shemesh,8,8,0,loans
+2026-12-29,101,Haifa Hadar,7,7,0,fees
+2026-12-29,102,Haifa Neve Sha'anan,14,10,1,forms
+2026-12-29,104,Kiryat Ata,16,15,0,cheques
+2026-12-29,106,Akko,17,17,1,standing orders
+2026-12-29,107,Nahariya,17,15,2,cards
+2026-12-29,109,Karmiel,18,16,0,standing orders
+2026-12-29,111,Nazareth,10,10,0,power of attorney
+2026-12-29,112,Nof HaGalil,14,14,0,foreign currency
+2026-12-29,114,Afula,15,15,1,cheques
+2026-12-29,115,Tiberias,8,7,0,forms
+2026-12-29,117,Shfar'am,19,17,0,cheques
+2026-12-29,118,Sakhnin,9,9,1,power of attorney
+2026-12-29,121,Umm al-Fahm,14,14,0,fees
+2026-12-29,123,Hadera,14,13,0,forms
+2026-12-29,125,Netanya,8,8,0,forms
+2026-12-29,127,Kfar Saba,8,8,1,cards
+2026-12-29,128,Ra'anana,9,8,0,cheques
+2026-12-29,130,Herzliya,18,18,1,loans
+2026-12-29,132,Tel Aviv Allenby,11,11,0,fees
+2026-12-29,133,Tel Aviv Ibn Gabirol,21,17,0,foreign currency
+2026-12-29,135,Ramat Gan Bialik,11,10,0,power of attorney
+2026-12-29,136,Petah Tikva,15,14,0,fees
+2026-12-29,138,Holon,12,12,1,account opening
+2026-12-29,139,Bat Yam,18,16,2,cheques
+2026-12-29,141,Rishon LeZion,18,17,1,power of attorney
+2026-12-29,142,Rehovot,20,19,0,power of attorney
+2026-12-29,144,Ashdod,16,15,0,loans
+2026-12-29,146,Lod,13,13,1,power of attorney
+2026-12-29,147,Modi'in,13,13,0,loans
+2026-12-29,150,Jerusalem Talpiot,17,16,2,standing orders
+2026-12-29,152,Beit Shemesh,5,5,0,cheques
+2026-12-30,101,Haifa Hadar,10,10,0,foreign currency
+2026-12-30,102,Haifa Neve Sha'anan,19,18,0,cards
+2026-12-30,104,Kiryat Ata,9,8,0,cheques
+2026-12-30,106,Akko,9,9,1,fees
+2026-12-30,107,Nahariya,17,15,0,loans
+2026-12-30,109,Karmiel,16,15,0,power of attorney
+2026-12-30,111,Nazareth,7,5,0,cards
+2026-12-30,112,Nof HaGalil,22,20,1,standing orders
+2026-12-30,114,Afula,12,12,0,fees
+2026-12-30,115,Tiberias,14,14,0,loans
+2026-12-30,117,Shfar'am,13,13,0,cheques
+2026-12-30,118,Sakhnin,12,12,0,fees
+2026-12-30,121,Umm al-Fahm,12,12,2,loans
+2026-12-30,123,Hadera,20,18,2,forms
+2026-12-30,125,Netanya,8,8,0,fees
+2026-12-30,127,Kfar Saba,8,7,1,account opening
+2026-12-30,128,Ra'anana,7,7,0,account opening
+2026-12-30,130,Herzliya,14,14,0,fees
+2026-12-30,132,Tel Aviv Allenby,19,19,0,foreign currency
+2026-12-30,133,Tel Aviv Ibn Gabirol,14,14,1,account opening
+2026-12-30,135,Ramat Gan Bialik,10,10,1,fees
+2026-12-30,136,Petah Tikva,15,12,1,loans
+2026-12-30,138,Holon,12,11,1,power of attorney
+2026-12-30,139,Bat Yam,14,14,1,cards
+2026-12-30,141,Rishon LeZion,12,12,0,cheques
+2026-12-30,142,Rehovot,16,16,1,foreign currency
+2026-12-30,144,Ashdod,11,11,0,standing orders
+2026-12-30,146,Lod,8,8,0,power of attorney
+2026-12-30,147,Modi'in,10,10,1,standing orders
+2026-12-30,150,Jerusalem Talpiot,19,19,1,cards
+2026-12-30,152,Beit Shemesh,11,11,1,account opening
+2026-12-31,101,Haifa Hadar,12,12,1,fees
+2026-12-31,102,Haifa Neve Sha'anan,21,21,0,cheques
+2026-12-31,104,Kiryat Ata,10,10,0,cards
+2026-12-31,106,Akko,15,14,1,foreign currency
+2026-12-31,107,Nahariya,16,16,0,foreign currency
+2026-12-31,109,Karmiel,17,17,0,fees
+2026-12-31,111,Nazareth,5,5,0,standing orders
+2026-12-31,112,Nof HaGalil,15,14,0,power of attorney
+2026-12-31,114,Afula,10,9,1,loans
+2026-12-31,115,Tiberias,12,12,0,foreign currency
+2026-12-31,117,Shfar'am,18,17,0,loans
+2026-12-31,118,Sakhnin,14,14,0,standing orders
+2026-12-31,121,Umm al-Fahm,10,10,0,fees
+2026-12-31,123,Hadera,20,19,1,forms
+2026-12-31,125,Netanya,12,12,1,fees
+2026-12-31,127,Kfar Saba,14,13,0,account opening
+2026-12-31,128,Ra'anana,9,8,2,fees
+2026-12-31,130,Herzliya,13,12,0,cards
+2026-12-31,132,Tel Aviv Allenby,16,15,0,loans
+2026-12-31,133,Tel Aviv Ibn Gabirol,9,9,0,power of attorney
+2026-12-31,135,Ramat Gan Bialik,11,11,2,foreign currency
+2026-12-31,136,Petah Tikva,9,7,0,power of attorney
+2026-12-31,138,Holon,15,10,0,standing orders
+2026-12-31,139,Bat Yam,9,9,0,fees
+2026-12-31,141,Rishon LeZion,13,13,0,account opening
+2026-12-31,142,Rehovot,13,12,1,cheques
+2026-12-31,144,Ashdod,15,14,0,fees
+2026-12-31,146,Lod,9,8,0,forms
+2026-12-31,147,Modi'in,10,9,0,forms
+2026-12-31,150,Jerusalem Talpiot,22,21,0,foreign currency
+2026-12-31,152,Beit Shemesh,9,8,0,fees

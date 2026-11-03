@@ -1,0 +1,39 @@
+name,title,unit,status,left_on,email
+Avner Golan,CEO,Management,active,,agolan@crescent-bank.example
+Dalit Ben-Ami,COO,Management,active,,dben-ami@crescent-bank.example
+Moshe Dahan,CFO,Management,active,,mdahan@crescent-bank.example
+Dr. Irina Kogan,CRO,Risk,active,,ikogan@crescent-bank.example
+Nir Ashkenazi,CIO,IT,active,,nashkenazi@crescent-bank.example
+Adv. Lina Nassar,Chief Compliance Officer,Compliance,active,,lnassar@crescent-bank.example
+Tsega Alemu,Chief Internal Auditor,Internal Audit,active,,talemu@crescent-bank.example
+Adv. Gideon Shalev,General Counsel,Legal,active,,gshalev@crescent-bank.example
+Ruth Ben-David,DPO (Privacy Protection Officer),Legal,active,,rben-david@crescent-bank.example
+Hagit Mor,Head of Retail Banking,Retail Banking,active,,hmor@crescent-bank.example
+Rachel Azaria,Head of Mortgages,Mortgages,active,,razaria@crescent-bank.example
+Karim Haddad,Head of Cards & Payments,Cards & Payments,active,,khaddad@crescent-bank.example
+Yossi Ben-Haim,Head of SME Banking,SME Banking,active,,yben-haim@crescent-bank.example
+Daniel Friedman,Head of Corporate Banking,Corporate Banking,active,,dfriedman@crescent-bank.example
+Michael Stern,Head of Private Banking,Private Banking,active,,mstern@crescent-bank.example
+Boris Lerner,Head of Treasury & Markets,Treasury & Markets,active,,blerner@crescent-bank.example
+Dr. Hila Nachum,Head of Credit Risk,Credit Risk,active,,hnachum@crescent-bank.example
+Samer Khoury,Head of AML Operations,Compliance & AML,active,,skhoury@crescent-bank.example
+Shlomi Azoulay,Head of Operations,Operations,active,,sazoulay@crescent-bank.example
+Revital Cohen,Head of Contact Centre,Contact Centre,active,,rcohen@crescent-bank.example
+Tom Erez,Head of Digital Channels,Digital Channels,active,,terez@crescent-bank.example
+Anat Weiss,Head of HR,HR,active,,aweiss@crescent-bank.example
+Eli Rosen,Chief Controller,Finance,active,,erosen@crescent-bank.example
+Shira Katz,Service quality manager,Retail Banking,active,,skatz@crescent-bank.example
+Yigal Sasson,Retail analytics manager,Retail Banking,active,,ysasson@crescent-bank.example
+Olga Petrenko,"Branch manager, Haifa Hadar",Retail Banking,active,,opetrenko@crescent-bank.example
+Dvir Amsalem,Mortgage advice manager,Mortgages,active,,damsalem@crescent-bank.example
+Maya Elkayam,Cards CX & analytics manager,Cards & Payments,active,,melkayam@crescent-bank.example
+Elad Ben-Shimon,Disputes team lead,Cards & Payments,active,,eben-shimon@crescent-bank.example
+Ariel Mizrahi,Investment advisory manager,Private Banking,left,2026-09-15,amizrahi@crescent-bank.example
+Pnina Gabay,Back-office manager,Operations,active,,pgabay@crescent-bank.example
+Yonatan Bar,Head of Model Risk Management,Risk,active,,ybar@crescent-bank.example
+Ma'ayan Levi,Model validator,Risk,active,,mlevi@crescent-bank.example
+Oleg Shapiro,Model validator,Risk,active,,oshapiro@crescent-bank.example
+Eitan Bar-Lev,Regulatory liaison manager,Compliance,active,,ebar-lev@crescent-bank.example
+N. Avraham,Campaign manager,Digital Channels,active,,navraham@crescent-bank.example
+S. Gold,Content writer,Digital Channels,active,,sgold@crescent-bank.example
+L. Haddad,Content writer,Digital Channels,active,,lhaddad@crescent-bank.example

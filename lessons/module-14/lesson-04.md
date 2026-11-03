@@ -101,7 +101,7 @@ Rung 2 looks safest and often is not. In the simulation, one tired approver wave
 For each action on rung 1 or 3, write the limits and, in a separate column, **where each one is enforced**:
 
 - **Tool layer**: the code between the model and the Admin API checks it, whatever the model says.
-- **Downstream system**: billing, identity or email enforce it themselves. Lumen already has one such control: Ledgerly refuses credits on Enterprise contract accounts whoever asks.
+- **Downstream system**: billing, identity or email enforce it themselves. Lumen already has one such control: Pinkasit refuses credits on Enterprise contract accounts whoever asks.
 - **Prompt only**: a sentence in the system prompt. Write it down, and count it as no limit.
 
 The evidence is in your own data. The prompt said "never above ₪500" and all 12 wrong credits were above ₪500, because the same prompt said "the help centre is the source of truth" and a retrieved article outranked it. OWASP's guidance says the same in general terms: enforce authorisation in the downstream systems rather than relying on the model to decide what is allowed ("complete mediation"), and treat prompt injection as something with no fool-proof prevention ([LLM01:2025](https://genai.owasp.org/llmrisk/llm01-prompt-injection/)).

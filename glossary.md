@@ -39,6 +39,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Breakage** — The value of store credit that customers never redeem, booked as income; a hidden reason a business may prefer credit notes to refunds (lesson 08.3).
 - **Callback made** — A callback completed by its promised date, as opposed to one merely scheduled within an SLA (lesson 11.2).
 - **Capacity vs cash** — Freed hours are capacity; they become cash only when a named budget line changes, with an owner and a date (lesson 03.7).
+- **Catalogue** — The single list of every model and AI tool in use, in development or recently stopped, with one owner, tier, data, contract and dependencies per entry; the model inventory and the AI inventory as one list (lesson 15.4).
 - **Chain of custody** — For a dataset: origin, the purpose it was collected for, whether that purpose covers the new use, where access is enforced, and the person who owns it today (lesson 02.5).
 - **Champion** — A respected colleague given protected time to help others on real work and log issues with examples, who never reports on individuals or changes the tool (lesson 06.3).
 - **Change control** — The rules for what counts as a change to an AI system (prompt, model, provider, API version, vendor setting), how it is tested, who approves it and how it is rolled back (lesson 05.7).
@@ -72,6 +73,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Decision point** — A dated decision by a named person, placed in a plan where the evidence for it will exist, instead of a solution chosen in advance (lesson 01.4).
 - **Decision record** — A short, signed record of one gate or committee decision: options, evidence with labels, money released and held, next-gate conditions, who can stop it, and dissent (lesson 07.2).
 - **Decision rights** — A charter table naming who decides each kind of question (clinical safety, patients' information, money, the vendor, integration) so the consultant can route a question without looking evasive (lesson 10.1).
+- **Decision rights by tier** — Go-live decided according to a risk tier: low in the unit on the paved road, medium after the hub's standard review, high by independent validation and the model committee (lesson 15.4).
 - **Decision-ready case** — A one-page front with a one-sentence ask, the conservative scenario first, conditions, the cost of waiting and labelled claims with source tags, backed by an appendix (lesson 03.9).
 - **Decommissioning checklist** — The steps that make a "retire" real: people told, access removed, vendor data deleted, contract ended, records updated, and a check after 30 days that the old path is gone (lesson 07.2).
 - **Definition card** — The rule that produced a baseline: start and stop events, population, clock, statistic, period, source and n, written before the number is computed (lesson 02.4).
@@ -81,7 +83,9 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Development set** — The part of the labelled data used to write and tune the prompt; failures are read and fixed here (lesson 05.2).
 - **Divergence** — The spread between independent scores on one card; discussed for evidence instead of averaged (lesson 03.5).
 - **Document round** — One request letter for documents on a claim; a second or third round means something was asked for late, and each round adds weeks to the claimant's wait (lesson 09.3).
+- **Double-counted pilot** — One build listed in a register by two units under different names, and often budgeted twice; found by a shared environment and test set (lesson 15.2).
 - **DPIA trigger** — A written condition (decisions about people, highly sensitive data, personal data at scale, new recipients, a new purpose, monitoring of people) that means a DPIA must be done before an AI use starts or continues (lesson 04.4).
+- **Duplicate build** — The same task on the same kind of data built separately in two units, to be merged under one owner; not the same as a shared pattern (lesson 15.2).
 - **Earliest date** — A stage date in a release plan is the earliest the stage may start if its exit condition is met, not a deadline (lesson 07.8).
 - **Enforced outside the model** — A limit checked by the tool layer or a downstream system whatever the model says; a limit that exists only in the prompt counts as none (lesson 14.4).
 - **Exit check** — One fresh case done alone at the end of a session and observed against the checks; its results stay with the trainer and champion (lesson 06.2).
@@ -104,6 +108,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Holdout** — A random share of eligible items that get no AI output during the pilot, so that the difference with the rest is the AI's effect (lesson 05.1).
 - **Horizon by evidence** — Placing an initiative in Now, Next or Later by how much is proven and what it depends on, not by a start date (lesson 03.8).
 - **Host list** — The maintained list of AI service domains used to find AI traffic in a proxy log, because proxy categories lag behind new tools (lesson 01.6).
+- **Hub-and-spoke** — An operating model in which the hub owns the constants (platform, standards, catalogue, high-risk validation) and the units own the variables (discovery, building, adoption, low-risk go-lives) (lesson 15.4).
 - **Hybrid design (rules decide, the model reads and writes)** — A pilot design in which an LLM reads the message and drafts the reply while deterministic rules compute eligibility, amounts and windows from the order data (lesson 08.5).
 - **Incident severity** — S1: harm reached people, or personal data reached someone not entitled to it; S2: harm likely if nothing changes; S3: degraded service with no harm (lesson 07.5).
 - **Intake register** — The single list of every AI build, purchase and request, with owner, tool, data class, overlaps, tier, route, decision and days to decision (lesson 04.7).
@@ -149,7 +154,9 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Paired quality metric** — A quality measure reported beside an efficiency measure, chosen so that it moves the wrong way if the efficiency gain is fake (lesson 05.1).
 - **Paper versus practice** — The documented difference between the written process and the observed one, recorded as a finding with evidence and consequence (lesson 02.3).
 - **Parked list** — Ideas not funded now, each with its reason and a dated, evidence-based reopening condition (lesson 03.6).
+- **Paved road** — A shared, owned route that makes the safe way the easy way: the platform, the templates and evaluation kit, and the catalogue (lesson 15.4).
 - **Per-segment verdict** — Scale, fix or stop decided separately for each part of a pilot that behaves differently (channel, language, category), never on the pilot-wide average (lesson 07.2).
+- **Perma-pilot** — A build still called a pilot although people rely on it for real work every week, which hides it from the route to production and from the inventory (lesson 15.2).
 - **Pilot charter** — The signed one-page agreement for a pilot: falsifiable hypothesis, scope with reasons, thresholds copied from the business case's gates, stop rules, one owner and the rule of use (lesson 05.1).
 - **Pinned model** — A model identifier that always refers to the same model snapshot, so that a run records exactly which model answered (lesson 05.7).
 - **Plain automation** — Rules, integrations and scheduled jobs that need no model, such as comparing two dates and sending a fixed text (lesson 03.2).
@@ -183,6 +190,8 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Residue** — The work people take on so that an automation or AI can run, such as keeping a sheet in a fixed format; it goes on the ledger line with an owner (lesson 03.2).
 - **Restricted use** — An AI use that needs the review group's decision or that nobody may do, recorded with the reason and who may lift it (lesson 04.2).
 - **Retirement criteria** — Checkable conditions, written when a service goes live, under which it will be retired (lesson 07.6).
+- **Review slot** — A unit of a validation team's capacity (at Crescent about ten validator-days a quarter), used to size a review queue in the gatekeeper's own terms (lesson 15.2).
+- **Route in** — A dated, controlled way to bring shadow builds, perma-pilots and AI in vendor products onto the paved road with interim controls, instead of shutting them down or blessing them as they are (lesson 15.4).
 - **Run-to-run variation** — Different outputs from a generative tool for the same input, which is why a proof of concept runs each item more than once and a pilot audits real outputs (lesson 10.4).
 - **Safety route** — An assistant behaviour that stops, keeps the situation safe and sends the person to a named role or procedure instead of answering; scored as its own 100% gate (lesson 13.5).
 - **Same-word test** — Asking each role what has happened when a shared word such as "resolved" or "ready" is true and what it excludes, then recording the competing readings and the one the work will use (lesson 02.2).
@@ -195,6 +204,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Shadow AI** — AI tools and features used for work without the organization having decided to use them, including tools paid for in plain sight on expense claims (lesson 01.6).
 - **Shadow mode** — Running the AI on live production messages with its output hidden from staff and customers, compared afterwards with what people actually did (lesson 05.6).
 - **Shadow-AI census** — A department-level count of AI use built from at least four sources (survey, proxy log, extensions, expenses and SaaS list, interviews, traces in the work) under a stated amnesty (lesson 01.6).
+- **Shared pattern** — Builds that do the same kind of thing on different content (for example question-and-answer assistants over different documents), which share a template and a platform but keep separate owners (lesson 15.5).
 - **Soft pass** — A must-refuse test stopped only by the model's own refusal rather than by a control outside the model; reported, never counted as a control (lesson 14.5).
 - **Softened paper** — A document whose bad news was edited out one reasonable change at a time on its way up, until readers believe something the evidence does not support (lesson 07.3).
 - **Source control (for an agent)** — Approval of the documents an agent may read, per revision and per language, before it can act on them (lesson 14.4).

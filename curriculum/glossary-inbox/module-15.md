@@ -1,0 +1,11 @@
+- **Review slot** — A unit of a validation team's capacity (at Crescent about ten validator-days a quarter), used to size a review queue in the gatekeeper's own terms (lesson 15.2).
+- **Perma-pilot** — A build still called a pilot although people rely on it for real work every week, which hides it from the route to production and from the inventory (lesson 15.2).
+- **Double-counted pilot** — One build listed in a register by two units under different names, and often budgeted twice; found by a shared environment and test set (lesson 15.2).
+- **Duplicate build** — The same task on the same kind of data built separately in two units, to be merged under one owner; not the same as a shared pattern (lesson 15.2).
+- **Shared pattern** — Builds that do the same kind of thing on different content (for example question-and-answer assistants over different documents), which share a template and a platform but keep separate owners (lesson 15.5).
+- **Decision rights by tier** — Go-live decided according to a risk tier: low in the unit on the paved road, medium after the hub's standard review, high by independent validation and the model committee (lesson 15.4).
+- **Tier rule** — The written, checkable conditions that put an AI build in the low, medium or high tier, owned by model risk management rather than by the people who build (lesson 15.4).
+- **Paved road** — A shared, owned route that makes the safe way the easy way: the platform, the templates and evaluation kit, and the catalogue (lesson 15.4).
+- **Catalogue** — The single list of every model and AI tool in use, in development or recently stopped, with one owner, tier, data, contract and dependencies per entry; the model inventory and the AI inventory as one list (lesson 15.4).
+- **Route in** — A dated, controlled way to bring shadow builds, perma-pilots and AI in vendor products onto the paved road with interim controls, instead of shutting them down or blessing them as they are (lesson 15.4).
+- **Hub-and-spoke** — An operating model in which the hub owns the constants (platform, standards, catalogue, high-risk validation) and the units own the variables (discovery, building, adoption, low-risk go-lives) (lesson 15.4).

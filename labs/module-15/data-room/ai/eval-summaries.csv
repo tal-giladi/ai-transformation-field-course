@@ -1,0 +1,43 @@
+eval_id,pilot_id,run_date,test_items,languages,metric,value,threshold,run_by,note
+EV-001,RET-02,2026-07-01,0,n/a,uplift vs control,,,Data science,Holdout planned; not run. Compliance query on purpose of use open since Oct
+EV-002,RET-03,2025-12-10,120,he,correct answer,0.84,0.85,Retail digital team,"v1, procedures library of Oct 2025"
+EV-003,RET-03,2026-06-15,160,he,correct answer,0.90,0.85,Retail digital team,v2; 3 answers quoted a fee table replaced in May
+EV-004,RET-04,2026-08-20,18450,n/a,AUC (backtest 2025),0.74,0.70,Data science,No live test; no uplift measured
+EV-005,MTG-01,2026-03-01,400,he/en,field accuracy,0.931,0.90,Rishum Docs + Mortgages,Handwritten pay slips 81%
+EV-006,MTG-02,2026-09-20,150,n/a,false-accept rate,0.18,0.05,Mortgages analytics,Price index snapshot 2023-06; no refresh process
+EV-007,MTG-03,2026-07-10,80,he,correct answer,0.88,0.85,Mortgages,
+EV-008,CRD-01,2026-03-30,200,he/ar/ru/en,summary accuracy,0.86,0.85,Cards CX,Arabic 0.79
+EV-009,CRD-01,2026-10-12,300,he/ar/ru/en,summary accuracy,0.91,0.85,Cards CX,Arabic 0.88 after glossary; root-cause tag agreement 0.83
+EV-010,CRD-02,2026-01-20,52000,n/a,recall at top 20% of alerts,0.86,0.80,Fraud analytics,Lab data 2025; live shadow not run
+EV-011,CRD-03,2026-03-01,120,he/en,letter acceptable without edit,0.90,0.85,Cards disputes,Template-bound; reason codes correct 0.97
+EV-012,SME-02,2026-09-01,90,he,completeness recall,0.89,0.85,SME ops,Expired IDs of signatories missed most often
+EV-013,SME-03,2026-04-15,9800,n/a,Gini (backtest 2024),0.61,0.55,SME analytics,Trained and tested on 2024; rates since then changed
+EV-014,CORP-01,2026-05-30,120,he/en,factual accuracy,0.94,0.95,Corporate credit,2 memos with a wrong covenant threshold; banker review catches
+EV-015,CORP-01,2026-11-20,120,he/en,factual accuracy,0.97,0.95,Corporate credit,After covenant table from CRK-02 extraction
+EV-016,CORP-02,2026-08-01,40,he/en,brief rated usable,0.92,0.85,Corporate,
+EV-017,PRV-02,2026-06-30,50,he/en,factual errors on holdings,0.14,0.02,Private banking,Owner left in September; suitability wording not reviewed
+EV-018,PRV-03,2025-12-01,60,he/en,summary rated usable,0.93,0.85,Treasury research,
+EV-019,TRS-01,2025-12-01,60,he/en,summary rated usable,0.93,0.85,Treasury research,
+EV-020,TRS-02,2026-10-30,3100,he/en,precision at recall 0.8,0.31,0.25,Compliance surveillance,Lab set only
+EV-021,TRS-03,2026-11-15,250,n/a,MAPE (backtest 2025),0.062,0.08,ALM team,
+EV-022,CRK-01,2025-11-01,2400,n/a,AUC (backtest 2019-2025),0.81,0.75,Credit risk models,In validation since Sep 2026
+EV-023,CRK-02,2026-06-01,200,he/en,field accuracy,0.955,0.95,Credit risk,
+EV-024,CMP-01,2026-04-20,250,he/ar/ru/en,completeness recall,0.96,0.95,AML operations,Covers business customers' documents too
+EV-025,CMP-02,2026-08-15,1200,n/a,false-negative rate on closed alerts,0.09,0.01,AML operations,Labelled 2025 alerts; 11 true positives auto-closed
+EV-026,OPS-01,2026-07-01,100,he/en,task rated helpful,0.81,0.75,Operations,Generic tasks; not a model of any decision
+EV-027,OPS-02,2026-09-10,150,he,correct and cited,0.91,0.85,Operations,Runs in the Tzofen agent studio; retrieval index OPS-procedures
+EV-028,OPS-03,2026-11-01,200,n/a,right cause suggested,0.78,0.75,Operations,
+EV-029,OPS-04,2026-03-01,400,he/en,field accuracy,0.931,0.90,Rishum Docs + Mortgages,Handwritten pay slips 81%
+EV-030,OPS-05,2026-06-20,500,n/a,auto-match precision,0.984,0.98,Finance,
+EV-031,CC-01,2026-05-10,200,he/ar/ru,summary accuracy,0.89,0.85,Contact Centre QA,"Arabic 0.81, Russian 0.86"
+EV-032,CC-02,2026-10-05,180,he/ar/ru,correct and cited,0.88,0.85,Contact Centre QA,Runs in the Tzofen agent studio; retrieval index CC-knowledge
+EV-033,CC-03,2026-09-01,400,he/ar/ru/en,routing accuracy,0.61,0.85,Contact Centre QA,
+EV-034,DIG-01,2026-06-01,200,he/ar/ru/en,correct answer,0.71,0.90,Digital,17% wrong on fees; Arabic questions answered in Hebrew
+EV-035,DIG-01,2026-10-20,200,he/ar/ru/en,correct answer,0.76,0.90,Digital,Still wrong on 2026 fee changes; A/B live on 2% anyway
+EV-036,DIG-02,2026-08-01,50,he,spot check acceptable,0.88,,Digital,No threshold set
+EV-037,DIG-03,2026-09-15,300,he/ar/ru/en,top-3 hit,0.87,0.85,Digital,
+EV-038,HR-01,2026-06-15,3400,n/a,"selection-rate ratio, lowest group by home town",0.62,0.80,HR analytics,Features include home town and graduation year
+EV-039,HR-02,2026-07-01,70,he,correct answer,0.90,0.85,HR,
+EV-040,FIN-01,2026-05-01,24,he,commentary usable,0.92,0.85,Finance,
+EV-041,FIN-02,2026-06-20,500,n/a,auto-match precision,0.984,0.98,Finance,
+EV-042,FIN-03,2026-10-01,1500,n/a,hit rate vs random sample,3.1,2.0,Finance,

@@ -1,0 +1,241 @@
+month,unit,channel,complaints_received,median_days_to_close,summarised_by_ai_pilot
+2026-01,Retail Banking,phone,408,17.6,
+2026-01,Retail Banking,branch,145,10.8,
+2026-01,Retail Banking,web/app,233,9.5,
+2026-01,Retail Banking,letter/email,93,13.3,
+2026-01,Cards & Payments,phone,537,14.4,Y
+2026-01,Cards & Payments,branch,197,13.8,Y
+2026-01,Cards & Payments,web/app,324,14.5,Y
+2026-01,Cards & Payments,letter/email,130,15.7,Y
+2026-01,Mortgages,phone,98,17.2,
+2026-01,Mortgages,branch,37,6.0,
+2026-01,Mortgages,web/app,60,17.4,
+2026-01,Mortgages,letter/email,19,6.3,
+2026-01,Digital Channels,phone,102,12.6,
+2026-01,Digital Channels,branch,51,18.1,
+2026-01,Digital Channels,web/app,62,12.2,
+2026-01,Digital Channels,letter/email,30,8.0,
+2026-01,Contact Centre,phone,62,14.8,
+2026-01,Contact Centre,branch,31,13.5,
+2026-01,Contact Centre,web/app,38,18.2,
+2026-01,Contact Centre,letter/email,12,16.2,
+2026-02,Retail Banking,phone,373,6.9,
+2026-02,Retail Banking,branch,176,13.2,
+2026-02,Retail Banking,web/app,221,14.6,
+2026-02,Retail Banking,letter/email,82,10.7,
+2026-02,Cards & Payments,phone,556,6.5,Y
+2026-02,Cards & Payments,branch,232,13.3,Y
+2026-02,Cards & Payments,web/app,322,7.6,Y
+2026-02,Cards & Payments,letter/email,131,9.5,Y
+2026-02,Mortgages,phone,94,11.1,
+2026-02,Mortgages,branch,39,18.6,
+2026-02,Mortgages,web/app,56,14.2,
+2026-02,Mortgages,letter/email,21,17.9,
+2026-02,Digital Channels,phone,107,8.4,
+2026-02,Digital Channels,branch,57,6.8,
+2026-02,Digital Channels,web/app,55,14.9,
+2026-02,Digital Channels,letter/email,27,17.2,
+2026-02,Contact Centre,phone,60,12.9,
+2026-02,Contact Centre,branch,25,14.1,
+2026-02,Contact Centre,web/app,38,17.3,
+2026-02,Contact Centre,letter/email,16,14.5,
+2026-03,Retail Banking,phone,385,15.2,
+2026-03,Retail Banking,branch,167,9.7,
+2026-03,Retail Banking,web/app,206,18.2,
+2026-03,Retail Banking,letter/email,86,11.1,
+2026-03,Cards & Payments,phone,522,16.2,Y
+2026-03,Cards & Payments,branch,250,15.4,Y
+2026-03,Cards & Payments,web/app,250,6.1,Y
+2026-03,Cards & Payments,letter/email,101,6.2,Y
+2026-03,Mortgages,phone,105,8.7,
+2026-03,Mortgages,branch,48,10.5,
+2026-03,Mortgages,web/app,54,9.2,
+2026-03,Mortgages,letter/email,21,9.3,
+2026-03,Digital Channels,phone,134,10.5,
+2026-03,Digital Channels,branch,49,12.4,
+2026-03,Digital Channels,web/app,74,10.3,
+2026-03,Digital Channels,letter/email,27,17.8,
+2026-03,Contact Centre,phone,67,8.9,
+2026-03,Contact Centre,branch,26,9.8,
+2026-03,Contact Centre,web/app,38,6.8,
+2026-03,Contact Centre,letter/email,15,8.7,
+2026-04,Retail Banking,phone,390,7.1,Y
+2026-04,Retail Banking,branch,171,6.0,
+2026-04,Retail Banking,web/app,191,8.6,Y
+2026-04,Retail Banking,letter/email,94,17.1,Y
+2026-04,Cards & Payments,phone,539,14.5,Y
+2026-04,Cards & Payments,branch,224,11.4,Y
+2026-04,Cards & Payments,web/app,246,13.0,Y
+2026-04,Cards & Payments,letter/email,118,9.1,Y
+2026-04,Mortgages,phone,92,15.5,
+2026-04,Mortgages,branch,47,10.9,
+2026-04,Mortgages,web/app,45,18.9,
+2026-04,Mortgages,letter/email,18,15.8,
+2026-04,Digital Channels,phone,133,18.5,
+2026-04,Digital Channels,branch,56,7.5,
+2026-04,Digital Channels,web/app,56,17.1,
+2026-04,Digital Channels,letter/email,25,10.7,
+2026-04,Contact Centre,phone,65,7.2,
+2026-04,Contact Centre,branch,32,17.9,
+2026-04,Contact Centre,web/app,30,14.7,
+2026-04,Contact Centre,letter/email,12,13.4,
+2026-05,Retail Banking,phone,356,8.9,Y
+2026-05,Retail Banking,branch,180,11.9,
+2026-05,Retail Banking,web/app,207,15.9,Y
+2026-05,Retail Banking,letter/email,80,16.6,Y
+2026-05,Cards & Payments,phone,472,17.1,Y
+2026-05,Cards & Payments,branch,209,11.2,Y
+2026-05,Cards & Payments,web/app,285,15.5,Y
+2026-05,Cards & Payments,letter/email,131,17.1,Y
+2026-05,Mortgages,phone,105,10.7,
+2026-05,Mortgages,branch,46,8.0,
+2026-05,Mortgages,web/app,56,13.5,
+2026-05,Mortgages,letter/email,18,9.7,
+2026-05,Digital Channels,phone,100,6.3,
+2026-05,Digital Channels,branch,46,12.2,
+2026-05,Digital Channels,web/app,64,7.3,
+2026-05,Digital Channels,letter/email,26,9.5,
+2026-05,Contact Centre,phone,68,11.9,
+2026-05,Contact Centre,branch,30,8.7,
+2026-05,Contact Centre,web/app,39,13.0,
+2026-05,Contact Centre,letter/email,16,14.4,
+2026-06,Retail Banking,phone,356,18.9,Y
+2026-06,Retail Banking,branch,168,14.4,
+2026-06,Retail Banking,web/app,202,7.1,Y
+2026-06,Retail Banking,letter/email,90,16.1,Y
+2026-06,Cards & Payments,phone,451,12.7,Y
+2026-06,Cards & Payments,branch,230,16.0,Y
+2026-06,Cards & Payments,web/app,261,12.9,Y
+2026-06,Cards & Payments,letter/email,113,14.2,Y
+2026-06,Mortgages,phone,82,14.5,
+2026-06,Mortgages,branch,38,17.7,
+2026-06,Mortgages,web/app,46,15.6,
+2026-06,Mortgages,letter/email,22,15.0,
+2026-06,Digital Channels,phone,126,8.2,
+2026-06,Digital Channels,branch,45,18.5,
+2026-06,Digital Channels,web/app,68,12.1,
+2026-06,Digital Channels,letter/email,22,14.9,
+2026-06,Contact Centre,phone,64,17.9,
+2026-06,Contact Centre,branch,30,16.2,
+2026-06,Contact Centre,web/app,34,17.3,
+2026-06,Contact Centre,letter/email,15,10.6,
+2026-07,Retail Banking,phone,353,10.6,Y
+2026-07,Retail Banking,branch,181,12.5,
+2026-07,Retail Banking,web/app,215,8.2,Y
+2026-07,Retail Banking,letter/email,81,8.6,Y
+2026-07,Cards & Payments,phone,467,8.8,Y
+2026-07,Cards & Payments,branch,222,17.6,Y
+2026-07,Cards & Payments,web/app,291,14.8,Y
+2026-07,Cards & Payments,letter/email,110,6.5,Y
+2026-07,Mortgages,phone,100,13.5,
+2026-07,Mortgages,branch,41,18.5,
+2026-07,Mortgages,web/app,53,10.8,
+2026-07,Mortgages,letter/email,19,11.5,
+2026-07,Digital Channels,phone,103,14.6,
+2026-07,Digital Channels,branch,53,18.2,
+2026-07,Digital Channels,web/app,67,13.0,
+2026-07,Digital Channels,letter/email,23,17.5,
+2026-07,Contact Centre,phone,67,14.1,
+2026-07,Contact Centre,branch,29,13.3,
+2026-07,Contact Centre,web/app,37,9.4,
+2026-07,Contact Centre,letter/email,13,14.9,
+2026-08,Retail Banking,phone,370,8.5,Y
+2026-08,Retail Banking,branch,154,18.8,
+2026-08,Retail Banking,web/app,227,9.9,Y
+2026-08,Retail Banking,letter/email,79,16.2,Y
+2026-08,Cards & Payments,phone,448,16.0,Y
+2026-08,Cards & Payments,branch,252,16.7,Y
+2026-08,Cards & Payments,web/app,264,14.0,Y
+2026-08,Cards & Payments,letter/email,120,18.3,Y
+2026-08,Mortgages,phone,90,8.2,
+2026-08,Mortgages,branch,47,16.8,
+2026-08,Mortgages,web/app,50,18.8,
+2026-08,Mortgages,letter/email,19,16.4,
+2026-08,Digital Channels,phone,116,13.7,
+2026-08,Digital Channels,branch,51,9.0,
+2026-08,Digital Channels,web/app,73,11.2,
+2026-08,Digital Channels,letter/email,28,10.2,
+2026-08,Contact Centre,phone,68,18.0,
+2026-08,Contact Centre,branch,25,14.6,
+2026-08,Contact Centre,web/app,33,7.6,
+2026-08,Contact Centre,letter/email,14,16.0,
+2026-09,Retail Banking,phone,336,9.3,Y
+2026-09,Retail Banking,branch,157,16.9,
+2026-09,Retail Banking,web/app,196,6.3,Y
+2026-09,Retail Banking,letter/email,71,7.4,Y
+2026-09,Cards & Payments,phone,462,9.0,Y
+2026-09,Cards & Payments,branch,248,12.6,Y
+2026-09,Cards & Payments,web/app,320,14.3,Y
+2026-09,Cards & Payments,letter/email,128,9.2,Y
+2026-09,Mortgages,phone,100,14.2,
+2026-09,Mortgages,branch,42,11.2,
+2026-09,Mortgages,web/app,59,9.6,
+2026-09,Mortgages,letter/email,20,17.3,
+2026-09,Digital Channels,phone,116,15.2,
+2026-09,Digital Channels,branch,51,15.3,
+2026-09,Digital Channels,web/app,66,18.6,
+2026-09,Digital Channels,letter/email,23,16.1,
+2026-09,Contact Centre,phone,67,8.6,
+2026-09,Contact Centre,branch,30,10.8,
+2026-09,Contact Centre,web/app,33,18.0,
+2026-09,Contact Centre,letter/email,13,11.3,
+2026-10,Retail Banking,phone,366,15.2,Y
+2026-10,Retail Banking,branch,167,6.5,
+2026-10,Retail Banking,web/app,230,13.9,Y
+2026-10,Retail Banking,letter/email,89,13.4,Y
+2026-10,Cards & Payments,phone,523,18.2,Y
+2026-10,Cards & Payments,branch,256,15.4,Y
+2026-10,Cards & Payments,web/app,289,18.4,Y
+2026-10,Cards & Payments,letter/email,111,12.8,Y
+2026-10,Mortgages,phone,98,8.1,
+2026-10,Mortgages,branch,37,12.2,
+2026-10,Mortgages,web/app,51,14.9,
+2026-10,Mortgages,letter/email,21,9.8,
+2026-10,Digital Channels,phone,113,7.2,
+2026-10,Digital Channels,branch,56,13.6,
+2026-10,Digital Channels,web/app,61,7.6,
+2026-10,Digital Channels,letter/email,29,18.0,
+2026-10,Contact Centre,phone,58,12.6,
+2026-10,Contact Centre,branch,30,10.8,
+2026-10,Contact Centre,web/app,32,12.6,
+2026-10,Contact Centre,letter/email,14,15.7,
+2026-11,Retail Banking,phone,344,12.1,Y
+2026-11,Retail Banking,branch,165,18.5,Y
+2026-11,Retail Banking,web/app,211,8.6,Y
+2026-11,Retail Banking,letter/email,73,10.3,Y
+2026-11,Cards & Payments,phone,493,15.6,Y
+2026-11,Cards & Payments,branch,229,7.7,Y
+2026-11,Cards & Payments,web/app,284,17.6,Y
+2026-11,Cards & Payments,letter/email,132,12.6,Y
+2026-11,Mortgages,phone,102,7.8,
+2026-11,Mortgages,branch,43,9.1,
+2026-11,Mortgages,web/app,46,13.1,
+2026-11,Mortgages,letter/email,20,13.2,
+2026-11,Digital Channels,phone,102,10.4,
+2026-11,Digital Channels,branch,54,15.6,
+2026-11,Digital Channels,web/app,56,8.0,
+2026-11,Digital Channels,letter/email,28,7.8,
+2026-11,Contact Centre,phone,65,14.3,
+2026-11,Contact Centre,branch,25,11.1,
+2026-11,Contact Centre,web/app,31,13.8,
+2026-11,Contact Centre,letter/email,13,12.5,
+2026-12,Retail Banking,phone,412,16.9,Y
+2026-12,Retail Banking,branch,168,11.2,Y
+2026-12,Retail Banking,web/app,223,7.4,Y
+2026-12,Retail Banking,letter/email,83,15.2,Y
+2026-12,Cards & Payments,phone,478,10.6,Y
+2026-12,Cards & Payments,branch,225,12.4,Y
+2026-12,Cards & Payments,web/app,253,10.1,Y
+2026-12,Cards & Payments,letter/email,128,18.7,Y
+2026-12,Mortgages,phone,89,6.1,
+2026-12,Mortgages,branch,43,8.1,
+2026-12,Mortgages,web/app,55,15.2,
+2026-12,Mortgages,letter/email,20,7.5,
+2026-12,Digital Channels,phone,127,13.6,
+2026-12,Digital Channels,branch,60,9.7,
+2026-12,Digital Channels,web/app,71,8.2,
+2026-12,Digital Channels,letter/email,24,14.7,
+2026-12,Contact Centre,phone,63,14.8,
+2026-12,Contact Centre,branch,32,6.8,
+2026-12,Contact Centre,web/app,32,9.0,
+2026-12,Contact Centre,letter/email,14,11.7,

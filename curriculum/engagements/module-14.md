@@ -23,7 +23,7 @@ only). The ground truth is only in this file. Never link it from lessons.
 - Product UI in Hebrew, English, Arabic and Russian. Support works Sunday–Thursday 08:00–18:00 Israel
   time plus an on-call engineer; widget open 24/7.
 - Systems (fictional names): admin console and **Admin API** (service tokens with scopes); billing
-  ("Ledgerly") with a **weekly invoice run on Thursday at 22:00** (credits can be reversed until the
+  ("Pinkasit") with a **weekly invoice run on Thursday at 22:00** (credits can be reversed until the
   account's next invoice run); helpdesk ("Deskly", reused name); help centre (CMS, marketing can publish);
   feature flags ("Flagpole"). Lumen Assist is built on a commercial LLM API behind Lumen's own tool layer.
 - Policies (match the preset): support **people** may credit up to **₪500** per case; above that the
@@ -186,7 +186,7 @@ and whether the decision is made per action rather than for "the agent".
 - **18. The LLM provider is not a listed sub-processor** in the customer DPA (Annex B), and the GA design plans
   to fine-tune on conversations that contain staff pay and ID numbers (purpose limitation; route to the DPO).
 - **19. Billing already enforces one limit outside the model**: credits on Enterprise contract accounts are
-  denied by Ledgerly ("finance approval required") whoever asks — the one place complete mediation exists.
+  denied by Pinkasit ("finance approval required") whoever asks — the one place complete mediation exists.
 - **20. LumenGPT Slack bot** (R&D, token `tok_08`, creator left 15 Aug) exports customer staff lists into
   Slack on request (18 exports Sep–Nov).
 - **21. Staging token with live scopes**: `tok_09 assist-worker-staging` holds `billing:credit plans:write

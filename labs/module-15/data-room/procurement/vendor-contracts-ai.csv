@@ -1,0 +1,19 @@
+contract_id,vendor,owner_unit,product_or_use,start,end,auto_renew,renewal_term_months,notice_days,annual_value_ils,dpa_signed,data_location,notes
+PR-2025-088,Rishum Docs,Mortgages,"Document extraction, mortgage files",2025-08-15,2027-08-14,Y,12,90,180000,Y,EU,Also used by Operations back office (same tenant)
+PR-2025-090,Tzofen,Operations,"Tzofen Assist enterprise assistant, 1,600 seats from 2026-12-01 (300 from 2026-05-03); agent studio included",2025-12-01,2028-11-30,N,0,0,2016000,Y,Israel,Seats ₪105 a month; agent studio and retrieval index included in seat price
+PR-2025-099,Ananim Cloud AI,IT,LLM API for the AI sandbox (pilots),2025-07-01,2027-06-30,Y,12,60,180000,Y,EU,"Sandbox terms: pilots only, no production use; customer data only with DPO approval per pilot"
+PR-2025-117,Mishov Analytics,Retail Banking,Complaint summaries and themes,2025-04-01,2027-03-31,Y,24,60,264000,Y,EU,Renews automatically for 24 months unless written notice 60 days before end
+PR-2025-122,Sichon AI,Digital Channels,Customer chatbot platform,2025-10-15,2027-10-14,Y,12,90,230000,Y,EU,
+PR-2025-126,Imut Docs,Compliance & AML,KYC document checks,2025-10-20,2027-10-19,N,0,0,170000,Y,Israel,Licence covers business-customer documents
+PR-2025-131,Bahir Labs,Cards & Payments,"Text summarisation API (complaints, chargebacks); also Contact Centre routing and Digital chat summaries",2025-11-15,2027-11-14,Y,12,60,340000,Y,EU,"One contract, three units"
+PR-2025-135,Kishron Rank,HR,CV ranking,2025-12-15,2026-12-14,Y,12,30,150000,N,US,Renewed automatically on 2026-12-15; DPA never signed
+PR-2025-140,Pinkas AI,Corporate Banking,Credit memo and commentary drafting,2025-11-01,2027-10-31,N,0,0,420000,Y,EU,Private Banking portfolio commentary on the same contract
+PR-2026-004,Kolelet AI,Contact Centre,Call transcription and summary (he/ar/ru),2026-01-20,2028-01-19,N,0,0,210000,Y,Israel,
+PR-2026-008,Rishum Docs,Credit Risk,Covenant extraction,2026-07-10,2027-07-09,Y,12,30,120000,Y,EU,"Second Rishum Docs contract, separate price"
+PR-2026-012,Mismach Check,SME Banking,KYC document checks for SME onboarding,2026-01-25,2027-06-30,Y,12,30,150000,Y,Israel,
+PR-2026-019,Hatama AI,Finance,Invoice matching,2026-02-20,2027-02-19,Y,12,30,130000,Y,Israel,Operations back office uses the same instance
+PR-2026-033,Hadas Data (contractor),SME Banking,Credit memo drafting POC (time and materials),2026-03-20,2026-12-31,N,0,0,200000,N,Israel,Extension requested for 2027
+PR-2026-041,Katvan AI,Mortgages,Email and letter drafting,2026-05-15,2027-05-14,Y,12,60,130000,Y,US,Private Banking letters on the same contract
+PR-2019-210,Kesher Systems,IT,Kesher 360 CRM (SaaS),2019-07-01,2027-06-30,Y,36,120,3900000,Y,EU,"Vendor roadmap: generative features (email drafting, account summaries, reply suggestions) in release 27.1, Oct 2027, on by default"
+PR-2021-044,Notzer Fraud Systems,Cards & Payments,Card fraud scoring (vendor ML model),2021-03-01,2028-02-29,Y,24,90,1800000,Y,Israel,Supplier model; in model inventory
+PR-2022-017,Shomer AML,Compliance & AML,Transaction monitoring,2022-06-01,2028-05-31,Y,36,180,2400000,Y,Israel,Includes ML scenario tuning module

@@ -1,0 +1,93 @@
+- id: q1
+  question: >-
+    A unit head proposes "a medium-sized CoE of eight that builds the most important pilots and runs a
+    lighter committee for everything". Which archetype is that?
+  options:
+    - >-
+      Hub-and-spoke, because the centre is smaller and the committee lighter.
+    - >-
+      Federated, because the units keep building the less important pilots.
+    - >-
+      A new hybrid that combines the strengths of all three archetypes.
+    - >-
+      Central with fewer people: the centre still builds and decides everything.
+  correct: 3
+  explanation: >-
+    Hub-and-spoke is a separation of concerns, not a midpoint: the hub owns the constants (platform,
+    standards, catalogue, high-risk validation) and the units build and decide what their risk tier
+    allows. A smaller centre that still builds and still decides every go-live keeps the central
+    model's queue.
+
+- id: q2
+  question: >-
+    Which build does Crescent's tier rule put in the high tier?
+  options:
+    - >-
+      Call summaries that a macro writes into the customer's CRM note without anyone reading them.
+    - >-
+      A credit memo drafting tool, although a banker edits every memo before the credit committee.
+    - >-
+      A Branch FAQ that answers tellers' questions on fees from the procedures library.
+    - >-
+      Dispute letter drafts that an agent reads and edits before each letter is sent.
+  correct: 1
+  explanation: >-
+    High is set by what the output informs: a credit decision is high whatever the review. Unread
+    summaries into customer records are medium; a staff FAQ on internal procedures and one-case drafts
+    that a person checks are low.
+
+- id: q3
+  question: >-
+    Who should own the tier rule that decides which AI builds need full independent validation?
+  options:
+    - >-
+      Model Risk Management, referenced by the AI policy.
+    - >-
+      The AI CoE, because it sees the whole portfolio of builds.
+    - >-
+      Each unit head, for the builds in their own business unit.
+    - >-
+      The Management Committee, by a vote on each new build.
+  correct: 0
+  explanation: >-
+    If the people who want builds to go live write the rule, nobody trusts it, and the CRO will not
+    support it. MRM owning the rule keeps validation independent; the CoE runs the route, and a
+    committee vote per build recreates the queue.
+
+- id: q4
+  question: >-
+    In the simulation, today's set-up ends three years with 23 shadow tools. Your team suggests
+    shutting down every shadow tool the moment it is found. What does the evidence suggest?
+  options:
+    - >-
+      Shutting them down ends the problem, because units then learn to use the process.
+    - >-
+      Shutting them down is right only for tools that use customer data.
+    - >-
+      Shut-downs push the next ones further out of sight; bring them onto the road with controls.
+    - >-
+      Shadow tools should be allowed to run as they are while the paved road is built.
+  correct: 2
+  explanation: >-
+    Units build outside the process when they wait; punishing the ones who are found makes the rest
+    hide better (in the model, every unit's appetite rises). A route onto the platform with the DPO's and
+    the CISO's interim controls removes the reason to hide without blessing the tool as it is.
+
+- id: q5
+  question: >-
+    A colleague says: "Directive 369 is based on SR 11-7, and the US replacement excludes generative AI,
+    so our letter drafts are out of scope." What do you answer?
+  options:
+    - >-
+      Agree: the Israeli directive follows the US guidance, so the same exclusion applies.
+    - >-
+      Disagree on the law and decide yourself that every generative tool is a model.
+    - >-
+      Ignore it: US guidance has no relevance to an Israeli bank's design.
+    - >-
+      The Israeli directive says it applies to AI models; ask the CRO to read it for the bank.
+  correct: 3
+  explanation: >-
+    Directive 369 states that its provisions apply to models that use AI and leaves the definition to
+    the bank's policy; SR 26-2 is a US letter Crescent is not subject to. The reading is the CRO's, not
+    a colleague's or yours.

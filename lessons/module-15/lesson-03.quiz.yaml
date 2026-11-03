@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    The board approved a 16-person central team to "industrialise" the pilots. The gate after it
+    validates 1.5 AI systems a quarter. What happens to the time it takes to get 40 builds through?
+  options:
+    - >-
+      It halves, because the central team builds production versions twice as fast.
+    - >-
+      It falls a little, because better-built pilots pass validation more often.
+    - >-
+      It does not change: the builds wait at the same gate, so the queue only grows.
+    - >-
+      It cannot be estimated until the central team has been hired and measured.
+  correct: 2
+  explanation: >-
+    Adding capacity upstream of a binding constraint does not move the constraint. At 3 slots a quarter
+    and 2 slots per full validation, 40 builds still need 26.7 quarters, however fast they are built.
+
+- id: q2
+  question: >-
+    The register's claimed benefits add up to ₪44.6M a year. The CEO wants to quote it to the board.
+    What do you tell him?
+  options:
+    - >-
+      Quote it, since each unit stands behind its own figure in the register.
+    - >-
+      A units' claim, partly double-counted, mostly unmeasured: label it assumed.
+    - >-
+      Halve it to be conservative and quote ₪22M as the expected benefit.
+    - >-
+      Quote only the part from rows with a measured baseline, as the measured benefit.
+  correct: 1
+  explanation: >-
+    ₪1.9M is the same benefit claimed by two rows of one build and ₪12.55M has no baseline; even a
+    measured baseline is not a measured benefit. Halving a guess is still a guess; label the whole
+    figure assumed and report benefits as they are banked.
+
+- id: q3
+  question: >-
+    Which set of measures gives the board a view of whether AI governance works, not only whether there
+    is a policy?
+  options:
+    - >-
+      Reached production, median days to decision with the slowest named, declined and why.
+    - >-
+      Number of pilots, number of units with AI, and AI budget spent to date.
+    - >-
+      Number of policies approved, committee meetings held, and staff trained.
+    - >-
+      Licences bought, weekly active users, and the share of staff who completed training.
+  correct: 0
+  explanation: >-
+    The three numbers show whether the route helps the bank use AI, whether it is fast enough that people
+    use it, and whether it can say no. Counts of pilots, policies or licences say activity, not whether
+    the route works.
+
+- id: q4
+  question: >-
+    Your opportunity map for Crescent has eight options. Which one goes first on the case's front page?
+  options:
+    - >-
+      Moving the best ten pilots to production with a dedicated central team.
+    - >-
+      Hiring more validators so that the committee can review every pilot in full.
+    - >-
+      A bank-wide generative AI platform that every unit must build on from now on.
+    - >-
+      Changing who decides go-live by risk tier, with validation in proportion to risk.
+  correct: 3
+  explanation: >-
+    The binding constraint is a policy that applies full validation to everything. Changing decision
+    rights and validation depth is what moves the queue; the rest either adds to the wrong side of the
+    gate or helps only once the rule has changed.
+
+- id: q5
+  question: >-
+    The CFO's 15% is computed on a base that includes ₪420,000 budgeted twice. How do you raise it?
+  options:
+    - >-
+      At the Management Committee, so the error is minuted before any cut is agreed.
+    - >-
+      Not at all: it is his base, and correcting it would sour the relationship.
+    - >-
+      Privately, with the corrected base, while still committing to meet his target.
+    - >-
+      In the case for the CEO, as evidence that finance does not understand AI spend.
+  correct: 2
+  explanation: >-
+    The correction is real and he needs it, but scoring a point in public makes the CFO defend his memo
+    instead of working with you. Giving him the right base privately and still meeting his number keeps
+    the conversation about the cut, not about who was wrong.

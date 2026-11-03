@@ -1,0 +1,113 @@
+"""The pilot table behind the register (43 rows as the units submitted them).
+
+Columns per row (the register adds formatting and messiness):
+id, unit, name, description, owner, stage, started, last_update, vendor, contract_id, environment,
+data_class, customer_facing, decision_effect, risk_self, users, test_set_file, eval_status, baseline,
+claimed_benefit, cost_2026, budget_2027, depends_on, submitted, notes
+"""
+from datetime import date as D
+
+UNITS = {
+    "RET": ("Retail Banking", "קמעונאות"), "MTG": ("Mortgages", "משכנתאות"),
+    "CRD": ("Cards & Payments", "כרטיסים ותשלומים"), "SME": ("SME Banking", "עסקים קטנים"),
+    "CORP": ("Corporate Banking", "בנקאות עסקית"), "PRV": ("Private Banking", "בנקאות פרטית"),
+    "TRS": ("Treasury & Markets", "חטיבת שווקים"), "CRK": ("Credit Risk", "סיכוני אשראי"),
+    "CMP": ("Compliance & AML", "ציות ואיסור הלבנה"), "OPS": ("Operations", "תפעול"),
+    "CC": ("Contact Centre", "מוקד שירות"), "DIG": ("Digital Channels", "ערוצים דיגיטליים"),
+    "HR": ("HR", "משאבי אנוש"), "FIN": ("Finance", "כספים"),
+}
+
+P = [
+    # --- Retail Banking
+    ("RET-01", "RET", "סיכום תלונות חכם", "סיכום אוטומטי של תלונות לקוחות מכל הערוצים ודוח חודשי לממונה על פניות הציבור. Complaint summaries + monthly themes.", "Shira Katz", "Pilot", D(2025, 11, 2), D(2026, 12, 20), "Mishov Analytics", "PR-2025-117", "mishov-ret-tenant", "Customer-PII", "N", "assist", "Low", 14, "", "No test set", "N", 900000, 248000, 260000, "", "", "Vendor says 90% accuracy (their benchmark). Want to extend to branches."),
+    ("RET-02", "RET", "Next-best-offer prompts", "Suggests a product to offer at the branch desk from 12 months of card and account transactions. הצעת מוצר ללקוח לפי תנועות.", "Yigal Sasson", "Pilot", D(2026, 2, 15), D(2026, 11, 30), "in-house", "", "mizrah-ds-nbo", "Customer-PII", "Indirect", "informs", "Low", 40, "nbo_holdout_q2.csv", "Uplift test not run", "N", 2400000, 170000, 210000, "", "", "Compliance asked about purpose of use of transaction data (Oct). Open."),
+    ("RET-03", "RET", "Branch staff FAQ assistant", "Answers staff questions on fees, procedures and forms from the procedures library. עוזר שאלות ותשובות לסניפים.", "Olga Petrenko", "Pilot (extended)", D(2025, 10, 5), D(2026, 12, 28), "Ananim Cloud AI (sandbox API)", "PR-2025-099", "nimbus-sbx-ret", "Internal", "N", "assist", "Low", 31, "branch_faq_test_v2.csv", "Passed (internal)", "Partial", 600000, 70000, 90000, "", "2025-10-20", "Used in 31 branches. Waiting for Model Committee since Oct 2025."),
+    ("RET-04", "RET", "Churn early warning", "Monthly list of retail customers likely to move their salary account, for the branch to call. מודל נטישה.", "Yigal Sasson", "POC", D(2026, 5, 1), D(2026, 12, 1), "in-house", "", "mizrah-ds-churn", "Customer-PII", "Indirect", "informs", "Medium", 6, "churn_backtest_2025.csv", "AUC 0.74 backtest", "Y", 1100000, 120000, 160000, "", "2026-09-07", ""),
+    # --- Mortgages
+    ("MTG-01", "MTG", "Mortgage document extraction", "Extracts income, ID and property fields from scanned mortgage application files into Atid.", "Rachel Azaria", "Pilot", D(2025, 9, 1), D(2026, 12, 15), "Rishum Docs", "PR-2025-088", "docai-mtg-sbx", "Customer-PII", "N", "assist", "Medium", 22, "mtg_docs_gold_400.csv", "Field accuracy 93.1%", "Y", 1300000, 210000, 180000, "", "2026-04-12", "Shared with back office (Operations)."),
+    ("MTG-02", "MTG", "בדיקת סבירות שמאות", "Flags valuations that look out of line with the area. Valuation sanity check before credit approval.", "Rachel Azaria", "Pilot", D(2026, 1, 10), D(2026, 10, 2), "in-house", "", "mizrah-ds-val", "Confidential", "N", "informs", "Medium", 9, "val_test_150.csv", "False-accept 18% (threshold 5%)", "N", 700000, 150000, 190000, "", "", "Uses the 2023 regional price index snapshot."),
+    ("MTG-03", "MTG", "Mortgage FAQ for advisers", "Answers advisers' questions on mortgage products and the Supervisor's disclosure rules from internal guides.", "Dvir Amsalem", "Pilot", D(2026, 3, 1), D(2026, 12, 10), "Ananim Cloud AI (sandbox API)", "PR-2025-099", "nimbus-sbx-mtg", "Internal", "N", "assist", "Low", 18, "mtg_faq_test_80.csv", "Passed 88% (threshold 85%)", "Partial", 250000, 40000, 60000, "", "", ""),
+    ("MTG-04", "MTG", "Broker email drafts", "Drafts replies to mortgage brokers' status emails.", "Dvir Amsalem", "Pilot", D(2026, 6, 1), D(2026, 9, 1), "Katvan AI", "PR-2026-041", "scribo-mtg", "Confidential", "Indirect", "assist", "Low", 0, "", "No test set", "N", 300000, 60000, 70000, "", "", "No active users since August."),
+    # --- Cards & Payments
+    ("CRD-01", "CRD", "Complaint summaries — Cards", "Summarises cardholder complaints and disputes, tags root cause, monthly themes report. סיכום תלונות כרטיסים.", "Maya Elkayam", "Pilot", D(2025, 12, 1), D(2026, 12, 21), "Bahir Labs", "PR-2025-131", "cleartext-crd", "Customer-PII", "N", "assist", "Medium", 26, "crd_complaints_test_300.csv", "Summary accuracy 91% (threshold 85%)", "Y", 1000000, 190000, 230000, "", "2026-07-19", ""),
+    ("CRD-02", "CRD", "Fraud alert triage", "Ranks card fraud alerts so analysts work the riskiest first. דירוג התראות הונאה.", "Maya Elkayam", "Pilot", D(2025, 7, 1), D(2026, 12, 18), "in-house", "", "mizrah-ds-fraud", "Restricted", "Indirect", "decides order", "High", 12, "fraud_alerts_lab_2025.csv", "Recall@top20% 0.86", "Y", 3200000, 280000, 340000, "", "2026-02-03", ""),
+    ("CRD-03", "CRD", "Dispute letter drafts", "Drafts the letter to the cardholder and the chargeback reason text from the dispute case.", "Elad Ben-Shimon", "On hold", D(2026, 1, 5), D(2026, 3, 30), "Ananim Cloud AI (sandbox API)", "PR-2025-099", "nimbus-sbx-crd", "Customer-PII", "Indirect", "assist", "Low", 0, "disputes_test_120.csv", "Passed 90%", "Y", 450000, 30000, 80000, "", "2026-03-15", "On hold until Model Committee."),
+    ("CRD-04", "CRD", "Chargeback case summaries", "Summary of each chargeback case for the analyst.", "Elad Ben-Shimon", "Pilot", D(2026, 4, 1), D(2026, 11, 1), "Bahir Labs", "PR-2025-131", "cleartext-crd", "Customer-PII", "N", "assist", "Low", 8, "", "Not evaluated", "N", 200000, 60000, 90000, "", "", "Analysts say the rules engine summary is enough."),
+    # --- SME Banking
+    ("SME-01", "SME", "טיוטת בקשת אשראי לעסקים", "טיוטה של בקשת אשראי (credit memo) מתוך הדוחות הכספיים ונתוני החשבון, לפקיד האשראי.", "Yossi Ben-Haim", "POC", D(2026, 4, 1), D(2026, 11, 15), "Hadas Data (contractor)", "PR-2026-033", "hadas-sme-sbx", "Confidential", "N", "informs", "Medium", 5, "", "No test set", "N", 800000, 150000, 200000, "", "", ""),
+    ("SME-02", "SME", "KYC document check — SME", "Checks onboarding documents of small businesses for completeness and expiry (certificate of incorporation, IDs of signatories).", "Yossi Ben-Haim", "Pilot", D(2026, 2, 1), D(2026, 12, 1), "Mismach Check", "PR-2026-012", "docucheck-sme", "Customer-PII", "N", "assist", "Low", 7, "sme_kyc_test_90.csv", "Completeness recall 89%", "N", 400000, 110000, 150000, "", "", ""),
+    ("SME-03", "SME", "SME credit pre-approval", "Pre-approves small credit lines up to ₪150,000 for existing SME customers from account behaviour.", "Yossi Ben-Haim", "Pilot", D(2025, 10, 1), D(2026, 12, 12), "in-house", "", "mizrah-ds-preapp", "Confidential", "Y", "decides", "High", 3, "preapp_backtest_2024.csv", "Gini 0.61 backtest (2024 data)", "Y", 2600000, 230000, 260000, "", "2026-05-10", "Backtest on 2024 data, before the rate changes."),
+    # --- Corporate Banking
+    ("CORP-01", "CORP", "Credit memo assistant", "Drafts the credit memo for corporate credit committees from financial statements, covenants and RM notes. Banker edits.", "Daniel Friedman", "Pilot", D(2025, 11, 15), D(2026, 12, 14), "Pinkas AI", "PR-2025-140", "ledgerly-corp", "Confidential", "N", "informs", "High", 11, "corp_memos_test_120.csv", "Factual accuracy 94%; 2 of 120 with a wrong covenant", "Y", 1500000, 220000, 240000, "", "2026-06-21", ""),
+    ("CORP-02", "CORP", "RM briefs", "One-page brief on a client group before a meeting, from internal data and public filings.", "Daniel Friedman", "Pilot", D(2026, 3, 1), D(2026, 12, 1), "Ananim Cloud AI (sandbox API)", "PR-2025-099", "nimbus-sbx-corp", "Confidential", "N", "assist", "Low", 25, "rm_briefs_test_40.csv", "Passed 92%", "Partial", 400000, 50000, 70000, "", "", ""),
+    # --- Private Banking
+    ("PRV-01", "PRV", "Client letter drafts", "Drafts quarterly letters to private clients.", "Michael Stern", "Pilot", D(2026, 1, 1), D(2026, 7, 1), "Katvan AI", "PR-2026-041", "scribo-prv", "Customer-PII", "Indirect", "assist", "Low", 2, "", "No test set", "N", 200000, 50000, 60000, "", "", "Bankers prefer their own templates."),
+    ("PRV-02", "PRV", "Portfolio commentary", "Monthly commentary on each client portfolio with suggested changes. הערות לתיק ההשקעות.", "Ariel Mizrahi", "Pilot", D(2025, 12, 1), D(2026, 8, 30), "Pinkas AI", "PR-2025-140", "ledgerly-prv", "Customer-PII", "Y", "advises", "Medium", 6, "prv_comment_test_50.csv", "14% factual errors on holdings", "N", 900000, 160000, 180000, "", "", ""),
+    ("PRV-03", "PRV", "Morning market note", "A morning note on markets for private bankers to send to clients. סקירת בוקר.", "Michael Stern", "Pilot", D(2025, 9, 15), D(2026, 12, 20), "in-house", "PR-2025-099", "trs-llm-sbx", "Public", "Indirect", "assist", "Low", 15, "mkt_summ_test_60.csv", "Passed", "N", 150000, 90000, 110000, "", "", "Budget held by Private Banking."),
+    # --- Treasury & Markets
+    ("TRS-01", "TRS", "Daily market summaries", "Generates the daily market summary for the dealing room and private bankers from wire feeds and internal positions (positions removed).", "Boris Lerner", "Pilot", D(2025, 9, 15), D(2026, 12, 20), "in-house", "PR-2025-099", "trs-llm-sbx", "Internal", "N", "assist", "Low", 30, "mkt_summ_test_60.csv", "Passed", "N", 300000, 90000, 110000, "", "2026-03-01", ""),
+    ("TRS-02", "TRS", "Trade surveillance alerts", "Scores trader communications and orders for market-abuse patterns.", "Boris Lerner", "POC", D(2026, 2, 1), D(2026, 12, 5), "in-house", "", "mizrah-ds-surv", "Restricted", "N", "informs", "High", 4, "surv_lab_set.csv", "Precision 0.31 at recall 0.8 (lab)", "Y", 900000, 240000, 300000, "", "2026-08-30", ""),
+    ("TRS-03", "TRS", "Liquidity forecast", "30-day intraday liquidity forecast with ML on payment flows. תחזית נזילות.", "Boris Lerner", "POC", D(2026, 5, 1), D(2026, 12, 1), "in-house", "", "mizrah-ds-liq", "Restricted", "N", "informs", "High", 3, "liq_backtest_2025.csv", "MAPE 6.2% backtest", "Y", 600000, 190000, 220000, "", "", ""),
+    # --- Credit Risk
+    ("CRK-01", "CRK", "Early-warning signals", "Early-warning score for corporate borrowers from account flows, news and covenants.", "Dr. Hila Nachum", "Pilot", D(2025, 8, 1), D(2026, 12, 15), "in-house", "", "mizrah-ds-ews", "Confidential", "N", "informs", "High", 9, "ews_backtest_2019_2025.csv", "AUC 0.81 backtest", "Y", 2000000, 250000, 280000, "", "2025-12-14", "In validation since September."),
+    ("CRK-02", "CRK", "Covenant extraction", "Extracts covenants and thresholds from loan agreements into the monitoring system.", "Dr. Hila Nachum", "Pilot", D(2026, 1, 15), D(2026, 12, 1), "Rishum Docs", "PR-2026-008", "doculens-crk", "Confidential", "N", "assist", "Medium", 6, "cov_gold_200.csv", "Field accuracy 95.5%", "Y", 500000, 100000, 120000, "", "", ""),
+    # --- Compliance & AML
+    ("CMP-01", "CMP", "בדיקת מסמכי הכר את הלקוח", "בדיקת שלמות ותוקף של מסמכי KYC בפתיחת חשבון (תעודות, אישורי התאגדות, מורשי חתימה), כולל עסקים.", "Samer Khoury", "Pilot", D(2025, 11, 1), D(2026, 12, 10), "Imut Docs", "PR-2025-126", "veridoc-cmp", "Customer-PII", "N", "assist", "Medium", 10, "kyc_gold_250.csv", "Completeness recall 96%", "Y", 700000, 150000, 170000, "", "2026-05-24", ""),
+    ("CMP-02", "CMP", "AML alert triage", "Closes low-risk transaction-monitoring alerts automatically and ranks the rest.", "Samer Khoury", "Pilot", D(2025, 10, 1), D(2026, 11, 20), "in-house", "", "mizrah-ds-aml", "Restricted", "N", "decides", "Medium", 5, "aml_labelled_2025.csv", "False negatives 9% (threshold 1%)", "N", 1800000, 220000, 260000, "", "", ""),
+    # --- Operations
+    ("OPS-01", "OPS", "Bank-wide assistant rollout", "Tzofen Assist for all staff: drafting, search over internal documents, meeting notes; agent studio for unit assistants. 300 seats in pilot, 1,600 from Dec 2026.", "Shlomi Azoulay", "Rollout", D(2026, 5, 3), D(2026, 12, 30), "Tzofen", "PR-2025-090", "tzofen-tenant-01", "Internal", "N", "assist", "Low", 300, "assistant_eval_v1.csv", "Passed (internal)", "Partial", 6000000, 520000, 2400000, "", "2026-11-01", "Seats: 300 pilot (May), 1,600 activated 1 Dec 2026."),
+    ("OPS-02", "OPS", "Procedure assistant", "Answers back-office staff questions from the operations procedures (Hebrew), with links to the procedure section.", "Shlomi Azoulay", "Pilot", D(2026, 6, 1), D(2026, 12, 22), "Tzofen", "PR-2025-090", "tzofen-tenant-01", "Internal", "N", "assist", "Low", 118, "ops_proc_test_150.csv", "Correct + cited 91% (threshold 85%)", "Y", 1400000, 60000, 140000, "", "2026-11-01", ""),
+    ("OPS-03", "OPS", "Reconciliation exceptions", "Suggests the likely cause and matching entry for nostro reconciliation breaks.", "Shlomi Azoulay", "POC", D(2026, 7, 1), D(2026, 12, 1), "in-house", "", "mizrah-ds-recon", "Confidential", "N", "assist", "Medium", 6, "recon_breaks_test_200.csv", "Right cause 78%", "Y", 700000, 90000, 130000, "", "", ""),
+    ("OPS-04", "OPS", "Doc-AI תיקי משכנתא", "חילוץ שדות מתיקי משכנתא סרוקים לבק אופיס (הכנסות, ת.ז., נכס).", "Pnina Gabay", "Pilot", D(2025, 9, 1), D(2026, 12, 15), "Rishum Docs", "PR-2025-088", "docai-mtg-sbx", "Customer-PII", "N", "assist", "Medium", 22, "mtg_docs_gold_400.csv", "93%", "Y", 1300000, 210000, 180000, "", "", ""),
+    ("OPS-05", "OPS", "AP automation pilot", "Matches supplier invoices to purchase orders and goods receipts; clerk confirms.", "Pnina Gabay", "Pilot", D(2026, 3, 1), D(2026, 12, 1), "Hatama AI", "PR-2026-019", "matchpoint-fin", "Internal", "N", "assist", "Low", 9, "invoice_match_test_500.csv", "Auto-match precision 98.4%", "Y", 450000, 110000, 130000, "", "", ""),
+    # --- Contact Centre
+    ("CC-01", "CC", "סיכום שיחות מוקד", "Call summaries: transcribes and summarises customer calls (Hebrew, Arabic, Russian) and fills the CRM note. סיכום שיחה אוטומטי.", "Revital Cohen / Tom Erez", "Pilot", D(2026, 2, 1), D(2026, 12, 29), "Kolelet AI", "PR-2026-004", "kolot-cc", "Customer-PII", "N", "assist", "Medium", 140, "cc_calls_test_200.csv", "Summary accuracy 89%; Arabic 81%", "Y", 2100000, 180000, 210000, "", "2026-06-02", "Since Aug the summary is copied into the Kesher note by a macro."),
+    ("CC-02", "CC", "Agent knowledge assistant", "Answers agents' questions during calls from the knowledge base and procedures, in Hebrew; Arabic and Russian questions translated.", "Revital Cohen", "Pilot", D(2026, 7, 1), D(2026, 12, 22), "Tzofen", "PR-2025-090", "tzofen-tenant-01", "Internal", "N", "assist", "Low", 110, "cc_kb_test_180.csv", "Correct + cited 88% (threshold 85%)", "Y", 1700000, 70000, 160000, "", "2026-11-01", ""),
+    ("CC-03", "CC", "Complaint routing", "Routes incoming complaints to the right team and priority.", "Revital Cohen", "Pilot", D(2026, 3, 1), D(2026, 12, 1), "Bahir Labs", "PR-2025-131", "cleartext-cc", "Customer-PII", "N", "decides", "Low", 20, "routing_test_400.csv", "Accuracy 61% (threshold 85%)", "N", 500000, 100000, 120000, "", "", ""),
+    # --- Digital Channels
+    ("DIG-01", "DIG", "Customer chatbot", "Website and app chatbot for customers: fees, cards, opening hours, then handover.", "Tom Erez", "Pilot", D(2025, 11, 1), D(2026, 12, 18), "Sichon AI", "PR-2025-122", "converso-dig", "Customer-PII", "Y", "answers customers", "Low", 0, "chatbot_test_200.csv", "17% wrong on fees; Arabic answered in Hebrew", "N", 1900000, 260000, 230000, "", "2026-09-27", "Live for 2% of web visitors (A/B) since November."),
+    ("DIG-02", "DIG", "Chat transcript summaries", "סיכום שיחות צ'אט עם נציגים ושמירה בתיק הלקוח. Summaries of agent chats into the customer record.", "Tom Erez", "Pilot", D(2026, 4, 1), D(2026, 12, 1), "Bahir Labs", "PR-2025-131", "cleartext-dig", "Customer-PII", "N", "assist", "Low", 25, "", "Spot-checked 50", "N", 600000, 120000, 150000, "", "", ""),
+    ("DIG-03", "DIG", "In-app search", "Search over the bank's public help pages in the app; shows the page, no generated text.", "Tom Erez", "Pilot", D(2026, 5, 1), D(2026, 12, 1), "in-house", "", "dig-search", "Public", "Y", "none", "Low", 0, "search_test_300.csv", "Top-3 hit 87%", "Y", 300000, 70000, 90000, "", "", "A/B on 10% of app users."),
+    # --- HR
+    ("HR-01", "HR", "CV screening", "Ranks applicants for branch teller and contact-centre roles.", "Anat Weiss", "Pilot", D(2026, 1, 1), D(2026, 10, 1), "Kishron Rank", "PR-2025-135", "talentrank-hr", "Employee-PII", "N", "informs", "Medium", 4, "cv_hist_2023_2025.csv", "Selection-rate ratio by town 0.62", "N", 500000, 120000, 150000, "", "2026-08-02", "Features incl. home town and graduation year."),
+    ("HR-02", "HR", "HR policy FAQ", "Answers staff questions on leave, benefits and HR procedures.", "Anat Weiss", "Pilot", D(2026, 4, 1), D(2026, 12, 1), "Ananim Cloud AI (sandbox API)", "PR-2025-099", "nimbus-sbx-hr", "Internal", "N", "assist", "Low", 60, "hr_faq_test_70.csv", "Passed 90%", "Partial", 150000, 30000, 50000, "", "", ""),
+    # --- Finance
+    ("FIN-01", "FIN", "Variance commentary", "Drafts the monthly variance commentary for the management report.", "Eli Rosen", "Pilot", D(2026, 2, 1), D(2026, 12, 5), "Ananim Cloud AI (sandbox API)", "PR-2025-099", "nimbus-sbx-fin", "Internal", "N", "assist", "Low", 7, "variance_test_24.csv", "Passed", "Y", 200000, 40000, 60000, "", "", ""),
+    ("FIN-02", "FIN", "Invoice matching", "התאמת חשבוניות ספקים להזמנות רכש ולתעודות משלוח; פקיד מאשר.", "Eli Rosen", "Pilot", D(2026, 3, 1), D(2026, 12, 1), "Hatama AI", "PR-2026-019", "matchpoint-fin", "Internal", "N", "assist", "Low", 9, "invoice_match_test_500.csv", "Auto-match precision 98.4%", "Y", 450000, 110000, 130000, "", "2026-10-11", ""),
+    ("FIN-03", "FIN", "Expense audit sampling", "Selects employee expense claims for audit by risk instead of at random.", "Eli Rosen", "POC", D(2026, 6, 1), D(2026, 12, 1), "in-house", "", "mizrah-ds-exp", "Employee-PII", "N", "informs", "Low", 3, "exp_audit_2025.csv", "Hit rate 3.1x random", "Y", 200000, 80000, 110000, "", "", ""),
+]
+
+FIELDS = ["id", "unit", "name", "description", "owner", "stage", "started", "last_update", "vendor",
+          "contract_id", "environment", "data_class", "customer_facing", "decision_effect", "risk_self",
+          "users", "test_set_file", "eval_status", "baseline", "claimed_benefit", "cost_2026",
+          "budget_2027", "depends_on", "submitted", "notes"]
+
+PILOTS = [dict(zip(FIELDS, row)) for row in P]
+assert len(PILOTS) == 43, len(PILOTS)
+
+# decision area and how outputs are checked, as the units described them in the submission form
+AREA_REVIEW = {
+    "RET-01": ("service quality", "sample"), "RET-02": ("marketing", "every output"),
+    "RET-03": ("staff help", "every output"), "RET-04": ("retention", "every output"),
+    "MTG-01": ("onboarding documents", "sample"), "MTG-02": ("valuation", "every output"),
+    "MTG-03": ("staff help", "every output"), "MTG-04": ("correspondence", "every output"),
+    "CRD-01": ("service quality", "sample"), "CRD-02": ("fraud", "every output"),
+    "CRD-03": ("correspondence", "every output"), "CRD-04": ("case handling", "every output"),
+    "SME-01": ("credit", "every output"), "SME-02": ("onboarding documents", "sample"),
+    "SME-03": ("credit", "none"), "CORP-01": ("credit", "every output"),
+    "CORP-02": ("staff help", "every output"), "PRV-01": ("correspondence", "every output"),
+    "PRV-02": ("investment advice", "every output"), "PRV-03": ("research", "every output"),
+    "TRS-01": ("research", "every output"), "TRS-02": ("market abuse", "every output"),
+    "TRS-03": ("liquidity", "every output"), "CRK-01": ("credit", "every output"),
+    "CRK-02": ("credit monitoring data", "sample"), "CMP-01": ("onboarding documents", "sample"),
+    "CMP-02": ("aml", "none"), "OPS-01": ("staff help", "every output"),
+    "OPS-02": ("staff help", "every output"), "OPS-03": ("reconciliation", "sample"),
+    "OPS-04": ("onboarding documents", "sample"), "OPS-05": ("payables", "every output"),
+    "CC-01": ("customer records", "none"), "CC-02": ("staff help", "every output"),
+    "CC-03": ("service routing", "none"), "DIG-01": ("customer service", "none"),
+    "DIG-02": ("customer records", "none"), "DIG-03": ("customer service", "none"),
+    "HR-01": ("hiring", "every output"), "HR-02": ("staff help", "every output"),
+    "FIN-01": ("reporting", "every output"), "FIN-02": ("payables", "every output"),
+    "FIN-03": ("internal audit sampling", "every output"),
+}
+assert set(AREA_REVIEW) == {p["id"] for p in PILOTS}
