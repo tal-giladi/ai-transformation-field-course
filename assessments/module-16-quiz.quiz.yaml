@@ -1,0 +1,187 @@
+- id: q1
+  question: >-
+    A nonprofit asks you, as a pro bono volunteer, to "help us use AI with no budget". You have 40 hours
+    over four weeks. What do you do before opening any data?
+  options:
+    - >-
+      Agree a one-page charter with the director: objective read back, done, out of scope, an urgent-finding rule.
+    - >-
+      Send a full AI readiness questionnaire to every staff member, so the first week has data to analyse.
+    - >-
+      Set up a free AI tool for the development team, so there is a visible result in the first week.
+    - >-
+      Ask the board chair what he saw at the conference, since the AI request came from him.
+  correct: 0
+  explanation: >-
+    Without a written scope unpaid work grows until someone quits, and the rule for urgent exposures must
+    exist before you find one. A long questionnaire costs hours nobody has; a tool before discovery
+    builds on what you have not yet seen.
+
+- id: q2
+  question: >-
+    Half the staff answered "Do you use AI?" with "no" or skipped it. In your first week, how do you find
+    out how the funder reports are really written?
+  options:
+    - >-
+      Send a second, anonymous survey with more detailed questions about tools and accounts.
+    - >-
+      Ask the IT person to export the browser history of office computers for AI sites.
+    - >-
+      Ask the director which staff she suspects, and interview those first.
+    - >-
+      Under non-attribution, ask a coordinator to walk you through her last quarterly report.
+  correct: 3
+  explanation: >-
+    People show their work when they are not suspects. A walk-through reveals the tool, the account and
+    what went in; another survey repeats the non-response, and browser exports or suspicion lists end
+    discovery.
+
+- id: q3
+  question: >-
+    The family shared drive has 46 authorized accounts; nine roles need case files. The database holds
+    medical information. How do you report this to the director?
+  options:
+    - >-
+      As a breach of the Data Security Regulations that must be reported to the Privacy Protection Authority.
+    - >-
+      As a list for the IT person: who each account is, which nine stay, and a counsel question on the level.
+    - >-
+      As a percentage of staff with access, so the board sees the size of the problem in one number.
+    - >-
+      As a risk to note for the next policy review, since nothing has gone wrong yet.
+  correct: 1
+  explanation: >-
+    Counting accounts against roles turns alarm into actions, and the security-level reading is counsel's
+    call. Calling it a reportable breach is a legal conclusion you cannot make; deferring it ignores
+    children's medical data in personal accounts.
+
+- id: q4
+  question: >-
+    One funder's template asks for 120 family narratives every quarter, which takes the coordinators two
+    weeks. What is the first move?
+  options:
+    - >-
+      A grant-writing assistant on a work account that drafts the 120 narratives from the notes.
+    - >-
+      A part-time writer hired for the two report weeks, paid from the grant's admin line.
+    - >-
+      A one-page proposal the director puts to the funder: outcomes plus a few consented stories.
+    - >-
+      Coordinators shorten each narrative to 100 words, which should roughly halve the time.
+  correct: 2
+  explanation: >-
+    The bottleneck is what is asked to be written. A shorter format removes most of the work and most of
+    the exposure; drafting 120 narratives with AI puts more family details into more tools, and shorter
+    narratives still number 120.
+
+- id: q5
+  question: >-
+    The board says there is no budget. The card statement shows paid Microsoft seats nobody uses after a
+    grant ended, a personal ChatGPT subscription on the card and a free trial about to convert. What do
+    you put to the treasurer?
+  options:
+    - >-
+      The list with annual amounts, sources and the exchange rate, as money to stop spending.
+    - >-
+      A request to reallocate the money to an AI tool, since the saving proves it is affordable.
+    - >-
+      Nothing yet, since the spending is the IT person's responsibility and not part of the AI ask.
+    - >-
+      A recommendation to move all staff to free tools and cancel Microsoft entirely.
+  correct: 0
+  explanation: >-
+    "No budget" was true about new money and false about money. A sourced list of what to stop paying is
+    the one thing a treasurer approves gladly; asking to spend it at once, or cancelling tools people
+    use, loses him.
+
+- id: q6
+  question: >-
+    With 40 hours, which of these do you shrink to an hour or less?
+  options:
+    - >-
+      The interview with the parent whose child's story was published without consent.
+    - >-
+      The afternoon with the IT person changing who can see family files.
+    - >-
+      Writing negative tests that the case-notes assistant must refuse.
+    - >-
+      The vendor review: reading the terms pages of the tools already in use.
+  correct: 3
+  explanation: >-
+    Documents and reviews shrink; contact with people, access and the tests that protect families do not.
+    Reading each tool's terms for training on content and conversion dates takes an hour and is enough
+    here.
+
+- id: q7
+  question: >-
+    The IT person's two-year-old note says "Gemini is not included for nonprofits". A staff member says a
+    blog post claims everything is free now. How do you settle it?
+  options:
+    - >-
+      Trust the blog post, since it is more recent than the note and written by a specialist.
+    - >-
+      Read the vendor's own nonprofit pages for your country, including what the free plan excludes.
+    - >-
+      Ask the AI tool itself, on a work account, which features the nonprofit plan includes.
+    - >-
+      Ask the funder which tools its other grantees use, and assume the same terms apply here.
+  correct: 1
+  explanation: >-
+    Offers change yearly and secondary sources disagree. Google's own pages show the Gemini app and
+    NotebookLM included at no cost but Gemini in Gmail and Docs not; only the vendor's comparison tells
+    you the exclusion, and the date tells the next reader when to recheck.
+
+- id: q8
+  question: >-
+    In testing, the case-notes assistant stopped an identifiable note in two of three runs. What does the
+    workflow say afterwards?
+  options:
+    - >-
+      The assistant may now receive identifiable notes, since it stops most of them anyway.
+    - >-
+      Each note must be run through the assistant three times to be safe.
+    - >-
+      The coordinator removes identifying details first; the assistant's stop is only a backup.
+    - >-
+      The case-notes workflow is cancelled until a model passes every run.
+  correct: 2
+  explanation: >-
+    A stop that works two times in three is not a control. Making the person the control and the tool a
+    second line keeps the useful part of the workflow; cancelling it or trusting it both miss the point.
+
+- id: q9
+  question: >-
+    You have written a nine-rule policy on one page. The chair asks where the rest of the policy pack is.
+    What is the best answer?
+  options:
+    - >-
+      Each rule replaces a Stage 1 document, and the open legal questions are with the volunteer lawyer.
+    - >-
+      The full pack will follow in the new year, once the board has adopted the page.
+    - >-
+      The page is a summary; the full pack is the template set the organization can fill in later.
+    - >-
+      A small nonprofit is exempt from most of the pack under the privacy law.
+  correct: 0
+  explanation: >-
+    The page is the pack sized for 30 people: use, approved tools, boundary, review, inventory, incident
+    and governance each have a rule, and the DPIA questions sit with counsel. No exemption for small
+    organizations was found, and a promised "full pack" would never be written.
+
+- id: q10
+  question: >-
+    You leave on Thursday. The only person who does IT works one day a week. What makes the work survive?
+  options:
+    - >-
+      A detailed binder of every finding, document and decision, saved in the shared drive.
+    - >-
+      A quarterly call with you, booked for the next year, to review progress with the director.
+    - >-
+      A paid monitoring tool that checks sharing and AI use automatically and emails alerts.
+    - >-
+      A 15-minute check by him on the first Tuesday each month, five questions, and a second admin.
+  correct: 3
+  explanation: >-
+    An operating rhythm that one part-time person can actually run, with a backup administrator, keeps
+    the controls true. A binder is not read, a volunteer's calls end, and another tool is another thing
+    nobody administers.

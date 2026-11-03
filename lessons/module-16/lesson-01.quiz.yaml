@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    You are a volunteer with 40 hours and no fee. Ronit says a charter is "too formal for a favour". What
+    do you do?
+  options:
+    - >-
+      Skip it and keep notes privately, since nobody is paying for the scope to be defended.
+    - >-
+      Write one page by email anyway: objective, done, out of scope with owners, the urgent-finding rule.
+    - >-
+      Use the full engagement charter template so the board sees the work is professional.
+    - >-
+      Ask Mahut to write the scope, since the matching programme is the party to the agreement.
+  correct: 1
+  explanation: >-
+    Unpaid work without a written scope grows until someone quits, and the urgent-finding rule must exist
+    before you find anything. One page fits the organization; a full template does not get read, and
+    Mahut does not know Open Hands' work.
+
+- id: q2
+  question: >-
+    On day one you find that children's care sheets have been open to "anyone with the link" for two
+    years. Your hour budget puts the access work in week 2. What do you do?
+  options:
+    - >-
+      Note it for the findings memo, so it is presented with the evidence and the other findings.
+    - >-
+      Close the link yourself through your guest account, then tell Ronit what you changed.
+    - >-
+      Wait until you have interviewed Yossi, so you do not embarrass him in front of Ronit.
+    - >-
+      Tell Ronit the same day, and agree with her and Yossi how to close it without stopping a weekend.
+  correct: 3
+  explanation: >-
+    The urgent-finding rule exists for exactly this. You have no authority to change settings yourself,
+    and closing the link blindly could leave this weekend's volunteers without medication information;
+    the person with authority decides, the same day.
+
+- id: q3
+  question: >-
+    Which line belongs in a volunteer's charter that would not be in a paid consultant's?
+  options:
+    - >-
+      "Nothing is built that the person who does IT one day a week cannot run without me."
+    - >-
+      "Exit points after each phase, with a deliverable and a decider at each."
+    - >-
+      "Changes in scope or dates by written change request signed by the sponsor."
+    - >-
+      "Invoices are issued at the end of each phase and paid from the sponsor's budget."
+  correct: 0
+  explanation: >-
+    A volunteer leaves on a date and the organization has no one but Yossi to maintain anything; that is
+    a design constraint. Exits, change requests and invoices belong to a paid engagement with phases to
+    protect.
+
+- id: q4
+  question: >-
+    The board minute says "we have no budget". The card statement shows about ₪9,190 of software from
+    January to October, including a Microsoft charge nobody approved. How do you sort the claim?
+  options:
+    - >-
+      Verified, because no budget line for AI exists in the approved 2026 budget.
+    - >-
+      Unverifiable, because the card statement is not the audited accounts.
+    - >-
+      Contradicted as stated: money is being spent, some of it on tools nobody uses.
+    - >-
+      Claim to test, because the treasurer may count software differently from the board.
+  correct: 2
+  explanation: >-
+    "No budget for new AI" is true; "no money" is not. The statement shows recurring software spend,
+    some unapproved and unused, which becomes the source of any small budget later. Sorting it as
+    contradicted keeps the finding precise.
+
+- id: q5
+  question: >-
+    With 40 hours, which step do you keep at full size while shrinking the rest?
+  options:
+    - >-
+      The readiness assessment, because the board needs a complete picture before any decision.
+    - >-
+      Interviews with staff, a volunteer and a family, and the time with Yossi in Drive.
+    - >-
+      The ROI model, because the treasurer will only approve something with a net present value.
+    - >-
+      The scoring workshop, because it builds ownership of the portfolio among the staff.
+  correct: 1
+  explanation: >-
+    Documents shrink; contact with the people and the data does not. A full readiness assessment, ROI
+    model or workshop would eat the hours that find where family information actually goes.

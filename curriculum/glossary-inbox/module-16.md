@@ -1,0 +1,8 @@
+- **Compression (of an engagement)** — Running the whole method in a fraction of the usual time by shrinking documents to tables and single pages while keeping every step that touches people, access and the data boundary at full weight (lesson 16.4).
+- **Urgent-finding rule** — A charter line, written before any data is opened, saying who hears about an exposure of personal information, how and when — usually the same day, by phone, not in a report (lesson 16.1).
+- **Sanctioned alternative** — The approved tool on the organization's own accounts, given to staff on the same day an unsafe practice is stopped, so the stop holds (lesson 16.4).
+- **Authorized users (Data Security Regulations)** — The people a database controller permits to access a database; under Israel's Privacy Protection (Data Security) Regulations their number can change a database's security level, a reading to confirm with counsel (lesson 16.4).
+- **Content library** — The short, approved set of sources a drafting assistant may use — and nothing else — so that every number and story it writes can be traced (lesson 16.5).
+- **De-identify first** — The workflow rule that a person removes names, places and other identifiers before any text reaches an AI tool, with automatic checks only as a backup (lesson 16.5).
+- **Trap (test item)** — A test input the assistant must never process, such as an identifiable note pasted by mistake, run several times because a stop that works only sometimes is not a control (lesson 16.5).
+- **Monthly check** — The smallest operating rhythm: a named person, a fixed day and about 15 minutes of concrete questions that keep access, subscriptions and tool versions true after the consultant leaves (lesson 16.6).

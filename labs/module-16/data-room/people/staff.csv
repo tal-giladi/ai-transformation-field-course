@@ -1,0 +1,31 @@
+staff_id,name,role,team,fte,languages,started,email,employment
+S01,Dr. Ronit Azoulay,Executive director,Management,1.0,"he,en,fr",2016-09-01,ronit.a@openhands-amuta.org.il,employee
+S02,Noa Ben-Ami,Head of development,Development,1.0,"he,en",2019-03-10,noa.b@openhands-amuta.org.il,employee
+S03,Shira Levin,Development coordinator (grants and reports),Development,0.6,"he,en",2023-01-15,shira.l@openhands-amuta.org.il,employee
+S04,Michael Cohen,Donor relations and events,Development,0.5,"he,en",2022-05-01,michael.c@openhands-amuta.org.il,employee
+S05,Yossi Mizrahi,Office and operations manager (IT one day a week),Operations,1.0,he,2017-02-01,yossi.m@openhands-amuta.org.il,employee
+S06,Galina Petrova,Bookkeeper,Operations,0.6,"ru,he",2018-07-01,galina.p@openhands-amuta.org.il,employee
+S07,Hana Golan,Head of family services (social worker),Family services,1.0,"he,en",2014-10-01,hana.g@openhands-amuta.org.il,employee
+S08,Samah Khatib,"Senior family coordinator (social worker), Arabic desk",Family services,0.8,"ar,he,en",2017-11-01,samah.k@openhands-amuta.org.il,employee
+S09,Yarden Avraham,Family coordinator (social worker),Family services,0.8,"he,en",2021-04-01,yarden.a@openhands-amuta.org.il,employee
+S10,Marina Kogan,"Family coordinator (social worker), Russian desk",Family services,0.8,"ru,he",2019-09-01,marina.k@openhands-amuta.org.il,employee
+S11,Tigist Alemu,"Family coordinator (social worker), Amharic desk",Family services,0.6,"am,he",2022-02-01,tigist.a@openhands-amuta.org.il,employee
+S12,Oren Biton,Family coordinator (social worker),Family services,0.8,he,2023-08-01,oren.b@openhands-amuta.org.il,employee
+S13,Rasha Abu-Ahmad,"Family coordinator (social worker), Shefa-'Amr",Family services,0.8,"ar,he",2020-01-01,rasha.a@openhands-amuta.org.il,employee
+S14,Eli Dahan,Rights advisor,Family services,0.5,he,2021-10-01,eli.d@openhands-amuta.org.il,employee
+S15,Sveta Ivanova,Intake coordinator,Family services,0.5,"ru,he,en",2024-03-01,sveta.i@openhands-amuta.org.il,employee
+S16,Fatma Zoabi,Rights hotline worker,Family services,0.6,"ar,he",2023-11-01,fatma.z@openhands-amuta.org.il,employee
+S17,Nurit Sasson,Parent groups coordinator,Programmes,0.5,he,2018-05-01,nurit.s@openhands-amuta.org.il,employee
+S18,Liat Ohana,Volunteer coordinator,Programmes,0.75,"he,en",2020-06-01,liat.o@openhands-amuta.org.il,employee
+S19,Amir Saleh,Respite programme manager,Programmes,0.8,"ar,he,en",2019-01-01,amir.s@openhands-amuta.org.il,employee
+S20,Hadas Mor,Siblings programme coordinator,Programmes,0.5,he,2022-09-01,hadas.m@openhands-amuta.org.il,employee
+S21,Maya Ronen,Communications and social media,Development,0.5,"he,en",2024-01-01,maya.r@openhands-amuta.org.il,employee
+S22,Mona Haj,"Office assistant, Shefa-'Amr room",Operations,0.5,"ar,he",2025-02-01,mona.h@openhands-amuta.org.il,employee
+S23,Daniel Tesfaye,Respite counsellor,Programmes,0.3,"am,he",2024-09-01,daniel.t@openhands-amuta.org.il,employee
+S24,Yulia Smirnova,Respite counsellor,Programmes,0.3,"ru,he",2025-01-01,yulia.s@openhands-amuta.org.il,employee
+S25,Lior Ben-Haim,Respite counsellor,Programmes,0.3,he,2023-06-01,lior.bh@openhands-amuta.org.il,employee
+S26,Nadine Shehadeh,Respite counsellor,Programmes,0.3,"ar,he",2024-06-01,nadine.s@openhands-amuta.org.il,employee
+S27,Itai Golan,Group facilitator (parent groups),Programmes,0.4,he,2025-03-01,itai.g@openhands-amuta.org.il,employee
+S28,Ruth Mekonen,Group facilitator (parent groups),Programmes,0.4,"am,he",2025-03-01,ruth.m@openhands-amuta.org.il,employee
+S29,Tehila Katz,National-service volunteer (office and intake),Operations,1.0,he,2026-09-01,ns1@openhands-amuta.org.il,national_service
+S30,Avigail Dror,National-service volunteer (respite and events),Programmes,1.0,he,2026-09-01,ns2@openhands-amuta.org.il,national_service

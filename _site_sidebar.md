@@ -137,3 +137,11 @@
   - [100 · Decide: triage, design and a 12-month plan](/lessons/module-15/lesson-05.md)
   - [101 · Readout and debrief](/lessons/module-15/lesson-06.md)
   - [Module 15 quiz](/assessments/module-15-quiz.md)
+- **Module 16 — Open Hands: A Nonprofit With No Budget**
+  - [102 · The call](/lessons/module-16/lesson-01.md)
+  - [103 · Discovery](/lessons/module-16/lesson-02.md)
+  - [104 · Diagnosis](/lessons/module-16/lesson-03.md)
+  - [105 · The hard part: four weeks, no budget, sensitive data](/lessons/module-16/lesson-04.md)
+  - [106 · Build: two workflows and the policy on one page](/lessons/module-16/lesson-05.md)
+  - [107 · Readout and debrief](/lessons/module-16/lesson-06.md)
+  - [Module 16 quiz](/assessments/module-16-quiz.md)

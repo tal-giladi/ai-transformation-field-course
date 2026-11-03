@@ -1,0 +1,15 @@
+funder_id,funder,type,annual_amount_ils,programme_funded,report_frequency,reports_per_year,report_format,per_family_narratives,next_report_due,renewal_due,est_hours_per_report,est_hours_per_proposal,report_language
+FD01,Adler-Haddad Family Foundation,family foundation,870000,Family coordination (children under 13),quarterly,4,"own template (Word), per-family outcome narrative for every family under the grant",y,2027-01-15,2027-01-31,90,40,en
+FD02,Ministry of Welfare (support),government,920000,Respite and parent groups,annual,1,online support system + audited figures,n,2027-04-30,2027-03-15,30,35,he
+FD03,Kiryat Hadas municipality (service agreement),municipality,620000,Coordination for referred families,monthly + annual,13,municipal Excel form (counts per family id),n,2026-12-05,2027-12-31,6,20,he
+FD04,Galilee Children's Trust,foundation,360000,Respite weekends,semi-annual,2,narrative + budget (their form),n,2027-02-28,2027-06-30,14,22,en
+FD05,Keshet Valley Federation,federation,300000,Rights hotline,annual,1,"online portal, outcomes + 2 stories",n,2027-03-31,2027-03-31,12,18,en
+FD06,Bar-Natan Fund,family foundation,240000,Siblings programme,annual,1,letter + numbers,n,2027-01-31,2027-05-31,6,10,he
+FD07,North Coast Community Foundation,community foundation,180000,Parent groups (Arabic),semi-annual,2,"their form, outcomes",n,2027-01-20,2027-07-31,10,16,en
+FD08,Tzur-Lev Insurance employees' fund,corporate,120000,Hanukkah and summer events,annual,1,photos + short report,n,2027-01-10,2027-09-30,5,6,he
+FD09,Rosenblum-Asaf Foundation,family foundation,110000,Amharic-speaking families,annual,1,narrative (English),n,2027-02-15,2027-02-15,10,18,en
+FD10,Tikun Haifa Bay Fund,foundation,90000,Transport to therapies,annual,1,online form,n,2027-03-01,2027-03-01,6,12,he
+FD11,Harel-Weiss Charitable Trust (UK),foundation,85000,General support,annual,1,narrative + audited accounts,n,2027-05-31,2027-05-31,8,14,en
+FD12,Shalev Family (donor-advised),donor-advised fund,60000,General support,annual,1,email update,n,2027-01-31,2027-12-31,2,3,en
+FD13,Kinneret Tech employees' giving,corporate,55000,Volunteer training,annual,1,short report,n,2027-02-28,2027-11-30,3,5,he
+FD14,Haifa Rotary,service club,40000,Equipment,per grant,1,letter + receipts,n,2027-01-31,2027-10-31,2,4,he

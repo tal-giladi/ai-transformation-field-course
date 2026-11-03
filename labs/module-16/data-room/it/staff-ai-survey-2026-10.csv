@@ -1,0 +1,23 @@
+response_id,date,team,how_often_ai,tools,account_type,tasks,pasted_family_information,want_training,biggest_time_drain
+R01,2026-10-26,family services,daily,DeepL,both,summaries,"yes, with details",no,Отчёты для фондов на английском
+R02,2026-10-26,family services,weekly,Gemini (personal Google);Google Translate,personal,letters to families,"yes, with details",yes,Phone tag with welfare offices
+R03,2026-10-26,family services,daily,ChatGPT (free);Gemini (personal Google),personal,translation,"yes, with details",yes,Отчёты для фондов на английском
+R04,2026-10-26,family services,never,,,,no,yes,Phone tag with welfare offices
+R05,2026-10-26,family services,daily,DeepL;Google Translate,both,rewriting notes;summaries,prefer not to say,maybe,The Adler-Haddad narratives. Every quarter.
+R06,2026-10-26,family services,weekly,Gemini (personal Google),personal,translation,prefer not to say,yes,Phone tag with welfare offices
+R07,2026-10-26,family services,a few times,DeepL,personal,rewriting notes;summaries;translation,prefer not to say,yes,The Adler-Haddad narratives. Every quarter.
+R08,2026-10-26,family services,daily,Gemini (personal Google);Google Translate,personal,letters to families;rewriting notes,prefer not to say,yes,Phone tag with welfare offices
+R09,2026-10-26,family services,weekly,DeepL,personal,rewriting notes,"yes, anonymised",yes,Phone tag with welfare offices
+R10,2026-10-26,development and comms,a few times,ChatGPT Plus,work (openhands),emails;proposals;social posts,"yes, anonymised",no,Giving Tuesday
+R11,2026-10-26,development and comms,a few times,Gemini (work Google),both,emails,"yes, anonymised",yes,Finding numbers for reports
+R12,2026-10-26,development and comms,daily,Canva Magic Write;ChatGPT Plus,don't know,funder reports;social posts;summaries,"yes, anonymised",yes,"Reports, reports, reports"
+R13,2026-10-26,development and comms,never,,,,no,no,Giving Tuesday
+R14,2026-10-26,development and comms,never,,,,no,yes,Every funder wants a different template
+R15,2026-10-26,programmes,never,,,,no,yes,Volunteer scheduling
+R16,2026-10-26,programmes,weekly,ChatGPT (free);Google Translate,don't know,letters to families;social posts;translation,no,yes,שיבוץ מתנדבים
+R17,2026-10-26,programmes,a few times,Canva Magic Write;Google Translate,both,social posts,no,yes,WhatsApp groups
+R18,2026-10-26,programmes,weekly,Canva Magic Write,personal,emails;letters to families;translation,no,yes,שיבוץ מתנדבים
+R19,2026-10-26,programmes,weekly,ChatGPT (free);Google Translate,personal,emails;social posts,no,yes,Volunteer scheduling
+R20,2026-10-26,operations and management,a few times,Copilot;Gemini (work Google),personal,emails;summaries,no,yes,Approvals
+R21,2026-10-26,operations and management,a few times,ChatGPT (free);Gemini (work Google),personal,board papers,no,yes,Passwords and access requests
+R22,2026-10-26,operations and management,weekly,ChatGPT (free),personal,board papers;emails;summaries,no,yes,Approvals

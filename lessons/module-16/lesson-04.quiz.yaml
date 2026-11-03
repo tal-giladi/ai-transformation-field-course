@@ -1,0 +1,93 @@
+- id: q1
+  question: >-
+    With 40 hours in total you must cut. Which step do you keep at its full weight?
+  options:
+    - >-
+      The governance charter in six parts, because the board will need it to oversee AI.
+    - >-
+      The afternoon with Yossi in the admin console, changing who can see family files.
+    - >-
+      A full DPIA for each workflow, because the data is about children's health.
+    - >-
+      A scoring workshop with all staff, so the shortlist has broad ownership.
+  correct: 1
+  explanation: >-
+    Documents shrink; contact with the people and the data does not. The access fix is the step that
+    actually protects families; a DPIA shrinks to half a page plus counsel's questions, and a charter
+    or workshop has no reader at 30 people.
+
+- id: q2
+  question: >-
+    The case database holds medical information. After the fix, 9 people can access it instead of 46.
+    Ronit asks whether Open Hands is now at the basic security level. What do you say?
+  options:
+    - >-
+      Yes: the Regulations put any database with ten or fewer authorized users at the basic level.
+    - >-
+      No: any database with medical information is at the medium level whatever its size.
+    - >-
+      It may be, since the First Schedule has a ten-user condition; that reading is a question for counsel.
+    - >-
+      It does not matter, because security levels apply only to databases that must be registered.
+  correct: 2
+  explanation: >-
+    The First Schedule's item 2 puts a medical database with no more than ten authorized users at the
+    basic level, but how the count and the reading apply to Open Hands is counsel's call. Announcing a
+    legal conclusion, or dismissing the rule, both overstep.
+
+- id: q3
+  question: >-
+    Yossi's 2023 note says Gemini is not included for nonprofits. What is the reliable way to check
+    whether it is now?
+  options:
+    - >-
+      Ask Noa, who follows nonprofit-tech newsletters and knows the current offers.
+    - >-
+      Search for a recent blog post comparing nonprofit AI tools and use its table.
+    - >-
+      Ask the AI tool itself whether it is included in the nonprofit plan.
+    - >-
+      Read the vendor's own pages: country eligibility, what the free plan excludes, and the date.
+  correct: 3
+  explanation: >-
+    Offers change yearly and third-party posts disagree. Google's own pages show the Gemini app and
+    NotebookLM are included at no cost, while Gemini in Gmail and Docs is not; you only learn the
+    exclusion by reading the vendor's comparison.
+
+- id: q4
+  question: >-
+    On Tuesday you remove 31 personal accounts from the family drive and tell staff to stop using
+    personal AI accounts. What else must happen that same day?
+  options:
+    - >-
+      A sanctioned alternative: the Gemini app and NotebookLM on their work accounts, with clear rules.
+    - >-
+      A signed statement from every staff member that they have deleted their personal AI chats.
+    - >-
+      A report to the Privacy Protection Authority listing everything that was shared.
+    - >-
+      An audit of every personal account to find out exactly what family data was pasted.
+  correct: 0
+  explanation: >-
+    A stop without an alternative fails within a week because the reports are still due. Whether
+    anything must be reported is a counsel question; demanding statements or auditing personal accounts
+    destroys the trust discovery depended on.
+
+- id: q5
+  question: >-
+    A coordinator asks why de-identified notes may go into the case-note helper but identifiable notes
+    may not, when both would be on Open Hands' own Workspace account. What is the honest answer?
+  options:
+    - >-
+      Workspace is not secure enough for identifiable data, so only anonymous text may go in.
+    - >-
+      The task works on de-identified text, and counsel has not yet answered three open questions.
+    - >-
+      Identifiable data in AI is prohibited by the Privacy Protection Law for nonprofits.
+    - >-
+      The funder's guidance forbids identifiable data in any AI tool used by its grantees.
+  correct: 1
+  explanation: >-
+    The boundary is a precaution with a stated condition: the job can be done on de-identified text,
+    and the security level, the municipal agreement's no-transfer clause and social workers'
+    confidentiality are still open. The other answers state rules that nobody has established.

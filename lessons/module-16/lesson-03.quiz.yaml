@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    The only time log covers the week before a funder deadline: 57.8 hours on that funder's report. A
+    coordinator says the report takes two weeks a quarter. How do you state the annual burden?
+  options:
+    - >-
+      About 3,000 hours a year, multiplying the logged week by 52 weeks of work.
+    - >-
+      About 360 to 460 hours a year, labelled inferred, and a normal week scheduled to check it.
+    - >-
+      Exactly 57.8 hours a week, since the log is the only measured figure you have.
+    - >-
+      Unknown until a full quarter is logged, so the case should not mention the report at all.
+  correct: 1
+  explanation: >-
+    A peak week times 52 is wrong by a factor of six; refusing to estimate leaves the biggest burden out
+    of the case. Two estimates with a label and a range, plus a scheduled normal week, are honest and
+    usable.
+
+- id: q2
+  question: >-
+    The largest funder's template asks for a 150–250-word narrative for each of 120 families every
+    quarter. Noa suggests AI should write the narratives from the coordinators' notes. What do you
+    recommend first?
+  options:
+    - >-
+      Ask the funder, through the director, whether outcomes numbers and a few consented stories would do.
+    - >-
+      Pilot AI narratives on ten families and compare the drafts with what coordinators wrote last quarter.
+    - >-
+      Let coordinators use AI only for the English, keeping their own Hebrew drafts as the source.
+    - >-
+      Split the 120 narratives among more staff so no coordinator spends two weeks a quarter on them.
+  correct: 0
+  explanation: >-
+    The bottleneck is what is asked to be written, not how fast. Changing the format removes most of the
+    work and most of the exposure; writing 120 narratives faster with AI puts more family details into
+    more tools.
+
+- id: q3
+  question: >-
+    The treasurer asks what the engagement will cost. You found ₪4,497 a year of unused or risky
+    subscriptions and expect about 300 coordinator hours a year freed. What goes in the money column?
+  options:
+    - >-
+      The ₪4,497 plus the hours valued at the coordinators' hourly cost, as the total benefit.
+    - >-
+      Nothing, since a pro bono engagement has no costs and the treasurer only asked about cost.
+    - >-
+      The hours valued at cost, because the board understands shekels better than hours.
+    - >-
+      Only the ₪4,497 that stops leaving the bank; the freed hours stay in a separate column.
+  correct: 3
+  explanation: >-
+    Freed hours go back to families; no salary changes, so they are capacity, not cash. Only money that
+    actually stops being spent belongs in the money column, which is also the column the treasurer
+    trusts.
+
+- id: q4
+  question: >-
+    Noa used ChatGPT to segment the donor list and personalise appeals. In your screen, what is the
+    verdict for "donor segmentation and personalised appeals"?
+  options:
+    - >-
+      Go with conditions: an approved paid tool with a data-processing agreement for donor data.
+    - >-
+      Go: it is low risk because donors gave their details voluntarily and gave money.
+    - >-
+      Plain automation, no AI: segment with filters and send with a mail merge.
+    - >-
+      Leave alone: donor work is development's business and outside the engagement.
+  correct: 2
+  explanation: >-
+    Segments by amount and date are filters; personalisation is a mail merge. The task never needed AI,
+    and the data includes ID numbers and notes about donors' children, so the data gate fails for any
+    AI tool.
+
+- id: q5
+  question: >-
+    Ronit has a call with the funder's programme officer. What is your role?
+  options:
+    - >-
+      Lead the call, since you understand the template problem and the outcomes framework best.
+    - >-
+      Prepare a one-page proposal and three questions; Ronit leads and makes the ask.
+    - >-
+      Stay out of it, since the funder relationship is outside a volunteer's scope.
+    - >-
+      Email the programme officer beforehand so she sees the proposal before Ronit calls.
+  correct: 1
+  explanation: >-
+    The relationship and the renewal are Ronit's; your value is a concrete page and the right questions.
+    Leading or emailing yourself goes around the sponsor; staying out wastes the one move that frees the
+    most hours.

@@ -1,0 +1,368 @@
+staff_id,date,start,minutes,activity,note
+S01,2026-10-04,08:00,60,grant_proposal,proposal draft
+S01,2026-10-04,09:00,60,donor_comms,major donor visit prep
+S01,2026-10-04,10:15,60,grant_proposal,proposal budget narrative
+S01,2026-10-04,11:30,15,donor_comms,thank-you letters
+S01,2026-10-04,12:00,30,newsletter,newsletter
+S01,2026-10-04,12:45,120,other,misc
+S01,2026-10-04,14:45,60,grant_proposal,LOI
+S01,2026-10-04,15:45,90,funder_report_adler_haddad,"AH narratives, my families"
+S01,2026-10-04,17:30,60,meetings,partners meeting
+S01,2026-10-04,18:30,30,supervision,1:1 supervision
+S01,2026-10-05,08:30,120,supervision,1:1 supervision
+S01,2026-10-05,10:45,120,admin,email
+S01,2026-10-05,13:00,30,meetings,staff meeting
+S01,2026-10-05,13:30,60,admin,forms
+S01,2026-10-05,14:45,60,meetings,staff meeting
+S01,2026-10-05,15:45,120,board,treasurer call
+S01,2026-10-05,17:45,30,funder_report_adler_haddad,AH: fix narratives Hana sent back
+S01,2026-10-05,18:15,30,newsletter,newsletter story
+S01,2026-10-05,18:45,45,supervision,1:1 supervision
+S01,2026-10-06,08:30,45,donor_comms,donor calls
+S01,2026-10-06,09:30,90,meetings,staff meeting
+S01,2026-10-06,11:00,30,other,misc
+S01,2026-10-06,11:30,30,admin,expenses
+S01,2026-10-06,12:00,30,meetings,staff meeting
+S01,2026-10-06,12:30,60,meetings,staff meeting
+S01,2026-10-06,13:45,60,supervision,1:1 supervision
+S01,2026-10-06,14:45,45,admin,forms
+S01,2026-10-06,15:45,90,donor_comms,thank-you letters
+S01,2026-10-07,08:15,30,supervision,supervision
+S01,2026-10-07,08:45,60,newsletter,newsletter story
+S01,2026-10-07,10:00,90,donor_comms,major donor visit prep
+S01,2026-10-07,11:30,90,meetings,1:1
+S01,2026-10-07,13:00,45,supervision,1:1 supervision
+S01,2026-10-07,13:45,90,admin,forms
+S01,2026-10-07,15:15,30,supervision,supervision
+S01,2026-10-07,15:45,30,funder_report_adler_haddad,AH quarterly - family narratives
+S01,2026-10-07,16:15,45,admin,forms
+S01,2026-10-08,08:00,60,donor_comms,donor calls
+S01,2026-10-08,09:00,90,admin,email
+S01,2026-10-08,10:30,60,meetings,1:1
+S01,2026-10-08,11:30,90,meetings,1:1
+S01,2026-10-08,13:00,30,board,board prep
+S01,2026-10-08,13:45,45,meetings,partners meeting
+S01,2026-10-08,14:30,45,meetings,1:1
+S01,2026-10-08,15:15,30,board,treasurer call
+S01,2026-10-08,16:00,60,meetings,staff meeting
+S02,2026-10-04,08:30,120,grant_proposal,proposal budget narrative
+S02,2026-10-04,10:30,30,grant_proposal,rewrite boilerplate for new template
+S02,2026-10-04,11:00,90,other_funder_report,foundation report
+S02,2026-10-04,12:30,60,funder_report_adler_haddad,AH report - rewrite in English
+S02,2026-10-04,13:45,60,events,Hanukkah party planning
+S02,2026-10-04,14:45,75,donor_comms,major donor visit prep
+S02,2026-10-04,16:00,45,donor_comms,Giving Tuesday plan
+S02,2026-10-04,17:00,30,meetings,partners meeting
+S02,2026-10-04,17:45,45,grant_proposal,rewrite boilerplate for new template
+S02,2026-10-05,08:30,45,grant_proposal,proposal draft
+S02,2026-10-05,09:15,90,events,Hanukkah party planning
+S02,2026-10-05,10:45,30,events,Hanukkah party planning
+S02,2026-10-05,11:15,60,donor_comms,donor calls
+S02,2026-10-05,12:15,90,other_funder_report,Ministry report numbers
+S02,2026-10-05,14:00,45,donor_comms,major donor visit prep
+S02,2026-10-05,14:45,30,grant_proposal,proposal draft
+S02,2026-10-05,15:30,45,grant_proposal,LOI
+S02,2026-10-06,08:00,90,other_funder_report,Ministry report numbers
+S02,2026-10-06,09:30,60,donor_comms,thank-you letters
+S02,2026-10-06,10:30,90,funder_report_adler_haddad,AH narratives
+S02,2026-10-06,12:15,30,admin,expenses
+S02,2026-10-06,13:00,60,funder_report_adler_haddad,AH quarterly - family narratives
+S02,2026-10-06,14:00,60,events,Hanukkah party planning
+S02,2026-10-06,15:00,60,funder_report_adler_haddad,AH narratives
+S02,2026-10-06,16:15,60,donor_comms,Giving Tuesday plan
+S02,2026-10-07,08:30,30,meetings,1:1
+S02,2026-10-07,09:00,30,other_funder_report,foundation report
+S02,2026-10-07,09:45,120,admin,email
+S02,2026-10-07,11:45,60,grant_proposal,rewrite boilerplate for new template
+S02,2026-10-07,13:00,60,grant_proposal,proposal budget narrative
+S02,2026-10-07,14:15,30,other_funder_report,Ministry report numbers
+S02,2026-10-07,15:00,90,donor_comms,donor calls
+S02,2026-10-07,16:30,45,donor_comms,donor calls
+S02,2026-10-08,08:00,60,meetings,partners meeting
+S02,2026-10-08,09:00,60,funder_report_adler_haddad,AH quarterly - family narratives
+S02,2026-10-08,10:15,120,meetings,meeting with municipality
+S02,2026-10-08,12:30,60,grant_proposal,proposal draft
+S02,2026-10-08,13:30,30,grant_proposal,rewrite boilerplate for new template
+S02,2026-10-08,14:15,45,grant_proposal,rewrite boilerplate for new template
+S02,2026-10-08,15:00,120,donor_comms,donor calls
+S02,2026-10-08,17:15,60,other_funder_report,דוח קרן
+S03,2026-10-04,08:30,120,funder_report_adler_haddad,AH: fix narratives Hana sent back
+S03,2026-10-04,10:45,60,grant_proposal,proposal draft
+S03,2026-10-04,12:00,60,other_funder_report,foundation report
+S03,2026-10-04,13:00,15,grant_proposal,proposal draft
+S03,2026-10-04,13:15,30,admin,expenses
+S03,2026-10-04,13:45,90,other_funder_report,Ministry report numbers
+S03,2026-10-05,08:00,15,funder_report_adler_haddad,"AH narratives, my families"
+S03,2026-10-05,08:15,90,other_funder_report,foundation report
+S03,2026-10-05,10:00,60,funder_report_adler_haddad,AH narratives
+S03,2026-10-05,11:00,30,other_funder_report,report - municipal
+S03,2026-10-05,11:30,45,other_funder_report,דוח קרן
+S03,2026-10-06,08:15,30,meetings,meeting with municipality
+S03,2026-10-06,09:00,45,funder_report_adler_haddad,AH quarterly - family narratives
+S03,2026-10-06,09:45,45,admin,forms
+S03,2026-10-06,10:30,30,other_funder_report,report - municipal
+S03,2026-10-06,11:00,30,meetings,staff meeting
+S03,2026-10-07,08:30,60,funder_report_adler_haddad,AH quarterly - family narratives
+S03,2026-10-07,09:30,45,grant_proposal,proposal budget narrative
+S03,2026-10-07,10:15,30,other_funder_report,report - municipal
+S03,2026-10-07,10:45,105,admin,forms
+S03,2026-10-07,12:30,45,other_funder_report,דוח קרן
+S03,2026-10-08,08:30,60,meetings,meeting with municipality
+S03,2026-10-08,09:30,120,grant_proposal,LOI
+S03,2026-10-08,11:45,60,grant_proposal,proposal budget narrative
+S03,2026-10-08,12:45,60,other_funder_report,דוח קרן
+S03,2026-10-08,13:45,120,funder_report_adler_haddad,AH narratives
+S07,2026-10-04,08:15,45,funder_report_adler_haddad,דוח אדלר-חדאד
+S07,2026-10-04,09:00,30,meetings,meeting with municipality
+S07,2026-10-04,09:30,60,meetings,1:1
+S07,2026-10-04,10:30,60,funder_report_adler_haddad,AH report - rewrite in English
+S07,2026-10-04,11:30,45,case_review,case review
+S07,2026-10-04,12:30,90,funder_report_adler_haddad,AH narratives
+S07,2026-10-04,14:15,60,supervision,1:1 supervision
+S07,2026-10-04,15:15,60,supervision,supervision
+S07,2026-10-05,08:00,60,admin,email
+S07,2026-10-05,09:00,120,family_contact,WhatsApp with father re committee
+S07,2026-10-05,11:15,60,admin,email
+S07,2026-10-05,12:30,90,family_contact,call with grandmother
+S07,2026-10-05,14:00,90,admin,expenses
+S07,2026-10-05,15:45,90,family_contact,phone call with mother
+S07,2026-10-05,17:15,75,supervision,supervision
+S07,2026-10-05,18:45,30,meetings,meeting with municipality
+S07,2026-10-06,08:00,90,case_review,case review
+S07,2026-10-06,09:45,60,meetings,partners meeting
+S07,2026-10-06,10:45,60,meetings,staff meeting
+S07,2026-10-06,11:45,15,funder_report_adler_haddad,דוח אדלר-חדאד
+S07,2026-10-06,12:15,30,supervision,supervision
+S07,2026-10-06,13:00,60,meetings,1:1
+S07,2026-10-06,14:00,90,admin,admin
+S07,2026-10-06,15:30,60,meetings,staff meeting
+S07,2026-10-07,08:15,60,meetings,staff meeting
+S07,2026-10-07,09:15,60,supervision,1:1 supervision
+S07,2026-10-07,10:30,60,supervision,supervision
+S07,2026-10-07,11:30,30,funder_report_adler_haddad,AH: fix narratives Hana sent back
+S07,2026-10-07,12:15,90,supervision,1:1 supervision
+S07,2026-10-07,13:45,120,supervision,supervision
+S07,2026-10-07,15:45,60,funder_report_adler_haddad,דוח אדלר-חדאד
+S07,2026-10-07,16:45,60,case_review,review complex cases
+S07,2026-10-08,08:15,45,supervision,1:1 supervision
+S07,2026-10-08,09:00,15,case_review,review complex cases
+S07,2026-10-08,09:15,60,case_review,case review
+S07,2026-10-08,10:15,60,case_review,case review
+S07,2026-10-08,11:15,30,case_review,case review
+S07,2026-10-08,12:00,60,admin,email
+S07,2026-10-08,13:00,60,meetings,staff meeting
+S08,2026-10-04,08:00,90,funder_report_adler_haddad,"AH narratives, my families"
+S08,2026-10-04,09:30,60,family_contact,parent call: benefit appeal
+S08,2026-10-04,10:45,60,case_notes,update case file
+S08,2026-10-04,12:00,120,travel,נסיעה
+S08,2026-10-04,14:00,90,admin,forms
+S08,2026-10-04,15:45,120,family_contact,parent call: benefit appeal
+S08,2026-10-04,18:00,45,other_funder_report,report - municipal
+S08,2026-10-04,18:45,45,funder_report_adler_haddad,דוח אדלר-חדאד
+S08,2026-10-05,08:30,45,family_contact,call back after hotline referral
+S08,2026-10-05,09:15,30,funder_report_adler_haddad,"AH narratives, my families"
+S08,2026-10-05,10:00,105,team_meeting,team meeting
+S08,2026-10-05,11:45,30,family_contact,parent call: benefit appeal
+S08,2026-10-05,12:30,60,family_contact,WhatsApp with father re committee
+S08,2026-10-05,13:30,30,home_visit,home visit + school
+S08,2026-10-05,14:15,60,home_visit,ביקור בית
+S08,2026-10-06,08:30,90,funder_report_adler_haddad,AH narratives
+S08,2026-10-06,10:00,60,home_visit,home visit
+S08,2026-10-06,11:00,60,home_visit,ביקור בית
+S08,2026-10-06,12:00,90,family_contact,phone call with mother
+S08,2026-10-06,13:45,30,case_notes,تسجيل ملاحظات
+S08,2026-10-06,14:15,60,case_notes,רישום
+S08,2026-10-06,15:30,60,home_visit,home visit
+S08,2026-10-07,08:30,105,translation_letters,letter to family in Arabic
+S08,2026-10-07,10:15,30,family_contact,call back after hotline referral
+S08,2026-10-07,11:00,30,travel,drive
+S08,2026-10-07,11:30,45,travel,נסיעה
+S08,2026-10-07,12:15,45,funder_report_adler_haddad,דוח אדלר-חדאד
+S08,2026-10-07,13:00,90,family_contact,phone call with mother
+S08,2026-10-07,14:30,60,case_notes,update case file
+S08,2026-10-08,08:15,30,case_notes,تسجيل ملاحظات
+S08,2026-10-08,09:00,30,funder_report_adler_haddad,AH quarterly - family narratives
+S08,2026-10-08,09:30,90,case_notes,update case file
+S08,2026-10-08,11:00,30,home_visit,home visit
+S08,2026-10-08,11:30,60,family_contact,WhatsApp with father re committee
+S08,2026-10-08,12:45,60,funder_report_adler_haddad,AH: fix narratives Hana sent back
+S08,2026-10-08,14:00,60,funder_report_adler_haddad,"AH narratives, my families"
+S09,2026-10-04,08:15,45,family_contact,WhatsApp with father re committee
+S09,2026-10-04,09:00,45,other_funder_report,foundation report
+S09,2026-10-04,09:45,45,family_contact,call with grandmother
+S09,2026-10-04,10:30,30,family_contact,call back after hotline referral
+S09,2026-10-04,11:15,15,admin,email
+S09,2026-10-04,11:30,60,team_meeting,team meeting
+S09,2026-10-04,12:30,60,family_contact,مكالمة مع الأم
+S09,2026-10-04,13:30,120,travel,bus to visit
+S09,2026-10-05,08:30,45,funder_report_adler_haddad,AH: fix narratives Hana sent back
+S09,2026-10-05,09:15,60,family_contact,call back after hotline referral
+S09,2026-10-05,10:15,60,family_contact,phone call with mother
+S09,2026-10-05,11:15,15,translation_letters,translate committee letter
+S09,2026-10-05,11:30,120,funder_report_adler_haddad,AH narratives
+S09,2026-10-05,13:30,60,home_visit,home visit + school
+S09,2026-10-05,14:45,75,team_meeting,ישיבת צוות
+S09,2026-10-05,16:00,90,travel,drive
+S09,2026-10-06,08:00,45,funder_report_adler_haddad,AH narratives
+S09,2026-10-06,08:45,90,case_notes,notes (evening)
+S09,2026-10-06,10:15,30,family_contact,call with grandmother
+S09,2026-10-06,10:45,30,funder_report_adler_haddad,AH report - rewrite in English
+S09,2026-10-06,11:30,45,home_visit,home visit
+S09,2026-10-06,12:15,30,family_contact,phone call with mother
+S09,2026-10-06,12:45,45,home_visit,"visit, Kiryat Ata"
+S09,2026-10-07,08:15,90,family_contact,call back after hotline referral
+S09,2026-10-07,09:45,30,admin,email
+S09,2026-10-07,10:30,45,admin,forms
+S09,2026-10-07,11:30,60,home_visit,home visit
+S09,2026-10-07,12:30,30,case_notes,update case file
+S09,2026-10-07,13:15,60,home_visit,"visit, Shefa-'Amr"
+S09,2026-10-07,14:30,75,funder_report_adler_haddad,AH quarterly - family narratives
+S09,2026-10-08,08:30,45,case_notes,notes (evening)
+S09,2026-10-08,09:15,60,case_notes,רישום
+S09,2026-10-08,10:15,60,home_visit,"visit, Kiryat Ata"
+S09,2026-10-08,11:15,60,funder_report_adler_haddad,דוח אדלר-חדאד
+S09,2026-10-08,12:15,30,home_visit,"visit, Kiryat Ata"
+S09,2026-10-08,13:00,30,case_notes,تسجيل ملاحظات
+S09,2026-10-08,13:30,90,family_contact,call back after hotline referral
+S10,2026-10-04,08:15,30,funder_report_adler_haddad,AH: fix narratives Hana sent back
+S10,2026-10-04,09:00,30,funder_report_adler_haddad,AH report - rewrite in English
+S10,2026-10-04,09:30,60,translation_letters,letter to family in Arabic
+S10,2026-10-04,10:45,45,family_contact,call back after hotline referral
+S10,2026-10-04,11:45,60,family_contact,مكالمة مع الأم
+S10,2026-10-04,12:45,30,funder_report_adler_haddad,"AH narratives, my families"
+S10,2026-10-04,13:30,30,team_meeting,case conference
+S10,2026-10-04,14:15,45,home_visit,ביקור בית
+S10,2026-10-04,15:00,60,funder_report_adler_haddad,דוח אדלר-חדאד
+S10,2026-10-05,08:15,60,family_contact,call with grandmother
+S10,2026-10-05,09:15,30,family_contact,parent call: benefit appeal
+S10,2026-10-05,09:45,45,admin,email
+S10,2026-10-05,10:30,30,family_contact,call with grandmother
+S10,2026-10-05,11:00,60,funder_report_adler_haddad,AH report - rewrite in English
+S10,2026-10-05,12:00,45,case_notes,update case file
+S10,2026-10-05,13:00,45,funder_report_adler_haddad,AH quarterly - family narratives
+S10,2026-10-05,13:45,45,funder_report_adler_haddad,AH quarterly - family narratives
+S10,2026-10-05,14:30,45,case_notes,تسجيل ملاحظات
+S10,2026-10-06,08:30,120,home_visit,"visit, Kiryat Ata"
+S10,2026-10-06,10:30,60,team_meeting,case conference
+S10,2026-10-06,11:45,90,case_notes,update case file
+S10,2026-10-06,13:30,30,funder_report_adler_haddad,דוח אדלר-חדאד
+S10,2026-10-06,14:15,45,home_visit,"visit, Kiryat Ata"
+S10,2026-10-06,15:00,45,family_contact,שיחה עם אמא
+S10,2026-10-06,16:00,60,family_contact,שיחה עם אמא
+S10,2026-10-06,17:15,30,family_contact,WhatsApp with father re committee
+S10,2026-10-06,17:45,60,family_contact,phone call with mother
+S10,2026-10-07,08:00,90,travel,drive
+S10,2026-10-07,09:30,45,home_visit,home visit + school
+S10,2026-10-07,10:30,45,travel,bus to visit
+S10,2026-10-07,11:15,30,case_notes,تسجيل ملاحظات
+S10,2026-10-07,11:45,45,case_notes,notes (evening)
+S10,2026-10-07,12:30,60,home_visit,"visit, Kiryat Ata"
+S10,2026-10-07,13:30,30,case_notes,notes (evening)
+S10,2026-10-07,14:15,60,family_contact,call with grandmother
+S10,2026-10-08,08:00,45,funder_report_adler_haddad,דוח אדלר-חדאד
+S10,2026-10-08,09:00,30,translation_letters,letter to family in Arabic
+S10,2026-10-08,09:30,90,family_contact,parent call: benefit appeal
+S10,2026-10-08,11:15,30,other_funder_report,Ministry report numbers
+S10,2026-10-08,12:00,45,family_contact,مكالمة مع الأم
+S10,2026-10-08,12:45,30,admin,expenses
+S10,2026-10-08,13:30,60,travel,drive
+S10,2026-10-08,14:30,45,team_meeting,team meeting
+S11,2026-10-04,08:15,60,family_contact,call with grandmother
+S11,2026-10-04,09:30,45,family_contact,phone call with mother
+S11,2026-10-04,10:30,60,case_notes,רישום
+S11,2026-10-04,11:30,90,travel,bus to visit
+S11,2026-10-04,13:00,45,family_contact,שיחה עם אמא
+S11,2026-10-04,13:45,15,case_notes,notes from visits
+S11,2026-10-04,14:00,30,other_funder_report,foundation report
+S11,2026-10-05,08:30,30,funder_report_adler_haddad,AH: fix narratives Hana sent back
+S11,2026-10-05,09:00,30,family_contact,WhatsApp with father re committee
+S11,2026-10-05,09:30,60,case_notes,רישום
+S11,2026-10-05,10:30,60,family_contact,parent call: benefit appeal
+S11,2026-10-05,11:45,15,funder_report_adler_haddad,דוח אדלר-חדאד
+S11,2026-10-05,12:00,60,home_visit,home visit + school
+S11,2026-10-06,08:15,30,travel,נסיעה
+S11,2026-10-06,08:45,15,translation_letters,letter in Russian
+S11,2026-10-06,09:00,30,funder_report_adler_haddad,AH report - rewrite in English
+S11,2026-10-06,09:45,120,home_visit,home visit
+S11,2026-10-06,12:00,60,family_contact,call back after hotline referral
+S11,2026-10-06,13:00,75,admin,forms
+S11,2026-10-07,08:30,60,family_contact,phone call with mother
+S11,2026-10-07,09:45,60,funder_report_adler_haddad,"AH narratives, my families"
+S11,2026-10-07,10:45,60,funder_report_adler_haddad,AH quarterly - family narratives
+S11,2026-10-07,11:45,90,team_meeting,team meeting
+S11,2026-10-07,13:30,30,funder_report_adler_haddad,AH quarterly - family narratives
+S11,2026-10-07,14:15,120,case_notes,update case file
+S11,2026-10-08,08:00,30,funder_report_adler_haddad,AH report - rewrite in English
+S11,2026-10-08,08:30,60,translation_letters,Amharic letter to parents
+S11,2026-10-08,09:45,90,home_visit,home visit
+S11,2026-10-08,11:30,30,funder_report_adler_haddad,AH quarterly - family narratives
+S11,2026-10-08,12:00,30,funder_report_adler_haddad,AH: fix narratives Hana sent back
+S11,2026-10-08,12:45,60,family_contact,call with grandmother
+S12,2026-10-04,08:30,90,travel,נסיעה
+S12,2026-10-04,10:15,45,other_funder_report,Ministry report numbers
+S12,2026-10-04,11:00,45,home_visit,home visit + school
+S12,2026-10-04,11:45,120,family_contact,parent call: benefit appeal
+S12,2026-10-04,14:00,15,translation_letters,Amharic letter to parents
+S12,2026-10-04,14:15,120,funder_report_adler_haddad,דוח אדלר-חדאד
+S12,2026-10-05,08:00,90,travel,drive
+S12,2026-10-05,09:45,90,funder_report_adler_haddad,דוח אדלר-חדאד
+S12,2026-10-05,11:30,60,admin,forms
+S12,2026-10-05,12:45,60,family_contact,parent call: benefit appeal
+S12,2026-10-05,13:45,30,home_visit,"visit, Kiryat Ata"
+S12,2026-10-05,14:15,120,home_visit,ביקור בית
+S12,2026-10-06,08:00,90,case_notes,update case file
+S12,2026-10-06,09:30,30,family_contact,phone call with mother
+S12,2026-10-06,10:00,120,case_notes,تسجيل ملاحظات
+S12,2026-10-06,12:00,60,team_meeting,case conference
+S12,2026-10-06,13:00,30,case_notes,update case file
+S12,2026-10-06,13:45,90,family_contact,שיחה עם אמא
+S12,2026-10-07,08:00,45,case_notes,notes (evening)
+S12,2026-10-07,09:00,45,team_meeting,case conference
+S12,2026-10-07,09:45,15,family_contact,مكالمة مع الأم
+S12,2026-10-07,10:00,45,family_contact,WhatsApp with father re committee
+S12,2026-10-07,10:45,45,funder_report_adler_haddad,AH narratives
+S12,2026-10-07,11:30,15,funder_report_adler_haddad,AH report - rewrite in English
+S12,2026-10-08,08:00,90,family_contact,WhatsApp with father re committee
+S12,2026-10-08,09:45,105,home_visit,ביקור בית
+S12,2026-10-08,11:30,45,funder_report_adler_haddad,AH quarterly - family narratives
+S12,2026-10-08,12:30,120,family_contact,call with grandmother
+S12,2026-10-08,14:30,30,admin,admin
+S12,2026-10-08,15:00,45,funder_report_adler_haddad,AH report - rewrite in English
+S13,2026-10-04,08:30,120,funder_report_adler_haddad,דוח אדלר-חדאד
+S13,2026-10-04,10:45,60,funder_report_adler_haddad,AH narratives
+S13,2026-10-04,11:45,45,home_visit,"visit, Kiryat Ata"
+S13,2026-10-04,12:30,120,family_contact,call with grandmother
+S13,2026-10-04,14:30,60,home_visit,home visit
+S13,2026-10-04,15:30,45,home_visit,ביקור בית
+S13,2026-10-04,16:15,60,admin,admin
+S13,2026-10-04,17:15,15,family_contact,مكالمة مع الأم
+S13,2026-10-05,08:00,60,family_contact,שיחה עם אמא
+S13,2026-10-05,09:15,60,family_contact,call back after hotline referral
+S13,2026-10-05,10:30,30,case_notes,notes (evening)
+S13,2026-10-05,11:00,60,case_notes,notes from visits
+S13,2026-10-05,12:00,45,funder_report_adler_haddad,דוח אדלר-חדאד
+S13,2026-10-05,12:45,30,funder_report_adler_haddad,"AH narratives, my families"
+S13,2026-10-05,13:30,60,funder_report_adler_haddad,דוח אדלר-חדאד
+S13,2026-10-05,14:30,45,admin,expenses
+S13,2026-10-06,08:30,90,home_visit,"visit, Kiryat Ata"
+S13,2026-10-06,10:15,30,family_contact,phone call with mother
+S13,2026-10-06,11:00,60,home_visit,"visit, Shefa-'Amr"
+S13,2026-10-06,12:00,30,home_visit,"visit, Shefa-'Amr"
+S13,2026-10-06,12:30,30,home_visit,home visit + school
+S13,2026-10-06,13:00,120,travel,drive
+S13,2026-10-06,15:00,15,travel,drive
+S13,2026-10-06,15:15,45,case_notes,רישום
+S13,2026-10-07,08:00,60,family_contact,parent call: benefit appeal
+S13,2026-10-07,09:15,120,case_notes,notes from visits
+S13,2026-10-07,11:30,45,other_funder_report,foundation report
+S13,2026-10-07,12:15,30,team_meeting,case conference
+S13,2026-10-07,12:45,45,funder_report_adler_haddad,AH report - rewrite in English
+S13,2026-10-07,13:30,30,funder_report_adler_haddad,דוח אדלר-חדאד
+S13,2026-10-07,14:00,60,family_contact,WhatsApp with father re committee
+S13,2026-10-08,08:30,60,home_visit,"visit, Shefa-'Amr"
+S13,2026-10-08,09:30,60,team_meeting,team meeting
+S13,2026-10-08,10:30,45,case_notes,تسجيل ملاحظات
+S13,2026-10-08,11:15,90,family_contact,WhatsApp with father re committee
+S13,2026-10-08,12:45,30,team_meeting,team meeting
+S13,2026-10-08,13:15,60,travel,נסיעה
+S13,2026-10-08,14:15,90,translation_letters,translate committee letter

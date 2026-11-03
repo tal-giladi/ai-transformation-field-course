@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    The board chair expects a demo of "what AI can do for us". You have 20 minutes. What opens your
+    pre-read?
+  options:
+    - >-
+      A short demo of the grant drafter producing a proposal section live, to build enthusiasm.
+    - >-
+      The four weeks' findings in order, so the board understands the evidence before any request.
+    - >-
+      The one decision asked, in words that can be minuted, followed by what was found and done.
+    - >-
+      A comparison of the paid AI tools available to nonprofits, so the board can choose one.
+  correct: 2
+  explanation: >-
+    A volunteer board reading on a phone needs the decision first. A demo answers "can it?", not "may
+    we, how, and who keeps it true?"; a chronological story buries the ask; a tool comparison invites the
+    purchase you are recommending against.
+
+- id: q2
+  question: >-
+    The hardest finding is that the executive director herself published a family's story without
+    consent, drafted with her personal AI account. How do you handle it for the board meeting?
+  options:
+    - >-
+      Tell her privately first, starting from the mother's request, and offer her a sentence to say herself.
+    - >-
+      Leave it out of the board item, since it concerns the sponsor and the family has been told.
+    - >-
+      Include it in the findings without naming anyone, and let the board ask who wrote the story.
+    - >-
+      Raise it with the board chair before the meeting so the board can decide how to treat it.
+  correct: 0
+  explanation: >-
+    The finding cannot be dropped, and she must not meet it first in front of her board. Delivered
+    privately, beginning with what the mother asked for, it becomes her own sentence; going to the chair
+    behind the sponsor's back breaks the engagement.
+
+- id: q3
+  question: >-
+    The handover says "IT will monitor access and AI use". What is wrong with it at Open Hands?
+  options:
+    - >-
+      Monitoring AI use is a privacy risk for staff and should be removed from the handover entirely.
+    - >-
+      It should say the volunteer consultant will return quarterly to check, since nobody else can.
+    - >-
+      Monitoring belongs to the board, not IT, because the board adopted the rules.
+    - >-
+      IT is one person on Tuesdays; it needs his name, a day, 15 minutes and the questions he asks.
+  correct: 3
+  explanation: >-
+    An operating rhythm that names a department that does not exist will not run. Five concrete checks
+    on the first Tuesday, by Yossi, in 15 minutes, survive the consultant's departure; a promise of
+    return visits does not.
+
+- id: q4
+  question: >-
+    Six months later nothing bad has happened at Open Hands. In one future the board adopted a long
+    policy and changed nothing else; in another, access was fixed and work accounts were used. What
+    would you measure to tell them apart?
+  options:
+    - >-
+      Whether staff signed the AI policy, since a signed policy is evidence it was read.
+    - >-
+      Personal accounts on the family drive, links open to anyone, and what staff say they use when asked.
+    - >-
+      The number of incidents reported to the Privacy Protection Authority in the six months.
+    - >-
+      How many AI tools the organization pays for, since spending shows the policy is in use.
+  correct: 1
+  explanation: >-
+    "Nothing bad happened" is true of both futures; the exposure is not. The sharing report and a few
+    honest conversations show whether the controls exist. Signatures, incident counts and spending
+    cannot tell a quiet risk from a managed one.
+
+- id: q5
+  question: >-
+    The chair says the recommendation is "too cautious" and asks for two paid AI seats now. What do you
+    answer?
+  options:
+    - >-
+      Agree, since ₪602 a year is small and the chair's support matters for adoption.
+    - >-
+      Refuse, since paid tools are outside what a pro bono engagement may recommend.
+    - >-
+      Point to the March decision, which will rest on three months of use and is paid from the savings.
+    - >-
+      Ask the treasurer to decide on the spot, since any recurring charge is his decision.
+  correct: 2
+  explanation: >-
+    The recommend-against is about timing and evidence, not about never buying. A dated decision in
+    March, with Noa's use data and funded by the cancelled subscriptions, gives the chair his ambition
+    without buying before anyone knows whether the free tools are enough.

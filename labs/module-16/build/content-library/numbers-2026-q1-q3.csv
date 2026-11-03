@@ -1,0 +1,19 @@
+indicator,programme,q1_2026,q2_2026,q3_2026,source,owner,notes
+active_families,all,412,425,431,case register at quarter end,Hana Golan,438 on 12 Nov 2026
+new_families,all,31,29,27,case register intake dates,Sveta Ivanova,
+families_arabic_speaking,all,128,133,136,case register home_language,Hana Golan,
+families_russian_speaking,all,58,60,61,case register home_language,Hana Golan,
+families_amharic_speaking,all,25,26,27,case register home_language,Hana Golan,
+rights_obtained,coordination,96,104,118,coordinators' case review sheets,Hana Golan,"benefit approved or raised, appeal won, aide, transport, adaptation grant"
+appeals_won,coordination,14,17,21,coordinators' case review sheets,Eli Dahan,
+hotline_calls,rights hotline,402,388,455,hotline log,Fatma Zoabi,
+respite_weekends,respite,6,7,8,respite schedule,Amir Saleh,
+respite_children,respite,74,86,97,respite schedule,Amir Saleh,children placed (a child may attend more than once)
+parent_rest_score_avg,respite,4.3,4.4,4.5,post-weekend form (1-5),Amir Saleh,"n = 58, 66, 71 forms"
+parent_groups_sessions,parent groups,34,36,29,attendance sheets,Nurit Sasson,Sukkot break in Q3
+parent_groups_participants,parent groups,88,92,85,attendance sheets,Nurit Sasson,
+siblings_participants,siblings,41,44,46,attendance sheets,Hadas Mor,
+families_under_adler_haddad_grant,coordination,112,118,120,case register,Hana Golan,children under 13
+rights_obtained_adler_haddad,coordination,31,35,40,coordinators' case review sheets,Hana Golan,subset of rights_obtained
+parents_in_work_at_intake_pct,coordination,,,,not yet measured,Hana Golan,framework indicator not collected in 2026
+isolation_score,parent groups,,,,not yet measured,Nurit Sasson,annual survey planned for 2027

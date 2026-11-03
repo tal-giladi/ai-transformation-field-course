@@ -29,6 +29,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Attribution rule** — The promise, made at the start of an interview and kept, about how what the person says will be reported (for example "the support team said", never their name) (lesson 02.2).
 - **Authority gap** — IBM's name for the distance between what an agent can do and what anyone authorised it to do (lesson 14.1).
 - **Authority ladder** — The four rungs an agent's action can sit on: not granted, recommend with one approver, recommend with two approvers, executes alone within limits (lesson 14.4).
+- **Authorized users (Data Security Regulations)** — The people a database controller permits to access a database; under Israel's Privacy Protection (Data Security) Regulations their number can change a database's security level, a reading to confirm with counsel (lesson 16.4).
 - **Automate / assist / augment / leave alone** — The four modes of change, decided by who does the work afterwards: no person per item, a person deciding each item, a person gaining a new capability, or no change (lesson 03.1).
 - **Back-coding** — Classifying old free-text records into categories after the fact, by rules or an LLM; it recovers what was written (a component), never what was not (the failure mode) (lesson 13.5).
 - **Billed resolution** — The unit a per-outcome AI vendor charges for, defined in its contract; compare prices only after reading what each vendor counts (lesson 08.4).
@@ -52,9 +53,11 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Claims register** — The table that records, for every number in narrative documents, who said it, where, when, and whether it is verified, contradicted, a claim to test or unverifiable (lesson 01.5).
 - **Classify by impact** — Deciding which governance a system needs from what it does to people (holds a payment, refers to investigation) rather than from whether it is technically AI (lesson 09.4).
 - **Cohen's kappa** — Agreement between two labellers corrected for the agreement they would reach by chance from their category mix (lesson 05.2).
+- **Compression (of an engagement)** — Running the whole method in a fraction of the usual time by shrinking documents to tables and single pages while keeping every step that touches people, access and the data boundary at full weight (lesson 16.4).
 - **Concede with a condition** — Naming a weak point yourself in a meeting and tying it to a gate or condition, so the gap becomes the reason for the control (lesson 07.4).
 - **Confident wrong value** — An extracted value that is wrong but carries a high confidence score, so the reviewer is not prompted to check it; worse than a blank (lesson 09.5).
 - **Containment** — A chatbot vendor's share of conversations that ended without a hand-over to a person; not the same as resolution until tested against what customers did next (lesson 08.2).
+- **Content library** — The short, approved set of sources a drafting assistant may use — and nothing else — so that every number and story it writes can be traced (lesson 16.5).
 - **Content owner** — The named person in a division who answers for a page or knowledge document being correct, dated and updated within a set time after a rule changes (lesson 11.3).
 - **Control status** — Whether a control is effective (runs and catches the failure, with evidence), designed, on paper only, or missing; it decides how far the residual rating may fall (lesson 04.5).
 - **Correction to the record** — A dated statement at the top of a committee paper that something management told the committee earlier is no longer true, with the date it stopped being true (lesson 09.4).
@@ -69,6 +72,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Data profile** — A one-page check of whether a dataset can carry a named AI use: completeness, label, duplicates, currency, representativeness, joinability, chain of custody and a verdict (lesson 02.5).
 - **Data-readiness audit** — A repeatable profile of the records an AI use needs, with fixed definitions and a verdict per dataset and use, re-run monthly as the foundation's progress measure (lesson 13.5).
 - **Data-room first read** — The day-one record of every file's provenance, what is missing, and each narrative number's status (lesson 01.5).
+- **De-identify first** — The workflow rule that a person removes names, places and other identifiers before any text reaches an AI tool, with automatic checks only as a backup (lesson 16.5).
 - **Decision block** — The three lines at the top of every steering document: the decision it supports, who can stop the work, and what a "no" means (lesson 07.1).
 - **Decision point** — A dated decision by a named person, placed in a plan where the evidence for it will exist, instead of a solution chosen in advance (lesson 01.4).
 - **Decision record** — A short, signed record of one gate or committee decision: options, evidence with labels, money released and held, next-gate conditions, who can stop it, and dissent (lesson 07.2).
@@ -134,6 +138,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Measurement conditions** — The sample, definition of success, volume and task mix, oversight and time window under which a figure was measured (lesson 04.8).
 - **Mechanism sentence** — A risk written as "Because [condition], [who] may suffer [harm] through [path]", so a control can be attached to the path (lesson 04.5).
 - **Monitoring notice** — The written notice, given before collection, of what is recorded about employees, why, who sees it, what it is never used for and how long it is kept (lesson 06.5).
+- **Monthly check** — The smallest operating rhythm: a named person, a fixed day and about 15 minutes of concrete questions that keep access, subscriptions and tool versions true after the consultant leaves (lesson 16.6).
 - **Must-do test** — A test of a routine action the agent should complete, used beside must-refuse tests to catch an agent that over-blocks (lesson 14.5).
 - **Must-have term** — A contract term set before vendors answer whose refusal excludes the vendor whatever its price or score; a gate, not a weight (lesson 10.4).
 - **Must-refuse test** — A negative test that asks an agent to take an action it must refuse or hand off, written so that exactly one control in the permission map stops it (lesson 14.5).
@@ -195,6 +200,7 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Run-to-run variation** — Different outputs from a generative tool for the same input, which is why a proof of concept runs each item more than once and a pilot audits real outputs (lesson 10.4).
 - **Safety route** — An assistant behaviour that stops, keeps the situation safe and sends the person to a named role or procedure instead of answering; scored as its own 100% gate (lesson 13.5).
 - **Same-word test** — Asking each role what has happened when a shared word such as "resolved" or "ready" is true and what it excludes, then recording the competing readings and the one the work will use (lesson 02.2).
+- **Sanctioned alternative** — The approved tool on the organization's own accounts, given to staff on the same day an unsafe practice is stopped, so the stop holds (lesson 16.4).
 - **Scope boundary** — The written list of what a phase includes, excludes and only reads, each line with a reason, acknowledged by the people who can change it (lesson 01.3).
 - **Scope test** — One sentence, derived from the objective, that every inclusion and exclusion in the scope boundary must answer to (lesson 01.3).
 - **Scrutiny rule** — The written, dated list of candidate classes that always get full scrutiny, agreed with the sponsor before screening (lesson 03.3).
@@ -226,11 +232,13 @@ The terms this course uses in a specific sense, each with the lesson where it is
 - **Tier rule** — The High / Medium / Low classification of AI uses written as conditions anyone can check from the inventory, combining consequence (who can be harmed) and authority (whether a person stands between output and world) (lesson 04.4).
 - **Tiered control** — Sorting AI uses by what they touch into "go ahead", "go ahead within the listed use" and "ask first", so low-risk use needs no approval and review effort goes where the risk is (lesson 04.2).
 - **Time study** — A planned measurement of handling time per task (start and end of each item, minimum items per task and language), reported as medians, never per person (lesson 02.4).
+- **Trap (test item)** — A test input the assistant must never process, such as an identifiable note pasted by mistake, run several times because a stop that works only sometimes is not a control (lesson 16.5).
 - **Triangulation** — Stating a quantity that no field records as a range from several independent signals, each with the reason it is high or low (lesson 02.4).
 - **Trigger vs cadence** — A trigger makes a named person act when a threshold is crossed; a cadence is when people look; a service needs both, written separately (lesson 07.6).
 - **Two-reader check** — Giving the front page to a finance reader and a sponsor for one minute each and fixing whatever they cannot find (lesson 03.9).
 - **Two-sentence test** — For each stakeholder, one sentence on what they need to call the program a win and one on what they risk; if you cannot write both from evidence, you write "to learn" (lesson 02.1).
 - **Unsure-marking** — A scribe's flag on a passage it is not confident about, which the clinician must confirm before signing (lesson 10.4).
+- **Urgent-finding rule** — A charter line, written before any data is opened, saying who hears about an exposure of personal information, how and when — usually the same day, by phone, not in a report (lesson 16.1).
 - **Usable label** — A breakdown record that names its failure mode and can be tied to the stop it caused; the count that decides whether prediction is possible (lesson 13.5).
 - **Usable reason** — A refusal that names the condition not met, the document that would meet it and the route to object, in the applicant's language (lesson 11.2).
 - **Verified / reported / contradicted** — The three evidence statuses in a readiness assessment: checked against data you hold or seen yourself, said but not checked, or contradicted by data you hold (lesson 02.6).

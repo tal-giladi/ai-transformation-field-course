@@ -1,0 +1,94 @@
+- id: q1
+  question: >-
+    Ronit's survey says three staff pasted family information "with details" and four "prefer not to
+    say". You want to know how the funder narratives are really written. What do you ask a coordinator?
+  options:
+    - >-
+      Whether she is one of the three who pasted family details, since honesty helps the whole team.
+    - >-
+      Which AI tools she uses and how often, so you can compare her answer with the survey.
+    - >-
+      After agreeing non-attribution, to walk you through how she wrote her last quarterly narratives.
+    - >-
+      Whether she knows the privacy policy, so she understands the risk before you ask about tools.
+  correct: 2
+  explanation: >-
+    Asking for the work, under non-attribution, gets the tool, the account and what went in without
+    making her a suspect. Direct questions about tools repeat the survey; quizzing her on policy first
+    tells her not to say anything.
+
+- id: q2
+  question: >-
+    The sharing export shows 46 accounts on the Families drive. What makes the count useful to Yossi
+    rather than just alarming?
+  options:
+    - >-
+      Splitting it by principal type and comparing it with the nine roles that actually need case files.
+    - >-
+      Ranking the 46 accounts by how recently they last opened a file, from the admin activity log.
+    - >-
+      Reporting it to the board as a percentage of staff, so the scale of the problem is clear.
+    - >-
+      Asking each account holder to confirm in writing that they still need access by Friday.
+  correct: 0
+  explanation: >-
+    "46 accounts, 9 roles need it, 31 are personal accounts and 23 of those are inactive volunteers" is
+    a list of actions. Activity logs and written confirmations take time nobody has, and a percentage for
+    the board says nothing about what to change.
+
+- id: q3
+  question: >-
+    You are meeting a mother whose son's story appeared in the newsletter without her consent. How do you
+    open?
+  options:
+    - >-
+      By explaining the consent forms and asking which version she signed, so the facts are clear.
+    - >-
+      By saying who you are and are not, that her support will not change, and asking about her son.
+    - >-
+      By apologising on behalf of Open Hands for the newsletter, so she feels heard from the start.
+    - >-
+      By asking whether she would agree to AI tools being used for her family's paperwork.
+  correct: 1
+  explanation: >-
+    She is doing the organization a favour and is afraid complaining will cost her family. An honest
+    introduction and her own story come first. You cannot apologise on Open Hands' behalf; that is
+    Ronit's, and she asked for it from someone senior.
+
+- id: q4
+  question: >-
+    On Tuesday you see that the respite care sheets are open to anyone with the link. Which note do you
+    send Ronit?
+  options:
+    - >-
+      A paragraph in the findings memo on Thursday, with the full access table attached.
+    - >-
+      An email to Ronit and Yossi saying the folder has been closed through your guest account.
+    - >-
+      A message to the respite WhatsApp groups asking volunteers to delete the pinned link.
+    - >-
+      A call, then three lines: what is exposed, since when, and what you propose with whom and when.
+  correct: 3
+  explanation: >-
+    The urgent-finding rule says the same day, and the decision is hers. Writing it into Thursday's memo
+    delays it; changing settings yourself is outside your authority; messaging volunteers directly
+    spreads the problem and goes around the organization.
+
+- id: q5
+  question: >-
+    Why does it matter whether a coordinator uses Gemini on her personal Google account or on her Open
+    Hands Workspace account?
+  options:
+    - >-
+      The Workspace version uses a more accurate model, so the narratives contain fewer mistakes.
+    - >-
+      Only the Workspace version can write in Arabic, which the families need for their letters.
+    - >-
+      Personal-account chats may train models and be seen by reviewers; Workspace terms differ.
+    - >-
+      Personal accounts are against Google's terms of service for any work-related use at all.
+  correct: 2
+  explanation: >-
+    Google's own pages say personal-account activity may be used for improvement, including training,
+    with some chats reviewed by people and kept for up to three years, while Workspace data is not used
+    for training without permission. The account decides the exposure, not the tool.

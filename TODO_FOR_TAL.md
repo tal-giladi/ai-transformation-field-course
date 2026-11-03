@@ -20,3 +20,4 @@ Open (no rush):
 - Module 5's LLM eval results are a labelled illustrative example because no API key was available while writing. If you want real numbers, set an API key and I'll run the pilot scripts once (a few dollars).
 - Engagement 9 (Meridian Mutual, insurer): the core finding is a fraud score that discriminates by proxy against Arabic-speaking claimants, and one 'future' mentions a fictional class action. It is the course's fairness case; skim 09.4–09.6 if you want to review the tone.
 - The Hebrew, Arabic, Russian and Amharic texts in the data rooms (emails, WhatsApp, corpus documents) were written by Claude; a native speaker should skim them before publishing.
+- Engagement 16 (Open Hands) is about families of disabled children: skim the parent persona and the 16.6 debrief for tone.
