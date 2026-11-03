@@ -10,7 +10,7 @@ Decisions (all made 2026-11-02):
 4. Done: Python track wherever it helps.
 5. Done: ten organizations kept as planned (Tal left it to Claude, 2026-11-02).
 
-**Ready to import (2026-11-03):** 18 modules, 118 lessons, 753 quiz questions, 13 simulations; the Academy dry run reports 0 problems. Pushed to https://github.com/tal-giladi/ai-transformation-field-course (public, `main`); register and import in the Academy.
+**Ready to import (2026-11-03):** 18 modules, 118 lessons, 753 quiz questions, 13 simulations; the Academy dry run reports 0 problems. Pushed to https://github.com/tal-giladi/ai-transformation-field-course (public, `main`); site: https://tal-giladi.github.io/ai-transformation-field-course/ ; register and import in the Academy.
 
 Open (no rush):
 
